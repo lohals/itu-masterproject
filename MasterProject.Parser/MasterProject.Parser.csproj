@@ -44,7 +44,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="AendringDefintionParser.cs" />
+    <Compile Include="IParserErrorResult.cs" />
+    <Compile Include="ParserErrorResult.cs" />
+    <Compile Include="ParseResult.cs" />
+    <Compile Include="ParserException.cs" />
+    <Compile Include="ParserParserErrorListener.cs" />
+    <Compile Include="ParserVisitors\AendringDefinitionVisitor.cs" />
+    <Compile Include="ParserVisitors\ElementChainVisitor.cs" />
+    <Compile Include="ParserVisitors\ElementVisitor.cs" />
+    <Compile Include="ParserVisitors\ElementWithIntegerNummerVisitorHelper.cs" />
+    <Compile Include="ParserVisitors\SubElementTargetVisitor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -52,9 +62,16 @@
       <Project>{1eb77b1e-b36f-429b-a364-07d8990df4df}</Project>
       <Name>MasterProject.Grammar</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MasterProject.Model\MasterProject.Model.csproj">
+      <Project>{5cae0db0-1506-411e-acff-6617aa291b99}</Project>
+      <Name>MasterProject.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AendringsDefinition\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

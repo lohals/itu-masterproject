@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterProject.Grammar", "Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterProject.Parser", "MasterProject.Parser\MasterProject.Parser.csproj", "{7B181A5A-1696-4BAE-89EA-C46B35BE192C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterProject.Model", "MasterProject.Model\MasterProject.Model.csproj", "{5CAE0DB0-1506-411E-ACFF-6617AA291B99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7B181A5A-1696-4BAE-89EA-C46B35BE192C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B181A5A-1696-4BAE-89EA-C46B35BE192C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B181A5A-1696-4BAE-89EA-C46B35BE192C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CAE0DB0-1506-411E-ACFF-6617AA291B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAE0DB0-1506-411E-ACFF-6617AA291B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAE0DB0-1506-411E-ACFF-6617AA291B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAE0DB0-1506-411E-ACFF-6617AA291B99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
