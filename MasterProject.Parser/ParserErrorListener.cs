@@ -2,7 +2,7 @@
 using Antlr4.Runtime;
 namespace Dk.Itu.Rlh.MasterProject.Parser
 {
-    public class ParserParserErrorListener:BaseErrorListener
+    public class ParserErrorListener:BaseErrorListener
     {
         private readonly IList<string> _errors = new List<string>();
         private IList<string> _verbose = new List<string>();

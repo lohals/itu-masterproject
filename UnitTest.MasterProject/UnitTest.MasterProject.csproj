@@ -108,7 +108,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="LocalAddin.cs" />
+    <Compile Include="ParagrafIndledningParser\TestParagrafIndledning.cs" />
     <Compile Include="ParagrafNummer.cs" />
     <Compile Include="RegexSpecimenBuilder.cs" />
     <Compile Include="TestAendringDefinitionModel.cs" />
@@ -129,6 +129,9 @@
       <Project>{7b181a5a-1696-4bae-89ea-c46b35be192c}</Project>
       <Name>MasterProject.Parser</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AendringsDefinitionParser\" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

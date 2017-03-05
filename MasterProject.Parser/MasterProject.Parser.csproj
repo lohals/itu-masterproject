@@ -44,17 +44,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AendringDefintionParser.cs" />
+    <Compile Include="AendringsDefinition\AendringsDefinitionParser.cs" />
+    <Compile Include="VisitorBasedAntlrParser.cs" />
     <Compile Include="IParserErrorResult.cs" />
     <Compile Include="ParserErrorResult.cs" />
     <Compile Include="ParseResult.cs" />
     <Compile Include="ParserException.cs" />
-    <Compile Include="ParserParserErrorListener.cs" />
-    <Compile Include="ParserVisitors\AendringDefinitionVisitor.cs" />
-    <Compile Include="ParserVisitors\ElementChainVisitor.cs" />
-    <Compile Include="ParserVisitors\ElementVisitor.cs" />
-    <Compile Include="ParserVisitors\ElementWithIntegerNummerVisitorHelper.cs" />
-    <Compile Include="ParserVisitors\SubElementTargetVisitor.cs" />
+    <Compile Include="ParserErrorListener.cs" />
+    <Compile Include="AendringsDefinition\ParserVisitors\AendringDefinitionVisitor.cs" />
+    <Compile Include="AendringsDefinition\ParserVisitors\ElementChainVisitor.cs" />
+    <Compile Include="AendringsDefinition\ParserVisitors\ElementVisitor.cs" />
+    <Compile Include="AendringsDefinition\ParserVisitors\ElementWithIntegerNummerVisitorHelper.cs" />
+    <Compile Include="AendringsDefinition\ParserVisitors\SubElementTargetVisitor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -71,7 +72,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="AendringsDefinition\" />
+    <Folder Include="ParagrafIndledning\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
