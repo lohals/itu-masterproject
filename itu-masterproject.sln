@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterProject.Parser", "Mas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterProject.Model", "MasterProject.Model\MasterProject.Model.csproj", "{5CAE0DB0-1506-411E-ACFF-6617AA291B99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest.MasterProject", "UnitTest.MasterProject\UnitTest.MasterProject.csproj", "{CFF4A0CB-C066-48A5-83E2-6A9CC8E9E392}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5CAE0DB0-1506-411E-ACFF-6617AA291B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CAE0DB0-1506-411E-ACFF-6617AA291B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CAE0DB0-1506-411E-ACFF-6617AA291B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF4A0CB-C066-48A5-83E2-6A9CC8E9E392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF4A0CB-C066-48A5-83E2-6A9CC8E9E392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF4A0CB-C066-48A5-83E2-6A9CC8E9E392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF4A0CB-C066-48A5-83E2-6A9CC8E9E392}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
