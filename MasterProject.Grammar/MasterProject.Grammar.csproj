@@ -47,14 +47,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ParagrafIndledning.g4.lexer.cs">
+      <DependentUpon>ParagrafIndledning.g4</DependentUpon>
+    </Compile>
+    <Compile Include="ParagrafIndledning.g4.parser.cs">
+      <DependentUpon>ParagrafIndledning.g4</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Antlr4 Include="AendringDefinitionGrammar.g4">
       <Generator>MSBuild:Compile</Generator>
       <CustomToolNamespace>Dk.Itu.Rlh.MasterProject.Grammar</CustomToolNamespace>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Antlr4>
     <None Include="packages.config" />
+    <Antlr4 Include="ParagrafIndledning.g4">
+      <Generator>MSBuild:Compile</Generator>
+      <CustomToolNamespace>Dk.Itu.Rlh.MasterProject.Grammar</CustomToolNamespace>
+    </Antlr4>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

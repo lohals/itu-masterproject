@@ -14,7 +14,7 @@ namespace Dk.Itu.Rlh.MasterProject.Parser
     public class AendringDefintionParser : VisitorBasedAntlrParser<AendringDefinition>
     {
 
-        protected override ITokenSource GetLexer(AntlrInputStream input)
+        protected override ITokenSource GetLexer(ICharStream input)
         {
             return new AendringDefinitionGrammarLexer(input);
         }

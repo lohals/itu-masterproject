@@ -115,7 +115,7 @@ paragrafExp
 	;
 flereStkExp
 	:
-	'Stk. ' INT (('og'|'-'|',')INT)+ 
+	'Stk. ' INT (('og'|'-'|',')INT)+
 	;
 stkExp 
 	: ('Stk. '|'stk. ') INT

@@ -30,7 +30,7 @@ namespace Dk.Itu.Rlh.MasterProject.Parser
 
         protected abstract AbstractParseTreeVisitor<T> GetVisitor();
 
-        protected abstract ITokenSource GetLexer(AntlrInputStream input);       
+        protected abstract ITokenSource GetLexer(ICharStream input);       
         
 
     }

@@ -51,10 +51,16 @@
     <Compile Include="AendringsDefinition\Saetning.cs" />
     <Compile Include="AendringsDefinition\Stk.cs" />
     <Compile Include="AendringsDefinition\SubElementTarget.cs" />
+    <Compile Include="ParagrafIndledning\DokumentReference.cs" />
+    <Compile Include="ParagrafIndledning\Dokument.cs" />
+    <Compile Include="ParagrafIndledning\ParagrafIndledningModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="AendringDefinitionModel.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ParagrafIndledningModelDiagram.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
