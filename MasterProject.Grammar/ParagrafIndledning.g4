@@ -7,11 +7,11 @@ grammar ParagrafIndledning;
  /*root definition */
 //I økologilov, lov nr. 463 af 17. juni 2008, foretages følgende ændring:
 paragrafIndledning
-	: dokumentPhrase ('.'|':') EOF
+	: dokumentPhrase ', foretages følgende ændring' 'er'? ('.'|':') EOF
 	;
 //økologilov, lov nr. 463 af 17. juni 2008
 dokumentPhrase
-	:TITLE dokumentReference
+	:TITLE 'jf. '? dokumentReference
 	;
 
 //title
@@ -21,7 +21,7 @@ dokumentPhrase
 //lov nr. 463 af 17. juni 2008
 dokumentReference
 	: //'lov nr. 463 af 17. juni 2008'
-	'lov nr.' INT 'af' date
+	DOCTYPE ' nr.' INT 'af' date
     ;
 //number
 //	:INT
@@ -47,7 +47,9 @@ WS
 INT : [0-9]+;
 //YEAR:INT;
 //DAY: INT '.';
-MONTH: 'juni'|'juli';
+DOCTYPE: 'lov'|'lovbekendtgørelse';
+MONTH: 'januar'|'februar'|'marts'|'april'|'maj'|'juni'|'juli'|'august'|'september'|'oktober'|'november'|'december';
+///MONTH: 'januar'|'juni'|'juli';
 LETTER : [a-z]|[A-Z]; 
 fragment FREETEXT: .*?;
 

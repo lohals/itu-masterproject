@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id6ad61dee-93cf-476e-a130-f54f4d4e8a68" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2016/09/26/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id98a841db-d8f3-4cc2-8f26-66f874114193">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20170001429</AccessionNumber>
+    <DocumentId>CK001119</DocumentId>
+    <UniqueDocumentId>186156</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om planteskadegørere</DocumentTitle>
+    <Year>2017</Year>
+    <DiesSigni>2017-01-04</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-01-06</EndDate>
+    <Status>Valid</Status>
+    <Number>14</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 14 af 04/01/2017</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Jette Petersen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Dorthe Nielsen</Signature>
+    <PlaceOfSignature>NaturErhvervstyrelsen</PlaceOfSignature>
+    <JournalNumber>Miljø- og Fødevaremin.,\nNaturErhvervstyrelsen, j.nr. 16-0122-000017</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="ida3e0d2be-b77f-45e0-9288-d986f5204428">
+    <Titel id="id47b5a558-0f51-43fc-9262-b36d02f585c6">
+      <Linea>
+        <Char>Bekendtgørelse af lov om planteskadegørere</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idabb41762-8ab8-4f34-a360-e383f21bcaf2">
+    <Indledning id="id8478c6b3-43d2-4b5a-be70-3e5c36aa48de">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om planteskadegørere, jf. lovbekendtgørelse nr. 198 af 12. marts 2009, med den ændring, der følger af § 86 i lov nr. 1712 af 27. december 2016.</Char>
+        </Linea>
+        <Nota id="ida272c26c-e0dd-41da-8b7e-b14e44226c39">
+          <Explicatus>1)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Denne lovbekendtgørelse gengiver alene ikrafttrædelses- og overgangsbestemmelsen i lov nr. 1715 af 27. december 2016.</Char>
+            </Linea>
+            <Linea>
+              <Char>De bemærkninger om ikrafttrædelsesbestemmelser for de tidligere vedtagne ændringer af loven, der fremgår af lovbekendtgørelse nr. 198 af 12. marts 2009, er ikke gengivet i denne lovbekendtgørelse.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Den bekendtgjorte lovtekst vedrørende § 12 a træder i kraft den 1. februar 2017, jf. § 24, stk. 1, i lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="id2fde3909-f91e-4d4e-b094-ba703c07e102">
+      <Afsnit id="id34e5fde2-c351-4243-a729-38e366e5cf9c" localId="1">
+        <Kapitel id="idd6f4e7f3-81ed-471b-aaf8-1fac3bc5edab" localId="1">
+          <ParagrafGruppe>
+            <Paragraf id="id834267d8-12eb-4999-b8b4-f7540181e467" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="id05d698ec-4c91-4808-ab95-40d75486a154">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren</Char>
+                  </Linea>
+                  <Nota id="idbead8316-bd01-4e21-a0c2-80a087c8c189">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Ved kongelig resolution af 28. juni 2015 blev Miljøministeriet og Ministeriet for Fødevarer, Landbrug og Fiskeri sammenlagt til et Miljø- og Fødevareministerium, jf. bekendtgørelse nr. 1229 af 3. november 2015 om ændring i forretningernes fordeling mellem ministrene.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>kan fastsætte bestemmelser om bekæmpelse og om forebyggelse af indslæbning og udbredelse af levende organismer, dog ikke hvirveldyr, samt vira, der direkte eller indirekte kan forvolde tab for planteavlen (planteskadegørere), og kan herunder fastsætte bestemmelser til gennemførelse af regler fastsat af Det Europæiske Fællesskab.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id658b1d93-3988-452c-af02-6fc9e134fdf9" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="id6b72d0b5-5fb1-443c-8e12-8b1912566464">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan i forbindelse med fastsættelse af bestemmelser efter § 1 fastsætte regler om:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id274be1b0-d3ca-4f1b-9a92-c255974fe3b8">
+                  <Index>
+                    <Indentatio id="id01ca959c-77c7-420f-98d0-02a15f748acd" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>forbud mod indførsel, salg, opbevaring samt anden form for besiddelse af levende planteskadegørere eller kulturer af planteskadegørere samt af planter, planteprodukter, jord eller andre vækstmedier, der er eller formodes at være angrebet af eller at indeholde sådanne planteskadegørere,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id923cd997-bb0f-4b58-ba64-35a96e96744d" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>udførselskontrol med planter, planteprodukter, jord og andre vækstmedier,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7fd71df1-88db-4b39-9094-532c856f9a18" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>forbud mod tilsåning eller tilplantning af arealer samt påbud om isolering af disse,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id3b394159-3cf8-4e81-b939-1e22ab6440bd" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>forbud mod plantning af angivne plantearter,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id03c40879-3790-4648-9da5-288e40df4276" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>forbud mod fjernelse af angivne planter, planteprodukter, jord og andre vækstmedier fra et angivet område,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7ab7ffa9-e1d4-47fe-99a4-4666cdc2002a" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>påbud om behandling af arealer, planter, planteprodukter, jord og andre vækstmedier med bekæmpelsesmidler,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id892b0f6e-1f54-43d7-8db8-7bb050038c82" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>påbud om beskæring eller fjernelse af planter,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idcba6dda3-f02c-48f1-806d-8c185eda132f" formaInd="Nummer">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>påbud om desinfektion af emballage, redskaber, maskiner, transportmidler samt rum og andet, hvorfra planteskadegørere må antages at kunne udbredes,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd614ff59-56f3-46a5-9f81-f635049484e3" formaInd="Nummer">
+                      <Explicatus>9)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>påbud om tilintetgørelse af planter, planteprodukter og emballage,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id103f180d-9479-4d7f-87c8-e9cdbda62c30" formaInd="Nummer">
+                      <Explicatus>10)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>påbud om indsamling og tilintetgørelse af planteskadegørere.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id71468160-51b1-4cb2-b186-452aa44812f8" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id65b115e9-1f95-4e2f-ac1f-a69b88553d8a">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan ved udførsel af planter, planteprodukter, jord eller andre vækstmedier træffe de foranstaltninger, som er påkrævet efter modtagerlandets plantesundhedslovgivning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id70394426-29fe-4be9-9b10-0da25825c20d" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="iddeb7f91e-6698-4d79-a1a4-728c18ec6a3f">
+                <Exitus>
+                  <Linea>
+                    <Char>Med henblik på at gennemføre bekæmpelse eller for at forebygge indslæbning og udbredelse af planteskadegørere kan landbrugs- og fiskeriministeren foretage eftersyn af offentlig og privat ejendom og transportmidler.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Eftersynet skal være nødvendigt for at kontrollere overholdelsen af gældende bestemmelser eller for at træffe beslutning om fastsættelse af regler efter § 1 og kan ske uden retskendelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>På forlangende skal nødvendigheden af eftersynet begrundes og legitimation forevises.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idceb7560b-de09-4090-b451-db6e89a97589">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ejere eller brugere af arealer og producenter, ejere, importører eller eksportører af planter, planteprodukter, jord og andre vækstmedier skal yde fornøden bistand ved gennemførelse af eftersyn efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb6b0f85e-c089-4488-9d24-4721434fb4ab" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="idaae7405f-c431-4a5d-a133-7a5e05fa7b01">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id8d4591ab-cfda-4f5c-9dc3-eeeaab9a8e19">
+                  <Index>
+                    <Indentatio id="idfba5a1df-663c-470b-a1d0-264008e1ad1d" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>vederlagsfrit udtage prøver af planter, planteprodukter, jord og andre vækstmedier til undersøgelse for forekomst af planteskadegørere,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id17f200ec-cae7-448b-aa80-c5a92c22e20c" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>afkræve ejere eller brugere af arealer og producenter, ejere, importører eller eksportører af planter, planteprodukter, jord og andre vækstmedier foreliggende oplysninger, som er nødvendige for at træffe beslutninger efter loven eller bestemmelser fastsat efter loven.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id333f9dc4-4b15-43b8-81e8-ca935222eebe" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="ida73af459-83b2-499a-adb3-38aa18083f37">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte bestemmelser om, at den, der er bekendt med eller formoder, at planter, planteprodukter, jord eller andre vækstmedier, der er i hans besiddelse eller beror hos ham, er angrebet af eller indeholder planteskadegørere, straks skal anmelde dette til ministeren, og om, at sådanne planter, planteprodukter, jord og andre vækstmedier ikke må fjernes fra stedet uden ministerens tilladelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id622acf15-bca9-44bc-8d7b-9dcf41315917">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan til gennemførelse af bestemmelser fastsat af De europæiske Fælleskaber fastsætte bestemmelser om, at enhver, der er bekendt med eller har formodning om forekomst af planteskadegørere, skal anmelde dette til ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6db0baa5-e3e2-40d3-9066-a7adb8c244d1">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte bestemmelser om, at den, der til jordbrugsformål sælger, udlejer eller bortforpagter et areal med forekomst af planteskadegørere, skal underrette erhververen om forekomsten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id52caef2c-ce44-4049-a676-e487003f6dc8" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="id63c2947b-39d1-4190-bd74-5b21db13b2b9">
+                <Exitus>
+                  <Linea>
+                    <Char>Statskassen erstatter tab som følge af en påbudt tilintetgørelse af planter, planteprodukter, jord eller andre vækstmedier samt emballage, medmindre det tilintetgjorte er angrebet af eller befængt med planteskadegørere.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id80bc02f4-6e7c-4629-a8f3-5a5de14dbcb5" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="idfcad9ad0-a60f-4054-89d7-c4c107bc1cfa">
+                <Exitus>
+                  <Linea>
+                    <Char>Udgifterne ved gennemførelse af påbudte foranstaltninger påhviler den, påbuddet er rettet til, jfr.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>dog § 7.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id995fe4ca-35c3-444f-b227-f556e11bf97b">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan bestemme, at udgifter i forbindelse med påbudte foranstaltninger, herunder udgifter til bekæmpelsesmidler, skal afholdes af statskassen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb499f4f0-0426-46bf-82ef-a04e8b180992" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="id295a8d05-3793-4b77-a54c-2d95dde50f50">
+                <Exitus>
+                  <Linea>
+                    <Char>Krav om erstatning efter § 7 fortabes, hvis det ikke er fremsat for miljø- og fødevareministeren inden 6 måneder efter, at den påbudte tilintetgørelse har fundet sted.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id86c6d3b9-8f7f-4b86-a381-5c4a4571c613">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Krav om erstatning efter § 7 bortfalder, hvis den pågældende ved overtrædelse af bestemmelser fastsat efter loven, af forbud eller påbud meddelt efter sådanne bestemmelser eller på anden måde ved uforsvarlig adfærd har nødvendiggjort tilintetgørelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ide1b11696-8922-4c92-bd05-52f02264f245" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id3bddf80d-738d-48bb-bfa6-8335e4f79fff">
+                <Exitus>
+                  <Linea>
+                    <Char>Undlader en ejer eller bruger af et areal eller en producent, ejer, importør eller eksportør af planter, planteprodukter, jord eller andre vækstmedier at gennemføre påbudte foranstaltninger, kan landbrugs- og fiskeriministeren lade arbejdet udføre på den pågældendes bekostning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>§ 4 finder tilsvarende anvendelse i forbindelse med arbejdets udførelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb83d9e8a-e34e-453d-aad0-874d420ee870" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="id330d0903-dd47-4a75-bfa1-8a25b873bd10">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte gebyrer til dækning af udgifterne ved kontrollen med indførsel og udførsel af planter, planteprodukter, jord og andre vækstmedier.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id564195e3-f08e-410d-86fc-a7fe04799df4">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om renter ved for sen indbetaling af gebyrer og om opkrævning af gebyrer for erindringsskrivelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd4d5fd85-bd65-4706-ab77-a03dc2e45df3" localId="12">
+              <Explicatus>§ 12. </Explicatus>
+              <Stk id="id6a806523-e2fe-463b-9cc8-f86814a8cc35">
+                <Exitus>
+                  <Linea>
+                    <Char>Henlægger miljø- og fødevareministeren sine beføjelser efter loven til en myndighed under ministeriet, kan ministeren fastsætte regler om adgangen til at klage over myndighedens afgørelser, herunder om, at klage ikke kan indbringes for en anden administrativ myndighed, og om myndighedernes adgang til at genoptage en sag, efter at der er indgivet klage.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0bf6a728-da95-47bc-aa99-851fae3af979">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan efter forhandling med vedkommende minister henlægge sine beføjelser efter loven til en anden statslig myndighed eller institution.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan i forbindelse hermed fastsætte regler om adgangen til at klage over disse myndigheders eller institutioners afgørelser, herunder om, at klage ikke kan indbringes for anden administrativ myndighed, og om myndighedens eller institutionens adgang til at genoptage en sag, efter at der er indgivet klage Overlader landbrugs- og fiskeriministeren sine beføjelser efter denne lov til en myndighed under ministeriet, kan ministeren fastsætte bestemmelser om adgang til at klage over denne myndigheds afgørelser, herunder om, at afgørelser ikke kan indbringes for højere administrativ myndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8012e48c-0e6a-4c9d-88f7-3ec63ddf12a7" localId="12a">
+              <Explicatus>§ 12 a.</Explicatus>
+              <Stk id="id530b1290-1192-41b2-87a6-6d014e7f73b2">
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser truffet i henhold til denne lov eller regler udstedt i medfør heraf kan, hvis ikke andet er fastsat i loven eller i henhold til regler udstedt i medfør heraf, påklages til Miljø- og Fødevareklagenævnet, som behandler sagen i afdelingen omhandlet i § 3, stk. 1, nr. 4, i lov om Miljø- og Fødevareklagenævnet, og kan dermed ikke indbringes for anden administrativ myndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide025c87e-6262-4276-bfcf-1a154d3434c1">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klage til Miljø- og Fødevareklagenævnet indgives skriftligt til den myndighed, der har truffet afgørelsen, ved anvendelse af digital selvbetjening, jf. dog § 21, stk. 2-4, i lov om Miljø- og Fødevareklagenævnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Myndigheden skal, hvis den vil fastholde afgørelsen, snarest og som udgangspunkt ikke senere end 3 uger efter modtagelsen af klagen videresende klagen til klageinstansen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Klagen skal ved videresendelsen være ledsaget af den påklagede afgørelse, de dokumenter, der er indgået i sagens bedømmelse, og en udtalelse fra myndigheden med dennes bemærkninger til sagen og de i klagen anførte klagepunkter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id08b7a560-e7b8-4803-86b5-e2fd6812e6bb" localId="14">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id030015d9-9ab5-4f61-a702-7c83f03835c4">
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre højere straf er forskyldt efter den øvrige lovgivning, straffes med bøde den, der giver urigtige oplysninger eller undlader at give oplysninger efter § 5, nr. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf25927ff-8a68-45f1-9c80-f1caa1b8c949">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Overtrædelse af § 4, stk. 2, straffes med bøde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7c5c6339-ff61-4787-ad06-37509b055698">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I bestemmelser, der fastsættes efter loven, kan der fastsættes straf af bøde for den, der overtræder forskrifter i bestemmelserne og for den, der undlader at efterkomme forbud eller påbud, der meddeles efter bestemmelserne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc7df5aff-b51a-4d9a-a4a1-14216ce3066e">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idce2d3e9d-1268-4ad4-8bd6-7f8d61c0e7da">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skønnes en overtrædelse af bestemmelser fastsat efter loven ikke at ville medføre højere straf end bøde, kan miljø- og fødevareministeren tilkendegive, at sagen kan afgøres uden retslig forfølgning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er en betingelse herfor, at den, der har begået overtrædelsen, erklærer sig skyldig i overtrædelsen og erklærer sig rede til inden for en nærmere angivet frist, der efter begæring kan forlænges, at betale en i tilkendegivelsen angivet bøde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd409403a-c41f-4070-bc72-3a953e8a4060">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For så vidt angår den i stk. 5 nævnte tilkendegivelse finder bestemmelserne i retsplejelovens § 895 tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id164223fc-41b9-4239-a9b8-f21eda3e4e6a">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Betales bøden i rette tid, eller bliver den efter vedtagelsen inddrevet eller afsonet, bortfalder videre forfølgning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8abf3da5-9150-4eb2-b562-d7c4d75888b6" localId="15">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="idcabf5c38-600d-4b83-af06-ee30915d1849">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. juli 1984.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbcc32571-fc2c-404d-b172-dd8b62daac0d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Samtidig ophæves lov nr. 121 af 12. april 1957 om bekæmpelse af farlige plantesygdomme og skadedyr og lov nr. 55 af 27. marts 1903 om foranstaltninger mod udbredelse af rustsvampe.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id126fc726-8ef1-472a-a94c-e15fd8e57f1d">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelser, der er fastsat eller opretholdt efter de love, der er nævnt i stk. 2, forbliver i kraft, indtil de ophæves af miljø- og fødevareministeren.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Overtrædelse af bestemmelserne straffes med bøde.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>På tilsvarende måde straffes med bøde en tilsidesættelse af forskrifter, der er udstedt efter bestemmelserne, såfremt tilsidesættelsen var strafbar efter de hidtil gældende bestemmelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id65e3de81-0b5e-4b50-bf02-296f498c6630" localId="16">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="idd789fc50-1e4d-443d-a097-126fed4b16de">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="idad006e5a-9cad-4129-ac7a-aa47024fc5e5">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet</Char>
+        </Linea>
+        <Nota id="id20c6c38d-aef7-49ed-a33a-5297987e35a5">
+          <Explicatus>3)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører indsættelse af § 12 a.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>indeholder følgende ikrafttrædelses- og overgangsbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <Paragraf id="id89c428e2-8c27-4ebc-8e11-cbf2d7c519ad" localId="24">
+        <Explicatus>§ 24.</Explicatus>
+        <Stk id="id6e9a3b42-9e05-4f3a-9337-9bf33af48456">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. februar 2017.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idd45c80d5-daff-4afc-b4ae-f875283123cf">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idb3bd31c6-9c06-41f9-aa8d-abf3b28c982a">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Erhvervsministeren</Char>
+            </Linea>
+            <Nota id="idcda65046-b893-49aa-b628-d64307c9fbb9">
+              <Explicatus>4)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Ved kongelig resolution af 28. november 2016 er betegnelsen Erhvervs- og Vækstministeriet ændret til Erhvervsministeriet, jf. bekendtgørelse nr. 1777 af 23. december 2016.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id29b25e4d-898f-410e-abdb-05b683ae2357">
+          <Explicatus>Stk. 4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="ida52e9dfb-060b-40d5-8bc1-03385dd1ea01">
+          <Explicatus>Stk. 5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Regler, der er fastsat i henhold til hidtil gældende regler, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat med hjemmel i denne lov.</Char>
+            </Linea>
+            <Linea>
+              <Char>Overtrædelse af reglerne straffes efter de hidtil gældende regler.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="ida59b5806-ede6-417a-9441-db45e6429ccf">
+          <Explicatus>Stk. 6.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov.</Char>
+            </Linea>
+            <Linea>
+              <Char>Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idc538731a-6c66-4f68-8852-010ed76228b0">
+          <Explicatus>Stk. 7.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </Paragraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id290ac27c-d7ba-4499-a8bd-5de9a95934f8">
+    <UnderskriftStedDato id="id5fa423d3-73e6-4ed9-9ca2-a96398659971" />
+    <Underskriver id="id4b227215-5c37-412f-a361-63ecb765ee21" />
+  </UnderskriftGruppe>
+</Dokument>

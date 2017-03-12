@@ -1,0 +1,812 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id20921b45-d837-4824-9c8d-a282275638ff" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2016/09/26/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="ida5956a86-160c-4b91-a07b-115923f5a26e">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20170009429</AccessionNumber>
+    <DocumentId>CI000251</DocumentId>
+    <UniqueDocumentId>186333</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om statstilskud til elintensive virksomheder</DocumentTitle>
+    <Year>2017</Year>
+    <DiesSigni>2017-01-26</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-01-28</EndDate>
+    <Status>Valid</Status>
+    <Number>94</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 94 af 26/01/2017</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Subject>Målrettet PSO</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Stig Uffe Pedersen\nvicedirektør</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Henrik Andersen</Signature>
+    <PlaceOfSignature>Energistyrelsen</PlaceOfSignature>
+    <JournalNumber>Energi-, Forsynings- og Klimamin.,\nEnergistyrelsen, j.nr. 2015 - 6125</JournalNumber>
+    <Ministry>Energi-, Forsynings- og Klimaministeriet</Ministry>
+    <AdministrativeAuthority>Energistyrelsen</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="idefd6211f-bfa3-498b-a417-48e9cc0f9f63">
+    <Titel id="id6dd7c26d-9ec8-426a-b88e-7e488edf66fe">
+      <Linea>
+        <Char>Bekendtgørelse af lov om statstilskud til elintensive virksomheder</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id344f7295-a6ab-493b-82ce-261cefa411e1">
+    <Indledning id="id04ef72b9-cee2-45c4-99c2-01a5bc08e717">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov nr. 574 af 4. maj 2015 om statstilskud til elintensive virksomheder med de ændringer, der følger af lov nr. 510 af 31. maj 2016.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="idf904f0ae-fb34-42e2-9c93-e1f672f7b500" />
+    <Bog id="id17afacab-3bf7-40a0-8d92-c4c2be2dca0d">
+      <Afsnit id="id7ae3e8d7-0c18-416f-b80e-0a0fbf4bb3f1" localId="1">
+        <Kapitel id="id3e21d967-b19b-460f-8248-3b527b8fec43" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="id831acdae-fe33-47c5-9b92-f6a9a5c96f2d">
+            <Linea>
+              <Char>Anvendelsesområde og administration af ordningen</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id8e790c60-4f34-4940-995d-291f419d0ad9" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="idb9024d2d-3495-4c71-ae33-fbc0f045b11d">
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan gives statstilskud til delvis dækning af virksomheders PSO-betaling til de kollektive elforsyningsvirksomheders nødvendige omkostninger ved at gennemføre offentlige forpligtelser omfattet af § 8, stk. 1, nr. 1-5, i lov om elforsyning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Statstilskud kan gives, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="ide8bb181a-5730-4ff1-ab3b-ae5fd45f8c3c">
+                  <Index>
+                    <Indentatio id="id8a281988-e350-4358-86fa-eaac299fc8a6" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>virksomheden er registreret efter momsloven,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id16bd3cc0-3c9a-4144-ae9e-2b679e57b7c8" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>virksomheden har produktionsenheder med hovedaktiviteter, der er omfattet af de NACE-koder, der er nævnt i bilag 3 i Europa-Kommissionens retningslinjer for statsstøtte til miljøbeskyttelse og energi 2014-2020, eller virksomheden har produktionsenheder med hovedaktiviteter med en elektricitetsintensitet på mindst 20 pct., der tilhører en sektor med en handelsintensitet på mindst 4 pct. på EU-plan, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd8c46851-7ef0-4be1-938b-2fa106f0aa86" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>virksomheden indgår aftale med Energistyrelsen om at gennemføre energieffektiviseringer i disse produktionsenheder.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id62803436-f5ac-4ac3-9007-a04425f6965e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Aftaler efter stk. 1 skal omhandle energiledelse, særlige undersøgelser, energieffektiviseringer og gennemførelse af disse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd17c779e-e902-49f9-a7bd-7c29e1ab4373">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Aftaler efter stk. 1 kan indgås mellem Energistyrelsen og brancheorganisationer, grupper af virksomheder eller enkelte virksomheder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Aftaler indgået med brancheorganisationer eller grupper af virksomheder skal tiltrædes af den enkelte virksomhed for at kunne udløse tilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id784a6584-e8f1-4cd5-b8e0-1a6eaa4dc447">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved beregningen af elektricitetsintensiteten efter stk. 1, nr. 2, anvendes standardeffektivitetsbenchmarks for elforbruget for industrien, når der foreligger sådanne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idce721089-b7db-4102-a200-6cc68c1b49b3" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="idc47d4257-b64e-448d-9ec6-1dd2c29853fd">
+                <Exitus>
+                  <Linea>
+                    <Char>Statstilskud efter denne lov må maksimalt udgøre 85 pct. af den del af PSO-betalingen, der ydes til støtte af elproduktion baseret på vedvarende energi.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3ee50d7a-d2ef-434e-9c50-35ab53e7e1f4">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det årlige tilskud opgjort efter stk. 1 udbetales med det beløb, der overstiger 20.000 kr. af støttebeløbet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dette gælder dog ikke tilskud til virksomheder, der har tiltrådt en aftale, der er indgået med brancheorganisationer eller grupper af virksomheder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb2a704e2-ea2e-40e2-939c-27ab7a96c632" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id6fb6a1d5-dd13-4b3f-a9aa-3f865394c2bf">
+                <Exitus>
+                  <Linea>
+                    <Char>Ansøgning om tilskud behandles af Energistyrelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ansøgningen skal indsendes med dokumentation for, at der er indgået aftale efter § 1, stk. 1, eller en underskrevet hensigtserklæring om, at virksomheden vil indgå en sådan aftale.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id37a54dd6-8d5a-4687-9c42-c40a67a511a9">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsagn om tilskud meddeles for en nærmere fastsat periode på maksimalt 3 år.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>På grundlag af tilsagnet udbetaler Energistyrelsen tilskuddet til virksomheden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Er der ikke indgået en aftale efter § 1, stk. 1, men er ansøgningen vedlagt en underskrevet hensigtserklæring, jf. stk. 1, kan der meddeles betinget tilsagn om tilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idae63a01f-65a2-45f8-be59-51aa4684b77e">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren fastsætter nærmere regler om ansøgningens og hensigtserklæringens indhold og regler om, hvilken dokumentation virksomheden skal tilvejebringe for at dokumentere at være berettiget til at modtage tilskud efter denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd902d08b-042e-4798-b36b-d11a04cd1f71">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren kan fastsætte nærmere regler vedrørende elektricitets- og handelsintensitet, herunder om beregning og godkendelse af virksomhedernes dokumentation for, at de opfylder elektricitets- og handelsintensitetskriterierne, og regler om afgrænsning af produktionsenheder, jf. § 1, stk. 1, nr. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id41df9624-fbb3-4e25-be41-fe53c6322313" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id49d1d28f-f2e0-4bc0-9c26-8dd44be09fc6">
+                <Exitus>
+                  <Linea>
+                    <Char>Ansøgning om tilskud og oplysninger til brug for behandlingen af ansøgningen skal indsendes digitalt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Skriftlig kommunikation mellem virksomheder m.v. omfattet af denne lov og den relevante myndighed vedrørende emner omfattet af denne lov eller regler udstedt i medfør heraf skal ligeledes ske digitalt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Myndigheden kan afvise at behandle ansøgninger og henvendelser, der ikke indsendes digitalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd8994e05-e1f6-40e5-b9e2-94910a0889b5">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren kan fastsætte nærmere regler om digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>og regler om, at hvis der foreligger helt særlige forhold, kan en virksomhed tilbydes, at ansøgningen eller henvendelsen kan indgives på anden måde end digitalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idaa91c2a0-4ab2-48d9-9e31-a506cd1e6ff9">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En digital meddelelse anses efter denne lov for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id7e8f6b96-bfc3-4c13-835f-61937066a11c" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="idf3e79a09-a78d-4b0b-bdfe-871d0351ab59">
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren kan fastsætte nærmere regler om tilskudsordningens gennemførelse, herunder om indgåelse af aftale, energiledelse, energieffektiviseringer og gennemførelse af disse, særlige undersøgelser af energiforbruget og tilsagn om betinget tilskud.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan desuden fastsætte regler om offentliggørelse af oplysninger om tilskudsordningen, herunder oplysninger om tilskudsmodtager og tilskudsbeløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id146d876b-9ee4-4406-8686-b06cea8e2a4c" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="id018e0d25-665c-4c03-9404-24a113a0e412">
+            <Linea>
+              <Char>Bortfald af aftale og tilbagebetaling af tilskud</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id0209afd3-6344-49d1-b81c-08c98cc3604f" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id76779c87-6189-4ebc-adf0-d84af02e6d72">
+                <Exitus>
+                  <Linea>
+                    <Char>Energistyrelsen kan bestemme, at en aftale om energieffektivisering, jf. § 1, stk. 1, ophæves, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id2306c359-73d6-478e-8915-bfde7eccbc0c">
+                  <Index>
+                    <Indentatio id="ide83332a8-7c83-4f6a-8bd2-49f7481ad994" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilskudsmodtageren har afgivet urigtige eller vildledende oplysninger af betydning for ansøgningen om tilsagn eller udbetaling af tilskud,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id039708c2-d3cf-4693-9fd5-a8d33fb121cd" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilskudsmodtageren har fortiet oplysninger af betydning for ansøgningen om tilsagn eller udbetaling af tilskud,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id16b4f1fc-d4e7-4b83-bd69-3d90a9c4eeb9" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilskudsmodtageren ikke efterkommer Energistyrelsens anmodning om at afgive oplysning, der har betydning for ydelse af tilsagn eller udbetaling af tilskud eller for Energistyrelsens kontrol med, at de fastsatte vilkår i aftalen overholdes, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id88c55831-dee5-4eb7-b9fd-e6d9f317ad54" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>betingelserne for at yde tilskud ikke længere er opfyldt, herunder ved at aftalen ikke overholdes.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idd20d1b27-0d90-48d1-b5d3-1d801460ecb7">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Opsiger virksomheden aftalen, eller ophæves aftalen efter stk. 1, bortfalder Energistyrelsens tilsagn om tilskud.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Energistyrelsen kan bestemme, at allerede ydede tilskud helt eller delvis skal tilbagebetales efter opsigelse eller ophævelse af aftalen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4a76f4d6-ebb0-4b0c-a288-4386d85acc34">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er der ydet et for stort eller uberettiget tilskud, afkræver Energistyrelsen det skyldige beløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide2d9a727-2cab-4510-a70c-e5c68f804954">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klima-, energi- og bygningsministeren kan fastsætte nærmere regler om opsigelse eller ophævelse af aftaler, bortfald af afgivne tilsagn og tilbagebetaling af udbetalte tilskud og forrentning heraf.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="ida367dfe1-ae3a-4dcc-ac27-eeea5c6d6f4e" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="id2ffa0bc3-edae-4d6b-9735-7f754246b85c">
+            <Linea>
+              <Char>Tilsyn, delegation m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idb303a8d9-04d3-4f3e-a576-6da562e59981" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="ida2caf83b-5252-40fe-b35f-85fabff69c25">
+                <Exitus>
+                  <Linea>
+                    <Char>Energistyrelsen fører tilsyn med, at reglerne i denne lov og regler udstedt i medfør heraf overholdes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida542b79a-fbf1-4e83-a888-9c89546ae168">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energistyrelsen kan uden retskendelse og mod forevisning af behørig legitimation til brug for udførelse af tilsyn</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idcab0d8bf-309f-4fd0-84cc-52cd2381eebd">
+                  <Index>
+                    <Indentatio id="idfc08337f-289c-441d-9bb0-2c93e7b23385" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>få adgang til en virksomheds eller sammenslutnings lokaler, herunder adgang til at besigtige energimålere, procesanlæg og øvrigt energiforbrugende udstyr, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8c978313-b6f0-47ea-84c2-9e86dabe2972" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>i virksomhedens eller sammenslutningens lokaler gøre sig bekendt med og tage kopi af enhver oplysning, herunder korrespondance, regnskaber, regnskabsmaterialer, bøger, andre forretningspapirer og elektronisk lagrede data.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id09dcca99-2658-4b70-9e0d-9f34e89ab6ca">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Indehavere og ansatte i virksomheden eller sammenslutningen skal yde fornøden vejledning og hjælp i forbindelse med tilsynets udførelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb2b1ac4a-5a88-4de2-a151-a6aacfaa758a">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Leverandører af elektricitet skal på begæring meddele Energistyrelsen oplysning om lagrede data for måling og afregning af elektricitet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Energistyrelsen har, hvis det skønnes nødvendigt til brug for tilsynet, uden retskendelse og mod behørig legitimation adgang til på stedet hos de pågældende virksomheder at gøre sig bekendt med og tage kopi af lagrede data for måling og afregning af elektricitet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idac054fc3-3a7e-44ac-bd83-6521a741ef28" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="idc092be68-2d24-40cd-ad91-dee3e58e9cad">
+                <Exitus>
+                  <Linea>
+                    <Char>Enhver, der modtager tilskud efter denne lov, skal efter anmodning fra Energistyrelsen afgive enhver oplysning, der har betydning for ydelse af tilsagn og udbetaling af tilskud og for Energistyrelsens tilsyn med, at de fastsatte vilkår overholdes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id11fe4ab3-49c8-4b65-9619-cb23771479f8" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="id82a3fb8e-3a0d-432b-8675-c38d5f8ffead">
+                <Exitus>
+                  <Linea>
+                    <Char>Virksomheder, der modtager statstilskud efter denne lov, skal årligt dokumentere, at de overholder aftaleforpligtelserne, jf. § 1, stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dokumentation skal udarbejdes af et certificerende organ, der er akkrediteret af DANAK – Den Danske Akkrediteringsfond eller tilsvarende anerkendt akkrediteringsorgan.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4404a430-f2ce-4276-920a-72be2fd2faf5">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren kan fastsætte regler om regnskaber, revision, tilsyn og kontrolforanstaltninger og regler om opkrævning af betaling til kontrol.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd93e9d9d-16f8-4105-b35b-c24d4a9a9e06" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id359ba6c1-e206-4c04-9fe1-0fad59d1d442">
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren kan bemyndige Energistyrelsen til at udøve de beføjelser, der i denne lov er tillagt ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc3d21082-f221-43a1-863b-151b76767c3d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energistyrelsen kan bemyndige en anden offentlig myndighed eller offentlig virksomhed til at udøve de beføjelser, der i henhold til denne lov eller regler udstedt i medfør heraf er tillagt Energistyrelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd0227d45-6403-4ac4-a7a5-6a9f458d4a59" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="ide6d37b4f-23d8-4f5f-9ada-2c095376e4f0">
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren kan fastsætte regler om, at nærmere angivne internationale vedtagelser og tekniske specifikationer vedrørende krav til virksomheders energiledelse og indgåelse af aftale om energieffektivisering m.v., som der henvises til i regler udstedt i medfør af denne lov, ikke indføres i Lovtidende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8856bdc2-e2f7-4dc2-854c-0fa28cb07a2e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren fastsætter regler om, hvorledes oplysning om de internationale vedtagelser og tekniske specifikationer, der ikke indføres i Lovtidende, jf. stk. 1, kan indhentes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id99eafb00-7260-4046-b4a4-42a497e28f4b" localId="4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="id5ecfbe8b-af99-456a-9caf-cea9b3c920f3">
+            <Linea>
+              <Char>Klage</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id728b6cc0-ebf9-425c-98d7-2ac000ad016e" localId="12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="idf9e862ff-f267-42d6-8673-2f8234803f0f">
+                <Exitus>
+                  <Linea>
+                    <Char>Energiklagenævnet behandler klager over</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="ida5ffeccb-019e-488e-82b5-6df7f007ea47">
+                  <Index>
+                    <Indentatio id="idb91243ca-b318-4e24-a049-a76c223fbe8c" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>afslag på tilskud, herunder afgørelser om, hvorvidt en virksomhed er omfattet af § 1, stk. 1, og opgørelse af tilskudsgrundlaget efter § 1, stk. 1, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id05d1b3a5-f7b0-4b28-bec7-dc9c189c096c" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>afgørelser efter § 6.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id72d8cf19-4fe3-4e74-a5ff-166964bef7f3">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klage efter stk. 1 skal være indgivet skriftligt til Energiklagenævnet, inden 4 uger efter at afgørelsen er meddelt tilskudsansøgeren eller tilskudsmodtageren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id33787892-bd5c-4275-b00a-7d2e7a510642">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved behandling af en klage efter stk. 1 består Energiklagenævnet af de medlemmer, som fremgår af § 5 i lov om statstilskud til dækning af udgifter til kuldioxidafgift i visse virksomheder med et stort energiforbrug.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4420e114-a337-4d4f-bc8c-8895e4151cb2">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energistyrelsens afgørelser truffet i henhold til denne lov eller regler udstedt i medfør heraf kan bortset fra klager efter stk. 1 ikke indbringes for anden administrativ myndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id14cc0a04-d53c-41ba-946e-e9327374d597">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Søgsmål til prøvelse af afgørelser i henhold til denne lov eller regler udstedt i medfør heraf skal være anlagt, inden 6 måneder efter at afgørelsen er meddelt den pågældende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idebaec5a1-1c5c-494a-a98e-d1f016d242f5">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energiklagenævnets formand kan efter nærmere aftale med nævnet træffe afgørelse på nævnets vegne i sager, der behandles efter denne lov eller regler udstedt i medfør heraf.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idf3694b36-2417-4e80-9c20-78c93ed7f95b" localId="5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica id="id65b568e2-8f4a-4319-b60e-378d81ba96a4">
+            <Linea>
+              <Char>Straf m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id94a18c55-1dea-47e9-8f8b-6609f801e7e1" localId="13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id33c44991-7868-4557-b674-badfecb68e09">
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der groft uagtsomt afgiver urigtige eller vildledende oplysninger om grundlaget for udbetaling af tilskud efter loven, eller den, der forsætligt eller groft uagtsomt undlader at afgive oplysninger efter § 8 eller fortier oplysninger om grundlaget for udbetaling af tilskud efter loven, straffes med bøde, medmindre højere straf er forskyldt efter anden lovgivning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd8733185-60c3-4e72-95a1-41f70d43175e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der begår en af de nævnte overtrædelser med forsæt til uberettiget at få udbetalt tilskud, straffes med bøde eller fængsel indtil 1 år og 6 måneder, medmindre højere straf er forskyldt efter straffelovens § 289.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3fa578bf-ed74-44bf-bbd7-c520b65c5bb2">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I regler, der udstedes i medfør af denne lov, kan der fastsættes straf af bøde for den, der forsætligt eller groft uagtsomt overtræder reglerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4858a4fe-844d-41dd-832f-a7d116f45682">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf87f504b-9656-48ae-b296-3d4cb23e8b5a" localId="14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="idde5ece38-d7b5-4300-9f02-46329b54cd8a">
+                <Exitus>
+                  <Linea>
+                    <Char>Ransagning i sager om overtrædelse af bestemmelserne i denne lov kan ske i overensstemmelse med retsplejelovens regler om ransagning i sager, som efter loven kan medføre frihedsstraf.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id6f33142b-ce99-474f-842f-4b1eadc73d33" localId="6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica id="id420e22e5-dbb4-4454-ae85-ffb4e84de59c">
+            <Linea>
+              <Char>Ikrafttrædelses- og overgangsbestemmelser m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idb8887e69-41ca-4169-ac5f-3815db90cb00" localId="15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="id06d556d2-50e3-41f9-aeb8-c476a3eb3d34">
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren fastsætter tidspunktet for lovens ikrafttræden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan herunder fastsætte, at lovens bestemmelser træder i kraft på forskellige tidspunkter.</Char>
+                  </Linea>
+                  <Nota id="idf30ad545-2ff3-4920-93d2-14aafa99f810">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>§§ 1-16, § 17, nr. 1-4, og §§ 18 og 19 i lov nr. 574 af 4. maj 2015 om statstilskud til elintensive virksomheder blev ved bekendtgørelse nr. 1046 af 7. september 2015 om ikrafttræden af visse bestemmelser i lov om statstilskud til elintensive virksomheder sat i kraft den 10. september 2015.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Nota id="id5f9c9d30-8e47-425c-8370-554dcac47707">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Ændringerne som følge af lov nr. 510 af 31. maj 2016 om ændring af lov om statstilskud til elintensive virksomheder (§ 1, stk. 1, nr. 2, § 1, stk. 4 og § 3, stk. 4), blev ved bekendtgørelse nr. 1602 af 15. december 2016 om ikrafttræden af lov om ændring af lov om statstilskud til elintensive virksomheder sat i kraft den 18. december 2016 med virkning fra den 1. juni 2016.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <AendringCentreretParagraf id="idc1b014e5-ef24-45e2-bac4-ffc7fa77a9fb">
+              <Explicatus>§ 16.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>I lov om statstilskud til dækning af udgifter til kuldioxidafgift i visse virksomheder med et stort energiforbrug, jf. lovbekendtgørelse nr. 424 af 8. maj 2012, foretages følgende ændringer:</Char>
+                </Linea>
+              </Exitus>
+              <AendringsNummer id="idee287a93-0e50-4010-bd1d-f7ff9b179ec8">
+                <Explicatus>1.</Explicatus>
+                <Aendring id="idb389b031-a796-4b3c-a598-fefebc7eefee">
+                  <AendringDefinition id="id0fccca40-9cc1-4c3a-a1fe-e87ad7dcbe27">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 2, stk. 1 og 2,</Char>
+                        <Char> ophæves.</Char>
+                      </Linea>
+                    </Exitus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Stk. 3 og 4 bliver herefter stk. 1 og 2.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id74164935-90dd-435c-bb1e-8c73eecd0ca2">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="ida0b26c9f-d5ed-41d2-a34e-a0abc19d50dc">
+                <Explicatus>2.</Explicatus>
+                <Aendring id="idfe047783-bf12-4a53-be7c-031181fc0447">
+                  <AendringDefinition id="id40ddb5a2-75d8-44af-99de-460ed457d996">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 5, stk. 3,</Char>
+                        <Char> ændres »§ 2, stk. 4« til: »§ 2, stk. 2«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idd8fcb3e8-701d-4512-b9dd-4f1326d09cb8">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+            </AendringCentreretParagraf>
+            <AendringCentreretParagraf id="id04097a8d-d10b-4d0e-b881-17cba37c1530">
+              <Explicatus>§ 17.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>lov om elforsyning, jf. lovbekendtgørelse nr. 1329 af 25. november 2013, som ændret bl.a. ved § 2 i lov nr. 576 af 18. juni 2012 og § 1 i lov nr. 633 af 16. juni 2014 og senest ved § 1 i lov nr. 1498 af 23. december 2014, foretages følgende ændringer:</Char>
+                </Linea>
+              </Exitus>
+              <AendringsNummer id="id01768b8b-f98f-497c-a7a7-d08b0fabc56d">
+                <Explicatus>1.</Explicatus>
+                <Aendring id="idc03d3537-b311-4d7f-afb6-ad48bf83a43d">
+                  <AendringDefinition id="id489df56f-23d9-499f-8a6e-0cee5e3f37db">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 8, stk. 1, </Char>
+                        <Char>udgår », 9«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id3c35bcb8-6e17-4a7a-99c6-8f0c9b7c5ba4">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id13746ac4-4440-4576-a111-1473df750ffa">
+                <Explicatus>2.</Explicatus>
+                <Aendring id="idff39aacb-aed0-4b47-bf59-bd4848c1f74c">
+                  <AendringDefinition id="id98a7f2d7-12e6-4cde-a37a-09155ac74de1">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 9 </Char>
+                        <Char>ophæves.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="iddcee9594-3de2-46be-bd16-87befb2cc33f">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id5257cffc-0c6f-4bdc-96a7-b36d64f45bc8">
+                <Explicatus>3.</Explicatus>
+                <Aendring id="idad6a9113-877d-46ee-915b-e7246c3428f7">
+                  <AendringDefinition id="id49787944-5c34-4d21-90b2-872e260389bf">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 28, stk. 2, nr. 13,</Char>
+                        <Char> udgår », 9«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id6c5e9b03-a654-44bb-8b44-f8c7075cb65a">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="idab74a995-f9d9-42ca-ae03-e243c0c8e201">
+                <Explicatus>4.</Explicatus>
+                <Aendring id="id1c17a465-7be4-4fd9-8429-3538415cf01a">
+                  <AendringDefinition id="id9d228b83-c5f4-4de2-8745-1b482c64a35b">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 89, stk. 2,</Char>
+                        <Char> udgår », og § 8, stk. 5, jf. § 9«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id7f5e9838-bbe0-448c-bcd1-c4024559710e">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id5127ce8c-017b-4ba2-8de5-b34bbb4542b4">
+                <Explicatus>5.</Explicatus>
+                <Aendring id="idc5ddb0ce-c66a-475c-95d1-6c2ef1896c1e">
+                  <AendringDefinition id="id8fad798a-3f90-448e-b1ba-dc64346070ea">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 89, stk. 2,</Char>
+                        <Char> indsættes efter »§ 8, stk. 5, jf. § 8, stk. 1, nr. 4«: », og § 58 c og regler udstedt i henhold til § 58 c«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idabbc449a-4fd8-48cd-899b-c38a08054131">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+            </AendringCentreretParagraf>
+            <AendringCentreretParagraf id="ida8426b84-1ef3-4173-87ec-cfeb1ebb8dbb">
+              <Explicatus>§ 18.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>I lov nr. 1498 af 23. december 2014 om ændring af lov om elforsyning, lov om naturgasforsyning, lov om varmeforsyning, lov om tilskud til fremme af vedvarende energi i virksomheders produktionsprocesser, biobrændstofloven og lov om fremme af besparelser i energiforbruget (Erhvervsrettet lempelse af PSO-betaling for elektricitet, afskaffelse af tilskudsordning til ikkekvoteomfattet elproduktion, afskaffelse af PSO-betaling for gas, fravigelse af iblandingsprocent for biobrændstoffer, faktureringsoplysninger m.v. til energiforbrugere, ændring af klageregler m.v.) foretages følgende ændring:</Char>
+                </Linea>
+              </Exitus>
+              <AendringsNummer id="idec5f328c-00ce-4f3e-9b79-b967fec35e40">
+                <Explicatus>1.</Explicatus>
+                <Aendring id="id36a4b8ec-8afd-4456-b749-0f5372f92570">
+                  <AendringDefinition id="idbc23abe0-226b-4989-ad41-52caa8375548">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 1, nr. 12</Char>
+                        <Char>, ophæves.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id33307925-22b8-4524-9fec-5b8f43ca061f">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+            </AendringCentreretParagraf>
+            <Paragraf id="id3fd99147-1b90-4a78-8a5d-14fb8fc47bf5" localId="19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="id10b517f4-219a-4687-aeba-4fbb157950ae">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id5a3bee30-164d-4b72-9559-bf99597bf8c7">
+    <UnderskriftStedDato id="id035b8a02-306d-4b70-9870-6cf4c50a09ef" />
+    <Underskriver id="id12665cf3-2078-4ca2-a9af-c4b0614b8ccf" />
+  </UnderskriftGruppe>
+</Dokument>

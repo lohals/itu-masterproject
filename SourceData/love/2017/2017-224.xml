@@ -1,0 +1,782 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="ida7e2d729-a838-4341-9cc9-6b468b91256d" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2016/09/26/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id4450988a-9513-43b1-b68d-5a0f2259796b">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20170022429</AccessionNumber>
+    <DocumentId>CK001224</DocumentId>
+    <UniqueDocumentId>187069</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om miljøbidrag og godtgørelse i forbindelse med ophugning og skrotning af biler</DocumentTitle>
+    <Year>2017</Year>
+    <DiesSigni>2017-03-06</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-03-07</EndDate>
+    <Status>Valid</Status>
+    <Number>224</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 224 af 06/03/2017</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <EuReferences>32000L0053</EuReferences>
+    <Subject>skrot</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">David Fjord Nielsen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Peter Østergaard Have</Signature>
+    <PlaceOfSignature>Miljøstyrelsen</PlaceOfSignature>
+    <JournalNumber>Miljø- og Fødevaremin.\nMiljøstyrelsen, j.nr. MST-029-00626</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+    <AdministrativeAuthority>Miljøstyrelsen</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id5469ea75-b008-4052-83bb-feeca4c26a8d">
+    <Titel id="id636622ab-ed2b-4e29-9edb-813cb0d11f28">
+      <Linea>
+        <Char>Bekendtgørelse af lov om miljøbidrag og godtgørelse i forbindelse med ophugning og skrotning af biler</Char>
+      </Linea>
+      <Nota id="id21d22274-7650-4990-8db8-f3cdbc8bd0aa" formaNo="EU">
+        <Explicatus>1)</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv 2000/53/EF af 18. september 2000 om udrangerede køretøjer, EF-Tidende 2000 L 269, side 34.</Char>
+          </Linea>
+        </Exitus>
+      </Nota>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="ide1aaf1f2-1115-48ab-9c36-cfc6ccb4de87">
+    <Indledning id="idb6ec4b14-3d1e-458e-b463-eaf334de84e0">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om miljøbidrag og godtgørelse i forbindelse med ophugning og skrotning af biler, jf. lovbekendtgørelse nr. 867 af 3. juli 2015, med den ændring, der følger af § 1 i lov nr. 150 af 7. februar 2017.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Den ændring, der følger af § 1, nr. 7, i lov nr. 177 af 24. februar 2015, og som vedrører § 8, stk. 2, er ikke indarbejdet i denne lovbekendtgørelse, da ændringen endnu ikke er trådt i kraft.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tidspunktet for ikrafttrædelse fastsættes af miljø- og fødevareministeren.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Den bekendtggjorte lovtekst vedrørende § 3 træder i kraft den 1. juli 2017, jf. § 2 i lov nr. 150 af 7. februar 2017.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="id3c537f91-2a3f-4c90-b387-7a7c8c8104f7">
+      <Afsnit id="idd896444d-4de4-4928-8fbb-6aeb7bf4b699" localId="1">
+        <Kapitel id="id9975c501-4fd0-402d-9b9a-3ce287660140" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="id481b9f22-f21c-46ca-b89b-b373fe7648f8">
+            <Linea>
+              <Char>Formål m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="iddf422d5a-6102-456a-abf7-2c36f9082750" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="id20684c03-6ce4-4c08-b1b2-c86973293bb3">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven har til formål at sikre finansieringsgrundlaget for udbetaling af en godtgørelse ved aflevering af affald i form af motorkøretøjer til affaldshåndtering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd05a2912-445e-416d-8104-c7906c39ab3c" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="idecc123de-3d79-4076-9f00-faeb47f8332e">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven omfatter følgende motorkøretøjer:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idc7b201f8-4302-4234-9836-579f5e874430">
+                  <Index>
+                    <Indentatio id="idedf38204-9660-4374-9725-cdd8b3f0df91" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Biler, der er indrettet til at benyttes til befordring af højst 9 personer føreren medregnet (personbil M1), og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id83630823-b132-41dd-9729-918fcd8d3eaa" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>biler, der er indrettet til at benyttes til godsbefordring, og som har en tilladt totalvægt på ikke over 3500 kg (varebil N1).</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id48222c9e-3352-46e9-8b62-93ac2a1fd8c0">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved forsikringsselskaber forstås i denne lov de forsikringsselskaber eller disses repræsentanter, jf. § 2, stk. 1, i lov om afgift af ansvarsforsikringer for motorkøretøjer m.v., der tegner ansvarsforsikring for motorkøretøjer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id35fa5bed-9824-4f02-9f94-a0c927323014">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for motordrevne køretøjer, der er omfattet af færdselslovens bestemmelser om selvforsikrede køretøjer og som følge heraf ikke er dækket af en forsikring i et ansvarsforsikringsselskab.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id4bb1205a-3626-4847-9cc2-d80d5f1c6651" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="idc0451bf2-6141-4c49-a3ec-bb3518ceadcd">
+            <Linea>
+              <Char>Miljøbidrag</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id45a1c77c-1160-4f79-8aa4-1c093fecda58" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id99e9867a-a09a-43ef-8773-e9b0f4e8a863">
+                <Exitus>
+                  <Linea>
+                    <Char>Ejeren af en bil, der er omfattet af § 2 og indregistreret i Danmark, skal årligt betale et miljøbidrag på 84 kr.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id6200304b-d255-4dbb-b597-cb2d34e244b3" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="idc82234ce-2317-41f2-b3e8-1f82791b251f">
+                <Exitus>
+                  <Linea>
+                    <Char>Forsikringsselskaberne skal opkræve det i § 3 nævnte miljøbidrag samtidig med præmien på den lovpligtige ansvarsforsikring.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9e354f52-e3a2-4289-93fe-a8c1632582bc" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="idcbee7cd1-c3a8-45fc-82af-7e11ffac078b">
+                <Exitus>
+                  <Linea>
+                    <Char>Forsikringsselskaberne skal samtidig med den i henhold til lov om afgift af ansvarsforsikringer for motorkøretøjer m.v. opgjorte størrelse af den afgiftspligtige præmieindtægt angive summen af de pligtige miljøbidrag til told- og skatteforvaltningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id28844ad6-caca-4d5b-86db-f7d538147d49">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøbidraget indbetales af forsikringsselskaberne til told- og skatteforvaltningen samtidig med afgiftsindbetalingen i henhold til lov om afgift af ansvarsforsikringer for motorkøretøjer m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2a22471e-1993-45b6-a935-ffe50bad0748">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Indbetaler forsikringsselskaberne ikke miljøbidraget rettidigt, skal der betales rente herfor samt gebyr for erindringsskrivelse efter reglerne i lov om afgift af ansvarsforsikringer for motorkøretøjer m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb2569b87-1d0c-46dd-b700-f30ac20cded8">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Præmien for ansvarsforsikringen kan af forsikringsselskaberne forhøjes med miljøbidraget, hvis størrelse i givet fald skal fremgå af præmieopkrævningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id84d8a643-2f89-4c3f-aa3b-177e8aa2b14b">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forsikringstageren kan ikke opsige en forsikringsaftale på grund af forhøjelse af præmien, som alene sker i medfør af stk. 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id311994bf-8f1c-4ccb-be46-c14a88eb0821">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan efter forhandling med told- og skatteforvaltningen fastsætte nærmere bestemmelser for administration af miljøbidraget, herunder for opkrævning og indbetaling af bidraget, regnskabsførelse, angivelse og kontrol samt om adgangen til at klage over afgørelser truffet i henhold til bestemmelserne, herunder at afgørelserne ikke skal kunne indbringes for højere administrativ myndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idca1c0e28-ce2a-4cf7-9fa6-e8e71f6abb55" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="id6ee84b23-6875-40e5-8eac-061312e10ee2">
+            <Linea>
+              <Char>Godtgørelse</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idb0c9245c-5cc0-4c0b-8e91-178c50eae210" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id78bd9e30-fc51-443d-b1e5-b4315173e248">
+                <Exitus>
+                  <Linea>
+                    <Char>Der ydes efter anmodning en godtgørelse til ejeren af et motorkøretøj, jf. § 2, i forbindelse med indlevering af dette til affaldshåndtering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5272c66b-e411-45d4-9c86-b30dd5726b8e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der ydes endvidere efter anmodning en godtgørelse til politi og kommuner, som efter retmæssig fjernelse eller konfiskation indleverer motorkøretøjer omfattet af § 2 til affaldshåndtering.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dette gælder, uanset om betingelserne i stk. 5, nr. 2 og 3, er opfyldt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf4d15e94-805b-4f2e-b710-a32d9a743f0a">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ejeren af en bil har i op til 1 år fra udbetalingen af godtgørelsen til kommunen, jf. stk. 2, krav på, at kommunen udbetaler godtgørelsen med fradrag af udgifter til opbevaring, transport og affaldsbehandling.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dette gælder kun, hvis samtlige betingelser i stk. 5 er opfyldt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfaf82607-31c0-4dd6-9394-efbd0fa049d6">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter størrelsen af godtgørelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idde823a00-f599-4314-8d44-aef838c80d24">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det er en betingelse for, at der kan ydes godtgørelse, at</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="ide3488a3a-c3c8-479b-9401-5c1764786ed5">
+                  <Index>
+                    <Indentatio id="id8c530172-ab35-4bef-88a2-a91aff6a2906" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>køretøjet er afmeldt i Køretøjsregisteret efter lovens ikrafttræden,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id4907624f-91b2-4080-bdd0-d8d2e0df7af1" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>der ikke er opnået godtgørelse af registreringsafgiften hos SKAT, jf. registreringsafgiftslovens § 7 b,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id24f7a404-3211-427c-a03d-83d583383802" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>køretøjet efter afmeldingen fra Køretøjsregisteret ikke har været indregistreret i et andet land og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8ff219d2-296e-431a-b1fd-7e2fd614a9e2" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>køretøjet er indleveret til en virksomhed, der håndterer affaldet i overensstemmelse med de til enhver tid gældende regler herfor.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id4a6debf3-8930-43cb-9f11-662186121e27" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="id7b8c76ac-c79a-4dc7-8467-36b1c97e532b">
+                <Exitus>
+                  <Linea>
+                    <Char>Anmodning om udbetaling af godtgørelse indsendes til den af miljø- og fødevareministeren udpegede administrator, der udbetaler godtgørelsen, når betingelserne i § 6, stk. 5, er opfyldt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7041d875-568e-4655-8749-a536e2d21deb">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter nærmere bestemmelser om godtgørelsesordningen, herunder om ordningens administration, krav til dokumentation for, at § 6, stk. 5, er opfyldt og eventuel tilbagebetaling af godtgørelse og renter heraf.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ide4316ae2-6536-4d51-bba4-3b0382a4e033" localId="7a">
+              <Explicatus>§ 7 a.</Explicatus>
+              <Stk id="idda8b3ff2-da9c-4322-be1d-1d021615bd60">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om, at anmodning om godtgørelse skal indsendes digitalt, og at kommunikation mellem administrator og ansøger skal foregå digitalt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte nærmere regler om digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og skemaer samt digital signatur.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3ac54b55-c22c-4259-a381-246da78855a1">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id66309763-639d-4f94-a0e5-8f3d1914e41e" localId="7b">
+              <Explicatus>§ 7 b.</Explicatus>
+              <Stk id="id203f51bd-5e00-4f70-ac89-ad59cc544c03">
+                <Exitus>
+                  <Linea>
+                    <Char>Administrator kan fra andre myndigheder indhente de oplysninger, der er nødvendige for sagsbehandlingen, herunder om, hvem der er registreret som ejer af det køretøj, for hvilket der ansøges om godtgørelse, og om køretøjet er afmeldt, jf. § 6, stk. 5, nr. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Administrator kan herunder foretage sammenstilling og samkøring af oplysninger, herunder personoplysninger, i kontroløjemed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id062cd4a2-3de2-4189-9e68-b3962365192f" localId="3a">
+          <Explicatus>Kapitel 3 a</Explicatus>
+          <Rubrica id="iddc8a9bc4-192a-4f75-8352-13e308574b62">
+            <Linea>
+              <Char>Skrotningsbidrag</Char>
+            </Linea>
+            <Nota id="id200f7dbd-c6f1-4a2b-9a40-e6587561eed2">
+              <Explicatus>2)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Kapitel 3 a med §§ 7 a-c blev indsat ved lov nr. 385 af 6. juni 2002 og ophævet ved lov nr. 1629 af 26. december 2013.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Ved lov nr. 177 af 24. februar 2015 blev §§ 7 a og b genindsat, men med nyt indhold og i kapitel 3.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="idab095060-4953-44e3-b8c2-509c0d71ce5a">
+              <Linea>
+                <Char>(Ophævet)</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id63602614-0e0d-439c-b419-28401db5646b" localId="7c">
+              <Explicatus>§ 7 c.</Explicatus>
+              <Stk id="idaf8885c1-df25-437d-8939-a115fd3f30a9">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idb075c8fc-7f93-4692-8787-dceffd6c4f02" localId="4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="ida6916b93-64ca-4b89-9f25-a743cbf02db0">
+            <Linea>
+              <Char>Administrative bestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id577f0f09-6e07-46eb-ade8-984603795635" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="id38be7c48-1a1e-42b9-83e9-3f12400b6dc2">
+                <Exitus>
+                  <Linea>
+                    <Char>Administrationen af godtgørelsesordningen udøves af en administrator, der udpeges af miljø- og fødevareministeren.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter revisionsinstruks for administrator.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7e32de78-4d60-4a18-93b8-efd145e42e76">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Alle tilfælde, hvor den af miljø- og fødevareministeren godkendte administrator ikke finder betingelserne for ydelse af godtgørelse opfyldt, eller hvor der opstår tvivlsspørgsmål, forelægges snarest ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idac342665-8b1e-4d67-9504-8a3b1845f076" localId="8a">
+              <Explicatus>§ 8 a.</Explicatus>
+              <Stk id="id16648fa7-46d0-46a2-b746-b3fa468d9c34">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan bemyndige en under ministeriet oprettet styrelse eller tilsvarende institution til at udøve de beføjelser, der er tillagt ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida0ab7a63-0aed-4c1f-b3df-7cd68c4340ce">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om adgangen til at påklage afgørelser, der er truffet i henhold til bemyndigelse efter stk. 1, herunder at afgørelserne ikke skal kunne indbringes for ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id944c1d6f-9c76-4415-b07e-af592415c11f" localId="8b">
+              <Explicatus>§ 8 b.</Explicatus>
+              <Stk id="idca267e8c-1606-4fb0-9d6d-07a45f594c15">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om tilsyn med, at regler udstedt i medfør af § 7, stk. 2, overholdes hos de virksomheder, der håndterer motorkøretøjer, der er afleveret til affaldsbehandling.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id2fef393b-2dd3-4c2b-81bc-67d55f2fb414" localId="8c">
+              <Explicatus>§ 8 c.</Explicatus>
+              <Stk id="ide1391837-cf01-4b39-bc20-d5640b25d9bd">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsynsmyndigheden eller personer, der af tilsynsmyndigheden er bemyndiget hertil, har til enhver tid mod behørig legitimation uden retskendelse adgang til offentlige og private ejendomme, lokaliteter og transportmidler for at udføre tilsyn i overensstemmelse med regler udstedt i medfør af § 8 b.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8ba3861d-d887-4de0-af0c-8ad4ce808c36">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1 finder ikke anvendelse på bygninger eller dele af bygninger, der udelukkende anvendes til privat beboelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id1c2bd3a4-b46e-457d-8a38-be6e1cd7e4bd" localId="5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica id="id59469d8a-5b24-415b-8950-3c036f4a81a5">
+            <Linea>
+              <Char>Straf</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id536da852-7442-4571-9e33-a41679c8ff8e" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="id1ea36ccd-0b02-4387-9e82-141325786ef3">
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre højere straf er forskyldt efter den øvrige lovgivning, straffes med bøde den, der undlader at give oplysninger i henhold til § 5, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc323e068-f114-4523-9a2b-efb3899da456">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I forskrifter, der udstedes i medfør af loven, kan der fastsættes straf af bøde for den, der forsætligt eller groft uagtsomt overtræder bestemmelser i forskrifterne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5e219278-2177-4c10-92ae-4456dd9b92b3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id3754d4b7-0616-430d-8565-2e08608953b5" localId="6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica id="id6031db66-b085-456c-97e6-62bf456718c5">
+            <Linea>
+              <Char>Ikrafttræden m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="ide848f12f-ce42-4ed3-a024-0cde662d7465" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id6be03530-ca3a-41f5-ad3e-42ece270e52b">
+                <Exitus>
+                  <Linea>
+                    <Char>Tidspunktet for lovens ikrafttræden fastsættes af miljøministeren.</Char>
+                  </Linea>
+                  <Nota id="id4c790085-2ace-4785-953d-75b5faa8ae38">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Loven trådte i kraft den 1. april 2000, jf. bekendtgørelse nr. 139 af 25. februar 2000 om ikrafttræden af lov om miljøbidrag og godtgørelse i forbindelse med ophugning og skrotning af biler.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ideef32e02-bf5d-4ebc-a0a3-138fc2267af1" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="id95d045b0-bf51-4664-bb73-981d1c1f3c37">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="id60193efe-2946-4205-b3e5-c12d3b53b79d">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 385 af 6. juni 2002 (Nedsættelse af miljøbidrag og opkrævning af skrotningsbidrag m.m.)</Char>
+        </Linea>
+        <Nota id="id71dfaf4f-9e13-46f5-b480-2ecc5f52f9ca">
+          <Explicatus>4)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv 2000/53/EF af 18. september 2000 om udrangerede køretøjer, EF-Tidende 2000 L 269, side 34.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Nota id="idd8873cdf-53c5-4711-983b-8efeb36a9fde">
+          <Explicatus>5)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører lovens titel, fodnoten til lovens titel, § 1, § 2, stk. 4, § 3, § 5, stk. 6, § 6, stk. 2-5, § 7, stk. 1 og 2, §§ 7 a-c, § 8, stk. 1 og 2, § 8 a, § 9, stk. 1, og § 10.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="idd69ac9d8-9aab-4530-ba8e-5b3a48bf094a">
+        <Explicatus>§ 2</Explicatus>
+        <Stk id="idb2f416da-be44-41bd-a5e4-2d3c39630992">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+            </Linea>
+            <Nota id="idd0e1061e-b58a-4124-94ac-bf6523dd3c60">
+              <Explicatus>6)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lov nr. 385 af 6. juni 2002 blev offentliggjort den 7. juni 2002.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+          </Exitus>
+        </Stk>
+        <Stk id="id9df362a0-7f74-4a3d-af60-42100c789afc">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 1, nr. 4, træder dog i kraft den 1. oktober 2002, og § 1, nr. 6, træder i kraft den 1. juli 2002.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id11b5000d-0a79-4b77-a574-985af0124f9a">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 428 af 6. juni 2005 (Konsekvensændringer som følge af kommunalreformen m.v.)</Char>
+        </Linea>
+        <Nota id="id26ce3cf1-0797-4f0b-8874-b973d52b6126">
+          <Explicatus>7)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører § 5, stk. 1, 2 og 6.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id0e36821a-7f68-4bdf-82af-aa0dcf72fb9d">
+        <Explicatus>§ 125</Explicatus>
+        <Stk id="id8c0d7643-6045-4e6a-93fc-44a0019283ab">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+            </Linea>
+            <Nota id="idbc587f83-ffda-4591-9292-5973a6badfa8">
+              <Explicatus>8)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lov nr. 428 af 6. juni 2005 blev offentliggjort den 7. juni 2005.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>§ 69 træder dog tidligst i kraft på det eller de tidspunkter, som skatteministeren fastsætter som ikrafttrædelsestidspunkt for lov om beskatning af søfolk eller de relevante dele af den nævnte lov, jf. lovens § 17.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id8a18c59e-7db2-4320-be55-2063abc0454a">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven har virkning fra den 1. november 2005.</Char>
+            </Linea>
+            <Linea>
+              <Char>§ 70, nr. 1, og § 104 har dog virkning fra lovens ikrafttræden.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idc2bf8a30-6469-4d9d-abf1-318d5e88fc39">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udeladt)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id24634050-ba2c-4142-a960-7ed70c41b28b">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1629 af 26. december 2013 (Forhøjelse af miljøbidrag og ophævelse af reglerne om betaling af skrotningsbidrag)</Char>
+        </Linea>
+        <Nota id="id1fdd64fe-27ab-43b5-8e55-40ba09b55f8b">
+          <Explicatus>9)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører lovens titel, § 1, § 2, stk. 4, § 3, kapitel 3 a, § 8, stk. 2, og § 8 a.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id3d423ea3-5aaf-460f-96d2-734192e0e3a7">
+        <Explicatus>§ 2</Explicatus>
+        <Stk id="id6a7804d4-e556-43a0-b970-49b4065be845">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. april 2014.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id297605a2-d611-44a5-91f0-dd4ca5647e8c">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 1, nr. 4, finder anvendelse fra den første ordinære opkrævning af forsikringspræmie efter lovens ikrafttræden.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id3b60e9f1-9654-469e-82e1-e2e066c55dcf">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 177 af 24. februar 2015 (Obligatorisk digital kommunikation, ændringer i administrationsordningen for udbetaling af skrotningsgodtgørelse og nedsættelse af betalingssats for indsamling af bærbare batterier m.v.)</Char>
+        </Linea>
+        <Nota id="id94ddec04-4d9d-4aef-a823-cf7cb31b8e98">
+          <Explicatus>10)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører § 6, stk. 2, 3 og 5, § 7 a og b, § 8 og § 8 b og c.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id9f3cbe6d-0438-471c-b2f6-65b2091652a6">
+        <Explicatus>§ 3</Explicatus>
+        <Stk id="id64dec5bc-e09b-4fd1-bb35-18c98b3a5ddd">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. marts 2015, jf. dog stk. 2-4.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id0654388b-c2c8-4aa2-b14e-7625f616545b">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Miljøministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 7.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id5a44dcb9-a807-49b6-ba23-bc5477aa62e3">
+          <Explicatus>Stk. 3-5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id4a90db88-ae70-4e6d-b1db-5ddf75a88540">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 150 (Nedsættelse af miljøbidrag)</Char>
+        </Linea>
+        <Nota id="id1d541712-ee9f-4bd2-a005-4da7d24c7e74">
+          <Explicatus>11)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører § 3.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id5239e775-f275-4d8e-8057-98974ca7a8d2">
+        <Explicatus>§ 2</Explicatus>
+        <Stk id="id08e051fa-ead0-41a8-905b-6825203a3660">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. juli 2017.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="ide2cfad3c-8d16-4ed2-88e3-89357a77c099">
+    <UnderskriftStedDato id="id35680a92-4f03-443c-9871-859a7c4c068c" />
+    <Underskriver id="id3cec5658-7cdd-4751-9a22-731f030104f2" />
+  </UnderskriftGruppe>
+</Dokument>

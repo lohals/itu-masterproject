@@ -1,0 +1,962 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id57de2416-d4e3-42ae-90dd-095e0cb172c3" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2016/09/26/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id26bf7c18-23f8-49a0-95bc-6a0bb18d8787">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20170001129</AccessionNumber>
+    <DocumentId>CK001116</DocumentId>
+    <UniqueDocumentId>186153</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om drift af landbrugsjorder</DocumentTitle>
+    <Year>2017</Year>
+    <DiesSigni>2017-01-04</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-01-06</EndDate>
+    <Status>Valid</Status>
+    <Number>11</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 11 af 04/01/2017</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Jette Petersen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Dorthe Nielsen</Signature>
+    <PlaceOfSignature>NaturErhvervstyrelsen</PlaceOfSignature>
+    <JournalNumber>Miljø- og Fødevaremin.,\nNaturErhvervstyrelsen, j.nr. 16-0122-000014</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id1be92c0d-3683-4900-bb00-0e8546338d53">
+    <Titel id="id58dd3ea6-4934-4622-811f-7a722a136d57">
+      <Linea>
+        <Char>Bekendtgørelse af lov om drift af landbrugsjorder</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idf3599b72-87f9-4e6d-8d79-5a54ab4b45d3">
+    <Indledning id="id254f8dc1-99ac-4fe8-8753-dc1cf8ce7e2f">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om drift af landbrugsjorder, jf. lovbekendtgørelse nr. 191 af 12. marts 2009, med den ændring, der følger af § 83 i lov nr. 1715 af 27. december 2016.</Char>
+        </Linea>
+        <Nota id="id0eef208f-86b6-4b8a-a668-3797aa0232c7">
+          <Explicatus>1)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Denne lovbekendtgørelse gengiver alene ikrafttrædelses- og overgangsbestemmelsen i lov nr. 1715 af 27. december 2016.</Char>
+            </Linea>
+            <Linea>
+              <Char>De bemærkninger om ikrafttrædelsesbestemmelser for de tidligere vedtagne ændringer af loven, der fremgår af lovbekendtgørelse nr. 191 af 12. marts 2009, er ikke gengivet i denne lovbekendtgørelse.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Den bekendtgjorte lovtekst vedrørende § 16 a træder i kraft den 1. februar 2017, jf. § 24, stk. 1, i lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="id35ab194a-60f6-4ed8-a9af-8c0746e65276">
+      <Afsnit id="id4bd572fe-9154-40aa-b47c-805c0afd1dd9" localId="1">
+        <Kapitel id="idcd735c95-7e07-4c41-9734-e7138c388b05" localId="1">
+          <ParagrafGruppe>
+            <Rubrica id="ida1724a27-82a1-454c-8c7a-83848b6cd123">
+              <Linea>
+                <Char>Formål, område og definitioner</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idd1c9a816-a01e-4a72-a0bd-8428b492714c" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="id40fe4deb-71da-4df3-a338-3b82c5c1796e">
+                <Exitus>
+                  <Linea>
+                    <Char>Lovens formål er at fremme en bæredygtig udvikling af driften af landbrugsjorder ved at forene hensyn til</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="ida25f99f3-867d-49ba-875f-353ad7f961bd">
+                  <Index>
+                    <Indentatio id="idbe38231a-09c1-4cfd-b704-1b0f96607ad3" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>bevaring af produktionsgrundlaget og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id88b5edb2-e05d-4048-bd2b-201b9c1ad907" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>bevaring af natur, miljø og landskabelige værdier.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idf532538e-a67e-4e38-ae9b-2d48ff80a809">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder for alle ubebyggede og ubefæstede arealer, jf. dog stk. 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4c993188-9783-4984-a884-3f5a1391c6d3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder for ejere og brugere af de arealer, der omfattes af loven, jf. stk. 2, samt virksomheder tilknyttet landbrugsdrift, jf. dog stk. 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd22a8136-11d5-4125-b2dc-654f84a02511">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren</Char>
+                  </Linea>
+                  <Nota id="idfca61344-b686-454b-b9d5-d0d82b0050d0">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Ved kongelig resolution af 28. juni 2015 blev Miljøministeriet og Ministeriet for Fødevarer, Landbrug og Fiskeri sammenlagt til et Miljø- og Fødevareministerium, jf. bekendtgørelse nr. 1229 af 3. november 2015 om ændring i forretningernes fordeling mellem ministrene.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>kan fastsætte regler, hvorefter bestemmelser i loven kun gælder for en del af de i stk. 2 nævnte arealer og visse af de i stk. 3 nævnte personer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id814a53fc-533f-499d-889a-93efbdff9579" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="id78d9a76d-731a-4ce1-892b-1e401a388e54">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved landbrugsjorder forstås i denne lov ubebyggede og ubefæstede arealer, der kan anvendes til jordbrugsmæssige formål.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id16c05778-f111-453f-b39c-4ff4d2408647">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved jordbrugsmæssige formål forstås i denne lov anvendelse til dyrknings- og naturformål, som nærmere fastsat i § 4, nr. 1-4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2be29c08-35d2-472f-9802-01481363b39d">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved plantage forstås i denne lov landbrugsjorder, der dyrkes med plantede eller såede buske eller træer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb00419a7-3897-4df4-9dc5-af82a1986456">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved naturarealer forstås i denne lov landbrugsjorder, hvor vegetationen på arealerne overvejende består af naturligt hjemmehørende plantearter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id935b5926-ed3d-4a7e-b4b1-11398f146b4a">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved lysåbne arealer forstås i denne lov landbrugsjorder, hvor vegetationen på arealerne overvejende består af lavtvoksende plantearter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide03ba72c-4b2e-462b-86df-aec60a884425">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved halvkulturarealer forstås i denne lov landbrugsjorder, som er lysåbne og har en naturtilstand, der kræver en ekstensiv landbrugsdrift for at kunne opretholdes i denne tilstand.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfa7bbb6c-90bb-4109-8972-c4b983ecc840">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved udyrkede arealer forstås i denne lov landbrugsjorder, hvor der ikke foregår nogen form for drift.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Rydning af opvækst af træer og buske, herunder ved slåning, betragtes i denne forstand ikke som drift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0ec77b8f-912a-44ef-8a2e-222472f319c0">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved småbiotoper forstås i denne lov små arealer, der fungerer som levesteder for vilde planter og dyr, og som i deres karakter adskiller sig fra de omgivende landbrugsjorder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id99fa9586-5461-4ead-9f9a-d98f34426bf1">
+              <Linea>
+                <Char>Jordressourcens anvendelse til dyrkning og natur</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idcf0fce95-d95f-4f0d-b539-ae8faf2777a7" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id6fa3d55c-cf8a-4851-82f3-39bd2a300986">
+                <Exitus>
+                  <Linea>
+                    <Char>Alle landbrugsjorder i landzone samt arealer i byzone og sommerhusområder, der er noteret med landbrugspligt, skal anvendes til jordbrugsmæssige formål, jf. dog stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd79599e8-a584-4c1a-addc-a193832158ee">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kravet i stk. 1 om anvendelse til jordbrugsmæssige formål gælder ikke for</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idd9eb8325-0573-4bd7-bd44-9019ead68cbe">
+                  <Index>
+                    <Indentatio id="id7688b920-43e4-4285-bf3b-a81d7abe2e7f" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>arealer, der anvendes til ikkejordbrugsmæssige formål i overensstemmelse med en lokalplan eller en landzonetilladelse eller anvendes til anden lovlig ikkejordbrugsmæssig anvendelse,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="iddcf8cf1a-63b1-4528-8a36-f54f8faede62" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>fredskovspligtige arealer og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id81d60636-65c4-4c09-9bd4-9ad0ec51cf43" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>haver, der inklusive bebyggelse er under 2 ha.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8e093a4e-310c-4406-b698-4dd023208d3c" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id116bb10f-562d-476e-808a-7a28116e2026">
+                <Exitus>
+                  <Linea>
+                    <Char>Ejere eller brugere af landbrugsjorder, der er omfattet af § 3, stk. 1, jf. § 3, stk. 2, skal anvende landbrugsjorderne på forsvarlig jordbrugsmæssig måde ved anvendelse til følgende jordbrugsmæssige formål:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id62935378-9751-479b-b2b0-3db93a803cf4">
+                  <Index>
+                    <Indentatio id="ida95cccf5-02ce-4c79-a6ab-4a50a938ce0c" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Dyrkning af et- eller flerårige afgrøder, herunder plantage, og anvendelse som skov.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc7e91faf-26f7-4a45-9f48-fdb6fe842608" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Drift som halvkultur eller henliggen som udyrket og lysåbent areal.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide159b6ca-803d-4106-8140-0472871a88b4" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Kulturtekniske foranstaltninger.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id96e4c491-b4e4-4fba-b521-5e1ee9b4a69e" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Småbiotoper og småplantninger til og med 0,5 ha.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id632ddd8b-e165-4520-819d-c6a9cf39f803" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="id6927635e-42e3-4f17-9b8f-5c9352c0caa2">
+                <Exitus>
+                  <Linea>
+                    <Char>Ejere eller brugere af landbrugsjorder, der er omfattet af § 3, stk. 1, jf. § 3, stk. 2, skal holde disse fri for opvækst af træer og buske, jf. dog stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idedf63b9d-f6cb-4ab0-90d3-d0723f0bec08">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Følgende landbrugsjorder er undtaget fra kravet i stk. 1 om friholdelse for opvækst af træer og buske:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id9adafabb-cc46-4d59-b299-1b6d0c6187bf">
+                  <Index>
+                    <Indentatio id="idbee14b30-754a-4834-acc7-4a38173a99a4" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Arealer med plantage og skov eller arealer anmeldt som skov, jf. stk. 3.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide382b15e-b82b-4a28-9fa8-877b73172cf8" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Arealer med læhegn og lignende.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8f2e6f9f-b478-4638-aac6-bb20db154bab" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Arealer med småbiotoper, der består af træer og buske, samt småplantninger til og med 0,5 ha.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idaec46388-53cc-43df-9c67-54d2f735484f" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Arealer med anden lovlig beplantning, jf. § 7.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id71aab8bc-59bb-4ea1-9d9b-946eb5ce8575" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Klitfredede arealer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida229f5f4-f6fd-4c1f-a4a5-fb3008328254" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Arealer, der er meget våde, stejle eller på anden måde vanskelige at rydde med maskiner, eller som er vanskeligt tilgængelige.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id1fb55085-643d-48ea-8652-8da4a28e1c12">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uanset bestemmelserne i stk. 1 er det tilladt at etablere skov i overensstemmelse med regionplanens bestemmelser om skovrejsning, når der foretages anmeldelse til en myndighed bestemt af miljø- og fødevareministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id2aa1e3bf-9e65-4951-9531-29c66601552c" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id574d003f-b33d-4241-9133-5390a6a78e13">
+                <Exitus>
+                  <Linea>
+                    <Char>En ejer eller bruger kan anmelde et areal, der ikke er beskyttet efter § 3 i lov om naturbeskyttelse, som halvkulturareal eller udyrket areal til kommunalbestyrelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ejeren eller brugeren opnår derved ret til at genopdyrke arealet inden for de næste 15 år, uanset at arealet i mellemtiden måtte komme til at opfylde kriterierne for § 3-beskyttelsen, medmindre kommunalbestyrelsen inden 4 uger efter anmeldelsen har oplyst ejeren eller brugeren om, at arealet allerede er beskyttet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id3afe25eb-6109-4911-9634-0f292c80c824" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="idb765398f-196d-479f-b7d3-8ddefd430a47">
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i §§ 3-5 er ikke til hinder for opretholdelse af andre former for natur end angivet i § 4, hvis de var etableret ved lovens ikrafttræden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestemmelserne er heller ikke til hinder for varig ændring i arealanvendelsen til andre former for natur end angivet i § 4, når det er i overensstemmelse med anden lovgivning og med vedtagne og offentliggjorte planer i henhold til anden lovgivning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3e8b51ed-624a-46c4-9839-4800ee2ccb0c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis etablering af andre former for natur efter stk. 1 indebærer beplantning over 0,5 ha, skal der ske anmeldelse til en myndighed bestemt af miljø- og fødevareministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5cbc6703-58c8-4881-bd16-1cfbaf20afd7">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Naturarealer, jf. stk. 1, kan til enhver tid anvendes til jordbrugsmæssige formål, jf. § 4, igen, medmindre dette vil være i strid med anden lovgivning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id7d4675a2-32ef-431c-a6e8-9caf49f479c2" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="id1a58f7bc-77d2-409b-bf4c-591be643f787">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte nærmere regler om anvendelse af landbrugsjorder, jf. §§ 3-7, herunder om fravigelser af reglerne i særlige tilfælde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id88ad7f6c-575e-4b87-a5a4-1c6699457d77">
+              <Linea>
+                <Char>Landskabelige værdier</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id9d349c7e-bfd9-49a6-a4f0-118cab835972" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="idd3ee61dd-6eb8-4339-aae1-cb99061703fb">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte særlige regler om</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="ideb686502-7347-409d-ae1b-08b56a0c350f">
+                  <Index>
+                    <Indentatio id="ida58b67cc-e3a2-470f-a79d-b70f0af31eb9" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>skovplantning, herunder regler om, at der ikke må foretages skovplantning inden for områder, hvor skovplantning er uønsket i henhold til en endeligt vedtaget kommuneplan, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id64c8c685-d46b-40be-b657-5a819d8f7a4d" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>kommunalbestyrelsens mulighed for at påbyde en ejer eller bruger at etablere skærmende beplantning om skæmmende tekniske anlæg inden for områder, der i en offentliggjort indsatsplan, jf. § 12, er fastlagt som områder, hvor skærmende beplantning er ønskelig af landskabelige hensyn.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id5992f9d9-d84f-41ee-ad30-8921a6427474">
+              <Linea>
+                <Char>Uønskede plantearter</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="iddab21c19-8e5a-4944-b30c-887e9a303532" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id1ea42b6f-9da9-4783-a0be-27b9aba4f85a">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren træffer bestemmelse om, hvilke plantearter der skal anses for uønskede, fordi de kan skade afgrøderne, naturen eller landskabet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id14c1ec59-64d6-450b-ad8f-9b2f532a8e6f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om bekæmpelse og forebyggelse af udbredelse af uønskede plantearter, herunder om</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id314bbad4-fa90-4d57-81bd-a36d509938d8">
+                  <Index>
+                    <Indentatio id="idc3e9adeb-11b8-4ca3-9360-8a506b33bbf0" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>håndtering og behandling af varer og produkter med indhold af uønskede plantearter,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida8887575-bde0-424b-ae3e-63313d7cd07f" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>transport ad offentlig vej af varer og produkter med indhold af uønskede plantearter,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd1a5acf5-2c09-48e8-862e-2335c9745876" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>rengøring af transportmidler, maskiner, redskaber, emballage og lokaler, der har været anvendt til transport, behandling, håndtering og opbevaring af varer med indhold af uønskede plantearter,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id063315f8-6b9f-48d5-8b70-dbacd17b776d" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>overdragelse af varer og produkter med indhold af uønskede plantearter,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd375e6b6-f3ea-4101-aabb-84a7e52b6c35" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>behandling af arealer med forekomst af uønskede plantearter og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id5f67c7b0-d372-4d1e-97d0-f99aeab8ff6d" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>pligt til at afgive oplysning om forekomst af uønskede plantearter, herunder ved overdragelse af ejendoms- eller brugsret til arealer eller ved anvendelse af maskiner og redskaber m.v., der tilhører andre.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idea2a1070-e8d3-4a12-aac4-d53e543538f8">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I regler udstedt i medfør af stk. 2 kan der fastsættes bestemmelser om, at ministeren kan lade bekæmpelse eller forebyggelse af udbredelse af uønskede plantearter udføre, såfremt påbud herom ikke er efterkommet af ejeren eller brugeren inden for en nærmere fastsat frist.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan herunder fastsætte, at bekæmpelsen sker helt eller delvis for ejerens eller brugerens regning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id691fc5fa-bf8b-4a69-ae1b-9b0e0869b096">
+              <Linea>
+                <Char>Skadedyr</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id592bf652-5b98-4ce6-96ea-a84fd4dea0d3" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="ide0eeb1b3-b53a-4edc-9ece-0ef371fb6090">
+                <Exitus>
+                  <Linea>
+                    <Char>Kommuner kan varetage bekæmpelse af muldvarpe og mosegrise.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bekæmpelsen kan finansieres ved betaling, der opkræves hos ejerne af de ejendomme, hvorpå bekæmpelsen gennemføres.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id88d7472d-0e95-439f-87df-07b92cae25e0">
+              <Linea>
+                <Char>Planlægning</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idd373a7a2-8b5f-4671-a4b0-55e750dd9f1f" localId="12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="id023a304a-b885-40ba-b917-8aae88b9ad94">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om offentlige myndigheders særlige indsatsplanlægning efter denne lov, herunder med arealudpegning, der skal ligge til grund for varetagelse af opgaver og udnyttelse af beføjelser efter denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="iddce5c52a-f717-4fc5-85ce-33ba810c30a9">
+              <Linea>
+                <Char>Kontrol, delegation, klageadgang m.m.</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id044708f0-6d8e-49f4-a370-598453752b76" localId="13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id9f2f3624-4fbc-4903-8d93-4bf7dc67502b">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om kontrol og tilsyn, som er nødvendige for anvendelsen af loven eller af regler fastsat i medfør af loven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf176b15d-ca34-427d-a94b-d43ab0bbbc3a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren eller den, ministeren bemyndiger dertil, har til enhver tid mod behørig legitimation adgang til arealer omfattet af loven med henblik på gennemførelse af kontrol og løsning af opgaver i henhold til loven eller regler fastsat i medfør af loven.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Politiet yder om nødvendigt bistand hertil.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id4f3fbbfc-206f-4767-b0de-b8843844d7b1" localId="14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="id5d03da36-f05f-468d-a765-12d14afe412e">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan meddele de forbud og påbud, der er nødvendige for at sikre overholdelse af loven eller af regler fastsat i medfør af loven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id85670dc4-f9e0-4ae9-9d9c-efcee332bb5e" localId="15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="id95b0a691-4822-42a8-94a0-23836e95d59d">
+                <Exitus>
+                  <Linea>
+                    <Char>Betalingsforpligtelser, der er fastsat i denne lov eller i regler udstedt i henhold til denne lov, og som ikke betales, tillægges en årlig rente svarende til den i renteloven fastsatte referencesats med tillæg fra forfaldsdagen at regne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den tillagte rente udgør dog mindst 50 kr. For erindringsskrivelser betales et gebyr på 100 kr., som reguleres med tilpasningsprocenten i lov om en satsreguleringsprocent.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beløbet afrundes til nærmeste med 10 delelige kronebeløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id382f5846-ca69-4c89-ac0f-12a6eadf9158" localId="16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="idf3cb1f1c-d153-4965-afda-b92a5ca18ceb">
+                <Exitus>
+                  <Linea>
+                    <Char>Henlægger miljø- og fødevareministeren sine beføjelser efter loven til en myndighed under ministeriet, kan ministeren fastsætte regler om adgangen til at klage over myndighedens afgørelser, herunder om, at klage ikke kan indbringes for anden administrativ myndighed, og om myndighedens adgang til at genoptage en sag, efter at der er indgivet klage.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id551d4098-1e67-4d95-b07d-b551ec901217">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan henlægge varetagelsen af opgaver i henhold til regler udstedt i medfør af § 8, § 9, nr. 1, § 10, stk. 2 og 3, samt §§ 11, 13 og 14 til kommunale myndigheder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan i forbindelse hermed fastsætte regler om adgangen til at klage over myndighedens afgørelser, herunder om, at klage ikke kan indbringes for anden administrativ myndighed, om at klage alene kan angå retlige spørgsmål, samt om myndighedens adgang til at genoptage en sag, efter at der er indgivet klage.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida68d71b6-d05d-4450-ab58-5aa6d1db8d8b">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler, der giver klageadgang for Dansk Landbrug</Char>
+                  </Linea>
+                  <Nota id="idc2976596-78b2-4437-b598-eefce75f451c">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Den 3. juni 2009 fusionerede Landbrugsraadet, Danske Slagterier, Dansk Svineproduktion, Dansk Landbrug med Landbrugsmedierne og Dansk Landbrugsrådgivning, samt væsentlige dele af Mejeriforeningen, og dannede Landbrug &amp; Fødevarer.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>, Danmarks Naturfredningsforening og Friluftsrådet ved deres hovedorganisationer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id18881e90-c3c7-4ca6-a811-af41487a7f92" localId="16a">
+              <Explicatus>§ 16 a.</Explicatus>
+              <Stk id="id268ef00b-426d-4442-9490-353378ce90c1">
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser truffet i henhold til denne lov eller regler udstedt i medfør heraf kan, hvis ikke andet er fastsat i loven eller i henhold til regler udstedt i medfør heraf, påklages til Miljø- og Fødevareklagenævnet, som behandler sagen i afdelingen omhandlet i § 3, stk. 1, nr. 4, i lov om Miljø- og Fødevareklagenævnet, og kan dermed ikke indbringes for anden administrativ myndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf486bc5c-2ed0-4d76-985f-e3e444866194">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klage til Miljø- og Fødevareklagenævnet indgives skriftligt til den myndighed, der har truffet afgørelsen, ved anvendelse af digital selvbetjening, jf. dog § 21, stk. 2-4, i lov om Miljø- og Fødevareklagenævnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Myndigheden skal, hvis den vil fastholde afgørelsen, snarest og som udgangspunkt ikke senere end 3 uger efter modtagelsen af klagen videresende klagen til klageinstansen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Klagen skal ved videresendelsen være ledsaget af den påklagede afgørelse, de dokumenter, der er indgået i sagens bedømmelse, og en udtalelse fra myndigheden med dennes bemærkninger til sagen og de i klagen anførte klagepunkter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9b810faf-87ae-4aab-a2df-6dda1ab1533c" localId="17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="id58ab133f-2706-4d2a-84a6-9d5c161525b4">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id15a09a63-48f2-4e6f-ad74-8cf7bd6bc5a0">
+              <Linea>
+                <Char>Straffebestemmelser</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idd385e119-28e8-494e-b49a-da37548c24bc" localId="18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="id66e30ba8-b68e-49f0-b4e8-5d04159d6628">
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde den, der</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id1c869a12-d61a-48fb-b5a8-27d3c944405b">
+                  <Index>
+                    <Indentatio id="ida56cc701-d773-40e3-841e-a2c42e15a31b" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at overholde sine forpligtelser efter §§ 4 og 5 eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id52b7d1fe-b3ca-4fa6-a72e-020ac688d05d" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>overtræder forbud eller undlader at efterkomme påbud meddelt i henhold til § 14.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idd782cf54-1489-41a2-a579-e2fefaf297d0">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I regler, der fastsættes i medfør af loven, kan der fastsættes straf af bøde for overtrædelse af bestemmelser i reglerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id19b91ffc-4c9b-4f05-8679-4191e00f74b8">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id903e1ff2-bb52-484f-8137-477fbe9ba845" localId="19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="idac55ca55-ec8f-47fb-a4b1-f1640d047111">
+                <Exitus>
+                  <Linea>
+                    <Char>Skønnes en overtrædelse af regler i loven eller af regler udstedt i medfør af loven ikke at ville medføre højere straf end bøde, kan miljø- og fødevareministeren tilkendegive, at sagen kan afgøres uden retslig forfølgning, hvis den, der har begået overtrædelsen, erklærer sig skyldig i overtrædelsen og erklærer sig rede til inden for en nærmere angivet frist, der efter begæring kan forlænges, at betale en i tilkendegivelsen angivet bøde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide5d423b2-7a5d-466f-8776-52f379c7c500">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Med hensyn til den i stk. 1 nævnte tilkendegivelse finder retsplejelovens regler om krav til indholdet af et anklageskrift og om, at en sigtet ikke er forpligtet til at udtale sig, tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id66a4fd14-ca1e-48c2-8e47-f68988f44946">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Betales bøden i rette tid, eller bliver den efter stedfunden vedtagelse inddrevet eller afsonet, bortfalder videre forfølgning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id395007d2-0622-43ab-bc15-5980e50ce7d0">
+              <Linea>
+                <Char>Ikrafttræden m.v.</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id565d2392-e235-4396-af25-28a3080a6f8d" localId="20">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="id160f1b29-a5fa-4af8-97fc-2aadf570ce71">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. september 2004.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2ece79c8-4e2d-4357-9814-302d860066a9">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Følgende love ophæves:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id9151bf42-1046-4459-8e11-8134d2939731">
+                  <Index>
+                    <Indentatio id="idc7b2dd32-f0be-4128-a093-ef6b7a25d8e2" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Lov nr. 298 af 24. april 1996 om flyvehavre.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id064b8913-7936-4996-b990-ce8219de240c" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Lov om bekæmpelse af muldvarpe og mosegrise, jf. lovbekendtgørelse nr. 503 af 29. juni 1990.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf3272c40-220b-447a-b79c-8906205c7ae1" localId="21">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="ide4646585-992e-479f-82db-7d0627627105">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="id04f7a418-51ee-431c-bfa5-66fa15b7d11e">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet</Char>
+        </Linea>
+        <Nota id="id55a594fa-7d14-453e-9cf3-04aa05184970">
+          <Explicatus>4)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører indsættelse af § 16 a.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>indeholder følgende ikrafttrædelses- og overgangsbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <Paragraf id="idecd73dfe-b077-45f6-aa65-26de827bfac3" localId="24">
+        <Explicatus>§ 24.</Explicatus>
+        <Stk id="id51f1187f-e3d6-4ec0-9161-6688f6c62da6">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. februar 2017.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id27d7da4c-d58e-47ca-bd81-723e4f0a0093">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id3ff426ec-e74e-482d-b1f4-a80be796ae4c">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Erhvervsministeren</Char>
+            </Linea>
+            <Nota id="id64bc6e67-bc7d-40b3-be31-641e1e43ebe1">
+              <Explicatus>5)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Ved kongelig resolution af 28. november 2016 er betegnelsen Erhvervs- og Vækstministeriet ændret til Erhvervsministeriet, jf. bekendtgørelse nr. 1777 af 23. december 2016.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id1153e2ae-8ab4-4ee7-b07e-ec0b696ea9ed">
+          <Explicatus>Stk. 4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id357db2f3-c16f-4db0-8df9-02f7d028f2fc">
+          <Explicatus>Stk. 5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Regler, der er fastsat i henhold til hidtil gældende regler, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat med hjemmel i denne lov.</Char>
+            </Linea>
+            <Linea>
+              <Char>Overtrædelse af reglerne straffes efter de hidtil gældende regler.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idbfe2817f-672d-47a4-afa5-34dcae16f23d">
+          <Explicatus>Stk. 6.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov.</Char>
+            </Linea>
+            <Linea>
+              <Char>Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id05e9bb62-cf64-44ba-98fe-2c902b304658">
+          <Explicatus>Stk. 7.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </Paragraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id5ed1bf28-2b87-4ffc-951b-c94614b5d4fc">
+    <UnderskriftStedDato id="id2546c9a8-0c19-4fe7-a342-1a82c20f4ebe" />
+    <Underskriver id="id4f2cd1e1-1e4b-47a2-b23a-0cb6fa00313b" />
+  </UnderskriftGruppe>
+</Dokument>

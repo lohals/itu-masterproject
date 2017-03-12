@@ -1,0 +1,1204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idf3cf6218-ff59-4809-8169-13c58146b8b5" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2016/09/26/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="ide90a2d4e-1705-48d1-be36-632bb3f90c16">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20170010129</AccessionNumber>
+    <DocumentId>CK001167</DocumentId>
+    <UniqueDocumentId>186349</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om Miljøteknologisk Udviklings- og Demonstrationsprogram</DocumentTitle>
+    <Year>2017</Year>
+    <DiesSigni>2017-01-26</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-01-31</EndDate>
+    <Status>Valid</Status>
+    <Number>101</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 101 af 26/01/2017</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Claus Torp</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Peter Østergård Have</Signature>
+    <PlaceOfSignature>Miljøstyrelsen</PlaceOfSignature>
+    <JournalNumber>Miljø- og Fødevaremin.,\nMiljøstyrelsen, j.nr. 029-00603</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+    <AdministrativeAuthority>Miljøstyrelsen</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="idd407ba75-3f83-476e-a70e-ff28e2099469">
+    <Titel id="ida82a22f2-f2f6-4cec-b01d-0bb6a1f9a6ed">
+      <Linea>
+        <Char>Bekendtgørelse af lov om Miljøteknologisk Udviklings- og Demonstrationsprogram</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id62cb8e45-f173-494f-b5ac-1e356e879ce7">
+    <Indledning id="id06d5b88f-bbf8-434a-bbe9-536c34108d0c">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov nr. 130 af 10. februar 2015 om Miljøteknologisk Udviklings- og Demonstrationsprogram, med de ændringer, der følger af § 92 i lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Den bekendtgjorte lovtekst vedrørende § 19, stk. 2 og 6, træder i kraft den 1. februar 2017, jf. § 24, stk. 1, i lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="id923f43c3-a851-48ee-973e-48d7d9d91ab6">
+      <Afsnit id="idfd856dd3-c273-4eaa-8adc-4488edca06d6" localId="1">
+        <Kapitel id="idaa9f4dbd-475d-4305-880c-cb780b36cefe" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="idd2020efa-c138-4238-89ec-7dd6697d1e30">
+            <Linea>
+              <Char>Formål</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="ideba7ac46-93e6-4617-999a-7804ed1af783" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="id816f0415-adcc-4c71-b094-e3fa1a8b4ea7">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøteknologisk Udviklings- og Demonstrationsprogram skal fremme udvikling og anvendelse af miljøeffektive løsninger på prioriterede miljøudfordringer og understøtte vækst og beskæftigelse gennem</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id44f9e7f7-f1dd-469b-80aa-0e5526910595">
+                  <Index>
+                    <Indentatio id="idf60c6857-1f6d-4b84-9528-fece3f7d2d83" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilskud til udvikling, test og demonstration af ny miljøteknologi og tilskud til projekter, der kan afprøve ny miljøteknologi på fuldskalaanlæg eller ved nye anlægsprojekter,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf243469e-251d-40a2-922c-50e3f20b06b4" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>etablering af innovationspartnerskaber, der aktivt fremmer samarbejde mellem relevante aktører,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb453af33-5437-43ff-be3e-d6a91c2c373d" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>iværksættelse af projekter, der understøtter internationalt og bilateralt samarbejde om aktiviteter på miljø- og innovationsområdet, herunder aktivt forbedrer rammerne for dansk eksport af miljøteknologi, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb85722e0-3259-4f37-941c-b0c0ec8724c3" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>opbygning og formidling af viden inden for og om den miljøteknologiske sektor.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idb15aec5e-f283-4a3e-97bc-a2cc5f361986" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="id9fe789fc-2dae-4006-8277-e49a195dd868">
+            <Linea>
+              <Char>Bestyrelse og sekretariat</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id949b2e27-d13c-4758-8e6a-30706c34bdf5" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="id9d11b4ab-9727-4118-b910-eeda1a0a5274">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøteknologisk Udviklings- og Demonstrationsprogram ledes af en uafhængig bestyrelse, der består af 1 formand og 7 andre medlemmer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestyrelsen skal have medlemmer med indsigt i miljø-, natur- og ressourceforhold, i erhvervsforhold og i forhold vedrørende miljøteknologi.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Formanden skal have en erhvervsmæssig baggrund.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Formanden og de øvrige medlemmer udpeges af miljøministeren i deres personlige egenskab.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id57b2db71-f7de-4a77-9b84-e2ca50ca5dc4">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>4 medlemmer af bestyrelsen udpeges efter indstilling fra henholdsvis klima-, energi- og bygningsministeren, uddannelses- og forskningsministeren, erhvervs- og vækstministeren og fødevareministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfda33dbb-4a8d-42ac-9496-91d076df2bc3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen udpeges for en periode af 4 år med mulighed for genudpegning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Udtræder formanden eller et andet medlem af bestyrelsen før periodens udløb, kan afløseren udpeges for mindre end 4 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id65dff399-909a-4c2c-9081-6347a873e013" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="ide6aa661e-60f7-4e52-9864-8ed35e4df53a">
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen træffer beslutning om den nærmere gennemførelse af aktiviteterne under Miljøteknologisk Udviklings- og Demonstrationsprogram, jf. §§ 1, 6, 7 og 12.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id434f66fb-7782-4d4a-8ea0-869cbe60c494">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen udarbejder forslag til en overordnet 4- årig strategi for gennemførelsen af Miljøteknologisk Udviklings- og Demonstrationsprogram.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestyrelsens forslag til strategi skal godkendes af ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2590d17e-80d2-4b06-9c91-50e7350251f6">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen udarbejder årligt forslag til en handlingsplan for programmets nærmere gennemførelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Forslaget udarbejdes med udgangspunkt i miljøministerens prioriteringer af de miljømæssige udfordringer og bestyrelsens strategi for gennemførelsen af Miljøteknologisk Udviklings og Demonstrationsprogram, jf. stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestyrelsens forslag til handlingsplan skal godkendes af ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide567c73b-2936-41da-8162-9cdd2efabf55">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen kan nedsætte et eller flere fagpaneler på konkrete faglige indsatsområder, herunder økologisk byggeri, og indhente rådgivning om indsatsen fra fagpanelet eller fagpanelerne på panelernes respektive fagområder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf3673da3-5e76-4776-831c-5fe75fe995e6" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id3add8c16-3542-4d53-ae10-ebfb04eb75d0">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøministeren stiller sekretariatsbistand til rådighed for bestyrelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida164049e-65ad-46b8-983b-872ecd85b784">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren fastsætter bestyrelsens forretningsorden efter indstilling fra bestyrelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf79210c8-d90d-4f19-80ad-7d2dac00e965">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om bestyrelsens adgang til at henlægge sine kompetencer til formanden og sekretariatet, herunder om, at formanden og sekretariatet kan træffe afgørelser for bestyrelsen i mindre eller hastende sager.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id131d1c08-c4ed-476a-a146-6eac2587e8e9" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="id3889d876-673c-4f67-a946-005512ce3eaa">
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen afgiver årligt en beretning til miljøministeren om sin virksomhed.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren offentliggør bestyrelsens beretning elektronisk.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id001d5cf8-fd8f-4b83-89cc-f4c0f001d63a" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="id92da0bfe-661c-414a-89ac-ba0d7e43e430">
+            <Linea>
+              <Char>Tildeling af tilskud m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="id0ef202dc-0839-4d54-b319-f3a083998bc7">
+              <Linea>
+                <Char>Tildeling af tilskud</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id614513ad-0a4e-4907-b073-39408b192d13" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id347c262d-9655-44dc-9cea-522526ca4926">
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen træffer på grundlag af den godkendte handlingsplan, jf. § 3, stk. 3, beslutning om anvendelse af den tilskudsbevilling, der er fastsat på den årlige finanslov, og beslutning om indkaldelse af projektansøgninger, jf. dog § 22, stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idee1a4e74-ac22-45e0-a62a-84a708e55f76">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen offentliggør samtidig med indkaldelse af projektansøgninger de kriterier, som indgår i vurderingen af ansøgningerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id61f39272-e60f-484c-92d7-3ead107f00ab" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="idad93a2fa-1ce0-45c0-9143-85b54e6d425d">
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen træffer afgørelse om tilsagn om tilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idafe8900c-c3ed-4585-b14e-cda8b70e5d99">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen kan træffe afgørelse om tilsagn om tilskud til:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="ida8c7dae8-3a3e-45a0-8018-c32a9ae88d87">
+                  <Index>
+                    <Indentatio id="id80239677-e49d-4e3e-a496-81128248ecee" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Projekter, der har til formål at udvikle, teste eller demonstrere nye miljøteknologiske løsninger, herunder tekniske gennemførlighedsundersøgelser forud for udvikling, test eller demonstration, og projekter til at opbygge viden om eller informere om miljøteknologiske muligheder og behov.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd229faed-2825-4d4b-8a5e-ae12fd37431f" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Projekter, der har til formål at etablere teknologiske løsninger, der indebærer miljøbeskyttelse, der rækker videre end nationale standarder og EU-standarder for miljøbeskyttelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide32af906-aaf7-4701-8b97-056fa467ef50" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Projekter, der understøtter partnerskaber for miljøinnovation.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida61311d6-b5a3-4ff0-a52b-6e42b3e3bea5" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Projekter, der har til formål at formidle indsatsen for at fremme miljøeffektiv teknologi og anvendelse af miljøteknologi.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id4ee3c2a9-b291-40ea-9df9-6973b329dbd2" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Dansk deltagelse i projekter som nævnt i nr. 1, når disse projekter indgår i internationale programmer med international medfinansiering og projektudvælgelsen er henlagt til en international udvælgelseskomité.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id18039cd4-4a18-4692-a7cf-30e6c0af5a6d">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved afgørelsen af, om der skal gives tilsagn om tilskud, foretager bestyrelsen en vurdering af, om støtte til projektet vil have tilskyndelsesvirkning, og af projektets miljø- og ressourcemæssige potentiale, projektets erhvervsmæssige potentiale, projektets nyhedsværdi og faglige kvalitet, og projektbeskrivelsens kvalitet og af, i hvilket omfang projektets konsekvenser er forenelige med andre relevante samfundsmæssige</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Linea>
+                    <Char>hensyn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id16b2fdb0-b3da-409e-bc51-f0478e4fd45b" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="id888a12b3-b7dd-45bb-9369-5bfd91dc6441">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsagn om tilskud efter § 7 kan gives til projekter, der gennemføres af</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id41efc211-6300-4319-a070-fe4369af9034">
+                  <Index>
+                    <Indentatio id="id8e504b4c-4078-4704-a467-096c2ecf575c" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>private og offentlige virksomheder,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id408c4dc3-7eda-4bd1-aeb9-b2ee122bab88" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>private personer,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idff99c293-f0ca-4447-b9e3-d973bbc1f506" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>selvejende institutioner,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide5a71b94-a2f2-44c4-a530-39b4b2b88216" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>offentlige og private forskningsinstitutioner,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id0edc681d-8a69-4e90-9530-ea0fe02496d9" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>brancheorganisationer og lignende organisationer,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id32b2f1cb-0423-4d73-9cff-a5ac84b3d346" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>foreninger og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id266ac2bd-226b-471b-89e3-9f250179a4e2" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>grupper eller sammenslutninger af de aktører, der er</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Linea>
+                    <Char>nævnt i nr. 1-6.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id5d058184-117c-4880-87bf-86bfcec5a802" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="id938dd5be-1d75-4028-8240-3d3cd3a35fcc">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskud er betinget af, at projektet ikke er påbegyndt,</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Linea>
+                    <Char>inden der er meddelt tilsagn om tilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id243c1a86-f604-4cc7-9b73-9e20a99eac7a" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id97c98389-3f06-4bf2-9200-0063d2913c88">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøministeren fastsætter nærmere regler om betingelser</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Linea>
+                    <Char>og vilkår for tilskud, herunder regler om</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idc3a0f359-97be-4a1c-9493-089f874e5df0">
+                  <Index>
+                    <Indentatio id="id95b7e96f-6a3b-460d-a4b6-0c3afd707cb0" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ansøgningernes form og indhold,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id4c679479-f92f-4ed4-9583-ed383ee70ab6" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ydelse af projekttilskud, herunder om maksimale tilskudssatser,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id86f7a01b-48a2-4932-9690-b911cbe6a4a8" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>regnskab og revision vedrørende projekter, hvortil der gives tilsagn om tilskud,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id27490bcb-c46c-47b2-bd89-c11c1b83fac2" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>offentliggørelse af resultaterne af de projekter, hvortil der gives tilsagn om tilskud, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf48fc813-6f2e-426b-962a-99cad2a6384b" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>udbetaling af tilskud efter denne lov.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id4f043735-144e-45eb-8cb1-b7ac2796b2b9">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om tildeling af tilskud til projekter, der opnår tilskud efter anden lovgivning, herunder at der ikke kan gives tilskud efter denne lov til sådanne projekter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id807740e6-da8a-42f6-8175-3fcc94f6b94b" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="ida00aa2cf-7541-4ed0-a9eb-33817d5fd4e9">
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen kan ikke gøre krav på immaterielle rettigheder, som opnås på grundlag af aktiviteter, hvortil der er givet tilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id27572bb8-7c1c-453c-804b-9901941c0623">
+              <Linea>
+                <Char>Etablering af partnerskaber m.v.</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id720a314b-a197-4065-bd62-0f006d501913" localId="12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="idbc3bf8b8-39c4-4edb-9558-1d9882daf28e">
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen træffer på grundlag af den godkendte handlingsplan, jf. § 3, stk. 3, jf. dog § 22, stk. 4, og inden for rammerne af den bevilling, der er fastsat hertil på den årlige finanslov, beslutning om</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id358d5bda-02e9-4017-850d-c0751cb8d0de">
+                  <Index>
+                    <Indentatio id="iddac9c30b-1242-4323-a5c0-c0815edf816c" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>etablering af innovationspartnerskaber, jf. § 1, nr. 2,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id08891267-5940-4000-9bb2-7ba35c5e445f" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>understøttelse af internationalt og bilateralt samarbejde på miljø- og innovationsområdet, jf. § 1, nr. 3, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc46a61dc-912f-4d31-8b9f-ec5d2d8d7bd2" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>vidensopbygning, jf. § 1, nr. 4.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id41d25393-4f6c-4797-aa93-77197274425b">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen kan som led i administrationen og udviklingen af Miljøteknologisk Udviklings- og Demonstrationsprogram afholde udgifter til evaluering af programmet og dets resultater og til formidling af programmets resultater.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id256ef4ed-0077-48c4-b432-ec5fde1d4556" localId="4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="id71c4ae98-69ae-4647-9862-06ba2e937282">
+            <Linea>
+              <Char>Bortfald og tilbagebetaling af tilskud</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idf850e640-a36c-4bee-8c60-9c65dade2440" localId="13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id9ee9a35d-5244-4025-b3d0-062ae8a6e9aa">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskud i henhold til denne lov bortfalder helt eller delvis, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="ida3bad83e-7fba-4b7b-a1d7-f3b742903b83">
+                  <Index>
+                    <Indentatio id="id43d86954-53bc-45a4-8e89-df86cca5ba9f" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilskudsmodtager har givet urigtige eller vildledende oplysninger eller fortiet oplysninger af betydning i forbindelse med afgørelsen om tilskud eller under projektforløbet,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id5bf1f919-5ebd-4df5-8e7f-62f896f0b9b7" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>vilkår for tilskud ikke overholdes eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id366fbaef-8ce9-4a3f-99f8-5dce0f7ff3b8" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilskudsmodtager ikke overholder sine pligter efter denne lov eller regler fastsat i medfør heraf.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id4760191c-8e1b-41e8-bab9-33e063686704">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøministeren afgør spørgsmål om bortfald af tilskud efter stk. 1 og kan i den forbindelse bestemme, at udbetalte tilskud helt eller delvis skal tilbagebetales.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id699dfafb-b6a2-4ab4-a948-9f55c79d61ca">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skal et udbetalt tilskud helt eller delvis tilbagebetales, opkræves det skyldige beløb til betaling senest 14 dage senere.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilbagebetales det skyldige beløb ikke rettidigt, tillægges beløbet rente efter forfaldsdagen med den rente, der er fastsat i § 5 i lov om renter ved forsinket betaling m.v. Den tillagte rente udgør dog mindst 50 kr. For rykkerskrivelser efter første påkrav betales 100 kr.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id89c4d48a-14fb-4d85-86d7-91c135c1d622" localId="5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica id="id8b5204a6-5e09-467c-9ea0-cb9aad239368">
+            <Linea>
+              <Char>Digital kommunikation</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idcdf9effc-def4-4e37-bbcc-6d21bb492d27" localId="14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="id1d3ccc60-9623-4ec8-b600-388c0b14f451">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøministeren kan fastsætte regler om, at skriftlig kommunikation til bestyrelsen for Miljøteknologisk Udviklings- og Demonstrationsprogram og ministeren om forhold, som er omfattet af denne lov eller regler fastsat i medfør heraf, skal foregå digitalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0a77ef47-55a8-4649-8034-c2fbd5c8822b">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte nærmere regler om skriftlig digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbb81e445-0698-48bf-82e7-a696daf934b6">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2e726371-2c9d-4c22-a231-2eb52b7ef03f">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at skriftlig kommunikation til de statslige myndigheder, som ministeren efter § 18 har henlagt sine beføjelser eller opgaver til, om forhold, som er omfattet af denne lov eller regler fastsat i medfør heraf, skal foregå digitalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idab95f670-efdb-422c-bec9-39adc3b26abf" localId="6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica id="id0589f3cc-cbad-4157-b39d-749e283e765a">
+            <Linea>
+              <Char>Oplysningspligt, kontrol m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="id27b3c7e5-52bc-4a16-9b2a-886139f35a8a">
+              <Linea>
+                <Char>Oplysningspligt</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id41d6c158-81f6-4167-b040-7e737df326bb" localId="15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="id5870f0df-d873-41f0-9e06-26d4bf74bbba">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskudsmodtager skal under hele projektforløbet underrette miljøministeren, hvis betingelserne for tildeling af tilskud ikke længere er opfyldt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id71ec4f15-d298-48ed-a096-962cb24a2be2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskudsmodtager skal under hele projektforløbet på ministerens forlangende afgive erklæring om, hvorvidt betingelserne for tildeling af tilskud fortsat er opfyldt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id3a654141-e204-42e1-b74e-855e752342d5">
+              <Linea>
+                <Char>Tilsyn m.v.</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id5a0fae2e-0d6d-40aa-b38b-f93b46608e77" localId="16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="id7b764875-e60d-49ad-9097-0f667b92309f">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøministeren fører tilsyn med overholdelse af denne lov og regler fastsat i medfør heraf.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="iddc6a2c3d-70e7-42c8-a734-8b98cb98fd04" localId="17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="id2bcc2961-1ee2-40a1-a182-c14be3d0af3c">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsynsmyndigheden eller personer, tilsynsmyndigheden bemyndiger hertil, har til enhver tid mod behørig legitimation uden retskendelse adgang til lokaliteter, der ejes eller drives af en fysisk eller juridisk person, der har modtaget tilsagn om tilskud efter loven.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>På tilsvarende måde har tilsynsmyndigheden adgang til regnskaber, forretningsbøger, papirer m.v., herunder også materiale, der opbevares i elektronisk form, for at tilvejebringe oplysninger til brug for løsning af opgaver efter denne lov eller regler, der er fastsat i medfør heraf.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida3580981-75c6-44a6-a1cd-cbb5af446c43">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der har modtaget tilsagn om tilskud, skal efter anmodning fra tilsynsmyndigheden yde den fornødne vejledning og bistand ved tilsynets gennemførelse, og det materiale, der er nævnt i stk. 1, skal udleveres eller indsendes til tilsynsmyndigheden efter tilsynsmyndighedens anmodning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id36a7e584-ac1e-4fc3-b79f-5ba17acc1f57">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Politiet yder om nødvendigt bistand til gennemførelse af det tilsyn, der er nævnt i stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb02278a5-3a5a-4af7-8c2f-1bdd9be093b8">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøministeren kan efter forhandling med justitsministeren fastsætte nærmere regler om den i stk. 3 nævnte bistand.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id429f7aed-d60b-4db3-8be6-6f3a00bb41ec">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøministeren kan fastsætte nærmere regler om tilsyn med de projekter, hvortil der ydes tilskud efter denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idc2bcdca9-f583-436d-8857-25bbc1932ad1" localId="7">
+          <Explicatus>Kapitel 7</Explicatus>
+          <Rubrica id="id3bbd9825-9111-4e51-abfa-330464125bfa">
+            <Linea>
+              <Char>Administrative bestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id1b74d498-0962-495f-b748-2c9a7f80c4f7" localId="18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="id35aad01f-d824-4a1b-bc9a-4e1a25768c4d">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøministeren kan henlægge sine beføjelser efter denne lov til en under ministeriet oprettet statslig myndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id09a939b0-726d-4e4b-bfd7-f046ce52f07d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at afgørelser, der er truffet i henhold til bemyndigelse efter stk. 1, ikke skal kunne påklages.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3d2caefd-5f3d-4a2b-ac1b-b90888c2141d">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan henlægge sine beføjelser til at træffe afgørelse om bortfald eller tilbagebetaling af tilskud efter § 13 til bestyrelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id25373d5b-30c8-448b-9fbc-531dda9a8c18" localId="8">
+          <Explicatus>Kapitel 8</Explicatus>
+          <Rubrica id="id6ecbd74f-0760-4897-8c23-494061c78207">
+            <Linea>
+              <Char>Klage og søgsmål</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id9a8f776b-cc2e-4f89-a11a-7b8bd8d03e81" localId="19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="id52e4fe6d-5e2f-4170-9e8a-bd2882fdda0a">
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsens afgørelser efter denne lov eller regler fastsat i medfør heraf kan ikke indbringes for anden administrativ myndighed, jf. dog stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1340857b-7803-4e4a-bae7-53473fa486a7">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klage over retlige spørgsmål i forbindelse med afgørelser efter denne lovs §§ 7-9 og § 13, stk. 1 og 2, eller efter regler fastsat i medfør heraf kan indbringes for Miljø- og Fødevareklagenævnet, som behandler sagen i den læge afdeling, jf. § 3, stk. 1, nr. 9, i lov om Miljø- og Fødevareklagenævnet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfc28c656-160d-480c-8e1b-0aa4c64afc73">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser som nævnt i stk. 2 kan påklages af adressaten for afgørelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc34ac6e5-b6d2-4bee-be14-f259e7fc82d5">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klage til Miljø- og Fødevareklagenævnet indgives skriftligt til den myndighed, der har truffet afgørelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Myndigheden skal, hvis den vil fastholde afgørelsen, snarest og som udgangspunkt ikke senere end 3 uger efter klagefristens udløb videresende klagen til Miljø- og Fødevareklagenævnet.</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klagen skal ved videresendelsen være ledsaget af den påklagede afgørelse, de dokumenter, der er indgået i sagens bedømmelse, og en udtalelse fra myndigheden med myndighedens bemærkninger til sagen og de anførte klagepunkter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id66749dac-2f5b-46d5-a873-444ff4ffbe7f">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når myndigheden videresender klagen til Miljø- og Fødevareklagenævnet, sender den samtidig en kopi af sin udtalelse til adressaten for afgørelsen med en frist for at afgive bemærkninger til Miljø- og Fødevareklagenævnet på 3 uger fra modtagelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id06ea88f5-098e-4ec2-ab4a-76f9fc38f1bc">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klage til Miljø- og Fødevareklagenævnet efter stk. 4 skal indgives ved anvendelse af digital selvbetjening, jf. dog § 21, stk. 2-4, i lov om Miljø- og Fødevareklagenævnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Endvidere skal efterfølgende kommunikation om klagesagen ske ved anvendelse af digital selvbetjening.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>En klage anses for indgivet, når den er tilgængelig for myndigheden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6574b17e-d340-467d-aef7-f452f1693a60">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Myndighedens videresendelse af klage til og efterfølgende kommunikation om klagesagen med Miljø- og Fødevareklagenævnet skal ske ved anvendelse af digital selvbetjening.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samme gælder sager, hvor klage ikke er indgivet ved anvendelse af digital selvbetjening, men hvor Miljø-</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Linea>
+                    <Char>og Fødevareklagenævnet har truffet afgørelse om, at klagen ikke afvises.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id286232df-c213-4238-b0e6-0af794dcbfcc">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Indgives en klage ikke ved anvendelse af digital selvbetjening, skal myndigheden snarest videresende klagen til Miljø- og Fødevareklagenævnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I sådanne tilfælde finder stk. 4, 2. og 3. pkt., og stk. 5 ikke anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6d604747-a397-4009-ab82-0c1f81d8b1f9">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klage efter stk. 2 skal være indgivet, inden 4 uger efter at afgørelsen er meddelt adressaten.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Er afgørelsen offentligt bekendtgjort, regnes klagefristen dog fra bekendtgørelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb019decb-6f8f-40a9-b235-9561c7a8c7d4" localId="20">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="id915b3394-fda4-4abb-8c23-7d84718231e7">
+                <Exitus>
+                  <Linea>
+                    <Char>Søgsmål til prøvelse af en afgørelse truffet efter denne lov eller regler fastsat i medfør heraf skal være anlagt, inden 6 måneder efter at afgørelsen er meddelt adressaten.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Er afgørelsen offentligt bekendtgjort, regnes søgsmålsfristen fra bekendtgørelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc1cde1c4-b9f2-4869-ba07-62e9f8c8a4c1">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved søgsmål om forhold vedrørende miljøet, der er omfattet af denne lov, skal retten påse, at omkostningerne ved sagen ikke er uoverkommeligt høje for de berørte parter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idb0801d74-e644-46c9-b252-da5250650659" localId="9">
+          <Explicatus>Kapitel 9</Explicatus>
+          <Rubrica id="ida8011983-e9c6-4ccb-8365-a7f5143480ef">
+            <Linea>
+              <Char>Straf</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id3f6befb2-816f-4288-a49b-0b6f4fc5acc2" localId="21">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="ida72b7b77-b0df-45a0-a3a5-c8402999c081">
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre højere straf er forskyldt efter den øvrige lovgivning, straffes med bøde den, der</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id81d6b380-a09a-495b-8796-71d9c6c97000">
+                  <Index>
+                    <Indentatio id="id282e0000-06ec-4c61-adf7-b3fa36d07b16" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>afgiver urigtige eller vildledende oplysninger eller fortier oplysninger af betydning i forbindelse med afgørelser, der træffes efter denne lov, eller i øvrigt afgiver urigtige eller vildledende oplysninger eller fortier oplysninger, som den pågældende har pligt til at afgive i henhold til § 15,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id6af383f3-1862-43d9-9b53-f3e23b504f73" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>anvender tilskud efter denne lov i strid med vilkår for tilskuddets anvendelse,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id93db05b5-5e8a-4a5e-b349-22d0b3f1c51b" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at udlevere eller indsende den dokumentation eller afgive de oplysninger, som den pågældende har pligt til at udlevere eller indsende i henhold til § 17,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8dabfb9d-b66d-4d7f-aa8c-871375860b46" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at give tilsynsmyndigheden adgang til virksomheder m.v., som har modtaget tilsagn om tilskud</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus>
+                        <Linea>
+                          <Char>efter loven, jf. § 17, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id51e0332e-b02d-4994-98b8-8f3a032b487b" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at yde tilsynsmyndigheden vejledning og bistand ved tilsynets gennemførelse efter § 17, stk. 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idc712c345-450e-44d8-be64-3789f0f6e9b4">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I regler, som fastsættes efter § 10 og § 17, stk. 5, kan der fastsættes bødestraf for overtrædelse af reglerne eller</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Linea>
+                    <Char>vilkår fastsat efter reglerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0469fb4f-fc9d-4c1c-8a46-07fea8e470ec">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id098b7795-cf0f-4f47-8227-4c8216863aad" localId="10">
+          <Explicatus>Kapitel 10</Explicatus>
+          <Rubrica id="id8faa754a-5fcc-4c8a-b9cd-4bfdcb156e68">
+            <Linea>
+              <Char>Ikrafttræden m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id115357b5-6765-4a9c-8018-cc1b71468961" localId="22">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="id40607a35-f70d-4d04-a0a6-a4812aaee794">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 15. februar 2015, jf. dog stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf5ee7df4-2fa1-44aa-bb70-e9c2b9e591d3">
+                <Explicatus>Stk. 2</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøministeren fastsætter tidspunktet for ikrafttræden af § 3, stk. 1-3, og § 19, stk. 6, stk. 7, 2. pkt., og stk. 8.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan herunder fastsætte, at bestemmelserne skal træde i kraft på forskellige tidspunkter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf3002a4b-8c78-4354-8a5d-de920a87ac51">
+                <Explicatus>Stk. 3</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen træffer i 2015 beslutning om anvendelse af den tilskudsbevilling, der er fastsat på den årlige finanslov, alene på grundlag af miljøministerens prioriteringer af miljømæssige udfordringer og indkaldelsen af projektansøgninger i 2015.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8cb7065f-21e4-48df-baf7-36798cfdc301">
+                <Explicatus>Stk. 4</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen træffer i 2015 beslutning om anvendelse af den på årets finanslov fastsatte bevilling til aktiviteter som nævnt i § 12, stk. 1, nr. 1-3, alene på grundlag af miljøministerens prioriteringer af miljømæssige udfordringer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0df2c0d5-fb31-4751-8e4c-8e6bcaed6e24">
+                <Explicatus>Stk. 5</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven finder ikke anvendelse på indkaldelse af projektansøgninger og annoncering af indkaldelse af ansøgninger i 2015.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For indkaldelse af projektansøgninger og annoncering af indkaldelse af ansøgninger i 2015 finder reglerne i miljøministerens bekendtgørelse nr. 456 af 25. april 2013 om tilskud til miljøeffektiv teknologi anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7097803c-f013-44ce-ae3f-67c66103a7d4">
+                <Explicatus>Stk. 6</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven finder ikke anvendelse på ansøgninger om tilskud modtaget før den 1. januar 2015 og på tilsagn om tilskud meddelt efter reglerne i miljøministerens bekendtgørelse nr. 456 af 25. april 2013 om tilskud til miljøeffektiv teknologi.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For disse ansøgninger og tilsagn om tilskud finder reglerne i miljøministerens bekendtgørelse nr. 456 af 25. april 2013 om tilskud til miljøeffektiv teknologi anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id21c8692d-8415-487f-986b-7b8fac84ea2f" localId="23">
+              <Explicatus>§ 23.</Explicatus>
+              <Stk id="idaef27535-0a6f-4de1-a316-149cb5bbcb3a">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="id4f10f5ac-4c70-4a83-853d-9ce8a85e8a7c">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet</Char>
+        </Linea>
+        <Nota id="id37a67ff5-8da9-458f-9c94-d821ec77b246">
+          <Explicatus>1)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører § 19, stk. 2 og stk. 6.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>indeholder følgende ikrafttrædelses- og overgangsbestemmnelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="ida624f406-0b0e-4ab6-be15-5724df34f601">
+        <Explicatus>§ 24</Explicatus>
+        <Stk id="id4d397c37-b4b0-40fa-ab9f-07f49858cd1d">
+          <Explicatus>Stk. 1. </Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. februar 2017.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id8efe04f8-d0de-4c08-8e0d-b5357e2380ab">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id84a13d7b-bb74-4f64-9b92-e1f09fd59a7d">
+          <Explicatus>Stk. 3. </Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Erhvervs- og Vækstministeriet kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idbb864851-6abd-402f-afc0-8cf8c6b10dba">
+          <Explicatus>Stk. 4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lov om Natur- og Miljøklagenævnet, jf. lovbekendtgørelse nr. 1205 af 28. september 2016, ophæves.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idb1fe04bd-0983-43bc-8146-4a3969142bef">
+          <Explicatus>Stk. 5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Regler, der er fastsat i henhold til hidtil gældende regler, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat med hjemmel i denne lov.</Char>
+            </Linea>
+            <Linea>
+              <Char>Overtrædelse af reglerne straffes efter de hidtil gældende regler.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id4ea6b0fa-c7bc-405a-94be-dfd987609737">
+          <Explicatus>Stk. 6.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov.</Char>
+            </Linea>
+            <Linea>
+              <Char>Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id068d07bc-974a-43ba-887f-9265621774ce">
+          <Explicatus>Stk. 7.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idebf34b19-0124-440d-b621-e86306ebda71">
+    <UnderskriftStedDato id="idfd1222df-9fa3-4488-ac6c-ddbe9b6ee2e3" />
+    <Underskriver id="idd61c2fb3-7b14-426a-aa99-3c6ec9c97c51" />
+  </UnderskriftGruppe>
+</Dokument>

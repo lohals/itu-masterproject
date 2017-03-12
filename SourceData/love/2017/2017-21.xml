@@ -1,0 +1,1264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idbf13585a-692d-4055-9d3a-67c26af6e2f9" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2016/09/26/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idcc8dfb49-f34d-4efc-b369-3206896c77ba">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20170002129</AccessionNumber>
+    <DocumentId>CK001126</DocumentId>
+    <UniqueDocumentId>186163</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af økologiloven</DocumentTitle>
+    <Year>2017</Year>
+    <DiesSigni>2017-01-04</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-02-28</EndDate>
+    <Status>Valid</Status>
+    <Number>21</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 21 af 04/01/2017</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Jette Petersen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Dorthe Nielsen</Signature>
+    <PlaceOfSignature>NaturErhvervstyrelsen</PlaceOfSignature>
+    <JournalNumber>Miljø- og Fødevaremin.,\nNaturErhvervstyrelsen, j.nr. 16-0122-000024</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id8d9f4125-6988-46e2-832b-9ea6014d0c3e">
+    <Titel id="id4ced312c-e522-4a36-a7af-aa3af07349ce">
+      <Linea>
+        <Char>Bekendtgørelse af økologiloven</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idbdfdd43d-6cde-4841-bda3-cdb39dda57d7">
+    <Indledning id="idfefd6416-3d6b-4ad4-9185-4a2bee3b668f">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres økologiloven, jf. lovbekendtgørelse nr. 1657 af 14. december 2015, med den ændring, der følger af § 59 i lov nr. 1715 af 27. december 2016.</Char>
+        </Linea>
+        <Nota id="id40be4bd7-0266-418b-96ca-4035e78b9854">
+          <Explicatus>1)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Denne lovbekendtgørelse gengiver alene ikrafttrædelses- og overgangsbestemmelsen i lov nr. 1715 af 27. december 2016.</Char>
+            </Linea>
+            <Linea>
+              <Char>De bemærkninger om ikrafttrædelsesbestemmelser for de tidligere vedtagne ændringer af loven, der fremgår af lovbekendtgørelse nr. 1657 af 14. december 2015, er ikke gengivet i denne lovbekendtgørelse.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Den bekendtgjorte lovtekst vedrørende § 18 a træder i kraft den 1. februar 2017, jf. § 24, stk. 1, i lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="id061fc9f2-4983-4d5b-92e8-50967cec8316">
+      <Afsnit id="id27f03f88-26ae-41c8-8c78-17fefdb697b7" localId="1">
+        <Kapitel id="id8bc6ddef-b5f4-4391-9b66-37789afad695" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="id4bb264b3-588d-4a69-bbf5-d854bf3a20b3">
+            <Linea>
+              <Char>Lovens anvendelsesområde, formål m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id8095965e-f39c-47d9-a66e-a1ecc6052f1e" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="id007cccfe-9be7-418e-bcd9-2eeb4c5e04ee">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven finder anvendelse på produktion, opbevaring, tilberedning, import og markedsføring af økologiske jordbrugs- og fiskeriprodukter, herunder fødevarer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb23b5d21-fa63-4a37-be00-1fb8d2cde62d" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="id87c02d4f-712c-4d5e-a93a-27d6cab770b7">
+                <Exitus>
+                  <Linea>
+                    <Char>Lovens formål er at</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idec9575f6-6970-4d5a-9375-fda14fe62f2c">
+                  <Index>
+                    <Indentatio id="id37f58e9d-dc12-46f2-9049-3552dbff4b7b" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>fastsætte rammer for og medvirke til at styrke udbredelsen af en bæredygtig, økologisk produktion,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idcb4ca14b-d593-47e4-b124-0de43224f498" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>beskytte forbrugernes interesser og imødekomme forbrugernes efterspørgsel efter produkter fremstillet ved hjælp af processer, der tager særligt hensyn til miljø, natur, biodiversitet, planters, dyrs og menneskers sundhed samt dyrevelfærd, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb5f6c62b-9211-49f0-88b5-e4a1e250e39d" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>sikre de økologiske producenter og handlende rimelige og ensartede vilkår.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id31e5f259-54a0-418e-9430-30a829b82945" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="idb7ca2ce0-ece2-40db-afcc-d7aab8fb5b3e">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved lovens administration skal der særlig lægges vægt på hensynet til økologiens troværdighed og omdømme hos forbrugeren.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Herudover skal det økologiske forsigtighedsprincip ved produktion og forarbejdning af økologiske produkter indgå ved administrationen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idcfaa4734-c971-43b0-ae29-11abeefed688" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="ida0cda927-ef9f-49f2-8b3a-0063bc5bfce8">
+            <Linea>
+              <Char>Det Økologiske Fødevareråd</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id0c2373e0-771e-4b1c-9ec8-ff95f128e90b" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="ida45fd28a-330e-4166-b470-479a4c661644">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren</Char>
+                  </Linea>
+                  <Nota id="id7c257348-024a-4249-93b7-2853311fa9e4">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Ved kgl. resolution af 28. juni 2015 er Miljøministeriet og Ministeriet for Fødevarer, Landbrug og Fiskeri sammenlagt til et Miljø- og Fødevareministerium, jf. bekendtgørelse nr. 1229 af 3. november 2015 om ændring i forretningernes fordeling mellem ministrene.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>nedsætter Det Økologiske Fødevareråd.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id612ee3ae-0d8d-4142-8e5f-6c00c7ff4dd0">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det Økologiske Fødevareråd skal fremme, følge og vurdere udviklingsmulighederne for den danske økologisektor.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Rådet rådgiver ministeren i spørgsmål om denne lov, regler fastsat i medfør heraf samt om gennemførelse af EU-regler og andre internationale forpligtelser, for så vidt angår den økologiske produktionsmetode.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Herudover kan rådet rådgive ministeren i andre spørgsmål vedrørende økologi.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id62993af7-c987-488d-b894-34e69396b8dc">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter rådets sammensætning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Formanden udpeges som repræsentant for Miljø- og Fødevareministeriet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De øvrige medlemmer udpeges efter indstilling fra henholdsvis Miljøministeriet</Char>
+                  </Linea>
+                  <Nota id="ided4f54b3-0825-41f2-8029-763a29c23630">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Ved kgl. resolution af 28. juni 2015 er Miljøministeriet og Ministeriet for Fødevarer, Landbrug og Fiskeri sammenlagt til et Miljø- og Fødevareministerium, jf. bekendtgørelse nr. 1229 af 3. november 2015 om ændring i forretningernes fordeling mellem ministrene.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>, Foreningen for Biodynamisk Jordbrug, Økologisk Landsforening, Landbrugsraadet</Char>
+                  </Linea>
+                  <Nota id="id7f9de6cb-a439-4ee7-b46a-9514d1e251b3">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Den 3. juni 2009 fusionerede Landbrugsraadet, Danske Slagterier, Dansk Svineproduktion, Dansk Landbrug med Landbrugsmedierne og Dansk Landbrugsrådgivning, samt væsentlige dele af Mejeriforeningen, og dannede Landbrug &amp; Fødevarer.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>, Dansk Landbrug</Char>
+                  </Linea>
+                  <Nota id="id3864f31f-8ffd-4e56-868d-7f9c7fb8b254">
+                    <Explicatus>5)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Den 3. juni 2009 fusionerede Landbrugsraadet, Danske Slagterier, Dansk Svineproduktion, Dansk Landbrug med Landbrugsmedierne og Dansk Landbrugsrådgivning, samt væsentlige dele af Mejeriforeningen, og dannede Landbrug &amp; Fødevarer.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>, Arbejderbevægelsens Erhvervsråd, Forbrugerrådet</Char>
+                  </Linea>
+                  <Nota id="id94a00922-6ff5-4348-81eb-7631eb9f0028">
+                    <Explicatus>6)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>I 2013 tilføjedes Forbrugerbladets titel Tænk til medlemsorganisationens navn.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>, Dansk Industri</Char>
+                  </Linea>
+                  <Nota id="id12c6c940-0892-416b-86f4-cc7e37636ad2">
+                    <Explicatus>7)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Ved en sammelængning den 1. maj 2008 mellem Dansk Industri og Handel, Transport og Service (HTS) tog organisationen navnet DI.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>, den danske detailhandel, Det Grønne Kontaktudvalg og Dansk Akvakultur.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd1ae869f-9d7a-4ce6-887c-76b400304157">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan bestemme, at andre organisationer eller myndigheder kan indstille medlemmer til rådet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6685223a-9959-445c-b900-2711176441ad">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter nærmere regler for Det Økologiske Fødevareråds arbejde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id989f1a71-3c1a-4a36-a1e4-d6aacb048ed9" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="idea05eb00-1844-4df8-a9a5-26c482775dc1">
+            <Linea>
+              <Char>Markedsføring</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="id552ac644-70a8-4165-ba28-4c5fe9a5764a">
+              <Linea>
+                <Char>Brug af den økologiske betegnelse</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idebabb1c1-3876-40e5-b8f7-0e072af213d6" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="id33cd513d-ec29-4c17-941a-4a371d3a99d3">
+                <Exitus>
+                  <Linea>
+                    <Char>Produkter omfattet af denne lov må kun markedsføres eller sælges med henvisning til, at de er produceret i henhold til den økologiske produktionsmetode, hvis produkterne er fremstillet i overensstemmelse med regler fastsat i medfør af denne lov eller bestemmelser i Det Europæiske Fællesskabs forordninger om forhold omfattet af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id3439195c-4229-43cf-8a60-cb60ba77b6a5">
+              <Linea>
+                <Char>Ø-mærket</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id2d6efebd-eb71-49c4-bab9-f4516753e52f" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id37e04efa-a329-4e23-9991-f756a812a510">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om udformningen af økologikontrolmærket (Ø-mærket).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc4224c4a-e282-45d1-b412-49f0965b9754">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om anvendelse af Ø-mærket på produkter omfattet af denne lov, herunder om anvendelse af mærket i forbindelse med markedsføring af produkter omfattet af loven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id73b37dc3-58b3-424f-a728-9f9daf13f25c">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ø-mærket kan anvendes i forbindelse med oplysning om og undervisning i økologi.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id81dd4ac0-dd54-452f-a283-49fe8ff00aaa" localId="4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="id604b8200-0704-4cc3-8840-ab7df0416e86">
+            <Linea>
+              <Char>Autorisation</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="idb18bf773-062a-4608-a8f4-849cded75e2a">
+              <Linea>
+                <Char>Meddelelse af autorisation</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id5fd27056-e84a-4f58-b0e1-3cb7dc4932eb" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="idbd68f102-ae7e-42eb-a528-e39694f274a3">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan meddele autorisation til økologisk virksomhed, som drives i overensstemmelse med Det Europæiske Fællesskabs forordninger om forhold omfattet af denne lov, bestemmelserne i denne lov samt regler fastsat i medfør af loven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id57daaec0-fd6c-494d-9105-42a72e8aa6de">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Autorisation kan meddeles til fysiske og juridiske personer til økologisk drift af en bestemt virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb7bc5922-f392-4625-9c3c-ce5c1df0eedc">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om autorisation, herunder om ansøgning m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id58b2c15b-8148-4ef5-a548-1f5edda87044">
+              <Linea>
+                <Char>Nægtelse af autorisation</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id762f0c5d-b23a-402a-997a-209a70ed8471" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="iddd4f9bde-eb33-4244-9f53-cb85354ae1ed">
+                <Exitus>
+                  <Linea>
+                    <Char>Autorisation kan nægtes, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id06e5421d-bc40-4ea4-aa12-9b7d9de81e75">
+                  <Index>
+                    <Indentatio id="id570d11a7-7089-4029-88ab-6f0c47daba0d" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ansøgerens autorisation inden for de forudgående 5 år er blevet tilbagekaldt og der er grund til at antage, at den pågældende ikke vil drive virksomheden økologisk i overensstemmelse med reglerne,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id902b29ab-cf46-47eb-b571-f4852200d9e5" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ansøgeren inden for de forudgående 5 år er fundet skyldig i et strafbart forhold, der kan give grund til at antage, at den pågældende ikke vil drive virksomheden økologisk i overensstemmelse med reglerne, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida06fce19-8020-4e93-8fab-1ca06121a2e1" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>der i øvrigt foreligger oplysninger om den pågældende, som giver grund til at antage, at den pågældende ikke vil drive virksomheden økologisk i overensstemmelse med reglerne.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id47bd107c-7d8a-4cd0-8b40-6ca6b7d5fe14">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Interessentskaber og kommanditselskaber kan nægtes autorisation, hvis der om en af deltagerne foreligger oplysninger, som efter stk. 1 kan begrunde nægtelse af autorisation.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6d310457-77bd-482d-bbb6-0b3b270c0dc2">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et aktie- eller anpartsselskab eller et andet selskab med begrænset ansvar kan nægtes autorisation, hvis der om et medlem af selskabets direktion foreligger oplysninger, som efter stk. 1 kan begrunde nægtelse af autorisation.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id656afd07-cd0a-44d7-81e2-b50d91c78c21">
+              <Linea>
+                <Char>Bortfald af autorisation</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id12c1604f-4aed-476c-a116-3fbe825a332d" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="idb8d08604-aedf-4472-87bf-4fcc8160fb33">
+                <Exitus>
+                  <Linea>
+                    <Char>Autorisationen bortfalder</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id59580b93-504d-4cc1-b7c5-7d6f05c42aea">
+                  <Index>
+                    <Indentatio id="ide5adc0c3-fe9c-467d-b782-7015627365d7" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ved producent-, bruger- eller ejerskifte, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idcdfc995c-7ec0-40fe-bb3b-c6e20ef284f5" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>når autorisationsindehaveren til miljø- og fødevareministeren eller den, ministeren bemyndiger hertil, meddeler ophør af produktionen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id8bc47256-4914-4dec-8a79-731d554a1c37">
+              <Linea>
+                <Char>Tilbagekaldelse af autorisation</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="ideca689ef-5fea-46fd-8b0b-934ffa24f3bc" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id8d99362f-62ba-410f-89b0-49421e43035f">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan tilbagekalde en meddelt autorisation, hvis autorisationsindehaveren groft eller gentagne gange har overtrådt Det Europæiske Fællesskabs forordninger om forhold omfattet af denne lov, bestemmelserne i denne lov eller regler fastsat i medfør af loven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb6d67715-b576-463d-9eef-31c5ec072bd4">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er autorisationsindehaveren deltager i et interessentskab eller kommanditselskab eller medlem af direktionen i et aktie- eller anpartsselskab eller et andet selskab med begrænset ansvar, kan miljø- og fødevareministeren tilbagekalde dette selskabs autorisation, hvis autorisationsindehaveren ikke inden for en frist på 2 måneder udtræder som deltager eller medlem af direktionen i selskabet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb4702c01-d24c-48a4-8d1b-c28270e81005">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er autorisationsindehaveren et interessentskab eller kommanditselskab eller et aktie- eller anpartsselskab eller et andet selskab med begrænset ansvar, kan miljø- og fødevareministeren tilbagekalde de personlige autorisationer, som deltagerne i interessentskabet eller kommanditselskabet eller medlemmerne af direktionen i aktie- eller anpartsselskabet eller et andet selskab med begrænset ansvar har fået meddelt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id43dfc6e3-7caf-439c-ad1d-e0a00ffaf146">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan tilbagekalde en meddelt autorisation, hvis virksomheden i en periode på mindst 1 år ikke har haft økologisk aktivitet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd61977ca-c4dc-4c3a-a9b8-0cea3a1d1391">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det kan i forbindelse med tilbagekaldelse efter stk. 1-3 bestemmes, at autorisationen først kan generhverves efter en periode, der ikke kan overstige 5 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id36435b25-9dbe-4ff2-a54e-93070defa352">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser efter stk. 1-4 skal indeholde oplysning om adgang til domstolsprøvelse efter § 12 og fristen herfor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id85588c5a-b62c-487b-b299-7cb408d3ab57">
+              <Linea>
+                <Char>Daglig drift</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="iddcf4eac6-2ecd-4345-9df2-d9c161c90168" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="id52010982-d497-42d9-932d-0d13f646114d">
+                <Exitus>
+                  <Linea>
+                    <Char>Den daglige drift af den autorisationspligtige virksomhed skal forestås af auto­ri­sa­tions­indehaveren selv eller af en person, der kan opnå autorisation.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id84dd29ca-2cf4-4975-823f-9d67ead7b9b0">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forestås den daglige drift af en person, der ikke kan opnå autorisation, kan ministeren tilbagekalde autorisationsindehaverens autorisation, hvis personen ikke inden for en frist på 2 måneder fratræder som leder af den daglige drift.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Afgørelsen skal indeholde oplysning om adgangen til domstolsprøvelse efter § 12 og fristen herfor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id7d6edbf2-3fb6-44ab-b500-c03c93dcddfc">
+              <Linea>
+                <Char>Domstolsprøvelse af tilbagekaldelse af autorisation</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id1fbcd40b-c680-4149-a983-02c98f5b618b" localId="12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="id933281e5-f673-4312-89ae-cfe882f077ea">
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser efter § 10, stk. 1-4, og § 11, stk. 2, kan af autorisationsindehaveren forlanges indbragt for domstolene.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anmodning herom skal fremsættes over for miljø- og fødevareministeren, inden 4 uger efter at tilbagekaldelsen er meddelt autorisationsindehaveren.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren anlægger sag mod autorisationsindehaveren i den borgerlige retsplejes former.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id622b757d-6bc1-4117-b702-2ed850b56a01">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Anmodning om sagsanlæg har ikke opsættende virkning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Retten kan dog bestemme, at den pågældende under sagens behandling må udøve virksomhed på nærmere angivne vilkår.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id78831f6f-63d8-43c0-8b53-8e752a223d68" localId="5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica id="id9dc1fc23-94e4-4f7b-b29b-5919636c581a">
+            <Linea>
+              <Char>Administration af loven</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="idf70ef0a5-779d-4d8e-b050-9c7fd6ac178d">
+              <Linea>
+                <Char>Bemyndigelse til at gennemføre EU-lovgivning m.v.</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idc71ca256-3e63-4309-9155-22a8daa62ec0" localId="13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="idd55feb00-82c2-4fd8-8d1b-66bea5d5173b">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler eller træffe bestemmelser med henblik på gennemførelse af Det Europæiske Fællesskabs direktiver og beslutninger om forhold, der er omfattet af denne lov.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan endvidere fastsætte de regler og iværksætte de foranstaltninger, der er nødvendige for anvendelsen af forordninger fastsat af Det Europæiske Fællesskab om forhold, der er omfattet af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8abd655a-feea-4e34-a6ed-ba38e80b88d8">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om fravigelse af bestemmelser i ovennævnte retsakter, i det omfang disse indeholder adgang hertil.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id0d6ba93a-b2d2-4776-afb0-356ed53e16fa">
+              <Linea>
+                <Char>Bemyndigelse til at fastsætte regler om produktion m.v.</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id803b78c7-65a7-4154-a526-384e6f04e068" localId="14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="id0746304a-0ca8-45a6-8f0e-311e5bcfdf82">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om økologisk produktion m.v., herunder om tilberedning, forarbejdning, behandling, aftapning, emballering, ompakning, opbevaring, dokumentation, egenkontrol, mærkning, salg, udbud til salg, formidling af salg, tilbud, fordeling, transport, levering og anden form for overdragelse, ind- og udførsel, anmeldelse, indberetning, godkendelse samt kontrol.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id0115ae9d-b626-44c1-b0ee-95667e70bb30" localId="15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="id9a2c4e3a-13ab-4b75-862c-e48fc2ca03a9">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om pligt for virksomheder, der sælger til eller køber produkter fra virksomheder autoriseret efter § 7, til at udlevere regnskabsoplysninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idb8908e8c-a176-4a76-8a44-88747c46965a">
+              <Linea>
+                <Char>Obligatorisk digital kommunikation</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idd549f681-8a47-49b6-a5a6-e98bd172604f" localId="15a">
+              <Explicatus>§ 15 a.</Explicatus>
+              <Stk id="id0ebf2e6f-c907-43ff-954a-9cb4a242ac99">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om, at skriftlig kommunikation til og fra Miljø- og Fødevareministeriet om forhold, som er omfattet af denne lov eller af regler udstedt i medfør af denne lov, skal foregå digitalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0f9ecd77-9025-4e53-b43e-85eb9f541ca8">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte nærmere regler om digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb06a3b73-a01a-4117-af50-28f5e8b5b713">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id7fb11dea-bfa3-4ab1-94ad-72c701fd74eb" localId="15b">
+              <Explicatus>§ 15 b.</Explicatus>
+              <Stk id="id523231a4-3d7a-4cda-8081-cfdcc32144d9">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af ministeriet som afsender.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9bfdbb29-0eb8-4ed7-93ae-2f4b4b0243ec" localId="15c">
+              <Explicatus>§ 15 c.</Explicatus>
+              <Stk id="id243aafa6-c58a-4ae9-bcc1-43992a4a6199">
+                <Exitus>
+                  <Linea>
+                    <Char>Hvor det efter denne lov eller regler udstedt i medfør af denne lov er krævet, at et dokument, som er udstedt af andre end miljø- og fødevareministeren, skal være underskrevet, kan dette krav opfyldes ved anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt dokumentet, jf. dog stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sådanne dokumenter sidestilles med dokumenter med personlig underskrift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9ed29588-9c3d-4b0b-ae17-a5538a3381b6">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte nærmere regler om fravigelse af underskriftskrav.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det kan herunder bestemmes, at krav om personlig underskrift ikke kan fraviges for visse typer af dokumenter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idced7b260-f0f8-4001-8cfc-9c16e23359dd">
+              <Linea>
+                <Char>Gebyrer</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id61a0b6ff-98d0-410e-9df3-fa24a8c87d6a" localId="16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="id719c2ca4-32cc-4b14-83c5-263d951a78c4">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om opkrævning og betaling til hel eller delvis dækning af udgifter til autorisation, tilsyn, kontrol og administration efter denne lov, efter regler udstedt i medfør af denne lov samt efter forordninger udstedt af Det Europæiske Fællesskab.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id37b2f031-db3c-41f7-a790-d6e467bb361e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Betalingsforpligtelser efter denne lov eller regler udstedt i medfør heraf og betalingsforpligtelser, der følger af det Europæiske Fællesskabs forskrifter, tillægges renter.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Medmindre andet er fastsat ved forordning, beregnes renten fra forfaldsdagen, og til betaling sker med den i renteloven fastsatte referencesats med tillæg.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den tillagte rente udgør dog mindst 50 kr. For erindringsskrivelser betales et gebyr på 100 kr., som reguleres pr. 1. januar med tilpasningsprocenten i lov om en satsreguleringsprocent for det pågældende finansår.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beløbet afrundes til nærmeste hele kronebeløb, der kan deles med 10.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id03269a1e-b081-411b-a0f9-69c6b01b1c8f">
+              <Linea>
+                <Char>Offentliggørelse</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id8b99e02f-b4d7-4edc-828c-65288679c50e" localId="17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="idc71e69ab-2fb4-4506-831a-6785e42659f6">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om offentliggørelse med navns nævnelse af resultater samt art og omfang af sanktioner på grundlag af tilsyn og kontrol, som gennemføres i henhold til loven eller regler udstedt i medfør af loven eller af Det Europæiske Fællesskabs forordninger.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan herunder fastsætte regler om, at klage ikke har opsættende virkning på offentliggørelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida07c3246-c753-40b8-8707-3025e8368317">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, på hvilken måde og i hvilken form kontrolresultaterne skal gøres tilgængelige for offentligheden, herunder på hvilke betingelser virksomheder kan fritages for pligten til at gøre kontrolresultater tilgængelige.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf9424c89-3d55-467e-ad63-50522185d45d">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om formen for og omfanget af offentliggørelse, herunder at offentliggørelse kan ske elektronisk.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan bestemme, at visse resultater ikke skal offentliggøres.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id768535ae-907a-400b-a12f-da5ac7c43991">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan bestemme, at offentliggørelse skal ske på grundlag af et af ministeren oprettet elektronisk informationssystem vedrørende kontrolresultater.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan på ethvert tidspunkt, herunder periodisk, videregive såvel enkeltstående oplysninger som masseoplysninger fra informationssystemet til en ubestemt kreds af modtagere.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Enhver har adgang til fra in­for­ma­tions­systemet at få meddelt oplysninger, som enten har været offentliggjort, eller som skal offentliggøres.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Adgangen omfatter såvel enkeltstående oplysninger som masseoplysninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="ideb662b07-fdb3-4d7e-9375-8d0a8ba58e1d">
+              <Linea>
+                <Char>Klageadgang</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idf166bbf1-b9f6-4e76-8e31-6fab8e8b8a4b" localId="18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="id6307213c-1996-4843-b0ca-3638299da96b">
+                <Exitus>
+                  <Linea>
+                    <Char>Henlægger miljø- og fødevareministeren sine beføjelser efter loven til en myndighed under ministeriet, kan ministeren fastsætte regler om adgangen til at klage over myndighedens afgørelser, herunder om, at klage ikke kan indbringes for en anden administrativ myndighed, og om myndighedens adgang til at genoptage en sag, efter at der er indgivet klage.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan endvidere fastsætte regler om indgivelse af klager, herunder om formkrav til klagen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="iddd18b87d-b3bb-4ae4-9171-89f697b83ebb">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan efter forhandling med vedkommende minister henlægge sine beføjelser efter denne lov til en anden statslig myndighed eller statslig institution.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan i forbindelse hermed fastsætte regler om adgangen til at klage over disse myndigheders eller institutioners afgørelser, herunder om, at klage ikke kan indbringes for anden administrativ myndighed, og om myndighedens eller institutionens adgang til at genoptage en sag, efter at der er indgivet klage.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id65e02aaa-df47-403d-ab08-ce55c35c2323">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan efter forhandling med vedkommende kommunale organisation henlægge sine beføjelser efter denne lov til en kommunalbestyrelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan i forbindelse hermed fastsætte regler om adgangen til at klage over kommunalbestyrelsens afgørelser, herunder om, at klage ikke kan indbringes for anden administrativ myndighed, og om kommunalbestyrelsens adgang til at genoptage en sag, efter at der er indgivet klage.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan ændre afgørelserne, uden at der er indgivet klage.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren bevarer sin fulde instruktionsbeføjelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id253501b8-6945-44c7-a11d-e6942dccb3ba" localId="18a">
+              <Explicatus>§ 18 a.</Explicatus>
+              <Stk id="id2432485c-897b-4b0e-9eb8-5b9a67b84b22">
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser truffet i henhold til denne lov eller regler udstedt i medfør heraf kan, hvis ikke andet er fastsat i loven eller i henhold til regler udstedt i medfør heraf, påklages til Miljø- og Fødevareklagenævnet, som behandler sagen i en af nævnets afdelinger, jf. § 3, stk. 1, nr. 4, 7 og 8, i lov om Miljø- og Fødevareklagenævnet, og kan dermed ikke indbringes for anden administrativ myndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6134a7df-5153-464d-908d-1442b730b19c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klage til Miljø- og Fødevareklagenævnet indgives skriftligt til den myndighed, der har truffet afgørelsen, ved anvendelse af digital selvbetjening, jf. dog § 21, stk. 2-4, i lov om Miljø- og Fødevareklagenævnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Myndigheden skal, hvis den vil fastholde afgørelsen, snarest og som udgangspunkt ikke senere end 3 uger efter modtagelsen af klagen videresende klagen til klageinstansen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Klagen skal ved videresendelsen være ledsaget af den påklagede afgørelse, de dokumenter, der er indgået i sagens bedømmelse, og en udtalelse fra myndigheden med dennes bemærkninger til sagen og de i klagen anførte klagepunkter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idf0662766-2364-41d2-829d-4630f9c72183">
+              <Linea>
+                <Char>Adgang uden retskendelse</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id738e23b7-cf39-42fc-990b-ff49679b61ed" localId="19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="idb2db0097-cc74-4416-a017-19dfd5216348">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren eller den, ministeren bemyndiger hertil, har, hvis det skønnes nødvendigt, til enhver tid mod behørig legitimation uden retskendelse adgang til offentlig og privat ejendom, lokaliteter, forretningsbøger, papirer m.v., herunder også materiale, der opbevares i elektronisk form, for at tilvejebringe oplysninger, der er nødvendige til brug for løsning af opgaver i henhold til denne lov, regler fastsat i medfør af loven eller bestemmelser i Det Europæiske Fællesskabs forordninger om forhold omfattet af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id12eb5989-fdda-4433-b9fa-45eb3e8182ed">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Politiet yder om nødvendigt bistand til gennemførelse af den i stk. 1 nævnte kontrol.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan efter forhandling med justitsministeren fastsætte nærmere regler herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idab854386-1bd4-4a63-b626-179364ba63a1">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren eller den, ministeren bemyndiger hertil, kan udtage prøver m.v. til undersøgelse uden at skulle erlægge betaling herfor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id1733ea24-48e5-4c02-bb1e-e3ae552d8415">
+              <Linea>
+                <Char>Pligt til at yde myndigheden bistand</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idaa2d4fcc-e8f8-4d7f-a19a-964d05ad9c34" localId="20">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="ide1ccd05e-c062-4c6d-a60f-d7b30ab77991">
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der er omfattet af reglerne i denne lov, af regler fastsat i medfør af denne lov eller af bestemmelser i Det Europæiske Fællesskabs forordninger om forhold omfattet af denne lov, skal efter anmodning fra miljø- og fødevareministeren eller den, ministeren bemyndiger hertil, give alle oplysninger, herunder om økonomiske og regnskabsmæssige forhold, som er påkrævet af hensyn til gennemførelse af kontrol efter loven, samt vederlagsfrit yde ministeren eller den, ministeren bemyndiger hertil, fornøden bistand ved kontrol, prøvetagning, kopiering og udlevering af skriftligt materiale og udskrifter af oplysninger, som opbevares i elektronisk form.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id82723b32-8ba6-45bd-b503-ed0c7f907360" localId="6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica id="idffb8e353-fc93-422d-86cd-f2975794e206">
+            <Linea>
+              <Char>Påbud og forbud m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="id9e9f4a4e-a75c-4b46-b4c1-bbdec4fadd32">
+              <Linea>
+                <Char>Påbud og forbud</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id78fb880b-e621-4810-b83e-ea4d29a70f34" localId="21">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="id97301700-8262-4736-ab93-da666abf9574">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan meddele de påbud og forbud, der anses for nødvendige for overholdelse af loven eller regler fastsat i medfør af denne lov eller bestemmelser i Det Europæiske Fællesskabs forordninger om forhold omfattet af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id83ced935-bbe3-4e5f-97f9-93916fd5bdd0">
+              <Linea>
+                <Char>Fornyet omlægning</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id89069d10-764d-423a-9d6b-4409d16434ef" localId="22">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="id60793cbe-616b-44a0-8acc-9931bf16fe9a">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan påbyde fornyet omlægning af arealer eller dyr, hvis der konstateres en overtrædelse af regler fastsat i medfør af denne lov eller bestemmelser i Det Europæiske Fællesskabs forordninger om forhold omfattet af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="ida1a6cfa0-ef1f-4d33-a47d-cddfcb899d9e">
+              <Linea>
+                <Char>Forbud mod salg</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idfe23ef2c-1038-4ca5-8172-d659130a9889" localId="23">
+              <Explicatus>§ 23.</Explicatus>
+              <Stk id="ide941afcb-40f3-4c02-8d5c-55f7356e8973">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan forbyde, at et produkt omfattet af denne lov udbydes til salg, sælges eller på anden måde overdrages med henvisning til, at det er produceret i henhold til den økologiske produktionsmetode, hvis produktet ikke overholder regler fastsat i denne lov eller regler fastsat i medfør af denne lov eller regler fastsat i Det Europæiske Fællesskabs forordninger om forhold omfattet af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id81a3a3df-5502-4ae6-a488-c302cf1df31a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan for en periode, der ikke kan overstige 5 år, forbyde en fysisk eller juridisk person at sælge eller på anden vis omsætte produkter omfattet af denne lov under henvisning til, at de er produceret i henhold til den økologiske produktionsmetode, hvis den pågældende har gjort sig skyldig i grov eller gentagen overtrædelse af Det Europæiske Fællesskabs forordninger om forhold omfattet af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id8d16df25-b08c-462c-b0da-b1c6c5f069b4" localId="7">
+          <Explicatus>Kapitel 7</Explicatus>
+          <Rubrica id="id68d06f3a-d5dd-4861-88a2-d91990b0fcea">
+            <Linea>
+              <Char>Straffebestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id8ac504cd-6f2e-4d68-b2c3-d16b4bac7b9e" localId="24">
+              <Explicatus>§ 24.</Explicatus>
+              <Stk id="id931e6c01-a2dc-46c2-8f40-79b708d2f143">
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde den, der</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idb755863a-0a0c-4398-8ee8-22e664c09995">
+                  <Index>
+                    <Indentatio id="id40a9552a-c72d-498f-a857-99f85ab72282" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>overtræder § 5,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id01c8c982-5c32-46a0-9e26-db12e7992570" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at afgive oplysninger eller at stille bistand til rådighed efter § 20,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idea3b6db8-31c4-4607-a680-79e5b426809e" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>overtræder forbud eller undlader at efterkomme påbud meddelt efter §§ 21-23.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="ide082ae74-a77d-4e09-beea-9e08196989da">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I regler, der udstedes i medfør af denne lov, kan der fastsættes straf af bøde for overtrædelse af reglerne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I reglerne kan der endvidere fastsættes straf af bøde for overtrædelse af regler fastsat af Det Europæiske Fællesskab om forhold, der er omfattet af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id26ea9031-81ee-4ce1-b3ee-276ffda73224">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id7de7a8ee-c4c5-40d2-93e4-081fbd8fbcdb">
+              <Linea>
+                <Char>Administrative bødeforlæg</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id51ac6463-81bb-47f2-9173-44ab3595c097" localId="25">
+              <Explicatus>§ 25.</Explicatus>
+              <Stk id="id49c6fbf1-a720-4fac-bc5a-fa398b4f50f4">
+                <Exitus>
+                  <Linea>
+                    <Char>Skønnes en overtrædelse ikke at ville medføre højere straf end bøde, kan miljø- og fødevareministeren tilkendegive, at sagen kan afgøres uden retslig forfølgning, hvis den, der har begået overtrædelsen, erklærer sig skyldig i overtrædelsen og rede til inden en nærmere angiven frist, der efter begæring kan forlænges, at betale en i tilkendegivelsen angivet bøde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id84783cda-e960-42cb-93ff-c9cfa2c1b78b">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Med hensyn til den i stk. 1 nævnte tilkendegivelse finder bestemmelserne i retsplejeloven om krav til indholdet af et anklageskrift og om, at en sigtet ikke er forpligtet til at udtale sig, tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6a2eb235-b3d0-438d-9ad4-2d0328473c6a">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Betales bøden i rette tid, eller bliver den efter vedtagelsen inddrevet eller afsonet, bortfalder videre forfølgning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id1cdfd077-0e8b-4c66-81de-bb050337a3e0" localId="8">
+          <Explicatus>Kapitel 8</Explicatus>
+          <Rubrica id="idc364f83d-d24b-4595-a6ca-eb96d340131e">
+            <Linea>
+              <Char>Ikrafttræden m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="id0f7fff50-841a-4a22-b1f3-ee0b0cfd3ba3">
+              <Linea>
+                <Char>Ikrafttræden</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id8f0728e3-1214-4bb2-a8a0-3815672edb01" localId="26">
+              <Explicatus>§ 26.</Explicatus>
+              <Stk id="idd357ec76-d35c-4040-8322-569d4b634678">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter tidspunktet for lovens ikrafttræden.</Char>
+                  </Linea>
+                  <Nota id="id3740c7f9-b0cb-49d9-862d-f43fcc43ee85">
+                    <Explicatus>8)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Loven er trådt i kraft den 1. januar 2009, jf. bekendtgørelse nr. 1103 af 17. november 2008.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                </Exitus>
+              </Stk>
+              <Stk id="id4129ab36-56fe-476b-8af3-c014dc030971">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved lovens ikrafttræden ophæves økologiloven, jf. lovbekendtgørelse nr. 761 af 29. juni 2006, idet dog § 15 forbliver i kraft.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id63c5bed5-8d6b-4676-bf4f-c2861985e534">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Regler fastsat i medfør af den i stk. 2 nævnte lov forbliver i kraft, indtil de ophæves eller afløses af nye regler fastsat i medfør af denne lov eller anden lovgivning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Overtrædelser straffes efter de hidtil gældende regler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id50841b74-a400-4fbf-98c8-5bf1eb7d39a3">
+              <Linea>
+                <Char>Gyldighed for Færøerne og Grønland</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idb8f97be6-338f-4694-9d23-8aa7ede477bc" localId="27">
+              <Explicatus>§ 27.</Explicatus>
+              <Stk id="idefd1510e-d6c7-4e7b-8d98-a4aa3be5927d">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="id7ed941d0-124c-411a-98b5-77a4c6a30e28">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet</Char>
+        </Linea>
+        <Nota id="ide3622aa8-11c9-4695-af2e-bd9d136c8164">
+          <Explicatus>9)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører indsættelse af § 18 a.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>indeholder følgende ikrafttrædelses- og overgangsbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <Paragraf id="id633776fb-9856-4343-b6dc-d5bfc46d1fe4" localId="24">
+        <Explicatus>§ 24.</Explicatus>
+        <Stk id="idf8a7724c-74df-4e81-abfd-4ef4a19e1ca4">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. februar 2017.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id656655fd-91a6-4b10-ba91-e157972a130f">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id9530705d-77f6-427a-be22-78733f2a3777">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Erhvervsministeren</Char>
+            </Linea>
+            <Nota id="id8619d62f-a683-4b6c-8c74-8fd10bc9ac2b">
+              <Explicatus>10)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Ved kongelig resolution af 28. november 2016 er betegnelsen Erhvervs- og Vækstministeriet ændret til Erhvervsministeriet, jf. bekendtgørelse nr. 1777 af 23. december 2016.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id9fb80b27-7c2e-4462-a4b8-616d113e7a84">
+          <Explicatus>Stk. 4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id08445a6f-4ada-4719-a91b-46d725ad8c49">
+          <Explicatus>Stk. 5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Regler, der er fastsat i henhold til hidtil gældende regler, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat med hjemmel i denne lov.</Char>
+            </Linea>
+            <Linea>
+              <Char>Overtrædelse af reglerne straffes efter de hidtil gældende regler.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id01cbfa35-c048-4838-84dd-22b7d2061c14">
+          <Explicatus>Stk. 6.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov.</Char>
+            </Linea>
+            <Linea>
+              <Char>Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idcc117bbf-14a1-4a17-aa14-f2b59534e089">
+          <Explicatus>Stk. 7.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </Paragraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id13cec347-7da4-445f-a20c-1b5ccc0ab594">
+    <UnderskriftStedDato id="idb8b52c5f-3f2b-4ced-8dac-2adb38c28ba0" />
+    <Underskriver id="idcef5563e-7a70-4b0f-baa2-b918b9a2e72b" />
+  </UnderskriftGruppe>
+</Dokument>

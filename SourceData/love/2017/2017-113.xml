@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="ide469baf1-8368-4dd8-b4da-b6983cfb3a8e" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2016/09/26/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id2a26eb17-ca9c-4fbc-9398-b96249b5e19b">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20170011330</AccessionNumber>
+    <DocumentId>CN000347</DocumentId>
+    <UniqueDocumentId>186452</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af sundhedsloven, lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed og lov om klage- og erstatningsadgang inden for sundhedsvæsenet (Etablering af en bisidderordning og praktiserende kiropraktorers mulighed for henvisning til billeddiagnostiske undersøgelser samt kvalitetsarbejde m.v.)</DocumentTitle>
+    <Year>2017</Year>
+    <DiesSigni>2017-01-31</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-02-01</EndDate>
+    <Status>Valid</Status>
+    <Number>113</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 113 af 31/01/2017</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Ellen Trane Nørby</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Sundheds- og Ældremin., j.nr. 1605142</JournalNumber>
+    <Ministry>Sundheds- og Ældreministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id8b3535bd-2f16-41b1-aee3-96c314cb8be5">
+    <Titel id="idb2391d2f-3bd8-4348-ba01-4cc9a251c9fd">
+      <Linea>
+        <Char>Lov om ændring af sundhedsloven, lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed og lov om klage- og erstatningsadgang inden for sundhedsvæsenet</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id6fc0e07b-749b-43d9-aea5-a91e52598da1">
+      <Linea>
+        <Char>(Etablering af en bisidderordning og praktiserende kiropraktorers mulighed for henvisning til billeddiagnostiske undersøgelser samt kvalitetsarbejde m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id30d13acf-5608-4eca-a383-031d4200d4e0">
+    <Hymne id="idcea46b34-76cc-4da3-8f90-34a23460d299">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id490d8687-848c-4705-9be9-6827ecd61751">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I sundhedsloven, jf. lovbekendtgørelse nr. 1188 af 24. september 2016, som ændret ved § 33 i lov nr. 618 af 8. juni 2016, § 39 i lov nr. 620 af 8. juni 2016 og lov nr. 1737 af 27. december 2016, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id4fdf8bbe-011b-4308-9b32-4620e511a05d">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id988b25be-f847-44ac-927e-6ec6b8341ae1">
+          <AendringDefinition id="id3e34f143-4e72-43e0-b243-9e749a29f930">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 6</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc443dddc-b927-4942-824d-97ae5463aee0">
+            <AendringNyTekst>
+              <Stk id="id66bb6f1e-e860-4b64-96ce-81b969906c97">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsministeren kan fastsætte regler om, at rettigheder og pligter for sundhedspersoner fastsat i eller i medfør af denne lov også skal finde anvendelse for personer, der uden autorisation midlertidigt og lejlighedsvis her i landet udøver sundhedsfaglig virksomhed omfattet af lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc8ea56e5-c5fe-4aeb-9bf4-a00d7aa1e78b">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id91f665a2-4572-4c49-958a-590f3f94670e">
+          <AendringDefinition id="id5d5c69ba-7266-485b-8d17-5d9bdcec23fa">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 64 </Char>
+                <Char>indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 5:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3172fab0-8cee-4f52-a230-87923819b3cf">
+            <AendringNyTekst>
+              <Stk id="id31c3d9da-1e92-4626-97c5-8f69cdeb2848">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsministeren fastsætter nærmere regler om tilskud til behandling hos praktiserende speciallæge til personer, der er omfattet af sikringsgruppe 2, efter stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id59832820-d3fe-4fdb-951c-538ad048c0a2">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="idd20396bd-0439-441f-96b0-444805dd229a">
+          <AendringDefinition id="idfb2ab3c1-df1c-444e-9005-4ad1335a4246">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Italic"> § 82 a </Char>
+                <Char>indsættes efter stk. 2 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id968692ca-485b-4782-94dc-373b776d8765">
+            <AendringNyTekst>
+              <Stk id="idf5b48405-6d53-497c-934e-ac350aeef7b9">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsministeren kan fastsætte regler om, at praktiserende kiropraktorer kan henvise til en diagnostisk undersøgelse på et sygehus, jf. § 79, til brug for udredning hos den praktiserende kiropraktor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idcfde2f62-8063-41b6-aa1a-53adcc077b5f">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 bliver herefter stk. 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id2fc54273-3e6d-4ff6-8aad-43171539d14c">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="ida20fc7a4-2ab3-41b2-989c-005545e6e55e">
+          <AendringDefinition id="id2aaff1ee-2b41-421e-8461-d88844eee4a2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 82 a, stk. 3,</Char>
+                <Char> der bliver stk. 4, ændres »stk. 1 og 2« til: »stk. 1-3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id837fdf8d-579d-42cb-a0cf-f5e4015848cf">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id86bc2aff-bc37-43ce-884c-5e76db85cc9c">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id225f0cbd-0a4c-4279-99f2-0c095e69f97c">
+          <AendringDefinition id="id6e621586-3311-479e-878f-4555781fb68c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 86, stk. 3,</Char>
+                <Char> ændres »justitsministeren og social- og indenrigsministeren« til: »justitsministeren, børne- og socialministeren og udlændinge- og integrationsministeren«, og »§ 82 a« ændres til: »§§ 82 a og 87«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd20061f8-d063-453d-b193-08521ae55c31">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id17eaa8cd-9231-44b6-8508-535556f52fac">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id930ca6bf-57d1-4600-aea1-4674c37b393d">
+          <AendringDefinition id="idda9341b8-298a-4f07-a2d1-45d27df3942f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 86, stk. 3, nr. 3,</Char>
+                <Char> ændres »på sikret afdeling« til: »på en sikret døgninstitution«, og »lov om social service, eller« ændres til »lov om social service, herunder som led i en strafferetlig afgørelse afsagt ved dom eller kendelse, eller«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id82c566b3-82d6-4413-91af-67f61b98f7c7">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7902b282-78e5-4ea2-ac8b-f7de9a85bcc4">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="ide6c595a4-e90e-4457-90d6-2a653ff9a183">
+          <AendringDefinition id="ideedc2e99-55ec-413e-a693-6e2c8d96da4c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 193, stk. 2, </Char>
+                <Char>ændres »en fælles ramme« til: »fælles rammer«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4a8afa01-167b-42d8-a0a5-6dbfa160bf4a">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id2d9c1cd6-45f7-4732-bac8-35efa559dcc3">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I sundhedsloven, lov nr. 546 af 24. juni 2005, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id61a49a8c-abb2-4166-bc5f-f8abaa2da85a">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idf3cd60b4-e641-4919-9a85-fa2dcc3d86e6">
+          <AendringDefinition id="id085de8e1-3a3c-4a2f-abfe-94ac8aca2754">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 278, stk. 2,</Char>
+                <Char> ændres »Kapitel 4-9« til: »§§ 5 og 6, kapitel 4-9«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf478aa1d-9314-4883-a682-71ff58bc854c">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id84952f6f-31d0-4af4-b28d-7afe32004f5d">
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, jf. lovbekendtgørelse nr. 1356 af 23. oktober 2016, som ændret ved § 1 i lov nr. 1734 af 27. december 2016, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id67fef304-538e-4da5-a0bf-914221d4f4ec">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id1db6d8e8-5a1f-4848-afc8-8a5563fa20a2">
+          <AendringDefinition id="idf4ed249a-6084-47b0-b713-973777812fd6">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 2, stk. 3,</Char>
+                <Char> ændres »jf. §§ 6 og 7« til: »jf. §§ 7-7 b«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4ced5d2f-316d-403c-99a6-e548cd25e193">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5a4f2e43-833e-42f9-a430-b15ac22f9385">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idf2d0d90c-8bf9-4e11-ac4b-6fdb9bffcb7d">
+          <AendringDefinition id="idef244e84-6352-4bbb-a7b6-70c9984e149f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 3</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id150f286f-9f59-437e-95ff-97966d8f8754">
+            <AendringNyTekst>
+              <Stk id="idd3513b3d-801c-42ec-9900-3cb8df555591">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsministeren  kan fastsætte regler om adgang til midlertidig og lejlighedsvis udøvelse af sundhedsfaglig virksomhed uden autorisation, som er nødvendig for gennemførelsen af Europa-Parlamentets og Rådets direktiv 2005/36/EF af 7. september 2005 om anerkendelse af erhvervsmæssige kvalifikationer med senere ændringer (anerkendelsesdirektivet).</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sundhedsministeren kan endvidere fastsætte betingelser for den midlertidige og lejlighedsvise udøvelse af sundhedsfaglig virksomhed her i landet samt regler om, i hvilket omfang rettigheder og pligter fastsat i eller i medfør af denne lov finder anvendelse for den midlertidige og lejlighedsvise udøvelse af sundhedsfaglig virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id158b979d-040c-4b9e-ba83-14746dbebcea">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id9571924a-6486-4459-9308-7f5ad5a383cf">
+          <AendringDefinition id="id0a431317-1f0c-44ae-a7c2-53dd4c6d1100">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5 </Char>
+                <Char>indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 6:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id047965f6-fb71-458a-af28-764794f92505">
+            <AendringNyTekst>
+              <Stk id="id1f2fe0f9-0afb-489b-a348-56b0f32661af">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Styrelsen for Patientsikkerhed fører endvidere tilsyn med personer, der i henhold til Europa-Parlamentets og Rådets direktiv 2005/36/EF af 7. september 2005 om anerkendelse af erhvervsmæssige kvalifikationer med senere ændringer (anerkendelsesdirektivet) midlertidigt og lejlighedsvis udøver sundhedsfaglig virksomhed her i landet, jf. § 3, stk. 3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sundhedsministeren fastsætter nærmere regler om udførelsen af tilsynet, herunder de tilsynsforanstaltninger, der kan iværksættes, jf. dette kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="ida53e003e-7524-4210-b72e-898bcbaa7246">
+      <Explicatus>§ 4</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om klage- og erstatningsadgang inden for sundhedsvæsenet, jf. lovbekendtgørelse nr. 1113 af 7. november 2011, som ændret senest ved § 3 i lov nr. 656 af 8. juni 2016, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id22ed4ea1-3f5d-4582-bf51-ae1eded67a67">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idd945645f-503e-45bf-84b0-c9081b0d95aa">
+          <AendringDefinition id="idc08245fb-e532-4ed8-868d-581e3aff360a">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1</Char>
+                <Char> indsættes efter stk. 4 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7eb4c504-06da-4472-9072-e3e730029661">
+            <AendringNyTekst>
+              <Stk id="id10fe5535-a34d-4575-b149-1d97d3613902">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Patienter, der tager imod et tilbud om dialog efter stk. 3 eller 4, tilbydes en bisidder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Styrelsen for Patientsikkerhed og regionsrådet skal oplyse patienten om muligheden for at lade sig ledsage af en uvildig bisidder i forbindelse med tilbud om dialog.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sundhedsministeren  indgår aftale med en eller flere private institutioner om administration og drift af bisidderordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id7dd27d3b-7503-40b5-81bf-39e763862b46">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 5 bliver herefter stk. 6.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="idc937afc0-f982-47da-9687-9ee06a54a0eb">
+      <Explicatus>§ 5</Explicatus>
+      <Stk id="id496d3344-8280-43ec-9135-ce61f2d251ba">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. februar 2017, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idb31123c5-bcd8-4ce8-ac73-f3b630fcd582">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 2 og 5-7, og § 2 træder i kraft den 1. april 2017.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="id8fe2873e-db11-4d9a-9845-ce55bc7f463d">
+      <Explicatus>§ 6</Explicatus>
+      <Stk id="id6538331e-c4c1-4be6-9292-82f35f00f0c1">
+        <Exitus>
+          <Linea>
+            <Char>Lovens §§ 1, 3 og 4 gælder ikke for Færøerne og Grønland.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id59701258-e994-4a43-94e5-46e5d5502455">
+    <UnderskriftStedDato id="ida6a411da-4e8f-4809-aa82-89a2ac49562c" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id810d018f-9e14-42bb-a933-2b1aeec8fa8c" />
+  </UnderskriftGruppe>
+</Dokument>

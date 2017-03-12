@@ -1,0 +1,1326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id587491ad-7cdc-41d8-b277-8891952a4b1b" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2016/09/26/LOVH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="ida02f6eac-83ab-4ae3-b23e-a88a1a2bda7b">
+    <DocumentType>LOV H#LOKDOK 01</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20170013630</AccessionNumber>
+    <DocumentId>CI000250</DocumentId>
+    <UniqueDocumentId>186325</UniqueDocumentId>
+    <DocumentTitle>Adresseloven</DocumentTitle>
+    <Year>2017</Year>
+    <DiesSigni>2017-02-01</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-02-02</EndDate>
+    <Status>Valid</Status>
+    <Number>136</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 136 af 01/02/2017</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Lars Christian Lilleholt</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Energi-, Forsynings- og Klimamin.,\nStyrelsen for Dataforsyning og Effektivisering, j.nr. KMS-660-00005</JournalNumber>
+    <Ministry>Energi-, Forsynings- og Klimaministeriet</Ministry>
+    <AdministrativeAuthority>Styrelsen for Dataforsyning og Effektivisering</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="idf7427ed6-092e-45f5-b683-5c95bdcda142">
+    <Titel id="idfc983ae4-5a8f-4912-9a6d-78d093211554">
+      <Linea>
+        <Char>Adresseloven</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idd0af9b18-973d-4cf0-ab85-84b98512b4b0">
+    <Hymne id="idb5298439-a4b1-4fbc-b573-b4e7f2ad116a">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <Bog id="id914559cd-ade1-4046-b256-292d8b21dd99">
+      <Afsnit id="id6b758484-c4cb-4b18-b7f3-1963dc16e812" localId="1">
+        <Kapitel id="idecc922f0-b081-49f1-9bb7-dfc4df9bd05a" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="id0b5c2783-c11b-45c0-84dd-787f76adc74e">
+            <Linea>
+              <Char>Formål</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idf2cc20a6-2697-4ab6-96c9-41edb7e1b6ec" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="id439ff78c-f33b-4a55-9085-537bef18c10f">
+                <Exitus>
+                  <Linea>
+                    <Char>Denne lov har til formål at sikre</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idb516cc1e-cd18-4cd3-b2f8-5122cdd56d19">
+                  <Index>
+                    <Indentatio id="idd7d14d07-43b3-401b-ac8e-7bcb45a61283" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>et landsdækkende system af vejnavne og adresser, som gør det muligt at orientere sig og finde vej,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idaf9c1cd9-48ed-48f2-b400-e0265461ad6b" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>at alle vejnavne og adresser registreres på en ensartet måde i Danmarks Adresseregister, således at dette er autoritativ kilde til oplysninger om vejnavne og adresser, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id6ef42d92-cfd3-48ad-be62-45bca276ce85" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>at oplysningerne fra Danmarks Adresseregister vederlagsfrit stilles til rådighed digitalt, således at alle har nem og lige adgang til de samme oplysninger.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id6a25fa44-213f-4edc-836c-2222be75bf12" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="idded8ae2f-7ab1-4bfe-a1d1-e793a07e1563">
+            <Linea>
+              <Char>Fastsættelse af vejnavne og adresser m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="id823f9874-7f19-4bf9-b245-bbceb90dcb9e">
+              <Linea>
+                <Char>Adressemyndighed</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id5bd02bf7-ed19-4073-b341-9a7c18e4e295" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="idf40b9b21-b69c-403f-b1f7-8a56c558d0c7">
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen er adressemyndighed og fastsætter alle vejnavne og adresser samt supplerende bynavne i kommunen i overensstemmelse med reglerne i denne lov og regler udstedt i medfør heraf.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id01a99b03-dec9-420e-92c9-26c632663650">
+              <Linea>
+                <Char>Vejnavne</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id3363314d-2ba1-4512-9fdf-d4902312d4d4" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="iddf0fed34-bcf5-4aa0-a065-e99f64882eca">
+                <Exitus>
+                  <Linea>
+                    <Char>Adressemyndigheden fastsætter vejnavne for</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id7e9882fd-d5cd-4e10-9db1-3d828f71e5b7">
+                  <Index>
+                    <Indentatio id="idb86dd607-c44d-4cd8-9db3-0460f8ef55db" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>alle offentlige veje, jf. § 3, nr. 2, i lov om offentlige veje m.v., og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id2874deb0-325c-4259-b0ba-6d8f240ff984" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>alle private fællesveje, jf. § 10, nr. 3, i lov om private fællesveje.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id089c36f2-35b5-4a94-9e15-0494a9b5f9d8">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Adressemyndigheden kan fastsætte vejnavne for private veje, jf. § 10, nr. 9, i lov om private fællesveje, og andre færdselsarealer og områder end de i stk. 1 nævnte.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4011d3c2-ed4f-4591-aa45-f05436b4846b">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et vejnavn, som allerede findes inden for et postnummer, må ikke fastsættes for en anden vej inden for samme postnummer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id27696dc8-a6b6-4e12-bd88-8138d10f35a7">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren fastsætter nærmere regler om fastsættelse af vejnavne, herunder om vejnavnes retskrivning, entydighed, geografisk udstrækning og vejkoder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan endvidere fastsætte regler om, at vejnavne skal fastsættes for private veje og andre færdselsarealer og områder omfattet af stk. 2, hvor mange mennesker færdes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida6e8206e-ec30-410c-81a4-e0a50a0cd682" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id0eee0635-3fc4-4c28-9850-c24abbbf0f40">
+                <Exitus>
+                  <Linea>
+                    <Char>For de offentlige veje, jf. § 3, stk. 1, nr. 1, der er statsveje, jf. § 12 i lov om offentlige veje m.v., fastsætter adressemyndigheden vejnavne og husnumre efter samtykke fra Vejdirektoratet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idad0f8cb6-904f-4f17-92e3-8bca57db8254">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For private veje og andre færdselsarealer og områder omfattet af § 3, stk. 2, eller regler udstedt i medfør af § 3, stk. 4, 2. pkt., fastsætter adressemyndigheden vejnavne og husnumre efter samråd med grundejeren.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I tilfælde af at der ikke opnås enighed, fastsætter adressemyndigheden vejnavne og husnumre.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id015d9c3a-ca89-45b7-9128-9869f8c60bbf">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Foreligger der for adressemyndigheden oplysninger om, at en ejendom, en bygning eller et teknisk anlæg m.v. anvendes af Forsvarsministeriet eller Justitsministeriet, fastsætter adressemyndigheden vejnavne og husnumre herfor efter samtykke fra det pågældende ministerium.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="iddf1f5cc5-d9da-4c9f-abbf-9f60c1f06e0b">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved uenighed mellem flere adressemyndigheder eller mellem en eller flere adressemyndigheder og Vejdirektoratet, Forsvarsministeriet eller Justitsministeriet om fastsættelse af vejnavne og husnumre kan enhver af parterne indbringe sagen for energi-, forsynings- og klimaministeren, som afgør sagen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id06cbb63c-ac03-470e-82e0-f3bafc00ec86">
+              <Linea>
+                <Char>Postnumre og supplerende bynavne</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id464e4996-81a4-4488-8230-4debfb22e048" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="id5a8d76c6-0e16-4cf1-b760-6490581d3ce9">
+                <Exitus>
+                  <Linea>
+                    <Char>Postnumre med tilhørende navne på postnummerområder, som vedligeholdes efter postlovens § 21, indgår i det landsdækkende system af vejnavne og adresser med henblik på at sikre geografisk entydighed af vejnavne og adresser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id94f6160e-5b37-4d98-82f8-ea0ec3bba615">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Adressemyndigheden kan bestemme, at navnet på den landsby, bydel, ø el.lign., hvor adressen er beliggende, skal indgå i adressen som et supplerende bynavn.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Adressemyndigheden fastsætter den geografiske afgrænsning af det område, som det supplerende bynavn skal gælde for.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id481310f9-ae97-4200-962b-3da8fcfeea80">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren fastsætter nærmere regler om fastsættelse af supplerende bynavne, herunder om deres retskrivning, entydighed og geografiske afgrænsning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idb4f1555c-8568-4ca6-9b80-99c1e9631400">
+              <Linea>
+                <Char>Adresser</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id9fb53ac4-2c34-4e59-a87c-1a1d4992eca0" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="idf51ffe00-b5b8-46d7-9b87-a2d6dc14da77">
+                <Exitus>
+                  <Linea>
+                    <Char>En adresse er en sammensat betegnelse, som udpeger og benævner en bestemt adgangsvej til et ubebygget areal, en bygning, en del af en bygning, et teknisk anlæg el.lign.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den sammensatte betegnelse, som en adresse udgør, består af vejnavn, husnummer, en eventuel etagebetegnelse og en eventuel dørbetegnelse, et eventuelt supplerende bynavn samt det postnummer med tilhørende navn på postnummer­området, som adressen er beliggende i.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id5bbf6406-e471-4351-9858-e2a8a9dbcfb5" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="id817078b0-12ec-4c93-bf7a-ee9bcc6deb2b">
+                <Exitus>
+                  <Linea>
+                    <Char>Adressemyndigheden fastsætter adresser for alle samlede faste ejendomme, der er bebygget eller planlagt til bebyggelse, eller som er udstykket med henblik på bebyggelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id38af01c6-9bf5-4231-bc38-8473b5352e97">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Adressemyndigheden fastsætter en særskilt adresse til hver bolig.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3e0e8390-b591-4139-bc11-46ff860f9bd0">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der fastsættes ikke adresser til bygninger eller anlæg m.v., som anvendes af Forsvarsministeriet eller Justitsministeriet, og som ifølge lov om bygnings- og boligregistrering eller regler fastsat i medfør deraf ikke skal registreres i Bygnings- og Boligregistret (BBR).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id360ccf2f-e4ae-4c89-8caf-526ebb98c649">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I forbindelse med fastsættelsen af en adresse beslutter adressemyndigheden, hvilket vejnavn og husnummer, hvilken eventuel etage- og  dørbetegnelse og hvilket eventuelt supplerende bynavn der skal indgå.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Adressen skal være entydig, således at den ikke forveksles med andre adresser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf4d786dc-bf4e-4368-9df2-10d5e5c0a696">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Adressens husnummer benævner den udefrakommende indgangsdør el.lign.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>til den bygning eller del af bygningen, som adressen udpeger.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hører adressen til et ubebygget areal, benævner husnummeret adgangen ind på dette.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf7c1d4ac-0db1-4835-ad40-c3d6ebf416c4">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren fastsætter nærmere regler om fastsættelse af adresser, herunder om husnumre, etage- og dørbetegnelser og geografiske beliggenhedsoplysninger, om, at adresser kan fastsættes til andre typer af ejendomme, bebyggelser, anlæg og ubebyggede arealer m.v. end de i stk. 1 og 2 nævnte, og om, at der i særlige tilfælde kan fastsættes mere end én adresse til en bolig.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id6a49bc9c-ff9d-4cf6-aee4-891f846d8800">
+              <Linea>
+                <Char>Ejeres oplysningspligt</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idf03f9ad4-de8a-466b-b858-ecc77d37e10f" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="idaa59ecb9-ba8c-4c34-99f9-697433479e24">
+                <Exitus>
+                  <Linea>
+                    <Char>Ejere af fast ejendom skal, når adressemyndigheden anmoder herom, meddele oplysninger til brug for fastsættelsen af vejnavne og adresser samt registreringen heraf.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ejere skal, i det omfang adressemyndigheden anmoder herom, dokumentere oplysningernes rigtighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id67394776-79ac-4643-af9e-fc1ec8d9282c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren fastsætter nærmere regler om oplysningspligten i stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id7ed3842a-3aae-4077-b575-51bd5968bd2f" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="idd5fff5b2-8dbd-4f98-980f-34c694fe985a">
+            <Linea>
+              <Char>Skiltning og besigtigelse</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="id6a246f3a-b6c0-4e82-bfe2-4538844e8fa0">
+              <Linea>
+                <Char>Skiltning</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id00558764-93cb-4be4-8b2a-c615d8eb3514" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="ide25cfe14-245f-4ba7-91be-45f33a540126">
+                <Exitus>
+                  <Linea>
+                    <Char>Grundejere er forpligtet til at opsætte husnummerskilte, som angiver de af adressemyndigheden fastsatte husnumre på en sådan måde, at disse er synlige fra den adgangsgivende vej og ikke forveksles med andre betegnelser, jf. dog stk. 2, 2. pkt., og stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc3974abf-b299-4565-ad5c-210f9b3e2b7f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er der fastsat mere end ét husnummer til en ejendom, placeres det i stk. 1 nævnte husnummerskilt ved hver af de indgangsdøre el.lign., som husnummeret, jf. § 7, stk. 5, benævner.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Er et eller flere af disse husnummerskilte ikke synlige fra den adgangsgivende vej, skal grundejeren desuden ved hver adgangsvej ind på ejendommen opsætte et henvisningsskilt, der angiver retningen til de pågældende husnumre.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd2ccf80c-3fea-4937-be7d-ceb45f15c214">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er et husnummer fastsat til en bygning, der tilhører en anden end grundejeren, påhviler de i stk. 1 og stk. 2, 1. pkt., nævnte pligter til at opsætte husnummerskilt bygningens ejer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ided581c58-c752-4735-b168-435063cf28f5">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Adressemyndigheden kan påbyde en grundejer at udføre den i stk. 1 og 2 nævnte skiltning på en nærmere bestemt måde, såfremt hensynet til en logisk og ensartet skiltning eller til at kunne orientere sig begrunder det.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilsvarende gælder i forhold til en bygningsejer i de i stk. 3 nævnte tilfælde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id86680f62-bd32-4fad-bca0-10df1abeb9f2">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er der fastsat vejnavne for private veje eller andre færdselsarealer og områder, jf. § 3, stk. 2, eller regler udstedt i medfør af § 3, stk. 4, kan adressemyndigheden påbyde, at grundejeren opsætter vejnavneskilte, som skal udformes og belyses på samme måde som den øvrige vejnavneskiltning i området.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id2d47f883-6411-44a9-a346-61f121a645ca" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id6a7ee4e0-348c-416a-a269-76256d3afcad">
+                <Exitus>
+                  <Linea>
+                    <Char>Adressemyndigheden kan fastsætte bestemmelser om udførelse, anbringelse og belysning af husnummerskilte og henvisningsskilte.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For statsveje kan adressemyndigheden dog kun fastsætte bestemmelser efter samtykke fra Vejdirektoratet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd0c8febc-abec-4ae2-a811-e07bdb8cdf66">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren kan fastsætte regler om, at adressemyndigheden kan kræve, at en ejer af en bygning skal opsætte skilte med angivelse af de fastsatte etage- og dørbetegnelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id7ece97bf-82bc-4e75-9c2e-799880f271ed">
+              <Linea>
+                <Char>Besigtigelse</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id5e08951c-2900-4c4b-8177-a1ec108d86ef" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="idc0e6f54b-133b-4180-b661-7e000374af8a">
+                <Exitus>
+                  <Linea>
+                    <Char>Adressemyndigheden har efter forudgående underretning og mod forevisning af behørig legitimation adgang til enhver ejendom med henblik på udvendig besigtigelse samt indvendig besigtigelse af offentligt tilgængelige lokaliteter med henblik på fastsættelse af adresser eller undersøgelse af, om skiltningen er udført i overensstemmelse med § 9 og regler fastsat i medfør af § 10.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd6a00d9f-87e2-42f5-a625-b4681e8f8333">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Adressemyndigheden kan kun med retskendelse få adgang til indvendig besigtigelse af lokaliteter, som ikke er offentligt tilgængelige, og kun med henblik på fastsættelse af adresser eller ved formodning om, at der er væsentlige mangler ved skiltningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idb85323e4-a1cb-4d2c-b03d-00cef781ade2" localId="4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="id36184ecb-750a-4679-96da-0b4965d1208f">
+            <Linea>
+              <Char>Danmarks Adresseregister</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="idaa3cf330-380d-446a-9b8f-7c42e1e230ba">
+              <Linea>
+                <Char>Myndighedsforhold</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="ide60b4fb6-e224-4150-9b85-714f4e86c960" localId="12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="id17cc4e55-1df5-4a06-88bb-44873d6acee3">
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren etablerer, driver, vedligeholder og videreudvikler Danmarks Adresseregister, som er et landsdækkende grunddataregister med oplysninger om vejnavne og adresser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id81384618-58c4-4a8a-8455-6a78be73050b">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren er dataansvarlig myndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id655c327d-bfdd-4c62-802e-437abb333e5f">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hver kommune fører registeret efter regler, der fastsættes af energi-, forsynings- og klimaministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb94b7824-11e7-4e24-82a9-2c9249c6ce21">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren kan fastsætte regler om fordelingen mellem staten og kommunerne af udgifterne til etablering, drift, vedligeholdelse og videreudvikling af Danmarks Adresseregister efter forhandling med KL.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Andre parter kan dog bidrage efter aftale med ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id3fe8faf5-79d3-41c1-af56-c6efba73bab7">
+              <Linea>
+                <Char>Delegation og udbud</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idd8d757dc-6f8b-47d9-a54e-e11e3e73c897" localId="13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id1ab70fb4-99fe-4dbc-9eaf-28076b004a8b">
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren kan bemyndige en anden offentlig myndighed eller et privat selskab til helt eller delvis at etablere, drive, vedligeholde og videreudvikle Danmarks Adresseregister.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfaab07de-893b-43d9-a9bf-dd0556342b11">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Myndigheden eller selskabet, der bemyndiges efter stk. 1, er forpligtet til at udbyde opgaverne med etablering, drift, vedligeholdelse og videreudvikling af Danmarks Adresseregister.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Opgaverne med drift, vedligeholdelse og videreudvikling skal udbydes med jævne mellemrum.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Udbuddet skal følge udbudslovens regler for tildeling af offentlige kontrakter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id42f12d43-2053-4438-b6bb-185d181040ae">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser, der træffes i forbindelse med gennemførelse af udbud efter denne lov og efter regler fastsat i medfør heraf, kan påklages til Klagenævnet for Udbud efter reglerne i lov om Klagenævnet for Udbud og regler fastsat i medfør heraf.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7405e2b6-cd84-4de6-9857-e9b0e09a259f">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren fører tilsyn med myndigheden eller selskabet, der er bemyndiget efter stk. 1, for så vidt angår Danmarks Adresseregister.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id46d52f8e-a87d-42d1-a8e0-af421f067407">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Rigsrevisor kan kræve regnskabet for et selskab, der er bemyndiget efter stk. 1, forelagt til gennemgang.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id53de246c-3649-4883-973b-cee8119ccc4a">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren fastsætter nærmere regler for, hvordan myndigheden eller selskabet, der bemyndiges efter stk. 1, skal etablere, drive, vedligeholde og videreudvikle Danmarks Adresseregister og udbyde opgaverne efter stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kravspecifikationer m.v. udarbejdes af myndigheden eller selskabet efter ministerens nærmere anvisninger.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte nærmere regler om myndighedens eller selskabets oplysningspligt over for ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="iddcd5546f-b231-4c87-9a39-f0ecf7f72239">
+              <Linea>
+                <Char>Oplysninger i Danmarks Adresseregister</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id470a1958-7ddb-4737-9663-a2af09dfc115" localId="14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="ide753dc7b-3cc0-49f4-8a2a-2584b332ef7d">
+                <Exitus>
+                  <Linea>
+                    <Char>Adressemyndigheden registrerer i Danmarks Adresseregister oplysninger om vejnavne, adresser og supplerende bynavne, som er fastsat efter denne lov eller regler udstedt i medfør af loven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfdeb32ae-8253-486a-9c3e-1c9452d5f71c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For vejnavne optages følgende oplysninger i Danmarks Adresseregister:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id67e092c1-ecd5-4bf2-b8d2-a7dd8b32f7e2">
+                  <Index>
+                    <Indentatio id="id8ed3164b-a906-4973-867a-37f97f7f38c2" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Vejnavn og forkortet vejnavn til brug for systemer med begrænset plads.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf4fb73fc-b8e3-42d8-843e-2fbe437a2d1d" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Den omtrentlige geografiske beliggenhed og udstrækning af den navngivne vej.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id166b598f-ec0c-498a-9777-a208b1481f5b" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Postnumre og eventuelle supplerende bynavne for vejnavnet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id3291235d-9418-4ef0-8316-4f581f92b4b6" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Kommuner og tilhørende vejkoder, som vejnavnet ved­rører.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd83cd6ed-3d4f-4a9b-9dd5-3eb3cfc556e2" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Status for vejnavnet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ideb8a9a84-6508-416a-8ab6-e0066883d047" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Dato for vejnavnets ikrafttræden.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id700817c9-e450-4068-9bdc-f89514de7b08">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For adresser optages følgende oplysninger i Danmarks Adresseregister:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id092a8044-ea20-4a9c-94f3-9e026d37de13">
+                  <Index>
+                    <Indentatio id="idaf13ea1d-e9e8-4617-8469-8a9de65229d1" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Vejnavn og husnummer samt eventuelt etage- og dørbetegnelse for adressen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc307e187-1e76-4989-9d83-f7ed6a002ebd" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Eventuelt supplerende bynavn for adressen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id3b0d655f-993a-4da1-a73d-a5250176c979" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Postnummer for adressen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id93cd4668-4276-46c9-8c62-a090af1ca1af" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Den geografiske beliggenhed af adressen og tilknytning til vejnettet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id52f5197c-0e74-4781-a58b-b6488bd83238" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Sogn og afstemningsområder, som adressen hører til.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id5d276a22-2b05-433c-8530-b787c972045b" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Det jordstykke, som adressen ligger på.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb8771ea1-e669-4c0e-b47d-c14aec9dbf36" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Eventuel bygning eller tekniske anlæg, som adressen hører til.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb5c0a252-02fb-4c6b-aff4-4b35776c6259" formaInd="Nummer">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Kommunen, som adressen er beliggende i.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd35c3504-73f3-4422-82a0-10d6d29650d0" formaInd="Nummer">
+                      <Explicatus>9)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Status for adressen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id3789fc17-d637-44b2-9a36-800466affb23" formaInd="Nummer">
+                      <Explicatus>10)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Dato for adressens ikrafttræden.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id4150e52e-89d8-4972-ac39-159c4e4ecf18">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For postnumre og supplerende bynavne optages følgende oplysninger i Danmarks Adresseregister:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idd36ebd23-3db5-44bd-90d7-66e45ec201c4">
+                  <Index>
+                    <Indentatio id="id78122bd2-b1ae-4792-b566-05e6c1cbb9cf" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Postnumre med tilhørende navne på postnummerområder, som kan indgå i adresser, og dato for postnummerets og navnets ikrafttræden.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id6c1b909a-65b4-4669-bf71-fca5c9ff250a" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Supplerende bynavne og dato for navnets ikrafttræden.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id42085bef-fabd-408d-a450-f10f9003c58d">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren sikrer, at oplysninger om den geografiske afgrænsning af supplerende bynavne og postnumre er til rådighed for Danmarks Adresseregister.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6cc96128-da61-4dc9-b08f-f69a31639dcc">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren fastsætter nærmere regler om oplysninger i Danmarks Adresseregister, herunder om, at der kan indgå yderligere oplysninger end de i stk. 2-4 nævnte.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idcedbc78e-4555-4b9f-814c-1d7d190ad34a">
+              <Linea>
+                <Char>Tilknytning af data fra andre grunddataregistre</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id4f554321-bcfb-4a86-a9c4-64ba24d01e19" localId="15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="id4af7f6a1-b3b9-4ddc-9bc3-a4a93babd054">
+                <Exitus>
+                  <Linea>
+                    <Char>Knyttes der til en registrering i Danmarks Adresseregister oplysninger om administrative geografiske inddelinger, jordstykker, bygninger eller tekniske anlæg, jf. § 14, stk. 2-4, eller regler udstedt i medfør af § 14, stk. 6, skal dette ske på grundlag af den autoritative oplysning fra følgende grunddataregistre:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id3c26b37b-5564-4d43-b6bc-13cf1c9ba772">
+                  <Index>
+                    <Indentatio id="id4edd8b3a-da58-4df6-a91a-917b885687bb" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Matriklen, for så vidt angår jordstykker.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1ce46013-57d7-495d-827e-89553a38b25b" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Bygnings- og Boligregistret (BBR), for så vidt angår bygninger og tekniske anlæg.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id0f0a1b2f-3382-48e8-930a-ea5d13ccab40" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Danmarks Administrative Geografiske Inddeling (DAGI), for så vidt angår administrative geografiske inddelinger m.v.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idefc98004-ccf5-4a29-b97f-616364cc0147">
+              <Linea>
+                <Char>Anvendelse af grunddata</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id6b29989e-3ca1-4a81-b9bf-28fc2812e654" localId="16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="id5d581376-fa97-4a00-852c-a047e2ee5059">
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren sikrer, at Danmarks Adresseregisters oplysninger om vejnavne og adresser, jf. § 14, stk. 2 og 3, og oplysninger om supplerende bynavne og postnumre, jf. § 14, stk. 4, vederlagsfrit stilles til rådighed digitalt og gøres tilgængelige som fælles grunddata for alle.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id786c21be-6cb4-4431-a992-b58d5f66a992">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De offentlige grunddataregistre om personer, virksomheder, ejendomme og bygninger skal ved registreringer, hvori der indgår et vejnavn eller en adresse, anvende Danmarks Adresseregister som autoritativ kilde til oplysninger om, hvilke vejnavne og adresser der findes i Danmark.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id61056201-7a9e-4b6b-9a0c-a6d670bb6b16">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Offentlige myndigheder og institutioner skal ved etablering af nye it-systemer tilrettelægge systemet således, at registreringer, hvori der indgår et vejnavn eller en adresse, anvender Danmarks Adresseregister som autoritativ kilde til oplysninger om, hvilke vejnavne og adresser der findes i Danmark.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ideba6a67e-8e96-4c1d-bf31-0be7a914d949">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finder en offentlig myndighed fejl eller mangler i de fastsatte og registrerede vejnavne eller adresser i Danmarks Adresseregister, skal oplysning herom meddeles til adressemyndigheden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idff0689af-3509-4057-9cdd-454ebcd60b68">
+              <Linea>
+                <Char>Tilsyn</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id5cd82fe3-8567-426b-a82c-31d8bfa39cbc" localId="17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="id0abae584-f6bd-46c3-a626-9dc260e21d87">
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren fører tilsyn med kommunernes førelse af Danmarks Adresseregister efter regler fastsat i medfør af § 12, stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida9f4b9fc-b141-4e04-9286-7338ee77ccde">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunerne skal efter anmodning fra energi-, forsynings- og klimaministeren udlevere oplysninger, data og dokumenter, som er nødvendige for udøvelse af tilsynet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id4c18b28d-ca02-4d82-874e-25e5514297a7" localId="5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica id="id3c64d0fe-1588-46c9-957e-1b0bcb6e548e">
+            <Linea>
+              <Char>Klageadgang, delegation og straf</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="id627c66ad-d3e8-440b-829d-a6abcf994d65">
+              <Linea>
+                <Char>Klageadgang</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idbc0aef92-c5e1-4898-8390-1b4120f5be32" localId="18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="idb70f85a8-af5f-4004-8214-0ced2fcc7522">
+                <Exitus>
+                  <Linea>
+                    <Char>Adressemyndighedens afgørelser efter denne lov eller regler udstedt i medfør heraf kan påklages til energi-, forsynings- og klimaministeren, for så vidt angår retlige spørgsmål.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id376e1cc3-0dd8-4ff8-87b8-88340e7ddb7f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klageberettiget er</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id27a8b030-3214-4e1b-80a3-a3f1007d6236">
+                  <Index>
+                    <Indentatio id="idc68774d1-d5f7-4ad7-8cb3-2384c212db53" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>den, afgørelsen er rettet til, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id3354dc78-67b3-404a-b5e9-07b9b336958a" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>enhver, der må antages at have en individuel, væsentlig interesse i sagens udfald.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id58e2c3a7-46b7-4074-b2d1-7cdef5f69056">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klagefristen er 4 uger fra den dag, afgørelsen er meddelt den pågældende.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For beslutning, hvorom der er udfærdiget offentlig kundgørelse, regnes klagefristen fra offentliggørelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Når der er særlig grund dertil, kan energi-, forsynings- og klimaministeren se bort fra overskridelse af klagefristen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfacbbaca-9092-4033-9efc-c005df691c4d">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klage over en afgørelse har ikke opsættende virkning, medmindre energi-, forsynings- og klimaministeren bestemmer andet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida385c129-aa62-498e-8384-ce287d41d866">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser, der kan påklages efter stk. 1, kan ikke indbringes for domstolene, før klageadgangen er udnyttet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Søgsmål skal være anlagt, senest 6 måneder efter at energi-, forsynings- og klimaministerens afgørelse er meddelt den pågældende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="ide1ed3396-4554-4ddf-a49d-388f2018135d">
+              <Linea>
+                <Char>Delegation</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id254a6d72-ea73-4a50-b45d-7b22d95395bc" localId="19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="idc70b04d3-8af6-4a43-a3bd-15842c7d0f15">
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren kan bemyndige en statslig myndighed under Energi-, Forsynings- og Klimaministeriet til at udøve de beføjelser, der i denne lov er tillagt ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idcf5c7355-af6e-4710-aa4f-5675b706d89e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren kan fastsætte regler om adgangen til at påklage afgørelser, der er truffet i henhold til bemyndigelse efter stk. 1, herunder om, at afgørelser ikke skal kunne påklages.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idef8288b7-5bdd-4ea1-b988-005cffdb751e">
+              <Linea>
+                <Char>Straf</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="ida2bcf014-ccac-4327-863d-6f20a562f4de" localId="20">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="id69d015ae-6bb1-4f95-86e8-b139539d7572">
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre højere straf er forskyldt efter den øvrige lovgivning, straffes med bøde den, der forsætligt eller ved grov uagtsomhed</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idb0b82a05-8e69-402a-8ec9-62c45a600617">
+                  <Index>
+                    <Indentatio id="id56f3d41d-dd50-4efc-bebe-75adfb39637f" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader rettidigt at meddele oplysninger eller dokumentation, der afkræves efter § 8, stk. 1, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd5e23c28-947d-46b5-a3d6-2787f79b1e14" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at opsætte skiltning i overensstemmelse med § 9, stk. 1, 2, 4 og 5.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idefddc96f-0199-4f4b-86a1-c2cc9b807685">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I regler, der udstedes i medfør af loven, kan der fastsættes straf af bøde for overtrædelse af reglerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc6f9632e-e8e5-48bd-b818-9d3782900e63">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id5e672124-44be-4292-9415-a7ead560a3fa" localId="6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica id="idbd563a60-e4dd-4771-b598-ac96054dc63b">
+            <Linea>
+              <Char>Ikrafttræden og korrektion af registreringer i CPR m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="idf5ab28a8-8042-4289-a3af-de658144233f">
+              <Linea>
+                <Char>Ikrafttræden</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id1fe32141-99ae-4ff4-b9e9-600ab4596c75" localId="21">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="id022433ce-4452-421c-9b85-ed7d42f60924">
+                <Exitus>
+                  <Linea>
+                    <Char>Energi-, forsynings- og klimaministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan herunder fastsætte, at forskellige dele af loven træder i kraft på forskellige tidspunkter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id707f16a3-028a-4295-9897-9876bc119d53">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>§§ 12, 13, 22 og 24 træder i kraft den 1. juli 2017.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idab0e0f41-ae02-446b-b789-b69d72ed5228">
+              <Linea>
+                <Char>Korrektion af registreringer i CPR m.v.</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id660e312e-9fba-462c-906a-32faff7d957e" localId="22">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="idd75026b4-15e8-4089-a0cd-b4938076e7dd">
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen skal snarest sikre, at aktuelle bopælsregistreringer i Det Centrale Personregister (CPR) stemmer overens med adresseoplysninger, som energi-, forsynings- og klimaministeren stiller til rådighed til brug for opgaven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id98a0a015-f039-4092-80bf-4764f52c142c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Oplysninger om lokalitet, som i medfør af hidtil gældende regler er registreret i CPR, skal slettes fra CPR.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idb094357c-4a3c-4b8a-bc05-f3405a5de503" localId="7">
+          <Explicatus>Kapitel 7</Explicatus>
+          <Rubrica id="id0ff964f9-1797-403f-8757-e04e58ba98a0">
+            <Linea>
+              <Char>Ændringer i anden lovgivning</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <AendringCentreretParagraf id="id399ed508-e162-41a7-8cc3-b46465fe3cac">
+              <Explicatus>§ 23.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>I lov om bygnings- og boligregistrering, jf. lovbekendtgørelse nr. 1080 af 5. september 2013, som ændret ved § 157 i lov nr. 1520 af 27. december 2014, foretages følgende ændringer:</Char>
+                </Linea>
+              </Exitus>
+              <AendringsNummer id="idbd382ad4-88d3-4713-a400-51ba0118b46f">
+                <Explicatus>1.</Explicatus>
+                <Aendring id="idabff5043-bf9e-49ae-a41c-dd89864c6d8f">
+                  <AendringDefinition id="id1945397c-575a-496d-8258-fa34b658ec0f">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§§ 3 a-3 g</Char>
+                        <Char> ophæves.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idacc59a8b-3256-4a97-9899-e146e79e1bcf">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id06acd2c5-e648-41ce-99fc-3ad132162a3d">
+                <Explicatus>2.</Explicatus>
+                <Aendring id="idedd791cd-e4f6-473d-8f78-a7a68eda014c">
+                  <AendringDefinition id="id8b76e86a-78c7-48b2-8f43-168639198030">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 8, stk. 1, nr. 3,</Char>
+                        <Char> ændres »Bygnings- og Boligregistret,« til: »Bygnings- og Boligregistret eller«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id1a3621e1-aaee-4148-8c44-3651d27c2334">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="idecb0e695-eed2-41f7-a9e6-14d7142a51b5">
+                <Explicatus>3.</Explicatus>
+                <Aendring id="id594d83da-d9bd-4f34-ad5d-74f759bc254f">
+                  <AendringDefinition id="id16fe19a8-e58a-4c27-bf9e-b059df2de493">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 8, stk. 1, nr. 4,</Char>
+                        <Char> ændres »oplysninger eller« til: »oplysninger.«</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id18c3beef-2701-45b4-94b4-43ab911bd191">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id958015e7-62cb-4d0b-aa1f-abd6bc00f69a">
+                <Explicatus>4.</Explicatus>
+                <Aendring id="ida3a0f97f-fefe-49a7-b032-9f077246d32b">
+                  <AendringDefinition id="idad967edb-fff0-49e1-9c87-2d4e5ebded09">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 8, stk. 1, nr. 5,</Char>
+                        <Char> ophæves.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id40107646-9460-44f9-9abb-f31222cd8050">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id6f99062f-6b41-4df8-8db4-8700a5464bba">
+                <Explicatus>5.</Explicatus>
+                <Aendring id="id96f45e62-6a22-4665-bd6b-56df00de5b94">
+                  <AendringDefinition id="id69c0bb57-44d9-46ab-831d-d52176b71262">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 9, stk. 1,</Char>
+                        <Char> udgår »§ 3 c, stk. 1, og«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id92293497-7b99-4cfb-91df-dd3757e417c7">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="idae63f154-9e0d-4d66-aa4b-7956676e785c">
+                <Explicatus>6.</Explicatus>
+                <Aendring id="id889f97dd-25d0-4d0f-b380-2290cbd2eeaa">
+                  <AendringDefinition id="ide4e46b88-f5ad-485b-ae9d-1079e9c0e80c">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 9 a</Char>
+                        <Char> ophæves.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id1d72fc7d-4318-4b6f-9bb1-d18b5c596581">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+            </AendringCentreretParagraf>
+            <AendringCentreretParagraf id="id0d82b29c-1def-4ddb-b256-e192547ef1b4">
+              <Explicatus>§ 24.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>I lov om Det Centrale Personregister, jf. lovbekendtgørelse nr. 5 af 9. januar 2013, som ændret senest ved lov nr. 1564 af 13. december 2016, foretages følgende ændring:</Char>
+                </Linea>
+              </Exitus>
+              <AendringsNummer id="id6c381478-0d3b-44c6-a8f4-fe2a9e305ccc">
+                <Explicatus>1.</Explicatus>
+                <Aendring id="id538d6f0d-d270-4fd1-97c7-50af5b889be0">
+                  <AendringDefinition id="idf14f3a6e-6824-43cb-b948-cfcfc1083d10">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">bilag 1, nr. 3, litra a,</Char>
+                        <Char> udgår »lokalitet,«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="ida65c9f05-c42d-48c4-9001-f85a82c81a51">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+            </AendringCentreretParagraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id5495b31b-7034-4fbd-8fc3-cda8a594fec0" localId="8">
+          <Explicatus>Kapitel 8</Explicatus>
+          <Rubrica id="id181476f0-594a-4ee3-869f-7b7a81b91500">
+            <Linea>
+              <Char>Territorialt gyldighedsområde</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id4c2fd378-842a-4be1-a1bf-387e596b5035" localId="25">
+              <Explicatus>§ 25.</Explicatus>
+              <Stk id="id58f2793a-206f-4539-850b-ba400fb00a43">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland, men § 24 kan ved kongelig anordning sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id17907acf-545a-49be-ae33-862014558a7c">
+    <UnderskriftStedDato id="id3197093f-175a-49c2-a4e1-8839c5ec2f09" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id875834a0-f744-451e-afc1-c48e71cb45db" />
+  </UnderskriftGruppe>
+</Dokument>

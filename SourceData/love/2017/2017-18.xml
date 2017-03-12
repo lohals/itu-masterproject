@@ -1,0 +1,886 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id4b4ca9b9-17d7-4967-b87d-76b49096735f" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2016/09/26/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id981434f7-f158-4b4c-b371-106a3f6c1de4">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20170001829</AccessionNumber>
+    <DocumentId>CK001123</DocumentId>
+    <UniqueDocumentId>186160</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om Landdistriktsfonden</DocumentTitle>
+    <Year>2017</Year>
+    <DiesSigni>2017-01-04</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-02-28</EndDate>
+    <Status>Valid</Status>
+    <Number>18</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 18 af 04/01/2017</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <EuReferences>32013R1305</EuReferences>
+    <EuReferences>32013R1306</EuReferences>
+    <EuReferences>32013R1303</EuReferences>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Jette Petersen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Dorthe Nielsen</Signature>
+    <PlaceOfSignature>NaturErhvervstyrelsen</PlaceOfSignature>
+    <JournalNumber>Miljø- og Fødevaremin.,\nNaturErhvervstyrelsen, j.nr. 16-0122-000021</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="idb2eb9cde-bb6b-4b2c-b218-81455b4fb301">
+    <Titel id="id8d3261b1-fc42-4cf0-b102-dd3c039fe71f">
+      <Linea>
+        <Char>Bekendtgørelse af lov om Landdistriktsfonden</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id6c3640ab-a96a-4334-8df0-2c2fa75ac33a">
+    <Indledning id="id322d6f01-d703-4ea0-bd18-646e718d67de">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov nr. 1360 af 16. december 2014 om Landdistriktsfonden, med de ændringer, der følger af § 74 i lov nr. 1715 af 27. december 2016.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Den bekendtgjorte lovtekst vedrørende §§ 11 a og 13 a træder i kraft den 1. februar 2017, jf. § 24, stk. 1, i lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="idc65daec2-c483-4cc6-b0af-46794453df85">
+      <Afsnit id="id306e557a-d6a0-4fa3-bb23-704a327cf4a0" localId="1">
+        <Kapitel id="id4b1b8248-2fdb-4403-92a6-8008c025b8e1" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="idd0fb51ca-71db-4b08-a90c-4fff7928154c">
+            <Linea>
+              <Char>Støtteordninger</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idbb82c924-5a24-4bf8-9a0c-7cce0f09eed7" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="ida1df5596-7a85-4546-a62b-65484dcc2390">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og Fødevareministeren</Char>
+                  </Linea>
+                  <Nota id="id65f9a8d1-9128-44a6-99b4-c80dbf1658e0">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Ved kongelig resolution af 28. juni 2015 blev Miljøministeriet og Ministeriet for Fødevarer, Landbrug og Fiskeri sammenlagt til et Miljø- og Fødevareministerium, jf. bekendtgørelse nr. 1229 af 3. november 2015 om ændring i forretningernes fordeling mellem ministrene.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>og erhvervsministeren</Char>
+                  </Linea>
+                  <Nota id="id5570cb2c-7f34-4fb4-8edb-4cdc6634c113">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Ved kongelig resolution af 28. juni 2015 blev Ministeriet for By, Bolig og Landdistrikter nedlagt, jf. bekendtgørelse nr. 1229 af 3. november 2015 om ændring i forretningernes fordeling mellem ministrene, og ministerens opgaver og beføjelser efter denne lov blev overført til Erhvervs- og Vækstministeriet.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>Ved kongelig resolution af 28. november 2016 er betegnelsen Erhvervs- og Vækstministeriet ændret til Erhvervsministeriet, jf. bekendtgørelse nr. 1777 af 23. december 2016.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>kan hver for sig inden for deres respektive områder yde støtte til foranstaltninger, der er omfattet af afsnit III i Europa-Parlamentets og Rådets forordning (EU) nr. 1305/2013 af 17. december 2013 om støtte til udvikling af landdistrikterne fra Den Europæiske Landbrugsfond for Udvikling af Landdistrikterne (ELFUL) og om ophævelse af Rådets forordning (EF) nr. 1698/2005, og foranstaltninger omfattet af anden del af Europa-Parlamentets og Rådets forordning (EU) nr. 1303/2013 af 17. december 2013 om fælles bestemmelser for Den Europæiske Fond for Regionaludvikling, Den Europæiske Socialfond, Samhørighedsfonden, Den Europæiske Landbrugsfond for Udvikling af Landdistrikterne og Den Europæiske Hav- og Fiskerifond og om generelle bestemmelser for Den Europæiske Fond for Regionaludvikling, Den Europæiske Socialfond, Samhørighedsfonden og Den Europæiske Hav- og Fiskerifond og om ophævelse af Rådets forordning (EF) nr. 1083/2006 vedrørende:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id19b567b2-a47b-4c05-8f93-b92fa3f72fa3">
+                  <Index>
+                    <Indentatio id="id7a13efd7-d701-421d-97b9-08eee4e0b58b" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Videnoverførsel og informationsaktioner.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id676a3470-2f72-409b-aae4-a4278c2eb52a" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Rådgivningstjenester og bedriftsforvaltnings- og vika‍rordninger inden for landbrug.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id3696c042-473a-4a62-9c69-07668b86fdf4" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Kvalitetsordninger for landbrugsprodukter og fødevarer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf3ad65fc-c42e-4497-8f1f-cdb0344932c0" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Investeringer i fysiske aktiver.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id2035e229-6bd6-4493-baba-a2627248a8aa" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Genopretning af landbrugets produktionspotentiale efter skader som følge af naturkatastrofer og katastrofale hændelser og indførelse af passende forebyggende foranstaltninger.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idca67fe0c-684f-4992-881f-da8017c5a867" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Bedrifts- og erhvervsudvikling.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id33f20cc7-5788-483a-8db8-4d6f34eeabb8" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Basale tjenesteydelser og landsbyfornyelse i landdistrikterne.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7d7e7e32-7df7-4e6b-b8a9-4084ec251762" formaInd="Nummer">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Oprettelse af producentsammenslutninger og -organisationer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide1e479ab-5e1a-4dfb-ac9b-c42a1a1686e1" formaInd="Nummer">
+                      <Explicatus>9)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Miljø- og klimavenligt landbrug.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7611cbf5-19e1-4dc6-a88f-ec78462bdbfa" formaInd="Nummer">
+                      <Explicatus>10)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Økologisk landbrug.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd3ee4a03-b8fa-46ca-8a23-d0f9fbc73f4f" formaInd="Nummer">
+                      <Explicatus>11)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Natura 2000 og betalinger i henhold til vandrammedirektivet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1ce86f5b-27e7-413e-8de1-6fa3becff930" formaInd="Nummer">
+                      <Explicatus>12)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Betalinger til områder med naturbetingede eller andre specifikke begrænsninger.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc83396b1-25e7-4107-acd9-5a9a5d5330a2" formaInd="Nummer">
+                      <Explicatus>13)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Dyrevelfærd.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idaa6cb66e-7a39-4079-ab48-78499f7d39c2" formaInd="Nummer">
+                      <Explicatus>14)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Samarbejde.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idcd4395af-89fe-4275-8c80-1d2131fd5dae" formaInd="Nummer">
+                      <Explicatus>15)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Risikostyring.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id62deb679-450d-4440-8bca-bb375fad9687" formaInd="Nummer">
+                      <Explicatus>16)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Finansielle instrumenter.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idcf215a19-a8fc-4306-ba65-82967cdd3252">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervsministeren yder inden for rammerne af Europa-Parlamentets og Rådets forordning (EU) nr. 1305/2013 af 17. december 2013 støtte til foranstaltninger, der er omfattet af artikel 43 i den nævnte forordning eller artikel 35 i Europa-Parlamentets og Rådets forordning (EU) nr. 1303/2013 af 17. december 2013.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb62ca30d-9e9a-4e08-a58e-e0fd67bf31ff" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="idb3b5c191-7977-4996-b06a-ba95384beed3">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren og erhvervsministeren kan hver for sig inden for deres respektive områder fastsætte regler om støtte, som de pågældende ministre kan yde i medfør af § 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der kan fastsættes regler om ansøgning om støtte, betingelser for støtte, støtteniveau, beregning af støtte og udbetaling af støtte.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De pågældende ministre kan også for sådan støtte fastsætte regler om administration af støtteordninger, herunder om prioritering, udvælgelse af ansøgninger og afslag på ansøgninger, og om regnskab og revision for støtte bevilget efter denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd1fb3db1-cf29-4467-b9f8-d158e6c901fe">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren og erhvervsministeren kan hver for sig inden for deres respektive områder fastsætte regler om suspension og reduktion af ansøgt støtte og om bortfald og tilbagebetaling af støtte ved manglende overholdelse af denne lovs bestemmelser, de i medfør af denne lov fastsatte bestemmelser eller ved manglende overholdelse af bestemmelser i regler fastsat af Unionen (EU) om forhold, der er omfattet af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9dd4eedd-ceb2-4f5c-9975-ad717db428b3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervsministeren kan fastsætte regler om etablering og drift af lokale aktionsgrupper, der kan medvirke til administration af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id7b3656c1-49cf-4eec-bc16-dc437954045d" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="idfb0334db-773b-4de4-92ff-5c3f55faf227">
+            <Linea>
+              <Char>Administrative bestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id6eee6d7b-828f-4f13-9c64-41ccce2a0030" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id6f3bfce7-cb09-4bd9-833b-3f01daf54b29">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren og erhvervsministeren kan hver for sig inden for deres respektive områder indgå de aftaler, der er nødvendige i forbindelse med administration af støtteordninger omfattet af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8d5569f5-1d31-4c39-b8d5-1142e7cf80ec" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id552f93bd-16fe-4441-8040-534189087249">
+                <Exitus>
+                  <Linea>
+                    <Char>Kommuner, regioner, andre offentlige myndigheder, offentligretlige organer og offentlige fonde kan deltage i finansieringen af de foranstaltninger, der er omfattet af § 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb81ca709-ced5-4a05-9a66-ca76e8f449b5">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren og erhvervsministeren kan hver for sig inden for deres respektive områder fastsætte nærmere regler om finansieringen nævnt i stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id2a8e7973-4ff0-4678-8a13-67baaaa7fc76">
+              <Linea>
+                <Char>Rentekrav og forældelse</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idca34e407-3c35-4d62-9dda-6ec0d479c61d" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="id23ddbf1c-fc5d-41c3-a5a5-f431a5d68154">
+                <Exitus>
+                  <Linea>
+                    <Char>Støtte, der skal tilbagebetales i medfør af regler, der er fastsat i medfør af § 2, stk. 2, skal tilbagebetales med tillæg af renter.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Rentetillægget beregnes, medmindre andet er fastsat ved forordning, fra fristen for betaling fastsat i afgørelsen til støttemodtageren om tilbagebetalingskravet, til tilbagebetaling sker, og med den i renteloven fastsatte referencesats med tillæg.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Rentekrav, der udgør under 50 kr., tillægges dog ikke.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4571bea5-17d5-42dd-be5a-27da7d2d511b">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilbagebetalingskrav i forbindelse med støtte, der er finansieret af såvel nationale midler som EU-midler, forældes i deres helhed efter de regler, der er fastsat i EU-regler om forhold, der er omfattet af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idc551c7e8-39f1-4c25-a3e1-5a6aa8f7dea7">
+              <Linea>
+                <Char>Obligatorisk digital kommunikation</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idfa1a723f-9f84-473e-81c5-f179529f9a66" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id30073b0d-d7de-462a-8d75-f032a8f1faa4">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren og erhvervsministeren kan hver for sig inden for deres respektive områder fastsætte regler om, at skriftlig kommunikation til og fra henholdsvis Miljø- og Fødevareministeriet og Erhvervsministeriet om forhold, som er omfattet af denne lov eller regler udstedt i medfør heraf, skal foregå digitalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id535c61a2-7ea7-4552-81e3-41fb4cbb86a0">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De pågældende ministre kan fastsætte nærmere regler om digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd16c35e5-bca7-4695-9643-9daa8bb41740">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc36bca33-7856-4d77-b796-866c77dfd536">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvor det efter denne lov eller regler udstedt i medfør heraf er et krav, at et dokument, som er udstedt af andre end henholdsvis miljø- og fødevareministeren og erhvervsministeren , skal være underskrevet, kan dette krav opfyldes ved anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt dokumentet, jf. dog stk. 5.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sådanne dokumenter sidestilles med dokumenter med personlig underskrift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb396b2b2-213a-4724-9f25-24b7aefb8eca">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De pågældende ministre kan fastsætte nærmere regler om opfyldelse af underskriftskrav, jf. stk. 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id38f062cd-f475-4690-bb8d-307743160eec">
+              <Linea>
+                <Char>Udvalg og rådgivning</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id3b025e73-9dd7-4bf6-8b27-83b66d9fa2c2" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="id2b1bad3a-83e1-44bc-a7be-63bf427e83b4">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren nedsætter et overvågningsudvalg med repræsentanter for de berørte myndigheder, interesseorganisationer, foreninger og partnerskaber til at varetage tilsyns- og opfølgningsfunktioner ved administration af støtteordninger efter denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf8e81307-0f9f-4ad4-b753-a576c989bc6d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervsministeren nedsætter et indstillingsudvalg, der udvælger og afgiver indstilling om ansøgninger om godkendelse som støtteberettigede lokale aktionsgrupper og om indsendte lokale udviklingsstrategier.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6ae549bb-1451-47fb-9bf2-0dc8b7f0f802">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren og erhvervsministeren kan hver for sig inden for deres respektive områder nedsætte rådgivende udvalg for støtteordninger efter denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5baab042-67ac-4cd8-80b0-af65464846e9">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren og erhvervsministeren kan hver for sig inden for deres respektive områder indhente rådgivning hos andre udvalg, som er nedsat i medfør af anden lovgivning, og som har kompetence inden for det relevante område.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id03f88451-cc4d-459d-bfb9-017227a2b035">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren og erhvervsministeren kan hver for sig inden for deres respektive områder fastsætte regler om, at de regionale vækstfora, der er nedsat i medfør af lov om erhvervsfremme, kan afgive indstilling eller udtalelse vedrørende projekter, der er omfattet af de i § 1 omhandlede foranstaltninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idc4239a79-1da6-4634-9d6f-443c9081aa81">
+              <Linea>
+                <Char>Oplysningspligt</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id35f14a13-4943-4392-974b-d4b6cf7edd43" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="id58919104-139c-47b0-b369-6caa006eaad5">
+                <Exitus>
+                  <Linea>
+                    <Char>En modtager af støtte efter denne lov eller regler udstedt i medfør heraf skal i hele perioden, hvor betingelserne for støtte skal være opfyldt, på forlangende af miljø- og fødevareministeren inden for dennes område eller erhvervsministeren inden for dennes område afgive erklæring om, hvorvidt betingelserne for støtte er opfyldt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id23f08a85-32d5-477f-b533-b7f5a0f21677">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Støttemodtageren skal i hele perioden, hvor betingelserne for støtte skal være opfyldt, underrette den af de i stk. 1 nævnte ministre, inden for hvis område støtteordningen hører, hvis betingelserne for støtte ikke længere er opfyldt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idfd83f9b0-ab2b-4888-bfe7-0f9effe6151a">
+              <Linea>
+                <Char>Kontrol m.v.</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="ided92bc05-b885-4a97-a8f0-db4d6e0e2114" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="ida61adf80-88a6-459e-94a5-47a95e87d977">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren og erhvervsministeren har hver for sig inden for deres respektive områder til enhver tid mod behørig legitimation uden retskendelse adgang til offentlig og privat ejendom og lokaliteter, der ejes eller drives af en fysisk eller juridisk person, der er støttemodtager efter denne lov, for at tilvejebringe oplysninger, der er nødvendige til brug for løsning af opgaver i henhold til denne lov, regler fastsat i medfør heraf eller regler i Unionens (EU) forordninger om forhold omfattet heraf.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>På tilsvarende måde har den minister, under hvis område støtteordningen hører, adgang til regnskaber, forretningsbøger, papirer m.v., herunder også materiale, der opbevares i elektronisk form, for at tilvejebringe oplysninger til brug for løsning af opgaver i henhold til denne lov, regler fastsat i medfør heraf eller regler fastsat af Unionen (EU) om forhold omfattet af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc0b84794-5a5f-4915-90cb-b1482b79e756">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der er støttemodtager efter denne lov, skal efter anmodning fra den af de i stk. 1 nævnte ministre, under hvis område støtteordningen hører, give alle oplysninger, herunder om økonomiske og regnskabsmæssige forhold, som har betydning for kontrollens gennemførelse, og vederlagsfrit yde den pågældende minister den fornødne bistand ved kontrol, kopiering og udlevering af skriftligt materiale og udskrifter af oplysninger, som opbevares i elektronisk form.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id81c9e7dd-0b55-404b-b053-ead37394de26">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Politiet yder om nødvendigt bistand til gennemførelse af den kontrol, der er nævnt i stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De i stk. 1 nævnte ministre kan hver for sig inden for deres respektive områder efter aftale med justitsministeren fastsætte nærmere regler herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf3398710-707d-459e-a438-e216429fd54e">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De i stk. 1 nævnte ministre kan hver for sig inden for deres respektive områder fastsætte nærmere regler om kontrol af de foranstaltninger, hvortil der ydes støtte efter denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id01719d7a-1b5e-4f31-a436-16c6435ac83c" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="idc07fee9a-70df-4b77-bac8-a00283dff6bb">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren og erhvervsministeren kan hver for sig inden for deres respektive områder hos andre offentlige myndigheder indhente de oplysninger, der er nødvendige for at kontrollere overholdelsen af regler fastsat af EU vedrørende støtte efter Europa-Parlamentets og Rådets forordning (EU) nr. 1305/2013 af 17. december 2013, regler i denne lov og de regler, der er udstedt i medfør heraf, med henblik på registersamkøring og sammenstilling af oplysninger i kontrol­øjemed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id50d698bf-7f9d-4c55-afa5-d4cb8204a074">
+              <Linea>
+                <Char>Klage og delegation</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id3d283980-72d2-4b55-805a-5509e85cd0a4" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="id918431de-59b9-442c-8670-2b88c29082ff">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren og erhvervsministeren kan hver for sig inden for deres respektive områder fastsætte regler om adgang til at klage over afgørelser truffet i henhold til denne lov eller de i medfør heraf udstedte regler, herunder om, at afgørelserne ikke kan indbringes for anden administrativ myndighed, og om myndighedernes adgang til at genoptage en sag, efter at der er indgivet klage.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De pågældende ministre kan endvidere fastsætte regler om indgivelse af klage, herunder om formkrav til klagen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc12989bd-093c-4466-9623-f83e698aab6e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren og erhvervsministeren kan hver for sig inden for deres respektive områder efter forhandling med vedkommende minister eller vedkommende kommunale organisation henlægge opgaver efter denne lov til andre offentlige myndigheder eller institutioner.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De pågældende ministre kan i forbindelse hermed fastsætte regler om adgangen til at klage over disse myndigheders eller institutioners afgørelser truffet i henhold til denne lov eller de i medfør heraf udstedte regler, herunder om, at afgørelserne ikke kan indbringes for anden administrativ myndighed, og om myndighedens eller institutionens adgang til at genoptage en sag, efter at der er indgivet klage.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De pågældende ministre kan endvidere fastsætte regler om indgivelse af klage, herunder om formkrav til klagen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De pågældende ministre kan ændre afgørelserne, uden at der foreligger klage.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De pågældende ministre bevarer deres fulde instruktionsbeføjelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfeeed102-2740-49c9-9c68-c8c06317bd22">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren og erhvervsministeren kan hver for sig inden for deres respektive områder henlægge deres beføjelser vedrørende støtteordninger etableret i medfør af § 2 til en privat organisation.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De pågældende ministre kan i forbindelse hermed fastsætte regler om adgangen til at klage over den private organisations afgørelser truffet i henhold til denne lov eller de i medfør heraf udstedte regler, herunder om den private organisations adgang til at genoptage en sag, efter at der er indgivet klage.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Erhvervsministeren kan fastsætte regler om, at afgørelser truffet af de lokale aktionsgrupper kun kan påklages, for så vidt angår retlige spørgsmål.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De pågældende ministre kan ændre afgørelserne, uden at der foreligger klage.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministrene bevarer deres fulde instruktionsbeføjelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id773f267e-0f6a-4d64-9147-5dc594fd958a" localId="11a">
+              <Explicatus>§ 11 a.</Explicatus>
+              <Stk id="idf5a37c19-320b-4e4e-b1c7-0416a76aec65">
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser truffet i henhold til denne lov eller regler udstedt i medfør heraf kan, hvis ikke andet er fastsat i loven eller i henhold til regler udstedt i medfør heraf, påklages til Miljø- og Fødevareklagenævnet, som behandler sagen i en af nævnets afdelinger, jf. § 3, stk. 1, nr. 2, 4 og 7, i lov om Miljø- og Fødevareklagenævnet, og kan dermed ikke indbringes for anden administrativ myndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide43f2beb-dd75-4891-ac3b-94475080e257">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klage til Miljø- og Fødevareklagenævnet indgives skriftligt til den myndighed, der har truffet afgørelsen, ved anvendelse af digital selvbetjening, jf. dog § 21, stk. 2-4, i lov om Miljø- og Fødevareklagenævnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Myndigheden skal, hvis den vil fastholde afgørelsen, snarest og som udgangspunkt ikke senere end 3 uger efter modtagelsen af klagen videresende klagen til klageinstansen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Klagen skal ved videresendelsen være ledsaget af den påklagede afgørelse, de dokumenter, der er indgået i sagens bedømmelse, og en udtalelse fra myndigheden med dennes bemærkninger til sagen og de i klagen anførte klagepunkter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id8d01dfe7-4705-46d8-bbda-5dd5087a39d9" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="id7e0fa6d0-7a72-4ad3-b946-219fa5470107">
+            <Linea>
+              <Char>Straffebestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="ida95c481e-ce94-4fc3-8233-d61d7c2c9850" localId="12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="id63fd3b26-b93f-425a-bb78-8341963a396d">
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre strengere straf er forskyldt efter anden lovgivning, straffes med bøde den, der</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idda5fb250-502c-4c73-a46d-d582efe9334d">
+                  <Index>
+                    <Indentatio id="id51679306-2f2b-47eb-a843-8f6d45c3889a" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>afgiver urigtige eller vildledende oplysninger eller fortier oplysninger af betydning for afgørelser, der træffes i henhold til denne lov eller de i medfør heraf fastsatte regler,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc0b892f4-ad68-4808-9ac4-fd3c4e768c0e" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>handler i strid med vilkår, der er fastsat i en afgørelse, der træffes i henhold til denne lov eller de i medfør her­af fastsatte regler,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idce8aa215-b50d-4027-96c7-64a593f8030d" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at afgive den dokumentation og de oplysninger, som den pågældende har pligt til at afgive i henhold til denne lov eller regler fastsat i medfør heraf,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf5cedee7-4900-45c5-8c5f-69eae0a4453a" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>afgiver urigtige eller vildledende oplysninger eller fortier oplysninger, som den pågældende har pligt til at afgive i henhold til denne lov eller regler fastsat i medfør heraf,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd4c670fa-d371-4bfa-bd22-b47039bab188" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at give kontrolmyndigheden adgang til virksomheden m.v. efter § 9, stk. 1, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida13c8384-950e-45d6-b448-ee20a7c5a825" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at udlevere eller indsende materiale eller yde kontrolmyndigheden bistand efter § 9, stk. 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="ide690bfaa-6a12-42f4-bade-2f1c41f0b6d0">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idcdadc378-6c83-485c-bd3b-f4727882f9f6" localId="4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="id8b421250-020b-42c4-afd1-b25931c83c06">
+            <Linea>
+              <Char>Ikrafttræden m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id76f71c58-a78a-4f3a-b95a-156c0b2ffb31" localId="13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id768c6506-a649-4950-9cc7-3d95caa2238c">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. januar 2015.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4aa63e71-a195-4640-a229-e042efa85774">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Samtidig med lovens ikrafttræden ophæves lov nr. 316 af 31. marts 2007 (landdistriktsloven).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0b2abcc6-4c1f-4c59-ba4b-7e716cbad3c3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Indtil tidligere bevilget støtte omfattet af landdistriktsloven og af tekstanmærkning nr. 162 til finansloven for 2014 og 2015 vedrørende § 24.23.03 er fuldt udbetalt eller ophørt, kan miljø- og fødevareministeren og erhvervsministeren hver for sig inden for deres respektive områder fastsætte regler herom i henhold til landdistriktsloven og tekstanmærkningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1026b205-307a-41c2-85ea-07bbcc0f5e90">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i § 9, stk. 1-3, og bestemmelser fastsat i medfør af § 9, stk. 3 og 4, gælder også for ansøgere, der i 2014 har søgt om særlig støtte efter reglerne i Naturerhvervstyrelsens bekendtgørelse nr. 77 af 29. januar 2013 om særlig støtte til landbrugere til ekstensivt landbrug eller om særlig støtte til landbrugere til pleje af støtteberettigede græsarealer under enkeltbetalingsordningen efter reglerne i Naturerhvervstyrelsens bekendtgørelse nr. 76 af 29. januar 2013, og som i 2015 søger om tilsagn om tilskud til pleje af græs- og naturarealer med virkning fra den 1. september 2014 i henhold til regler fastsat i medfør af § 2, uanset om ansøgerne endnu ikke har fået tilsagn om støtte.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De nævnte bestemmelser finder også anvendelse for ansøgere, hvis bedrift er autoriseret af Naturerhvervstyrelsen til økologisk jordbrug, eller for hvilke der er ansøgt herom senest den 1. september 2014, og som i 2015 søger tilsagn om økologisk arealtilskud med virkning fra den 1. september 2014, uanset om ansøgerne endnu ikke har fået tilsagn om støtte.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id00d959a5-ef2b-499d-8d9a-56326d3c8174">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven finder ikke anvendelse på ansøgninger om støtte indgivet inden lovens ikrafttræden og støtte og tilsagn om støtte, der er meddelt på grundlag af ansøgninger, der er indgivet inden lovens ikrafttræden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For sådanne ansøgninger og tilsagn om støtte og sådan støtte finder de hidtil gældende regler anvendelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For tilsagn om støtte, der bevilges på grundlag af ansøgninger omfattet af stk. 4, vil denne lovs bestemmelser, bortset fra § 12, have virkning fra den 1. september 2014.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida869bbdf-cf15-4cb3-8be0-918c8dcde44a" localId="13a">
+              <Explicatus>§ 13 a.</Explicatus>
+              <Stk id="id82b28afd-d4dd-443a-bf73-2c70e9445869">
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser truffet i henhold til lov nr. 316 af 31. marts 2007 (landdistriktsloven) eller regler udstedt i medfør heraf kan, hvis ikke andet er fastsat i loven eller i henhold til regler udstedt i medfør heraf, påklages til Miljø- og Fødevareklagenævnet, som behandler sagen i en af nævnets afdelinger, jf. § 3, stk. 1, nr. 1, 2, 4 og 7, i lov om Miljø- og Fødevareklagenævnet, og kan dermed ikke indbringes for anden administrativ myndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc2c3b7d4-cc0d-47f2-9d99-3b94877cbf8a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klage til Miljø- og Fødevareklagenævnet indgives skriftligt til den myndighed, der har truffet afgørelsen, ved anvendelse af digital selvbetjening, jf. dog § 21, stk. 2-4, i lov om Miljø- og Fødevareklagenævnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Myndigheden skal, hvis den vil fastholde afgørelsen, snarest og som udgangspunkt ikke senere end 3 uger efter modtagelsen af klagen videresende klagen til klageinstansen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Klagen skal ved videresendelsen være ledsaget af den påklagede afgørelse, de dokumenter, der er indgået i sagens bedømmelse, og en udtalelse fra myndigheden med dennes bemærkninger til sagen og de i klagen anførte klagepunkter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id86937ab3-631e-47af-bca6-b0400d999ba1" localId="14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="id8548f75f-e839-4bba-83b8-ffc50ad5bf8f">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="id84cb7866-ba27-4617-a3de-7694589374bf">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet</Char>
+        </Linea>
+        <Nota id="idfa305fd5-976a-4da8-b136-a97672bf5727">
+          <Explicatus>3)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører indsættelse af §§ 11 a og 13 a.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>indeholder følgende ikrafttrædelses- og overgangsbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <Paragraf id="id14abf5a0-dbf3-42c7-a9b6-1eabfa0451df" localId="24">
+        <Explicatus>§ 24.</Explicatus>
+        <Stk id="id9dcd3534-462a-4655-b6c8-50979d105019">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. februar 2017.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id27343279-1b8c-475b-9c6b-d047f47bfa4f">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id8ceb679f-6e3d-499e-bd67-638bdc8c24b9">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Erhvervsministeren</Char>
+            </Linea>
+            <Nota id="ida283086a-bb6e-4bd1-a13b-2215653ea045">
+              <Explicatus>4)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Ved kongelig resolution af 28. november 2016 er betegnelsen Erhvervs- og Vækstministeriet ændret til Erhvervsministeriet, jf. bekendtgørelse nr. 1777 af 23. december 2016.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id768b4271-7728-4dc4-aaac-dbfde7592424">
+          <Explicatus>Stk. 4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id37d63e4f-6919-4c49-8625-ae1b6d2edfa7">
+          <Explicatus>Stk. 5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Regler, der er fastsat i henhold til hidtil gældende regler, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat med hjemmel i denne lov.</Char>
+            </Linea>
+            <Linea>
+              <Char>Overtrædelse af reglerne straffes efter de hidtil gældende regler.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id3ee065ec-ecf0-4ea3-a224-cbd42737eee5">
+          <Explicatus>Stk. 6.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov.</Char>
+            </Linea>
+            <Linea>
+              <Char>Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id6800c7d6-fcb5-4857-8024-92807b3d50bf">
+          <Explicatus>Stk. 7.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </Paragraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id7a951920-0f53-4e1b-a724-de9ed07206cd">
+    <UnderskriftStedDato id="idfe1c17f1-678d-4064-83fa-4a779d786c04" />
+    <Underskriver id="id60447116-0aee-4fcb-b2b8-4a1528d236ee" />
+  </UnderskriftGruppe>
+</Dokument>

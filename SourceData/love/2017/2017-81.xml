@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id9ef27471-f909-4d17-ab4f-04b183c124e8" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2016/09/26/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id48352d15-e95f-4c26-8da2-307ef58cb0ae">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20170008130</AccessionNumber>
+    <DocumentId>CT000042</DocumentId>
+    <UniqueDocumentId>186326</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om ægteskabs indgåelse og opløsning, udlændingeloven og værgemålsloven (Afskaffelse af muligheden for dispensation fra alderskrav ved indgåelse af ægteskab, anerkendelse af udenlandske ægteskaber og forhøjelse af gebyret for prøvelse af ægteskabsbetingelserne)</DocumentTitle>
+    <Year>2017</Year>
+    <DiesSigni>2017-01-24</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-01-26</EndDate>
+    <Status>Valid</Status>
+    <Number>81</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 81 af 24/01/2017</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Mai Mercado</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Børne- og Socialmin., j.nr. 2016-3635</JournalNumber>
+    <Ministry>Børne- og Socialministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="idba2df60b-323b-47c7-928f-5f9407c78173">
+    <Titel id="id95b0bc8e-26bb-41bd-a84b-c12231f35d70">
+      <Linea>
+        <Char>Lov om ændring af lov om ægteskabs indgåelse og opløsning, udlændingeloven og værgemålsloven</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id59d41f94-d8b4-4326-9aba-cd82a259723d">
+      <Linea>
+        <Char>(Afskaffelse af muligheden for dispensation fra alderskrav ved indgåelse af ægteskab, anerkendelse af udenlandske ægteskaber og forhøjelse af gebyret for prøvelse af ægteskabsbetingelserne)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="idb04151bb-f999-4946-9590-54103f9d5405">
+    <Hymne id="ide744e1d2-a6e9-4c27-bd73-812a508397ae">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id5b583c64-b9ca-45fd-880a-7d5913f445bb">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om ægteskabs indgåelse og opløsning, jf. lovbekendtgørelse nr. 1818 af 23. december 2015, som ændret ved lov nr. 1729 af 27. december 2016, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="ide0c2f25c-44b0-4e5d-8730-1856a7bc62e4">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id235c5639-d1e4-4f59-a32c-32cde336ab88">
+          <AendringDefinition id="id3c725827-377a-43ec-b08b-65067f6084bc">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§§ 1 a</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="iddd5ce937-df4e-44ec-9986-c73da784052f">
+            <AendringNyTekst>
+              <Paragraf id="id3d733ff2-49df-448a-922f-a48a2f2c3342" localId="2">
+                <Explicatus>§ 2. </Explicatus>
+                <Stk id="id85f822ea-797d-46b2-8da1-381a144980a9">
+                  <Exitus>
+                    <Linea>
+                      <Char>Den, som er under 18 år, må ikke indgå ægteskab.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idebb4630f-6f4a-4893-89fc-195593bcc006">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id71216b48-bfe4-4f69-b470-d8cb81d7706f">
+          <AendringDefinition id="id20d7aa1b-c748-47e0-ad69-dd374a4e1dd4">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4 </Char>
+                <Char>ændres »§§ 2-3« til: »§ 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf47ebe4f-af83-462c-88c1-e9a3c8329360">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc7a74cf6-35f2-497e-921e-63ec966b2cd0">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id4c37b384-e4b9-4292-99fc-d6ff688b8a2f">
+          <AendringDefinition id="id55b89d44-c655-4115-a0b2-6c2a7ac0b7c3">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13, stk. 3, </Char>
+                <Char>ændres »500 kr.« til: »et gebyr på 850 kr. (2017-niveau)«, og som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.</Char>
+                <Char> indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idbec31b22-abcc-4900-ac24-582d5eee58a1">
+            <AendringNyTekst>
+              <Stk id="idc8f40dfe-54f3-48d3-882a-e740b7dce6ea">
+                <Exitus>
+                  <Linea>
+                    <Char>Gebyret reguleres en gang årligt den 1. januar med det generelle pris- og lønindeks og afrundes til det nærmeste med ti delelige beløb i kroner.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id24235894-7655-4444-b872-e03364f8e256">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id8df3b384-7e41-4c8e-a47a-c5ddde9c29e1">
+          <AendringDefinition id="id2c461102-e7b5-40c1-939e-d1ce7360f7f3">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 21, stk. 1, </Char>
+                <Char>indsættes efter »stk. 2«: », og begge parter ved vielsen var fyldt 18 år«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb890ef79-c1fc-4651-9461-a8dfaa97b179">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idd2168792-ae6b-4bb2-a57e-793dd595f332">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id1a9928b1-288b-4f7b-9e16-2d1296a6958d">
+          <AendringDefinition id="id16d01a0d-a53e-41fd-b42c-4aec31fe90e9">
+            <Exitus>
+              <Linea>
+                <Char>Efter kapitel 2 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id55bcb426-d84b-482e-ae96-afe497cfa459">
+            <AendringNyTekst>
+              <Kapitel id="id47e1acf1-5ad6-4f7f-b1e9-33ac823222d3" localId="2a">
+                <Explicatus>Kapitel 2 a</Explicatus>
+                <Rubrica id="iddc4e8c24-ae60-4b80-873d-1e53a058896d">
+                  <Linea>
+                    <Char formaChar="Italic">Anerkendelse af ægteskaber, der er indgået i udlandet</Char>
+                  </Linea>
+                </Rubrica>
+                <ParagrafGruppe>
+                  <Paragraf id="id08b2294e-0b90-4255-9f31-47454bd2200c" localId="22b">
+                    <Explicatus>§ 22 b.</Explicatus>
+                    <Stk id="idc358f610-dbd4-487e-96d5-a397befc5cf9">
+                      <Exitus>
+                        <Linea>
+                          <Char>Et ægteskab, der er indgået i udlandet, anerkendes, hvis ægteskabet er gyldigt i det land, hvor ægteskabet er indgået, jf. dog stk. 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id7d98888e-22c6-4783-a490-27e699704c5f">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Et ægteskab, der er indgået i udlandet, anerkendes ikke,</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus id="id8c81e6f2-7850-44df-b575-8549ade6107e">
+                        <Index>
+                          <Indentatio id="id4ee908db-fd4d-4535-92be-c2bd1a65f3e0" formaInd="Nummer">
+                            <Explicatus>1)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>hvis parterne ikke var samtidig til stede ved vielsen,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id05f2ea73-60cf-4154-b968-db1c3c850f97" formaInd="Nummer">
+                            <Explicatus>2)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>hvis en part ved vielsen ikke var fyldt 18 år, eller</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="ideddadb83-2b45-45f0-9d19-f5e817559b91" formaInd="Nummer">
+                            <Explicatus>3)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>hvis anerkendelse af ægteskabet strider mod grundlæggende danske retsprincipper.</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idb406e924-a299-44ef-8e0f-d2593ee86dd7">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Uanset stk. 2 anerkendes ægteskabet, hvis der foreligger tvingende grunde herfor og parterne stilles i en urimelig situation, hvis ægteskabet ikke anerkendes.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id56a506f7-f6ee-40d5-b8e1-7018fcccbd8f">
+                      <Explicatus>Stk. 4.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Betingelsen i stk. 2, nr. 2, gælder ikke for EU-/EØS-borgere og disses ægtefæller.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="id7401a546-6cdb-4cfc-bda7-e1e9d0fd18ec" localId="22c">
+                    <Explicatus>§ 22 c.</Explicatus>
+                    <Stk id="id5d69c73e-fc88-431c-ab01-a67d12cd6c88">
+                      <Exitus>
+                        <Linea>
+                          <Char>Et registreret partnerskab, der er indgået i udlandet, anerkendes, hvis betingelserne i § 22 b er opfyldt og retsvirkningerne af partnerskabet svarer til retsvirkningerne af registreret partnerskab efter dansk ret.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id47c592c6-a023-44e1-ae0a-1829f5b7d516">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id7b0d4df1-849e-4c73-9e9b-e46adc706790">
+          <AendringDefinition id="id6634e7d4-0851-416d-ab6e-ee3509398c25">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 58 b, stk. 1, </Char>
+                <Char>ændres »§§ 1 a og 4« til: »§ 4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1d93a791-c112-4451-8651-2ed0f28cd20a">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idcb624823-b318-4609-bd9f-5b99be6d205f">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I udlændingeloven, jf. lovbekendtgørelse nr. 412 af 9. maj 2016, som ændret senest ved  § 1 i lov nr. 1745 af 27. december 2016, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idde429c8f-24a4-491f-8695-883f4478f9f5">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id1d51afc8-7796-488d-b503-abca489f13bc">
+          <AendringDefinition id="id284778ca-f18b-4b67-be41-d9adbaab8333">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 56 a, stk. 6, nr. 5,</Char>
+                <Char> ændres »Danmark« til: »Danmark eller«, og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 56 a, stk. 6, nr. 6,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id30218d28-6842-4e1d-b9a0-3241415d4678">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id2cc615a2-113d-4e54-96b1-514a92d1a83b">
+          <Exitus>
+            <Linea>
+              <Char>Nr. 7 bliver herefter nr. 6.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id2bcf90bc-1340-456e-a564-cebc727baa31">
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I værgemålsloven, jf. lovbekendtgørelse nr. 1015 af 20. august 2007, som ændret ved § 8 i lov nr. 434 af 8. maj 2006, § 2 i lov nr. 221 af 21. marts 2011, § 8 i lov nr. 647 af 12. juni 2013 og § 32 i lov nr. 618 af 8. juni 2016, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idc18064da-58ba-4a03-8b2d-ffed0054e48f">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idb9c68791-94c0-4856-9ce3-9581fdb6a977">
+          <AendringDefinition id="id401eb469-e730-4a9b-9dae-c238a7a8f9a3">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 1, 2. pkt.,</Char>
+                <Char> ophæves</Char>
+                <Char formaChar="Italic">.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0952f9cf-8c1c-4149-a608-3ec4a6c6130a">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id2adc54d2-f3d9-4c89-bc6c-d9367754332d">
+      <Explicatus>§ 4</Explicatus>
+      <Stk id="id254ad6cd-0e2f-4107-8e1a-ed8cd6a209a2">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. februar 2017.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id0838af70-6e91-40a8-905a-3848421e099c">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>En tilladelse, der er meddelt efter den hidtil gældende bestemmelse i § 1 a, 1. pkt., i lov om ægteskabs indgåelse og opløsning, bortfalder ved lovens ikrafttræden.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id5cf7ce93-2276-4721-9f6a-465abc6deb0a">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 4, finder ikke anvendelse på vielser, der er foretaget inden lovens ikrafttræden.</Char>
+          </Linea>
+          <Linea>
+            <Char>For sådanne vielser finder de hidtil gældende regler anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id7ad2df58-2562-4759-93e9-4e02fd633177">
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 5, finder ikke anvendelse på ægteskaber og registrerede partnerskaber, som en dansk myndighed har anerkendt inden lovens ikrafttræden.</Char>
+          </Linea>
+          <Linea>
+            <Char>For sådanne ægteskaber og registrerede partnerskaber finder de hidtil gældende regler anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id68b9c0f2-d56a-426f-87fa-cb219d6da842">
+        <Explicatus>Stk. 5.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 3, nr. 1, finder ikke anvendelse for unge under 18 år, der har indgået ægteskab før lovens ikrafttræden, og hvor der i forbindelse med tilladelsen til ægteskabet er fastsat vilkår om, at den pågældende fortsat er mindreårig og dermed umyndig.</Char>
+          </Linea>
+          <Linea>
+            <Char>For sådanne unge under 18 år finder de hidtil gældende regler anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="id4238baf7-8c6f-4d33-8d12-f57512449b30">
+      <Explicatus>§ 5</Explicatus>
+      <Stk id="id15f01384-18de-4231-8a6e-e140cf37f5f6">
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som de færøske og grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id47583e78-c620-47cf-bb38-bf349a689d85">
+    <UnderskriftStedDato id="idcf4889d2-b6e0-4e86-8b11-b605eae1fc3e" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id045da24f-f4ec-425b-94b2-7d560b7696fc" />
+  </UnderskriftGruppe>
+</Dokument>

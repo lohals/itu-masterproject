@@ -1,0 +1,2051 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id2ddb7a7d-f978-4cd2-97f0-14d491c003c5" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2016/09/26/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idde0bb231-dcd3-47d2-9da6-9a1f78fbd674">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20170006929</AccessionNumber>
+    <DocumentId>AN012765</DocumentId>
+    <UniqueDocumentId>184796</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om afgift af cfc og visse industrielle drivhusgasser</DocumentTitle>
+    <Year>2017</Year>
+    <DiesSigni>2017-01-17</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-01-25</EndDate>
+    <Status>Valid</Status>
+    <Number>69</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 69 af 17/01/2017</DokumentKortNavn>
+    <PopularTitle>Cfc-afgiftsloven</PopularTitle>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">P.M.V.\nJens Brøchner</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Lene Skov Henningsen</Signature>
+    <PlaceOfSignature>Skatteministeriet</PlaceOfSignature>
+    <JournalNumber>Skattemin., j.nr. 16-1680139</JournalNumber>
+    <Ministry>Skatteministeriet</Ministry>
+    <AdministrativeAuthority>SKAT</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id3183eb06-f9c4-4eff-9ebb-2a18f555ddeb">
+    <Titel id="idf401794e-bf4d-4cd9-b972-af215f8fb37f">
+      <Linea>
+        <Char>Bekendtgørelse af lov om afgift af cfc og visse industrielle drivhusgasser</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idb26594cf-e450-4bfa-9889-aa85388d709f">
+    <Indledning id="id671fd997-d61a-46b9-bdad-88d28cd127cd">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om afgift af cfc og visse industrielle drivhusgasser, jf. lovbekendtgørelse nr. 599 af 11. juni 2007, med de ændringer, der følger af § 76 i lov nr. 1336 af 19. december 2008, § 11 i lov nr. 1344 af 19. december 2008, § 2 i lov nr. 522 af 12. juni 2009, § 7 i lov nr. 1353 af 21. december 2012 og § 4 i lov nr. 1532 af 27. december 2014.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="id12f97d84-256a-4ba8-9e12-2081e94a0dcd">
+      <Afsnit id="idd0f7a644-2e48-41fc-9e56-3dfc9aa8e720" localId="1">
+        <Kapitel id="ida0323bee-1c30-4124-a01e-fe2391fedf4f" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="id1b535e1a-b674-4187-b95a-95b23b7aa79f">
+            <Linea>
+              <Char>Afgift af klorfluorkarboner og haloner</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id5bdb0634-ea80-4a2e-af9e-bc679417c6d5" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="id55f398ba-7100-4d8c-b77e-8e4684a77c9e">
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der erhvervsmæssigt fremstiller eller fra udlandet modtager følgende kemiske stoffer, der anvendes til fremstilling m.v. af de i stk. 2 nævnte varer, skal betale en afgift til statskassen:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id2adbab95-5326-4473-b4d5-4b46b80a2864">
+                  <Index>
+                    <Indentatio id="ida5754bd1-9833-4064-b0fb-c860c83a56de" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Triklorfluormethan (CFC-11).</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1f077544-c876-4b63-93f2-078343c1c067" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Diklordifluormethan (CFC-12).</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idcba29ba5-33da-4a3f-a3c8-1d2ae5a49102" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Triklortrifluorethan (CFC-113).</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id79d73d20-a693-46d9-8fe7-70f5845bcb2b" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Diklortetrafluorethan (CFC-114).</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id329f2d9e-6fb0-4991-a3aa-a3c3601c6a77" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Klorpentafluorethan (CFC-115).</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8779ed4e-24d3-42b3-9cfb-365a3ac2fb0b" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Bromklordifluormethan (halon-1211).</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id6fb27bc6-9e24-4601-92fe-a8f43c96fa23" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Bromtrifluormethan (halon-1301).</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id758d2028-39e8-4c6e-974b-c5e648ced358" formaInd="Nummer">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Dibromtetrafluorethan (halon-2402).</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id54675cbe-a2af-499c-87ff-3fac6c50e10f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgift betales af disse stoffer, når de anvendes til fremstilling og vedligeholdelse m.v. af følgende varer:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id59bcab40-45a8-4480-b41d-6ac880546483">
+                  <Index>
+                    <Indentatio id="id46f85fed-3f3b-4d95-8a48-3a6b77e39892" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Fjernvarmerør.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb882f631-c02e-49be-93c1-f634547edaef" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Køleskabe.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id03360dc4-c3e7-4358-91ef-921840429a1e" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Frysere.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id0dc2c988-4930-4a6a-ace1-15092c477a73" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Køle- og frysediske og køle- og frysereoler.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id9db6f4ef-31b2-41a4-a96a-3ec9a53b1c4e" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Køle- og fryseanlæg til industriel brug.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8f186a3d-7739-4b41-baf1-60c9fd304cd8" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Køle- og fryseanlæg til transportmidler.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id9d89f13a-0e26-463a-a140-1655e86a8362" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Paneler til køle- og fryserum.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id793f70b3-ace5-41d8-a587-ae5119474af0" formaInd="Nummer">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Isolerede porte og døre.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb6b6527d-6f3c-4b7a-a808-f21ae966b9ac" formaInd="Nummer">
+                      <Explicatus>9)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Ekstruderet polystyren til isolering.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc5c5ffa6-7355-4837-b90d-bf4c7158e02e" formaInd="Nummer">
+                      <Explicatus>10)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Konstruktionsskum.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id27bec513-8ffc-4414-8944-e6f93b3d32c0" formaInd="Nummer">
+                      <Explicatus>11)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Fugeskum.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id56b1d50b-9503-495f-bbe4-fa418d27a544" formaInd="Nummer">
+                      <Explicatus>12)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Polyurethan-slipmiddel.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id355eb2f9-44f8-4ee2-a94f-1422ec64ea63" formaInd="Nummer">
+                      <Explicatus>13)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Spraydåser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc9552c13-9961-4111-af81-3a822de9579f" formaInd="Nummer">
+                      <Explicatus>14)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Dåser indeholdende CFC bl.a. beregnet på at frembringe støj (tågehorn).</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idcd01a20f-5f43-4db5-95d4-e7b8a767d73b" formaInd="Nummer">
+                      <Explicatus>15)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Brandslukningsanlæg indeholdende haloner.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idc2f378c5-aa53-466a-8990-306e9128f868">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgift skal også betales af de i stk. 1 nævnte stoffer, når de findes i blandinger med andre stoffer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id68c69b3b-fa47-4191-a72d-98ab4ed04eec" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="idfbaac84b-93ac-4e63-8755-3d8ae0e03f02">
+                <Exitus>
+                  <Linea>
+                    <Char>Afgiften udgør 30 kr. pr. kg af de i § 1, stk. 1, nævnte stoffers nettovægt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idbcc6f8ec-a84a-4f0a-82f9-76b454978529" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id7ab20591-3401-4fd1-bc22-c9c3cdb15112">
+                <Exitus>
+                  <Linea>
+                    <Char>Af de i § 1, stk. 2, nævnte varer, der indeholder et eller flere af de i § 1, stk. 1, nævnte stoffer, betales ved erhvervsmæssig indførsel fra steder uden for EU eller fra visse områder, der ikke er omfattet af de pågældende EU-landes afgiftsområde, en dækningsafgift til statskassen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id841fb4ac-7230-48ba-a6be-ba3f67eed16b">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Dækningsafgiften udgør 30 kr. pr. kg af varens indhold af stoffer, der er afgiftspligtige efter § 1, stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Skatteministeren fastsætter regler om beregning af vægten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id41af1f6a-af11-4814-8cf0-b70e8aa208a7">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgiften afregnes efter reglerne i toldlovens kapitel 4, jf. dog stk. 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id994efddd-ff8e-49f7-b1a2-478341e618dd">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For dækningsafgiftspligtige varer, der indføres af en virksomhed registreret efter § 29 i toldloven, finder reglerne i § 3 d tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idd998ae45-eaa1-4b9a-a77c-17068b9f6f4e" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="id8cc47218-2545-4efe-a662-a97d83069147">
+            <Linea>
+              <Char>Afgift af hydrofluorkarboner, perfluorkarboner og svovlhexafluorid</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id03483961-5a0f-4544-b591-6d138e679d08" localId="3a">
+              <Explicatus>§ 3 a.</Explicatus>
+              <Stk id="idc1549862-06ec-48ec-8a62-6b913542f45c">
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der erhvervsmæssigt fremstiller eller fra udlandet modtager følgende kemiske stoffer, skal betale en afgift til statskassen:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id2bc2f6c9-8025-4c81-a9e8-dacdaf7e6747">
+                  <Index>
+                    <Indentatio id="id3ca064c0-d1fc-4a60-a1c4-61c70806845a" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Hydrofluorkarboner (HFC'er)</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id4a657a75-5cb5-4aa8-ba69-d16947af7e49" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Perfluorkarboner (PFC'er)</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idcc1f44f6-e9b2-43d1-80de-596b3893ffea" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Svovlhexafluorid (SF</Char>
+                          <Char formaChar="Subscript">6</Char>
+                          <Char> )</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id829e4a25-8d34-4de0-83a6-5456ed6e1836">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgiften skal også betales af de i stk. 1 nævnte stoffer, når de findes i blandinger med andre stoffer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1b31d9c6-3b40-4417-8d05-1138d5ded282">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Told- og skatteforvaltningen skal meddele virksomheder godtgørelse efter ansøgning for betalt afgift for stoffer omfattet af stk. 1, som er anvendt ved produktion af varer, der ikke er omfattet af bilag 1, jf. dog stk. 4 og 5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id48dc3240-3cf8-4311-9f42-e627186df46e">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det er en betingelse for at opnå godtgørelse, at virksomheden kan dokumentere, at der er sket en anvendelse, der er berettiget til godtgørelse, samt at den årlige godtgørelse udgør mindst 500 kr. Told- og skatteforvaltningen fastsætter de nærmere regnskabs- og kontrolforskrifter i forbindelse med afgiftsgodtgørelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="iddf59d219-0f8e-47a9-821b-22c72347963c">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Told- og skatteforvaltningen meddeler efter anmodning virksomheder, der ikke er registreringspligtige efter § 4, bevilling til afgiftsfritagelse for afgiftspligtige stoffer omfattet af stk. 1, der leveres til virksomheden fra registrerede virksomheder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er en betingelse for afgiftsfritagelsen, at virksomheden udelukkende producerer varer, der ikke er omfattet af bilag 1, samt at virksomheden ikke har videresalg af afgiftspligtige stoffer efter stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Told- og skatteforvaltningen fastsætter nærmere regler om administration af afgiftfritagelsen, herunder regnskabs- og kontrolforskrifter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id157a940f-4706-4c6a-abed-8c07831380e0" localId="3b">
+              <Explicatus>§ 3 b.</Explicatus>
+              <Stk id="id04f11846-858f-42bd-93e7-6abb64301a07">
+                <Exitus>
+                  <Linea>
+                    <Char>Afgiften udgør for</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Table width="310" cellpadding="0cm,0.1cm,0cm,0.1cm" formaMarginoTop="0.5cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" style="column-width: 31pt 137pt 65pt;">
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>1)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>HFC-23 (R-23)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>600 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>2)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>HFC-32 (R-32)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>101 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>3)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>HFC-41 (R-41)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>15 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>4)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>HFC-43-10mee (R-43-10mee)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>246 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>5)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>HFC-125 (R-125)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>525 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>6)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>HFC-134 (R-134)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>165 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>7)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>HFC-134a (R-134a)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>215 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>8)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>HFC-143 (R-143)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>50 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>9)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>HFC-143a (R-143a)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>600 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>10)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>HFC-152a (R-152a)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>19 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>11)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>HFC-227ea (R-227ea)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>483 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>12)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>HFC-236fa (R-236fa)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>600 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>13)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>HFC-245ca (R-245ca)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>96 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>14)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>HFC-245fa (R-245fa)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>155 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>15)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>HFC-365mfc (R-365mfc)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>119 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>16)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>R-404A (HFC-143a/HFC-125/134a)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>588 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>17)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>R-407C (HFC-32/HFC-125/134a)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>266 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>18)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>R-410A (HFC-32/HFC-125)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>313 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>19)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>R-413A (134a/PFC-218/HC-600a)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>308 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>20)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>R-507 (HFC-125/HFC-143a)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>598 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>21)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>R-508A (HFC-23/PFC-116)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>600 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>22)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>R-508B (HFC-23/PFC-116)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>600 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>23)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>Svovlhexafluorid (SF</Char>
+                            <Char formaChar="Subscript">6</Char>
+                            <Char> )</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>600 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>24)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>Perfluormethan (R-14)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>600 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>25)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>Perfluorethan (R-116)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>600 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>26)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>Perfluorpropan (R-218)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>600 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>27)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>Perfluorcyclobutan</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>600 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>28)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>Perfluorhexan</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>600 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>29)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>Perfluorbutan</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>600 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>30)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>Perfluorpentan</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>600 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>31)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>HFO-1234ze (1,3,3,3 – teraflourpropene)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>1 kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>32)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>HFO-1234yf (2,3,3,3 – tetraflourpropene)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>1. kr. pr. kg</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                  </Table>
+                </Exitus>
+                <Exitus />
+              </Stk>
+              <Stk id="idf37d5c7d-7ed6-4930-a39f-b81134d1e573">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis et stof er omfattet af § 3 a, stk. 1, men ikke er omfattet af stk. 1, svares en afgift på 600 kr. pr. kg.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide3d0ead4-6515-46d0-9b32-8aff07c72ee1">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis en blanding er sammensat af flere forskellige af de i stk. 1 og 2 nævnte stoffer, beregnes afgiften som summen af afgifterne af hvert enkelt stof.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Udgør et stof mere end 90 vægtpct.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>af blandingen, kan afgiften beregnes efter satsen for dette stof og blandingens samlede vægt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Afgiftsniveauet kan altid beregnes til 600 kr. pr. kg af de anvendte sammensætninger af de i stk. 1 og 2 nævnte stoffer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id564a3e10-07fa-4f92-8dad-8cc7c7cf4fcc" localId="3c">
+              <Explicatus>§ 3 c.</Explicatus>
+              <Stk id="id658f3579-1c35-4b8b-bed0-8e46bce6d3d6">
+                <Exitus>
+                  <Linea>
+                    <Char>Af de i bilag 1 nævnte varer, der indeholder et eller flere af de i § 3 a, stk. 1, nævnte stoffer, betales ved erhvervsmæssig indførsel fra steder uden for EU eller fra visse områder, der ikke er omfattet af de pågældende EU-landes afgiftsområde, en dækningsafgift til statskassen, jf. dog stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1474d7a2-60ac-4461-9a2b-242d6307a762">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der skal ikke svares dækningsafgift efter stk. 1 for stoffer, som er afgiftspligtige efter § 3 a, og som er anvendt som kølemiddel i airconditionanlæg i biler, jf. bilag 1, nr. 12.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide1d46ef1-164a-4f43-b3b7-3897dd0097e5">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Dækningsafgiften beregnes efter mængden af de afgiftspligtige stoffer, jf. stk. 1, og afgiftssatser fastsat i § 3 b.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Skatteministeren fastsætter regler om beregning af vægten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idab614fed-ccb4-4713-aec2-630c882a8532">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgiften afregnes efter reglerne i toldlovens kapitel 4, jf. dog stk. 5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida5006955-ce05-41c5-b70e-206860b6b75d">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For dækningsafgiftspligtige varer, der indføres af en virksomhed registreret efter § 29 i toldloven, finder reglerne i § 3 d tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idd2ead05b-dec8-45b5-a429-5dca137eccb1" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="id63d150cd-a8c4-4107-a3c4-1bf6ded28375">
+            <Linea>
+              <Char>Fælles bestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id58ad63e2-e9e2-48f7-a91a-28df9d24ba48" localId="3d">
+              <Explicatus>§ 3 d.</Explicatus>
+              <Stk id="idbaa95ccd-e232-42f0-a1b6-ffa4bb4e891b">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved erhvervsmæssig modtagelse af dækningsafgiftspligtige varer, jf. § 1, stk. 2, og bilag 1, fra andre EU-lande svares afgiften i forbindelse med varemodtagelsen her i landet, jf. dog stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Varemodtagere skal inden varens afsendelse fra udlandet anmelde sig hos told- og skatteforvaltningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anmeldelsen er gældende for 5 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idcbd7a9e9-4e4a-4bfc-a671-a9fd6e4c11c5">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der skal ikke svares afgift efter stk. 1 for stoffer, som er afgiftspligtige efter § 3 a og er anvendt som kølemiddel i airconditionanlæg i biler, jf. bilag 1, nr. 12.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3967b861-d2d6-4714-8a69-b9549fcc5069">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De i stk. 1 nævnte varemodtagere skal efter udløbet af hver afgiftsperiode angive mængden af de varer, virksomheden har modtaget i perioden, og indbetale afgiften heraf til told- og skatteforvaltningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Angivelsen og betalingen sker efter reglerne i §§ 2, 3 og 5-7 og § 8, nr. 2 og 3, i lov om opkrævning af skatter og afgifter m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide2215f75-be72-4656-98be-1600cf455483">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Told- og skatteforvaltningen kan pålægge en virksomhed, der gentagne gange ikke betaler afgiften rettidigt, at afgive angivelse ved varens modtagelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Told- og skatteforvaltningen kan endvidere pålægge virksomheden at betale afgiften ved varens modtagelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc5cdbbd7-e5ad-4dc9-a2a4-14b80df8a8d6">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i lovens §§ 8, 12 og 14 finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id4dbe7106-e19d-4d5c-9c08-eaecc4d12faf" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id029b11a3-1460-4d5b-969f-937823fcbd28">
+                <Exitus>
+                  <Linea>
+                    <Char>Virksomheder, der erhvervsmæssigt fremstiller eller fra udlandet modtager stoffer, der er afgiftspligtige efter § 1 eller § 3 a, skal registreres hos told- og skatteforvaltningen, jf. dog stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida69c4b6d-138d-4eb1-ad1c-285a14613115">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Virksomheder, der modtager afgiftspligtige varer omfattet af § 1, stk. 2, nr. 2-6, som efterfølgende destrueres hos virksomheden, kan lade sig registrere hos told- og skatteforvaltningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide88f8c3f-16c4-43ca-9738-789ff9b4f6e2">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Told- og skatteforvaltningen udsteder et bevis for registreringen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id78774ac5-fef8-473a-8886-901bfa16ab1d">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Registrerede virksomheder er berettiget til, uden at afgiften er berigtiget, at modtage stoffer, der er afgiftspligtige efter § 1 eller § 3 a.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id906547db-6cc1-438b-87e5-95cd20b7570c">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Virksomheder, som er registreret efter stk. 2, er berettiget til, uden at afgiften er berigtiget, at modtage varer omfattet af § 1, stk. 2, nr. 2-6.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idca368102-211a-437e-8dea-08c15101a845" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="id0a60ba27-bb56-4f32-a0a1-8bae4e1f9352">
+                <Exitus>
+                  <Linea>
+                    <Char>Afgiftsperioden er måneden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id00847c33-a9a3-44e5-a0c4-6c50484dd6c8">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Registrerede virksomheder skal opgøre den afgiftspligtige vægt for en afgiftsperiode som vægten af den mængde afgiftspligtige stoffer, der i perioden er udleveret fra virksomheden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida685a4b0-780e-487f-8b3f-c2fb7d02e64c">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Registrerede virksomheder, der udtager afgiftspligtige stoffer til fremstilling af varer, skal medregne forbruget til udleveringen efter stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id91563695-6b51-4ef5-af9a-944e258ae5f4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Opgørelsen specificeres efter regler, som fastsættes af told- og skatteforvaltningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id45b3b133-16f2-45dd-8a0b-fa74cc598ba2" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="idd99aafc5-d96a-403b-82f4-41e8d9340470">
+                <Exitus>
+                  <Linea>
+                    <Char>I den afgiftspligtige vægt opgjort efter § 5, stk. 2, fradrages:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id7f248e0d-2390-47b8-81fc-8293a7561277">
+                  <Index>
+                    <Indentatio id="idb33e2f3e-cce7-4c9f-8048-338f81ce0652" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Vægten af stoffer, der er udleveret til en anden registreret virksomhed efter § 4, stk. 4,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc0587f11-928a-49c1-9b70-8987dc2184b6" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>vægten af stoffer, der er afgiftsfritaget efter § 3 a, stk. 5,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idbb0a5a3d-7d6f-4ce0-93ad-ba6775d487cd" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>vægten af stoffer, hvoraf der tidligere er svaret afgift, eller hvor stofferne er taget i anvendelse inden lovens ikrafttrædelse, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide0faad0a-030a-44fb-a002-2c6278dbc2fb" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>vægten af stoffer, der er leveret til udlandet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idfee52c97-dc43-43e6-8d55-5936665c5b52">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Told- og skatteforvaltningen kan fastsætte regler om kontrol for fradrag efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida32c0c9e-4617-4553-b95e-c6a3b8273b9f" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="idd3f2b7f3-be41-40c8-96cb-6a0855ebde90">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved erhvervsmæssig levering til udlandet af de i § 1, stk. 2 eller bilag 1, nævnte varer, der er fremstillet her i landet ved anvendelse af et eller flere i § 1, stk. 1, eller § 3 a, stk. 1, nævnte stoffer, eller som er afgiftsberigtiget ved modtagelsen fra udlandet efter reglerne i § 3, § 3 c eller § 3 d, tilbagebetales afgiften af den mængde afgiftspligtige stoffer, der er indeholdt i varen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Erhvervsdrivende varemodtagere kan efter udløbet af hver afgiftsperiode frem for at søge told- og skatteforvaltningen om godtgørelse i stedet angive afgift af afgiftsberigtigede varer modtaget, jf. §§ 3 og 3 c og § 3 d, stk. 1 og 2, når varerne er leveret til udlandet, jf. § 3 d, stk. 3, på afgiftsangivelsen, således at den godtgørelsesberettigede afgift indgår i opgørelsen af afgiftstilsvaret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ided54a4a3-8802-418d-bc52-6873305466e7">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Told- og skatteforvaltningen fastsætter nærmere regler for afgiftsgodtgørelsen efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id34f3d718-3a6e-4a46-b52f-2d1a6a76fe20" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="idbfe413c0-f121-4f80-be33-1311a86d0a31">
+                <Exitus>
+                  <Linea>
+                    <Char>Registrerede virksomheder skal føre regnskab over fremstilling, modtagelse fra udlandet og udlevering m.v. af afgiftspligtige stoffer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3c9dc13b-45e3-4dbd-a3fc-943a6409e2e8">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Told- og skatteforvaltningen fastsætter nærmere regler om de registrerede virksomheders regnskabsførelse, herunder udstedelse af fakturaer m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9d137645-5c18-4750-8a09-f7ef94589f11">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Registrerede virksomheder skal opbevare regnskabsmateriale i 5 år efter regnskabsårets udløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id18d93d8a-53c7-4c00-b92a-b900eb4b43df" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="ida5aec539-ded2-4a4c-8403-70525172d61e">
+                <Exitus>
+                  <Linea>
+                    <Char>Registrerede virksomheder skal efter udløbet af hver afgiftsperiode angive mængden af de stoffer, hvoraf virksomheden skal betale afgift, jf. §§ 5 og 6, og indbetale afgiften for afgiftsperioden til told- og skatteforvaltningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Angivelsen og betalingen sker efter reglerne i §§ 2-8 i lov om opkrævning af skatter og afgifter m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id4c5556cd-9f36-4cad-89f9-eb71dc44258f" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id0cc420fb-2871-4e6a-8da8-d5a8a158a7d3">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id805c037a-01c4-47aa-85b4-133ca8d55954" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="idb676e821-2d8f-432e-9082-1487eb1b8a64">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id55734ec7-a44f-4de5-b722-657582064fa9" localId="12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="id0e3f6509-44d0-48c1-bfa0-9f9662a9fa95">
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis virksomheden ikke rettidigt efterkommer et pålæg om at stille sikkerhed, jf. § 11 i lov om opkrævning af skatter og afgifter m.v., kan told- og skatteforvaltningen inddrage registreringen af virksomheden, indtil der er stillet sikkerhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ide48bb5fc-3060-4837-8b19-7e1249d0c8d0" localId="13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id7b143fcd-bebc-4f81-9435-0180c2ba5486">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id10f05922-5b5b-4699-a191-b91672531002" localId="14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="idb5206e49-b73e-41db-9488-05f549a397ce">
+                <Exitus>
+                  <Linea>
+                    <Char>Told- og skatteforvaltningen har, hvis det skønnes nødvendigt, til enhver tid mod behørig legitimation uden retskendelse adgang til</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idcae710f9-c978-4e2b-8770-ea9bc1854373">
+                  <Index>
+                    <Indentatio id="id882c3e32-2a01-4d08-aa57-b04585f5355b" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>at foretage eftersyn i den registreringspligtige virksomhed og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7a98c1f4-0d86-40fa-9ed6-2083b3060b04" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>at efterse virksomhedens forretningsbøger og øvrige regnskabsmateriale samt korrespondance m.v.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id0f569fd3-343d-4ffb-9170-b51301bc5e7c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der er ansvarlig for en registreringspligtig virksomhed, samt de personer, der er beskæftiget i virksomheden, skal yde told- og skatteforvaltningen fornøden vejledning og hjælp ved foretagelsen af de i stk. 1 nævnte eftersyn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id70337a7e-e489-4bd1-b7d8-f4f66b953a94">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det i stk. 1, nr. 2, nævnte materiale skal på told- og skatteforvaltningens anmodning udleveres eller indsendes til denne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id993b5184-c650-494f-9c62-ae8133b88235">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Leverandører af råvarer m.v. til fremstilling af stoffer, der er afgiftspligtige efter § 1 eller § 3 a, skal på begæring meddele told- og skatteforvaltningen oplysning om de leverede varer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4e277c6b-8444-43b7-8199-f9f523cf3870">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervsdrivende skal på begæring meddele told- og skatteforvaltningen oplysninger om deres indkøb af afgiftspligtige stoffer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5d05fc42-0e3a-4a90-9322-55d85b32bff4">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Told- og skatteforvaltningen er berettiget til, hvis det skønnes nødvendigt, mod behørig legitimation uden retskendelse at foretage eftersyn af regnskaber m.v. hos de i stk. 4 og 5 omhandlede virksomheder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3ed9f3ec-ee8f-4fb4-9756-3f72621e21b7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Told- og skatteforvaltningen er berettiget til at foretage eftersyn af varer under transport, når disse varer erhvervsmæssigt sælges fra udlandet eller erhvervsmæssigt transporteres til andre end registrerede virksomheder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id306b33fe-f2d3-40ca-a519-be5992012da1">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I det omfang oplysninger som nævnt i stk. 1 er registreret elektronisk, omfatter forvaltningens adgang til disse oplysninger også en elektronisk adgang hertil.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc9bb347c-7e1d-4c51-a07f-612d3dc98bee">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skatteministeren kan fastsætte de bestemmelser om kontrolforanstaltninger, der er nødvendige til lovens gennemførelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb36a89d2-9aec-485c-953a-1211ad77a296" localId="14a">
+              <Explicatus>§ 14 a.</Explicatus>
+              <Stk id="ida97e05a4-6e88-4610-a765-0072696654d6">
+                <Exitus>
+                  <Linea>
+                    <Char>Politiet yder told- og skatteforvaltningen bistand til gennemførelsen af kontrollen efter § 14.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Justitsministeren kan efter forhandling med skatteministeren fastsætte nærmere regler herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idcfd0016a-c62e-4d13-bb34-da5fe590967b" localId="14b">
+              <Explicatus>§ 14 b.</Explicatus>
+              <Stk id="id972c975d-8fa2-41c7-a9ee-0c7d399c0486">
+                <Exitus>
+                  <Linea>
+                    <Char>I forbindelse med kontrol efter § 14 er told- og skatteforvaltningen berettiget til at foretage enhver undersøgelse af stoffer og varer, der er nødvendig for udøvelse af kontrol, og til uden erstatning at udtage prøver af stoffer og varer, i det omfang det er nødvendigt for at undersøge deres beskaffenhed.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Varemodtageren eller -fremstilleren er berettiget til efter undersøgelsens afslutning på begæring at få de udtagne prøver tilbageleveret, i det omfang de ikke er medgået ved undersøgelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id555aa663-2435-42c5-ac66-22d253c9064d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Såfremt told- og skatteforvaltningen har besluttet kun at undersøge en del af de angivne stoffer og varer, anvendes resultaterne af den delvise undersøgelse på alle stoffer og varer, der er anført under den pågældende varepost i den afgiftspligtiges regnskab.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Varemodtageren eller -fremstilleren kan dog anmode om en supplerende undersøgelse af stofferne og varerne, såfremt det kan sandsynliggøres, at resultatet af den delvise undersøgelse ikke kan anvendes på resten af de angivne stoffer og varer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide4736331-d723-4d97-9a17-8dee054d5dba">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det påhviler varemodtageren eller -fremstilleren eller den, som handler på varemodtagerens eller -fremstillerens vegne, at udføre det for undersøgelsen af stofferne og varerne nødvendige arbejde (ud- og indpakning, opvejning, opmåling m.v.).</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Omkostningerne i forbindelse hermed afholdes af varemodtageren eller -fremstilleren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb7cbbe45-395f-4b95-9f5d-3db94da43607" localId="15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="idc148dd59-e585-4e6f-aaf1-9576b8c33082">
+                <Exitus>
+                  <Linea>
+                    <Char>Foruden den personkreds, der er omhandlet i § 10 i lov om opkrævning af skatter og afgifter m.v., hæfter de i § 3 d nævnte varemodtagere og den, der er i besiddelse af varen, for betaling af afgift efter bestemmelserne i denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id1b63844a-a609-4659-bfd5-4ee60cda801d" localId="16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="id029b28a6-3fc1-4479-bd29-240b211c7f05">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idc10018c3-fcb5-4c50-a8ce-16f4d36ff9bb" localId="16a">
+              <Explicatus>§ 16 a.</Explicatus>
+              <Stk id="idc6142990-c5a8-481d-8438-d7a0637f60dd">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id860a0d73-88df-4373-990e-6c6a315ab2e1" localId="16b">
+              <Explicatus>§ 16 b.</Explicatus>
+              <Stk id="id6d4a8d0b-d22f-4db2-a7ef-f95388e89f15">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idbabeff75-5f5f-4ad9-80d7-86f2022fde05" localId="16c">
+              <Explicatus>§ 16 c.</Explicatus>
+              <Stk id="idf0808333-a083-4d6b-8add-161dd33977a5">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id565c0beb-8ffb-4a56-aa45-393329e65f27" localId="17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="id84a00cfb-53e8-4ece-b506-3681980f4bdc">
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde den, der forsætligt eller groft uagtsomt</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id3c0c4620-71b2-45cd-a30c-1fa5a90e20ee">
+                  <Index>
+                    <Indentatio id="ida5f986b5-6484-4473-ad95-3a6a66eac05c" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>afgiver urigtige eller vildledende oplysninger eller fortier oplysninger til brug for kontrollen med afgiften,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id482df82c-d614-4297-bd84-4f19ccac6972" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>overtræder § 4, stk. 1, § 8, stk. 1 og stk. 3, eller § 14, stk. 2-5,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id415b56ae-1b2d-4ff6-bfbb-b48386374593" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>fortsætter driften af en registreringspligtig virksomhed, hvis registrering er inddraget efter § 12 og told- og skatteforvaltningen har meddelt virksomheden dette.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id5a32f47a-9c81-4fbe-8dcb-3d99f05b595e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I regler, der udstedes i medfør af loven, kan der fastsættes straf i form af bøde for den, der forsætligt eller groft uagtsomt overtræder bestemmelserne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd3431b34-32af-45cc-a87a-a592b2143da2">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der begår en af de nævnte overtrædelser med forsæt til at unddrage statskassen afgift, straffes med bøde eller fængsel i indtil 1 år og 6 måneder, medmindre højere straf er forskyldt efter straffelovens § 289.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3cc10586-013a-4674-ae50-934cc46ef8fe">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9c8dc4eb-33de-493e-b76b-3210a0f02fce" localId="18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="id689a87f5-904f-4af9-9119-1b008f45924f">
+                <Exitus>
+                  <Linea>
+                    <Char>Reglerne i §§ 18 og 19 i lov om opkrævning af skatter og afgifter m.v. finder tilsvarende anvendelse på sager om overtrædelse af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idc90f8092-24b9-480b-8250-fa4e008851f9" localId="19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="id8c9c8555-88ff-4b47-8276-4fdcfc55c45f">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id898c3527-d3fc-4d47-a8b3-b6797d7390c7" localId="20">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="id6e4e0743-5494-4e31-a158-74dacf3921e6">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. januar 1989.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id67bd63bf-86ca-48db-81ba-5a86b4eb688f">
+                <Explicatus>Stk. 2-4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id212d2652-b67c-4bdf-aaf3-02e3a82bbd1c" localId="21">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="ida9ea3963-ffb4-4c12-b2ef-bf8e51c1a92d">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id3eeb259d-067b-4d77-879d-1018acd1709b">
+    <UnderskriftStedDato id="id1255178d-74fd-4bc3-b47b-349366c5e9ae" />
+    <Underskriver id="id95128f1b-e75b-423f-9ea0-7eb79d424479" />
+  </UnderskriftGruppe>
+  <Bilag id="idb0822107-1a69-45b7-a511-e08c66fe0597" localId="1">
+    <Explicatus>Bilag 1</Explicatus>
+    <BilagIndhold id="id58a2e74d-f917-4bb1-b9ee-b59c5b734e7d">
+      <TekstGruppe id="idbeef60de-5004-41b0-8697-6995d930d964">
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Varer, hvor der ikke kan opnås godtgørelse ved anvendelse af afgiftspligtige stoffer efter § 3 a:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Table width="310" cellpadding="0cm,0cm,0cm,0cm" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" style="column-width: 232pt;border-top: 1pt none #000000; border-left: 1pt none #000000; border-bottom: 1pt none #000000; border-right: 1pt none #000000; grid-H: 1pt none #000000; grid-V: 1pt none #000000;">
+            <Tr>
+              <Td valign="top" style="border-top: 1pt none #000000; border-left: 1pt none #000000; border-bottom: 1pt none #000000; border-right: 1pt none #000000;" />
+            </Tr>
+          </Table>
+        </Exitus>
+        <Exitus formaForma="NormalInd" />
+        <Exitus>
+          <Index>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>1)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Husholdningskøleskabe og -frysere</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>2)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Jævnstrømskøleskabe og -frysere</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>3)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Vaccinekølere</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>4)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Kommercielle køle- og fryseskabe, herunder plug-in-møbler som iscremefrysere og flaskekølere</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>5)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Kommercielle køle- og fryseanlæg</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>6)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Mælkekøleanlæg</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>7)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Kølerum uden offentlig adgang</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>8)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Industrielle køle- og fryserum</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>9)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Lavtemperaturanlæg</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>10)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Varmepumper, dog ikke varmepumper, hvor de industrielle drivhusgasser anvendes i et hermetisk lukket system</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>11)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Airconditionanlæg i bygninger</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>12)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Airconditionanlæg i personbiler, vare- og lastbiler og busser.</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>13)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Affugtere, dog ikke varmepumpebaserede affugtere, hvor de industrielle drivhusgasser anvendes i et hermetisk lukket system</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>14)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Fjernvarmerør</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>15)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Isolerede porte og døre</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>16)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Fugeskum</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>17)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Paneler til køle- og fryserum</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>18)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Ekstruderet polystyren til isolering (XPS-skum)</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>19)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Spraydåser, herunder beholdere beregnet på at frembringe støj, beholdere til fejlfinding eller rensning på f.eks. elektronisk udstyr (undtaget herfra er spraydåser til medicinsk brug)</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>20)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Ruder</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>21)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Isolatorgas i elektriske installationer, dog undtaget SF</Char>
+                  <Char formaChar="Subscript">6</Char>
+                  <Char> -isoleret koblingsudstyr £ 36 kV</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>22)</Explicatus>
+              <Exitus formaForma="Tab1">
+                <Linea>
+                  <Char>Sporgas</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+          </Index>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Punkterne omfatter ikke mobile kølecontainere og køleanlæg beregnet til anvendelse i fly, skibe, fiskefartøjer og køretøjer.</Char>
+          </Linea>
+          <Linea>
+            <Char>Airconditionanlæg til brug i personbiler, busser, vare- og lastbiler er dog omfattet.</Char>
+          </Linea>
+        </Exitus>
+      </TekstGruppe>
+    </BilagIndhold>
+  </Bilag>
+</Dokument>

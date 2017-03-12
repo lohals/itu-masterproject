@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id6512ef8b-167b-4995-8949-06d9bfe1bfe3" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2016/09/26/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id1b01628e-29e6-47ff-981f-fe13dbe54555">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20170020530</AccessionNumber>
+    <DocumentId>CK001213</DocumentId>
+    <UniqueDocumentId>186852</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om hold af heste (Ændring af opbindingsperiode for gruppeopstaldede heste, ændring af indretningsmæssige krav, ændring af krav om fold og adgang til fold og indførelse af undtagelse fra krav om håndtering af visse heste)</DocumentTitle>
+    <Year>2017</Year>
+    <DiesSigni>2017-02-28</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-03-01</EndDate>
+    <Status>Valid</Status>
+    <Number>205</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 205 af 28/02/2017</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Subject>heste</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">I Dronningens Navn:\nFREDERIK\nKronprins</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Esben Lunde Larsen</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Miljø- og Fødevaremin.,\nFødevarestyrelsen, j.nr. 2015-15-30-00041</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+    <AdministrativeAuthority>Fødevarestyrelsen</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id10095908-0278-426a-ac6b-f0b4c028969f">
+    <Titel id="id3d400cbe-7ab9-4bf0-937c-8d944e6348f2">
+      <Linea>
+        <Char>Lov om ændring af lov om hold af heste</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id2cc767f2-f257-439e-9bc2-d6112d77452e">
+      <Linea>
+        <Char>(Ændring af opbindingsperiode for gruppeopstaldede heste, ændring af indretningsmæssige krav, ændring af krav om fold og adgang til fold og indførelse af undtagelse fra krav om håndtering af visse heste)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="ida3b12f2e-4998-421b-b47a-3c4ab8120d1b">
+    <Hymne id="id38d9f881-3657-4f35-89ac-28e0c423d082">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="idaf957d87-3371-42f2-b406-39a4b03b39be">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om hold af heste, jf. lovbekendtgørelse nr. 472 af 15. maj 2014, som ændret ved § 70 i lov nr. 1715 af 27. december 2016, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id7cb4a701-b64a-4da0-a938-f2b90088b6d6">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idcd4bf68f-5c19-4846-8962-baac36e6ed95">
+          <AendringDefinition id="id3ec35631-950d-4e8e-9767-1b66af51dfd1">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 5</Char>
+                <Char> indsættes efter stk. 3 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf94ecc6d-d988-4c98-abec-0f6699ab3889">
+            <AendringNyTekst>
+              <Stk id="iddd1ce65f-24f1-4462-8e54-aaef7aee1996">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Heste, der gruppeopstaldes hele døgnet, og som har lært at stå opbundet uden tilsyn, kan ud over bestemmelsen i stk. 3 en gang i døgnet opbindes i op til 5 timer, hvis opbinding ud over 2 timer er nødvendig af sikkerhedsmæssige hensyn m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id0e57e9a2-7a93-40af-91c0-c4fc72957e70">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 4 bliver herefter stk. 5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="idd53b3200-b7e0-4f49-901a-7843b0e7dcb9">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id26f483a8-51da-4990-a809-89f57dd7e281">
+          <AendringDefinition id="id32e461bb-56e6-4ddd-b85d-1401e7b275d6">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 5, stk. 4, </Char>
+                <Char>der bliver</Char>
+                <Char formaChar="Italic">
+                </Char>
+                <Char>stk. 5, ændres »Stk. 2 og stk. 3, 1. pkt.,« til: »Stk. 2, stk. 3, 1. pkt., og stk. 4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id52dadd9d-1f17-431e-bd21-b0981ff0ed99">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4aafd206-7ed3-4e2b-b29f-b2d162ee0bdf">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="idb41ae3b9-ad09-454a-a86b-a28ec1f06e8b">
+          <AendringDefinition id="id06faca99-bd20-4379-853c-a611da6f20c6">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 6</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7fd4429f-127e-4085-8077-bea38ea73de6">
+            <AendringNyTekst>
+              <Paragraf id="id9093da69-d50f-4326-83b9-b63f16e8ec95" localId="6">
+                <Explicatus>§ 6.</Explicatus>
+                <Stk id="id070f8857-59ad-4d4e-9594-966d993f2aac">
+                  <Exitus>
+                    <Linea>
+                      <Char>Loftshøjden i stalden skal være mindst hestens stangmål plus 75 cm i frihøjde over eventuel strøelse.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>For en hest med et stangmål på 1,85 m og derover kan loftshøjden dog være 2,60 m i frihøjde over eventuel strøelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idc1a0c3ca-5615-41c6-9cb6-2edf9a5a45a6">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Kravet i stk. 1 kan fraviges i op til 15 pct. af stalden, hvor loftshøjden er lavere på grund af spærfødder, tværgående bjælker eller lignende konstruktioner, forudsat at hesten ikke derved kan komme til skade eller udsættes for væsentlig ulempe.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Arealet med lavere loftshøjde som beskrevet i 1. pkt. må ikke overstige 15 pct. af den enkelte hests minimumsgulvareal, jf. §§ 7-9.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id07168dd1-9cf8-424b-b4a2-9d54c170db28">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Kravet i stk. 1 kan fraviges i op til 30 pct. af en stald med taghældning, forudsat at fravigelsen skyldes taghældningen og der ikke er spærfødder, tværgående bjælker eller lignende konstruktioner, der begrunder en fravigelse, jf. stk. 2.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Det er en forudsætning for fravigelse af kravet til loftshøjde i stk. 1, at hesten ikke derved kan komme til skade eller udsættes for væsentlig ulempe.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Arealet med lavere loftshøjde som beskrevet i 1. pkt. må ikke overstige 30 pct. af den enkelte hests minimumsgulvareal, jf. §§ 7-9.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="ideea08b4e-cb8a-40de-94db-53d67d558049">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Uanset bestemmelserne i stk. 1-3 må loftshøjden i stalden ikke være lavere end 2,10 m i frihøjde over eventuel strøelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id48202671-332c-4378-9fe1-aec22bc9ed43">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id71ee4342-421d-472c-9c5a-21c2bb07e0c1">
+          <AendringDefinition id="ida85bae8a-0119-4f3a-a177-88f96404097d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 7</Char>
+                <Char> ændres »(2,0 x hestens stangmål)</Char>
+                <Char formaChar="Superscript">2</Char>
+                <Char>« til: »(1,7 x hestens stangmål)</Char>
+                <Char formaChar="Superscript">2</Char>
+                <Char>«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfc9909f6-7d17-407a-8e0b-3defdbcdcc1f">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide60a2eca-0fe4-4acb-aeb4-1d14625320bd">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="idfdc81045-01c6-46b8-8c20-be24bf106989">
+          <AendringDefinition id="ida0a00244-2869-43ff-a0f2-b56414f130cc">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 9, stk. 2 </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 3, </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2516e152-f7a9-4a97-931a-4aed6bcfdea2">
+            <AendringNyTekst>
+              <Stk id="idfcce3572-19d4-4bfe-a60a-2a9981133c10">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Gulvarealet i folingsboksen skal være mindst (2,0 x hoppens stangmål)</Char>
+                    <Char formaChar="Superscript">2</Char>
+                    <Char>, og den korteste side af boksen skal være mindst 1,7 x hoppens stangmål.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3fa6a083-33f0-4292-a3d7-cf9a8691e848">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når hoppe og føl er på stald, skal de indtil tidspunktet for fravænning, dog maksimalt 6 måneder, opholde sig i folingsboksen eller en boks af tilsvarende størrelse, jf. stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dette gælder dog ikke, hvis hoppe og føl opstaldes efter reglerne om gruppeopstaldning, jf. § 8.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id64b8a511-cef2-49a7-9f31-9b7c017cbcd2">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id2822a00e-27c7-405b-bddf-7fb3f5f35fbd">
+          <AendringDefinition id="idb3bf4b86-46ed-4219-9c7c-febccd685174">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 13</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9c395496-94e2-495a-a542-04384dd52a6b">
+            <AendringNyTekst>
+              <Paragraf id="idb4f3ec0b-f196-4d8d-91a5-989f3e77960a" localId="13">
+                <Explicatus>§ 13.</Explicatus>
+                <Stk id="id054886bb-8955-489a-927a-270637241d37">
+                  <Exitus>
+                    <Linea>
+                      <Char>Luftcirkulation, støvindhold, temperatur, relativ luftfugtighed og koncentration af luftarter skal holdes på et niveau, som ikke er skadeligt for hestene.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Stalden skal have mekanisk eller naturlig ventilation, som sikrer et tilstrækkeligt luftskifte.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf201fb22-9c65-4e4d-97a1-cc92a57f121c">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="ida9b74035-1cc5-4fe9-999e-2e6031a61e5b">
+          <AendringDefinition id="idc879ed3b-95d2-4f1b-8eec-1c01a3d37096">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 14</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id88310f13-44ec-4bc4-b4f4-c41a11faf241">
+            <AendringNyTekst>
+              <Paragraf id="idafa37faa-0dad-4e2c-9d5e-50b8355ed945" localId="14">
+                <Explicatus>§ 14.</Explicatus>
+                <Stk id="id853e8cd9-5e6d-4904-9c21-2e9813079b0c">
+                  <Exitus>
+                    <Linea>
+                      <Char>Der skal være tilstrækkeligt naturligt lys i stalden, om nødvendigt suppleret med kunstigt lys, til at opfylde hestes adfærdsmæssige og fysiologiske behov.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id65860e24-e387-4786-a0c2-55ddcabfeac6">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Stalden skal indrettes således, at følgende krav er opfyldt:</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus id="id578d3f16-b705-4b1b-8f77-61dae6b77bf3">
+                    <Index>
+                      <Indentatio id="id6a0db73e-7a15-49c4-91d5-1381bcfb87db" formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Belysningen skal være jævnt fordelt således, at hestene kan se hinanden og få et visuelt overblik over deres omgivelser.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="idbcae0512-9354-44e6-9140-0f0e214735de" formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Det skal tilstræbes, at belysningen følger en døgnrytme, dog skal der altid sikres passende sammenhængende perioder med lys og mørke.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="idf8f7dc39-acb6-4800-8ed8-24ed85649f8e" formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Der skal være kunstig belysning af tilstrækkelig styrke til, at hestene til enhver tid kan tilses.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Lyskilderne skal placeres således, at de ikke medfører ulempe for hestene.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id6bba25bf-81a3-4c4c-a0ee-66f83f6a652e">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="idd622890d-e35e-4a0c-b9b0-e7c4dd6a7b6d">
+          <AendringDefinition id="id2ff8d190-6bf4-4101-a46f-67a49ff917c4">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 16, stk. 2, 3. pkt.,</Char>
+                <Char> indsættes efter »En fold«: »af minimumsstørrelse, jf. 1. pkt.,«, og efter »20 heste« indsættes: »på et døgn«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id387a0991-0b3e-4622-9592-026ce0919c17">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id32117fe4-8366-4064-a09c-c17ae1c6b3fc">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="ida7debde0-6eda-455f-bee1-06bc533444ec">
+          <AendringDefinition id="idba83086a-7fa2-46d3-94c1-587eaffba248">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 16</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 4:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id332c72ce-7beb-489b-b23c-d3cbf1549d41">
+            <AendringNyTekst>
+              <Stk id="idf5e56f0d-dfd3-4da9-9a9b-43ac2380e983">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om, at kravet i stk. 2 kan fraviges for bestemte typer af heste, eller hvor veterinære hensyn eller hensyn til hestens adfærd tilsiger det.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idec887deb-e526-4a4f-a220-504ea045f967">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="id1d992901-5e3d-492f-85d6-49b3e0af988e">
+          <AendringDefinition id="id5c8709f9-629a-496b-82f8-c7e56f1f5fd4">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 17, stk. 2 </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 3,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idad6dc1bd-00fe-4f7e-a36c-b3658591999a">
+            <AendringNyTekst>
+              <Stk id="ide832111d-9816-4394-9032-ef455bebbb32">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når plage, der er fra 1 til 2 år gamle, er på fold, skal de på fold sammen med artsfæller.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id31bfaf73-7998-4fb8-838a-78b0b64105e1">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Føl og plage skal, indtil de er 1 år gamle, på fold sammen med artsfæller i mindst 2 timer 5 dage om ugen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dette kan dog fraviges i kortere perioder med træning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id69151f08-9bf5-4964-9499-4eec48d05c12">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1-3 kan fraviges, hvis veterinære eller ekstreme vejrmæssige forhold taler afgørende herfor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4f56beec-0367-4ad7-bd2a-82d1ebc3ed29">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="id54b3184d-2b73-42e5-ab86-de4f102a0e3e">
+          <AendringDefinition id="id4d74e1ca-6a88-4435-b9ce-a410ce71475b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 25</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idafcddaad-6255-4832-b42e-029af7d4fe19">
+            <AendringNyTekst>
+              <Stk id="id3315c0e5-535a-47b0-9bc3-2ab6bca1d931">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kravet i stk. 1 gælder ikke hestepopulationer, der lever delvis vildt i særligt afgrænsede områder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id3d67f387-1437-4069-93cf-b78fdd902161">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="id1e0b6fa5-c26f-4fe7-8204-2a17da7e5419">
+          <AendringDefinition id="id48ab7614-d951-4c46-b547-330e674948b1">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 36, stk. 4, </Char>
+                <Char>ændres »§ 6, stk. 1 og stk. 3, §§ 7-9 og § 14, stk. 1, 2. pkt.,« til: »§§ 6-9«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id25ccecc2-849b-41c8-831b-048004692f3b">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="idbe29b698-426a-4e9d-a70b-fc4523274d40">
+      <Explicatus>§ 2</Explicatus>
+      <Stk id="idc926cd9b-5946-41a7-af5b-7be13a9052be">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. juli 2017, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idf2a9acd6-5e28-45ba-b941-86a02beca6c6">
+        <Explicatus>Stk. 2. </Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 17, stk. 3, som affattet ved denne lovs § 1, nr. 10, træder i kraft den 1. januar 2020.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id220857d0-a8fe-42c5-a9ce-ea99272d9e33">
+    <UnderskriftStedDato id="id680f2afb-b7d9-4340-ad7c-72ae90400a52" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id1d5cc65f-d348-499f-b4fd-4a09b5f308bc" />
+  </UnderskriftGruppe>
+</Dokument>

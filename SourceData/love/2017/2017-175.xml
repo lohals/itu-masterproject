@@ -1,0 +1,1676 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id8675d510-861f-4024-8481-7a7a913f2720" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2016/09/26/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id7ceb8bc0-fbac-4e17-922d-2e4c1323b689">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20170017530</AccessionNumber>
+    <DocumentId>CR000027</DocumentId>
+    <UniqueDocumentId>186674</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om valg til Folketinget, lov om valg af danske medlemmer til Europa-Parlamentet, lov om kommunale og regionale valg, lov om offentlige veje m.v. og lov om private fællesveje (Hjælp til stemmeafgivning, valgret til Europa-Parlamentsvalg m.v. for personer med midlertidigt ophold i andre dele af riget, folkeafstemninger i henhold til særlig lov, ophængningstidspunkt for valgplakater m.v.)</DocumentTitle>
+    <Year>2017</Year>
+    <DiesSigni>2017-02-21</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-02-22</EndDate>
+    <Status>Valid</Status>
+    <Number>175</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 175 af 21/02/2017</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">I Dronningens Navn:\nFREDERIK\nKronprins</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Simon Emil Ammitzbøll</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Økonomi- og Indenrigsmin., j.nr. 2016-558</JournalNumber>
+    <Ministry>Økonomi- og Indenrigsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id7862f689-eb33-4cc7-8d5a-e3f55a0cc184">
+    <Titel id="id67618217-aa9f-4710-be8d-bd1c67d614cd">
+      <Linea>
+        <Char>Lov om ændring af lov om valg til Folketinget, lov om valg af danske medlemmer til Europa-Parlamentet, lov om kommunale og regionale valg, lov om offentlige veje m.v. og lov om private fællesveje</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id355d4989-5c2d-40a6-aa63-009376832766">
+      <Linea>
+        <Char>(Hjælp til stemmeafgivning, valgret til Europa-Parlamentsvalg m.v. for personer med midlertidigt ophold i andre dele af riget, folkeafstemninger i henhold til særlig lov, ophængningstidspunkt for valgplakater m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="idf9f01ca4-92a3-4c9a-ae63-e255fcdc83e0">
+    <Hymne id="id57e6e2d2-5603-4531-ac42-3b3bfe25d0ef">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id11ed9450-1242-44ce-bee8-b524c9354598">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om valg til Folketinget, jf. lovbekendtgørelse nr. 416 af 12. maj 2016, som ændret ved § 22 i lov nr. 628 af 8. juni 2016, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id1a1b4a21-67dd-4644-b901-1ae53575284e">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id59916aa7-f044-4741-8344-25cfb3ce8609">
+          <AendringDefinition id="id955666e4-f3d1-4c38-a405-5215d7f40fdb">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 17, stk. 1,</Char>
+                <Char> indsættes efter nr. 1 som nye numre:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd78defd1-1155-4d6e-adfb-53a175dbfaf4" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <Exitus id="id62c846c1-cc53-44c0-be7f-dc5b53d944d2">
+                <Index>
+                  <Indentatio id="id0ecaecc1-28a7-461e-b109-2e5a6b2a4a14" formaInd="Nummer">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>optagelse på valglisten til folkeafstemninger efter § 96 b,</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id97749a09-5774-4430-a29b-3e58148fa15b" formaInd="Nummer">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>optagelse på valglisten til Europa-Parlamentsvalg efter § 14 b i lov om valg af danske medlemmer til Europa-Parlamentet,</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id200c91af-bfd1-438e-9b3d-e1936349d033">
+          <Exitus>
+            <Linea>
+              <Char>Nr. 2 og 3 bliver herefter nr. 4 og 5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id1a661a71-71d1-4e6d-b293-c786f0c03500">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idfa3338d6-c0ce-4bff-80ef-11d9bffd9b86">
+          <AendringDefinition id="id4a0a8e34-84de-470b-984a-36494abba6fb">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 17, stk. 2, 1.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3. pkt.,</Char>
+                <Char> ændres »nr. 2 og 3« til: »nr. 4 og 5«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc1c31422-3d54-4b3c-adb3-46b788d78336">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5a61ac94-ff13-4ddd-a693-fe718df8dfe1">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id9f1bfb13-c45c-4814-a435-42a47236ce4a">
+          <AendringDefinition id="ided9fdfac-d113-4526-8a79-47383393f21b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 49, stk. 1,</Char>
+                <Char> indsættes efter 1. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfe3fd6d2-c494-4d69-91a2-785d6424e9c9">
+            <AendringNyTekst>
+              <Stk id="id9a799a4c-3b4f-4720-84a7-75cd4ddaaaff">
+                <Exitus>
+                  <Linea>
+                    <Char>Hjælp til stemmeafgivningen kan ydes ved personlig bistand, jf. stk. 2, og ved brug af eventuelle hjælpemidler, der skal stilles til rådighed ved stemmeafgivningen, jf. stk. 5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id3b815235-6873-4724-ac13-e486d477f9b9">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id5cedf2ab-b771-42a4-a7ef-c7f2f8e70eee">
+          <AendringDefinition id="id242db834-67e2-4127-b55f-784b6023ced1">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 49, stk. 2, 1. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 4,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 61, stk. 6,</Char>
+                <Char> ændres »Hjælp« til: »Personlig bistand«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd14565a0-da00-44e2-b789-253c3446ec44">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb3367ba1-083d-4f7d-b006-559d1a835309">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id026a6ece-c87c-43ea-a19c-dafb2d19c603">
+          <AendringDefinition id="idea4f3ce5-54ce-4e7f-aa72-ce26f26fe904">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 49, stk. 2, 2. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">4,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 61, stk. 4, 2.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3. pkt.,</Char>
+                <Char> der bliver 3. og 5. pkt., og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 5</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">6,</Char>
+                <Char> ændres »hjælp« til: »personlig bistand«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id95c41c57-00fb-4e86-aa7f-32f19b8464e9">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf1c465a6-0908-4479-863b-8a38297b7f9e">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id39d64c4f-fb50-4e4f-8e49-beb145c9f098">
+          <AendringDefinition id="idd2e13638-95e7-4d99-948f-1042982f5d01">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 49, stk. 2,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idce1c1312-d300-4e0b-8315-580be84933b4">
+            <AendringNyTekst>
+              <Stk id="idc917605e-69db-47d5-863f-f99c16e13de1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilkendegiver vælgeren over for en valgstyrer eller tilforordnet vælger udtrykkeligt og utvetydigt et ønske herom, og er vælgerens ønske begrundet i en umiddelbart konstaterbar eller dokumenterbar fysisk eller psykisk funktionsnedsættelse, kan den personlige bistand ydes alene af en person, der er udpeget af vælgeren selv.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idda912100-a3d4-404f-a21b-196e47488e4c">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id2ce0f64c-f680-4565-9b4c-3ef3d035419e">
+          <AendringDefinition id="idcd945db3-b5f3-44fb-b76d-9a994faa2861">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 49, stk. 4,</Char>
+                <Char> indsættes efter »umiddelbart over for«: »den eller«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8a7aba23-b8b6-4cc0-be1a-90d4c134caf7">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf466ae4c-7f17-4346-b9fc-7fa5ea0d9a56">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id79002985-3738-4858-9188-767b12b509cf">
+          <AendringDefinition id="id1b461f8f-66bc-4633-a8f4-800e1e0957b1">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 49</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 5:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8005ba5c-2829-44d5-b9af-41b474cd184a">
+            <AendringNyTekst>
+              <Stk id="id450a7088-89ff-421a-ad2e-4b15a3e617aa">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Økonomi- og indenrigsministeren kan fastsætte regler om hjælpemidler, der skal stilles til rådighed ved stemmeafgivningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idfa86ca3a-cbaa-40d5-8f5d-2dc4e944a405">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="id1daa1751-79a2-4202-b6df-2406dca98c30">
+          <AendringDefinition id="id18da2feb-3356-4281-ae06-b793dbe9439e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 51, stk. 1, 1. pkt.,</Char>
+                <Char> indsættes efter »forestår«: »eller yder personlig bistand til«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf2225b2c-b132-4a33-a28e-3a81d4729e77">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id10129115-e48b-470f-85ee-51d179020f7b">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="idcd0faa48-d67a-4800-af7c-e4576c2f0908">
+          <AendringDefinition id="id7b90a947-5171-4bee-9418-01ae35259acb">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 51, stk. 1, 2. pkt.,</Char>
+                <Char> ændres »De« til: »De personer, der forestår afstemningen,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id65bbe99a-3e2b-4faa-a224-ebe587c6fe87">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idcea1f4c1-6d0a-4c4b-906c-463b32a30e4c">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="id4154deab-0579-4ffb-b043-7e49bddceb9e">
+          <AendringDefinition id="idcb9fa661-dc45-4f21-9183-cc1347c6bdaa">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 54, stk. 4, 4. pkt.,</Char>
+                <Char> ændres »næstsidste« til: »tredjesidste«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id942798ee-9793-4b8d-816f-48827ddc2656">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc1b7b92f-6795-4466-8a70-f2aa133850a9">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="id015eb2f0-07d3-4947-bfb5-9fc84d9e4e3c">
+          <AendringDefinition id="idb3b035c6-7178-4a0c-90b9-dcf0bdd95fcc">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 61, stk. 4,</Char>
+                <Char> indsættes efter 1. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8c5ea06f-cc62-43a8-99dc-d1f970ef4394">
+            <AendringNyTekst>
+              <Stk id="id1430a1a9-9925-4148-8533-c70c88ebe442">
+                <Exitus>
+                  <Linea>
+                    <Char>Hjælp til stemmeafgivningen kan ydes ved personlig bistand og ved brug af eventuelle hjælpemidler, der skal stilles til rådighed ved brevstemmeafgivningen, jf. § 63, 2. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idaee2cd26-f1bb-4639-86b4-c29720d8c27d">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="id2d972e93-fda4-4422-b369-b291527ebea2">
+          <AendringDefinition id="id09657ec8-52fe-4202-bc41-e723c0879678">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 61, stk. 4,</Char>
+                <Char> indsættes efter 2. pkt., der bliver 3. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7449ec07-2ed9-40c6-88a3-f2624cf18602">
+            <AendringNyTekst>
+              <Stk id="idf4b3f6bb-e14c-4712-98a1-d6a3050f480f">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilkendegiver vælgeren over for stemmemodtageren udtrykkeligt og utvetydigt et ønske herom, og er vælgerens ønske begrundet i en umiddelbart konstaterbar eller dokumenterbar fysisk eller psykisk funktionsnedsættelse, kan den personlige bistand ydes alene af en person, der er udpeget af vælgeren selv.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2151a5ed-fa8a-4863-bf13-e85ad4c91140">
+        <Explicatus>14.</Explicatus>
+        <Aendring id="id431228d5-0193-4abc-a72b-df5c25fa4022">
+          <AendringDefinition id="ida5f65e06-3a54-4319-8154-f8df471c98d8">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 61, stk. 6,</Char>
+                <Char> indsættes efter »umiddelbart over for den«: »eller dem«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id328d95f7-b2e8-4cd6-9f03-c8cb4f228320">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id06c1831f-c093-4ab1-a782-250c14df07a8">
+        <Explicatus>15.</Explicatus>
+        <Aendring id="idadadc513-50c6-4985-8425-2229d9000613">
+          <AendringDefinition id="id9bc4b797-c857-47db-9097-aed5a1f676bc">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 62, stk. 1, 1. pkt.,</Char>
+                <Char> indsættes efter »Stemmemodtagere«: »og personer, der yder personlig bistand til brevstemmeafgivningen,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida7336496-4907-4346-af66-69a4cca4b8f2">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5d369f99-463c-49e1-a810-83f9a152b11d">
+        <Explicatus>16.</Explicatus>
+        <Aendring id="id5a005872-263a-435e-9f2d-c2194109ecd0">
+          <AendringDefinition id="id23c147ba-8e1d-40b7-a6d1-c5554c9b8bd4">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 62, stk. 1, 2. pkt.,</Char>
+                <Char> ændres »De« til: »Stemmemodtagere«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1fdced47-2625-46f7-84dd-17d872395ba4">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id61e45ae0-740b-495c-932f-bee1b7ec4ebf">
+        <Explicatus>17.</Explicatus>
+        <Aendring id="id36db36c5-5700-455b-bf58-2e36a29aa43a">
+          <AendringDefinition id="id345525bf-d73c-4264-b3a6-2164626b9038">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 63</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5e6759f1-9a92-4621-8a9a-62d26c189ffb">
+            <AendringNyTekst>
+              <Stk id="id410dfc3a-7e36-4f4a-920e-7ed6a86d9aa6">
+                <Exitus>
+                  <Linea>
+                    <Char>Økonomi- og indenrigsministeren kan fastsætte regler om hjælpemidler, der skal stilles til rådighed ved brevstemmeafgivningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id3956d878-741c-4b00-afbf-43970b6084b9">
+        <Explicatus>18.</Explicatus>
+        <Aendring id="idb4ead6fe-e6e1-4f88-a490-a8297c60c910">
+          <AendringDefinition id="id37131c6f-7177-4a71-b924-8ef10a355b06">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 94</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 95, stk. 2, 2. pkt.,</Char>
+                <Char> ændres »§ 42« til: »§ 42, stk. 1 og 7,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5f130db2-4ce3-4096-9a22-23833972ee3d">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id92a3b6c0-47a3-4444-a9e9-daeadebe83b0">
+        <Explicatus>19.</Explicatus>
+        <Aendring id="id9937e7c6-84d4-4f3f-a7e0-1bb63fe33cad">
+          <AendringDefinition id="id021008fb-6e20-41bd-95fb-17e1fea0ae45">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 94</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2bd9e89c-529a-490d-8a7c-a56fe454385f">
+            <AendringNyTekst>
+              <Stk id="id078c29bd-99bf-4700-aae8-0180cfc894a1">
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i § 95, stk. 3 og 4, og §§ 96-103 finder endvidere anvendelse på folkeafstemninger, der afholdes i henhold til særlig lov, medmindre andet følger af den særlige lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id60cb58bc-040e-456d-aeb4-ba53b11f490a">
+        <Explicatus>20.</Explicatus>
+        <Aendring id="idceb21322-a767-4cab-90eb-5872f28cdabd">
+          <AendringDefinition id="id8f1e1703-d4e7-4267-b1e0-10ee67ee1d46">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 95</Char>
+                <Char> indsættes efter stk. 2 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7d13582d-62ba-4665-91f2-428891b7da8b">
+            <AendringNyTekst>
+              <Stk id="id1a49ccbb-36be-4297-93ec-5859da1f668c">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afholdes folkeafstemning i henhold til særlig lov, bekendtgør statsministeren folkeafstemningens tema i Statstidende med meddelelse om, hvilken dag folkeafstemningen finder sted.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id9ef47101-530b-4387-8bbc-977ddff159ce">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 bliver herefter stk. 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id99dc5d9e-37cf-4130-a977-1241b96f1a1d">
+        <Explicatus>21.</Explicatus>
+        <Aendring id="idbced9903-e54e-4403-9536-f5aacdbf62bf">
+          <AendringDefinition id="id0f7aacc8-88ce-4e26-aa70-07e92d4eecad">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 96, stk. 1,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idcc27e435-5e78-4c70-91c4-c4ea588142e3">
+            <AendringNyTekst>
+              <Stk id="id67d9cc3a-cc5b-44fd-915d-73cc0255390c">
+                <Exitus>
+                  <Linea>
+                    <Char>Personer, der har fast bopæl i de dele af riget, hvor folkeafstemningen ikke afholdes, har ikke valgret til folkeafstemningen, jf. dog § 96 a.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf6911576-f9cd-48e9-baf9-12072dac979e">
+        <Explicatus>22.</Explicatus>
+        <Aendring id="idab6dc1fd-edd5-479c-a0f3-6cfef8af747e">
+          <AendringDefinition id="idacd583df-70e6-407f-820b-922499a2729f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 96, stk. 2,</Char>
+                <Char> indsættes efter 1. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb128e150-d41f-4eb6-a071-30f71fff4dc3">
+            <AendringNyTekst>
+              <Stk id="id47a17091-585f-4b96-9367-cbd20d580386">
+                <Exitus>
+                  <Linea>
+                    <Char>For optagelse på valglisten af vælgere, der er omfattet af § 96 a, gælder dog § 96 b.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id0bd2ac7c-d139-46df-b2de-a22a11687288">
+        <Explicatus>23.</Explicatus>
+        <Aendring id="id7b887574-21e0-4d1e-a7e0-1863c17a5eec">
+          <AendringDefinition id="ida3651c51-9a1c-4b79-8ae0-ee9bccfdbc90">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 96, stk. 2, 2. pkt.,</Char>
+                <Char> der bliver 3. pkt., indsættes efter »gælder«: »uden for de i 2. pkt. nævnte tilfælde«, og »dog« udgår.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb8657de9-f71d-465e-9b73-0157c9af87bd">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide5e2da5b-56f7-4aab-896e-bb1906255618">
+        <Explicatus>24.</Explicatus>
+        <Aendring id="id93d1cf7e-7cb7-4df9-986e-c165873122ca">
+          <AendringDefinition id="idaf646b7b-3531-48cf-9ed8-a7d0413f80e7">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 96 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id767a3f86-5dcf-4da2-846c-5c3adbe8a792">
+            <AendringNyTekst>
+              <Paragraf id="idc7a2b067-a19c-4a07-831d-4937e5745c21" localId="96a">
+                <Explicatus>§ 96 a. </Explicatus>
+                <Stk id="idfe6654d4-f8cb-40e4-ac30-d35ad3c4a941">
+                  <Exitus>
+                    <Linea>
+                      <Char>Ved folkeafstemninger, der ikke afholdes på Fær­øerne henholdsvis i Grønland, gælder stk. 2-5.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idf688db26-475d-4bfe-b726-d73997ccf3d4">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Personer, der er ansat i den danske stat og beordret til tjeneste på Færøerne eller i Grønland, anses for at have fast bopæl i Danmark.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id1480691f-595e-4cb0-a89f-238fa226d3ac">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Følgende personer, der midlertidigt har taget ophold på Færøerne eller i Grønland, anses ligeledes for at have fast bopæl i Danmark:</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus id="id57063653-f0ee-460e-9872-3b20f94f36d8">
+                    <Index>
+                      <Indentatio id="id916142f9-85a4-44f6-a1f4-7d681f91313f" formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Personer, der er udsendt for at gøre tjeneste på Færøerne eller i Grønland som ansat af en dansk offentlig myndighed eller en herværende privat virksomhed eller forening.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="id72d756f9-c2dc-4a53-89d5-6a5de532711a" formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Personer, der opholder sig på Færøerne eller i Grønland som ansat i en international organisation, hvoraf Danmark er medlem.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="idfb1a0565-9239-47f0-acca-e8f701536791" formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Personer, der er udsendt for at gøre tjeneste på Færøerne eller i Grønland af en dansk hjælpeorganisation.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="id8f44f0d5-b483-4e38-9f9d-74b9dc892cd2" formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Personer, der opholder sig på Færøerne eller i Grønland i uddannelsesøjemed.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="id694dcf2e-93ee-4402-a7f1-2509b540e6d6" formaInd="Nummer">
+                        <Explicatus>5)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Personer, der opholder sig på Færøerne eller i Grønland af helbredsmæssige grunde.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="idf32cfca1-78f0-4c69-96c5-e55e7e220b7e" formaInd="Nummer">
+                        <Explicatus>6)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Personer, der opholder sig på Færøerne eller i Grønland, og som i henseende til tilknytningen til Danmark ganske må sidestilles med de personer, der er nævnt i nr. 1-5.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk id="ide2515ab4-37f2-444e-a9dc-6e647b4d8146">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Personer, der opholder sig på Færøerne eller i Grønland, anses ligeledes for at have fast bopæl i Danmark, såfremt de agter at vende tilbage til Danmark inden for 2 år efter udrejsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="ida3800819-bec2-4ed9-ab04-0d6db37cbb93">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En person, der samlever på fælles bopæl med en person, der er omfattet af stk. 2, 3 eller 4, anses for at have fast bopæl i Danmark, såfremt de pågældende to samlevende</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus id="id9a4301a8-c251-4847-9fcb-ab816319fe89">
+                    <Index>
+                      <Indentatio id="id1010ef1c-aef7-400d-803c-78ca29c108f6" formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>har indgået ægteskab eller registreret partnerskab med hinanden eller</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="id3737176f-769c-4373-ab1b-31904e242ed5" formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>opfylder betingelserne for at indgå ægteskab eller registreret partnerskab med hinanden og havde etableret fælles bopæl inden udrejsen.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="id1b56485e-8741-4e0c-ade0-599ea210e303" localId="96b">
+                <Explicatus>§ 96 b.</Explicatus>
+                <Stk id="id9196c63a-0426-4442-b692-61b8cfec4d43">
+                  <Exitus>
+                    <Linea>
+                      <Char>Vælgere, der er omfattet af § 96 a, og som er registreret i Det Centrale Personregister (CPR) som udrejst eller med bopæl i Grønland, skal efter anmodning optages på en særlig valgliste i Københavns Kommune, hvis der er truffet afgørelse herom senest 7.-dagen før valgdagen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="ida2f00468-92d6-4ac8-afab-5a00dbbb37c9">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Vælgere, der har haft ophold på Færøerne henholdsvis i Grønland i mere end 4 år, kan kun optages på valglisten, såfremt Valgnævnet i hvert enkelt tilfælde anser betingelserne i § 96 a for at være opfyldt.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Hvis der i øvrigt er tvivl om, hvorvidt en vælger er omfattet af § 96 a, kan vælgeren kun optages på valglisten, såfremt Valgnævnet i hvert enkelt tilfælde anser betingelserne i § 96 a for at være opfyldt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idb2fb6483-c107-4adc-acb3-f878c64cf51e">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Afgørelse om optagelse på valglisten af en vælger, der er omfattet af § 96 a, stk. 2 eller 3, eller § 96 a, stk. 5, jf. stk. 2 eller 3, gælder i 2 år fra afgørelsens dato.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Indgiver vælgeren inden udløbet af den i 1. pkt. nævnte periode anmodning om fornyet optagelse på valglisten, forlænges perioden, indtil der er truffet afgørelse.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Afgørelse om optagelse på valglisten af en vælger, der er omfattet af § 96 a, stk. 4, gælder i 2 år regnet fra datoen for udrejsen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Afgørelse om optagelse på valglisten af en vælger, der er omfattet af § 96 a, stk. 5, jf. stk. 4, gælder i 2 år regnet fra datoen for udrejsen for den person omfattet af § 96 a, stk. 4, vælgeren har den i § 96 a, stk. 5, nævnte tilknytning til.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id66f4c734-5b18-48fb-9c2e-6fcdf49f6cb0">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Økonomi- og indenrigsministeren fastsætter nærmere regler om optagelse på listen og om listens udarbejdelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc02bdb3b-27da-4572-bf0b-60942ba3aa25">
+        <Explicatus>25.</Explicatus>
+        <Aendring id="idbf62d3f7-e025-45a7-85e0-b191dc2535a2">
+          <AendringDefinition id="ida31744e1-1444-424c-9a8f-4d1bece6e5ff">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 99, stk. 4, 1. pkt.,</Char>
+                <Char> ændres »afstemning om to eller flere lovforslag eller love« til: »to eller flere folkeafstemninger«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7c67e5ad-dfed-4f3f-835d-59af865ff585">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id21c68a71-c553-434b-afb3-4ce98f3a57df">
+        <Explicatus>26.</Explicatus>
+        <Aendring id="ide326761f-41df-4652-a029-ce5e906cf3f5">
+          <AendringDefinition id="id665ce480-2c10-4f6f-9f12-9ec7b753ff9a">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 104, stk. 3, 1. pkt.,</Char>
+                <Char> indsættes efter »endeligt afgjort«: », jf. dog stk. 4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id55c31f0c-fc38-4bd6-9e10-fa2e4b7a43ea">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9b515da4-bc30-49b0-806d-a74fdc05b3d3">
+        <Explicatus>27.</Explicatus>
+        <Aendring id="id98e46e83-f801-410e-8d96-aab21f8bece6">
+          <AendringDefinition id="iddba8fa35-2ac3-4cdd-9ff5-2cb4453cc10e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 104</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 4‌:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id13b5fc1a-f8c1-4ebe-89a4-e51a385ade42">
+            <AendringNyTekst>
+              <Stk id="id574ca6be-559e-471c-85c4-489bb8a9b7ab">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Valgmateriale omfattet af stk. 3, 1. pkt., kan efter kommunalbestyrelsens bestemmelse anvendes til forskning og statistik i overensstemmelse med reglerne i lov om behandling af personoplysninger.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Valgmateriale omfattet af stk. 3, 1. pkt., der anvendes til forskning og statistik, skal tilintetgøres, når valgmaterialet ikke længere er nødvendigt til de nævnte formål.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="ide91aff47-e00f-44c9-8d34-033ae92c575a">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om valg af danske medlemmer til Europa-Parlamentet, jf. lovbekendtgørelse nr. 368 af 10. april 2014, som ændret ved § 2 i lov nr. 312 af 29. marts 2014, § 2 i lov nr. 1742 af 22. december 2015 og § 1 i lov nr. 381 af 27. april 2016, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idef180066-ccfa-4a09-9af5-5d1563bc4616">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id257a0fb6-896d-4a75-8cd0-6374844f1593">
+          <AendringDefinition id="id3ba9fbdf-ec57-4b73-a947-180585c75173">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 3, stk. 2,</Char>
+                <Char> indsættes efter »Europa-Parlamentet«: », jf. dog § 3 a«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id15d3237d-64f6-43bb-a24b-752630f7d828">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idfc50b5e0-6481-4ab5-a06a-ba55412429ed">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idda41ba49-043c-4a5f-a370-4f4517e2270f">
+          <AendringDefinition id="id407b0a61-27f6-4bbe-969a-ce69ce6bcec7">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 3 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idbb918639-9e11-4dbe-8a33-f6fc0de04cc3">
+            <AendringNyTekst>
+              <Paragraf id="id5e4bf143-44d3-4e88-a56e-640bf547a61c" localId="3a">
+                <Explicatus>§ 3 a. </Explicatus>
+                <Stk id="idb7e85756-1dc1-41ba-9839-f9c6d895731b">
+                  <Exitus>
+                    <Linea>
+                      <Char>Personer, der har dansk indfødsret og er ansat i den danske stat og beordret til tjeneste på Færøerne eller i Grønland, anses for at have fast bopæl i Danmark.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id7ad24553-734b-4483-9119-822dd8814cfb">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Følgende personer, der har dansk indfødsret, og som midlertidigt har taget ophold på Færøerne eller i Grønland, anses ligeledes for at have fast bopæl i Danmark:</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus id="id7948230a-b447-4e76-8b54-60ccdd1d6a9e">
+                    <Index>
+                      <Indentatio id="idb7dea488-aabe-47f7-889f-d8871e2d8730" formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Personer, der er udsendt for at gøre tjeneste på Færøerne eller i Grønland som ansat af en dansk offentlig myndighed eller en herværende privat virksomhed eller forening.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="idde5b5571-a7e6-41b9-9aaf-705df225fabc" formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Personer, der opholder sig på Færøerne eller i Grønland som ansat i en international organisation, hvoraf Danmark er medlem.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="id18812d32-e078-42ac-8b28-a3500b600732" formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Personer, der er udsendt for at gøre tjeneste på Færøerne eller i Grønland af en dansk hjælpeorganisation.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="idd9421794-203b-4b9f-9fbd-d58e439d9800" formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Personer, der opholder sig på Færøerne eller i Grønland i uddannelsesøjemed.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="ida17ce7c0-f604-4af4-9676-1be7053b9ec3" formaInd="Nummer">
+                        <Explicatus>5)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Personer, der opholder sig på Færøerne eller i Grønland af helbredsmæssige grunde.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="idd3cd62d3-3ae8-4424-b6e2-d46409a10ce6" formaInd="Nummer">
+                        <Explicatus>6)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Personer, der opholder sig på Færøerne eller i Grønland, og som i henseende til tilknytningen til Danmark ganske må sidestilles med de personer, der er nævnt i nr. 1-5.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk id="idd3c80653-08ee-4848-adb4-c54fc8285fce">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Personer, der har dansk indfødsret, og som opholder sig på Færøerne eller i Grønland, anses ligeledes for at have fast bopæl i Danmark, såfremt de agter at vende tilbage til Danmark inden for 2 år efter udrejsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="ida9ad4ee8-d0a6-4e2d-83c7-d24523bee71c">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En person, der har dansk indfødsret, og som samlever på fælles bopæl med en person, der er omfattet af stk. 1, 2 eller 3, anses for at have fast bopæl i Danmark, såfremt de pågældende to samlevende</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus id="id48a4bdce-d0db-46ef-8352-c15a60d344e6">
+                    <Index>
+                      <Indentatio id="id58bf35c3-75e1-4185-9b7a-98d29dedbd77" formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>har indgået ægteskab eller registreret partnerskab med hinanden eller</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="idbdbdb447-b82e-4e62-9074-1214c40b967c" formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>opfylder betingelserne for at indgå ægteskab eller registreret partnerskab med hinanden og havde etableret fælles bopæl inden udrejsen.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide5a3cd32-1504-4a95-814f-fd4076842561">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="idf2e42078-07fa-497c-a09b-48c81a67bff9">
+          <AendringDefinition id="id67362e50-ea12-426c-a0bc-7c1794d88b39">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 6, stk. 1,</Char>
+                <Char> ændres »§ 3, stk. 1« til: »§§ 3 og 3 a«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id40ac74d9-b0bf-49e0-b438-b4734d3567a9">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb6bd28a6-4adc-4c3e-8aa1-ea5e330cd568">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="idfa248f6c-0ef0-4019-98d2-435b3b473b9e">
+          <AendringDefinition id="id75b8df59-4164-4686-9436-c0fb8e36c9a3">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 14, stk. 2,</Char>
+                <Char> indsættes efter 1. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="iddd92bbbb-f4d9-4c14-b0d6-fcf1d246b92c">
+            <AendringNyTekst>
+              <Stk id="ide5f5817b-1159-41e7-9428-d6fb36586773">
+                <Exitus>
+                  <Linea>
+                    <Char>For optagelse på valglisten af vælgere, der er omfattet af § 3 a, gælder dog § 14 b.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id90c13d17-0d4c-46cb-9c3e-b5f7da6db829">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="ide35568ee-6acd-4ae8-b9a8-a6888daf88fa">
+          <AendringDefinition id="idd0dee242-4032-450a-8bd7-5446fadcd48e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 14, stk. 2, 2. pkt.,</Char>
+                <Char> der bliver 3. pkt., indsættes efter »gælder«: »uden for de i 2. pkt. nævnte tilfælde«, og »dog« udgår.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6e6c9330-6cae-4278-a014-ef42a7433c3f">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide3eeb739-946e-452d-a849-dad76aaa6189">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="idbf194f36-87dc-4773-b359-96619148b465">
+          <AendringDefinition id="idb5cfb571-e97b-44aa-9404-9348fc819357">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 14 a indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ideaa51f45-5409-4a03-ba81-a575ee5763cf">
+            <AendringNyTekst>
+              <Paragraf id="idf3f5a542-b7c7-44b7-9ef1-f65718345fed" localId="14b">
+                <Explicatus>§ 14 b. </Explicatus>
+                <Stk id="id441adef4-1002-4e16-9901-dcca24332dda">
+                  <Exitus>
+                    <Linea>
+                      <Char>Vælgere, der er omfattet af § 3 a, og som er registreret i Det Centrale Personregister (CPR) som udrejst eller med bopæl i Grønland, skal efter anmodning optages på en særlig valgliste i Københavns Kommune, hvis der er truffet afgørelse herom senest 7.-dagen før valgdagen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id995a0e85-4d81-473a-ba23-07039e76028e">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Vælgere, der har haft ophold på Færøerne henholdsvis i Grønland i mere end 4 år, kan kun optages på valglisten, såfremt Valgnævnet i hvert enkelt tilfælde anser betingelserne i § 3 a for at være opfyldt.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Hvis der i øvrigt er tvivl om, hvorvidt en vælger er omfattet af § 3 a, kan vælgeren kun optages på valglisten, såfremt Valgnævnet i hvert enkelt tilfælde anser betingelserne i § 3 a for at være opfyldt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id2273ba49-d57d-488a-8ae2-300bca6a0bc8">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Afgørelse om optagelse på valglisten af en vælger, der er omfattet af § 3 a, stk. 1 eller 2, eller § 3 a, stk. 4, jf. stk. 1 eller 2, gælder i 2 år fra afgørelsens dato.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Indgiver vælgeren inden udløbet af den i 1. pkt. nævnte periode anmodning om fornyet optagelse på valglisten, forlænges perioden, indtil der er truffet afgørelse.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Afgørelse om optagelse på valglisten af en vælger, der er omfattet af § 3 a, stk. 3, gælder i 2 år regnet fra datoen for udrejsen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Afgørelse om optagelse på valglisten af en vælger, der er omfattet af § 3 a, stk. 4, jf. stk. 3, gælder i 2 år regnet fra datoen for udrejsen for den person omfattet af § 3 a, stk. 3, vælgeren har den i § 3 a, stk. 4, nævnte tilknytning til.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idf7b2c8d6-2c2d-4aba-9943-c86dc0bc1d09">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Økonomi- og indenrigsministeren fastsætter nærmere regler om optagelse på listen og om listens udarbejdelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id07166854-ac96-49a3-832e-95b0570e16b6">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id0879933f-5feb-49ad-a7b6-0b367e43a319">
+          <AendringDefinition id="idbad7d5af-1c34-443c-9e54-27017d8532e1">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 25, stk. 4,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 26, stk. 5,</Char>
+                <Char> ændres »hjælp« til: »personlig bistand«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9b65288b-28e2-4b5c-b02b-fca77f843209">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idca58f6b1-675b-4aea-b61d-396db99d5046">
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om kommunale og regionale valg, jf. lovbekendtgørelse nr. 363 af 2. april 2014, som ændret ved § 3 i lov nr. 1742 af 22. december 2015 og § 2 i lov nr. 381 af 27. april 2016, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id47023639-f934-4708-9dab-781d366257a9">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id04f5ed06-e566-4af4-bb63-67f60267aa25">
+          <AendringDefinition id="id8394ea52-2019-4913-9e05-51bfaf14d149">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 55, stk. 1,</Char>
+                <Char> indsættes efter 1. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfd323511-e9b1-4636-a493-cc261c2f470b">
+            <AendringNyTekst>
+              <Stk id="id6b87b7e2-cd4c-4fe6-8432-5cd5516a031b">
+                <Exitus>
+                  <Linea>
+                    <Char>Hjælp til stemmeafgivningen kan ydes ved personlig bistand, jf. stk. 2, og ved brug af eventuelle hjælpemidler, der skal stilles til rådighed ved stemmeafgivningen, jf. stk. 5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida6f7edc2-ffd8-400e-9538-a630fac1a200">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id90ae4218-6099-49de-a21c-c96f7e24064b">
+          <AendringDefinition id="iddf074c6e-9542-42c8-adcf-49fb4e867259">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 55, stk. 2, 1. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 4,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 67, stk. 6,</Char>
+                <Char> ændres »Hjælp« til: »Personlig bistand«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida423bee7-f722-42bd-8470-fb23212b4da8">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide7eb390d-ac9f-4f70-b04f-0110ed055f78">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id11641592-fb5f-4abf-877d-3839a7d8204d">
+          <AendringDefinition id="id368ae8ec-2309-477e-bc0b-7e29e16ddd31">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 55, stk. 2, 2. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3 </Char>
+                <Char>og</Char>
+                <Char signiChar="AendringURN" formaChar="Italic"> 4,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 67, stk. 4, 2.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3. pkt.,</Char>
+                <Char> der bliver 3. og 5. pkt., og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 5</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">6,</Char>
+                <Char> ændres »hjælp« til: »personlig bistand«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id811c2646-8aa3-4633-8b49-18cb78e97cd2">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id574456c8-e152-4008-8f77-d32bbd3a90d3">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id2ae85425-05bc-4069-a1a4-54779523e35c">
+          <AendringDefinition id="id2b3c8be9-9252-42fe-ada5-c093678aa87f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 55, stk. 2,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd6f91758-4a69-40fc-9c8a-1132adb2e1f4">
+            <AendringNyTekst>
+              <Stk id="id26f04b7c-7005-4d8f-9892-6298f968a813">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilkendegiver vælgeren over for en valgstyrer eller tilforordnet vælger udtrykkeligt og utvetydigt et ønske herom, og er vælgerens ønske begrundet i en umiddelbart konstaterbar eller dokumenterbar fysisk eller psykisk funktionsnedsættelse, kan den personlige bistand ydes alene af en person, der er udpeget af vælgeren selv.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id812f09b1-b097-4e00-ac13-18f472fa9677">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id5b821842-4fc4-4721-b922-afaf68187957">
+          <AendringDefinition id="idd8d4cc6c-d292-434f-8211-e950d6b3eb97">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 55, stk. 4,</Char>
+                <Char> indsættes efter »umiddelbart over for«: »den eller«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idcc0c4e23-40ba-4317-bbac-0e10cc2f7fbc">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9df5d195-ed98-4c73-b316-f49e2843656f">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id6b9399bb-31c8-4bfd-b4ca-f96071b19289">
+          <AendringDefinition id="id03efc033-b2b1-4b69-9626-97a5051fe68e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 55</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 5:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id253b533c-3117-4f55-b64f-11126c277438">
+            <AendringNyTekst>
+              <Stk id="id9e7a2253-c5fc-4241-a8f5-a5e00278a58e">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Økonomi- og indenrigsministeren kan fastsætte regler om hjælpemidler, der skal stilles til rådighed ved stemmeafgivningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1ed4f219-3b9b-4533-b115-295f7758a3ec">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id3e5977b7-8846-4323-9818-e47ecdbecb04">
+          <AendringDefinition id="id23de51ec-7be0-4b1c-a7af-81f9ab2f07ca">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 57, stk. 1, 1. pkt.,</Char>
+                <Char> indsættes efter »De«: »personer«, og efter »forestår« indsættes: »eller yder personlig bistand til«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc70af435-9b39-4f81-9352-58dacf048408">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idce137208-7016-468a-baa4-cff7b841023f">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id72ffdb47-8778-42df-a78d-3bb4ed0b3a7c">
+          <AendringDefinition id="id469a1344-9f02-4890-92d2-0abef0edefdd">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 57, stk. 1, 2. pkt.,</Char>
+                <Char> ændres »De« til: »De personer, der forestår afstemningen,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7e2dc9bd-997c-42bf-8179-79ddfe2b73dc">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id538b204e-d18e-496d-adb7-feb8fb9340f6">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="id25dcf472-7033-47d3-935d-8795207f34ab">
+          <AendringDefinition id="id2e96ba3e-4f23-4df1-b77a-6089e50c5c90">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 60, stk. 4, 3. pkt.,</Char>
+                <Char> ændres »lørdagen« til: »fredagen«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idca4f4891-2197-4b95-8b21-85aa85417430">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1aff6359-5d86-4f07-814d-319b6b842906">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="idcfaf5880-88d9-470c-82a4-d8e7a462dfe8">
+          <AendringDefinition id="idc5266ab9-7060-4877-94bc-b652742ad6ee">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 67, stk. 4, </Char>
+                <Char>indsættes efter 1. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0093578c-5cb1-494a-9e66-be0813b9e51e">
+            <AendringNyTekst>
+              <Stk id="id082ff081-135d-4ac1-b995-69dd3607e96e">
+                <Exitus>
+                  <Linea>
+                    <Char>Hjælp til stemmeafgivningen kan ydes ved personlig bistand og ved brug af eventuelle hjælpemidler, der skal stilles til rådighed ved brevstemmeafgivningen, jf. § 69, 2. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id79a7d48d-49b6-4c78-ba87-6f3b8b2a8079">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="idbcf11bb1-e518-4352-8657-aee8cc3d9fb2">
+          <AendringDefinition id="id9f086924-c14f-4a14-96a2-d73bbb3576b0">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 67, stk. 4, </Char>
+                <Char>indsættes efter 2. pkt., der bliver 3. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id632501e6-44c0-42f4-871d-ab7e9fb1c6dc">
+            <AendringNyTekst>
+              <Stk id="id31adac5f-7c69-4643-aeb8-d8545a8056c8">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilkendegiver vælgeren over for stemmemodtageren udtrykkeligt og utvetydigt et ønske herom, og er vælgerens ønske begrundet i en umiddelbart konstaterbar eller dokumenterbar fysisk eller psykisk funktionsnedsættelse, kan den personlige bistand ydes alene af en person, der er udpeget af vælgeren selv.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc9d797bf-e7a0-427d-967d-59b78c2f69c1">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="ida2ef0620-c76f-41ff-97c4-81302145e583">
+          <AendringDefinition id="id67719b49-e510-4bd1-af13-13feefb1f601">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 67, stk. 6,</Char>
+                <Char> indsættes efter »umiddelbart over for den«: »eller dem«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id952aecb5-2ebc-4a7b-9330-bf6d5da637e2">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2d217d68-4350-4067-a3ce-f4b9737153af">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="id6db0369c-600c-441b-8d18-823f4e468d74">
+          <AendringDefinition id="id21b39876-2fcf-4ccd-a670-22df142914ab">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 68, stk. 1, 1. pkt.,</Char>
+                <Char> indsættes efter »Stemmemodtagere«: »og personer, der yder personlig bistand til stemmeafgivningen,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfbbf41c0-29ca-4fcd-8753-0bc6fc78b58e">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id479e14a1-792e-45fe-b75b-07c24283668f">
+        <Explicatus>14.</Explicatus>
+        <Aendring id="idfd6f7c11-bfd6-4122-b7e2-5f2efa84c293">
+          <AendringDefinition id="id81e56fb7-7385-4447-9f5c-713bbeb659ba">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 68, stk. 1, 2. pkt.,</Char>
+                <Char> ændres »De« til: »Stemmemodtagere«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id86a8f5df-ab8c-4e92-b188-e4b374ec614a">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida1e90eb7-eb1c-4413-a882-2e2173df1ed7">
+        <Explicatus>15.</Explicatus>
+        <Aendring id="id9dd9ac17-c653-453f-8df4-33288b50c2cb">
+          <AendringDefinition id="id2aa10438-6a85-4a2e-90ad-003555bf2636">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 69</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2c1c8252-7bd8-4856-b971-42347b97affb">
+            <AendringNyTekst>
+              <Stk id="id1cf0e05b-9c9b-4ec6-ab5e-563b57a936b1">
+                <Exitus>
+                  <Linea>
+                    <Char>Økonomi- og indenrigsministeren kan fastsætte regler om hjælpemidler, der skal stilles til rådighed ved brevstemmeafgivningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id06a2c303-f15d-4764-adce-26e1c4d02912">
+        <Explicatus>16.</Explicatus>
+        <Aendring id="idd06e1e72-1247-4edc-abaa-20a12d395655">
+          <AendringDefinition id="id80c497c4-b529-46d8-a4d2-c9cc21012181">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 106, stk. 3, 1. pkt.,</Char>
+                <Char> indsættes efter »endeligt afgjort«: », jf. dog stk. 4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id07b8af0b-903f-49ab-839a-952c827edfab">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id444baeeb-ec6c-419a-8c86-383cacebe580">
+        <Explicatus>17.</Explicatus>
+        <Aendring id="id458c1291-1681-44e1-9cc8-a1f1f040860e">
+          <AendringDefinition id="id1e296289-ece9-4683-9bfe-736d8da660bd">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 106</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 4:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0b7b9f85-18cd-4762-94fe-d950ffb18fd7">
+            <AendringNyTekst>
+              <Stk id="id03445855-4a56-4e8e-8e39-0c67f94f1e8e">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Valgmateriale omfattet af stk. 3, 1. pkt., kan efter kommunalbestyrelsens henholdsvis regionsrådets bestemmelse anvendes til forskning og statistik i overensstemmelse med reglerne i lov om behandling af personoplysninger.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Valgmateriale omfattet af stk. 3, 1. pkt., der anvendes til forskning og statistik, skal tilintetgøres, når valgmaterialet ikke længere er nødvendigt til de nævnte formål.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id88eb7c80-ee22-4d9c-a8b3-93cebf01b171">
+      <Explicatus>§ 4</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 1520 af 27. december 2014 om offentlige veje m.v., som ændret ved § 2 i lov nr. 1895 af 29. december 2015 og § 1 i lov nr. 658 af 8. juni 2016, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="iddb10ca46-4f01-419c-bfcb-96a7e2d85071">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id7d469dfb-98be-4d3e-a8dd-b13ec79380dc">
+          <AendringDefinition id="idd2953feb-bb78-4a03-a901-eda520e99567">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 84, stk. 1, 1. pkt.,</Char>
+                <Char> indsættes efter »I perioden fra«: »kl.</Char>
+              </Linea>
+              <Linea>
+                <Char>12.00«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id87800143-bb22-4771-98ee-16449d4c6973">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id18035887-901f-4fe8-a453-47786d6b43ef">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id781c0ab7-db61-4e3a-85e2-0cc7c2666f38">
+          <AendringDefinition id="ida64d9da0-c4b3-49e1-ae15-347d3c30af1e">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 84, stk. 1, 2. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf3f8e474-8f36-499c-ac87-4b09cca6a109">
+            <AendringNyTekst>
+              <Stk id="id423153e6-a58d-44ea-a05e-c304e719affc">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved folketingsvalg må ophængning af valgplakater dog først ske, når valget er udskrevet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2de336b0-e170-4ec3-96e3-853dd05f62d4">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="idb963c087-c627-47ee-9aaa-803b4b35729c">
+          <AendringDefinition id="id0c7d6971-e13d-48ef-96fd-abaa59579b5c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 85, stk. 1, 1</Char>
+                <Char>. og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.,</Char>
+                <Char> indsættes efter »adresse«: », e-mailadresse«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc9fbc4f0-800b-4b16-80bc-a00a04876da6">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id635fa1ce-1b3b-4c16-84c8-3b4e90b57078">
+      <Explicatus>§ 5</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om private fællesveje, jf. lovbekendtgørelse nr. 1234 af 4. november 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idd690d1d3-0317-4315-9240-fae1143492d0">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id53e05365-6dd0-4562-bb04-c74574781fa4">
+          <AendringDefinition id="id7d612300-e1bc-405b-82e9-b8c92ac05e05">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 66 a, stk. 1, 1. pkt.,</Char>
+                <Char> indsættes efter »I perioden fra«: »kl.</Char>
+              </Linea>
+              <Linea>
+                <Char>12.00«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="iddc4b85bb-af5e-4f54-9171-c88f03d0c9a4">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id034f7f2d-ab9f-4d5a-a770-34cdecd69c77">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id76adfb3c-b831-4da0-b9c3-e27ccb671d95">
+          <AendringDefinition id="id0140aec9-8ba4-4eaa-ac25-001a024ca9cc">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 66 a, stk. 1, 2. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4181b702-2e6f-434a-8782-ebeed7de6709">
+            <AendringNyTekst>
+              <Stk id="id401024f9-c712-4ac1-83ae-01bc622a7dd4">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved folketingsvalg må ophængning af valgplakater dog først ske, når valget er udskrevet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7351744e-b9c3-4010-b2ed-7acd65c0dac5">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="ida43e5e8b-c214-4beb-a5ea-84f01f42fe8b">
+          <AendringDefinition id="idf1fb95dc-0640-450f-b15a-6c009be3891f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 66 b, stk. 1, 1.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.,</Char>
+                <Char> indsættes efter »adresse«: », e-mailadresse«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id63a4a1ce-05cf-4478-9713-b5143205206e">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id755f2170-50f2-4765-a3d9-fb076284f223">
+      <Explicatus>§ 6 </Explicatus>
+      <Stk id="id161b398a-4e00-4014-9cdc-8de3647f58db">
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. juli 2017.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="id06c0f37f-b229-4485-9b8f-2f9304ed9851">
+      <Explicatus>§ 7</Explicatus>
+      <Stk id="idc787c557-43b2-4cf0-a8cd-647c945f5592">
+        <Exitus>
+          <Linea>
+            <Char>§§ 4 og 5 gælder ikke for Færøerne og Grønland.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id649996e3-3a2e-43d7-947f-747b5bb1ca34">
+    <UnderskriftStedDato id="id2ed18303-7844-4814-9fa7-624654174510" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="idfd3df88a-39d6-4c0c-802c-57bf57af737e" />
+  </UnderskriftGruppe>
+</Dokument>

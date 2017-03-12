@@ -1,0 +1,922 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id9504cc94-5986-41b5-9b67-86415b88d0b1" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2016/09/26/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id77a863af-74e7-4f06-bda4-f225c5c3e379">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20170023129</AccessionNumber>
+    <DocumentId>AA010017</DocumentId>
+    <UniqueDocumentId>186190</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om Politiets Efterretningstjeneste (PET)</DocumentTitle>
+    <Year>2017</Year>
+    <DiesSigni>2017-03-07</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-03-10</EndDate>
+    <Status>Valid</Status>
+    <Number>231</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 231 af 07/03/2017</DokumentKortNavn>
+    <PopularTitle>PET-loven</PopularTitle>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Søren Pape Poulsen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Thomas Klyver</Signature>
+    <PlaceOfSignature>Justitsministeriet</PlaceOfSignature>
+    <JournalNumber>Justitsmin., j.nr. 2017-1924-0600</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id2dcb04ce-ce9b-4357-8f97-1a80a1bbf384">
+    <Titel id="id213659e5-b334-4021-8bf4-cce8ddddfa4d">
+      <Linea>
+        <Char>Bekendtgørelse af lov om Politiets Efterretningstjeneste (PET)</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id1dbd8cd1-1c8b-45b4-8936-e7e10ecf7957">
+    <Indledning id="idf4fa42ba-bf69-4bca-b560-f44a81435e54">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om Politiets Efterretningstjeneste (PET), jf. lovbekendtgørelse nr. 1600 af 19. december 2014, med de ændringer, der følger af § 1 i lov nr. 1881 af 29. december 2015 og lov nr. 1727 af 27. december 2016.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="id5ee7e25e-96ff-4a6f-89a8-707060c2406e">
+      <Afsnit id="id86ce9468-a1de-4f31-988e-93a625b6c6c6" localId="1">
+        <Kapitel id="id6827abbf-e011-4397-8389-2b69fe6cd550" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="id552d3942-becb-4396-891c-f4634bf8bc05">
+            <Linea>
+              <Char>Opgaver</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id35006baa-3045-4f7e-9f30-95f92ffb5b3d" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="id797f7853-d27f-4796-8aa5-e08156d6ad1d">
+                <Exitus>
+                  <Linea>
+                    <Char>Politiets Efterretningstjeneste har til opgave at</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id1606c3f7-589e-4da5-b74b-d10ec9522f3d">
+                  <Index>
+                    <Indentatio id="id4badf287-8f97-4310-a73f-c0b01cd49481" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>forebygge, efterforske og modvirke forbrydelser mod statens selvstændighed og sikkerhed samt forbrydelser mod statsforfatningen og de øverste statsmyndigheder m.v., jf. straffelovens kapitel 12 og 13,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide8cc7f8d-29ab-4b6a-9a10-ece13c7bbae5" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>udarbejde trusselsvurderinger,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida7a29da0-df6e-4f3a-8c04-cc47afc6fd29" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>bistå det øvrige politi,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idfdc9d3b6-054b-44c3-a2d1-08c825c21953" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>holde justitsministeren underrettet om forhold af betydning for landets indre sikkerhed, om forhold af væsentlig betydning inden for efterretningstjenestens virksomhed og om vigtige enkeltsager,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id431fcd33-424f-4c73-b063-599a069caeba" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>være national sikkerhedsmyndighed og rådgive og bistå offentlige myndigheder og private i sikkerhedsspørgsmål, herunder at bistå ved personsikkerhedsundersøgelser,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idfc314830-8445-4768-932d-307652021569" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>beskytte personer, organisationer og myndigheder og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida1fb1ba9-e4b2-4701-9c12-79c1bfedd527" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>udføre øvrige opgaver, som efter gældende ret er henlagt til tjenesten.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id79efd796-c108-4294-a3a5-a956cd76bafd">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Justitsministeren kan bestemme, at andre opgaver, der har sammenhæng med de i stk. 1, nr. 1-7, nævnte, henlægges til Politiets Efterretningstjeneste.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id1778b986-9b85-4774-9a65-79ecc6d8f800" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="idf5c7abef-bb5a-4f31-8fa4-7d3826ad5b85">
+                <Exitus>
+                  <Linea>
+                    <Char>Politiets Efterretningstjeneste afgiver en årlig redegørelse om sin virksomhed til justitsministeren.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Redegørelsen offentliggøres.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id05fb6438-253e-4691-b649-7ebac5e8bc31" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="idc92e7a95-0f02-43ea-8bcf-ce63c9882906">
+            <Linea>
+              <Char>Tilvejebringelse af oplysninger</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id1add9319-d891-40bd-9ed7-980c100f3aa9" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id8d8b4955-477c-415b-b43b-7e41e4420e04">
+                <Exitus>
+                  <Linea>
+                    <Char>Politiets Efterretningstjeneste kan indsamle og indhente oplysninger, der kan have betydning for tjenestens virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id7b6da5fd-0027-4399-8605-776ba2cfe5bc" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id63c77df4-81a6-4b56-b31f-9f478562862a">
+                <Exitus>
+                  <Linea>
+                    <Char>Andre forvaltningsmyndigheder skal efter anmodning fra Politiets Efterretningstjeneste videregive oplysninger til tjenesten, hvis tjenesten vurderer, at oplysningerne må antages at have betydning for varetagelsen af tjenestens opgaver vedrørende forebyggelse og efterforskning af overtrædelser af straffelovens kapitel 12 og 13.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id876e6645-f69e-4353-a761-9000ccb3dffd">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Told- og skatteforvaltningen skal videregive oplysninger om passagerer og besætning på luftfartøjer til Politiets Efterretningstjeneste, hvis tjenesten vurderer, at oplysningerne kan have betydning for varetagelse af tjenestens opgaver vedrørende forebyggelse og efterforskning af overtrædelser af straffelovens kapitel 12 og 13.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="iddf9bd884-73e7-460e-86c1-17b10ffff2d6">
+                <Explicatus>Stk. 3. </Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Justitsministeren kan efter forhandling med skatteministeren fastsætte regler om, hvordan oplysninger efter stk. 2 skal stilles til rådighed for Politiets Efterretningstjeneste.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id381071ad-b0cc-4c13-a208-a407327f6f1a" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="ida0d45362-54e5-4adf-8e88-740e0cee2880">
+            <Linea>
+              <Char>Undersøgelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id6b65f79b-29b6-4251-ad20-7e6b9bcec678" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="idc5f765a4-3d67-4f3e-b579-96e6470a143e">
+                <Exitus>
+                  <Linea>
+                    <Char>Politiets Efterretningstjeneste kan indlede undersø‌ge‌lser mod fysiske og juridiske personer, hvis undersøg‍elserne må antages at have betydning for varetagelsen af tjenestens opgaver vedrørende forebyggelse og efterforskning af overtrædelser af straffelovens kapitel 12 og 13 eller er nødvendige til varetagelsen af tjenestens øvrige opgaver.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idb4c4f22f-d38c-40f9-9e4e-2750fdf31bb8" localId="4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="id5795e4c2-c99f-4e17-a288-427b990eaeea">
+            <Linea>
+              <Char>Efterforskning og tvangsindgreb</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id1f7e938b-c72f-4784-bc6c-5e3e0f1cde5e" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id1630d851-6cdf-437c-9223-914db8c58d87">
+                <Exitus>
+                  <Linea>
+                    <Char>For Politiets Efterretningstjenestes efterforskning og tvangsindgreb m.v. gælder reglerne i retsplejeloven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idccc38eec-eeb3-4619-96f1-991fa13f5405" localId="5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica id="id614adecb-2227-43bd-adbb-dd5767d8b476">
+            <Linea>
+              <Char>Intern behandling af oplysninger</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id14a7e4bd-ccbf-4448-a2c1-38bbbacd6f99" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="id41143cbb-843f-4a97-a28a-8e676351ceae">
+                <Exitus>
+                  <Linea>
+                    <Char>For behandling af personoplysninger finder § 3, § 5, § 11, stk. 1, og §§ 14, 41 og 42 i lov om behandling af personoplysninger anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8e684f12-d670-4fd2-857f-701583ddac3e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Politiets Efterretningstjeneste kan behandle enhver personoplysning, hvis behandlingen</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id2b6f8b16-4b44-4eec-8011-60f76bca1bca">
+                  <Index>
+                    <Indentatio id="id7ceb3ba1-9220-40a7-a293-45e1eefd5e79" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>sker med samtykke,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id86f6163d-864b-4e32-9e54-237c7f8a7f56" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>må antages at have betydning for varetagelsen af tjenestens opgaver vedrørende forebyggelse og efterforskning af overtrædelser af straffelovens kapitel 12 og 13 eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id44b37560-ab8e-43b2-ae3a-cecbe8f920d0" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>er nødvendig for varetagelsen af tjenestens øvrige opgaver.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="ida35646f5-88c4-49aa-9194-b425a54b0c7b">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Justitsministeren kan fastsætte nærmere regler om Politiets Efterretningstjenestes behandling af personoplysninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id91875756-7f0f-4391-b940-3cef8e4c5f3f" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="idd158e9f1-b592-4c9d-85cb-cefad3f27101">
+                <Exitus>
+                  <Linea>
+                    <Char>For behandling af oplysninger om juridiske personer finder §§ 3, 5, 14, 41 og 42 i lov om behandling af perso‍no‍plysninger tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0d0eb256-a247-4c5e-9e7e-a81044eeecc5">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Politiets Efterretningstjeneste kan behandle enhver oplysning om juridiske personer, hvis behandlingen</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id78c33312-efd3-4aee-80df-df744becadca">
+                  <Index>
+                    <Indentatio id="id162f8c7f-0a2a-4602-8270-343cfe45f169" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>sker med samtykke,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id038dacb8-761d-41b5-8d81-1813fbd0ce21" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>må antages at have betydning for varetagelsen af tjenestens opgaver vedrørende forebyggelse og efterforskning af overtrædelser af straffelovens kapitel 12 og 13 eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id89fd592d-c843-4c9f-863e-bece20d3ab41" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>er nødvendig for varetagelsen af tjenestens øvrige opgaver.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idc267750f-9fa2-4dc8-a22f-95c427e22013">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Justitsministeren kan fastsætte nærmere regler om Politiets Efterretningstjenestes behandling af oplysninger om juridiske personer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id80cb0465-4541-4f53-918e-7ce22a197f5c" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="idbd675cdc-f8e3-4bb8-a61b-fa278af33408">
+                <Exitus>
+                  <Linea>
+                    <Char>Politiets Efterretningstjeneste skal, medmindre andet følger af lov eller bestemmelser fastsat i medfør af lov, slette oplysninger om fysiske og juridiske personer, der er tilve‌jebragt som led i undersøgelser eller efterforskning rettet mod sådanne personer, når der ikke i forbindelse med undersøgelsen eller efterforskningen er tilve‌jebragt nye oplysninger inden for de seneste 15 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id35c63962-2b54-429e-8d55-f9db4c9fa693">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sletning af oplysninger efter stk. 1 kan undlades, hvis væsentlige hensyn til varetagelsen af Politiets Efterretningstjenestes opgaver, jf. § 1, gør det nødvendigt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id337d9d6a-bb53-4340-9706-27231074709e" localId="9a">
+              <Explicatus>§ 9 a.</Explicatus>
+              <Stk id="id86f39475-8756-4836-91c9-f7e977b6503d">
+                <Exitus>
+                  <Linea>
+                    <Char>Bliver Politiets Efterretningstjeneste i forbindelse med sine aktiviteter opmærksom på, at sager eller dokumenter m.v. ikke længere opfylder betingelserne i § 7, stk. 2, og § 8, stk. 2, skal disse slettes, uanset om slettefristen i § 9 eller frister fastsat i medfør af § 7, stk. 3, eller § 8, stk. 3, er udløbet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Politiets Efterretningstjeneste er ikke i øvrigt forpligtet til løbende af egen drift at gennemgå tjenestens sager og dokumenter m.v. med henblik på at vurdere, om betingelserne i § 7, stk. 2, og § 8, stk. 2, fortsat er opfyldt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id13d4490d-8fb1-46ef-b116-a449d3cba158">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Politiets Efterretningstjeneste er uanset bestemmelserne i §§ 7-9 ikke forpligtet til at slette oplysninger, der ikke opfylder betingelserne i § 7, stk. 2, og § 8, stk. 2, hvis oplysningerne indgår i dokumenter m.v., som i øvrigt opfylder betingelserne i § 7, stk. 2, og § 8, stk. 2, jf. dog stk. 3 og § 13, stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida4aed9b4-fe28-4fca-a4d9-ac6c9dec4bdd">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Justitsministeren kan fastsætte regler om, at Politiets Efterretningstjeneste i nærmere fastsatte tilfælde skal slette oplysninger i videre omfang, end hvad der følger af lovens bestemmelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id33106cc9-ff1d-46f7-a68b-b3b3cf9d1ba2" localId="6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica id="id1184e5fb-d958-4088-8a53-9d88bacea74d">
+            <Linea>
+              <Char>Videregivelse af oplysninger</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id3e14d730-13e3-4ea2-ba1d-4871f866c566" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="idc21a208a-04e5-441b-b3df-aa466626069a">
+                <Exitus>
+                  <Linea>
+                    <Char>Politiets Efterretningstjeneste kan videregive oplysninger til Forsvarets Efterretningstjeneste, hvis videregivelsen kan have betydning for varetagelsen af tjenesternes opgaver.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id261863f1-1816-4a8d-bc08-5e12fa7cd373">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For videregivelse af personoplysninger til andre danske forvaltningsmyndigheder, private, udenlandske myndigheder og internationale organisationer finder § 7 anvendelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Herudover finder § 8, stk. 2, i lov om behandling af personoplysninger anvendelse, hvis den i 1. pkt. nævnte videregivelse vedrører personoplysninger som nævnt i § 7, stk. 1, og § 8, stk. 1, i lov om behandling af personoplysninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbe05509c-5f38-4d82-aa13-24a784b70f7d">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For videregivelse af oplysninger om juridiske personer til andre danske forvaltningsmyndigheder, private, udenlandske myndigheder og internationale organisationer finder § 8 anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idcfadcbed-b39b-4bf0-a35d-c1a2b7ee2b00">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Videregivelse af oplysninger som nævnt i stk. 2 og 3 kan kun ske, hvis videregivelsen efter en konkret vurdering må anses for forsvarlig.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id78f75e4c-568b-4a82-9fb8-6fc494ba6db9" localId="7">
+          <Explicatus>Kapitel 7</Explicatus>
+          <Rubrica id="id9f21e412-ac0c-4c30-9492-28613c7e40c0">
+            <Linea>
+              <Char>Lovlig politisk virksomhed</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idaa417b60-fc4d-4267-b317-f16f16b8b685" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="id75612a78-0508-4593-81b7-29e7d5e74a66">
+                <Exitus>
+                  <Linea>
+                    <Char>Lovlig politisk virksomhed, der udøves af en her i landet hjemmehørende fysisk person, kan ikke i sig selv begrunde, at Politiets Efterretningstjeneste behandler oplysninger om den pågældende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id973b704b-c788-4633-85fb-1292231195dc">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelsen i stk. 1 afskærer ikke Politiets Efterretningstjeneste fra at behandle oplysninger om en persons politiske virksomhed med henblik på at afklare, om virksomheden er lovlig.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id32959c90-f8b0-4f08-90be-1496a3b12560">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelsen i stk. 1 afskærer ikke Politiets Efterretningstjeneste fra ved behandlingen af oplysninger om politiske foreninger og organisationer at medtage oplysninger om, hvem der udgør ledelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idbd06f47e-abfe-4ac2-9f34-87f25f0a0eb9" localId="8">
+          <Explicatus>Kapitel 8</Explicatus>
+          <Rubrica id="id3cbafead-4659-4d8b-8570-79c8f1ac361d">
+            <Linea>
+              <Char>Regler om indsigt m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="ida5e09458-ce46-4de3-bd6a-0d9a341585b9" localId="12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="id31226c6d-e71d-415b-b2db-d12ac591bae4">
+                <Exitus>
+                  <Linea>
+                    <Char>En fysisk eller juridisk person har ikke ret til indsigt i oplysninger, som Politiets Efterretningstjeneste behandler om vedkommende, eller ret til indsigt i, hvorvidt tjenesten behandler oplysninger om vedkommende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3dc5560e-f2e1-401a-9c68-ceb9643d419d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis særlige forhold taler for det, kan Politiets Efterretningstjeneste give hel eller delvis indsigt i oplysninger som nævnt i stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id37b008d9-d21e-4ed0-b3e2-241488f503d5" localId="13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="idfcb9370d-fd5f-4608-a6c6-4637e20c41ca">
+                <Exitus>
+                  <Linea>
+                    <Char>En fysisk eller juridisk person kan anmode Tilsynet med Efterretningstjenesterne, jf. § 16, stk. 1, om at undersøge, hvorvidt tjenesten uberettiget behandler oplysninger om den pågældende.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilsynet sikrer, at dette ikke er tilfældet, og giver herefter den pågældende meddelelse herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idff0ad85e-bb8f-443c-bd41-ee2dc2edbc20">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Konstateres det i forbindelse med en undersøgelse efter stk. 1, at Politiets Efterretningstjeneste behandler oplysninger, som ikke længere opfylder betingelserne i § 7, stk. 2, og § 8, stk. 2, skal disse oplysninger slettes uanset § 9 a, stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1614d062-805a-4365-bac5-04cfac7a20b5">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis særlige forhold taler herfor, kan Tilsynet med Efterretningstjenesterne pålægge tjenesten at give hel eller delvis indsigt i oplysninger som nævnt i § 12, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8de20c36-bb07-4e06-8292-2ec68154a1a9">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En person, der har fået meddelelse efter stk. 1, har ikke krav på en ny meddelelse før 6 måneder efter sidste meddelelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd7b66eb1-e7ca-4a9f-a496-9904eaa6f5de" localId="14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="idc2fc3038-5c2f-4a48-a86b-93b6dfe5ffab">
+                <Exitus>
+                  <Linea>
+                    <Char>Politiets Efterretningstjenestes virksomhed er undtaget fra lov om offentlighed i forvaltningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dog gælder § 13 i lov om offentlighed i forvaltningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Herudover finder lov om offentlighed i forvaltningen med undtagelse af § 8 anvendelse for Politiets Efterretningstjenestes sager om administrative forhold.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Politiets Efterretningstjenestes virksomhed er endvidere undtaget fra forvaltningslovens kapitel 4-6 og fra lov om behandling af personoplysninger, jf. § 2, stk. 11, i lov om behandling af personoplysninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb84ad490-cfc4-4633-9b12-311de3091b06">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Justitsministeren kan bestemme, at kapitel 8-10 i lov om behandling af personoplysninger og forvaltningslovens kapitel 4-6 helt eller delvis finder anvendelse for behandling af personoplysninger for Politiets Efterretningstjeneste vedrørende tjenestens egne personalesager og sikkerhedsgodkendelsessager.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idbf775c07-f1db-4a07-a87c-49f38e8d5a8c" localId="15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="id40e6e659-584a-4d99-885a-2d4122472f85">
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelser i lovgivningen m.v. om pligt til at meddele oplysninger gælder ikke for oplysninger om vederlag, der ydes af midler undergivet den særlige revisionsprocedure for Politiets Efterretningstjeneste.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sådanne vederlag medregnes ikke i den skattepligtige indkomst eller i grundlaget for beregning af sociale ydelser m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="ided172314-734d-46f6-a886-fe6b44a02911" localId="9">
+          <Explicatus>Kapitel 9</Explicatus>
+          <Rubrica id="id6b33a2e6-3a6f-4fd9-a52c-241b2087dd5e">
+            <Linea>
+              <Char>Tilsynet med Efterretningstjenesterne</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idfad13286-ffce-437e-aa17-c4cd16b741b6" localId="16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="id60748440-6f88-4b73-8c91-63adb1d64a83">
+                <Exitus>
+                  <Linea>
+                    <Char>Der oprettes et tilsyn med efterretningstjenesterne bestående af 5 medlemmer, som udpeges af justitsministeren efter forhandling med forsvarsministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id23022936-723e-4ae5-91b8-3bdb4bcf8ab2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Formanden, der skal være landsdommer, udpeges efter indstilling fra præsidenterne for Østre Landsret og Vestre Landsret.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Medlemmerne beskikkes for 4 år.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Et medlem har ret til genbeskikkelse for yderligere 4 år.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Herudover kan genbeskikkelse ikke finde sted.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id933384d8-defa-4828-b566-5af4bf68c905">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Justitsministeren kan ikke tilbagekalde et medlems beskikkelse, medmindre medlemmet selv anmoder derom eller forudsætningerne for medlemmets beskikkelse bortfalder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id410ea53c-cd22-4cfa-b678-4ba2daf8580e">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsynet antager og sikkerhedsgodkender den fornødne sekretariatsbistand.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida242254e-fcc2-4e09-8111-9124ebfef62f">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsynet fastsætter selv sin forretningsorden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id7068546f-0c99-47d1-a488-12832b2c5099" localId="17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="idfc9d1d63-2ed3-460a-bff9-81da72f2430a">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsynet udøver sine funktioner i fuld uafhængighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="iddefb007d-c77f-41e5-9543-993058c0460c" localId="18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="ida164053f-a6a0-4260-b057-700b0f8b1863">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsynet påser efter klage eller af egen drift, at Politiets Efterretningstjeneste overholder reglerne i §§ 3, 4 og 7-11 og regler udstedt i medfør heraf.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilsynet varetager endvidere de opgaver, der er nævnt i § 13.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id88f7bcf3-d427-42db-8ab1-34d982ac0e4a" localId="19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="idaa9a07f3-4afc-4e0a-8ec0-916aa8116515">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsynet kan som led i sin virksomhed efter § 18 afgive udtalelse over for Politiets Efterretningstjeneste.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idae18dd99-766d-4ffe-80b1-b9836ad4cb7c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsynet underretter justitsministeren om forhold, som ministeren efter tilsynets opfattelse bør have kendskab til.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id13e1b7a8-06f0-4217-ad7f-5f22ed7247a7">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis Politiets Efterretningstjeneste undtagelsesvis beslutter ikke at følge en henstilling i en udtalelse fra tilsynet, jf. stk. 1, skal tjenesten underrette tilsynet herom og uden unødigt ophold forelægge sagen for justitsministeren til afgørelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida1da9180-7309-4e39-b816-133b5c63a13a" localId="20">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="idb2067106-ee4c-4045-be29-0081aa8fb37f">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsynet kan hos Politiets Efterretningstjeneste kræve enhver oplysning og alt materiale, der er af betydning for dets virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide4bc3790-9051-477f-8fca-3954cceee1c3">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsynets medlemmer og sekretariat har til enhver tid mod behørig legitimation uden retskendelse adgang til alle lokaler, hvorfra en behandling, som foretages for Politiets Efterretningstjeneste, administreres, hvorfra der er adgang til de oplysninger, som behandles, eller hvor tekniske hjælpemidler opbevares eller anvendes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id27e7b658-8fac-4721-be3c-f33034d71a94">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsynet kan afkræve Politiets Efterretningstjeneste skriftlige udtalelser om faktiske og retlige forhold.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida335eac4-a0ce-4c9c-b243-2fd77f2e287f">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsynet kan anmode om, at en repræsentant for Politiets Efterretningstjeneste er til stede med henblik på at redegøre for de behandlede sager.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id94eb9597-1fc1-49f3-b5e5-16162f3e8cb3" localId="21">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="ida4bd1b62-13ea-4bd9-a705-2f278746f536">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsynets virksomhed er undtaget fra lov om offentlighed i forvaltningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dog gælder § 13 i lov om offentlighed i forvaltningen for tilsynet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="iddeaf8b22-b4c1-4355-a94d-791882758cd0">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsynets virksomhed er undtaget fra forvaltningslovens kapitel 4-6 og lov om behandling af personoplysninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id242f94c3-88e8-4ad5-8c0b-98cf8678e9a7" localId="22">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="id52a5ad63-3655-4ac3-bbb2-d16e24ba2e48">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsynet afgiver en årlig redegørelse om sin virksomhed til justitsministeren.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Redegørelsen offentliggøres.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id0b4c46a0-2d37-4f3d-803b-bbdb4394b5af" localId="10">
+          <Explicatus>Kapitel 10</Explicatus>
+          <Rubrica id="idad93dbb7-40b1-44c0-b24a-e33e38bf9114">
+            <Linea>
+              <Char>Ikrafttrædelses- og overgangsbestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id64251689-c2fe-4366-aaeb-848a7a5dd055" localId="23">
+              <Explicatus>§ 23.</Explicatus>
+              <Stk id="iddf85d4aa-84d2-406d-aa29-f32a334cae1c">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. januar 2014, jf. dog stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5c2a3c52-da8a-47cd-a66a-ca867c2acc4d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Medlemmerne af Tilsynet med Efterretningstjenesterne kan beskikkes med virkning fra den 1. september 2013.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilsynet med Efterretningstjenesterne kan antage sekretariatsbistand, jf. § 16, stk. 4, når tilsynets medlemmer er udpeget.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1bd47a41-6b7f-4e44-8ab8-335ae00e8cfa">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Begæringer om aktindsigt, som er indgivet før lovens ikrafttræden, afgøres efter de hidtil gældende regler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id079993ad-7bf5-49cd-945c-fed5dd73dfe0">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved den første beskikkelse af medlemmer til Tilsynet med Efterretningstjenesterne, jf. § 16, udpeges 2 af medlemmerne for en periode på 2 år med ret til genbeskikkelse i 4 år.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De øvrige 3 medlemmer, herunder formanden, udpeges for en periode på 4 år med ret til genbeskikkelse i 4 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id68c23f13-fab1-4456-bdee-2fcfd73ce3a1" localId="24">
+              <Explicatus>§ 24.</Explicatus>
+              <Stk id="idf0bece3c-5aae-4590-bfca-10f7cdb62ea9">
+                <Exitus>
+                  <Linea>
+                    <Char>(Udelades)</Char>
+                  </Linea>
+                  <Nota id="idb3710d86-f242-4b01-a449-23c8153ce33d">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Bestemmelsen vedrører ændring i anden lovgivning.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id69a48ae7-97b7-483d-a91f-8ce901d7a5b4" localId="25">
+              <Explicatus>§ 25.</Explicatus>
+              <Stk id="id45f3c8f5-5815-4609-87a4-5098f9425c50">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som de færøske eller grønlandske forhold tilsiger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="id65d044bc-5326-425c-a2ef-2c6a42e1b453">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1624 af 26. december 2013 (Krav om identifikation m.v. i afgørelsessager og adgang til aktindsigt i PETʼs sager om administrative forhold) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id2388feff-d2bc-4429-9b8c-037d20e9e429">
+        <Explicatus>§ 4</Explicatus>
+        <Stk id="ida9144fb5-1aed-4aca-b58c-63452664df72">
+          <Explicatus>Stk. 1. </Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="ida32b47ba-d6fb-4392-8d15-9b5c7115ab1e">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§§ 2 og 3 træder i kraft den 1. januar 2014.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id89c4e42a-ce1f-4baa-a696-8ea8a97461ad">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1881 af 29. december 2015 (Politiets Efterretningstjenestes adgang til oplysninger om flypassagerer i terrorsager m.v. og SKATs håndtering af oplysninger om flypassagerer i forbindelse med toldkontrol m.v.) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id28694831-19aa-4560-b6c5-889893ac8955">
+        <Explicatus>§ 3</Explicatus>
+        <Stk id="id4e94e724-6675-41c1-8c1e-8e287be6b99b">
+          <Exitus>
+            <Linea>
+              <Char>Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.</Char>
+            </Linea>
+            <Nota id="id7a223d6f-c772-400f-9586-9781c38665d0">
+              <Explicatus>2)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Ved bekendtgørelse nr. 1437 af 1. december 2016 er det bestemt, at ændringsloven træder i kraft den 1. januar 2017.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id22887e4a-5acc-4f6c-9852-bd3ada30b1ca">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1727 af 27. december 2016 (Ændring af PET's opgaver i forhold til den alvorligste organiserede kriminalitet og PET's forpligtelse til sletning af oplysninger) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id7c958143-fa46-4d20-a307-dacbd15d9385">
+        <Explicatus>§ 2</Explicatus>
+        <Stk id="id31b4ef9e-035c-4a10-a07d-41b7e2dfc541">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. marts 2017.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="ideb0ca5e6-7796-4d17-a05b-a2bc3ccbb954">
+    <UnderskriftStedDato id="id8b6cac67-94b7-4ca5-81b0-8797d53e1f5d" />
+    <Underskriver id="ida24c3c15-a3c6-4659-8476-080f1ea7935f" />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,1087 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idd6c49d88-65b5-4c38-b9cc-741e3f8a6116" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2016/09/26/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id69cfa1ae-f26d-4de4-89a6-5c86d7d2f913">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20170002229</AccessionNumber>
+    <DocumentId>CK001127</DocumentId>
+    <UniqueDocumentId>186164</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om tilskud til fremme af innovation, forskning og udvikling m.v. i fødevare-, jordbrugs- og fiskerisektoren (innovationsloven)</DocumentTitle>
+    <Year>2017</Year>
+    <DiesSigni>2017-01-04</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-01-06</EndDate>
+    <Status>Valid</Status>
+    <Number>22</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 22 af 04/01/2017</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Jette Petersen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Dorthe Nielsen</Signature>
+    <PlaceOfSignature>NaturErhvervstyrelsen</PlaceOfSignature>
+    <JournalNumber>Miljø- og Fødevaremin.,\nNaturErhvervstyrelsen, j.nr. 16-0122-000025</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id0bf7324c-2d97-4207-a0e4-d2a02595eb41">
+    <Titel id="id2d4bd36b-39fe-4208-aa2c-04e10a61d976">
+      <Linea>
+        <Char>Bekendtgørelse af lov om tilskud til fremme af innovation, forskning og udvikling m.v. i fødevare-, jordbrugs- og fiskerisektoren (innovationsloven)</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="ida41f21df-7741-4d6e-af29-99e3ea91e5e5">
+    <Indledning id="id709fe9cd-9a60-4f15-a60b-17fd91a8ca19">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om tilskud til fremme af innovation, forskning og udvikling m.v. i fødevare-, jordbrugs- og fiskerisektoren (innovationsloven), jf. lovbekendtgørelse nr. 1695 af 14. december 2015 med den ændring, der følger af § 55 i lov nr. 1715 af 27. december 2016.</Char>
+        </Linea>
+        <Nota id="id82c6b309-09d3-41df-a1d1-0011266a4a30">
+          <Explicatus>1)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Denne lovbekendtgørelse gengiver alene ikrafttrædelses- og overgangsbestemmelsen i lov nr. 1715 af 27. december 2016.</Char>
+            </Linea>
+            <Linea>
+              <Char>De bemærkninger om ikrafttrædelsesbestemmelser for de tidligere vedtagne ændringer af loven, der fremgår af lovbekendtgørelse nr. 1695 af 14. december 2015, er ikke gengivet i denne lovbekendtgørelse.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Den bekendtgjorte lovtekst vedrørende § 15 a træder i kraft den 1. februar 2017, jf. § 24, stk. 1, i lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="id680786d8-42f7-4ff2-b0a7-b6208d18f7b4">
+      <Afsnit id="id0a2599df-92ad-45c3-8764-53326cb9eea1" localId="1">
+        <Kapitel id="id348acb06-55d9-4042-ad62-4830d8468a99" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="idf7eb58dd-4bb2-43ad-9626-c33e13e5ae2f">
+            <Linea>
+              <Char>Formål</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id5c81260d-3c30-446e-96c0-cbf55e711db3" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="id62a35a3a-a4c8-4b47-bb49-6121059c94d9">
+                <Exitus>
+                  <Linea>
+                    <Char>Formålet med denne lov er at fremme fødevare-, jordbrugs- og fiskerisektorens innovations-, forsknings- og udviklingsindsats med henblik på at bidrage til at</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id83b78ee0-fa68-4ef3-9f7e-bd004b8a800f">
+                  <Index>
+                    <Indentatio id="id2510c110-4458-4ecd-95f4-0cec983b5037" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>sikre, at de fødevarer, der produceres, er sunde og af høj kvalitet,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id79fbd504-9d5a-4406-8bcd-6350a02220ad" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>styrke fødevare-, jordbrugs- og fiskerisektorens konkurrenceevne,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8f27ef66-4d80-41bd-8c0e-b02a8829c41f" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>fremme udviklingen af nye produkter, herunder nonfoodprodukter, med højt innovationsindhold,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8f168741-ea90-446a-983a-ef32c3e0dab1" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>bevare jordbrugs- og fiskerierhvervenes ressourcegrundlag og sikre miljø og dyrevelfærd samt gode arbejdsbetingelser,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id39784a86-ab50-47c3-bdcc-006441678de5" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>forbedre forbrugernes mulighed for at opnå relevante og pålidelige oplysninger om produkternes egenskaber og om de forhold, hvorunder produkterne er produceret, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id5e22b329-9cf6-488c-aa73-6574f556dd1d" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>styrke innovationskapaciteten i fødevare-, jordbrugs- og fiskerisektorens virksomheder og institutioner.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id95682eee-4862-4e57-8db5-a66ffb17b9f6" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="iddc6a5dff-7f50-4622-b6f7-ce08df0b6518">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren</Char>
+                  </Linea>
+                  <Nota id="id1b1ab1c3-b265-45c6-afd1-77f11c635654">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Ved kongelig resolution af 28. juni 2015 blev Miljøministeriet og Ministeriet for Fødevarer, Landbrug og Fiskeri sammenlagt til et Miljø- og Fødevareministerium, jf. bekendtgørelse nr. 1229 af 3. november 2015 om ændring i forretningernes fordeling mellem ministrene.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>kan under iagttagelse af procedurerne i denne lov iværksætte særlige initiativer for at styrke innovation, forskning og udvikling i fødevare-, jordbrugs- og fiskerisektoren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id6a27ffbf-b218-48b6-a5fe-eaa78f0494b3" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="id2e869179-40cb-43fe-9192-82b460a0ceb6">
+            <Linea>
+              <Char>Fremme af innovation, forskning og udvikling m.v. inden for fødevare-, jordbrugs- og fiskerisektoren</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id3a8b7403-4137-467b-bf0a-021c5fa187cc" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id08937c98-95bb-4d49-9429-367d853a3999">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren nedsætter et innovationsudvalg for fødevaresektoren (Innovationsudvalget).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf99ca6e1-f780-4504-93e4-8281c4f1657a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udvalget træffer afgørelse om at yde tilskud til gennemførelse af innovations-, forsknings- og udviklingsprojekter inden for følgende områder:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id3b758054-0d4b-4dd7-b735-95cec1d49b1e">
+                  <Index>
+                    <Indentatio id="ideb2bcb2b-69e9-4012-bb35-f91bcfd2a58b" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Den primære jordbrugssektor.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7704d502-0051-4aae-9042-98a2ef6638e7" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Den primære fiskerisektor, herunder akvakultur.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida35527e9-25f8-49f2-974f-69d6153ce741" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Sektoren vedrørende forarbejdning og forædling af jordbrugsprodukter.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id4848d0d9-adf8-4225-b995-8b94bc010718" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Sektoren vedrørende forarbejdning og forædling af fiskeriprodukter.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc71d6f23-4b9e-4e2f-b846-d6217e19a59f" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Den primære jordbrugssektor i kombination med sektoren vedrørende forarbejdning og forædling af jordbrugsprodukter (integrerede projekter).</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id09e9bec6-a6f1-41c6-8e5f-287df281e122" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Den primære fiskerisektor, herunder akvakultur, i kombination med sektoren vedrørende forarbejdning og forædling af fiskeriprodukter (integrerede projekter).</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="ida94730a0-7a47-4279-9723-60a38611f7c8">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udvalget træffer afgørelse om at yde tilskud til aktiviteter, der har til formål at undersøge mulighederne for at formulere innovationsprojekter omfattet af stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id648f6acb-23e9-4852-805d-cc314e092309">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udvalget træffer afgørelse om at yde tilskud til generiske kampagner og testmarkedsføring.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idedac5bb1-e222-4953-9897-8d87fb433597" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id123962e0-a18d-430f-a241-a30964f8fb7e">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter nærmere regler om Innovationsudvalgets sammensætning og udpegning af suppleanter for udvalgsmedlemmerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idcce61fd4-108c-4dc9-bed8-41dda28b479b">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren fastsætter nærmere regler for Innovationsudvalgets arbejde, herunder forretningsorden og sekretariatsbetjening af udvalget.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id11a7ba55-b692-4aa2-a37d-b8aac416e131">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren fastsætter regler om, at Innovationsudvalget i visse sager kan bemyndige formanden til at træffe afgørelser på udvalgets vegne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1d35055a-5669-4323-b494-ccb5255984bb">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren udnævner en formand og en næstformand for Innovationsudvalget.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Formand og næstformand er medlemmer af udvalget.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8cfed4c1-7704-485e-8c90-0d17688d57e0" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="ide58c7767-9e89-4535-9fd8-fed32b19deaf">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren eller Innovationsudvalget kan indhente rådgivning fra sagkyndige vedrørende de i § 3 nævnte projekter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7296bdf1-f239-4902-a6b2-68c3b0fb0a93">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Innovationsudvalget er rådgivende for ministeren med hensyn til den samlede indsats inden for lovens områder, herunder rådgivning i forbindelse med fastlæggelse af temaer, jf. § 11, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idc92498ed-2c73-478e-87d2-8ac817c7ee5b" localId="6-9">
+              <Explicatus>§§ 6-9.</Explicatus>
+              <Stk id="idf7898fe7-795e-4d43-82eb-8932e49cb9cf">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idb7508b74-ecf9-433f-8f9b-a1bc2ce3351a" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="idd945c7fe-4c2f-45f5-92c5-9b41d91b185d">
+            <Linea>
+              <Char>Fremme af økologiske udviklingsprojekter inden for jordbrug m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="iddd46ff7d-1b38-4368-a230-9d1d1413970e" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="idc149c502-5945-49b0-94ec-44cb2dcc74b3">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan yde tilskud til fremme af udviklingsprojekter inden for økologisk jordbrugsproduktion.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id192e4b18-48cb-4b6f-944d-5f0f95272bd3">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ansøgninger om tilskud til gennemførelse af økologiske projekter vedrørende innovation og udvikling med hovedsageligt kommercielt sigte samt til økologiske forskningsprojekter behandles efter reglerne i kapitel 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idabf5fcb1-4ac1-4c42-9ecb-2c11950e304d">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I spørgsmål, der vedrører tilskud til fremme af udviklingsprojekter vedrørende økologisk produktion inden for jordbrug, jf. stk. 1, indhenter ministeren en udtalelse fra Det Økologiske Fødevareråd, jf. § 5 i økologiloven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id094c90de-c0c7-4619-a8e8-14ff733c059e" localId="4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="iddb62da46-71e1-4738-b072-76885b9be0e4">
+            <Linea>
+              <Char>Fællesbestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id0112b512-6099-40d6-84c7-84cb62efbd6a" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="id8034524c-5cac-4db8-90aa-5773b2fbe836">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan udmelde særlige temaer for projekter, der kan opnå tilskud inden for lovens område.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte nærmere regler herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida8df1f5d-c345-4acc-b275-95316942d000">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte nærmere regler om lovens administration, herunder om</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id7a613612-af73-4dec-b9d7-89ee933057bd">
+                  <Index>
+                    <Indentatio id="id6a2be57b-ae22-4489-9d4b-44c9d3b974b2" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>de foranstaltninger, der kan ydes tilskud til med henblik på at fremme de i loven nævnte formål,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id2f778941-ced8-4bd4-90fa-cfb196b7eebc" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>de betingelser, der skal opfyldes for at opnå tilskud, herunder at tilskudsmodtagere skal deltage i en ekstern evaluering af projektet, hvis de udpeges hertil,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id086215b4-faca-480a-95c1-57b61cab53e1" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>hvem der kan opnå tilskud,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idde49c047-579a-43b7-b1e9-5c47805096d7" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilskudsprocent, jf. dog § 12,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id134dd982-d7a6-4574-9ab9-2ff7e041dc10" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>særlige tilskudsmuligheder for små og mellemstore virksomheder og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idefb98b4f-0aa9-4083-a3ab-1db610669eb8" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>særlige tilskudsmuligheder vedrørende etablering af innovationsklynger og dannelse af netværk.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id10f53c6e-d5e0-4910-8cc9-2620909bf5ea" localId="12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="id7d904408-0fbf-4602-8a84-10dbaefe450c">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskud til projekter, der gennemføres af små og mellemstore virksomheder, kan maksimalt udgøre henholdsvis 45 pct. og 35 pct. af de meromkostninger, der er forbundet med det pågældende projekt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Gennemføres projektet som et samarbejdsprojekt, hvori deltager andre små og mellemstore virksomheder eller andre virksomheder (store virksomheder) eller forskningsinstitutioner, kan der til små virksomheder ydes tilskud på maksimalt 60 pct. og til mellemstore virksomheder maksimalt 50 pct. af de meromkostninger, der er forbundet med det pågældende samarbejdsprojekt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id58d0c0e6-63e8-4467-a64a-987a2dd760ea">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskud til andre virksomheder end de i stk. 1 nævnte kan ydes, såfremt der er tale om projekter, der gennemføres i samarbejde med små og mellemstore virksomheder eller i samarbejde med forsknings- og forsøgsinstitutioner.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilskuddet til disse virksomheder kan udgøre maksimalt 40 pct. af meromkostningerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id71255264-c497-4631-a8a4-92eba881a53c">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan ydes tilskud til projekter, der gennemføres af forsknings- og forsøgsinstitutioner, såfremt projekterne gennemføres i samarbejde med virksomheder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilskud til forsknings- og forsøgsinstitutioner kan udgøre mere end 50 pct. af meromkostningerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idced1d008-430a-4e4b-a6af-85288a41c42c">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskud vedrørende aktiviteter i henhold til kapitel 3 kan udgøre mere end 50 pct. af meromkostningerne, jf. dog stk. 1 og stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3372d006-809d-4bc7-8f80-1e8169bf3099">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De tilskudsberettigede omkostninger opgøres med fradrag af merværdiafgift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id20914659-73ae-4aa8-b0f7-c811bd1c3020" localId="13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id99760c35-f426-4b83-88c6-542659d86537">
+                <Exitus>
+                  <Linea>
+                    <Char>Projekter skal gennemføres på de vilkår og inden for de tidsfrister, som fastsættes i en tilskudsaftale.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idab778553-ed46-4392-90e4-f3c62edc9fa9">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det er en betingelse for ydelse af tilskud, at virkningerne af projektet kan påregnes inden for en periode på 5 år fra projektets påbegyndelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Denne tidsfrist kan fraviges, når særlige omstændigheder taler derfor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idccd4375e-fefa-4fbc-ad60-9bf070519fad">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskud kan ydes til omkostninger, som ansøgeren har afholdt eller påtaget sig at afholde, efter at tilsagn om tilskud er givet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3b33c766-954c-4893-9754-e06eb374d21a">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter regler om udbetaling af tilskudsbeløb, herunder forskudsbeløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3ce303eb-12c3-494a-9dbd-5e2c2861a24e">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at der kan ydes tilskud til ansøgers eget arbejde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1f6363ca-4c6b-4fe2-8315-d5408c3e5bfc">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren fastsætter nærmere regler om, at en fast andel af de direkte projektudgifter kan ydes i tilskud til indirekte fællesudgifter som husleje, bygningsdriftsudgifter og administration m.v. i forbindelse med projekter, der gennemføres af forsknings- og forsøgsinstitutioner.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id2b0649c2-1b8d-45b6-a159-a32fc403e7df" localId="14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="id244174db-3578-4258-8ff8-77cf794b16f4">
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan afholdes udgifter til oplysnings-, vejlednings-, informations- og undersøgelsesvirksomhed i forbindelse med denne lov, hvilket bl.a. kan omfatte</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id43e6f57f-92fc-41f4-aa1b-bbbf90f4b12d">
+                  <Index>
+                    <Indentatio id="idaf3c39e7-3e04-44b3-acb7-f9373b791974" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>offentlig information om offentlige mærknings- og kvalitetsordninger,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idda662936-49aa-402d-85ac-7035ab9dfeb8" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>evaluering og effektvurdering samt</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida16826d8-2559-4997-84e6-af5e9720718b" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>fremme af kendskab til produktion af kvalitetsfødevarer og mangfoldighed i fødevareproduktionen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idf8a89a36-7f35-454d-b84d-c9a8ca9a2ac3">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan indhente rådgivning fra Innovationsudvalget vedrørende de aktiviteter, der er nævnt i stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idac23a237-e8cf-4d26-bd70-dff8ea5b4ddb" localId="5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica id="id4f1558f0-752c-428a-a372-ce27b9d623a0">
+            <Linea>
+              <Char>Delegation og klageadgang</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id17b842db-be9e-4884-bb42-739634101a22" localId="15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="ideca9356c-06a5-42fc-bfd1-4324e02eef38">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan henlægge sine beføjelser efter loven til en institution under Miljø- og Fødevareministeriet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan i forbindelse hermed fastsætte regler om adgangen til at klage over disse myndigheders afgørelser, herunder om, at klage ikke skal kunne indbringes for anden administrativ myndighed, og om myndighedens adgang til at genoptage en sag, efter at der er indgivet klage.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf9df69be-8fef-46ed-9c87-b5f6da8bfe18">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser truffet af Innovationsudvalget i henhold til kapitel 2 kan alene påklages til ministeren, for så vidt angår retlige spørgsmål.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id3885b7c7-ea69-48ff-b47e-1670fd0313c9" localId="15a">
+              <Explicatus>§ 15 a.</Explicatus>
+              <Stk id="idc060c6d6-47b7-4f88-a497-0e86954e7fb4">
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser truffet i henhold til denne lov eller regler udstedt i medfør heraf kan, hvis ikke andet er fastsat i loven eller i henhold til regler udstedt i medfør heraf, påklages til Miljø- og Fødevareklagenævnet, som behandler sagen i afdelingen omhandlet i § 3, stk. 1, nr. 4, i lov om Miljø- og Fødevareklagenævnet, og kan dermed ikke indbringes for anden administrativ myndighed</Char>
+                    <Char formaChar="Bold">.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id886b62e2-a88f-4396-acce-20108bb0e046">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klage til Miljø- og Fødevareklagenævnet indgives skriftligt til den myndighed, der har truffet afgørelsen, ved anvendelse af digital selvbetjening, jf. dog § 21, stk. 2-4, i lov om Miljø- og Fødevareklagenævnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Myndigheden skal, hvis den vil fastholde afgørelsen, snarest og som udgangspunkt ikke senere end 3 uger efter modtagelsen af klagen videresende klagen til klageinstansen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Klagen skal ved videresendelsen være ledsaget af den påklagede afgørelse, de dokumenter, der er indgået i sagens bedømmelse, og en udtalelse fra myndigheden med dennes bemærkninger til sagen og de i klagen anførte klagepunkter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idd769c0e5-fe65-4b23-a6c1-5bd9f6485f15" localId="6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica id="id76e73d49-ba6e-4724-b210-f2789baf9a27">
+            <Linea>
+              <Char>Kontrol, tilsyn og tilbagebetaling m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id2a841cff-e547-4200-820b-dc761267f3f7" localId="16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="ide977de6b-00ef-460e-a113-40c0ef1eecbb">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter regler om kontrol, tilsyn, regnskaber og revision vedrørende foranstaltninger, hvortil der ydes tilskud efter denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idadf2afd1-0d08-4055-8f42-da1fc1981642">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den kontrollerende myndighed og personer, som er særligt bemyndiget dertil, har til enhver tid mod behørig legitimation og uden retskendelse adgang til fiskerfartøjer, jordbrugsbedrifter eller andre virksomheder, som drives af en fysisk eller juridisk person, som har modtaget tilsagn om tilskud efter loven.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>På tilsvarende måde har den kontrollerende myndighed og personer, som er særligt bemyndiget dertil, adgang til fiskerfartøjernes, jordbrugsbedrifternes eller andre virksomheders regnskaber, forretningsbøger, papirer m.v., herunder også materiale, som opbevares i elektronisk form, for at tilvejebringe oplysninger til brug for løsning af opgaver i henhold til loven eller til regler, der er fastsat i medfør af loven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc594b471-b063-45ce-aea4-3d62fa615783">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der driver et fiskerfartøj, en jordbrugsbedrift eller anden virksomhed, jf. stk. 2, skal yde den fornødne vejledning og hjælp ved kontrollens gennemførelse, og det i stk. 2 nævnte materiale skal udleveres eller indsendes til de kontrollerende myndigheder på disses begæring.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide4ea6625-088a-4828-b43f-88db325a604b">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Politiet yder om nødvendigt bistand til gennemførelse af den i stk. 2 nævnte kontrol.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan efter aftale med justitsministeren fastsætte nærmere regler herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id7870193f-793b-4a00-9f0a-0372f4b860b5" localId="17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="idd5ebde12-e455-4cdf-9d88-4cac03512e28">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan bestemme, at tilsagn om tilskud bortfalder, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id2e44051e-06a5-430c-b1bd-641a4a4c8af8">
+                  <Index>
+                    <Indentatio id="id18ef9da2-da11-4bee-b471-917ab250fe87" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilskudsmodtageren har givet urigtige eller vildledende oplysninger eller fortiet oplysninger af betydning for sagens afgørelse,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id801586d7-82c3-4777-8bb2-9399ede26ba2" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>betingelserne for at opnå tilskud ikke længere opfyldes,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idad7c1c8a-e6a9-4653-9466-e77fb6df8ddb" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilskudsmodtageren tilsidesætter sin pligt i medfør af § 16, stk. 2 og 3, samt regler udstedt efter § 16, stk. 1.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idea7a5d9a-08a7-43dd-930d-dc438ab6573e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan, hvis tilskud bortfalder i medfør af stk. 1, bestemme, at ydede tilskud skal tilbagebetales med tillæg af renter regnet fra tilskuddets udbetaling med den rentesats, der fremgår af rentelovens § 5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide7c42f7e-3ca0-4978-a6e9-10064ca68ead">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren fastsætter regler om beregningen af renter efter stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id4eee783e-0056-4283-9664-9eab33f8d6a6" localId="18-18a">
+              <Explicatus>§§ 18-18 a.</Explicatus>
+              <Stk id="id24d33c21-647f-400e-81b5-385c126cacee">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id34c95979-bacd-4f0d-ad38-b820defa3bf5" localId="19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="id614bd509-3553-4b6c-b31a-feee6ca4df70">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter regler om, at tilskud ydet i henhold til kapitel 2 skal tilbagebetales og forrentes på markedslignende vilkår, hvis projektets resultater udnyttes kommercielt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id50f11573-c5ed-403f-a529-a33bc6ae466c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at kravet om tilbagebetaling bortfalder for tilskud ydet til projektaktiviteter, der opbygger virksomheders innovationskompetence.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idcc1f0379-ff85-4019-ae2f-2b68cdf75e1b">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren fastsætter en beløbsgrænse, under hvilken kravet om tilbagebetaling bortfalder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idebe3332a-4548-4cb7-9b96-e5f41335c050">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at kravet om tilbagebetaling bortfalder for tilskud ydet til brancheorganisationer vedrørende rammeskabende aktiviteter, hvor resultaterne kommercialiseres af en bredere kreds, såfremt de rammeskabende aktiviteter ikke direkte medfører en målbar omsætningseffekt hos brancheorganisationen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9ea0e476-2e86-4a4b-8cbc-3e900fc45bb2" localId="20">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="id5a49a757-a041-4de6-9254-fef3c82668fd">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om, at udbetaling af tilskud efter denne lov skal ske til en af ansøger anvist konto i et pengeinstitut.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id87671598-a14b-4d63-a6e2-cd9f1c7bf12b" localId="21">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="id2c8b4aab-5d10-4b35-a71e-ba6feb1f91a6">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om, hvilken betydning det har for ydelse af tilskud efter denne lov, at ansøgeren tidligere har modtaget tilskud efter denne eller anden lov eller har mulighed for at modtage tilskud efter anden lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id3e7f4bea-d5a0-4f34-9a26-253997946baa" localId="7">
+          <Explicatus>Kapitel 7</Explicatus>
+          <Rubrica id="id3fcf4ef8-72ca-4d0d-8655-443a1bbaf777">
+            <Linea>
+              <Char>Straffebestemmelser m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id0a1c0881-ae68-4fd5-af6d-fd87332d5e39" localId="22">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="ide39a299b-d2a5-4151-977d-5fb4a775ac0e">
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre højere straf er forskyldt efter den øvrige lovgivning, straffes med bøde den, der</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="iddee5e92c-2d41-4733-8bdf-9c4dd11b46e1">
+                  <Index>
+                    <Indentatio id="id9b3a4fd5-6d4a-48db-a50c-85d3b3ec025e" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>til brug for afgørelser, der træffes i henhold til denne lov eller de i medfør af loven fastsatte regler, giver urigtige eller vildledende oplysninger eller fortier oplysninger af betydning for afgørelsen,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id2b36f887-b752-464c-88c6-eedf15598c37" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>handler i strid med de vilkår, der er fastsat i en sådan afgørelse,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idaef3ba67-a6a1-4901-803b-e4fa2f784f42" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>i øvrigt undlader at give oplysninger, som den pågældende har pligt til at give i henhold til denne lov eller regler fastsat i medfør af loven,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb152a32d-d38f-4e24-b229-360da66cdff6" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>afgiver urigtige eller vildledende oplysninger om sådanne forhold,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id476e7c65-eadc-44b1-8201-1d9fdad577c9" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at give kontrolmyndigheden adgang til fiskerfartøjet, jordbrugsbedriften eller virksomheden efter § 16, stk. 2,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id655389d9-0698-49a2-a502-5f2962db7867" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at udlevere materiale eller at yde kontrolmyndigheden bistand efter § 16, stk. 3.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id1cfecc3b-02df-49d5-aec6-c11dc432e1bc">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I regler, der udstedes i medfør af loven, kan der fastsættes straf af bøde for overtrædelse af bestemmelser i reglerne eller af vilkår, som meddeles efter reglerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0871ecb2-bb50-40c7-bc54-a2cdb0826305">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida4f2e7d0-a69d-413a-89c8-36ee10304007" localId="23">
+              <Explicatus>§ 23.</Explicatus>
+              <Stk id="idf258c153-f4d4-423f-9347-4e7a0205fdce">
+                <Exitus>
+                  <Linea>
+                    <Char>Skønnes en overtrædelse ikke at ville medføre højere straf end bøde, kan miljø- og fødevareministeren tilkendegive, at sagen kan afgøres uden retslig forfølgning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er en betingelse herfor, at den, der har begået overtrædelsen, erklærer sig skyldig i overtrædelsen og erklærer sig rede til inden en nærmere angivet frist, der efter begæring kan forlænges, at betale en i tilkendegivelsen angivet bøde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id415723e7-f154-48d2-8fc2-0d22db48eb3c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For den i stk. 1 nævnte tilkendegivelse finder bestemmelserne i retsplejelovens § 834, stk. 1, nr. 2 og 3, og stk. 2, tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id727faea0-96b8-438a-a878-bee3359090dd">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Betales bøden i rette tid, eller bliver den efter stedfunden vedtagelse inddrevet eller afsonet, bortfalder videre forfølgning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id02976543-9c41-4247-b057-0177b26dc0a0" localId="8">
+          <Explicatus>Kapitel 8</Explicatus>
+          <Rubrica id="idb2c3e496-17c2-4c7e-bf14-2844db0491cd">
+            <Linea>
+              <Char>Ikrafttræden m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id64eb2080-8009-463d-8410-326b219757ab" localId="24">
+              <Explicatus>§ 24.</Explicatus>
+              <Stk id="id755bd75d-4604-4e36-9948-aff1d3a6fa2f">
+                <Exitus>
+                  <Linea>
+                    <Char>Tidspunktet for lovens eller dele af lovens ikrafttræden fastsættes af miljø- og fødevareministeren.</Char>
+                  </Linea>
+                  <Nota id="id518ce52c-b867-4aa2-981f-14ed0bc5709a">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Loven er sat i kraft den 16. maj 2001, jf. bekendtgørelse nr. 315 af 7. maj 2001.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                </Exitus>
+              </Stk>
+              <Stk id="idc9d0fb8b-a648-4bd9-a60c-44b5acae6b52">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren fastsætter tidspunktet for ophævelse af lov om tilskud til produktudvikling af jordbrugs- og fiskeriprodukter samt forsøgsfiskeri m.m. eller dele heraf, jf. lovbekendtgørelse nr. 634 af 29. juli 1999, samt tidspunktet for ophævelse af § 4 i lov om støtte til jordbrugets strukturudvikling og til økologisk produktion inden for jordbrug og fiskeri, jf. lovbekendtgørelse nr. 192 af 26. marts 1999.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De nævnte bestemmelser er dog fortsat gældende for ansøgninger indgivet inden tidspunktet for lovenes ophævelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0567f4b7-d9c0-44a4-ba97-5cce243549d1">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Regler udstedt i medfør af lov om tilskud til produktudvikling af jordbrugs- og fiskeriprodukter samt forsøgsfiskeri m.m., jf. lovbekendtgørelse nr. 634 af 29. juli 1999, samt § 4 i lov om jordbrugets strukturudvikling og til økologisk produktion inden for jordbrug og fiskeri, jf. lovbekendtgørelse nr. 192 af 26. marts 1999, er fortsat gældende for ansøgninger indgivet inden tidspunktet for lovbestemmelsernes ophævelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idfd58cadb-d69d-4994-9550-181d160da332" localId="25">
+              <Explicatus>§ 25.</Explicatus>
+              <Stk id="ide85f7adf-48e9-450e-9c59-e47b3fdc5fb1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="id2eb6224f-ee6e-44cd-af10-bc6a2138cf60">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet</Char>
+        </Linea>
+        <Nota id="idd0de0d7c-1e32-4e46-a9da-9e554de10e24">
+          <Explicatus>4)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører indsættelse af § 15 a.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>indeholder følgende ikrafttrædelses- og overgangsbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <Paragraf id="id341667ec-b70f-4185-98e8-5e44026500cb" localId="24">
+        <Explicatus>§ 24.</Explicatus>
+        <Stk id="idef927c29-800a-43ab-99bf-c99c46e18fe2">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. februar 2017.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idd5de5ff6-12e6-4c3d-99f8-fcd46de9a291">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id1dff5dab-14a2-469d-aab2-aa8cac8fdf14">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Erhvervsministeren</Char>
+            </Linea>
+            <Nota id="id64ae84a0-9daf-4013-b0d0-d22a8c46156a">
+              <Explicatus>5)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Ved kongelig resolution af 28. november 2016 er betegnelsen Erhvervs- og Vækstministeriet ændret til Erhvervsministeriet, jf. bekendtgørelse nr. 1777 af 23. december 2016.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id42bbe57e-526b-47b1-84e6-c880e9eb4746">
+          <Explicatus>Stk. 4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idf888a105-7810-4b1f-ac57-ff035153ce56">
+          <Explicatus>Stk. 5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Regler, der er fastsat i henhold til hidtil gældende regler, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat med hjemmel i denne lov.</Char>
+            </Linea>
+            <Linea>
+              <Char>Overtrædelse af reglerne straffes efter de hidtil gældende regler.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id58f5faab-cced-42ba-8207-54b9933e61e9">
+          <Explicatus>Stk. 6.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov.</Char>
+            </Linea>
+            <Linea>
+              <Char>Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idc50f62d9-40e7-43a4-b0be-05bbe4284b94">
+          <Explicatus>Stk. 7.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </Paragraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id9bc4601f-730f-4ca5-aa46-3778422f5fc8">
+    <UnderskriftStedDato id="iddf3d5035-7074-4fee-a7fa-0381253d130f" />
+    <Underskriver id="id975f4525-719e-441e-b062-e9cc7ece6ef1" />
+  </UnderskriftGruppe>
+</Dokument>

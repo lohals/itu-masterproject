@@ -14,11 +14,14 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.ParagrafIndledning
         public override DokumentReferenceData VisitDokumentReference([NotNull] Grammar.ParagrafIndledningParser.DokumentReferenceContext context)
         {
             var number = int.Parse(context.INT()?.GetText());
-            var year = context.date().Accept(new YearVisitor());
+            var year = context.date()?.Accept(new YearVisitor());
+            if (!year.HasValue)
+                return null;
+            
             return new DokumentReferenceData
             {
                 Number = number,
-                Year=year
+                Year=year.Value
             };
         }
     }

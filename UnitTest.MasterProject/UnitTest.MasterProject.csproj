@@ -116,7 +116,9 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="ParagrafIndledningParser\TestParagrafIndledning.cs" />
+    <Compile Include="ParagrafIndledningParser\ParagrafIndledningParseResultAssertions.cs" />
+    <Compile Include="ParagrafIndledningParser\TestParagrafIndledningSamples.cs" />
+    <Compile Include="ParagrafIndledningParser\TestParagrafIndledningRealData.cs" />
     <Compile Include="ParagrafNummer.cs" />
     <Compile Include="RegexSpecimenBuilder.cs" />
     <Compile Include="TestAendringDefinitionModel.cs" />
@@ -127,6 +129,12 @@
   <ItemGroup>
     <None Include="app.config" />
     <None Include="packages.config" />
+    <None Include="ParagrafIndledningParser\TestData\2017-format1.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="ParagrafIndledningParser\TestData\2017-format2.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MasterProject.Model\MasterProject.Model.csproj">
