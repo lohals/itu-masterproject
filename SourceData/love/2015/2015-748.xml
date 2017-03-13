@@ -1,0 +1,903 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id9b8ab97a-009e-44b1-ae34-229b5252a85c" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idfb1b1495-6aca-47b9-b000-883f11f79ce7">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150074829</AccessionNumber>
+    <DocumentId>CE000286</DocumentId>
+    <UniqueDocumentId>170468</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om specialpædagogisk støtte ved videregående uddannelser</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-05-16</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-21</EndDate>
+    <Status>Valid</Status>
+    <Number>748</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 748 af 16/05/2015</DokumentKortNavn>
+    <PopularTitle>SPS-loven</PopularTitle>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Sofie Carsten Nielsen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Jesper Schaumburg-Müller</Signature>
+    <PlaceOfSignature>Uddannelses- og Forskningsministeriet</PlaceOfSignature>
+    <JournalNumber>Uddannelses- og Forskningsmin., j.nr. 15/012282</JournalNumber>
+    <Ministry>Uddannelses- og Forskningsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="idccfd68f6-740e-4d51-8c40-2f66e228c969">
+    <Titel id="id65fba869-0726-4223-933d-f3934a62b56c">
+      <Linea>
+        <Char>Bekendtgørelse af lov om specialpædagogisk støtte ved videregående uddannelser</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id0f27be78-aa53-4cae-839a-615cdfde8568">
+    <Indledning id="idc7a849f4-c3dd-4e16-a624-2c6a526ffb21">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om specialpædagogisk støtte ved videregående uddannelser, jf. lovbekendtgørelse nr. 584 af 1. juni 2014, med den ændring, der følger af § 3 i lov nr. 633 af 12. maj 2015.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="id446d7d0e-63ab-4714-99b2-7123e5d583e1">
+      <Afsnit id="idb16e4e7a-ebbc-4f18-b061-0a3623a49463" localId="1">
+        <Kapitel id="id7876d26a-f82b-496c-9666-376827d61dec" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="id8bc49f03-4c01-494c-a9c0-9da632592d42">
+            <Linea>
+              <Char>Formål m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id8df01454-fc56-401e-9cbc-d11f4e6f20d4" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="id594a0c40-9da4-471e-a45f-9e99b70d09e7">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven har til formål at sikre, at studerende med fysisk eller psykisk funktionsnedsættelse, der er optaget på en videregående uddannelse, uanset funktionsnedsættelsen kan gennemføre uddannelsen i lighed med andre studerende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf87c61fc-1d5b-430f-a720-8ecc94eaed79">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Specialpædagogisk støtte i henhold til loven administreres af Uddannelses- og Forskningsministeriet.</Char>
+                  </Linea>
+                  <Nota id="id871f1ec6-0c8c-4a2b-9fac-75fe46e4d0f5">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>I medfør af lovens § 17 a har uddannelses- og forskningsministeren delegeret administrationen af specialpædagogisk støtte ved videregående uddannelser til Styrelsen for Undervisning og Kvalitet under Undervisningsministeriet.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id77af792b-c809-4869-8ffa-4718edb82173" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="idff8c57e3-4166-4238-8cf4-25a605bdd6c4">
+            <Linea>
+              <Char>Studerende, der kan få støtte</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idd7ed30ff-a2fa-4c00-bd22-2f97799e709d" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="id79f2849c-69e3-44da-81d8-4856d93097b5">
+                <Exitus>
+                  <Linea>
+                    <Char>En studerende kan efter ansøgning få specialpædagogisk støtte, når vedkommende</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="ide7c3fcb5-605a-4efc-994d-656d8f103321">
+                  <Index>
+                    <Indentatio id="id31f33d28-bafc-4138-87bc-8dbf6888e19d" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>på grund af fysisk eller psykisk funktionsnedsættelse har behov for støtte for at kunne gennemføre uddannelsen, jf. § 3,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="iddeb07069-ece2-426c-8a7a-21295a61ebba" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>er indskrevet på og gennemgår en uddannelse, hvortil der kan ydes støtte, jf. § 4,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id59b88b95-79f4-43c6-872a-72e6e4513f6e" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>har dansk statsborgerskab, efter international overenskomst har ret til støtte på lige fod med danske statsborgere eller i støttemæssig henseende ved uddannelser i Danmark ligestilles med danske statsborgere efter uddannelses- og forskningsministerens bestemmelse,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7e97014f-f4cb-4972-87eb-1ea44f040cda" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ikke overskrider støtterammen og støttetiden, jf. §§ 5-9, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida10930e5-3062-4a95-a342-85e308768d23" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>er studieaktiv, jf. §§ 10 og 11.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="ida3fe6e19-da67-4d82-a021-5e27bb59bae2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Specialpædagogisk støtte til uddannelse i udlandet gives til uddannelsessøgende, der opfylder betingelserne i stk. 1, og som har særlig tilknytning til Danmark.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id88b964c2-4a91-4b1a-977f-2b4b9333e34d">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det er en forudsætning for fortsat at modtage støtten, at den studerende opfylder betingelserne i stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9d54ee0a-32d2-4047-8457-36732ed3353c">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte nærmere regler om tilknytningskravet i stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id01a51289-d2ee-44fa-8cab-9d67d9fae363" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="id5feec434-674a-4c40-a467-bd2a831dca9b">
+            <Linea>
+              <Char>Støttebehov og støttemuligheder</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idfcaddb8f-fb87-421c-b09d-bc73098455e7" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id32aa9973-b923-4f2a-b2e3-90821a14d35b">
+                <Exitus>
+                  <Linea>
+                    <Char>Specialpædagogisk støtte kan ydes i en eller flere støtteformer, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idb6990f58-320e-42d6-9046-883b311608fe">
+                  <Index>
+                    <Indentatio id="id40d72833-7822-4c8b-af2b-51cf61c4f9f2" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>støtte er nødvendig for at kompensere fysisk eller psykisk funktionsnedsættelse i forbindelse med gennemførelse af uddannelsen,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id2715b11e-7049-47f1-9fc5-b09f4e482f5a" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>funktionsnedsættelsen kan kompenseres og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id52a4e37d-c8aa-471f-9808-76895b90df2f" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>det er praktisk muligt at tilvejebringe den nødvendige støtte.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idc9e8d984-4f1d-4447-b371-895c15e07bb2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte regler om</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id24fda9b8-30c4-4064-bbe7-403df876ed9e">
+                  <Index>
+                    <Indentatio id="id6591c852-453a-4023-bb94-4769db975aea" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>støtteformer,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idfc516941-ec0e-4070-8379-98a29af02ed2" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>begrænsning af støtte under hensyn til overholdelse af den bevilling, der er afsat på finansloven, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd6921254-943b-42bb-b2de-4ac77ca29eba" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>begrænsning af støtte svarende til det økonomiske niveau, hvor støtte er eller ville være ydet til den enkelte studerende ved uddannelse i Danmark, til studierejser og praktikperioder i udlandet, jf. § 4, stk. 1, nr. 1, samt til uddannelse i udlandet, jf. § 4, stk. 1, nr. 3 og 4.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="ide74bb09a-6f6c-46ec-ae74-add4dc9f3715" localId="4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="idf3d1d926-c316-4294-acd2-072d7f710621">
+            <Linea>
+              <Char>Uddannelser, hvortil der kan gives støtte</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id05b2d81e-c574-4122-8df7-ba5f14156919" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id39188c49-ae35-4cac-b607-6975e5e4e9c2">
+                <Exitus>
+                  <Linea>
+                    <Char>Specialpædagogisk støtte kan ydes til studerende, som er indskrevet på og gennemgår</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id62339ed8-93be-481b-9622-110f15d29a7d">
+                  <Index>
+                    <Indentatio id="iddf9c316b-b6b4-45b8-b763-02efa738429c" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>offentligt anerkendt videregående uddannelse indtil kandidatgrad, som hører under Uddannelses- og Forskningsministeriet eller Undervisningsministeriet, og som berettiger til statens uddannelsesstøtte, herunder obligatoriske praktikperioder i disse uddannelser, selv om de ikke berettiger til statens uddannelsesstøtte,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id306cb1e1-6fd0-41c5-a8ba-9f72096c35b0" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>teoretisk og praktisk pædagogikum,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id95f49473-2f8d-4beb-87af-31d761dab607" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>uddannelse i udlandet, som af en dansk uddannelsesinstitution er godkendt som led i en uddannelse, der er omfattet af nr. 1, og som den studerende er i gang med, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id03978802-fa94-4905-9690-bcb6416e1208" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>uddannelse i udlandet, som ikke er omfattet af nr. 3, men som der kan ydes statens uddannelsesstøtte til.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id7ea6996b-5484-4e05-8076-55556da6341d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan efter anmodning fra en anden minister bestemme, at videregående uddannelser, der henhører under vedkommende minister, henføres til loven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id88922a78-6407-4e9c-b3c9-f404361f702c" localId="5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica id="id981f068b-d5b4-42a2-9650-697a89caa60a">
+            <Linea>
+              <Char>Støtteramme og støttetid</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="ida0ef266d-68a2-4a46-b5fa-d1f5868bc086" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="id378c516e-b6ad-4a34-b8b4-e5fd5524513d">
+                <Exitus>
+                  <Linea>
+                    <Char>Specialpædagogisk støtte kan ydes i indtil 70 måneder (støtterammen).</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Støtterammen forlænges, i det omfang den normerede uddannelsestid for en uddannelse overstiger 58 måneder, og kan forlænges, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id01754965-715f-44ff-a562-7c2a3d3c537d">
+                  <Index>
+                    <Indentatio id="idd756c063-9177-450c-848b-10e6a7c6c9d7" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>den samlede normerede uddannelsestid for en bachelor- og en kandidatuddannelse eller et lignende uddannelsesforløb, der består af flere uddannelser, overstiger 58 måneder,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id055617ff-acf8-42be-bb53-445022412132" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>den studerende har gennemført en uddannelse, der er omfattet af § 4, stk. 1, nr. 1, som adgangsgivende uddannelse til den uddannelse, der gives støtte til, uden at have gennemført en anden adgangsgivende uddannelse, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idcd3e941e-a394-42bb-ba4f-d8c6858e5338" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>den studerende gennemgår sidefagssupplering eller pædagogikum.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idfd6d46ba-06ce-4d13-8123-d26d2973bbbd" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id3cb70064-3ce7-48da-b06e-c6d00133c52c">
+                <Exitus>
+                  <Linea>
+                    <Char>Specialpædagogisk støtte til den enkelte uddannelse kan inden for støtterammen, jf. § 5, ydes i det antal måneder, der svarer til den normerede uddannelsestid, herunder eventuel obligatorisk praktik, med et tillæg på 12 måneder (støttetiden).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id0c12df0f-dbb8-4d27-8d6a-43de912c869f" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="id94b12a11-260e-4d8b-9f45-198af5ac36d4">
+                <Exitus>
+                  <Linea>
+                    <Char>Støtterammen, jf. § 5, og støttetiden, jf. § 6, kan forlænges</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="iddca59405-2a8b-43e2-b427-0bd97c258a89">
+                  <Index>
+                    <Indentatio id="idbdd2e69f-0010-43f8-8d88-769cc195579a" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>med indtil 12 måneder, hvis den studerende er blevet forsinket i uddannelsen på grund af deltagelse i institutionens styrelse eller arbejde vedrørende uddannelsessøgendes sociale og uddannelsesmæssige forhold,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id0b93893f-9fe4-4e80-af10-03e44f5d715c" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>hvis den studerende er blevet forsinket i uddannelsen på grund af sygdom eller andre særlige forhold,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1b17c978-fcdc-46d0-8aa2-0e6bcc0dd74a" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>med indtil 12 måneder for moderen og 6 måneder for faderen i forbindelse med fødsel eller adoption, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd76c20b9-83bc-4d2d-8d0a-035f3632f02a" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>hvis den studerende har opbrugt støttetiden og skønnes at kunne afslutte uddannelsen inden for 12 måneder.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id54af0669-22d6-48b2-a5fb-82847ca8bcc3" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="idfd058844-ce84-47e6-9387-70993a56ee1c">
+                <Exitus>
+                  <Linea>
+                    <Char>Støtterammen, jf. § 5, kan forlænges for en uddannelse, den studerende er i gang med, hvis sygdom eller andre særlige forhold har medført, at den studerende ikke har gennemført en tidligere påbegyndt uddannelse og derfor har skiftet til en ny uddannelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id595bcfdd-5d43-4f35-af8e-212a058bcd39" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="id5263ebd9-4c67-4ea4-baab-e2c0ae0d2117">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og Forskningsministeriet træffer afgørelse om forlængelse af støtteramme og støttetid efter ansøgning fra den studerende og indstilling fra uddannelsesinstitutionen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8699e28d-8c94-4ec3-b383-5bfb32009214">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte nærmere regler om forlængelse af støtteramme og støttetid.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="ida6f8ca25-1f81-4a14-9a56-37f9341d429a" localId="6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica id="idb7ad81d1-fd5f-41f5-9139-f387edec15e0">
+            <Linea>
+              <Char>Studieaktivitet</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id35bc84e2-8a41-4607-a6bf-66dcfde4ca68" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id2cc61e4a-99a9-4001-9c59-51629143aeaf">
+                <Exitus>
+                  <Linea>
+                    <Char>Specialpædagogisk støtte kan ydes til studerende, som er studieaktive, jf. stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Uddannelses- og Forskningsministeriet træffer afgørelse om studieaktiviteten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id888f8217-a7cf-4bce-91a6-13513cad5de4">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En studerende er studieaktiv, indtil vedkommende er mere end 12 måneder forsinket i uddannelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Forsinkelsen er forskellen mellem det antal måneder, der er brugt til uddannelsen, og den studiemæssige fremgang efter de regler, der gælder for uddannelsen, målt i måneder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id54c9c1f6-0302-417f-bf95-e5d48847ae72">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forlængelse af støttetiden i henhold til § 7 medregnes ikke i opgørelsen af det antal måneder, der er brugt til uddannelsen, jf. stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id719f473c-4ce2-45c4-8d7d-16ee1c6d5f5d">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved uddannelse, der er omfattet af § 4, stk. 1, nr. 1 og 3, kontrollerer uddannelsesinstitutionen løbende den studerendes studieaktivitet og indberetter til Uddannelses- og Forskningsministeriet, når den studerende ikke længere er studieaktiv.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved uddannelse omfattet af § 4, stk. 1, nr. 2, varetages kontrol og indberetning af ansættelsesinstitutionen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf2673556-ec9f-440a-a595-98c8df2553e0">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved uddannelse omfattet af § 4, stk. 1, nr. 3, sørger den studerende ved dokumentation fra den udenlandske uddannelsesinstitution for, at den danske uddannelsesinstitution får meddelelse om studieaktiviteten efter den danske uddannelsesinstitutions bestemmelse i det enkelte tilfælde.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>På grundlag heraf foretager den danske uddannelsesinstitution indberetning til Uddannelses- og Forskningsministeriet, jf. stk. 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idaf4ccc62-58ee-4072-9fb2-811211dd2ac4">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved uddannelse, der er omfattet af § 4, stk. 1, nr. 4, sørger den studerende ved dokumentation fra den udenlandske uddannelsesinstitution for, at Uddannelses- og Forskningsministeriet får meddelelse om studieaktiviteten efter Uddannelses- og Forskningsministeriets bestemmelse i det enkelte tilfælde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id2ae3845d-1747-461d-ba2f-324c6484335c" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="ide00dcbc7-d5fd-4696-a928-e8a096c6cc5e">
+                <Exitus>
+                  <Linea>
+                    <Char>Specialpædagogisk støtte kan ydes til studerende, som ikke opfylder betingelsen i § 10, stk. 2, hvis Uddannelses- og Forskningsministeriet på baggrund af en indstilling fra uddannelsesinstitutionen vurderer, at der er en sådan fremgang i den studerendes studieforløb, at det er rimeligt, at der fortsat tildeles støtte.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idca634ee3-0998-433d-a5d4-e054079f7974" localId="7">
+          <Explicatus>Kapitel 7</Explicatus>
+          <Rubrica id="id8fe3c3af-06af-4e62-83bc-0d03a51d13e9">
+            <Linea>
+              <Char>Ansøgning, administration og digital kommunikation</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id89737e29-c1b5-4ecf-9612-46e5577f7ad4" localId="12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="ida5b09474-cbcc-40c2-aa7b-85b1bdadac10">
+                <Exitus>
+                  <Linea>
+                    <Char>Den studerende indgiver ansøgning henholdsvis til den uddannelsesinstitution, hvor den studerende er optaget, og til ansættelsesinstitutionen, når den studerende er optaget på pædagogikum, om specialpædagogisk støtte til uddannelse omfattet af § 4, stk. 1, nr. 1-3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb740bcb4-0de7-4d67-a3fb-58c52525e165">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Institutionen, henholdsvis ansættelsesinstitutionen, foretager indstilling til Uddannelses- og Forskningsministeriet om støtte.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id00621580-6392-4f6a-894b-332858ccfb53">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og Forskningsministeriet træffer afgørelse om støtte til den studerende på baggrund af ansøgning og indstilling fra institutionen, henholdsvis ansættelsesinstitutionen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Uddannelses- og Forskningsministeriet kan efter ophør af uddannelsen bestemme, at støtte ydet i form af hjælpemidler m.v. overdrages til den studerende til ejendom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id53b00220-21bc-44f6-a3ea-8b502111a7f6">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Institutionen, henholdsvis ansættelsesinstitutionen, yder støtten til den studerende i overensstemmelse med Uddannelses- og Forskningsministeriets afgørelse og afholder udgifterne hertil.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved institutionens afgørelser herom gælder forvaltningsloven for institutioner, der ikke er en del af den offentlige forvaltning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id51d10417-bc76-479f-acd0-3ee4227bfb5b">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og Forskningsministeriet kompenserer institutionen, henholdsvis ansættelsesinstitutionen, for de udgifter, som institutionen, henholdsvis ansættelsesinstitutionen, har afholdt i overensstemmelse med Uddannelses- og Forskningsministeriets afgørelse og kan udbetale forskud på beløbet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbe3d8e54-db16-4cfb-8124-325722e1da1b">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren fastsætter regler om ansøgning og indstilling, herunder om frister, jf. stk. 1 og 2, samt regler om kompensation, jf. stk. 5, og om tilbageførsel af uforbrugte midler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8638da45-3d66-40c5-b55d-c7694ab7dcf4">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren fastsætter regler om institutionernes regnskabsaflæggelse samt om revision af regnskaberne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id70923ae2-2fe1-4317-917b-567155cb7c91" localId="13">
+              <Explicatus>§ 12 a.</Explicatus>
+              <Stk id="id685eedc6-ee70-44df-b3a5-a5a0e4db26c0">
+                <Exitus>
+                  <Linea>
+                    <Char>Henholdsvis uddannelsesinstitutionen og ansættelsesinstitutionen, når den studerende er optaget på pædagogikum, indgiver indstilling til Undervisningsministeriet om specialpædagogisk støtte på vegne af den studerende.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Indstillingen skal indgives digitalt ved anvendelse af digital løsning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den digitale løsning stilles til rådighed af Undervisningsministeriet på vegne af Uddannelses- og Forskningsministeriet (digital selvbetjening).</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Uddannelsesinstitutionen skal modtage afgørelser og meddelelser m.v. vedrørende indstillingen om specialpædagogisk støtte ved anvendelse af den digitale løsning, som Undervisningsministeriet på Uddannelses- og Forskningsministeriets vegne stiller til rådighed.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Uddannelsessøgende skal modtage afgørelser og meddelelser m.v. vedrørende indstillingen digitalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6907d4e5-50a0-465d-8656-5da136ddfeec">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren fastsætter nærmere regler om, at indstilling om specialpædagogisk støtte samt modtagelse af afgørelser og meddelelser kan ske på anden vis end ved digital selvbetjening, hvor særlige forhold gør sig gældende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id53ccedf2-43e8-45d0-b334-4472d081722a">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte regler om, at kommunikation mellem uddannelsesinstitutionen, ansættelsesinstitutionen, Uddannelses- og Forskningsministeriet og dettes styrelser og efter forhandling med undervisningsministeren Undervisningsministeriet og dettes styrelser og institutioner skal ske digitalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9d78d01f-7172-4904-b06e-fe3157d27740">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren fastsætter regler om anvendelse af digital signatur og anden sikker personidentifikation.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9a30899a-9686-4ada-a27a-c212188c7968" localId="14">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id402c3a02-1524-47a9-8d43-702f20a73188">
+                <Exitus>
+                  <Linea>
+                    <Char>Den studerende indgiver ansøgning til Uddannelses- og Forskningsministeriet om specialpædagogisk støtte til uddannelse omfattet af § 4, stk. 1, nr. 4, når den pågældende er optaget på den udenlandske uddannelsesinstitution.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb279595c-f0c2-4630-a59a-40049743c768">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og Forskningsministeriet træffer afgørelse om og yder støtte til den studerende, jf. stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4896a627-3630-4f46-8698-e959bd795463">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren fastsætter regler om ansøgning, jf. stk. 1, herunder om frister.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="ideb31b3d3-26a1-4f7e-a00d-0966d2cfa1fc" localId="8">
+          <Explicatus>Kapitel 8</Explicatus>
+          <Rubrica id="idf710e027-1b51-4012-aa9b-768fd6616e0a">
+            <Linea>
+              <Char>Forskellige bestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id8480d32f-29e1-44a2-8c71-3e7d949631f0" localId="15">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="id65da11ea-f58a-4bfd-981b-d206f900de72">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og Forskningsministeriet skal sikre, at studerende og uddannelsesinstitutioner samt ansættelsesinstitutionen kan få rådgivning og vejledning om specialpædagogisk støtte og betingelserne herfor samt om ansøgning og indstilling.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idbed7f4cd-c30f-47e7-bedd-7b75f10e28c9" localId="16">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="id3a14e7cf-8f12-453c-a810-aa4125024e10">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og Forskningsministeriet kan hos den studerende, andre offentlige myndigheder og private institutioner indhente de oplysninger om den studerende, der er nødvendige for at træffe afgørelse om tildeling af samt kontrol med støtten.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte regler om adgangen til at indhente oplysninger, herunder at oplysninger skal gives i elektronisk form og i givet fald i hvilket format.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7202bebe-8de3-4bf9-a6b5-686e7561ac23">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og Forskningsministeriet kan til uddannelsesinstitutionerne videregive de oplysninger om den studerende, der er nødvendige ved varetagelsen af opgaver efter denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idfb9dc117-4e00-47b9-9a06-f95eecf101af" localId="17">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="idbdd99bbf-eb50-4597-9ca9-bd352aa5276b">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan bestemme, at opgaver, som efter denne lov varetages af Uddannelses- og Forskningsministeriet, helt eller delvis varetages af uddannelsesinstitutionerne, henholdsvis ansættelsesinstitutionen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4470a188-4950-496d-8fb8-337c62fc8b35">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og Forskningsministeriet kan efter klage eller på egen foranledning ændre en uddannelsesinstitutions, henholdsvis ansættelsesinstitutionens, afgørelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id048dc757-5182-4078-93fe-ce77ebee67ff">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I det omfang uddannelsesinstitutioner, der ikke er en del af den offentlige forvaltning, efter stk. 1 tillægges beføjelse til at træffe afgørelse efter denne lov, gælder forvaltningsloven for disse institutioner.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id00e1132b-ed98-482a-9639-cbc0c0b5b54c">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte regler om uddannelsesinstitutionernes, henholdsvis ansættelsesinstitutionens, varetagelse af opgaver og om Uddannelses- og Forskningsministeriets tilsyn hermed, herunder regler om, at Uddannelses- og Forskningsministeriet fra uddannelsesinstitutionerne og ansættelsesinstitutionen kan kræve oplysninger, der er nødvendige for varetagelsen af tilsynet, herunder individbaserede oplysninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ide8785116-1ed7-455b-b9c1-8bf8b5a089ae" localId="18">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="idde5ea8c9-b0be-4e9a-84b2-fc86f218b4c7">
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser truffet af en uddannelsesinstitution eller ansættelsesinstitutionen efter denne lov kan, inden 4 uger efter at vedkommende har fået meddelelse om afgørelsen, indbringes for Uddannelses- og Forskningsministeriet af den, som afgørelsen vedrører.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id85bb7c07-69fb-4be9-abc8-aadadefd9d35">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og Forskningsministeriet kan, indtil 6 måneder efter at klageren har modtaget meddelelse om afgørelsen, se bort fra overskridelse af fristen i stk. 1, når overskridelsen af særlige grunde er undskyldelig.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7ff03a43-3845-4dd7-b44e-7090817a6607">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser truffet af Uddannelses- og Forskningsministeriet efter denne lov kan af den, som afgørelsen vedrører, indbringes for Ankenævnet for Statens Uddannelsesstøtteordninger efter reglerne i lov om Ankenævnet for Statens Uddannelsesstøtteordninger.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Klagen skal indbringes, inden 4 uger efter at klageren har fået meddelelse om afgørelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf1f282c3-c813-47a9-b908-247d4a2ddfcd" localId="19">
+              <Explicatus>§ 17 a.</Explicatus>
+              <Stk id="idf295e410-b74c-4623-941c-cc58860af668">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan bemyndige en statslig myndighed under ministeriet eller andre statslige myndigheder efter forhandling med vedkommende minister til at udøve de beføjelser, der i denne lov er tillagt ministeren eller Uddannelses- og Forskningsministeriet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id088ac1db-069f-4a3b-bac8-7285a085ecf4">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte regler om adgangen til at påklage afgørelser, der er truffet i henhold til bemyndigelse efter stk. 1, herunder at afgørelserne ikke skal kunne påklages.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1be4dbba-3c1a-4cad-a81d-5046f4efaf3b">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte regler om udøvelsen af de beføjelser, som en anden statslig myndighed efter forhandling med vedkommende minister bliver bemyndiget til at udøve efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id2a7da0be-f937-4de8-9117-3af0ad1b713b" localId="9">
+          <Explicatus>Kapitel 9</Explicatus>
+          <Rubrica id="ide13396da-7eb4-4843-b8b0-40c5fc281fe9">
+            <Linea>
+              <Char>Ikrafttræden m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id66e514b1-7a0e-46c0-8e61-a5df707cc156" localId="20">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="id35078553-fcde-42ae-81db-b414a1fe7682">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. august 2000 og har virkning for ydelse af støtte fra den 1. januar 2001, jf. dog stk. 2 og 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1f783b8a-baf7-4b4d-9a89-ab2705e59e86">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Studerende, der er omfattet af loven, og som i henhold til § 63 i lov om aktiv socialpolitik har fået tilsagn om støtte, der går ud over den 1. januar 2001, vil fortsat kunne modtage støtten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbe6fc1cb-9e66-4cb3-a57f-9cbfb8e9d4ac">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren fastsætter nærmere regler om støtte i henhold til stk. 2, herunder om, at støtte ydes af uddannelsesinstitutionen på grundlag af det givne tilsagn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id35e4408a-2ee5-40e5-be82-8f704bed3104" localId="21">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="id05882fc4-51f9-46a8-b42d-e5cc7f7dcac6">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="id9d0c09e3-10c0-4f34-b459-2e26f9c20a64">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 633 af 12. maj 2015 om ændring af SU-loven, lov om erhvervsakademiuddannelser og professionsbacheloruddannelser og lov om specialpædagogisk støtte ved videregående uddannelser (Statens uddannelsesstøtte til supplering i forbindelse med adgangskurset til ingeniøruddannelserne, hjemmel til elektronisk at indhente oplysninger fra indkomstregisteret og til at samkøre og sammenstille oplysningerne i kontroløjemed m.v.) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+        <Nota id="idcb40ab4e-0440-427c-992f-71a739ec029a">
+          <Explicatus>2)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører § 4, stk. 1, nr. 1.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+      </Exitus>
+      <IkraftCentreretParagraf id="id57010fa6-d9ec-416f-98f6-f551a5afe809">
+        <Explicatus>§ 5</Explicatus>
+        <Stk id="id461e28d8-04a8-4645-8626-e26355a67f8d">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. juni 2015, jf. dog stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id608d4946-5c9b-4313-b603-da7f53fc5ea4">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id19b21ce4-7cf3-4713-a965-3c8901006724">
+    <UnderskriftStedDato id="id19b21ce4-7cf3-4713-a965-3c8901006724" />
+    <Underskriver id="id19b21ce4-7cf3-4713-a965-3c8901006724" />
+  </UnderskriftGruppe>
+</Dokument>

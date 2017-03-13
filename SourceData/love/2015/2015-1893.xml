@@ -1,0 +1,2136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id18f1e3b7-3a90-4daa-8864-06f712fa953a" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id58b70767-107b-462d-885e-011c4d101805">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150189330</AccessionNumber>
+    <DocumentId>AN012400</DocumentId>
+    <UniqueDocumentId>176801</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om afgift af kvælstofoxider og forskellige andre love (Nedsættelse af NOx-afgiften, tilretning og senere ophævelse af bundfradraget i NOx-afgiftsloven, indførelse af forbrugsregistrering for afgifterne på affaldsvarme og ændring af visse miljø- og energiafgifter)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-12-29</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-11-17</EndDate>
+    <Status>Valid</Status>
+    <Number>1893</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1165 af 01/09/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1323 af 11/11/2016</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1893 af 29/12/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <EuReferences>31998L0034</EuReferences>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Karsten Lauritzen</Signature>
+    <PlaceOfSignature>Givet på Marselisborg Slot</PlaceOfSignature>
+    <JournalNumber>Skattemin., j.nr. 15-3155177</JournalNumber>
+    <Ministry>Skatteministeriet</Ministry>
+    <AdministrativeAuthority>SKAT</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="idedbcac90-c445-4afc-bbfa-ac497d5445f4">
+    <Titel id="id6caa354e-e4fc-440a-9eff-543ec0ceb965">
+      <Linea>
+        <Char>Lov om ændring af lov om afgift af kvælstofoxider og forskellige andre love</Char>
+      </Linea>
+      <Nota id="id0d82d154-1164-4076-a0e2-69f49c04bc6e" formaNo="EU">
+        <Explicatus>1)</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven har som udkast været notificeret i overensstemmelse med Europa-Parlamentets og Rådets direktiv 98/34/EF (informationsproceduredirektivet) som ændret ved direktiv 98/48/EF.</Char>
+          </Linea>
+        </Exitus>
+      </Nota>
+    </Titel>
+    <UnderTitel id="idaa31b75c-df6b-48a3-8daa-06e9276193e1">
+      <Linea>
+        <Char>(Nedsættelse af NO</Char>
+        <Char formaChar="Subscript">x</Char>
+        <Char>-afgiften, tilretning og senere ophævelse af bundfradraget i NO</Char>
+        <Char formaChar="Subscript">x</Char>
+        <Char>-afgiftsloven, indførelse af forbrugsregistrering for afgifterne på affaldsvarme og ændring af visse miljø- og energiafgifter)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id60e53f7d-b3d8-419a-9cfc-980a9cf1892e">
+    <Hymne id="idee13788c-da26-4f52-9282-b911d4d7a832">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="idfaa830db-9472-4fca-8525-68cfb82efb62">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om afgift af kvælstofoxider, jf. lovbekendtgørelse nr. 1072 af 26. august 2013, som ændret ved § 1 i lov nr. 1385 af 28. december 2011, § 6 i lov nr. 555 af 2. juni 2014 og § 16 i lov nr. 1532 af 27. december 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idc976cff0-90fe-4a29-86a8-bc1dc0d9a683">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id2ad1fa7b-18b7-4ec2-ac2a-4ea910f2debf">
+          <AendringDefinition id="id18c003d8-ec6b-4178-8af1-d82518b8542b">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 2, stk. 1, </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1f566356-8cfc-4ce5-826a-4a240039cf6f">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Afgiften udgør 5,0 kr. pr. kg NO</Char>
+                  <Char formaChar="Subscript">2</Char>
+                  <Char>-ækvivalenter udledt til luften ved forbrænding (grundsats i 2015-niveau).</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id766ba6c5-d5d6-4995-b8c0-3bc368bbd791">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id3fb272a2-7fe1-4076-b9dc-67fee1a0e049">
+          <AendringDefinition id="id1aeba2d8-28f6-4999-a4e0-9c95ff02ca58">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 2, stk. 3, </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7eb733a3-b9af-411c-9225-d324421cb5ba">
+            <AendringNyTekst>
+              <Stk id="id222b48a9-1b8a-4a3b-81b0-82112078c511">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For kalenderår efter 2015 reguleres satserne i stk. 1 og 2 efter § 32 a i lov om energiafgift af mineralolieprodukter m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide5587639-e802-4823-b189-a639db3a6f0a">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="ide8ddb0cb-f8e1-45a5-90a8-18921cbfd65c">
+          <AendringDefinition id="id2526c522-dbef-4885-ab42-d28a88a3c42a">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 3, stk. 5, </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id40ef16d8-4660-4003-89e1-4400face21ca">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id3c6ccf00-41c3-4680-a18b-fad1a144dc12">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 6 bliver herefter stk. 5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="idef34a5a9-4113-40ad-a4fc-c2703884c434">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="idaf003856-6b16-433b-af1e-11a7ccaed755">
+          <AendringDefinition id="id05fb4642-06b5-4f21-9e99-23d65e595927">
+            <Exitus>
+              <Linea>
+                <Char>To steder i</Char>
+                <Char formaChar="Bold">
+                </Char>
+                <Char formaChar="Italic">§ 10, stk. 2,</Char>
+                <Char> indsættes efter »2006«: »eller senere«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id974a1442-4233-4481-a899-0ee0ac7c7106">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida734cad4-6d52-4d80-950b-b04011c1200d">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="ide26494aa-ced8-43b0-a66e-a91fc39d33d1">
+          <AendringDefinition id="ide484896c-bb99-46e1-9f6f-d28814030ee5">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 10</Char>
+                <Char> indsættes efter stk. 2 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9b34551e-0808-4e14-808b-397441bcb6d5">
+            <AendringNyTekst>
+              <Stk id="id7576a48b-dbc4-49b4-9a8b-267b732549ed">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uanset bundfradragene i stk. 2 skal der som minimum betales 20 pct. af den afgift, der skulle have været betalt uden bundfradrag.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idcaa6985e-5540-45e6-8373-492aaf4cae2b">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3-5 bliver herefter stk. 4-6.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id49121159-32ff-43f4-b9f0-950a344f707c">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id1804a3ab-ec56-4513-8e39-e6b5fab74f79">
+          <AendringDefinition id="id4ac42c07-816e-41bb-8bd4-3832a5f21079">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 10, stk. 4, </Char>
+                <Char>der bliver stk. 5, affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0310d04b-5afb-447b-86db-5c1c3331d0cf">
+            <AendringNyTekst>
+              <Stk id="id311428e1-bb81-48ee-a1f4-fb3c01fc587e">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Virksomheder, der opgør afgiften efter § 6, stk. 1, kan beregne et fradrag for fremstilling af grå cement, som er fælles for alle de benyttede brændsler og for alle de benyttede ovn- eller kedelanlæg, og et fradrag for fremstilling af hvid cement, som er fælles for alle de benyttede brændsler og for alle de benyttede ovn- eller kedelanlæg.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Fradrag er i begge tilfælde betinget af, at der sker måling, og at ovn- eller kedelanlæggene m.v. befinder sig på samme geografiske sted.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id038ccc84-8c15-44e9-a468-82990dca45ff">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="idd65f3a02-b95d-4aa8-88bf-0bfd5ed9beeb">
+          <AendringDefinition id="idb4630c24-0b25-4863-9aab-50f29fa0fd56">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 10 </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id20cfbbe2-5a7f-482d-984a-3accae5ad658">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id6622b4fb-8a8c-4ba6-bdfe-67e7a6d739c0">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="idc398683f-50a8-4b19-9d94-606e716e1e3c">
+          <AendringDefinition id="id5e1464ab-15d0-4791-8945-0a3cb0981223">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">Bilag 1 </Char>
+                <Char>affattes som bilag 1 til denne lov.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7aa3fec6-a77c-4c61-86e4-98c8e2b2801b">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id62a8aa1b-b2a0-4dc6-8c35-381fbe04fdab">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om afgift af elektricitet, jf. lovbekendtgørelse nr. 310 af 1. april 2011, som ændret bl.a. ved § 1 i lov nr. 625 af 14. juni 2011, § 1 i lov nr. 70 af 30. januar 2013, § 3 i lov nr. 903 af 4. juli 2013, § 1 i lov nr. 555 af 2. juni 2014 og § 7 i lov nr. 1532 af 27. december 2014 og senest ved § 1 i lov nr. 578 af 4. maj 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id9e5d2fa1-5738-4de7-af23-1c3d4fb7be47">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id1b75a85c-db04-4c9a-8829-90f527f068ed">
+          <AendringDefinition id="idb6ad8423-0cb2-4c3c-827b-9eb282a28f0e">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 6 a</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd4deb611-7578-4eba-ba17-3e58c0058751">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id110c5620-d5f3-4e0d-9aaf-7a333119ba96">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id12bc444f-d35b-4dc5-9d3e-066ec5f0843c">
+          <AendringDefinition id="ida76d3183-7d74-4ea6-b238-876d7e9fc300">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 11, stk. 2, 3. pkt.,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id22c11782-6e16-4a2a-9245-c6b757450541">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida9f9a044-914b-429b-9a5d-6ff71833a980">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="ida6707569-73f8-4265-be4a-7edbe42b805d">
+          <AendringDefinition id="id945e0001-53e2-4c38-8b89-37691ccb2642">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 11, stk. 16, </Char>
+                <Char>indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">5. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idca9a07d7-4b07-49a6-a5d5-09990527dfcb">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Satserne i 2. og 3. pkt. reguleres efter § 32 a i lov om energiafgift af mineralolieprodukter m.v.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id150531f3-cb01-49a9-bfd6-afda8b457804">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="idd4e73d6b-548f-48e8-9f5a-0ead1254c95e">
+          <AendringDefinition id="idddbf3886-ff99-4ac3-a571-ffd1ee8328f7">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 11, stk. 19, 1. </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 2. pkt.,</Char>
+                <Char> ændres »stk. 19« til: »stk. 18«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5924773e-3b83-47a2-927e-568c9522324c">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id361f02fa-4130-4135-a864-7c991642bd03">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id0456a622-34bc-46c4-adb9-706b9d34be95">
+          <AendringDefinition id="id8eb11769-ea57-45b2-a790-f047de3c267f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 11 b</Char>
+                <Char> indsættes efter stk. 2 som nye stykker:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id63ae2949-dfd1-4f98-b2e0-cb41d96d2cc0">
+            <AendringNyTekst>
+              <Stk id="id57e9aec2-84df-4824-9112-fff85a835b5c">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udleveres elektricitet til et aftagenummer, hvorefter elektriciteten helt eller delvis leveres fra land til skibe med en bruttotonnage på mindst 400 t, som ligger ved kaj i havn, godtgøres afgiften af leverancen af elektriciteten til skibene bortset fra 0,4 øre pr. kWh, jf. dog stk. 4.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Godtgørelsen ydes til den, som aftagenummeret omfatter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2511300c-43b4-4017-b183-c4bfd4080e26">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 3 finder ikke anvendelse, i det omfang</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Exitus id="ida0825d6c-70d6-4cd4-9c72-6069f4f6574f">
+                <Index>
+                  <Indentatio id="id5868cc52-ba79-40c8-8c33-7706b1648084" formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>elektricitetens spænding er under 380 V,</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="idf8057143-a025-4ae9-a27e-a00f3af1ffb8" formaInd="Nummer">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>elektriciteten ikke forbruges om bord på skibet,</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="idfd91c116-ca56-488d-9edf-d996aa440132" formaInd="Nummer">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>elektriciteten forbruges til ikkeerhvervsmæssige formål eller</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="ide1ecf456-d54d-4ace-a8be-eedd6f82a4e4" formaInd="Nummer">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>skibet er oplagt eller på anden måde ikke anvendes til søfart.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+              <Stk id="idf71b8e2c-ca69-4bea-9d57-ad2e8b1d0e92">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skatteministeren kan fastsætte nærmere regler for opgørelse af og dokumentation for afgiftsgodtgørelsen efter stk. 3 og 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id59e6be7b-b361-4a15-9e09-65f0a10a38a8">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 3-5 kan dog ikke finde anvendelse efter den 18. juni 2021, jf. Rådets gennemførelsesafgørelse (EU) 2015/993 af 19. juni 2015 om tilladelse til Danmark til at anvende en reduceret afgiftssats på elektricitet, der leveres direkte til fartøjer, som ligger ved kaj i havn, i henhold til artikel 19 i direktiv 2003/96/EF, jf. dog stk. 7.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id41e4a257-f4e8-4bf3-96e8-edc35b0a6a91">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skatteministeren bekendtgør på baggrund af en ny tilladelse fra Rådet, at stk. 3-5 finder anvendelse indtil tidspunktet for udløbet af den periode, hvori godtgørelse efter reglerne i stk. 3-5 kan ske ifølge den nye tilladelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er en forudsætning for anvendelsen af 1. pkt., at der ikke er en periode mellem den tidligere og den efterfølgende tilladelse, som ikke er omfattet af en tilladelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Stk. 6 finder ikke anvendelse for en periode, hvori 1. pkt. finder anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id06820d95-3869-433f-a462-0b773f1c7567">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 bliver herefter stk. 8.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id69e68600-4279-4101-b8b9-9a1da2d2a91b">
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om kuldioxidafgift af visse energiprodukter, jf. lovbekendtgørelse nr. 321 af 4. april 2011, som ændret bl.a. ved § 2 i lov nr. 903 af 4. juli 2013 og senest ved § 6 i lov nr. 1532 af 27. december 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idc0e7830e-63b8-4f22-a36e-4016e2a2873f">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idb6e81deb-8bea-4c2d-b9c1-bcd0d03025aa">
+          <AendringDefinition id="idcadfa819-35c6-4192-a40c-3fa9f07519da">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 7, stk. 1, nr. 3, 2. pkt.,</Char>
+                <Char> ændres »§ 7, stk. 5« til: »§ 7, stk. 8«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide0356bfe-5062-4f23-913a-f014b6b36e2f">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf2daa240-a5f0-4a4c-af5c-326a8807ea69">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id2121fc81-e984-4989-8d82-ad35e03a28c0">
+          <AendringDefinition id="id2a4245b5-3b9a-42bb-a03b-b2311e1bcff2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 7, stk. 2, 5. pkt., </Char>
+                <Char>ændres »§ 9, stk. 3« til: »§ 9 a, stk. 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc4f11c4d-6541-44b0-a286-5347660ccc1b">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id871c366d-d3c0-46ec-a704-3f684d5c2a49">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="idb2003ef0-ebda-4782-85bd-14c6d4ef1b4a">
+          <AendringDefinition id="idaae1d3bc-d2ef-4973-b2ed-9f5aea083d37">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 7</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic">stk. 8:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idde93937c-e007-48c7-b03a-73eea0b29867">
+            <AendringNyTekst>
+              <Stk id="idbc360698-49bb-4a8c-93c3-45409c8ddd6b">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Virksomheder, som forbruger varme leveret fra en ekstern varmeproducent med tilladelse til udledning af CO</Char>
+                    <Char formaChar="Subscript">2</Char>
+                    <Char>, jf. lov om CO</Char>
+                    <Char formaChar="Subscript">2</Char>
+                    <Char>-kvoter, som indebærer betaling af afgift efter § 2, stk. 1, nr. 14, får godtgørelse for afgiften af den andel af varmen, der anvendes til fremstilling af elektricitet, hvoraf der skal betales afgift efter lov om afgift af elektricitet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Andelen beregnes som forholdet mellem på den ene side energiindholdet i den elektricitet, der er fremstillet i perioden, og på den anden side summen af energiindholdet i den elektricitet og varme, der er fremstillet i perioden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id4a8749f5-c14a-47fe-bfdc-5c471e5d6a70">
+      <Explicatus>§ 4</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om afgift af ledningsført vand, jf. lovbekendtgørelse nr. 962 af 27. juni 2013, som ændret ved § 8 i lov nr. 924 af 18. september 2012, § 14 i lov nr. 1634 af 26. december 2013 og § 2 i lov nr. 538 af 29. april 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id79312cbb-6ae3-4537-9fef-4ad77bf9fca0">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id30d6af49-41f1-45fd-98f0-351ed69c78d5">
+          <AendringDefinition id="id6c28c7fd-1155-47ed-911c-7fcc0131c82d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 7, stk. 7, 2. pkt</Char>
+                <Char>.</Char>
+                <Char formaChar="Italic">,</Char>
+                <Char> indsættes efter »kommunen«: »eller den, som på vegne af kommunen varetager opgaven,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8a31479d-5780-4ddc-b227-613ac524430c">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida511a9ee-a7a2-45ec-b2c4-edfef37fad37">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id7c985aa7-8b65-4747-ad91-6d9ad4af955c">
+          <AendringDefinition id="id73d00e5e-193f-4f35-a51d-ac7540123fc1">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Bold">
+                </Char>
+                <Char formaChar="Italic">§ 14, stk. 1, </Char>
+                <Char>indsættes efter 3. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9c30a992-a612-41d2-85e3-31b8fb509b9a">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Kommunen kan bestemme, at almene forsyningsselskaber kan opkræve afgiften.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5c7d2758-2bef-421f-995a-84baadc0d710">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="ide2e24105-446b-4b93-b700-8faf1314aeb7">
+          <AendringDefinition id="iddb264c58-a0a7-4324-92dc-fc593c607cf5">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 14, stk. 1, 4. pkt., </Char>
+                <Char>der bliver 5. pkt.</Char>
+                <Char formaChar="Italic">,</Char>
+                <Char> indsættes efter »er kommunen«: »eller den, som på vegne af kommunen varetager opgaven,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2bad31e6-c574-42c0-9301-3ed3b6868f01">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc698e8c6-b3e2-4335-aa8f-a7a9f5a5e348">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id0a364e54-faa9-4698-9260-0b0f2bed8cb3">
+          <AendringDefinition id="id7330619d-2389-471f-8bd7-5766ed9c0a56">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 14, stk. 3, </Char>
+                <Char>udgår »kommunernes«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idefb1400c-407a-49a6-8a2d-0cb10a76a697">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idb07acf63-f7d7-43bc-a9dd-f777c40deb69">
+      <Explicatus>§ 5</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om energiafgift af mineralolieprodukter m.v., jf. lovbekendtgørelse nr. 1118 af 26. september 2014, som ændret senest ved § 18 i lov nr. 1532 af 27. december 2014, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id86be5cd0-9a1a-435c-8022-bc5ae9e74a85">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id8aab089e-90ab-44da-bd7e-76be5b72a3e8">
+          <AendringDefinition id="idc3b8ed94-14b0-4543-a288-3bce95a9c67e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 8, stk. 1, nr. 6, </Char>
+                <Char>ændres »Miljø- og energiministeriets bekendtgørelse« til: »bekendtgørelse nr. 1670 af 14. december 2006«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id21d04865-b810-48cc-ba47-1e8239931daa">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id6620b0ec-2d8e-410d-a906-882625a33e5b">
+      <Explicatus>§ 6</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om afgift af spildevand, jf. lovbekendtgørelse nr. 938 af 27. juni 2013, som ændret ved § 1 i lov nr. 522 af 12. juni 2009, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idf0182408-d4f6-4e39-86f3-9719a61a94e7">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id20b7181c-2172-45f0-a1b7-581e559dcab5">
+          <AendringDefinition id="id16d6c650-60fc-44b7-804f-a00b2d321147">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Bold">
+                </Char>
+                <Char formaChar="Italic">§ 7, stk. 10, </Char>
+                <Char>indsættes efter »kommunale myndigheder«: »eller fra den, som på vegne af de kommunale myndigheder varetager opgaven med opkrævning af afgifter efter denne lov,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id24e83d8a-138d-4381-b382-c5c61c3f38c1">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="iddf0c6265-7c4b-4cb5-b448-1c2b66687e5e">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idbead4e29-0d4d-4e90-8a79-b67528ea1010">
+          <AendringDefinition id="id12ca0742-9e92-436a-bdb3-87e9ed852e31">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 15, stk. 2, </Char>
+                <Char>indsættes efter 2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide4264c3a-43d9-4bd5-ba70-2441635767c6">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Kommunen kan bestemme, at almene forsyningsselskaber kan opkræve afgiften.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id22468b7d-55e4-43d4-8a09-8661783152d0">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id5f94b14f-2474-4b18-8e59-b7a2d4dbe265">
+          <AendringDefinition id="id8cfa767b-52f4-4ab0-8317-407d89df6d27">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 15, stk. 2, 3. pkt.,</Char>
+                <Char> der bliver 4. pkt.,</Char>
+                <Char formaChar="Italic">
+                </Char>
+                <Char>indsættes efter »er kommunen«: »eller den, som på vegne af kommunen varetager opgaven,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb6126faf-450b-4b83-851f-62ab3ed10746">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id44c7f793-465a-4c55-ad6c-17af1f04a90a">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="ide1ed8e14-8d51-4c86-b530-33d0a36fe823">
+          <AendringDefinition id="idb5b5ed69-9dbf-4449-9e4a-0d1e62412c0d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 15, stk. 3,</Char>
+                <Char> udgår »kommunernes«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida03ac872-baaa-4c80-8045-aeba4bdcf75a">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id403de44a-134b-4fb9-918c-566576daab55">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="idf6fcb025-11b3-48f3-88ba-959a86452133">
+          <AendringDefinition id="id1965e2aa-abcc-49d2-ab03-cedb7f6f5bd6">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 15, stk. 3, </Char>
+                <Char>ændres »stk. 4« til: »stk. 2«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id06b3bba1-757b-4a58-8873-92213b877e20">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id59e69a95-4f9b-4e0b-a70f-b87a3ea1efca">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id4fe691f9-6797-4292-85af-cb9e72d67079">
+          <AendringDefinition id="id2c7fd603-196d-44f3-9e8c-d0407986a81a">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 18, stk. 4, </Char>
+                <Char>ændres »§ 15, stk. 4« til: »§ 15, stk. 2«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3f360cf8-c117-4374-bbcc-c5c667c99248">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idb034b8df-ed69-4447-98dd-d09e36c8910d">
+      <Explicatus>§ 7</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om afgift af stenkul, brunkul og koks m.v., jf. lovbekendtgørelse nr. 1080 af 3. september 2015, som ændret ved § 3 i lov nr. 1564 af 21. december 2010, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idbf683fef-6369-4a86-95c0-47fe916e6dcb">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="ide4f0471a-9d1a-479c-9153-c41b9eb709d4">
+          <AendringDefinition id="idbcbcf1ee-f452-47a7-b865-de6170931838">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 2, stk. 4, </Char>
+                <Char>indsættes efter »omfattet af bilag 1,«: »fra en affaldsforbrændingsvirksomhed registreret efter stk. 2,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id593d4d00-4154-4f84-b5e3-15049dbf102c">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id039043dc-2e7b-4399-82d9-9a89391f72a9">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id7d564065-a0e9-42f1-a916-fc938542f481">
+          <AendringDefinition id="id043dcff2-3ddc-4964-ab93-c90e617d6d09">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 2, stk. 5, 1. pkt.,</Char>
+                <Char> indsættes efter »bilag 1 til denne lov«: »eller fra en affaldsforbrændingsvirksomhed registreret efter stk. 2«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb6d7d235-df15-405e-ac15-c28293656f1c">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5a64b796-5ad4-4a22-b600-b30befdf979f">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="idce4e7ccb-6e9a-4899-93b1-95b9d37bc58d">
+          <AendringDefinition id="id8af72cbf-5918-49d7-a635-3de65277a8c2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 3</Char>
+                <Char> udgår »med undtagelse af virksomheder, som alene er registreret efter § 2, stk. 2,« og »efter § 1, stk. 1, nr. 1-4,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id09d9a979-3e69-44e9-bc95-ce4065a93f14">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id486354ea-6c7c-47f8-b73a-aeb4581f1731">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="idea43d1bc-c334-4991-a9a3-f34b0fa8cacb">
+          <AendringDefinition id="id780fd777-47fc-4190-a96e-9b25e4f4994f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 5, stk. 1, 1. pkt., </Char>
+                <Char>ændres »der udvinder eller fremstiller afgiftspligtige varer omfattet af § 1, stk. 1, nr. 1-4« til: »der er registreret efter § 2, stk. 1 eller 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc09a1182-af7b-4768-acde-d1f11968708f">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id0fae8443-f297-4523-95dc-90d3ba9f93cb">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="ide95f5466-2361-4a04-aeab-44bb2179ae8b">
+          <AendringDefinition id="id301d6b2a-7234-47b4-b2a9-d50e42f41e1e">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Bold">
+                </Char>
+                <Char formaChar="Italic">§ 5, stk. 15, 1. pkt., </Char>
+                <Char>indsættes efter »§ 2, stk. 1«: »eller 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id447a5a7d-1308-49cb-b589-d557355f14b5">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id0e19299f-8689-4176-8a92-7741a62c1ab5">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="iddc08d0c4-0755-4307-a65d-e6653934ad42">
+          <AendringDefinition id="id06d8eabb-a9ad-4513-9eda-45e9f55a68a4">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 5, stk. 15, 2. pkt.,</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic">stk. 20,</Char>
+                <Char> to steder i </Char>
+                <Char formaChar="Italic">§ 5, stk. 21,</Char>
+                <Char> tre steder i </Char>
+                <Char formaChar="Italic">§ 5, stk. 22,</Char>
+                <Char> og i </Char>
+                <Char formaChar="Italic">§ 5, stk. 23,</Char>
+                <Char> ændres »kul« til: »varer«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida5d23dc7-67b8-47f3-a657-d0a24688358c">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1361bac8-4a18-414b-8570-b969278426f7">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="iddc1d0f1d-ec37-42a9-81e5-d130adee8435">
+          <AendringDefinition id="id235eb258-63b0-4356-9186-9ce3cf6ff646">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 5, stk. 20, </Char>
+                <Char>indsættes efter »omfattet af bilag 1 til denne lov,«: »en affaldsforbrændingsvirksomhed registreret efter § 2, stk. 2, eller«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ided22d5d0-2810-46b8-8b7e-8d65d025788e">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide7c37219-ec3a-4833-9e73-832a8cedd4a8">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id5946bdd4-61a6-4eb5-9022-68cb8d35924a">
+          <AendringDefinition id="idbf30c7a1-d91e-4d45-8b99-96b7f356a88b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 5, stk. 21, 1. pkt.,</Char>
+                <Char> indsættes efter »bilag 1 til denne lov«: »eller fra en affaldsforbrændingsvirksomhed registreret efter § 2, stk. 2«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfa074514-d130-40f9-a7d7-47cd74d49aa6">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id37dfb8b9-89a9-436f-a10c-38e81116ee4f">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="ide8e2be5d-719c-4f89-adc2-ca7d1d6ac25c">
+          <AendringDefinition id="idfd87c9e6-5967-43be-94e3-c2e8c122716e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 5, stk. 22, 1. pkt.,</Char>
+                <Char> indsættes efter »§ 7, stk. 1«: »eller 5«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id485889c7-1459-40d8-8b52-03161ed791a0">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="ide9714e67-0aa8-40cc-a312-0fa179ca9c5c">
+      <Explicatus>§ 8</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om afgift af svovl, jf. lovbekendtgørelse nr. 335 af 18. marts 2015, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id09862247-93ba-4e3a-b24f-cf771c037fe5">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id1e05aa6b-d56b-4ce5-8513-ab419cf62666">
+          <AendringDefinition id="idfb030a06-4608-4139-b8ec-1b0bf50ea803">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 1, nr. 2, </Char>
+                <Char>affattes således: »Fuelolie og bitumen.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id78d398f2-76f7-48d3-b13d-33dc259d554f">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id71834dcb-78c1-4a5a-93bf-99ab72f731ab">
+      <Explicatus>§ 9</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 578 af 4. maj 2015 om ændring af lov om afgift af elektricitet og momsloven (Tilpasninger til engrosmodellen m.v. og indførelse af omvendt betalingspligt på gas- og elmarkedet) foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id304d41c6-e0b4-4210-b271-be7d69706984">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id770b6487-676e-4d57-a1a3-2060b728e5f3">
+          <AendringDefinition id="id346d68cc-cdda-4a82-b4c8-43ca121ed5ab">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 1, nr. 12, </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9bf1ff6b-0414-4ce4-a5de-8cfc92e1dafb">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf48eb293-e894-4bbd-9f1b-5b9ff793df8f">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id188b4970-20ce-40b1-bc1c-035a7bffdb77">
+          <AendringDefinition id="id210e80c7-e3d8-4205-ba09-82889a4af253">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 5, stk. 1,</Char>
+                <Char> ændres »stk. 2 og 3« til: »stk. 2«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9422a564-d19e-4e55-935f-032726fa6310">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb3a56009-fa07-43ef-8dd0-ecab4b71f62e">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id16c23706-912c-4009-8510-50ffefd7379d">
+          <AendringDefinition id="idb4b39097-1e7e-4a13-815c-d43bed77867f">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 5, stk. 3 </Char>
+                <Char>og </Char>
+                <Char formaChar="Italic">4, </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6a6d29d1-8fd8-4524-a64e-a938783319b6">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id12034fb7-8ae7-4ce8-87e5-562280ffa2c4">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 5 og 6 bliver herefter stk. 3 og 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="idd822e7bb-28e2-4933-aeda-9d44ce6ed9f1">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="idce7a77e7-63fa-45d0-8d95-0d72cf1ace6b">
+          <AendringDefinition id="idfa638fab-2311-42e9-a1f8-d0e650bc7cf4">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 5, stk. 6,</Char>
+                <Char> der bliver stk. 4, ændres »stk. 5« til: »stk. 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idde7a8a2b-ef3d-4b1e-b97c-f935113252ec">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id56f143f7-f23f-47cd-8ce7-ac2ba23b2e27">
+      <Explicatus>§ 10</Explicatus>
+      <Stk id="id18be36db-ec25-4b97-876e-db4d2cfbc64e">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2016, jf. dog stk. 2 og 3.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id7e386b6e-6496-4c66-87b5-a5b178883732">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 2, nr. 1, 2 og 5, og § 9 træder i kraft den 1. april 2016.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idc71a163e-64c7-4a94-ae73-9327c0509056">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 1-3, 7 og 8, træder i kraft den 1. juli 2016.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id4a5254c3-b832-4c6a-abc7-8ca097657d11">
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven finder anvendelse på afgiftspligtige varer, der fra tidspunktet for lovens ikrafttræden, jf. stk. 1-3, udleveres til forbrug fra registrerede virksomheder eller forbruges af registrerede virksomheder.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="ida09658af-f983-40e7-8171-4fa19c879139">
+    <UnderskriftStedDato id="ida09658af-f983-40e7-8171-4fa19c879139" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="ida09658af-f983-40e7-8171-4fa19c879139" />
+  </UnderskriftGruppe>
+  <Bilag id="id708b5e81-8fb6-4429-be47-5d0acd26c60f" localId="1">
+    <Explicatus>Bilag 1</Explicatus>
+    <BilagIndhold id="id61046700-e9d7-4708-8393-ddcf8e9db123">
+      <TekstGruppe id="idd9f9727d-003a-4bef-a8ed-91c2dba4ddb6">
+        <Exitus formaEx="Center">
+          <Linea>
+            <Char formaChar="Bold">»Bilag 1: Satser for § 2, stk. 2, i lov om afgift af kvælstofoxider</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Table width="662" cellpadding="0.1cm,0.1cm,0.1cm,0.1cm" style="column-width: 373pt 51pt 73pt;border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Center">
+                  <Linea>
+                    <Char>Grundsats i 2015-niveau</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char formaChar="Bold">Satser ved dagtemperatur</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Gas- og dieselolie, der anvendes som motorbrændstof</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/l</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anden gas- og dieselolie</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/l</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Svovlfri dieselolie</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/l</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>4.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Fuelolie</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/kg</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>2,8</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>5.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Fyringstjære</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/kg</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>2,6</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>6.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Petroleum, der anvendes som motorbrændstof</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/l</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>7.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anden petroleum</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/l</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>8.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Autogas</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/l</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>1,7</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>9.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anden flaskegas og gas, der fremkommer ved raffinering af mineralsk olie og anvendes som motorbrændstof</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/kg</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>3,2</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>10.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anden flaskegas og gas, der fremkommer ved raffinering af mineralsk olie</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/kg</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>11.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Naturgas, dog ikke til motorer</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/Nm</Char>
+                    <Char formaChar="Superscript">3</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,8</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>12.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Naturgas til motorer (inklusive stationære)</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/Nm</Char>
+                    <Char formaChar="Superscript">3</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>2,8</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>13.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kul, koks, brunkul, orimulsion og petroleumskoks</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>kr./GJ</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,5</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>14.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Blyholdig benzin (blyindhold over 0,013 g/l)</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/l</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,8</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>15.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Blyfri benzin (blyindhold højst 0,013 g/l)</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/l</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,8</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>16.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kul, koks, brunkul, orimulsion og petroleumskoks</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>kr./t</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>15,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>17.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Biogas og anden flydende VE til motor i store anlæg med en indfyret effekt på over 1.000 kW</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>kr./GJ</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>1,0</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>18.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Biogas og anden flydende VE til andet end motor i store anlæg med en indfyret effekt på over 1.000 kW</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>kr./GJ</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,3</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 0pt none #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>19.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Halm og anden fast biomasse, bortset fra træflis, i store anlæg med en indfyret effekt på over 1.000 kW</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 0pt none #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>kr./t eller</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 0pt none #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>6,7</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>kr./GJ</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 0pt none #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,5</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>20.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Træflis i store anlæg med en indfyret effekt på over 1.000 kW</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>kr./GJ</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,5</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;" />
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;" />
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char formaChar="Bold">Satser ved 15 °C</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Gas- og dieselolie, der anvendes som motorbrændstof</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/l</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anden gas- og dieselolie</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/l</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Svovlfri dieselolie</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/l</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>4.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Fuelolie</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/kg</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>5.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Fyringstjære</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/kg</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>6.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Petroleum, der anvendes som motorbrændstof</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/l</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>7.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anden petroleum</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/l</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>8.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Autogas</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/l</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>9.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anden flaskegas og gas, der fremkommer ved raffinering af mineralsk olie og anvendes som motorbrændstof</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/kg</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>10.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anden flaskegas og gas, der fremkommer ved raffinering af mineralsk olie</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/kg</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>11.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Naturgas, dog ikke til motorer</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/Nm</Char>
+                    <Char formaChar="Superscript">3</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>12.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Naturgas til motorer (inklusive stationære)</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/Nm</Char>
+                    <Char formaChar="Superscript">3</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>13.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kul, koks, brunkul, orimulsion og petroleumskoks</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>kr./GJ</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>14.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Blyholdig benzin (blyindhold over 0,013 g/l)</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/l</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,8</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>15.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Blyfri benzin (blyindhold højest 0,013 g/l)</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>øre/l</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="bottom" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaEx="Right">
+                  <Linea>
+                    <Char>0,8</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>16.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kul m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>kr./t</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>17.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Biogas og anden flydende VE til motor i store anlæg med en indfyret effekt på over 1.000 kW</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>kr./GJ</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>18.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Biogas og anden flydende VE til andet end motor i store anlæg med en indfyret effekt på over 1.000 kW</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>kr./GJ</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>19.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Halm og anden fast biomasse, bortset fra træflis, i store anlæg med en indfyret effekt på over 1.000 kW</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>kr./t eller kr./GJ</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>20.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Træflis i store anlæg med en indfyret effekt på over 1.000 kW</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>kr./GJ</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;" />
+            </Tr>
+          </Table>
+        </Exitus>
+        <Exitus formaEx="Right">
+          <Linea>
+            <Char>«</Char>
+          </Linea>
+        </Exitus>
+      </TekstGruppe>
+    </BilagIndhold>
+  </Bilag>
+</Dokument>

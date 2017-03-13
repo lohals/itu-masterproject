@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2014/09/26/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150005530</AccessionNumber>
+    <DocumentId>BP001171</DocumentId>
+    <UniqueDocumentId>167732</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af bogføringsloven\n(Opbevaring af regnskabsmateriale m.v.)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-01-27</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2015-01-28</EndDate>
+    <Status>Valid</Status>
+    <Number>55</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 55 af 27/01/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Henrik Sass Larsen</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Erhvervs- og Vækstmin.,\nErhvervsstyrelsen, j.nr. 2014-7244</JournalNumber>
+    <Ministry>Erhvervs- og Vækstministeriet</Ministry>
+    <AdministrativeAuthority>Erhvervsstyrelsen</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af bogføringsloven</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Opbevaring af regnskabsmateriale m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>I bogføringsloven, jf. lovbekendtgørelse nr. 648 af 15. juni 2006, som ændret ved § 62 i lov nr. 468 af 17. juni 2008 og § 5 i lov nr. 1231 af 18. december 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 12</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 12.</Explicatus>
+                <Stk>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Regnskabsmaterialet skal opbevares på en sådan måde, at det uden vanskeligheder kan gøres tilgængeligt her i landet for offentlige myndigheder m.fl., som i henhold til anden lovgivning har ret til at kræve indsigt i regnskabsmaterialet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Regnskabsmaterialet kan opbevares i elektronisk form her i landet eller i udlandet, hvis den bogføringspligtige</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus formaEx="Align">
+                          <Linea>
+                            <Char>opbevarer regnskabsmaterialet i overensstemmelse med denne lov,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus formaEx="Align">
+                          <Linea>
+                            <Char>til enhver tid kan fremskaffe materialet og give adgang til dette her i landet,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus formaEx="Align">
+                          <Linea>
+                            <Char>opbevarer eventuelle beskrivelser af benyttede systemer m.v. og eventuelle nødvendige adgangskoder m.v. her i landet og</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>sørger for, at regnskabsmaterialet udskrives i klarskrift eller stilles til rådighed i et anerkendt filformat.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Opbevares regnskabsmaterialet ikke i elektronisk form, skal det opbevares i papirform her i landet, jf. dog stk. 4-6.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Regnskabsmaterialet kan opbevares i papirform i Finland, Island, Norge eller Sverige.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Bestemmelserne i stk. 2, nr. 1 og 2, finder tilsvarende anvendelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Regnskabsmaterialet for indeværende og forrige måned kan opbevares i papirform i udlandet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Bestemmelserne i stk. 2, nr. 1 og 2, finder tilsvarende anvendelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 6.</Explicatus>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Interne og eksterne bilag for den bogføringspligtiges aktiviteter i udlandet kan opbevares i papirform i det pågældende land i hele opbevaringsperioden, jf. § 10.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Øvrigt regnskabsmateriale for den bogføringspligtiges aktiviteter i udlandet kan under de samme betingelser opbevares i papirform i det pågældende land for indeværende måned og de foregående 3 måneder.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Bestemmelserne i stk. 2, nr. 1 og 2, finder tilsvarende anvendelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 15, stk. 1,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>En offentlig myndighed kan, i det omfang den i henhold til anden lovgivning er berettiget til at kræve indsigt i den bogføringspligtiges regnskabsmateriale, forlange, at den bogføringspligtige vederlagsfrit stiller alt, hvad der er nødvendigt til fremfinding og læsning af regnskabsmaterialet, til disposition, og at regnskabsmaterialet indsendes eller udleveres, når myndigheden anmoder herom.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Endvidere kan myndigheden forlange, at registreringer i fremmed valuta, herunder euro, omregnes til danske kroner.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Er regnskabsmaterialet bortset fra eksterne bilag affattet på andre sprog end dansk eller engelsk, kan myndigheden kræve, at den bogføringspligtige vederlagsfrit oversætter dette til dansk eller engelsk.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>Den i stk. 1 fastsatte adgang til regnskabsmaterialet gælder også, hvis regnskabsmaterialet opbevares hos tredjemand.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>Opbevares regnskabsmaterialet i elektronisk form, kan en myndighed forlange, at regnskabsmaterialet udleveres i et anerkendt filformat i elektronisk form eller indsendes digitalt i et anerkendt filformat i henhold til regler, der er udstedt i medfør af § 1 a.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2 og 3 bliver herefter stk. 4 og 5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 16, stk. 1,</Char>
+                <Char> ændres »§ 12, stk. 1-3« til: »§ 12, stk. 1-6«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. marts 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

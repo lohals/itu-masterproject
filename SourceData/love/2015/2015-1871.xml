@@ -1,0 +1,1275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id54cb63be-d300-4a1f-a36d-c58ec7b3e17c" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id313b9c5c-6f8d-429c-80a6-27c235c1e777">
+    <DocumentType>LOV H#LOKDOK 01</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150187130</AccessionNumber>
+    <DocumentId>CE000342</DocumentId>
+    <UniqueDocumentId>176805</UniqueDocumentId>
+    <DocumentTitle>Lov om anerkendelse af visse uddannelses- og erhvervsmæssige kvalifikationer</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-12-29</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-21</EndDate>
+    <Status>Valid</Status>
+    <Number>1871</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1871 af 29/12/2015</DokumentKortNavn>
+    <PopularTitle>Anerkendelsesloven</PopularTitle>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <EuReferences>32005L0036</EuReferences>
+    <EuReferences>32013L0055</EuReferences>
+    <Subject>Anerkendelse</Subject>
+    <Subject>anerkendelsesdirektivet</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Esben Lunde Larsen</Signature>
+    <PlaceOfSignature>Givet på Marselisborg Slot</PlaceOfSignature>
+    <JournalNumber>Uddannelses- og Forskningsmin.,\nStyrelsen for Videregående Uddannelser, j.nr. 15/024414</JournalNumber>
+    <Ministry>Uddannelses- og Forskningsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="idf6c5403d-379d-4f28-b351-7237f727c75d">
+    <Titel id="ide300032b-35c0-4d3f-9395-dded65a40e0c">
+      <Linea>
+        <Char>Lov om anerkendelse af visse uddannelses- og erhvervsmæssige kvalifikationer</Char>
+      </Linea>
+      <Nota id="id5a73cd1d-2450-48ac-aa74-65e7c04d41ee" formaNo="EU">
+        <Explicatus>1)</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2005/36/EF af 7. september 2005 om anerkendelse af erhvervsmæssige kvalifikationer, EU-Tidende 2005, nr. L 255, side 22, som senest ændret ved Europa-Parlamentets og Rådets direktiv 2013/55/EU af 20. november 2013 om ændring af direktiv 2005/36/EF om anerkendelse af erhvervsmæssige kvalifikationer og forordning (EU) nr. 1024/2012 om det administrative samarbejde ved hjælp af informationssystemet for det indre marked (»IMI-forordningen«), EU-Tidende 2013, nr. L 354, side 132.</Char>
+          </Linea>
+        </Exitus>
+      </Nota>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id7789f351-a28a-4bd6-bd93-7011c15b05cc">
+    <Hymne id="id311336a5-b2d9-4ac0-9b08-1d6bf33f0194">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <Bog id="id5adb6335-da39-4ea4-9ccc-9ec1be88ea21">
+      <Afsnit id="id32edc537-9b13-4dfe-95fb-717feef72856" localId="1">
+        <Kapitel id="id520483c3-aaa2-47e1-8b04-49d089f0550c" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="id43d2ac2c-d9e8-41ba-a294-f02a61859cfb">
+            <Linea>
+              <Char>Anvendelsesområde</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id2c0590e5-f750-4960-8020-5138e988dc35" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="id94deb8c5-1ca8-4990-bf5f-03b34c5bc934">
+                <Exitus>
+                  <Linea>
+                    <Char>Denne lov finder anvendelse på:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idc906d1c3-ecda-43ef-825b-baf582305eeb">
+                  <Index>
+                    <Indentatio id="idb788575d-d676-4517-9615-3ffa9a32165a" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Sager om, hvorvidt en person, der med henblik på etablering ansøger om adgang til udøvelse af et lovreguleret erhverv i Danmark, opfylder de betingelser, som er en forudsætning for adgang til som selvstændig erhvervsdrivende eller arbejdstager at udøve dette erhverv, når personen påberåber sig anerkendelse af udenlandske erhvervsmæssige kvalifikationer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id46f12f6d-417d-4a47-9f2f-985f22e9d239" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Sager, hvor en person som selvstændig erhvervsdrivende eller arbejdstager agter midlertidigt og lejlighedsvis at levere tjenesteydelser inden for et lovreguleret erhverv i Danmark, når personen påberåber sig udenlandske erhvervsmæssige kvalifikationer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf05cfb22-22f5-4675-9366-70daa94a3f38" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Sager om personer, som udøver et af de erhverv, der er nævnt i artikel 56 a, stk. 1, i Europa-Parlamentets og Rådets direktiv 2005/36/EF af 7. september 2005 om anerkendelse af erhvervsmæssige kvalifikationer med senere ændringer, og som har fået begrænset retten til at udøve deres erhverv af en offentlig myndighed eller en domstol.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id27ae114c-8429-4d7e-b2c5-b387556c30fe" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Sager om personer, der i forbindelse med anerkendelse af deres erhvervsmæssige kvalifikationer til brug for udøvelse af et lovreguleret erhverv har benyttet forfalsket dokumentation for disse kvalifikationer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id4897007b-ca5e-4865-bbc0-e982d6975336">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det lovregulerede erhverv, jf. stk. 1, skal i Danmark være omfattet af Europa-Parlamentets og Rådets direktiv 2005/36/EF af 7. september 2005 om anerkendelse af erhvervsmæssige kvalifikationer med senere ændringer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfcc58c47-e667-4172-bd44-121f588d2920">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven finder anvendelse på sager om det europæiske erhvervspas til et erhverv, hvor den person, der ansøger om europæisk erhvervspas, allerede lovligt er etableret som erhvervsudøver i Danmark, eller hvor personen har opnået sine erhvervsmæssige kvalifikationer i Danmark.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>1. pkt. finder anvendelse, uanset om erhvervet i Danmark er omfattet af Europa-Parlamentets og Rådets direktiv 2005/36/EF af 7. september 2005 om anerkendelse af erhvervsmæssige kvalifikationer med senere ændringer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idd14f2efa-b47e-4c17-a311-5dfd7223f026" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="ida772c768-2483-4ec3-a0bf-35a63f8ada0e">
+            <Linea>
+              <Char>Definitioner</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id1efd4897-7231-4e63-a974-73be6f1cdfd7" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="iddabc8c92-0255-4250-8725-21bf907c251f">
+                <Exitus>
+                  <Linea>
+                    <Char>I denne lov forstås ved:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id857cf9cc-8a96-400b-8c61-97274adc9342">
+                  <Index>
+                    <Indentatio id="id5dda121f-b1b8-4d6e-9f55-f252deed2460" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char formaChar="Italic">Anerkendelsesdirektivet:</Char>
+                          <Char> Europa-Parlamentets og Rådets direktiv 2005/36/EF af 7. september 2005 om anerkendelse af erhvervsmæssige kvalifikationer, EU-Tidende 2005, nr. L 255, side 22, som senest ændret ved Europa-Parlamentets og Rådets direktiv 2013/55/EU af 20. november 2013 om ændring af direktiv 2005/36/EF om anerkendelse af erhvervsmæssige kvalifikationer og forordning (EU) nr. 1024/2012 om det administrative samarbejde ved hjælp af informationssystemet for det indre marked (»IMI-forordningen«), EU-Tidende 2013, nr. L 354, side 132.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd483be42-ce00-4288-89f9-16213fc05fea" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char formaChar="Italic">Medlemslande:</Char>
+                          <Char> Det Europæiske Fællesskabs medlemsstater, lande i Det Europæiske Økonomiske Samarbejdsområde og andre lande, som EU har indgået aftale med om adgang til udøvelse af lovregulerede erhverv.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc88f00ac-6038-4f67-9093-305bb70bddd4" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char formaChar="Italic">Lovreguleret erhverv:</Char>
+                          <Char> En eller flere former for erhvervsmæssig virksomhed under et, når der enten direkte eller indirekte ifølge love eller administrative bestemmelser kræves bestemte erhvervsmæssige kvalifikationer for adgang hertil eller udøvelse eller en form for udøvelse heraf.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="iddbe7a8d0-8884-4fa6-9648-0405a1b68671" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char formaChar="Italic">Erhvervsmæssige kvalifikationer:</Char>
+                          <Char> Kvalifikationer, som er attesteret ved et uddannelsesbevis, et kursusbevis og/eller erhvervserfaring.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7c140a0a-c1e2-45bd-b8a9-9afa494c544e" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char formaChar="Italic">Kompetente myndigheder:</Char>
+                          <Char> Alle myndigheder eller organer, der er særligt bemyndigede til at udstede og modtage uddannelsesbeviser og andre dokumenter eller oplysninger og til at modtage ansøgninger og træffe afgørelser om adgang til udøvelse af lovregulerede erhverv.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idcddfdd1c-2e80-4efb-b56e-128bbe7e338d" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char formaChar="Italic">Europæisk erhvervspas:</Char>
+                          <Char> Et elektronisk certifikat enten som bevis for, at erhvervsudøveren opfylder alle nødvendige betingelser med henblik på midlertidig eller lejlighedsvis levering af tjenesteydelser i et værtsland, eller for anerkendelse af erhvervsmæssige kvalifika­ti‌oner med henblik på etablering i et værtsland.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id59f20b09-6366-4627-9128-fb7e1d5b7690" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char formaChar="Italic">IMI:</Char>
+                          <Char> Det elektroniske informationssystem for det indre marked, jf. Europa-Kommissionens forordning (EU) nr. 1024/2012 om det administrative samarbejde ved hjælp af informationssystemet for det indre marked (»IMI-forordningen«).</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="iddf03d307-1900-4255-873d-7daee590d19e" formaInd="Nummer">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char formaChar="Italic">Praktikophold: </Char>
+                          <Char>En periode med praktik, der gennemføres under opsyn, forudsat at det er en betingelse for adgang til et lovreguleret erhverv, og som kan finde sted enten under eller efter afslutningen af en uddannelse, der fører til et eksamensbevis.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1c0dd4eb-4b5a-4213-b787-ada0a93afd17" formaInd="Nummer">
+                      <Explicatus>9)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char formaChar="Italic">Fælles uddannelsesrammer:</Char>
+                          <Char> Fælles  minimumsviden,  -‌færdigheder og -kompetencer med henblik på udøvelse af et bestemt erhverv.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idbc8a4c5e-1b1f-418f-b8ea-ae5641a92cde" formaInd="Nummer">
+                      <Explicatus>10)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char formaChar="Italic">Fælles uddannelsestest:</Char>
+                          <Char> En standardiseret egnethedsprøve, som er tilgængelig i alle deltagende medlemslande og forbeholdt indehaverne af en bestemt erhvervsmæssig kvalifikation.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id5b15e104-4fed-41ee-a073-04115744f44b" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="idfbc65351-ccdd-4556-8baa-ef384806ddc4">
+            <Linea>
+              <Char>Principper for erhvervsudøvelse</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id35aebafe-ba19-45e7-9d53-a4b197288cbb" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id44641042-d284-4b09-ab73-342b39534bae">
+                <Exitus>
+                  <Linea>
+                    <Char>Personer, der er statsborgere i et medlemsland, har adgang til at udøve et lovreguleret erhverv i Danmark og udøve det på samme vilkår, som gælder for personer med danske erhvervsmæssige kvalifikationer, hvis personerne opfylder betingelserne i anerkendelsesdirektivet, jf. dog § 10.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6bff233a-30a4-4a6f-af99-65ea9d21e9bf">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En person, der som tjenesteyder midlertidigt og lejlighedsvis leverer tjenesteydelser i Danmark, er underlagt de faglige, fagretlige og administrative adfærdsregler, der er direkte knyttet til erhvervet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id97f5633f-40f2-4cdd-93f4-0b6e49784742" localId="4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="idaea7914d-95be-4f0b-8195-e1042488a781">
+            <Linea>
+              <Char>Indgivelse af ansøgning og anmeldelse</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idb1791445-611e-4c1f-b3a9-792abdd46149" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id916f6f5d-1d52-4533-96dd-7388963f7ccb">
+                <Exitus>
+                  <Linea>
+                    <Char>Personer med udenlandske erhvervsmæssige kvalifikationer skal indgive ansøgning om adgang til varigt at udøve et lovreguleret erhverv i Danmark (etablering) til den kompetente myndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8f3cbc4a-5bba-4b6a-9f6c-55efd114ef33">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Personer med udenlandske erhvervsmæssige kvalifikationer, der agter midlertidigt og lejlighedsvis at udøve et lovreguleret erhverv i Danmark, skal inden erhvervsudøvelsen ved en anmeldelse underrette den kompetente myndighed, hvis der er fastsat krav om anmeldelse i de regler, der gælder for erhvervet for den pågældende personkreds.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anmeldelsen skal fornyes en gang om året.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id31675a53-499c-497c-9705-6c915cf562fe">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ansøgning om europæisk erhvervspas til brug for etablering eller anmeldelse af midlertidig og lejlighedsvis levering af tjenesteydelser i et eller flere medlemslande skal indgives til den kompetente myndighed ved anvendelse af den elektroniske løsning i IMI, som myndigheden giver adgang til.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>En ansøgning om europæisk erhvervspas indgivet via den elektroniske løsning i IMI anses for at være kommet frem, når den er tilgængelig for den kompetente myndighed i IMI.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ansøgninger, der ikke indgives via den elektroniske løsning, afvises af myndigheden, jf. dog stk. 5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id746d33c6-45a2-4f97-a4dc-ff2ab42d3381">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den kompetente myndighed modtager sager om europæisk erhvervspas sendt fra andre medlemslandes kompetente myndigheder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf37d169a-713a-46fd-bdf0-b13a0003d60e">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vedkommende minister kan fastsætte regler om muligheden for at indgive ansøgning om europæisk erhvervspas på anden måde end ved anvendelse af den elektroniske løsning efter stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id13cfba7b-95d4-4ed6-b276-da3e1bc19f69" localId="5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica id="id685cebfa-03be-401e-ade8-1ec60074b790">
+            <Linea>
+              <Char>Anerkendelsesprocedure for etablering og midlertidig og lejlighedsvis levering af tjenesteydelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id96de22ca-2583-4785-96a3-15c16626e422" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="id4e0d72e5-f5bd-45bf-8b79-f927ed6bf57e">
+                <Exitus>
+                  <Linea>
+                    <Char>Den kompetente myndighed påser, at personer fra et medlemsland, som har udenlandske erhvervsmæssige kvalifikationer, og som søger om adgang til varigt at udøve et lovreguleret erhverv i Danmark, opfylder de betingelser, der er nævnt i § 3, stk. 1, for at udøve erhvervet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id06348d91-f323-4569-9a1d-c82203d9de43">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den kompetente myndighed påser, at personer uanset statsborgerskab opfylder de betingelser for udøvelsen af det lovregulerede erhverv, som fremgår af reglerne for det enkelte erhverv.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc16493a5-335b-41ba-a9c0-282624a6b73c">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den kompetente myndighed, der modtager anmeldelse fra en tjenesteyder med udenlandske erhvervsmæssige kvalifikationer, påser, at de dokumenter, der efter reglerne for det enkelte erhverv er påkrævet for anmeldelsen af midlertidig og lejlighedsvis tjenesteydelse, indgår i anmeldelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf424b6d2-4263-4306-ac98-869878dbfc41">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er der tale om et lovreguleret erhverv, der har konsekvenser for den offentlige sundhed og sikkerhed, og er der fastsat krav om forudgående kontrol i reglerne for det pågældende erhverv, påser den kompetente myndighed, at de dokumenter, der efter reglerne for det enkelte erhverv er påkrævet for anmeldelsen af midlertidig og lejlighedsvis tjenesteydelse, jf. stk. 3, indgår i anmeldelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den kompetente myndighed påser tillige, om tjenesteyderen opfylder betingelserne, jf. stk. 1 og 2, og underretter tjenesteyderen om, hvorvidt der skal foretages forudgående kontrol af denne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id098f5aad-11eb-447f-80c5-61a53bb785a4" localId="6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica id="id09c0cf10-c54e-439d-bc00-0325e742f892">
+            <Linea>
+              <Char>Anerkendelsesprocedure for det europæiske erhvervspas</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id1852d605-7294-4b21-b604-87d19991a653" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id16bff05f-53cc-4f36-a98a-1db2ed55fca8">
+                <Exitus>
+                  <Linea>
+                    <Char>Den kompetente myndighed verificerer, om ansøgeren er lovligt etableret, samt ægtheden og gyldigheden af de påkrævede dokumenter, som knytter sig til ansøgningen om europæisk erhvervspas indgivet af personer, jf. § 1, stk. 3, med henblik på etablering eller midlertidig og lejlighedsvis levering af tjenesteydelser inden for erhverv, som er omfattet af forudgående kontrol i det berørte medlemsland, hvortil der søges erhvervspas, og videresender ansøgningen til det berørte medlemsland, hvortil der søges erhvervspas.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id30a03c04-df54-4701-92e1-bd16839df372">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den kompetente myndighed verificerer, om ansøgeren er lovligt etableret, og kontrollerer, at ansøgninger og de påkrævede dokumenter indgivet af personer, der ansøger om europæisk erhvervspas, opfylder kravene om ægthed og gyldighed, og udsteder det europæiske erhvervspas med henblik på midlertidig og lejlighedsvis levering af tjenesteydelser inden for erhverv, som ikke er omfattet af forudgående kontrol i det berørte medlemsland, hvortil der søges erhvervspas.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id37acb381-ff30-49eb-99f3-6d1d26f608eb">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ønsker indehaveren fortsat at levere tjenesteydelser, der er omfattet af stk. 2, efter udløbet af 18 måneder fra udstedelsen af det europæiske erhvervspas, skal vedkommende oplyse den kompetente myndighed herom.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ønsker indehaveren af et europæisk erhvervspas at levere tjenesteydelser i andre medlemslande end dem, der oprindelig blev oplyst i ansøgningen efter stk. 2, kan vedkommende søge den kompetente myndighed om en sådan udvidelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2848aa2a-0562-4f2c-adcf-6719a01e4229">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Efter anmodning fra den kompetente myndighed skal indehaveren af det europæiske erhvervspas i begge tilfælde, jf. stk. 3, indgive enhver form for oplysninger om væsentlige ændringer i det oprindelige ansøgningsgrundlag til den kompetente myndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf7870369-bc6f-4484-a3be-4db7e5722e4d">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den kompetente myndighed sender det opdaterede europæiske erhvervspas til det pågældende medlemsland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf423c2b7-1a4d-477d-849c-3cf1734bf879" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="id463d576f-9b50-42e1-b70a-77037c5545f1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ansøgning om det europæiske erhvervspas, som er verificeret af og sendt fra andre medlemslandes kompetente myndigheder til den kompetente myndighed i Danmark med henblik på etablering eller midlertidig og lejlighedsvis levering af tjenesteydelser inden for erhverv, som har konsekvenser for den offentlige sundhed og sikkerhed, og som her i landet er omfattet af forudgående kontrol, behandles af den kompetente myndighed efter reglerne i § 5, stk. 1, 2 og 4, med henblik på udstedelse af et europæisk erhvervspas.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc2ce6f43-7fcd-448c-a812-e1b73321f0c1">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Modtagelsen af det europæiske erhvervspas fra andre medlemslandes kompetente myndigheder hos den kompetente myndighed i Danmark udgør en anmeldelse af midlertidig og lejlighedsvis levering af tjenesteydelser inden for erhverv, som ikke er omfattet af forudgående kontrol i Danmark, og som behandles efter reglerne i § 5, stk. 3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis der foreligger et europæisk erhvervspas, kan der ikke kræves yderligere anmeldelse i løbet af de efterfølgende 18 måneder fra udstedelsen af det europæiske erhvervspas.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id3c2e9a12-8b65-4c08-9cce-f1ce73de59ca" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="id13f4a7c3-becc-4b7f-b1ea-26c2080267c4">
+                <Exitus>
+                  <Linea>
+                    <Char>Vedkommende minister kan fastsætte nærmere regler om det europæiske erhvervspas, herunder hvilke dokumenter, bekræftede kopier og oversættelser den kompetente myndighed kan kræve ved ansøgningen om et europæisk erhvervspas, procedurer ved eventuelle betalinger m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id8650e810-4680-474c-b16e-72bb2169d43c" localId="7">
+          <Explicatus>Kapitel 7</Explicatus>
+          <Rubrica id="idcd4330eb-d296-4b43-8acc-2627e71d4275">
+            <Linea>
+              <Char>Anerkendelse af praktikophold, anerkendelse i form af delvis adgang til erhvervsudøvelse og anerkendelse på baggrund af fælles uddannelsesprincipper</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idd17af77a-b13e-4887-86fa-49668f4d0040" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="idbb5b8db9-5455-44b1-abd1-b77e776a4be2">
+                <Exitus>
+                  <Linea>
+                    <Char>Forudsætter adgang til udøvelse af et lovreguleret erhverv i Danmark  gennemførelse af et praktikophold, skal den kompetente myndighed, når den behandler en ansøgning om tilladelse til at udøve erhvervet, anerkende praktikophold, der er gennemført</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idde9ff2dd-cef7-4d4d-9168-9a1bf9427e45">
+                  <Index>
+                    <Indentatio id="idcb79b845-2827-4a9c-a325-369d18457579" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>i et andet EU-land,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd02d2b94-0774-4a46-b2e1-5f0c4a88e457" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>i Det Europæiske Økonomiske Samarbejdsområde eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8778a081-3a88-431b-adc1-5250861f87f4" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>i et land, som EU har indgået aftale med om adgang til udøvelse af lovregulerede erhverv.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id7c5a8047-9cd9-4924-a093-d007fe8d66d6">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Praktikophold gennemført i et tredjeland skal tages i betragtning ved behandling af ansøgninger efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb830ccba-6cbf-4f32-a714-b54e16cd0993">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det er en betingelse for anerkendelsen af et praktikophold, at praktikopholdet er i overensstemmelse med de danske offentliggjorte retningslinjer herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id671280f3-6e00-4af2-8b16-8c2ea705e13b">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vedkommende minister kan fastsætte regler om varigheden  af den del af praktikopholdet, som kan gennemføres i udlandet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id484c5512-6a55-4a11-a2f9-323b5512d652" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id49227fea-8554-43c3-9976-ef5d96a241cb">
+                <Exitus>
+                  <Linea>
+                    <Char>Har en person søgt om adgang til udøvelse af et lovreguleret erhverv, og kan der ikke gives fuld adgang til udøvelse af erhvervet, træffer den kompetente myndighed, såfremt der ansøges herom, beslutning om delvis adgang til udøvelse af erhvervet, hvis følgende betingelser er opfyldt:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id9d26a354-bdfd-4d00-aa9e-1734f623a20b">
+                  <Index>
+                    <Indentatio id="ide8cc324a-ba08-4ec1-b404-3c1505c597e1" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Erhvervsudøveren er fuldt kvalificeret i hjemlandet til at udøve den erhvervsmæssige virksomhed, der søges om delvis adgang til i Danmark.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id6b59d192-27ab-4139-b3dd-1ecdcc3d883d" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Forskellene mellem den erhvervsmæssige aktivitet, der lovligt udøves i hjemlandet, og det lovregulerede erhverv i Danmark er så store, at anvendelsen af udligningsforanstaltninger vil forudsætte, at ansøgeren gennemfører en fuld uddannelse i Danmark for at opnå fuld adgang til det lovregulerede erhverv i sin helhed i Danmark.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idafd4cbd2-ca24-4120-ad77-42cc074fdc15" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Den erhvervsmæssige virksomhed kan objektivt set udskilles fra andre aktiviteter, som er omfattet af det lovregulerede erhverv i Danmark.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id11bc46f7-7133-4f0e-953e-c107ac83570d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Med henblik på vurderingen i stk. 1, nr. 3, skal den kompetente myndighed tage hensyn til, hvorvidt erhvervsaktiviteten kan udøves selvstændigt i hjemlandet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idee2ea04d-6c66-40aa-a1e9-42d750c6673b">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Beslutning om delvis adgang, jf. stk. 1, kan kun træffes, såfremt samtlige betingelser i stk. 1 er opfyldt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9125f736-4336-48ec-baaa-bbd468240a6e">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Delvis adgang til udøvelse af et lovreguleret erhverv kan afvises, hvis det er begrundet i tvingende almene hensyn, og hvis det ikke går ud over, hvad der er nødvendigt og hensigtsmæssigt for at nå det ønskede mål.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id19f3ba3c-f7d7-40f5-9886-a23672b55824">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelsen, jf. stk. 1-4, finder ikke anvendelse på erhvervsudøvere, der er omfattet af direktivets ordninger for automatisk anerkendelse af erhvervsmæssige kvalifika­ti‌oner.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4271db05-c5db-45d0-bc60-430cccef737f">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når den kompetente myndighed har truffet afgørelse om delvis adgang til udøvelse af et lovreguleret erhverv, skal udøvelsen af erhvervet ske under hjemlandets titel, og erhvervsudøveren skal klart angive omfanget af sin erhvervsmæssige aktivitet for tjenestemodtagerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4b8f052d-a15f-4166-87e9-44e7848e10f9">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vedkommende minister kan fastsætte regler om, at hjemlandets erhvervsmæssige titel skal oversættes til dansk.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id4cb14f91-3c84-4ad0-a434-941376927289" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="id133002be-c064-431d-a994-56063d3fc83f">
+                <Exitus>
+                  <Linea>
+                    <Char>Er der for et lovreguleret erhverv vedtaget en fælles uddannelsesramme eller en fælles uddannelsestest, skal den kompetente myndighed lægge uddannelsesrammen eller uddannelsestesten til grund for sin behandling af en ansøgning fra en person, der søger om adgang til udøvelse af det lovregulerede erhverv i Danmark.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4029f9cf-0def-48db-b08c-013e19bd6538">
+                <Explicatus>Stk. 2. </Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1 finder ikke anvendelse, såfremt Danmark fritages fra forpligtelsen til at indføre en fælles uddannelsesramme eller en fælles uddannelsestest.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id33785304-e9d0-42c2-80c9-5a2d3507566b" localId="8">
+          <Explicatus>Kapitel 8</Explicatus>
+          <Rubrica id="id21a071df-5802-4302-93b9-140e11e58c8d">
+            <Linea>
+              <Char>Gebyr</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id71a0e0dc-5824-4e92-8d47-00479ad5f6ca" localId="12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="id8dfc365b-fc88-4d5e-bca3-7b28986b12f6">
+                <Exitus>
+                  <Linea>
+                    <Char>Ansøgeren kan pålægges et gebyr for afholdelse af udgifter til gennemførelse af egnethedsprøve eller prøvetid samt i forbindelse med ansøgning om europæisk erhvervspas.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Gebyret fastsættes og opkræves af den myndighed, der forestår gennemførelse af egnethedsprøven eller prøvetiden, eller som behandler sager om europæisk erhvervspas.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Gebyrets størrelse må ikke overstige de faktiske omkostninger i forbindelse med gennemførelse af egnethedsprøve eller prøvetid eller ansøgning om europæisk erhvervspas.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id902015dc-8e09-426c-a332-40da047c717d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vedkommende minister kan fastsætte nærmere regler om gebyret efter stk. 1, herunder om gebyrets størrelse, betalingstidspunkt m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id9f1b839f-e3b6-4f94-ae85-2410e5251ddd" localId="9">
+          <Explicatus>Kapitel 9</Explicatus>
+          <Rubrica id="ide02694b1-d2b7-4a83-8671-32134cc6dc5c">
+            <Linea>
+              <Char>Pligt til indberetning m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idb48e3475-1faf-4ed8-beef-d52bf9caaa88" localId="13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id3c71477c-6cda-43c2-951b-c192cc879840">
+                <Exitus>
+                  <Linea>
+                    <Char>De kompetente myndigheder skal en gang årligt indberette statistiske oplysninger til Uddannelses- og Forskningsministeriet om myndighedernes behandling af ansøgninger om etablering, anmeldelser og ansøgninger om europæisk erhvervspas.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3f148422-b2a6-4888-8325-33dcbccb3ecb">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>På baggrund af oplysningerne indberettet efter stk. 1 kan Uddannelses- og Forskningsministeriet anmode de kompetente myndigheder om uddybende oplysninger til brug for den beretning, som uddannelses- og forskningsministeren skal afgive til Folketinget, jf. § 11 i lov om vurdering af udenlandske uddannelseskvalifikationer m.v., og den rapport, der skal afgives til Europa-Kommissionen efter artikel 60 i anerkendelsesdirektivet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5c464a4b-da26-48bb-b635-601cc4bac041">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De kompetente myndigheder skal løbende indberette oplysninger i overensstemmelse med anerkendelsesdirektivet og løbende indberette ajourførte oplysninger om reglerne og procedurerne for de ansøgninger og anmeldelser, der er nævnt i stk. 1, herunder størrelsen på eventuelle gebyrer, jf. § 12, til Uddannelses- og Forskningsministeriet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idaa7f1656-4c32-4db6-a52e-46b14c9bdb56">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte nærmere regler om de oplysninger, der skal indberettes efter stk. 1-3, og om indberetningernes form.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id30a8632b-a5ac-41ae-8ecb-a3775917ff55" localId="14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="idde1cb370-c42e-4e9b-8df6-73744a867f49">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og Forskningsministeriet kan indhente oplysninger hos offentlige myndigheder og private, når det har relevans for ministeriets administration af anerkendelsesdirektivet og varetagelsen af direktivets koordinatorfunktion og støttecenterfunktion.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfe91337c-2c86-4f31-97fc-c059a94525af">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vedkommende minister skal gennemgå nye regler eller regler, som er blevet ophævet eller lempet, og som begrænser adgangen til et erhverv eller udøvelsen heraf, og oplyse Uddannelses- og Forskningsministeriet herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id28a159b6-8114-4c3a-b52e-e1913cddd02b">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte nærmere regler om indhentning og indberetning af oplysninger, jf. stk. 1 og 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id4b559d99-1f00-4ae3-a93c-765dc5a27ea9" localId="10">
+          <Explicatus>Kapitel 10</Explicatus>
+          <Rubrica id="id3f1b1e27-c046-4bb2-9fa5-48be38f2a94f">
+            <Linea>
+              <Char>Administrativt samarbejde m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="ida3e14039-fce2-4ddb-a7d3-1dcea3b16493" localId="15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="id9d45652d-9590-4f13-a249-dda29c183274">
+                <Exitus>
+                  <Linea>
+                    <Char>De kompetente myndigheder i Danmark sender på forespørgsel fra kompetente myndigheder i de øvrige medlemslande gennem IMI oplysninger om de forhold, der fremgår af følgende bestemmelser i anerkendelsesdirektivet:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id22ef0cf8-8092-4058-b585-9c829ef190b7">
+                  <Index>
+                    <Indentatio id="idb3d8a1e8-906c-47ce-ab16-355e5adca19d" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Artikel 8 om administrativt samarbejde vedrørende tjenesteydere.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id2b2581d3-d9d9-4d4e-8b62-44f10c66673b" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Artikel 50, stk. 2-3 a, om dokumentation og formelle krav vedrørende etablering.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id2d5131da-c2e1-4d5b-9be6-9a361d42d4dc" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Artikel 56, stk. 2, om samarbejde mellem kompetente myndigheder.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc813c0e0-e80c-4c81-b4f4-05738202f18c" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Artikel 57 b, stk. 3, om støttecentrenes samarbejde.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idfe377580-c937-4e07-8e77-332ad628169b">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den kompetente myndighed i Danmark indhenter på samme måde, jf. stk. 1, oplysninger fra de kompetente myndigheder i de andre medlemslande.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf860544c-bd78-4310-bb65-ac210997c3d3" localId="16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="id5e8cd879-7988-4c8e-8da3-a4c2d19d8e0c">
+                <Exitus>
+                  <Linea>
+                    <Char>Har en person, som udøver et af de erhverv, der er nævnt i artikel 56 a, stk. 1, i anerkendelsesdirektivet, fået begrænset retten til at udøve sit erhverv af en offentlig myndighed eller en domstol, skal den kompetente myndighed i Danmark senest 3 dage efter vedtagelse af den afgørelse eller dom, hvorved den pågældende begrænses i at udøve sit erhverv, underrette de kompetente myndigheder i alle medlemslande om identiteten af denne erhvervsudøver.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9b72761e-ba9e-4b13-ae46-e49ebdcbc3ad">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Har en domstol fundet, at en erhvervsudøver har benyttet forfalsket dokumentation for sine erhvervsmæssige kvalifikationer i forbindelse med ansøgning om anerkendelse af erhvervsmæssige kvalifikationer i henhold til anerkendelsesdirektivet, skal den kompetente myndighed i Danmark senest 3 dage efter domstolens afgørelse underrette de kompetente myndigheder i alle medlemslande om identiteten af denne erhvervsudøver.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3dcdb186-b7da-4752-8f6e-49f8f41fc2e8">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Samtidig med udsendelse af en advarsel efter stk. 1 og 2 underretter den kompetente myndighed i Danmark skriftligt den person, der er nævnt i advarslen, om advarslen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id78eec6d9-1e41-4216-88fd-ec8d3092ef0e">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De kompetente myndigheder i Danmark kan indsamle underretninger fra kompetente myndigheder i andre medlemslande.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idd51b611e-8559-4a2a-a389-183b9f12defa" localId="11">
+          <Explicatus>Kapitel 11</Explicatus>
+          <Rubrica id="ida1eca4fc-501b-4ebf-80b6-76e1fd752294">
+            <Linea>
+              <Char>Forskellige bestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idbaa81c80-6fa8-44d4-9aa0-56c912ec429b" localId="17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="id8d79fa17-26b0-48d8-b6a5-ec195b00d2e2">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og Forskningsministeriet koordinerer gennemførelsen af anerkendelsesdirektivet med de kompetente myndigheder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc41c0d61-18ba-4cd6-ba00-dccfff03b54f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte nærmere regler om anerkendelse af visse uddannelses- og erhvervsmæssige kvalifikationer med henblik på opfyldelse af direktivet, herunder om rammer og procedurer for anerkendelse samt støttecenter- og koordinatorfunktionen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd153f999-6017-46b4-ba7c-1ff71ca4c334">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren kan fastsætte regler om</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idd41a3168-4dfb-4ebd-95e1-e498f1377c46">
+                  <Index>
+                    <Indentatio id="id474c19da-c339-4d8d-886e-064b862a37e9" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>prøver og attestation af eksamensbeviser for bygningskonstruktører,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1f2aec6c-124f-419e-a2b0-e055b9a2709e" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>attestation af arkitekters eksamensbeviser og certifikater og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id6a30fd6f-d62e-4432-a4c6-235592754770" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>dokumentation for arkitekters erhvervserfaring.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd30ef580-72db-45d6-bea1-c79fd9154d24" localId="18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="ida595a640-0c8b-474a-a4c3-66c5c32ce39f">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan efter forhandling med vedkommende minister bemyndige andre statslige myndigheder til at udøve de beføjelser, der i denne lov er tillagt uddannelses- og forskningsministeren, og kan fastsætte regler om udøvelsen af disse beføjelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ideffe5cba-33cd-4e00-9390-816d217fbb91">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte regler om adgangen til at påklage afgørelser, der er truffet i henhold til bemyndigelse efter stk. 1, herunder at afgørelserne ikke skal kunne påklages.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida896a1cf-266b-4c96-b9fe-6f3b977fe2f9">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Har uddannelses- og forskningsministeren bemyndiget en statslig myndighed under Uddannelses- og Forskningsministeriet til at udøve de beføjelser, der i denne lov er tillagt ministeren, kan ministeren fastsætte regler om adgangen til at klage over afgørelser, der er truffet i henhold til bemyndigelsen, herunder at afgørelser ikke skal kunne påklages.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id3e31f64c-28b9-475b-95fc-01905d59bd16" localId="12">
+          <Explicatus>Kapitel 12</Explicatus>
+          <Rubrica id="id0893a402-85a9-45c9-bcb3-1a52a0f37452">
+            <Linea>
+              <Char>Ikrafttræden m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idd401ac4e-fbc8-47af-8c34-e35b1f26f555" localId="19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="id45de0b8a-788e-4c64-bc22-9f0af30fddb4">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. januar 2016.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbf4468f6-0f46-47eb-9ef3-b577386d6968">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lov om adgang til udøvelse af visse erhverv i Danmark, jf. lovbekendtgørelse nr. 189 af 12. februar 2010, ophæves.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4a154076-c6c2-41df-aa57-cb52238d122d">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Følgende bekendtgørelser forbliver i kraft, indtil de ophæves eller erstattes af forskrifter udstedt i medfør af denne lov:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id7fea576d-51b8-4e38-a6ce-ce0a4cb26ece">
+                  <Index>
+                    <Indentatio id="id2b4684ca-00ff-4fac-b37f-04de616a8d76" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Bekendtgørelse nr. 575 af 1. juni 2011 om anerkendelse af erhvervsmæssige kvalifikationer m.v.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id68a94875-a995-4806-b5b1-d46878dd0a3a" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Bekendtgørelse nr. 1411 af 16. december 2009 om delegation af ministeren for videnskab, teknologi og udviklings beføjelser i lov om adgang til udøvelse af visse erhverv i Danmark.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7101f822-408c-49da-aecd-0fc2cae69c1d" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Bekendtgørelse nr. 1134 af 27. november 2008 om anerkendelse af eksamensbeviser på arkitektområdet, der er udstedt i et EU-land, i et EØS-land eller et land, som EU har indgået aftale med om adgang til udøvelse af et lovreguleret erhverv.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <AendringCentreretParagraf id="idec38a551-e578-47fe-ac35-f0c27c71c531">
+              <Explicatus>§ 20.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>I lov nr. 384 af 25. maj 2009 om tjenesteydelser i det indre marked foretages følgende ændring:</Char>
+                </Linea>
+              </Exitus>
+              <AendringsNummer id="id83628051-e106-421e-a068-039b31438063">
+                <Explicatus>1.</Explicatus>
+                <Aendring id="id24688bbc-b9c1-4b3c-bd27-78223278a25b">
+                  <AendringDefinition id="id84d8c8c4-1f68-40be-9eb5-8de1e924cc86">
+                    <Exitus>
+                      <Linea>
+                        <Char>Efter § 16 indsættes i </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">kapitel 11:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idd298f336-5a49-4ae5-82c7-b55a665b2a0d">
+                    <AendringNyTekst>
+                      <Paragraf id="id1f72e0d2-6753-488e-b085-afc86fa75f77" localId="20">
+                        <Explicatus>§ 16 a.</Explicatus>
+                        <Stk id="id6bffd054-e486-44e3-970c-0e36b3da0646">
+                          <Exitus>
+                            <Linea>
+                              <Char>Erhvervs- og vækstministeren fastsætter nærmere regler om elektroniske procedurer med henblik på opfyldelse af de bestemmelser i Europa-Parlamentets og Rådets direktiv 2005/36/EF af 7. september 2005 om anerkendelse af erhvervsmæssige kvalifikationer med senere ændringer, som vedrører kvikskranken.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Stk>
+                      </Paragraf>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+            </AendringCentreretParagraf>
+            <AendringCentreretParagraf id="id92693a67-3a4a-4728-b24d-f32e82746bab">
+              <Explicatus>§ 21.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>I lov nr. 526 af 28. maj 2014 om formidling af fast ejendom m.v. foretages følgende ændring:</Char>
+                </Linea>
+              </Exitus>
+              <AendringsNummer id="idcee5d05b-802f-4a7d-a5c2-7ccadae062b4">
+                <Explicatus>1.</Explicatus>
+                <Aendring id="idbba65df1-b24f-4a63-913d-369a0debd6fe">
+                  <AendringDefinition id="id839bf8f2-7cf9-4598-a318-dc60b800f0c9">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 1, § 13, stk. 1, </Char>
+                        <Char>og </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§§ 16-18 </Char>
+                        <Char>ændres »lov om adgang til udøvelse af visse erhverv i Danmark« til: »lov om anerkendelse af visse uddannelses- og erhvervsmæssige kvalifikationer«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id16de0efb-50ec-4c6d-89c3-58a31b04d320">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+            </AendringCentreretParagraf>
+            <AendringCentreretParagraf id="idb8f76e32-2111-4c1a-8e51-cd774f988088">
+              <Explicatus>§ 22.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>I lov om landinspektørvirksomhed, jf. lovbekendtgørelse nr. 680 af 17. juni 2013, foretages følgende ændringer:</Char>
+                </Linea>
+              </Exitus>
+              <AendringsNummer id="idbd2dc27b-316e-40b0-a99f-3329568fc577">
+                <Explicatus>1.</Explicatus>
+                <Aendring id="ide3f6f218-0763-4942-8f7d-f6a8a69ff92f">
+                  <AendringDefinition id="id0c9acb8e-bb6b-492a-be4b-3f81c4c321a8">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">Fodnoten</Char>
+                        <Char> til lovens titel affattes således:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idc8a4b8bf-dd89-4aeb-890d-fda5ac0a0c92">
+                    <AendringNyTekst>
+                      <Exitus id="idf15a80f9-0ce9-4529-bf88-cec63c0f532f">
+                        <Index>
+                          <Indentatio id="ide0b20a26-992c-4bdc-8ed5-7c8b96b44c06" formaInd="Nummer">
+                            <Explicatus>1)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2005/36/EF af 7. september 2005 om anerkendelse af erhvervsmæssige kvalifikationer, EU-Tidende 2005, nr. L 255, side 22, som senest ændret ved Europa-Parlamentets og Rådets direktiv 2013/55/EU af 20. november 2013 om ændring af direktiv 2005/36/EF om anerkendelse af erhvervsmæssige kvalifikationer, EU-Tidende 2013, nr. L 354, side 132, og dele af Europa-Parlamentets og Rådets direktiv 2006/123/EF af 12. december 2006 om tjenesteydelser i det indre marked, EU-Tidende 2006, nr. L 376, side 36.</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id6880f175-601d-4db9-b0bd-a7cdb7faf50a">
+                <Explicatus>2.</Explicatus>
+                <Aendring id="id6b04940d-f80d-46df-ac2e-b23778b5cb31">
+                  <AendringDefinition id="idaf4139e9-7a5d-4d4e-88fb-754e3d2a4d69">
+                    <Exitus>
+                      <Linea>
+                        <Char>Efter § 1 indsættes:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id63725351-25a8-4810-b374-1472e7a00701">
+                    <AendringNyTekst>
+                      <Paragraf id="idfd654a95-494c-423e-ae5a-2096d945e158" localId="21">
+                        <Explicatus>§ 2.</Explicatus>
+                        <Stk id="id1744cb4c-27c9-41d4-ad5d-42c869db83fd">
+                          <Exitus>
+                            <Linea>
+                              <Char>Personer, som er lovligt etableret i andre EU-lande, EØS-lande eller i lande, som EU har indgået aftale med om udøvelse af lovregulerede erhverv, kan få meddelt beskikkelse til alene at udføre en del af de arbejder, som landinspektører med beskikkelse efter lovgivningen har eneret til at udføre, hvis følgende betingelser er opfyldt:</Char>
+                            </Linea>
+                          </Exitus>
+                          <Exitus id="id019d5dee-db8d-460b-9c19-4c8f9c276990">
+                            <Index>
+                              <Indentatio id="ide9c8ef78-1cb8-4ed2-b76f-75ae2d897cb9" formaInd="Nummer">
+                                <Explicatus>1)</Explicatus>
+                                <Exitus>
+                                  <Linea>
+                                    <Char>Erhvervsudøveren er fuldt kvalificeret i hjemlandet til at udøve den erhvervsmæssige virksomhed, der søges om delvis adgang til i Danmark.</Char>
+                                  </Linea>
+                                </Exitus>
+                              </Indentatio>
+                              <Indentatio id="id7c90b371-79fb-4497-8447-830cb17448c2" formaInd="Nummer">
+                                <Explicatus>2)</Explicatus>
+                                <Exitus>
+                                  <Linea>
+                                    <Char>Forskellene mellem den erhvervsmæssige aktivitet, der lovligt udøves i hjemlandet, og landinspektørvirksomhed i Danmark er så store, at anvendelsen af udligningsforanstaltninger vil forudsætte, at ansøgeren gennemfører en fuld uddannelse i Danmark for at opnå fuld adgang til landinspektørerhvervet i sin helhed i Danmark.</Char>
+                                  </Linea>
+                                </Exitus>
+                              </Indentatio>
+                              <Indentatio id="idc51446da-47d6-4cad-b2a2-24399b657800" formaInd="Nummer">
+                                <Explicatus>3)</Explicatus>
+                                <Exitus>
+                                  <Linea>
+                                    <Char>Den erhvervsmæssige virksomhed kan objektivt set udskilles fra andre aktiviteter, som er omfattet af landinspektørvirksomhed i Danmark.</Char>
+                                  </Linea>
+                                </Exitus>
+                              </Indentatio>
+                            </Index>
+                          </Exitus>
+                        </Stk>
+                        <Stk id="id0f642093-c3b8-4377-886f-15825356ea67">
+                          <Explicatus>Stk. 2.</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Personer, som meddeles beskikkelse som nævnt i stk. 1, er omfattet af lovens bestemmelser som landinspektører med beskikkelse, jf. dog § 4, stk. 2, 2. pkt.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Stk>
+                        <Stk id="id47e14a5d-6643-4f1d-acb1-a9b4395bdc9f">
+                          <Explicatus>Stk. 3.</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Energi-, forsynings- og klimaministeren fastsætter regler om behandling af ansøgninger om beskikkelse efter stk. 1.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Stk>
+                      </Paragraf>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="iddce4f9d0-1694-462b-9ca3-86d0bfec7990">
+                <Explicatus>3.</Explicatus>
+                <Aendring id="ida8301644-dcd8-44b7-9d86-dcf1522facbe">
+                  <AendringDefinition id="ide108e145-9e53-4af6-93a5-e7889c2f717d">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 4, stk. 1, </Char>
+                        <Char>affattes således:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id40e73bab-42cb-4710-9a20-6e773a96864f">
+                    <AendringNyTekst>
+                      <Exitus formaEx="Left">
+                        <Linea>
+                          <Char>Matrikulære arbejder må kun udføres af praktiserende landinspektører og deres assistenter med landinspektørbeskikkelse, herunder personer med særlig beskikkelse dertil i medfør af § 2, jf. dog stk. 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+            </AendringCentreretParagraf>
+            <AendringCentreretParagraf id="ida1233e4c-72b1-4add-9a4b-405e3bdac2c5">
+              <Explicatus>§ 23.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>I lov om danskuddannelse til voksne udlændinge m.fl., jf. lovbekendtgørelse nr. 772 af 10. juni 2015, foretages følgende ændring:</Char>
+                </Linea>
+              </Exitus>
+              <AendringsNummer id="id82c77211-5c96-4e3e-a47f-4694a37a915d">
+                <Explicatus>1.</Explicatus>
+                <Aendring id="idd9d39500-1ee1-4fe8-b4fb-4408e795326c">
+                  <AendringDefinition id="id179b8a3d-936d-478d-b6ff-14f6f88201f4">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 16 </Char>
+                        <Char>indsættes som </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">stk. 3-5:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id9ee47ad7-f312-4699-80fd-c78c4b3cb905">
+                    <AendringNyTekst>
+                      <Stk id="id42e16fa7-83b6-403d-8bef-42494c7e8613">
+                        <Explicatus>Stk. 3.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Til gennemførelse af Europa-Parlamentets og Rådets direktiv 2005/36/EF af 7. september 2005 om anerkendelse af erhvervsmæssige kvalifikationer med senere ændringer fastsætter udlændinge-, integrations- og boligministeren nærmere regler om godkendelse af læreres kvalifikationer opnået i udlandet, herunder om, hvilke dokumenter der skal medsendes en ansøgning m.v.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk id="id8f74ec45-c7ee-409d-a7fb-2746640c854f">
+                        <Explicatus>Stk. 4.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Sager vedrørende vurdering af læreres kvalifikationer opnået i udlandet behandles af Styrelsen for Videregående Uddannelser.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk id="id58ff2e09-d255-45a3-88d4-916e4a9e74f5">
+                        <Explicatus>Stk. 5.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Styrelsen for Videregående Uddannelsers afgørelser efter stk. 4 kan ikke indbringes for anden administrativ myndighed.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+            </AendringCentreretParagraf>
+            <Paragraf id="idb4beadca-8ab0-4b8f-84d0-c7467d9afaf4" localId="22">
+              <Explicatus>§ 24.</Explicatus>
+              <Stk id="idf89dda0f-fde5-4d02-95b4-0c25f1ab0461">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="ida4585cae-6da6-4722-bb83-7f0d23a19a60">
+    <UnderskriftStedDato id="ida4585cae-6da6-4722-bb83-7f0d23a19a60" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="ida4585cae-6da6-4722-bb83-7f0d23a19a60" />
+  </UnderskriftGruppe>
+</Dokument>

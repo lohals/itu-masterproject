@@ -117,6 +117,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="ParagrafIndledningParser\ParagrafIndledningParseResultAssertions.cs" />
+    <Compile Include="ParagrafIndledningParser\TestData\TestDataHelpers.cs" />
     <Compile Include="ParagrafIndledningParser\TestParagrafIndledningSamples.cs" />
     <Compile Include="ParagrafIndledningParser\TestParagrafIndledningRealData.cs" />
     <Compile Include="ParagrafNummer.cs" />
@@ -129,6 +130,14 @@
   <ItemGroup>
     <None Include="app.config" />
     <None Include="packages.config" />
+    <None Include="ParagrafIndledningParser\TestData\2015-format1.csv" />
+    <None Include="ParagrafIndledningParser\TestData\2015-format2.csv" />
+    <None Include="ParagrafIndledningParser\TestData\2016-format1.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="ParagrafIndledningParser\TestData\2016-format2.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="ParagrafIndledningParser\TestData\2017-format1.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

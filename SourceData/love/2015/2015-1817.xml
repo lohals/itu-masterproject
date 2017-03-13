@@ -1,0 +1,1836 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="ideff6465c-0873-4f74-af4d-b669d2f6ad8a" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id00ac6e85-7b25-4e63-9d31-34209dab129a">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150181729</AccessionNumber>
+    <DocumentId>CJ000022</DocumentId>
+    <UniqueDocumentId>173272</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af børneloven</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-12-23</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-01-17</EndDate>
+    <Status>Valid</Status>
+    <Number>1817</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 1817 af 23/12/2015</DokumentKortNavn>
+    <PopularTitle>Børneloven</PopularTitle>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">P.M.V.\nHans B. Thomsen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Malene Vestergaard</Signature>
+    <PlaceOfSignature>Social- og Indenrigsministeriet</PlaceOfSignature>
+    <JournalNumber>Social- og Indenrigsmin., j.nr. 2015-8224</JournalNumber>
+    <Ministry>Social- og Indenrigsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="idd5c76057-9bd5-4042-bcf9-6dbc98e2112c">
+    <Titel id="id85c88075-4e61-4219-9711-48d91c2a7aa7">
+      <Linea>
+        <Char>Bekendtgørelse af børneloven</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id47fdbdd3-2f0f-4f8a-86bc-b3d0f8e61d2c">
+    <Indledning id="idbc5ee0b4-12be-4155-bc12-1f9ac11488f0">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres børneloven, jf. lovbekendtgørelse nr. 1097 af 7. oktober 2014, med de ændringer, der følger af § 2 i lov nr. 1741 af 22. december 2015.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="id53331025-9bf3-4931-b06c-07102eb9a347">
+      <Afsnit id="ida30aed2f-2505-40a0-a430-1b0231b5cfff" localId="1">
+        <Kapitel id="idb35b2911-f32f-4d82-98fe-913673aca64a" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="id297707c4-aa67-48bb-879c-ddfec42f29f5">
+            <Linea>
+              <Char>Registrering af faderskab i forbindelse med fødslen</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idbd66c5bc-638b-40ff-bc3d-88b713350446" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="id6c1debb2-73c7-4b96-a925-fa9750fd3dab">
+                <Exitus>
+                  <Linea>
+                    <Char>Fødes et barn af en kvinde, der er gift med en mand, anses ægtemanden som far til barnet, jf. dog stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Registrering af faderskabet foretages af personregisterføreren i forbindelse med registreringen af barnets fødsel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id89c83248-8d58-4844-b6f1-f5066cf45ecd">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelsen i stk. 1 gælder ikke, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="iddf5ab751-ea93-4bf0-8da0-00609e606295">
+                  <Index>
+                    <Indentatio id="idf7e87efb-1879-45da-a4bb-ce78e7498676" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ægtefællerne ved barnets fødsel er separerede,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id3f262430-6055-4345-9d09-d31ae7d8a20b" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>moderen inden for de sidste 10 måneder før barnets fødsel har haft en anden ægtefælle eller en registreret partner uden at være separeret eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb07b53c5-c6a5-419b-a039-618924cd3391" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>begge ægtefæller anmoder om, at der rejses faderskabssag.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id90037bda-8c2c-4b0f-b40d-08b16484b0d4">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelsen i stk. 1 finder tilsvarende anvendelse, hvis ægtemanden er død inden for de sidste 10 måneder før barnets fødsel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1287e58d-b45c-4fb1-a677-116f5a9cde90">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelsen i stk. 3, jf. stk. 1, gælder ikke, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id1015f841-b988-4730-b01f-4f98b3d64c9c">
+                  <Index>
+                    <Indentatio id="id191b2d2f-c033-4cb0-897e-1bc37a52eaa3" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ægtefællerne på dødstidspunktet var separerede,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id870f5a59-2b2f-4390-acd2-c6c7107c5230" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>moderen inden for de sidste 10 måneder før barnets fødsel har haft en anden ægtefælle eller en registreret partner uden at være separeret eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf8b02962-e1c5-457c-9f36-38abfdd4a24c" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>moderen anmoder om, at der rejses faderskabssag.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id5e0b1aa9-864d-4f3c-9b1a-05a62f2bb500" localId="2">
+              <Explicatus>§ 1 a.</Explicatus>
+              <Stk id="idaccc8e5b-2622-45ee-a417-bd629fc74fce">
+                <Exitus>
+                  <Linea>
+                    <Char>Fødes et barn af en kvinde, der er gift med en kvinde eller har en registreret partner, registreres sæddonor som far til barnet, når betingelserne i § 27 a, stk. 1, er opfyldt, jf. dog stk. 3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Registrering af faderskabet foretages af statsforvaltningen i forbindelse med barnets fødsel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2f6978b3-cca6-4c98-b61e-6e8dba8405c5">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelsen i stk. 1 finder tilsvarende anvendelse, hvis sæddonoren er død før barnets fødsel, men efter at moderen har modtaget behandling med assisteret reproduktion.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb27ec14e-093b-4378-a317-b62b9770e272">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i stk. 1 og 2 gælder ikke, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id5210704c-745e-444d-88c6-7e40200c864d">
+                  <Index>
+                    <Indentatio id="id5d241b3a-2566-448d-aa04-69741f751f77" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>moderen inden for de sidste 10 måneder før barnets fødsel har været gift eller registreret partner med en anden end den kvinde, der har givet samtykke efter § 27 eller § 27 a, stk. 1, uden at være separeret eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide9bfb0cb-1d00-4d12-af01-51291943c40a" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>en part, der er omfattet af § 27 a, anmoder om, at der rejses sag om faderskab eller medmoderskab.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id41229475-be84-413d-9511-731f85027190" localId="3">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="idd262dd78-94f5-46f7-91a5-42a8df64d5cf">
+                <Exitus>
+                  <Linea>
+                    <Char>Fødes et barn af en ugift kvinde, anses en mand som far til barnet, hvis han og moderen skriftligt erklærer, at de sammen vil varetage omsorgen og ansvaret for barnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Registrering af faderskabet foretages af personregisterføreren i forbindelse med registrering af barnets fødsel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7365b673-5d99-4611-90cb-69ba94f875a2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis et barn er dødfødt eller dør, før registreringen af barnets fødsel finder sted, kan en mand i forbindelse med registreringen af barnets fødsel registreres som far til barnet, hvis han og moderen sammen skriftligt erklærer, at de ønsker ham registreret som faderen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide449cb59-c6c3-4e3f-994b-18332d8d0bde">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i stk. 1 og 2 gælder ikke, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id3b6f35ed-34eb-4d7b-b277-6d71162f919b">
+                  <Index>
+                    <Indentatio id="idcee98c25-c770-417b-baef-f4b691bc9e42" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>moderen inden for de sidste 10 måneder før barnets fødsel har haft en anden ægtefælle eller en registreret partner uden at være separeret eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide3ee70e6-0991-4f6e-9acd-edbb16c970ca" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>en eller begge parter på tidspunktet for erklæringen er umyndig eller under værgemål.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id473b324c-46a6-41c2-a4ec-0e4663215872" localId="4">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="idbc54ec9e-5a90-49ed-9431-3c64612e00c0">
+                <Exitus>
+                  <Linea>
+                    <Char>Er faderskab før barnets fødsel anerkendt efter § 14, stk. 1, stk. 2, nr. 1, eller stk. 4, nr. 1, kan det på dette grundlag registreres af personregisterføreren i forbindelse med registreringen af barnets fødsel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id652ec0c1-9398-4eb4-8a0e-ad61c58cd40f" localId="2">
+          <Explicatus>Kapitel 1 a</Explicatus>
+          <Rubrica id="idc34306f3-f0d2-4e3e-bbb1-5605a68a3012">
+            <Linea>
+              <Char>Registrering af medmoderskab i forbindelse med fødslen</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id6b7385bb-0414-4b68-819a-97941246ec3b" localId="5">
+              <Explicatus>§ 3 a.</Explicatus>
+              <Stk id="idb2e25090-65d3-4a7b-a1a4-c639e44fbf30">
+                <Exitus>
+                  <Linea>
+                    <Char>Fødes et barn af en kvinde, der er gift med en kvinde eller har en registreret partner, registreres ægtefællen eller partneren som medmor til barnet, når betingelserne i § 27 eller § 27 a, stk. 2, er opfyldt, jf. dog stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Registreringen af medmoderskabet foretages af statsforvaltningen i forbindelse med barnets fødsel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0142f1f2-4a8f-4de5-9cd8-ad966e6e260e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelsen i stk. 1 gælder ikke, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id4f410111-de0b-4f4a-8d5f-d25bea1031ed">
+                  <Index>
+                    <Indentatio id="idccf71295-16a0-4054-9fca-92836f1d3181" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ægtefællerne eller de registrerede partnere ved barnets fødsel er separerede,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id073b0f60-5068-4d4b-927c-f41c87adc368" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>moderen inden for de sidste 10 måneder før barnets fødsel har været gift eller registreret partner med en anden mand eller kvinde uden at være separeret eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idbdde10ff-4dd8-4e4c-8226-d224aeb3cc9c" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>begge ægtefæller eller registrerede partnere anmoder om, at der rejses sag om faderskab eller medmoderskab.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id61c96b6c-12b3-4f63-a792-4170feda775b">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelsen i stk. 1 finder tilsvarende anvendelse, hvis ægtefællen eller den registrerede partner er død før barnets fødsel, men efter at moderen har modtaget behandling med assisteret reproduktion, og betingelserne i § 27 eller § 27 a, stk. 2, er opfyldt, jf. dog stk. 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6eab853a-a2e3-49ac-a7ca-ba31aaa354bf">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelsen i stk. 3, jf. stk. 1, gælder ikke, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id9881ec0a-fdcc-418d-b1df-afd06ca10ce4">
+                  <Index>
+                    <Indentatio id="idc6f851ce-95fb-479c-a1e9-22a1614a23d5" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ægtefællerne eller de registrerede partnere på dødstidspunktet var separerede,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id63a23e92-956a-470c-8d88-38dc9a8823b3" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>moderen inden for de sidste 10 måneder før barnets fødsel har været gift eller registreret partner med en anden mand eller kvinde uden at være separeret eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1973e22b-89a7-42db-9077-6e0b6ac1b281" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>moderen anmoder om, at der rejses sag om faderskab eller medmoderskab.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id0e13d9c5-9f99-4096-9f6b-76242210273c" localId="6">
+              <Explicatus>§ 3 b.</Explicatus>
+              <Stk id="id2641aa50-582c-49b0-9e0b-40217420cad7">
+                <Exitus>
+                  <Linea>
+                    <Char>Fødes et barn af en ugift kvinde, anses en kvinde som medmor til barnet, hvis hun og moderen skriftligt erklærer, at de sammen vil varetage omsorgen og ansvaret for barnet, og betingelserne i § 27 eller § 27 a, stk. 2, er opfyldt, jf. dog stk. 3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Registreringen af medmoderskabet foretages af statsforvaltningen i forbindelse med fødslen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5c6ab389-f4c2-4bec-adde-1b36aa0df805">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis barnet er dødfødt eller dør, før registreringen af barnets fødsel finder sted, kan en kvinde i forbindelse med registreringen af barnets fødsel registreres som medmor til barnet, hvis hun og moderen skriftligt erklærer, at de ønsker hende registreret som medmor, og betingelserne i § 27 eller § 27 a, stk. 2, er opfyldt, jf. dog stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide99137b4-64c7-4fee-a884-46b89df48a2e">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i stk. 1 og 2 gælder ikke, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id5ad5588c-66e5-45e8-bb32-213280a85e38">
+                  <Index>
+                    <Indentatio id="id18ee89d5-22fa-4d31-860b-bc38055bcc5f" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>moderen inden for de sidste 10 måneder før barnets fødsel har været gift eller registreret partner med en anden mand eller kvinde uden at være separeret eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1e3e4271-ba12-4be4-a12b-c41a54668f2d" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>en eller begge parter på tidspunktet for erklæringen er umyndig eller under værgemål.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id0da9e429-35d1-4686-b394-6df7ac711ea5" localId="7">
+              <Explicatus>§ 3 c.</Explicatus>
+              <Stk id="idb059e7cb-2e12-4e14-ab79-5a1d6c317d13">
+                <Exitus>
+                  <Linea>
+                    <Char>Er medmoderskab før barnets fødsel anerkendt efter § 14, stk. 1, kan det på dette grundlag registreres af personregisterføreren i forbindelse med registreringen af barnets fødsel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id23495f1f-1bf6-4d5f-9011-f77043b56d66" localId="3">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="id1cebfe00-0631-440b-826b-226d8b835626">
+            <Linea>
+              <Char>Sag om faderskab og medmoderskab ved statsforvaltningen</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="idfacc2709-b7d4-4021-8dfe-3b26215b6d16">
+              <Linea>
+                <Char>Sagens begyndelse</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idf929e02c-9c3e-4acb-a333-2525c7f75239" localId="8">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="idaf7140b1-0e77-4059-8f0d-c1f7a93f9800">
+                <Exitus>
+                  <Linea>
+                    <Char>Inden barnets fødsel kan sag rejses af moderen eller af statsforvaltningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd1086450-2a7e-4d76-bf59-9d2da1da0592" localId="9">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="id4f30ff45-0bc6-4afc-97ca-692842d9d9fb">
+                <Exitus>
+                  <Linea>
+                    <Char>Er faderskab eller medmoderskab registreret efter kapitel 1 eller 1 a eller anerkendt ved statsforvaltningen, kan sag inden 6 måneder efter barnets fødsel rejses af moderen, faderen, medmoderen eller barnets værge.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idcc0f0f49-e887-446f-9c8f-f5b99df5eb02">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er faderskab registreret efter §§ 1 eller 1 a, eller er medmoderskab registreret efter § 3 a, kan sag inden for samme frist rejses af faderens eller medmoderens dødsbo, medmindre faderen eller medmoderen må anses for at have anerkendt barnet som sit.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id3a684da2-0b92-473c-859e-9898aa658962" localId="10">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="idcdb3e792-fdc5-4d9f-a0d8-7d7232e3a63e">
+                <Exitus>
+                  <Linea>
+                    <Char>En mand, som har haft seksuelt forhold til moderen i den periode, hvor hun blev gravid, har ret til at få prøvet, om han er barnets far, jf. dog stk. 2 og § 10.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anmodningen herom skal være skriftlig og skal fremsættes inden 6 måneder efter barnets fødsel, medmindre der på tidspunktet for anmodningen verserer en sag om faderskab eller medmoderskab.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ideb15d37f-04f8-4f06-ab5a-79deb3203cb8">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er en mand registreret som barnets far, eller er en kvinde registreret som barnets medmor, kan der ikke rejses faderskabssag efter stk. 1, jf. dog §§ 6 a og 6 b.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Uanset 1. pkt. kan en mand dog rejse faderskabssag, hvis han i den periode, hvor moderen blev gravid, var gift med moderen uden at være separeret eller levede i et fast samlivsforhold med hende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id6b0ff7f9-1d0f-4e93-b5fc-92eb650c2b31" localId="11">
+              <Explicatus>§ 6 a.</Explicatus>
+              <Stk id="id22adcae8-ff95-49c5-8a4e-d10e56c72f23">
+                <Exitus>
+                  <Linea>
+                    <Char>En mand eller kvinde, som har afgivet samtykke eller erklæring efter §§ 27, 27 a eller 27 b, kan rejse sag om faderskab eller medmoderskab.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>§ 6, stk. 1, 2. pkt., finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idee41ce6a-44e8-4f7a-b5ae-64b4cb8c8f0d" localId="12">
+              <Explicatus>§ 6 b.</Explicatus>
+              <Stk id="id59fe0f9e-46c3-4d64-bb3b-3dda7b504d38">
+                <Exitus>
+                  <Linea>
+                    <Char>En mand, som inden for de sidste 10 måneder før barnets fødsel har været gift med moderen uden at være separeret, skal snarest muligt have skriftlig meddelelse om barnets fødsel med vejledning om sin ret til at rejse faderskabssag.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det gælder dog ikke, hvis han allerede er part i sagen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6e963d07-1187-4a04-8a59-fd982c7d4636">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En kvinde, som inden for de sidste 10 måneder før barnets fødsel har været gift eller registreret partner med moderen uden at være separeret, skal snarest muligt have skriftlig meddelelse om barnets fødsel med vejledning om sin ret til at rejse medmoderskabssag.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det gælder dog ikke, hvis kvinden allerede er part i sagen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id65662613-a214-4d6c-bc04-c54db910f23e" localId="13">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="id3d05f4a7-ace1-4b3f-b59d-f0a6b76c0240">
+                <Exitus>
+                  <Linea>
+                    <Char>Er faderskab eller medmoderskab ikke registreret, og er der ikke rejst sag af andre, rejser statsforvaltningen sag, jf. dog stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8c13b4d9-be2e-42b4-b8ee-faad2c22d90c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er barnet dødt, skal faderskab eller medmoderskab kun søges fastslået, hvis moderen eller nogen, som har retlig interesse i det, anmoder om det.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id0df59924-69ef-48f9-a274-0632d2ae9cf8">
+              <Linea>
+                <Char>Sagens behandling</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id5f239b46-6717-46f6-a3d4-c3d311203f2b" localId="14">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="iddceca4a9-20a9-46f9-9f9d-234be2e9c115">
+                <Exitus>
+                  <Linea>
+                    <Char>Moderen skal oplyse, hvem der er eller kan være barnets far.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hun skal endvidere oplyse, om hun er blevet behandlet med assisteret reproduktion, hvis barnet kan være blevet til ved denne behandling, og i givet fald oplyse, hvem der har samtykket til behandlingen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>1. og 2. pkt. gælder ikke, hvis stk. 2-4 finder anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id53912f91-9f71-42fa-9aae-22da8bf0bafc">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelsen i stk. 1 gælder ikke ved anerkendelse af faderskab eller medmoderskab efter § 14, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idecfc4bc2-b4d3-4732-b594-b5396880dba1">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er faderskab registreret efter kapitel 1, eller er faderskab efter barnets fødsel anerkendt efter § 14, stk. 1, gælder stk. 1 kun, hvis det fastslås eller må anses for væsentligt bestyrket, at den mand, der er registreret som barnets far, eller som har anerkendt faderskabet, ikke er barnets far, jf. dog stk. 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idea91030d-3525-49e5-add9-a2cfd2b34d88">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er moderen blevet behandlet med assisteret reproduktion, og er faderskab eller medmoderskab registreret efter kapitel 1 eller 1 a, eller er faderskab eller medmoderskab anerkendt efter barnets fødsel efter § 14, stk. 1, gælder stk. 1 kun, hvis det må anses for væsentligt bestyrket, at barnet ikke er blevet til ved denne behandling.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd5a46200-d652-4e38-bc56-94080f081cc4">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Giver moderen ikke de oplysninger, der fremgår af stk. 1, skal hun vejledes om, hvilken betydning dette vil kunne få for hende og barnet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id4e946f7f-9555-4848-bf26-f5fb2872d584" localId="15">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="idf08fdfb8-10de-4e36-a4eb-74a15701abe7">
+                <Exitus>
+                  <Linea>
+                    <Char>Sagens parter er</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id002373e4-839d-4c2f-95a7-1e1db7d5f1f0">
+                  <Index>
+                    <Indentatio id="id76d49d16-f90f-4656-b593-20bd3ae2eb6e" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>barnet eller dets dødsbo,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id0449ebb3-17db-4b43-a36f-bfecc5f91701" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>moderen eller hendes dødsbo,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd270c71c-d531-4d8b-aef0-6ee00c8f5e2b" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>en mand, der er registreret som far eller har anerkendt faderskabet, eller hans dødsbo,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id6d75f023-5873-434e-8f45-0633a2d194f2" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>en mand, der efter moderens oplysninger er eller kan være barnets far, jf. § 8, eller hans dødsbo,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id4097db37-ebfc-4b15-bfd7-b0a3140d486c" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>en mand, der har ret til at få prøvet, om han er barnets far, jf. §§ 6 eller 6 a, eller hans dødsbo,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idfa8d7d0b-41b4-45d1-8dba-c44fcfd56d42" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>en kvinde, der er registreret som medmor eller har anerkendt medmoderskabet, eller hendes dødsbo og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida6d97b26-4252-4a95-8714-287131351520" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>en kvinde, der har ret til at få prøvet, om hun er barnets medmor, jf. § 6 a, eller hendes dødsbo.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idba1fdce1-af25-4853-90cc-8dd822e928a7">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er moderen død, inddrager statsforvaltningen efter anmodning fra barnets værge en mand eller kvinde som part, hvis det antageliggøres, at manden er eller kan være barnets far, eller at kvinden er eller kan være barnets medmor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ided9dd31b-7c10-4c4b-9904-20df3d92d596" localId="16">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id210ecac5-4b17-4663-981d-c5efcee5c830">
+                <Exitus>
+                  <Linea>
+                    <Char>Er barnet blevet til ved et strafbart forhold, kan den mand, der har begået forholdet, ikke blive barnets far, hvis afgørende hensyn til barnet taler imod det.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id58b110b1-a730-4352-bfd5-bb67c52c7556" localId="17">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="id6db190cd-92b3-4086-9b90-7746bd2d7d4e">
+                <Exitus>
+                  <Linea>
+                    <Char>Statsforvaltningen opfordrer moderen og de mænd, som er parter i sagen, til at medvirke ved retsgenetiske undersøgelser, hvis det kan have betydning for sagen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id646a3b80-dd0b-4c4d-a14b-70a67e4d4948">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelsen i stk. 1 kan anvendes over for andre end sagens parter, hvis det må antages at være af afgørende betydning for sagen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id4878c26a-0e2a-4e47-85f7-4d9ce03bd575" localId="18">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="id09368220-9008-4bec-a1c2-cb065ea3eae3">
+                <Exitus>
+                  <Linea>
+                    <Char>Statsforvaltningen kan bestemme, at en mand, der utvivlsomt ikke er barnets far, og at en kvinde, der utvivlsomt ikke kan anses som barnets medmor, skal udtræde af sagen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8b6dc36f-1a1d-4499-8a42-7513488edb4c" localId="19">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id12c17c7a-b53f-494b-a109-fabe40572ffe">
+                <Exitus>
+                  <Linea>
+                    <Char>Statsforvaltningen indbringer sagen for retten, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idc7c515c8-ebe5-40dd-95db-11586370d0ac">
+                  <Index>
+                    <Indentatio id="id2de0e24d-d4c2-4742-a30c-1d1bf4bf65e2" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>en af sagens parter anmoder om det,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id43e18356-6680-4fb3-8ea9-e0f951988949" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>statsforvaltningen finder det betænkeligt at fortsætte behandlingen af sagen,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id68b150e2-26fd-41dd-8428-c44de33a2137" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>der skal ske indkaldelse ved bekendtgørelse i Statstidende eller udfærdiges retsanmodning efter retsplejelovens § 158,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id752d14d5-c543-4912-b457-af0175fbfd6a" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>sagen i øvrigt ikke kan afsluttes ved anerkendelse eller henlæggelse ved statsforvaltningen eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide6cf54a4-8b45-4d02-bc47-7a317ba520a4" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>en af parterne er frataget den retlige handleevne efter værgemålslovens § 6.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id37654b62-e67f-4c67-9fc2-5ee160f9d2d2">
+              <Linea>
+                <Char>Anerkendelse af faderskab og medmoderskab</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="ide2e55133-0f2a-421d-bcdd-83f370d03c45" localId="20">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="idb74b3b27-592c-438e-b28b-b8f72eebfa56">
+                <Exitus>
+                  <Linea>
+                    <Char>En mand kan anerkende faderskabet til et barn, hvis han og moderen erklærer, at de sammen vil varetage omsorgen og ansvaret for barnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det gælder dog ikke, hvis moderen inden for de sidste 10 måneder før barnets fødsel eller forventede fødsel har været gift eller har haft en registreret partner uden at være separeret.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>1. og 2. pkt. finder tilsvarende anvendelse på en kvindes anerkendelse af medmoderskabet til et barn, hvis betingelserne i § 27 eller § 27 a, stk. 2, er opfyldt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbfc2abec-0cc2-4365-b058-265316702677">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En mand, som har haft seksuelt forhold til barnets mor i den periode, hvor hun blev gravid, kan anerkende faderskabet, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id00313335-3186-41b0-bdea-c8edd5da66a8">
+                  <Index>
+                    <Indentatio id="idfb27dcb4-36c7-406a-8791-fbcf701ca115" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>moderen efter det oplyste i denne periode ikke har haft seksuelt forhold til andre mænd og hun ikke er blevet behandlet med assisteret reproduktion med donorsæd fra en anden mand eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id127cf24c-0d93-4171-ace7-ef85fb45ba96" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>han utvivlsomt er barnets far.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id0fd0d997-f497-4a86-b894-0ff20b7f4c5e">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Har moderen i den periode, hvor hun blev gravid, haft seksuelt forhold til andre mænd, eller er hun blevet behandlet med assisteret reproduktion med donorsæd fra en anden mand, kan en mand anerkende faderskabet, hvis han og moderen erklærer, at de sammen vil varetage omsorgen og ansvaret for barnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anerkendelsen skal tiltrædes af sagens øvrige parter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida9199123-7769-4be1-8578-9fca63f00ed5">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En mand, der efter § 27, § 27 a, stk. 1, eller § 27 b anses som barnets far, kan anerkende faderskabet, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idfc003cc1-6993-4cef-92f5-73b1616118e1">
+                  <Index>
+                    <Indentatio id="idcbee1aac-0116-4d88-9e80-9daa063027c4" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>moderen efter det oplyste i den periode, hvor hun blev gravid, ikke har haft seksuelt forhold til andre mænd og hun ikke er blevet behandlet med assisteret reproduktion med donorsæd fra en anden mand eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id3493552f-4b39-42f7-adda-b3413a408f94" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>han utvivlsomt er barnets far.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id9abe457a-d98c-4e99-b6ea-bf81d918d27e">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En kvinde, der efter § 27 eller § 27 a, stk. 2, anses som barnets medmor, kan anerkende medmoderskabet, hvis moderen efter det oplyste i den periode, hvor hun blev gravid, ikke har haft seksuelt forhold til en mand og hun ikke er blevet behandlet med assisteret reproduktion med samtykke fra andre, jf. §§ 27, 27 a eller 27 b.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf1206827-b7a2-47c1-8295-1df63f872931">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Har moderen i den periode, hvor hun blev gravid, haft seksuelt forhold til en mand, kan en kvinde, der efter § 27 eller § 27 a, stk. 2, anses som barnets medmor, anerkende medmoderskabet, hvis hun og moderen erklærer, at de sammen vil varetage omsorgen og ansvaret for barnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dette gælder også i tilfælde, hvor moderen i den periode, hvor hun blev gravid, er blevet behandlet med assisteret reproduktion, og hvor en anden har givet samtykke til behandlingen og erklæret at ville være far eller medmor til barnet, jf. §§ 27, 27 a eller 27 b.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anerkendelsen skal tiltrædes af sagens øvrige parter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9a1095a8-ba3a-4b7a-a181-79bc88ddeb39">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Anerkendelse efter stk. 1-6 skal ske skriftligt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anerkendelse efter stk. 3 og 6 kan kun ske under et møde i statsforvaltningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idae43734c-ed62-4b11-bcde-c12a3b70e5eb">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er en af parterne frataget den retlige handleevne efter værgemålslovens § 6, kan der ikke ske anerkendelse efter stk. 1-6.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Er den, der anerkender faderskabet eller medmoderskabet, umyndig som følge af mindreårighed, skal værgen samtykke i anerkendelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Retsplejelovens § 257, stk. 1, 2. pkt., finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id44249fe9-4349-4097-bc08-2c792ea6539b">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Inden anerkendelse efter stk. 1-6 skal den mand, som anerkender faderskabet, eller den kvinde, der anerkender medmoderskabet, være gjort bekendt med retsvirkningerne af anerkendelsen og med, at sagen kan kræves afgjort ved retten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida9ece311-e5e9-4b9b-acb3-072a48578d4a">
+                <Explicatus>Stk. 10.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Faderskab eller medmoderskab kan ikke inden barnets fødsel anerkendes efter stk. 2, nr. 2, stk. 3, stk. 4, nr. 2, stk. 5 og 6.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="ided2c57b3-4109-4a35-972e-cb61804f4c10" localId="4">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="id2932bd80-c85b-46d7-a1f1-eae0c4f640bf">
+            <Linea>
+              <Char>Sag om faderskab og medmoderskab ved retten</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="ida8bd089b-6c8d-41cd-86be-fa74a0d3bdd9">
+              <Linea>
+                <Char>Sagens indbringelse</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id20de5df0-81d2-471c-a353-08483b92c61a" localId="21">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="idb0c085a8-f8fe-495e-b460-cd5c146a6e6a">
+                <Exitus>
+                  <Linea>
+                    <Char>Sag kan kun indbringes for retten af statsforvaltningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id943163ba-fe94-485c-8352-6a72f32b7098">
+              <Linea>
+                <Char>Sagens behandling</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id8c09a42d-7434-432c-adbe-e92a516e727d" localId="22">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="id3ef50636-9cd0-4e1a-baed-139822c0c562">
+                <Exitus>
+                  <Linea>
+                    <Char>Moderen har pligt til at møde i retten og afgive forklaring om, hvem der er eller kan være barnets far, og om hun er blevet behandlet med assisteret reproduktion, hvis barnet kan være blevet til ved denne behandling, og i givet fald hvem der har samtykket til behandlingen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>§ 8, stk. 2-5, finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8df93ab8-064a-400d-b6d7-a25aeb309f2c" localId="23">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="idbf1481fe-8881-4117-b7e9-37ab0257abf7">
+                <Exitus>
+                  <Linea>
+                    <Char>Retten inddrager de mænd og de kvinder, der er nævnt i § 9, og andre mænd eller kvinder, der efter det oplyste kan være henholdsvis far eller medmor til barnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>§§ 6 b, 10 og 12 finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd2cc74b0-83cd-4e1c-b0fd-d00b552ce853" localId="24">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="id7ce83024-ac02-4157-a533-e4e88ef04e43">
+                <Exitus>
+                  <Linea>
+                    <Char>Retten træffer bestemmelse om gennemførelse af retsgenetiske undersøgelser af sagens parter, hvis det kan have betydning for sagen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>§ 11, stk. 2, finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id2acf244d-11be-4b97-80a4-7ee606608596">
+              <Linea>
+                <Char>Anerkendelse af faderskab og medmoderskab</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id73855cb0-9866-42ac-a3fb-8f403192a834" localId="25">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="id6278905e-de9f-4f6a-8e37-5fd2e4d3ffa8">
+                <Exitus>
+                  <Linea>
+                    <Char>Faderskab og medmoderskab kan anerkendes over for retten.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>§ 14 finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id9695a455-3e1c-4e19-b1dc-f4b64aed1c33">
+              <Linea>
+                <Char>Dom til faderskab og medmoderskab</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idd58dc787-a5cf-4007-ba80-c30da66484b0" localId="26">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="id9b2918eb-11cc-4a78-8c81-be6307a60482">
+                <Exitus>
+                  <Linea>
+                    <Char>En mand dømmes som far, hvis han efter udfaldet af retsgenetiske undersøgelser utvivlsomt er barnets far.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1abc051f-f62f-4e4c-9f07-fb189df6773e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I andre tilfælde dømmes en mand som far, hvis han har haft seksuelt forhold til moderen i den periode, hvor hun blev gravid, og der ikke foreligger omstændigheder, der gør det usandsynligt, at han er barnets far.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Har moderen i den periode, hvor hun blev gravid, haft seksuelt forhold til andre mænd, er det endvidere en betingelse, at</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id96e60f93-30b9-4909-864c-907fe10c39fe">
+                  <Index>
+                    <Indentatio id="idde21af16-74ca-4ded-813a-d30769332a3b" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ingen af disse efter udfaldet af retsgenetiske undersøgelser er barnets far eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8deccc3d-fb78-4f53-9828-81cf0469e45f" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>det er overvejende sandsynligt, at ingen af disse er barnets far.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idc14e2c74-3c9e-4c59-8173-fe0416189c49">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved afgørelser efter stk. 2, 2. pkt., nr. 2, tillægges det betydning, om moderen har været gift med eller levet sammen med en af mændene i den periode, hvor hun blev gravid.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id06c5153c-5287-4efd-9107-52a4ba429dee">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En kvinde kan dømmes som medmor, hvis hun efter § 27 eller § 27 a, stk. 2, anses som medmor til barnet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd761240b-7f75-4046-a367-804518dea1b2">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En mand kan dømmes som far, hvis han efter § 27, § 27 a, stk. 1, eller §§ 27 b eller 27 c anses som far til barnet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id487edfda-6852-402c-8fc7-604c403b8069" localId="5">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="id643636bc-2574-4604-ae48-6c98589476c6">
+            <Linea>
+              <Char>Genoptagelse</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id2be588fb-a80c-4b0f-999b-1f310b8c7f1a" localId="27">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="id9d1a0272-dd39-4341-95e8-6263a969f752">
+                <Exitus>
+                  <Linea>
+                    <Char>Er faderskabet eller medmoderskabet til et barn ikke registreret eller fastslået ved anerkendelse eller dom, genoptages sagen efter anmodning fra moderen eller hendes dødsbo, barnet eller dets værge eller dødsbo, en mand, som har ret til at få prøvet, om han er barnets far efter § 6 eller § 6 a, eller en kvinde, som har ret til at få prøvet, om hun er barnets medmor efter § 6 a.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf9fcaf6e-a271-4493-a00a-61b85ad154b6">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Genoptagelse kan kun finde sted, hvis det antageliggøres, at en bestemt mand kan blive barnets far, eller at en bestemt kvinde kan blive barnets medmor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id87424f1d-bb26-4645-9867-84ba683edb60">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er barnet myndigt, kan sagen ikke genoptages mod dets vilje.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id32d37cf3-4dcd-4e42-a6ff-45cdb87c25c5" localId="28">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="id3b8a1f3a-69f5-46a2-b995-910c81fedd09">
+                <Exitus>
+                  <Linea>
+                    <Char>Er faderskabet til et barn registreret eller fastslået ved anerkendelse eller dom, genoptages sagen, hvis moderen eller hendes dødsbo, barnet eller dets værge eller dødsbo og faderen eller hans dødsbo i enighed anmoder om det.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id25a289ff-b141-4af3-88f2-6439e9a159a9">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er medmoderskabet til et barn registreret eller fastslået ved anerkendelse eller dom, genoptages sagen, hvis moderen eller hendes dødsbo, barnet eller dets værge eller dødsbo og medmoderen eller hendes dødsbo i enighed anmoder om det.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="iddf38f838-47f3-4d46-b4e4-cd740c76fb4d">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Genoptagelse efter stk. 1 eller 2 kan kun finde sted, hvis det sandsynliggøres, at en mand kan blive barnets far, eller at en kvinde kan blive barnets medmor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id41b26851-2872-4b2a-9395-b534b30d3068" localId="29">
+              <Explicatus>§ 23.</Explicatus>
+              <Stk id="idda912c86-9084-4656-92cb-667aeb339733">
+                <Exitus>
+                  <Linea>
+                    <Char>Er der i forbindelse med registreringen af faderskabet eller medmoderskabet sket fejl, der kan have betydning for, hvem der er registreret som far eller medmor, kan moderen eller hendes dødsbo, barnets værge eller dødsbo, den registrerede far eller hans dødsbo, den registrerede medmor eller hendes dødsbo eller en mand eller kvinde, der på grund af fejlen ikke er blevet registreret som far eller medmor til barnet, eller dennes dødsbo inden 3 år efter barnets fødsel forlange sagen genoptaget.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1b20c9c4-6946-4b7e-bf67-fc9d6ab8fcc0">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sag efter stk. 1 kan ikke rejses af faderen eller hans dødsbo eller af medmoderen eller hendes dødsbo, hvis han eller hun med kendskab til eller formodning om fejlen har anerkendt barnet ved at behandle det som sit.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sag kan heller ikke rejses af moderen eller hendes dødsbo, hvis hun med kendskab til eller formodning om fejlen har ladet faderen eller medmoderen behandle barnet som sit.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7290dd03-d2ac-43b5-b468-cc7f98e5811f">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En sag skal genoptages efter anmodning fra en mand eller en kvinde, som efter § 6 b skal have meddelelse om barnets fødsel, hvis meddelelsen ikke er kommet frem til den pågældende inden 5 måneder efter fødslen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anmodningen skal fremsættes uden ugrundet ophold, efter at den pågældende har fået kendskab til barnets fødsel, og senest 3 år efter fødslen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id13eda17d-0ffb-4c9b-8039-2111ac3ce57c" localId="30">
+              <Explicatus>§ 24.</Explicatus>
+              <Stk id="idbe6a7254-570f-4d69-a13b-3e14c23f3f3c">
+                <Exitus>
+                  <Linea>
+                    <Char>Er faderskabet eller medmoderskabet til et barn registreret eller fastslået ved anerkendelse eller dom, kan moderen eller hendes dødsbo, barnets værge eller dødsbo, faderen eller hans dødsbo eller medmoderen eller hendes dødsbo inden 3 år efter barnets fødsel anmode om, at sagen genoptages, hvis der er fremkommet oplysninger om omstændigheder, der kan antages at ville give sagen et andet udfald, eller der i øvrigt er særlig anledning til at antage, at sagen vil få et andet udfald.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd58ae0d2-4995-4ebe-863c-fd4080835225">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved afgørelser efter stk. 1 tillægges det navnlig betydning,</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id4921ee8f-21e0-4e87-9f98-fd92cc1a27dc">
+                  <Index>
+                    <Indentatio id="id12ff6afe-4a16-4a4b-9b38-79de413e32dc" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>hvor lang tid der er gået siden barnets fødsel,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id881e85cd-d7a0-4daa-bae0-f8816657a043" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>om faderen med kendskab til eller formodning om de omstændigheder, der rejser tvivl om, hvorvidt han er far til barnet, har anerkendt barnet ved at behandle det som sit,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id33cbf687-186d-49bb-affe-913a234ea285" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>om medmoderen med kendskab til eller formodning om de omstændigheder, der rejser tvivl om, hvorvidt hun er medmor til barnet, har anerkendt barnet ved at behandle det som sit,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id5cf198fb-363e-4a0b-a94e-5b7547249a80" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>om moderen med kendskab til eller formodning om de omstændigheder, der er nævnt i nr. 2 og 3, har ladet faderen eller medmoderen behandle barnet som sit,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id671c86f3-7f39-4857-9683-841bd843bd5f" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>om en part med kendskab til eller formodning om de omstændigheder, der rejser tvivl om, hvem der er barnets far eller medmor, ikke inden rimelig tid har anmodet om genoptagelse, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id32389e66-fdb5-406b-b0cd-089a1ee6ab85" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>om barnet kan forventes at ville få en far eller en medmor, hvis sagen genoptages.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id76486dc7-55fd-40e2-9c30-0749dd45330a" localId="31">
+              <Explicatus>§ 25.</Explicatus>
+              <Stk id="id16a45b35-1238-49f7-8d23-162681441279">
+                <Exitus>
+                  <Linea>
+                    <Char>Genoptagelse efter §§ 23 og 24 kan efter udløbet af fristen i disse bestemmelser tillades, hvis der kan anføres ganske særlige grunde til, at anmodningen ikke er fremsat tidligere, omstændighederne i øvrigt i høj grad taler for genoptagelse og det må antages, at en fornyet behandling af sagen ikke vil medføre væsentlige ulemper for barnet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb0dabcb4-657a-4fed-929f-bf3148800c58" localId="32">
+              <Explicatus>§ 26.</Explicatus>
+              <Stk id="id3991b883-3f4a-446a-a953-33c677ae983f">
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelse af, om en sag skal genoptages, træffes af statsforvaltningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb1bdb500-1e54-4c4c-8176-928a3bb327a5">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Statsforvaltningen indbringer spørgsmålet om genoptagelse for retten, hvis en part inden fire uger efter statsforvaltningens afgørelse anmoder om det.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id47cfedc7-2a1a-46ef-b7d8-71d6eb92ac2b">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Genoptages sagen, finder kapitel 2 og 3 tilsvarende anvendelse, jf. dog stk. 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id93f45d88-8a6e-4e7a-acf6-e97e129c502a">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En mand, der tidligere har været part i sagen, men som efter udfaldet af retsgenetiske undersøgelser eller bevis om, hvorvidt han har haft seksuelt forhold til moderen i den periode, hvor hun blev gravid, ikke er blevet anset som barnets far, kan ikke mod sin vilje inddrages på ny.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dette gælder dog ikke, hvis han har afgivet falsk forklaring for retten om forhold af betydning for sagen eller der med hans viden er sket identitetsforveksling, ombytning af genetisk materiale eller anden tilsvarende fejl.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="ide8f06892-f5a3-401e-afb8-a5ad7dff16b3" localId="6">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica id="id1d24e896-ff9c-44a5-9975-ad1a478deffd">
+            <Linea>
+              <Char>Faderskab, medmoderskab og moderskab ved assisteret reproduktion</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="id679ba98e-0245-4670-9fc8-17501c05ae3b">
+              <Linea>
+                <Char>Faderskab og medmoderskab</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idbf4ce362-cf28-418d-a5d7-f4b15a5e976f" localId="33">
+              <Explicatus>§ 27.</Explicatus>
+              <Stk id="id9f900f84-eddd-4476-acd1-edec2d0a3755">
+                <Exitus>
+                  <Linea>
+                    <Char>Er en kvinde blevet behandlet med assisteret reproduktion af en sundhedsperson eller under en sundhedspersons ansvar, anses hendes ægtefælle, registrerede partner eller partner som barnets far eller medmor, hvis denne har givet samtykke til behandlingen og barnet må antages at være blevet til ved denne, jf. dog § 27 a, stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Samtykket skal være skriftligt og indeholde en erklæring om, at manden skal være barnets far, eller at kvinden skal være barnets medmor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id5c80bc0c-9036-401b-baa3-389b1ab40b26" localId="34">
+              <Explicatus>§ 27 a.</Explicatus>
+              <Stk id="idcc259ed8-5ba6-491a-a1ff-1ef0f45718d1">
+                <Exitus>
+                  <Linea>
+                    <Char>Er en kvinde, der er gift med en kvinde eller har en registreret partner eller en kvindelig partner, blevet behandlet med assisteret reproduktion med en kendt mands sæd af en sundhedsperson eller under en sundhedspersons ansvar, anses manden som barnets far, hvis barnet må antages at være blevet til ved denne behandling og manden skriftligt har erklæret, at han skal være barnets far, jf. dog stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ægtefællen, den registrerede partner eller partneren til den kvinde, der skal behandles, skal have givet skriftligt samtykke til behandlingen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8ee45d8e-1b95-44da-b884-d98ef8deabf1">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelsen i stk. 1 gælder ikke, hvis de tre parter, der er nævnt i stk. 1, skriftligt erklærer, at ægtefællen, den registrerede partner eller partneren til den kvinde, der skal behandles, skal være barnets medmor.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Herefter anses ægtefællen, den registrerede partner eller partneren som barnets medmor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida0ceab8c-e48a-4fb3-b590-128f76630aaf" localId="35">
+              <Explicatus>§ 27 b.</Explicatus>
+              <Stk id="idebbbc5b3-fa90-484d-bb50-c805e15a620b">
+                <Exitus>
+                  <Linea>
+                    <Char>I situationer, der ikke er omfattet af §§ 27 eller 27 a, anses en sæddonor som far til et barn, der med hans sæd er blevet til ved behandling med assisteret reproduktion af en anden kvinde end hans ægtefælle eller partner, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idc37ff0f4-bd2b-4099-8bf7-f266c9ca7bf6">
+                  <Index>
+                    <Indentatio id="id6a8f3908-75f0-4aae-9604-18509d2befd8" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>den assisterede reproduktion er foretaget af en sundhedsperson eller under en sundhedspersons ansvar,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida46e0916-2895-41f7-9d8b-3860f1ba56de" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>han skriftligt har givet samtykke til, at en bestemt kvinde modtager behandlingen,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc904b893-fa64-4d5d-9036-d66602dc90b0" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>barnet må antages at være blevet til ved denne og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id17064a6f-7160-4917-b902-0a6726750af6" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>han skriftligt har erklæret, at han skal være barnets far.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idde810b57-43f6-4fa3-80ba-894eaf38836c" localId="36">
+              <Explicatus>§ 27 c.</Explicatus>
+              <Stk id="idae120a85-5f0a-4e79-9301-e720116d26ac">
+                <Exitus>
+                  <Linea>
+                    <Char>I sager, der ikke er omfattet af §§ 27, 27 a, 27 b eller 28, anses en sæddonor som far til et barn, der med hans sæd er blevet til ved assisteret reproduktion, medmindre sæden er anvendt uden hans viden eller efter hans død.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id382155a4-8308-4282-b0f7-28ba0ed86db7" localId="37">
+              <Explicatus>§ 28.</Explicatus>
+              <Stk id="id5ea425bb-7d6c-4115-9e26-c2e8db338c12">
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre andet følger af § 27, § 27 a, stk. 1, eller § 27 b, anses en sæddonor ikke som far til et barn, der med hans sæd er blevet til ved assisteret reproduktion, hvis sæden er doneret til et vævscenter, der distribuerer sæd, en sundhedsperson eller en person, der arbejder under en sundhedspersons ansvar.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb6891ed4-4e57-4b66-b4f5-0c96069986c5" localId="38">
+              <Explicatus>§ 29.</Explicatus>
+              <Stk id="idc97a7d53-4e67-4a27-b883-fb1507881b12">
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i kapitel 1-4 finder i øvrigt tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id4b6f3793-8715-42b8-b962-55afef20bf71">
+              <Linea>
+                <Char>Moderskab</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id12a0d7d0-dc17-42f4-9009-ab669fbb2a43" localId="39">
+              <Explicatus>§ 30.</Explicatus>
+              <Stk id="idbd10c9b4-88bc-4c82-8cc3-e91380b279e8">
+                <Exitus>
+                  <Linea>
+                    <Char>Den kvinde, som føder et barn, der er blevet til ved assisteret reproduktion, anses for mor til barnet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id095fe481-9a31-47f4-a83c-b185fa68a829" localId="7">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica id="id3207d41b-3113-4d4b-bbd1-5023da2f0352">
+            <Linea>
+              <Char>Surrogatmoderskab</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="ide2eeed87-0c08-4aea-a25d-c812e7884dfb" localId="40">
+              <Explicatus>§ 31.</Explicatus>
+              <Stk id="id49e458c4-f981-409a-92f0-0d5612c57b20">
+                <Exitus>
+                  <Linea>
+                    <Char>En aftale om, at en kvinde, som føder et barn, efter fødslen skal udlevere barnet til en anden, er ugyldig.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id0bad3529-4838-4228-b0bf-b8052a49f443" localId="8">
+          <Explicatus>Kapitel 7</Explicatus>
+          <Rubrica id="idc0070171-9c45-4d0d-b6db-ea6099d0873f">
+            <Linea>
+              <Char>Statsforvaltningens vejledningspligt</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id5712e6ae-283f-4d99-8c44-3b40e8cd8d4b" localId="41">
+              <Explicatus>§ 32.</Explicatus>
+              <Stk id="id6db18d02-e8f7-4002-9565-3e7492748352">
+                <Exitus>
+                  <Linea>
+                    <Char>Statsforvaltningen yder i fornødent omfang vejledning om spørgsmål, der vedrører denne lov, og bistår herunder med udfyldelse af blanketter m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id8f53ae28-d7ee-46cc-ac2d-56edf558ab82" localId="9">
+          <Explicatus>Kapitel 8</Explicatus>
+          <Rubrica id="id865ae1ac-20d1-4d5e-9a34-29ca0fb5b3ec">
+            <Linea>
+              <Char>Forskellige bestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id46e8ddb2-6ef4-4908-a68b-8d2407b4e3b6" localId="42">
+              <Explicatus>§ 33.</Explicatus>
+              <Stk id="id3d502071-6805-4176-a65d-dc9c97e613a5">
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og indenrigsministeren fastsætter regler om behandling af sager efter denne lov, herunder om personregisterførernes og statsforvaltningens registrering af faderskab og medmoderskab, om statsforvaltningens behandling af sager om faderskab og medmoderskab, om beregning af den periode, hvor moderen blev gravid, og om retsgenetiske undersøgelser.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Social- og indenrigsministeren kan fastsætte nærmere regler om behandlingen af klager over statsforvaltningens sagsbehandling, jf. § 35, stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus />
+              </Stk>
+              <Stk id="id2c7c9284-2e2e-49d0-8508-c4d3ea6acbc4">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Blanketter til brug for registrering af faderskab og medmoderskab og til brug for anerkendelse og afgivelse af erklæring efter §§ 14, 19, 27, 27 a og 27 b skal være godkendt af Ankestyrelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Social- og indenrigsministeren kan bestemme, at underskrifter på disse blanketter skal være bekræftet af en advokat eller to vitterlighedsvidner eller på anden måde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3cc6b9c3-b414-417e-af3c-391221d1672c">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og indenrigsministeren kan bestemme, at en anerkendelse afgivet i udlandet skal ligestilles med en anerkendelse for statsforvaltningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id5f61284c-f635-4199-b819-06be7ef0c401" localId="43">
+              <Explicatus>§ 33 a.</Explicatus>
+              <Stk id="id87e3b5d0-3254-4256-9100-731d2bad5f8a">
+                <Exitus>
+                  <Linea>
+                    <Char>Erklæring efter § 2, stk. 1, skal indgives til personregisterføreren ved anvendelse af den digitale løsning, som Kirkeministeriet stiller til rådighed (digital selvbetjening).</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Erklæringer, der ikke indgives ved digital selvbetjening, afvises af personregisterføreren, jf. dog stk. 3 og 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf4100d51-9c60-4014-89f9-3e92966912b9">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erklæring efter § 3 b, anmodning om rejsning eller genoptagelse af sag om faderskab eller medmoderskab efter §§ 4, 5, 6, 6 a og 21-24 og anmodning om anerkendelse af faderskab eller medmoderskab efter § 14 skal indgives til statsforvaltningen ved anvendelse af den digitale løsning, som statsforvaltningen stiller til rådighed (digital selvbetjening).</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Erklæringer og anmodninger, der ikke indgives ved digital selvbetjening, afvises af statsforvaltningen, jf. dog stk. 3 og 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3ea442b2-77da-4ee7-a57f-9c7eaf6c860f">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis der foreligger særlige forhold, der gør, at borgerne ikke må forventes at kunne anvende digital selvbetjening, skal myndigheden, jf. stk. 1 og 2, tilbyde, at erklæringen kan indgives på anden måde end ved digital selvbetjening efter stk. 1 og 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Myndigheden, jf. stk. 1 og 2, bestemmer, hvordan en erklæring omfattet af 1. pkt. skal indgives, herunder om den skal indgives mundtligt eller skriftligt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id17e1ebea-5243-4374-a9eb-35048966ee2c">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Myndigheden kan helt ekstraordinært ud over de i stk. 3 nævnte tilfælde undlade at afvise en erklæring, der ikke er indgivet ved digital selvbetjening, hvis der ud fra en samlet økonomisk vurdering er klare fordele for personregisterføreren ved at modtage erklæringen på anden måde end digitalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idffdd0771-353c-45e3-b78a-836382e3fa53">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En digital erklæring anses for at være kommet frem, når den er tilgængelig for myndigheden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id56ada404-cde1-4df3-af77-e636fae34ca7" localId="44">
+              <Explicatus>§ 34.</Explicatus>
+              <Stk id="idd0d9b844-4cd3-4cd6-95cb-7d706c67a5ef">
+                <Exitus>
+                  <Linea>
+                    <Char>Regeringen kan indgå overenskomst med andre stater om forholdet mellem dansk og fremmed rets regler om fastsættelse af faderskab, medmoderskab og moderskab til børn.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Overenskomsten finder anvendelse her i landet efter bekendtgørelse i Lovtidende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide6e6a945-cc36-4c27-be7a-035ae2710813">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og indenrigsministeren kan fastsætte regler om forholdet mellem danske og andre nordiske landes regler om fastsættelse af faderskab, medmoderskab og moderskab til børn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id5c4d61d7-2253-4452-b70e-80dc952a3703" localId="45">
+              <Explicatus>§ 35.</Explicatus>
+              <Stk id="idab75bc26-91a0-4e91-9273-ff55cdbb2569">
+                <Exitus>
+                  <Linea>
+                    <Char>Statsforvaltningens afgørelser efter denne lov kan ikke indbringes for anden administrativ myndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id43b01b21-b68f-4618-85e5-05c8136407f1">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I sager efter kapitel 2, 4 og 5 kan statsforvaltningens sagsbehandling påklages til Ankestyrelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved Ankestyrelsens behandling af klager efter 1. pkt. finder kapitel 9 og §§ 68 og 70 i lov om retssikkerhed og administration på det sociale område anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id78afd70c-2f50-4947-b4b3-ff6e52b08ed4" localId="10">
+          <Explicatus>Kapitel 9</Explicatus>
+          <Rubrica id="id76947b3e-fed7-4239-9eee-d7bfc7ce78a7">
+            <Linea>
+              <Char>Ikrafttræden m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id26ac434f-9897-4d5d-8c55-1147669880c8" localId="46">
+              <Explicatus>§ 36.</Explicatus>
+              <Stk id="id372bee59-4629-41b3-8d11-4c2dc0438a0c">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. juli 2002.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id60285d65-c44b-43cf-9028-19f32f09e5df">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven finder anvendelse på børn, som fødes efter lovens ikrafttræden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For børn født før lovens ikrafttræden anvendes de hidtil gældende regler, jf. dog stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id81e47717-3946-4d63-867b-283f7aa8c66c">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelsen i § 22, jf. § 26, finder også anvendelse på børn, som er født før lovens ikrafttræden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id3ef6f37f-6352-4144-91d5-f6cbef48fb9e" localId="47">
+              <Explicatus>§ 37.</Explicatus>
+              <Stk id="id2640932c-2dbc-47e0-a108-f7ea41cac6d3">
+                <Exitus>
+                  <Linea>
+                    <Char>(Udelades)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="idc3b11e4d-f9f8-47ff-abe8-1e341b8b7458">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 602 af 18. juni 2012 (Fastslåelse af faderskab i forbindelse med kunstig befrugtning) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id33dbb3ef-9887-46f3-8831-f76140017914">
+        <Explicatus>§ 4</Explicatus>
+        <Stk id="id0d74d329-4b5a-4ca8-b1ab-2428127b0ad1">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. oktober 2012.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="ide0b20d99-0edd-4d49-8afa-65e9d883ce3b">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovens § 2 og § 3, nr. 2, finder anvendelse på børn, der er blevet til ved kunstig befrugtning, der er gennemført efter lovens ikrafttræden.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="idfa41b694-db8e-4bb2-997e-e036ab1eecd8">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1313 af 27. november 2013 (Assisteret reproduktion som terminologi, dispensationsmulighed vedrørende opbevaringstid for æg, samtykke til behandling samt udvidelse af kredsen af ansvarlige for indberetning af alvorlige uønskede hændelser og bivirkninger i form af genetisk sygdom m.v.) indeholder nedenstående ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id6a5fbb08-7dee-4577-9908-e1e5893acd96">
+        <Explicatus>§ 7</Explicatus>
+        <Stk id="idec45181b-feb9-4c80-ac96-47c65f3e5a5e">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. december 2013, jf. dog stk. 2-5.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id8e7f738a-3816-4be8-bc9b-cee6ba800fca">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 3, nr. 1, og § 4 træder i kraft den 2. december 2013.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idef515ce1-2ad7-48d4-a222-c4d4e191c711">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Børnelovens §§ 27, 27 a og 27 b som affattet ved denne lovs § 3, nr. 2, finder alene anvendelse på børn, der er blevet til ved assisteret reproduktion, hvis samtykke til assisteret reproduktion og erklæring om at skulle være barnets far eller medmor er afgivet efter lovens ikrafttræden.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idbf7eaed2-db93-4b2c-84dd-175e2678015e">
+          <Explicatus>Stk. 4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Børnelovens §§ 27 c og 28 som affattet ved denne lovs § 3, nr. 2, finder alene anvendelse på børn, der er blevet til ved assisteret reproduktion, der er foretaget efter lovens ikrafttræden.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id00ee44f4-a74d-466c-8088-441ad0f37ecd">
+          <Explicatus>Stk. 5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>De hidtil gældende bestemmelser i børnelovens §§ 27 og 28 finder fortsat anvendelse på børn, der er blevet til ved kunstig befrugtning, der er foretaget før lovens ikrafttræden.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id8e53f2ae-3391-4e67-b407-1d56c2a3fcbe">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1741 af 22. december 2015 (Ankestyrelsen som familieretlig klagemyndighed m.v.) indeholder følgende ikraftrædelsesbestemmelser:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id05bc0749-76bd-4d5d-b60b-ece979ba0045">
+        <Explicatus>§ 12</Explicatus>
+        <Stk id="idae803806-9547-42ba-85cb-ea9f76155373">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2016.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+      <IkraftCentreretParagraf id="id5996fffe-6ea5-4bcc-8e84-533ed74cf6ab">
+        <Explicatus>§ 13</Explicatus>
+        <Stk id="idaa436f26-cf26-45e3-b4f1-01b270f0a8ae">
+          <Explicatus>Stk. 1. </Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Sager, der er under behandling hos social- og indenrigsministeren efter en af de i §§ 1-8, 10 og 11 nævnte love</Char>
+            </Linea>
+            <Nota id="id1002f7d7-884b-4425-8be1-1a3cc5a0133f">
+              <Explicatus>1)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Herunder efter børneloven, jf. § 2 i lov nr. 1741 af 22. december 2015.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>, hvor Ankestyrelsen efter denne lovs ikrafttræden behandler sådanne sager, og hvor sagerne ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles af Ankestyrelsen.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id87e83315-e4c2-46ed-8e39-386c049c34cc">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Anmodning om genoptagelse af afgørelser, herunder afgørelser om aktindsigt og afgørelser om sagsbehandlingen, der er truffet af social- og indenrigsministeren i sager efter en af de i §§ 1-8, 10 og 11 nævnte love</Char>
+            </Linea>
+            <Nota id="id5c582513-f245-4a43-b556-df5340e6b782">
+              <Explicatus>2)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Se note 1.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>, og hvor Ankestyrelsen efter denne lovs ikrafttræden træffer afgørelse i sådanne sager, indgives til og behandles af Ankestyrelsen.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idda3039f4-3675-49ea-be2b-0e6a89c77769">
+          <Explicatus>Stk. 3. </Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2 finder tilsvarende anvendelse på alle andre former for henvendelser i de sager, der er nævnt i stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id7e21665b-2eff-4bf3-afd6-c1e7c8858bdd">
+          <Explicatus>Stk. 4</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Anmodning om aktindsigt i sager, som social- og indenrigsministeren har behandlet efter en af de i §§ 1-8, 10 og 11 nævnte love</Char>
+            </Linea>
+            <Nota id="id38c003dd-96eb-4ef5-aa0a-775cd684071a">
+              <Explicatus>3)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Se note 1.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>, og hvor Ankestyrelsen efter denne lovs ikrafttræden behandler sådanne sager, indgives til og behandles af Ankestyrelsen.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id837a7b67-f00e-4959-adaa-9cce21c8dd11">
+    <UnderskriftStedDato id="id837a7b67-f00e-4959-adaa-9cce21c8dd11" />
+    <Underskriver id="id837a7b67-f00e-4959-adaa-9cce21c8dd11" />
+  </UnderskriftGruppe>
+</Dokument>

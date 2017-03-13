@@ -1,0 +1,2717 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id28f15595-d6ba-4ab1-9bbc-d4386e1045ec" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id389672d6-bfc6-45cb-8344-1e059976b543">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150052730</AccessionNumber>
+    <DocumentId>BV000250</DocumentId>
+    <UniqueDocumentId>169836</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om friplejeboliger, lov om almene boliger m.v., lov om social service og lov om individuel boligstøtte (Fri adgang til plejeboligmarkedet, ophævelse af krav om genudbud, ændring af afregningssystemet, pantsætningsforbud, forenkling af friplejeboligordningen m.v.)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-04-29</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-11-10</EndDate>
+    <Status>Historic</Status>
+    <Number>527</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1053 af 08/09/2015</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1278 af 18/11/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1058 af 31/08/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 174 af 24/02/2016</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 527 af 29/04/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2016-02-29</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Carsten Hansen</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Ministeriet for By, Bolig og Landdistrikter, j.nr. 2014-10168</JournalNumber>
+    <Ministry>Udlændinge-, Integrations- og Boligministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="idcd70c0fa-bb0f-485f-9247-b82b67e203aa">
+    <Titel id="idac19e60e-ccdc-49df-916e-73b76979dfa1">
+      <Linea>
+        <Char>Lov om ændring af lov om friplejeboliger, lov om almene boliger m.v., lov om social service og lov om individuel boligstøtte</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id08f8b82f-8ee7-4a8b-8695-3589db234550">
+      <Linea>
+        <Char>(Fri adgang til plejeboligmarkedet, ophævelse af krav om genudbud, ændring af afregningssystemet, pantsætningsforbud, forenkling af friplejeboligordningen m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id13b5800a-e3af-4b15-ad2d-d5e1d6dc1ab6">
+    <Hymne id="id3bbfe954-092a-49b0-bd46-a95e4404485d">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id0a48b898-54d6-4172-8f53-19a4774f7e3c">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om friplejeboliger, jf. lovbekendtgørelse nr. 897 af 17. august 2011, som ændret ved § 24 i lov nr. 326 af 11. april 2012, § 2 i lov nr. 1097 af 28. november 2012, § 23 i lov nr. 493 af 21. maj 2013 og § 10 i lov nr. 722 af 25. juni 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id101bf1ac-ab9f-47ee-ae58-7f73cb62e47c">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="ida1399649-19ed-4fed-805a-b2d1d11d3edf">
+          <AendringDefinition id="idbbce2e6b-fe65-4660-90d6-de8b89d7bc88">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1fd82af0-8a9b-4dc2-9fc0-ebc0e3332d6f" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id73f0ddfb-64b4-432b-a8a6-16da3fd03e25">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En friplejeboligleverandør kan indgå aftale med kommunalbestyrelsen om, at denne får anvisningsret til boliger i en friplejeboligbebyggelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id792d171f-19d5-4a25-8185-93507e1712e9">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id14fa15be-41b3-43d3-8a80-31025b5a2e4b">
+          <AendringDefinition id="idfda21b02-dfc4-48ec-a175-ca81c42accf4">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 2, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3b5a8fa3-0a44-46f2-9e1d-66b560580e4e" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="idc20da683-4a71-4847-82b2-4c0ea1c92959">
+                <Exitus>
+                  <Linea>
+                    <Char>Friplejeboliger kan drives i lokaler tilhørende friplejeboligleverandøren eller i lokaler, som denne lejer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Drives friplejeboligerne i lejede lokaler, skal lejekontrakten omfatte såvel boligerne som servicearealerne, og lejemålet må ikke være tidsbegrænset.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id33d54202-5773-4bd3-878d-d4a4560a7c09">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id59697315-390a-4604-ac57-8eadff25ca7d">
+          <AendringDefinition id="idedbbda06-da93-4054-8c39-0bce1efdb6a1">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5, stk. 2,</Char>
+                <Char> ændres »personlig og praktisk hjælp« til: »personlig pleje, praktisk hjælp og madservice«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id77beb645-076e-4f9e-88cc-adbb3bf77ccf" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4ab86fe7-1333-4068-99e1-d073c2f81dcd">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id5a54da6f-51ca-4a08-8bdc-088b612b3d67">
+          <AendringDefinition id="id25abd573-fa47-4dcb-8f27-3051111cc10e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5, stk. 3,</Char>
+                <Char> indsættes efter »social service:«: »Rehabiliteringsforløb, jf. § 83 a,«, og »Socialpædagogisk« ændres til: »socialpædagogisk«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4cc38932-b479-44f4-a508-3a2e7072645b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id56d5c934-9b56-4e34-a3d6-e4c8fcc38e30">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id65c4d0f9-890e-4a57-b872-db9cf6edf2f3">
+          <AendringDefinition id="id5aca4de3-696f-42d8-b70c-54c1cd9423be">
+            <Exitus>
+              <Linea>
+                <Char>Overskriften før § 10 ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide1432924-9c9c-4305-a6ec-9b3be4f077d4" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idae3e2de6-62d4-4b08-8657-87b8af8588a0">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="iddbd36e65-2d57-4be3-a318-68add3557ddd">
+          <AendringDefinition id="idf289d218-792b-45e5-9b47-b8156d0f2b7b">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 10</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id65c350b4-baf8-40a8-8512-c31ce71b5e41" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id150ddd14-b984-4bc4-96d3-80a4ace602c3">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="ida26e2441-8398-424d-8918-48529f248fc4">
+          <AendringDefinition id="id370fbf7c-ebe7-4b16-ac33-02e711063841">
+            <Exitus>
+              <Linea>
+                <Char>I overskriften før § 11 udgår »(kvote B)«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id508d9dd0-93b7-4975-bfd6-e93258ee1a5c" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2c0a5404-114c-46d1-888b-f788349796fe">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="ida2e62a6e-4bda-4410-b065-eb26212af1b7">
+          <AendringDefinition id="iddcb86a1e-fe6b-4076-a429-b8ca0f0df135">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 11, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id54a854d1-0390-493b-b0e7-fa6ca047fd1c" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Ministeren for by, bolig og landdistrikter kan efter ansøgning godkende, at en certificeret friplejeboligleverandør etablerer friplejeboliger ved nybyggeri eller ombygning eller ved køb eller leje af egnede lokaler.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc3a46993-d35a-430c-9f9c-3c6aea1e5215">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="id53e1a9c2-e05e-4173-b50d-95401a92138a">
+          <AendringDefinition id="id9d05f27c-6245-4926-bf0b-c8fd745d17d2">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 11, stk. 4</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">5,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb7b060d1-9223-4567-af49-601d109b8407" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id61cc0bd3-df88-4a94-b3e7-a7c507d55303">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="id64fdcc59-acdc-4148-94a0-dcdf751c8e0e">
+          <AendringDefinition id="id1ff5e938-9720-46d3-bbc7-ec364d5906a5">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 11 indsættes før overskriften før § 12:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idba0cea81-1a5e-4418-8b84-a6e3b4eb2055" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <ParagrafGruppe>
+                <Rubrica id="id6ca89f22-e8d6-4fb7-bb9d-f1a4f85651eb">
+                  <Linea>
+                    <Char>Tilsagn om støtte</Char>
+                  </Linea>
+                </Rubrica>
+              </ParagrafGruppe>
+              <Paragraf id="ide8f96dc7-06ea-44ae-9f63-3c25b731b62f" localId="1">
+                <Explicatus>§ 11 a.</Explicatus>
+                <Stk id="id082303ec-5d7f-491e-895d-f4d13db13fc5">
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for by, boliger og landdistrikter kan meddele tilsagn om ydelsesstøtte til certificerede friplejeboligleverandører.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Det er en betingelse for tilsagn efter 1. pkt., at boligerne etableres ved nybyggeri eller ved gennemgribende ombygning af eksisterende ejendomme, der ikke er opført med offentlig støtte.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idacb183ba-c223-41a4-8aaa-20d3a81e0ff3">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Tilsagn om støtte efter stk. 1 kan gives til højst 225 boliger årligt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="ide4608356-9b23-453a-9fdd-d265e731f6ea">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>§ 141 i lov om almene boliger m.v. finder anvendelse for servicearealer til friplejeboliger etableret med støtte efter stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idaaebb7e5-2d78-454c-954e-61f03c1ccabd">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Friplejeboliger med sædvanlige fællesfaciliteter til brug for lejerne, som etableres med støtte efter stk. 1, skal udgøre en eller flere selvstændige ejendomme.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Det samme gælder for de tilhørende servicearealer.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id6e345b9e-94fe-44da-a864-7d2c8445cccb">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="id5d706e2f-5db5-42e3-8c7a-12eed0d78815">
+          <AendringDefinition id="id50ca52db-9115-4112-853f-fc3ec5b70a87">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 1, 1. pkt.,</Char>
+                <Char> ændres »efter kvote A« til: »med ydelsesstøtte efter § 11 a, stk. 1,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc743cb95-056f-4fa6-896a-13508036a712" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id14096b74-b30f-4adf-9d1b-8901a9453a30">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="idf9b97c21-e5f3-4bfd-9005-f465da8ddc60">
+          <AendringDefinition id="id891349f1-a72a-4fca-809a-fa01bfbc779d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 1,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd57b032f-85ea-4fa4-aed5-f402802c9e77" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id7a8cf255-dc1a-4158-8f69-a86507d306d8">
+                <Exitus>
+                  <Linea>
+                    <Char>Kan der som følge af det garantimaksimum, der er fastsat i § 20, 2. pkt., ikke opnås det fulde lån nævnt i 1. pkt., kan friplejeboligleverandøren i stedet finansiere en del af anskaffelsessummen med supplerende kapitalindskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id3434d26b-14c7-45b7-a7f9-c49d23d59446">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="id7c3a9f2d-7757-4660-867c-c6b88f17dd49">
+          <AendringDefinition id="id33b2ff24-0d8a-4d63-a931-efd2e771f1cd">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13, stk. 1,</Char>
+                <Char> ændres »§ 10, stk. 1,« til: »§ 11 a, stk. 1,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb93d8270-a654-434e-9cdb-1e3c46f4b198" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb2b97eb3-7e7d-48f1-9278-b9fdd6903648">
+        <Explicatus>14.</Explicatus>
+        <Aendring id="iddd87c40d-c571-48e4-a2db-052e64391ee2">
+          <AendringDefinition id="ide037e0f9-42f2-40b2-8739-b562a1c1162f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13, stk. 2,</Char>
+                <Char> ændres »§ 115, stk. 9« til: »§ 115, stk. 10«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd8f0c0ac-9ce0-402c-895b-2fa918b0f2e0" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id920b43fd-3acd-4fa9-96c5-ec9cf12f6824">
+        <Explicatus>15.</Explicatus>
+        <Aendring id="id620c6ab4-278a-4980-a495-18b1ded1d04b">
+          <AendringDefinition id="id50df9c3c-2058-490a-b46b-e824f8864a2d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id644f2afd-5455-47ac-a2d6-b0074d28aea6" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id34426a9d-a9ff-4823-ba1d-ee67713b52ae">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For friplejeboliger, der er etableret ved erhvervelse af ejendomme, hvortil der ydes løbende støtte, fortsætter støtten med uændret beløb og løbetid, hvis det eksisterende støttede lån kan overtages af den nye ejer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kan det eksisterende støttede lån ikke overtages, ophører støtten med virkning fra overtagelsesdagen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ophører den løbende støtte ved erhvervelsen, og erhverves ejendommen til markedspris, anses ejendommen for ustøttet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida77d87f9-80f5-4f48-ae22-57ee8e7ed0f0">
+        <Explicatus>16.</Explicatus>
+        <Aendring id="id72321584-648d-4f68-9a13-9d567476229f">
+          <AendringDefinition id="id6330f1b8-16ba-4a6f-af29-33e8fdbc821e">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 14</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idbb96d3b1-3d8c-4083-b1e2-458cf2a72cf6" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="idd0a1f672-4520-42f0-970d-16cf4c0f1ea3" localId="2">
+                <Explicatus>§ 14.</Explicatus>
+                <Stk id="idd6367094-ba4e-474c-a23c-a2277c743ebe">
+                  <Exitus>
+                    <Linea>
+                      <Char>For friplejeboliger etableret ved omdannelse af ejendomme efter § 11, stk. 2, hvortil der ydes eller har været ydet statslig ydelsesstøtte eller anden løbende støtte, fastsættes beboerindskuddet som 2 pct. af boligens andel af den godkendte anskaffelsessum.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id66626002-663e-4e2f-bbf4-e4799a6256ea">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>For friplejeboliger, hvortil der ikke ydes eller har været ydet støtte som nævnt i stk. 1, kan ikke opkræves beboerindskud.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idad0bfef7-61c1-4769-9a6d-a8f004b91aec">
+        <Explicatus>17.</Explicatus>
+        <Aendring id="id31345415-5397-4958-ae6a-45843c38c284">
+          <AendringDefinition id="id23288154-1172-4502-9837-6771be09cfac">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 15, stk. 2, 1. pkt.,</Char>
+                <Char> ændres »§ 14, stk. 3.« til: »§ 14, stk. 1, eller det depositum, der er nævnt i § 36, stk. 2.«, og i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 15, stk. 2, 2. pkt.,</Char>
+                <Char> ændres »det i § 14, stk. 2, nævnte beboerindskud.« til: »det beboerindskud, der er nævnt i § 14, stk. 1, eller det depositum, der er nævnt i § 36, stk. 2.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id79add94a-38f9-48bd-a558-b5d964cff8c6" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idfdbdca4a-a6e6-424b-9994-625f44754299">
+        <Explicatus>18.</Explicatus>
+        <Aendring id="idfd782809-55e1-4278-9bb2-98275c0aab53">
+          <AendringDefinition id="id2ecfccf0-0544-43ac-87f3-aeec6a562c01">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 15 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9bb398f1-028a-422c-bb49-b2b9b578e95f" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="idddf38a08-6b0e-4cb8-b98a-1faa1bcc3e73" localId="3">
+                <Explicatus>§ 15 a.</Explicatus>
+                <Stk id="iddc902175-780e-4e4f-80cb-fba17c03721b">
+                  <Exitus>
+                    <Linea>
+                      <Char>Antages beboerindskud efter §§ 12-15 ikke at kunne dække eventuelle lejerestancer og istandsættelse ved fraflytning, kan huslejenævnet tillade, at beboerindskuddet forhøjes ved genudlejning, dog kun til et beløb svarende til 3 måneders husleje.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id3ce34389-c041-4712-9c5d-f16380557f44">
+        <Explicatus>19.</Explicatus>
+        <Aendring id="id6d700fc3-f863-4bf1-a400-7d0f59a3ab3f">
+          <AendringDefinition id="id3d09b4d6-1326-4e4d-9d26-f50c9e076735">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 19, stk. 3, 1. pkt.,</Char>
+                <Char> udgår »plejehjem, beskyttede boliger og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd4ad831e-12fb-43d6-940c-1bb9923dc807" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida919fe10-ae44-4f61-baaa-63509ab10878">
+        <Explicatus>20.</Explicatus>
+        <Aendring id="id38a8ed24-5754-4267-a79a-bdf028983e7c">
+          <AendringDefinition id="id84e0ab19-e0b8-4251-8dda-ceca32b545c6">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 19, stk. 4, 3. pkt.,</Char>
+                <Char> ændres »stk. 1 og 2« til: »stk. 1-3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb1dd3bc5-fd3f-4f9a-8b60-317c858d5d96" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc98b5b39-40ec-4ea7-90e4-8481fce73f61">
+        <Explicatus>21.</Explicatus>
+        <Aendring id="idf81a70f1-dfb8-4ed4-9233-d4f018f5c3dc">
+          <AendringDefinition id="id262893e4-d134-4f76-9abd-a51e889c040c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 20</Char>
+                <Char> indsættes efter 1. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idac14855a-f1c1-4ecf-bac8-e943d62c70fd" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Garantien kan dog maksimalt udgøre 75 pct. af hovedstolen på lån til finansiering af anskaffelsessummen.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id89756b68-2727-45e4-91a1-d7b32f380d69">
+        <Explicatus>22.</Explicatus>
+        <Aendring id="id145d7cbd-7738-456a-ac49-f011576e95b1">
+          <AendringDefinition id="id54989eab-966e-447a-8d8c-3a418ff1e622">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 25, stk. 2, 1. pkt.,</Char>
+                <Char> indsættes efter »ved omdannelse«: », ved erhvervelse af eksisterende byggeri eller ved leje«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idddde7f6b-b8c9-438e-8784-aff9987f5c59" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id778886f3-0c7f-4594-8512-1e11e2b7bd17">
+        <Explicatus>23.</Explicatus>
+        <Aendring id="id1f2d451b-1105-4d2a-9db4-159d8708cf78">
+          <AendringDefinition id="id55cf24e0-081c-4aac-a6bc-177b8ff621a0">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 27, nr. 3,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc7c67f43-d7ce-4e30-bc30-a3d0ff4c102b" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <Exitus id="id8311af51-4cd0-4f71-82d8-5de815780fea">
+                <Index>
+                  <Indentatio id="idf1f496ba-ec93-4137-9bbb-ce00b4bd047e" formaInd="Nummer">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>støttetilsagn og de betingelser, der skal være opfyldt for at få andel i den årlige tilskudsramme,</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc7110220-f6f2-4fe1-a004-5bf17c0a86b6">
+        <Explicatus>24.</Explicatus>
+        <Aendring id="idd77fef61-e675-4ba0-b851-90bd7fbeaf14">
+          <AendringDefinition id="idecbc2e68-8a36-495b-b1ad-5b16af54a17f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 27, nr. 8,</Char>
+                <Char> ændres »belåning og« til: »belåning,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfd9b3e89-c7a5-4eb1-99ec-f68e1ea183ef" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4f5eb570-6e84-4c02-903e-0008e96faec4">
+        <Explicatus>25.</Explicatus>
+        <Aendring id="idab29b2c5-e76a-4fd1-8ee6-cb93902524f6">
+          <AendringDefinition id="id19e0d82b-0275-4f65-ac74-b34ba699e746">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 27, nr. 9,</Char>
+                <Char> ændres »boligerne.« til: »boligerne og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="iddabf3750-b52d-471f-b58d-9534ba42210b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idd13e18b2-32ea-40e0-8b74-af96c3eef9b5">
+        <Explicatus>26.</Explicatus>
+        <Aendring id="id061bcf66-7bf2-4354-8708-03c2bf3bba10">
+          <AendringDefinition id="id762ad42a-7a53-46dc-8b3a-0f1d1625a297">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 27</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">nr. 10:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id43da8cc9-ff2c-4e3c-b26b-91f8a4415942" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus id="id4577bbc2-083b-4114-ad28-21305dbddb32">
+                <Index>
+                  <Indentatio id="idd0015420-9852-4e60-b34d-caebbb75796f" formaInd="Nummer">
+                    <Explicatus>10)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>betingelser for godkendelse af ustøttede friplejeboliger.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id3291425e-5fdb-48a0-8b2f-57be01f036b1">
+        <Explicatus>27.</Explicatus>
+        <Aendring id="id18f0dada-6b1a-4f21-ba36-724a495983b1">
+          <AendringDefinition id="idb2a4cf04-b122-4329-b67b-78a0e27ea218">
+            <Exitus>
+              <Linea>
+                <Char>I overskriften til kapitel 5 ændres »kvote« til: »støtte«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idbf2fc24c-5bfd-4d7e-8e22-a01b3a4d5df9" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7d333bee-de81-4711-927e-8d5532c4ca3d">
+        <Explicatus>28.</Explicatus>
+        <Aendring id="id3dd64cf7-db9d-46bd-94bb-809928b81d98">
+          <AendringDefinition id="id8cf2e14e-3997-431e-b58f-c66a64d987fc">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 28, stk. 1</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id099d46b2-45af-4873-94f2-f5b68f10f49d" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Ministeren for by, bolig og landdistrikter meddeler betinget tilsagn om støtte efter § 11 a, stk. 1 og 2, til de ansøgere, hvis ansøgning modtages først i Ministeriet for By, Bolig og Landdistrikter, og hvor antallet af friplejeboliger kan rummes inden for den årlige ramme, jf. § 11 a, stk. 2.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Der åbnes for ansøgning om andel i den årlige tilskudsramme den første hverdag i januar.</Char>
+                </Linea>
+              </Exitus>
+              <Stk id="id127b0415-0f92-455b-bda8-dd57860dc984">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Modtages der inden for samme døgn ansøgninger om støtte til flere boliger, end der kan gives støtte til inden for den årlige ramme, meddeles betinget tilsagn til den ansøger, hvis boliger ligger i den kommune, hvor der er etableret eller er godkendt etablering af det laveste antal friplejeboliger pr. indbygger, og hvor antallet af friplejeboliger kan rummes inden for den årlige ramme.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idbbf04141-e057-4602-ad48-e5eb73adfa14">
+        <Explicatus>29.</Explicatus>
+        <Aendring id="idc5e2d86e-51ba-4d4b-bed2-76161be026f1">
+          <AendringDefinition id="id7be1ac7e-6d96-4f05-b7b2-f941f916a104">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 29, stk. 2,</Char>
+                <Char> ændres »andel i bevillingskvoten,« til: »tilsagn om støtte efter § 11 a,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0919898c-cbbe-4b0b-b964-f37ee7fefa0b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc6889211-7587-4a48-a58d-334523583335">
+        <Explicatus>30.</Explicatus>
+        <Aendring id="idcd5ac81b-df6d-48e6-8225-a78cfec0463f">
+          <AendringDefinition id="id375128fb-abfb-4dbb-b390-0417a27858e1">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 29, stk. 3,</Char>
+                <Char> ændres »6 uger« til: »3 måneder«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id746284cd-a3d6-49cd-b353-ca0a378e0a5a" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idddc359c8-b788-4119-8832-39406563c3c6">
+        <Explicatus>31.</Explicatus>
+        <Aendring id="id46e963a2-b469-42af-af77-4b432d88d5b8">
+          <AendringDefinition id="idc5cb7bd8-8c87-4cb3-8907-6a400877e8fb">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 30</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9e9b3236-e6f6-4180-a2fb-06eeaa72dba2" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb2e59d9f-e482-48b6-a70c-a459139721db">
+        <Explicatus>32.</Explicatus>
+        <Aendring id="id156434ff-c3d0-4153-8669-e66713c2ce47">
+          <AendringDefinition id="id428a81d1-aa48-45cf-b74c-caa8f2ecd206">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 31</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idabce95e7-3f7a-4363-8c11-4b84638ca889" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="idbee6a412-a297-4a57-943d-4df23bbdbb1d" localId="4">
+                <Explicatus>§ 31.</Explicatus>
+                <Stk id="id4b04dd42-2365-438f-9535-a437ab025c58">
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for by, bolig og landdistrikter fastsætter regler om fremgangsmåden ved meddelelse af støttetilsagn.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idde29c674-910c-4d2f-842a-27d32a320629">
+        <Explicatus>33.</Explicatus>
+        <Aendring id="idb6bf55d5-b985-4689-9084-aa883d1b8a53">
+          <AendringDefinition id="id02209b81-0fff-4133-86d5-807dd8d61b68">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 32, stk. 1</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idae5bcd54-4bb5-4e45-8d0b-52bebd867c9d" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id7e1741ea-63ae-498d-9236-166346a3fce0">
+                <Exitus>
+                  <Linea>
+                    <Char>Friplejeboligleverandøren fastsætter vejledende takster for ydelser efter lov om social service, jf. lovens § 174, som friplejeboligleverandøren er certificeret til at levere.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Friplejeboligleverandøren og kommunalbestyrelsen i den kommune, der har visiteret borgeren til en plejebolig eller en lignende boform, jf. § 3, stk. 1, kan med udgangspunkt i de vejledende takster aftale den pris, som kommunalbestyrelsen skal betale for den leverede hjælp og støtte, som borgeren er visiteret til.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9527d3b7-b11a-4658-aa23-de57c704ced0">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Indgås der ikke en aftale mellem kommunalbestyrelsen og friplejeboligleverandøren, jf. stk. 1, skal afregningspriserne for de ydelser, som friplejeboligleverandøren skal levere i henhold til lov om social service, fastsættes af kommunalbestyrelsen i den kommune, hvor friplejeboligerne ligger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id213ebda3-7b79-404b-9594-de4aba2306b1">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for børn, ligestilling, integration og sociale forhold fastsætter nærmere regler om afregning, herunder om kommunalbestyrelsens fastsættelse af afregningspriser i henhold til stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren for børn, ligestilling, integration og sociale forhold kan endvidere fastsætte regler om kommunalbestyrelsens visitation af borgere, om gennemsigtighed i forhold til indplacering af borgere i kommunens visitationsstruktur og om leverandørernes mulighed for at få indsigt i og få efterprøvet beregningerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="ida7fe527e-6834-480a-bf37-02368c816bbf">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 bliver herefter stk. 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id35fc9262-40d5-42bb-b1f6-d53afe363dca">
+        <Explicatus>34.</Explicatus>
+        <Aendring id="id54fa66c3-017e-443d-9f42-324b4a77fd9f">
+          <AendringDefinition id="idf3b8955e-9177-4370-84cc-d1d201ceb2c8">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 34, stk. 1,</Char>
+                <Char> indsættes efter »reguleres«: »for friplejeboliger, hvortil der ydes eller har været ydet offentlig støtte,«, og efter »§§ 69-74 a,« indsættes: »§ 83, stk. 2,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida69f3c38-681a-418a-afba-4429fe6581d0" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id6d5b6f31-4e72-4f9f-9274-6035c5b6402b">
+        <Explicatus>35.</Explicatus>
+        <Aendring id="id795ad861-5d1f-4340-8de9-3dab7490aa28">
+          <AendringDefinition id="idaef6a2a7-0569-4b26-9ee5-35912c6bd147">
+            <Exitus>
+              <Linea>
+                <Char>I  </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 34 </Char>
+                <Char> indsættes efter stk. 1 som nye stykker:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf0b0136f-6124-4fe9-abda-0b7c840b198d" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="ide9cbaed4-b2e5-4041-bdea-a4f0c777967f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For friplejeboliger, hvortil der ikke ydes eller har været ydet offentlig støtte, reguleres forholdet mellem friplejeboligleverandøren (udlejeren) og lejeren vedrørende boligen af lov om leje med undtagelse af kapitel I, § 4, stk. 4-7, kapitel IV, § 33, stk. 4, § 34, § 37, stk. 4, § 46 c, stk. 2, § 46 j, stk. 3, § 47, §§ 49-53, kapitel VIII A, §§ 59 a-59 e, § 62 a, kapitel X A, § 66, stk. 1, litra a, §§ 69-74 a, § 98, stk. 1 og 2, kapitel XVI, § 106 og kapitel XIX.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9f10e6ba-5739-404a-83fd-d924eb7fb8fa">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Drives friplejeboligerne i lejede lokaler, har fremlejetageren over for ejeren af ejendommen og dennes kreditorer og aftaleerhververe ret til at blive boende på uændrede vilkår efter hovedlejeforholdets ophør.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id6d663fc9-3d54-4589-b041-875694037d63">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2 og 3 bliver herefter stk. 4 og 5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id42d21827-2c04-4804-8d3f-6ffcf88f51f1">
+        <Explicatus>36.</Explicatus>
+        <Aendring id="id732d865c-3a9e-4f58-ae34-f8ef604593ef">
+          <AendringDefinition id="idca577fc3-1697-44cd-8419-70ea0415d1dc">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 36</Char>
+                <Char> indsættes efter »§ 14«: », stk. 1«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide7bed4f0-7b18-4064-b119-b5aef2fdaee1" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id675f6200-dbac-48f6-99e2-2087e1ff8f3e">
+        <Explicatus>37.</Explicatus>
+        <Aendring id="id68e887e5-8a7f-41fe-8d02-dc46a745cd26">
+          <AendringDefinition id="id6364f259-a738-48de-b8c8-a34554acb24d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 36</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida6c82411-01ac-42b3-bae1-21e4f85f37c1" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id0e83a3e5-be7e-46b7-9ae8-298b6cc5264a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1 finder ikke anvendelse på friplejeboliger, hvortil der ikke ydes eller har været ydet offentlig støtte.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For sådanne friplejeboliger kan det aftales, at der betales depositum med et beløb svarende til indtil 3 måneders leje.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beløbet henstår til sikkerhed for lejerens forpligtelser ved fraflytning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Drives friplejeboligerne i lejede lokaler, kan fremlejetageren ved lejeaftalens indgåelse såvel som i lejeperioden i stedet for depositum, jf. 2. pkt., vælge at stille sikkerhed i form af bankgaranti eller indestående på særskilt deponeringskonto.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Gennemføres lejeforhøjelse, kan depositum kræves reguleret.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Reguleringen kan opkræves med lige store månedlige beløb over samme antal måneder, som det pågældende beløb svarede til i forhold til lejen ved lejemålets indgåelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>5. pkt. finder tilsvarende anvendelse, hvis lejeren har valgt i stedet for depositum at stille sikkerhed i form af bankgaranti eller indestående på deponeringskonto, jf. 4. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4b076bf1-f5d4-4752-b05b-671f020f54ec">
+        <Explicatus>38.</Explicatus>
+        <Aendring id="idee65f4c4-1d94-4219-85a7-6f036957e8f2">
+          <AendringDefinition id="id322bd701-7948-4d79-9f91-bede56dfca76">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 40</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id16137328-7f62-4fe0-9b39-932b7b2bd3ab" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id8ce92966-abd2-4b4b-8ae5-15cde2ad95f1" localId="5">
+                <Explicatus>§ 40.</Explicatus>
+                <Stk id="ide5ad7494-8f4f-4ccc-834a-29cc7dd6a2f8">
+                  <Exitus>
+                    <Linea>
+                      <Char>Friplejeboligleverandøren skal på en eller flere henlæggelseskonti foretage passende henlæggelser til vedligeholdelse af ejendommen og de enkelte boliger, herunder til fornyelse af tekniske installationer og hovedistandsættelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idce2ae5d7-3e7d-4789-87a8-cdf190920ae7">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Friplejeboligleverandøren skal ud over henlæggelser efter stk. 1 foretage passende henlæggelser på en konto til dækning af tab ved lejeledighed og fraflytninger.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Henlæggelserne kan højst udgøre 2 pct. af de samlede driftsudgifter.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Underskud, som følge af at de faktiske tab overstiger de henlagte beløb, kan ikke indgå i lejen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id85bc6c66-43ab-44a4-880d-21299946a663">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Stk. 1 og 2 finder ikke anvendelse på friplejeboliger, hvortil der ikke ydes eller har været ydet offentlig støtte.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idfc8d9dc8-67c4-4115-ad88-b2df9344680b">
+        <Explicatus>39.</Explicatus>
+        <Aendring id="idef6039d3-16f8-4b12-96d5-a1b65250a3f1">
+          <AendringDefinition id="id299a8be9-eb6e-4064-8fb6-090215d3f99d">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 42, stk. 3,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idda78433c-ca51-4590-81e4-6e13adbe0596" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="ida6ddd395-432b-46ab-b7d5-aee1cf066eb7">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 4-6 bliver herefter stk. 3-5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id6743eb7a-ae88-444c-89ca-df4ba5b75a35">
+        <Explicatus>40.</Explicatus>
+        <Aendring id="id5229c91f-7a6b-43d9-b277-e3e4fc9c6209">
+          <AendringDefinition id="id07b716ff-cec8-4027-99b6-ff3218a3d76c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 43</Char>
+                <Char> ændres »kvote A« til: »§ 10, jf. lovbekendtgørelse nr. 897 af 17. august 2011, eller efter § 11 a, stk. 1«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf3439059-2d64-461c-b8dd-9cf5fc4cbc4d" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id76164fe4-a8cc-480f-b371-0aa86331900c">
+        <Explicatus>41.</Explicatus>
+        <Aendring id="id05a29c00-317f-4158-8ae8-1206744301be">
+          <AendringDefinition id="id21d128be-1cf7-44e7-8e7e-349402a3e4a7">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 44</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id40aced78-92bb-439f-b1f8-493f84c65f64" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5e601f1e-b4e4-4fa1-8bda-c70646c370eb">
+        <Explicatus>42.</Explicatus>
+        <Aendring id="idaaa7ffb4-ba2f-4c08-a3c1-567308a48c2c">
+          <AendringDefinition id="ide0fa70b8-4fb9-4dc6-a6b5-b97b826a34c8">
+            <Exitus>
+              <Linea>
+                <Char>To steder i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 45</Char>
+                <Char> udgår »efter kvote B«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8b74f514-695b-46b4-9b24-8b9c1d35e26a" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9aec40a9-0e4d-4a83-a1f1-7762b9754fcd">
+        <Explicatus>43.</Explicatus>
+        <Aendring id="idda44a468-fd36-4768-b3fa-90508ddc2ffa">
+          <AendringDefinition id="id3a1633dd-02c0-4d7c-b600-2e99d2b5080a">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 45</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id54c879ef-7d4c-464c-a217-80e7dc4e8efb" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="idfcea6550-c5bf-4972-908c-d5de73c5a146">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1, 2. pkt., finder ikke anvendelse på friplejeboliger, hvortil der ikke ydes eller har været ydet offentlig støtte.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id64d27de3-f354-45b2-b4b4-206231633673">
+        <Explicatus>44.</Explicatus>
+        <Aendring id="idcbf6832d-6631-44f1-9e8c-6c94609c282c">
+          <AendringDefinition id="id9a36ab1b-4682-4a83-ac25-2820c2675d82">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 46, stk. 1,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2, 1. pkt.,</Char>
+                <Char> udgår »§ 44 og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id02f83209-ab01-4283-8632-17713fda9fe4" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id154c328a-e02e-4bec-a556-a20a7d6548cd">
+        <Explicatus>45.</Explicatus>
+        <Aendring id="id6ba4a8ca-bb20-4f6c-bc04-cf8f6df78a23">
+          <AendringDefinition id="ided8c9056-b669-4e1e-9002-632533d13486">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 46, stk. 2, 3. pkt.,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida30ed849-a4fc-4204-b719-80714b9ec524" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idd95493dd-f4e4-4251-bdec-841bfe224147">
+        <Explicatus>46.</Explicatus>
+        <Aendring id="id28bbfdcc-f117-4e8b-b401-8284c34306f3">
+          <AendringDefinition id="id712e46e7-f23a-4e23-832d-2a30b881ad7e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 46, stk. 2, 4. pkt.,</Char>
+                <Char> der bliver 3. pkt., udgår »44 henholdsvis«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id699e0e17-7d9b-45da-9a5e-a1bc681a1552">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id129cb2ad-b515-449c-9302-168c0b276594">
+        <Explicatus>47.</Explicatus>
+        <Aendring id="id95db0992-802e-4643-a091-f951543c8a5d">
+          <AendringDefinition id="id30966347-6682-4210-9456-2c63c8750a28">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 47, stk. 2,</Char>
+                <Char> udgår »§ 44,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id23c764a8-30bf-4cc2-a270-5208619de289">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4da7f67a-9fc1-47aa-919a-bb34495d8d8a">
+        <Explicatus>48.</Explicatus>
+        <Aendring id="idfae8d873-32ae-4054-a533-f5d919aecc1f">
+          <AendringDefinition id="id4412319f-560f-4138-b038-aeb09e3b2d61">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 47 indsættes før overskriften før § 48:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3b57cf7e-f3fa-4d18-bc03-cc57237973eb" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id0d4a1fd3-27e5-4e59-a08f-11114ef63a21" localId="6">
+                <Explicatus>§ 47 a.</Explicatus>
+                <Stk id="id9b10241e-d11d-48ea-8fc4-099b1015addc">
+                  <Exitus>
+                    <Linea>
+                      <Char>Etableres en friplejeboligbebyggelse som flere byggeafsnit, opgøres kapitaludgifterne særskilt for hvert enkelt byggeafsnit.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="id332af4c5-6c43-4ecd-93f5-a0c1d202ac45" localId="7">
+                <Explicatus>§ 47 b.</Explicatus>
+                <Stk id="id3c54f8d7-0b60-44b6-942c-234e84037220">
+                  <Exitus>
+                    <Linea>
+                      <Char>§§ 42-47 a finder ikke anvendelse for friplejeboliger, hvortil der ikke ydes eller har været ydet offentlig støtte.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8998a0e1-7dd3-4cee-a574-f11a59011052">
+        <Explicatus>49.</Explicatus>
+        <Aendring id="idadfb98f2-7926-41c7-ae13-c4bfda96802e">
+          <AendringDefinition id="id6ca9e999-722a-4150-a608-ba6731a0950e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 48, stk. 1, 1. pkt.,</Char>
+                <Char> ændres »§ 42, stk. 6,« til: »§ 42, stk. 5,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id63116a25-6aac-4738-881c-f660d3dd12b2" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5d41ff13-5d91-4347-9436-b8cb370b482b">
+        <Explicatus>50.</Explicatus>
+        <Aendring id="id79bc1776-ee81-44de-8fd3-29891e443efa">
+          <AendringDefinition id="ide4550fad-4eb0-4251-b9f3-3f54235fd419">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 48, stk. 2,</Char>
+                <Char> ændres »§ 42, stk. 4.« til: »§ 42, stk. 3.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idaeb76d4c-ab21-406e-851c-1537ca3f65c8" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9ccb0ba5-df4b-4c4f-8c66-eae6a3144209">
+        <Explicatus>51.</Explicatus>
+        <Aendring id="id9df3e228-3b23-4ac4-b4c1-0723c39696e9">
+          <AendringDefinition id="id88764820-462d-4539-ba46-e2493d3a7170">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 48, stk. 4,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9be1b3d2-01a7-467a-9a0b-3c5559ea519d" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="ide77bce84-58d7-4ae4-bdd0-178af7d897dc">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved vurdering af lejeværdiforøgelsen ses bort fra forbedringer, der er gennemført indtil 4 år efter ibrugtagelsen af ejendommen til friplejeboliger, i det omfang forbedringsudgiften med tillæg af udgiften til opførelsen eller ombygningen af ejendommen overstiger det maksimumsbeløb, der ved etablering af friplejeboligerne var fastsat for almene plejeboliger.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>2. pkt. finder også anvendelse på friplejeboliger, der er etableret ved omdannelse af ejendomme, hvortil der ydes eller tidligere har været ydet offentlig støtte.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id11247f02-c2df-4cc1-8f91-9e62c71d6018">
+        <Explicatus>52.</Explicatus>
+        <Aendring id="id737baf82-5e6c-4dc1-9f20-0286009e1d37">
+          <AendringDefinition id="id0316d0b1-9c8d-43e6-88ce-77c4458718f5">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 51 indsættes før overskriften før § 52:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id45374a76-1133-42f3-ac93-c2dc4310f5e1" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id3b05352e-051a-4d9a-9139-a5380039cb4c" localId="8">
+                <Explicatus>§ 51 a.</Explicatus>
+                <Stk id="idf2310026-173c-4000-83e1-6b36cbcd246d">
+                  <Exitus>
+                    <Linea>
+                      <Char>§§ 48-50 og § 51, stk. 1 og 2, finder ikke anvendelse på friplejeboliger, hvortil der ikke ydes eller har været ydet offentlig støtte.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id57f508a1-a2fe-4459-817e-24a1a5092ad8">
+        <Explicatus>53.</Explicatus>
+        <Aendring id="ida4175f12-1bdb-40e8-a7d1-2a303408a880">
+          <AendringDefinition id="idb88c5606-23e9-4c95-98c8-a66ffbd9938e">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 53</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida963cf2f-3bae-4d04-8b15-170ced2d5a07" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id94669b41-cad5-40f4-8661-966b1402d2ac" localId="9">
+                <Explicatus>§ 53.</Explicatus>
+                <Stk id="idd2545dc8-32a8-48fd-9f5f-3458701f7aa9">
+                  <Exitus>
+                    <Linea>
+                      <Char>For friplejeboliger finder § 83, stk. 2, i lov om leje tilsvarende anvendelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9c156e81-1c8d-4544-a290-7a53a120ca0a">
+        <Explicatus>54.</Explicatus>
+        <Aendring id="id60d381d9-7768-4317-8d6a-2630c78a90a9">
+          <AendringDefinition id="id2bf01391-f03b-4ee7-baea-4ed453a6d7b4">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 58, nr. 1,</Char>
+                <Char> indsættes efter »§ 42«: »og § 47 b«, og efter »§§ 48-50« indsættes: »eller efter §§ 47 a, 48, 58, 59, 60 og 61 i lov om leje«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida98a0fa1-ae0e-4dc8-b250-b39416f1f382" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idac5ca9a3-43ca-4c68-bdce-ebc481447578">
+        <Explicatus>55.</Explicatus>
+        <Aendring id="id765a28c4-4969-4b04-b109-0832f4e92a79">
+          <AendringDefinition id="idac06f3f5-8c5a-44da-bd98-b9bd272f6c1f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 58</Char>
+                <Char> indsættes efter nr. 1 som nyt nummer:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb5efc57a-1947-45cd-9909-d776df822d42" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus id="id11cafebe-3069-4f1d-be4d-9cb6fb79af20">
+                <Index>
+                  <Indentatio id="iddee0fbcb-d924-478f-9bce-dbe350116c45" formaInd="Nummer">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Tvister om depositum efter § 36, stk. 2, og om forhøjelse af beboerindskud efter § 15 a.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id84ef312a-f919-4183-9a03-abb9f2e9f700">
+          <Exitus>
+            <Linea>
+              <Char>Nr. 2-7 bliver herefter nr. 3-8.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id990cd830-e06f-4c4a-ba95-a9c46880e8d1">
+        <Explicatus>56.</Explicatus>
+        <Aendring id="id3b708c99-9ff3-4e66-abde-c762b5ffc888">
+          <AendringDefinition id="id2cc1e6ce-eaa3-4ceb-9e15-5be7d0ecb1ed">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 58, nr. 4,</Char>
+                <Char> der bliver nr. 5, indsættes efter »beboerindskud«: »eller depositum«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida377d647-ad38-4243-920c-fe1bb7c2b604" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id0e1aab3a-bd0c-4a89-8c69-eac00eee7e9a">
+        <Explicatus>57.</Explicatus>
+        <Aendring id="id52c4ab57-6340-4c70-9b4d-21dabbec8edf">
+          <AendringDefinition id="idb4de862d-7f4e-4b3c-b741-a41969278a9a">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 60, stk. 2,</Char>
+                <Char> ændres »§§ 10 eller 11« til: »§ 10, jf. lovbekendtgørelse nr. 897 af 17. august 2011, eller § 11«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id06bc03f6-f2fe-4fae-aa24-f72df17058fe">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7134ae05-2505-4032-89a6-f279ea8aa748">
+        <Explicatus>58.</Explicatus>
+        <Aendring id="idbb952248-a6f1-4c7b-95c5-a701c6277e22">
+          <AendringDefinition id="idf1684785-ef4c-4420-98f3-d25f26710bbb">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 61, 2. </Char>
+                <Char> og  </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3. pkt., </Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0e12883d-9275-4c62-b44b-bc7a2495d81a" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id587e6ce3-d7b1-44c1-941b-db3820a92d74">
+                <Exitus>
+                  <Linea>
+                    <Char>De frigivne beløb skal af friplejeboligleverandøren henlægges på en eller flere af de konti til vedligeholdelse, der føres efter § 40, stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>2. pkt. finder ikke anvendelse på friplejeboliger, hvortil der ikke ydes eller har været ydet offentlig støtte.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb0d23f1c-aeec-495a-911f-84332d9c3628">
+        <Explicatus>59.</Explicatus>
+        <Aendring id="idaf56105e-f71d-4e3f-977a-9a70be926f10">
+          <AendringDefinition id="idde30fe12-ae55-45ec-813b-3806b0b5d3b0">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 63, stk. 1, 1. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2, 1. pkt.,</Char>
+                <Char> indsættes efter »§ 10, stk. 1,«: »jf. lovbekendtgørelse nr. 897 af 17. august 2011,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc65e89cc-a779-417e-82ae-bc2462fcf07f">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2723b35f-5bef-48b2-be25-0e0610bfd564">
+        <Explicatus>60.</Explicatus>
+        <Aendring id="ida6ccbc56-6903-406f-a61e-9ddfb29f89ea">
+          <AendringDefinition id="idffd21a64-4ac4-4e9d-b191-e13c86715656">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 63, stk. 1, 2. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2, 2. pkt.,</Char>
+                <Char> indsættes efter »Er tilsagn«: »efter § 10, stk. 1, jf. lovbekendtgørelse nr. 897 af 17. august 2011, eller efter § 11 a, stk. 1,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0a3b4072-8a87-4bc0-8883-6a8a5ebbbf4f" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4e64abb7-4a58-4efd-a88e-6ad2e9b632a1">
+        <Explicatus>61.</Explicatus>
+        <Aendring id="id2897e233-ae1b-4fe4-b9cc-c1638fde927c">
+          <AendringDefinition id="id860b1632-c3e0-494f-b3cc-e78b115f5844">
+            <Exitus>
+              <Linea>
+                <Char>Efter kapitel 8 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7093e911-286c-4890-91fa-adfb472935a3" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Kapitel id="ida3be96f7-6439-40f7-9951-b4f6c0e7ac79" localId="1">
+                <Explicatus>Kapitel 8 a</Explicatus>
+              </Kapitel>
+              <ParagrafGruppe>
+                <Rubrica id="idcba8020f-6b7c-485f-862c-5a429989f0c2">
+                  <Linea>
+                    <Char>Pantsætningsforbud</Char>
+                  </Linea>
+                </Rubrica>
+              </ParagrafGruppe>
+              <Paragraf id="idd3db6bc3-40f0-45f7-ac6f-f387c49e2104" localId="10">
+                <Explicatus>§ 65 a.</Explicatus>
+                <Stk id="idacbab55b-c5e5-43b7-9189-595fc9399e83">
+                  <Exitus>
+                    <Linea>
+                      <Char>Pant i friplejeboliger og de tilhørende servicearealer kan kun gives, når pantet stilles til sikkerhed for lån, der er ydet til opførelse, ombygning, forbedring eller vedligeholdelse af ejendommen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="idaaee85e4-28f9-4263-bbb8-07ea7276382d" localId="11">
+                <Explicatus>§ 65 b.</Explicatus>
+                <Stk id="idb81dd992-713e-45e1-a951-67c0c86538f4">
+                  <Exitus>
+                    <Linea>
+                      <Char>Det påhviler ejeren af en friplejeboligejendom at sikre, at det af tingbogen fremgår, at ejendommen er omfattet af friplejeboligloven, og at der alene kan gives pant i ejendommen til sikkerhed for lån omfattet af § 65 a.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id8e57aa4f-e9ba-49eb-ab6a-45a27990a0df">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ved anmeldelse til tinglysning af et pantebrev i en ejendom omfattet af friplejeboligloven skal dokumentet indeholde erklæring om, at pantet er stillet til sikkerhed for lån omfattet af § 65 a.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Foreligger erklæring efter 1. pkt. ikke, fastsætter retten i overensstemmelse med reglerne i ting‍lysningsloven en frist til fremskaffelse af erklæring.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idd65db8fc-43fe-40d3-a754-070c1a64da81">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for by, bolig og landdistrikter fastsætter efter forhandling med justitsministeren nærmere regler om udformning af erklæringen efter stk. 2.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="id57b78e18-e006-468d-9f9c-2d287e5c7e68" localId="12">
+                <Explicatus>§ 65 c.</Explicatus>
+                <Stk id="id4296650f-d9f9-4e0e-999d-477e8f1bb034">
+                  <Exitus>
+                    <Linea>
+                      <Char>§§ 65 a og 65 b finder ikke anvendelse på friplejeboliger og servicearealer, hvortil der ikke ydes eller har været ydet offentlig støtte.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9c666be0-8bc3-4d23-b925-de10af0f8ede">
+        <Explicatus>62.</Explicatus>
+        <Aendring id="id7d2a60ac-ac75-4bfd-a4e5-6242496565e9">
+          <AendringDefinition id="idd596e29a-5247-4726-b529-372d86d1b59b">
+            <Exitus>
+              <Linea>
+                <Char>Overskriften til </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">kapitel 9</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0bc188fc-a4ed-45ac-a3c0-0777588425da" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <Kapitel id="idcb875bd4-4f9b-47c3-9d34-b27eae958a40" localId="2">
+                <Explicatus>Kapitel 9</Explicatus>
+              </Kapitel>
+              <ParagrafGruppe>
+                <Rubrica id="id75c7d451-c3c5-4774-ab5d-9313bb547100">
+                  <Linea>
+                    <Char>Afhændelse m.v. af friplejeboliger</Char>
+                  </Linea>
+                </Rubrica>
+              </ParagrafGruppe>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1cfb380b-4849-45f1-8133-b31f95c16829">
+        <Explicatus>63.</Explicatus>
+        <Aendring id="id16c3ea73-8660-42c8-ab35-7b0a4d14ce49">
+          <AendringDefinition id="id0b8a76e9-b8dc-4eb0-9262-a4a1849bdc82">
+            <Exitus>
+              <Linea>
+                <Char>Overskriften før § 66 ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0ec43770-9769-41ff-8333-9590c214aa29" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc1a64ab4-3397-4bc2-b147-b168dbfd1ba6">
+        <Explicatus>64.</Explicatus>
+        <Aendring id="id00dec178-2eed-46d6-a7bd-b9da04748363">
+          <AendringDefinition id="ida138cd29-b8ab-4b6b-931e-c23cf7beaefd">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 66</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id076c7b78-1c41-48c6-901e-c6ef0e402f10" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idecb16cbb-044c-41a7-91f8-1a017fa6c33f">
+        <Explicatus>65.</Explicatus>
+        <Aendring id="idd79b0bfa-fe1a-4098-be99-e139e640a2cf">
+          <AendringDefinition id="id91ec90e7-1421-4bef-9145-516c5b160b9a">
+            <Exitus>
+              <Linea>
+                <Char>Overskriften før § 67 affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id58a8a2aa-9ff1-4842-a998-495a810d520e" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <ParagrafGruppe>
+                <Rubrica id="id9b5f240e-762c-42df-8005-96024044aad9">
+                  <Linea>
+                    <Char>Afhændelse til fortsat anvendelse som friplejeboliger</Char>
+                  </Linea>
+                </Rubrica>
+              </ParagrafGruppe>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4d53ca4b-79d0-4f7f-a2ea-252d94a4889f">
+        <Explicatus>66.</Explicatus>
+        <Aendring id="id4e3217de-230c-4df9-8efc-dead86340602">
+          <AendringDefinition id="id12a6295a-abfb-4f18-bae4-5867fd67569a">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 67</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc21a46d4-0a42-4b5c-936a-847c1027a06f" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="idf7a7db92-04ab-43fb-805c-715730c8d37a" localId="13">
+                <Explicatus>§ 67.</Explicatus>
+                <Stk id="idbbef8bb5-0b0c-4134-bc45-2f37fa796231">
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for by, bolig og landdistrikter skal godkende en friplejeboligleverandørs afhændelse af friplejeboliger til fortsat anvendelse som friplejeboliger.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="ide4ca0161-da16-4eae-922a-ba825c232941">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Sker afhændelsen til en anden friplejeboligleverandør, er det en betingelse for godkendelsen, at den anden friplejeboligleverandør mindst er certificeret til at yde service og pleje i samme omfang som den hidtidige friplejeboligleverandør.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>1. pkt. finder også anvendelse, hvis ejendommen efter afhændelsen udlejes til en friplejeboligleverandør.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id2b058cf9-c4c5-49a1-80c5-3f479750d423">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ved anmeldelse til tinglysning af et dokument om afhændelse af friplejeboliger skal dokumentet være ledsaget af den godkendelse, som er nævnt i stk. 1.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Foreligger godkendelsen ikke, fastsætter retten i overensstemmelse med reglerne i tinglysningsloven en frist til fremskaffelse af godkendelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idbf9c02d0-047a-43e2-9886-6d8e627d9c76">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Drives friplejeboligerne i lejede lokaler, kan afhændelse af disse ske uden godkendelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id0b4a3f9a-8013-40d4-9053-42b86510b796">
+        <Explicatus>67.</Explicatus>
+        <Aendring id="idd57cf9bd-50ee-473e-bca3-1f132aa25bab">
+          <AendringDefinition id="id6f173eec-e49c-4546-82f9-075b8f67f431">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 68, stk. 1</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">4,</Char>
+                <Char> indsættes efter »§ 10, stk. 1,«: »jf. lovbekendtgørelse nr. 897 af 17. august 2011, eller efter § 11 a, stk. 1,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd9424d8e-f6ef-48ae-b53c-16a148e35879" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id23fe0d18-2167-436f-9847-c4b1d3664f93">
+        <Explicatus>68.</Explicatus>
+        <Aendring id="id872efc74-fc4a-40a3-ad81-4aab833d289f">
+          <AendringDefinition id="id4fc05244-a84f-45ad-9b58-cf955909cb9a">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 68, stk. 4,</Char>
+                <Char> indsættes efter »overtagelsesdagen«: », hvis denne ejer ejendommen«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd4764ee4-8daf-422e-a1d9-a3ba845699ba" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida768a337-d8cd-413a-8cfb-5025120abe5b">
+        <Explicatus>69.</Explicatus>
+        <Aendring id="idc263d8b9-0e5d-4154-8017-45669bfdc201">
+          <AendringDefinition id="ide5c650b5-b2dd-47c1-9916-97eaf1b8820e">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 69</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id665b9a08-f860-46fc-ab00-a204fbb4a557" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id80db25ed-553e-43b8-8388-f3711e0dcbd8">
+        <Explicatus>70.</Explicatus>
+        <Aendring id="ide22d6169-c303-45cb-8ca8-7c097c780d58">
+          <AendringDefinition id="ide9c18a4b-6ea4-41fa-bad8-ab857b406988">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 70, stk. 3,</Char>
+                <Char> indsættes efter »overtagelsesdagen«: », hvis denne ejer ejendommen«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idcc36258a-1c75-4547-8b2f-c0ee809efcf5" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id34317e34-d07e-49d3-8515-bbc66358a8bf">
+        <Explicatus>71.</Explicatus>
+        <Aendring id="idc13efcdb-ea58-43e4-9fb4-300e125fa13c">
+          <AendringDefinition id="idf0e17f3a-d6cd-4006-bb0a-afce5804492b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 70, stk. 4,</Char>
+                <Char> indsættes efter 1. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc0427aab-7a4f-4441-af8a-0d63bde5ced3" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="idbda06548-6149-4b44-a20c-17b8b84d1903">
+                <Exitus>
+                  <Linea>
+                    <Char>Ydes der løbende støtte til servicearealerne, overføres tilsagnet om støtte til den nye friplejeboligleverandør fra overtagelsesdagen, hvis denne ejer ejendommen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida8bef1a9-8322-40ff-a7b6-48c01a253f0d">
+        <Explicatus>72.</Explicatus>
+        <Aendring id="idb3bf3a15-b0b4-472e-b0a4-6000afce27da">
+          <AendringDefinition id="idb671ee5d-137a-428b-9753-d6e5abf94070">
+            <Exitus>
+              <Linea>
+                <Char>Overskriften før § 71 ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide423bad9-8f7c-4395-bc2a-0e6d58dc7ce8" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9c3c141a-b594-4837-9c6c-309025e390b3">
+        <Explicatus>73.</Explicatus>
+        <Aendring id="idf428a51e-94c4-4c11-b836-a18fc9771af9">
+          <AendringDefinition id="idfe301554-cccf-4d37-84f4-e96e4a3dcb31">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 71</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2428ce9b-8131-41e0-9a58-4ea3e4987ece" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id261ecc13-e871-4209-93ff-2afcec93de6e">
+        <Explicatus>74.</Explicatus>
+        <Aendring id="id06c2a624-12f7-40e0-b68b-50de8c92484d">
+          <AendringDefinition id="idcba4adb7-5ad5-4d1a-bc38-4e44e734b66a">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 72, stk. 1,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2.-4. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide72c5c26-3f43-4254-a571-7bb634ae31bc" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id27d7cf7a-137d-4764-9d87-ad0831a3d379">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved anmeldelse til tinglysning af et dokument om afhændelse af friplejeboliger skal dokumentet være ledsaget af den godkendelse, som er nævnt i 1. pkt. Foreligger godkendelsen ikke, fastsætter retten i overensstemmelse med regler­ne i tinglysningsloven en frist til fremskaffelse af godkendelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved tinglysning af afhændelse til anden anvendelse end friplejeboliger kan den oplysning, der nævnes i § 65 b, stk. 1, aflyses.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id43d58372-3299-4320-861f-f0a3020c6fe4">
+        <Explicatus>75.</Explicatus>
+        <Aendring id="idf526c6e3-57a5-4269-b35e-c8fb7fe634f1">
+          <AendringDefinition id="id28d00da9-b550-47b4-8e4e-8d2da8fec108">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 73, stk. 1</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2,</Char>
+                <Char> indsættes efter »§ 10, stk. 1,«: »jf. lovbekendtgørelse nr. 897 af 17. august 2011, eller efter § 11 a, stk. 1,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6c5ed90f-edcf-4f13-975a-37a68e6c2ddb" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8a38a22c-9df8-4957-83ff-0e9bc1bf9f74">
+        <Explicatus>76.</Explicatus>
+        <Aendring id="id0de15db9-f01a-4efc-a981-c9fcf538a0fd">
+          <AendringDefinition id="idf72ebc59-bed1-4e86-a681-5cddf04f4d3a">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 73, stk. 4, 1. pkt., § 74, stk. 1, § 76, stk. 3</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 8, 1. pkt., § 77, stk. 1, § 78, stk. 3, 3. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 4, § 79, stk. 1,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 80, stk. 3,</Char>
+                <Char> indsættes efter »seneste vurdering«: », jf. dog § 87«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8309c71e-1c1d-411c-9bdb-ca0a1cbcf180" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf4740ae4-f258-48f5-a445-9c96fa673291">
+        <Explicatus>77.</Explicatus>
+        <Aendring id="idf09cdd88-8640-488c-80da-d5ccfce6f2f4">
+          <AendringDefinition id="id2d655005-7cbd-4743-963e-69073683d006">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 74, stk. 1,</Char>
+                <Char> indsættes efter »§ 10, stk. 1,«: »jf. lovbekendtgørelse nr. 897 af 17. august 2011, eller efter § 11 a, stk. 1,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id777f7e5a-9575-44ed-953f-bebdd9f838b9" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id09728887-817d-4218-81f1-f08d8ba4c056">
+        <Explicatus>78.</Explicatus>
+        <Aendring id="idf6b411ea-c4bf-48c4-bc72-078c514b5e62">
+          <AendringDefinition id="id56a47b8a-41be-4c1f-8ed9-d6656771874f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 74, stk. 4,</Char>
+                <Char> udgår »efter § 10, stk. 1,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id48e2a563-0db4-4600-b704-18033896ac75">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idfb67a879-566c-46ef-a967-6aea31a76fd7">
+        <Explicatus>79.</Explicatus>
+        <Aendring id="ide26f568b-546d-4002-a5a5-d18759d9a254">
+          <AendringDefinition id="id12edd909-6c76-4c78-bdd6-58607144c07c">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 75</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id338df729-f59f-4b57-a77c-1c0e6e76e7fd" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb5c1d6f9-bca7-4cf1-8581-536407bdd6b4">
+        <Explicatus>80.</Explicatus>
+        <Aendring id="id86a64bdd-6693-4cde-855c-6f2fd790d659">
+          <AendringDefinition id="idd5cd7159-501a-423a-94c9-6c99e0ef7d15">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§§ 83</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">85</Char>
+                <Char> ændres »§ 40, stk. 1, § 42, stk. 3« til: »§ 40«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf8dab365-4a8d-452a-a4a3-2b446dd987a5" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id370f6c56-e01b-47c3-88ea-536afc2f5a3c">
+        <Explicatus>81.</Explicatus>
+        <Aendring id="id3c3e33a5-c146-4752-8e0d-878d40c71805">
+          <AendringDefinition id="iddee866b3-acc6-42aa-9f42-98fd88c52b67">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 83 indsættes før overskriften før § 84:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide7c49a75-b745-4e2c-b9b9-783f4778102d" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <ParagrafGruppe>
+                <Rubrica id="id034bb1c7-5936-4993-a205-ec8060ada019">
+                  <Linea>
+                    <Char>Salg på tvangsauktion</Char>
+                  </Linea>
+                </Rubrica>
+              </ParagrafGruppe>
+              <Paragraf id="id91d4774d-1197-44d5-8ed2-2b45e2b878a1" localId="14">
+                <Explicatus>§ 83 a.</Explicatus>
+                <Stk id="id792a69db-35ed-44d4-af6f-5c072421aadd">
+                  <Exitus>
+                    <Linea>
+                      <Char>Giver budsummen ved salg på tvangsauktion dækning for mere end de fordringer, der er sikret med pant i ejendommen, og leverandørens eget kapitalindskud reguleret efter § 86, nr. 1, indbetales det overskydende beløb til Landsbyggefonden.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Landsbyggefonden dækker ikke et eventuelt underskud, som følge af at budsummen ikke giver dækning for beløbet nævnt i 1. pkt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id9be4064f-f1f9-4d12-a05f-a3ad6c6f8fa0">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Fogedretten underretter Ministeriet for By, Bolig og Landdistrikter om salg af en friplejeboligejendom på tvangsauktion.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ministeriet for By, Bolig og Landdistrikter underretter herefter kommunalbestyrelsen og Landsbyggefonden om salget.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id79d7d325-5bf9-4577-bba8-7e2c4b242bda">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ved tvangsauktionen ophører en eventuel løbende offentlig støtte, og ejendommen anses herefter som ustøttet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id696d9604-613e-4560-b130-759c1446c6bd">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>§ 67, stk. 1, og § 72, stk. 1, finder ikke anvendelse ved salg på tvangsauktion.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id44045733-c867-445d-9825-0c2018f320ac">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Stk. 1, 1. pkt., finder ikke anvendelse på friplejeboliger, hvortil der ikke ydes eller har været ydet offentlig støtte.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2c8c7650-0937-44dc-8f3b-53f91878b36a">
+        <Explicatus>82.</Explicatus>
+        <Aendring id="ide36b81a8-b867-4016-bca7-e2f92532a7a1">
+          <AendringDefinition id="id53b78d6c-23c7-42b8-a4e2-fc7cbeb1ea06">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 84, stk. 2,</Char>
+                <Char> indsættes efter »§ 10, stk. 1,«: »jf. lovbekendtgørelse nr. 897 af 17. august 2011, eller efter § 11 a, stk. 1,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf90e70eb-4e66-4256-9062-049944959ff3" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id05c33e5e-c582-409c-b3da-3d285bde52ac">
+        <Explicatus>83.</Explicatus>
+        <Aendring id="id2c2d4d67-9a23-4474-a3d8-3aeb4af6c583">
+          <AendringDefinition id="ideb87166c-b6a9-4fdc-b113-4e8abf0438f0">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 84, stk. 3,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id259d093c-934b-4cb8-ace1-c862b557a2a2" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="ide4538b08-4a2f-4192-8535-273bddbc544b">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 4-8 bliver herefter stk. 3-7.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id35e2856c-4fe4-46d3-bea5-6fb4fb1271e3">
+        <Explicatus>84.</Explicatus>
+        <Aendring id="id96142391-6b8b-42ae-8bd3-9f451dfda2ee">
+          <AendringDefinition id="id17d8ac20-6c40-4d04-a086-f88cfc22f560">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 84, stk. 8,</Char>
+                <Char> der bliver stk. 7, ændres »stk. 2 og 4-7« til: »stk. 2-6«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb00e5f3d-7f1c-4621-9530-4958d8683079">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id479b65de-607a-4696-9479-b4024acce5b7">
+        <Explicatus>85.</Explicatus>
+        <Aendring id="idf22ccd75-ab70-4684-b739-9a172acb8545">
+          <AendringDefinition id="idb540ff2a-2ee1-4d74-9770-817efb32a8d9">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 88</Char>
+                <Char> udgår »om udbud og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idde63f538-c252-4fe5-8aec-8b98ee49cbc4" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id79292369-88cb-44d0-9162-f7e40a53eee0">
+        <Explicatus>86.</Explicatus>
+        <Aendring id="idf107544b-e4cd-4804-bbab-effe98763ce7">
+          <AendringDefinition id="idd028d624-9555-49e1-9c1e-339fe00bf65c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 89, stk. 3,</Char>
+                <Char> indsættes efter 1. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id348ff90f-4f32-4c8d-9df9-cd8793f3be8c" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id0c00e860-76a5-4cfd-ad60-afd82f05294c">
+                <Exitus>
+                  <Linea>
+                    <Char>Drives friplejeboligerne i lejede lokaler, er friplejeboligleverandøren over for det offentlige ansvarlig for, at ejendommen og det lejede holdes forsvarligt ved lige, uanset hvilken fordeling af vedligeholdelsespligten der er aftalt mellem ejendommens ejer og friplejeboligleverandøren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7ab95efa-3aed-414f-9842-51cef5b13043">
+        <Explicatus>87.</Explicatus>
+        <Aendring id="id4b020a21-6c52-4f98-9417-8ef32831fb19">
+          <AendringDefinition id="ida38db4d4-d825-4225-b582-f62341968bb4">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 91, stk. 1, 3.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">4. pkt.,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idddcdec6e-027b-460b-887c-35fab8bc7a9e" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id92c0f273-3ddd-4c9c-9c75-5f9566dcc73e">
+                <Exitus>
+                  <Linea>
+                    <Char>Driftsoverskud skal anvendes til dækning af underskud fra tidligere år eller til underfinansiering af forbedringer og vedligeholdelsesarbejder gennemført efter etablering af friplejeboligerne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Underfinansiering af forbedringer, der som følge af § 48, stk. 4, ikke har kunnet udløse forbedringslejeforhøjelse, kan dog ikke dækkes af driftsoverskuddet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Driftsoverskud, der ikke anvendes som nævnt i 3. pkt., og driftsunderskud skal afvikles over højst 3 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idbdeace70-1323-4d31-ba5b-9eac31310460">
+        <Explicatus>88.</Explicatus>
+        <Aendring id="id4177b759-32ef-4f6f-bc9c-3aa0c04d7233">
+          <AendringDefinition id="id7437fbe3-110b-47d7-86f0-7a024e04e433">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 91</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 5:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb4097c3f-66b6-4ccb-b8c9-d67265f8b1f3" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id36d85c53-7313-431a-b878-7a897e1edd60">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1-4 finder ikke anvendelse på friplejeboliger, hvortil der ikke ydes eller har været ydet offentlig støtte.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide9c4e6bf-4c7c-48de-89d1-9173bc1a2764">
+        <Explicatus>89.</Explicatus>
+        <Aendring id="idcd5fa2cc-0b5a-4fe4-afdb-ee61ec58b7f7">
+          <AendringDefinition id="idbf72e20f-7249-464c-86a6-8292f6315c85">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 93, stk. 3,</Char>
+                <Char> indsættes efter »§ 10, stk. 1,«: »jf. lovbekendtgørelse nr. 897 af 17. august 2011, eller § 11 a,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id455e9958-e114-4a23-907a-e7ab77de1bf8" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf04719a8-0af4-4309-bbfb-74aa7d577d5a">
+        <Explicatus>90.</Explicatus>
+        <Aendring id="ide9c1a7db-cbaf-4f99-9b01-d71decacf668">
+          <AendringDefinition id="idbc3e3f35-f823-41c5-8ea6-ab96b00128ce">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 96, stk. 3,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc08cb8c6-622e-4141-b083-b43433f04f46" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idde5df214-56dc-4c43-8c1e-20d40a6edee8">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 4 bliver herefter stk. 3.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id6614a82d-e18a-4b96-acff-15118bdde1ac">
+        <Explicatus>91.</Explicatus>
+        <Aendring id="id9b15cba7-bfe1-41f0-b849-7ca58630e9ff">
+          <AendringDefinition id="idf42217ae-461a-4a68-b01c-3ca3b58c9e6c">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 98, stk. 2,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id226810de-aa1f-479a-b4c3-59cbbf6f5d36" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide166c72f-8417-4e92-916e-c6461031b61b">
+        <Explicatus>92.</Explicatus>
+        <Aendring id="idd8b07ecd-6fe1-4bbd-af4b-7c828f68cfe1">
+          <AendringDefinition id="idf8be4dfa-7f74-46d6-9451-5cfd154a26b6">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 98 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6f5569e8-f238-4e72-a0be-a2f586f5d827" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <ParagrafGruppe>
+                <Rubrica id="ida2cc1fcc-655a-4a3c-8a5e-6d843a730002">
+                  <Linea>
+                    <Char>Virkningstidspunkt</Char>
+                  </Linea>
+                </Rubrica>
+              </ParagrafGruppe>
+              <Paragraf id="idadde0b87-b2f4-41c3-babb-a042bbd75d4f" localId="15">
+                <Explicatus>§ 98 a.</Explicatus>
+                <Stk id="id8d3cf17b-c872-4edf-a515-bb940c38035f">
+                  <Exitus>
+                    <Linea>
+                      <Char>Afgørelse om tilbagekaldelse af certifikation, støttetilsagn og godkendelse får virkning, når afgørelsen er endelig.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Socialstyrelsen kan dog træffe beslutning om, at dens afgørelse skal have virkning straks.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Indbringes en afgørelse for Ankestyrelsen eller for retten, kan tillige Ankestyrelsen eller retten træffe beslutning om, at afgørelsen skal have virkning straks.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ankes en dom, hvorved tilbagekaldelsen findes berettiget, kan den ret, der har afsagt dommen, eller den ret, hvortil sagen er indbragt, bestemme, at anken ikke skal have opsættende virkning.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idc680a965-8e57-4a8f-9c2b-664860d50a1d">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Efter bortfald eller tilbagekaldelse af certifikation, støttetilsagn og godkendelse, jf. stk. 1, kan friplejeboligleverandøren ikke drive bebyggelsen videre som friplejeboliger.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Er alene støttetilsagn tilbagekaldt, kan friplejeboligleverandøren dog drive bebyggelsen videre som ustøttede friplejeboliger.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id94ab304d-3b71-45ed-b88d-e3ec234aa009">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Støtteudbetaling ophører ved tilbagekaldelse af certifikation, støttetilsagn og godkendelse, jf. stk. 2.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Støtteudbetaling ophører ligeledes ved bortfald af certifikationen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idacd44825-6f45-4505-a49c-787d6d839943">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ydes der løbende offentlig støtte til lån til finansiering af ejendommens anskaffelsessum, kan ministeren for by, bolig og landdistrikter indrømme friplejeboligleverandøren en frist til at søge ejendommen solgt til en anden friplejeboligleverandør til fortsat anvendelse til friplejeboliger.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>I perioden indtil salg af ejendommen til en anden friplejeboligleverandør leverer kommunalbestyrelsen den personlige og praktiske bistand, som lejerne er visiteret til at modtage.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id50ba6454-fb3c-41ea-b1f2-1f6178582cb4">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Afhændes ejendommen som anført i stk. 4, 1. pkt., kan erhververen drive bebyggelsen videre som friplejeboliger uden fornyet godkendelse.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Udbetaling af offentlig støtte genoptages med virkning fra det tidspunkt, hvor ejendommen på ny bliver taget i brug til friplejeboliger.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id6f97939a-e872-4d17-8268-a1a09242b842">
+        <Explicatus>93.</Explicatus>
+        <Aendring id="ide4e35e72-9481-4918-b288-4ed3f95a0b67">
+          <AendringDefinition id="id2132e3a3-6523-42d6-ba88-6ed612e3d3b4">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 99</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id07220f38-7822-4725-a2c6-8e8abe4ad4ce" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="idba289b01-013f-4aa4-bd97-7ae7046a17a0" localId="16">
+                <Explicatus>§ 99.</Explicatus>
+                <Stk id="idfbedc5ed-b1ef-4dcb-b6b2-ef04a525654e">
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for børn, ligestilling, integration og sociale forhold kan efter forhandling med ministeren for by, bolig og landdistrikter fastsætte regler om tilbagekaldelse af certifikation, støttetilsagn og godkendelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc41f64fd-efa5-489b-9112-00b28b0b1bff">
+        <Explicatus>94.</Explicatus>
+        <Aendring id="id6129543d-f8b0-4620-9a4c-13ba3bdfbedc">
+          <AendringDefinition id="idf43779c3-acaf-4bc0-bd77-fced03426828">
+            <Exitus>
+              <Linea>
+                <Char>Efter kapitel 11 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6e2970ef-36a1-47f8-8d90-91e23979c263" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Kapitel id="id7eaddac7-17e3-4baa-91d4-17d78cf18ac4" localId="3">
+                <Explicatus>Kapitel 11 a</Explicatus>
+              </Kapitel>
+              <ParagrafGruppe>
+                <Rubrica id="iddf40fbdf-ab36-44b9-bd52-b5f941bcd8e2">
+                  <Linea>
+                    <Char>Straffebestemmelser</Char>
+                  </Linea>
+                </Rubrica>
+              </ParagrafGruppe>
+              <Paragraf id="idde29aa16-5225-4646-91fe-e3d624b5f1c0" localId="17">
+                <Explicatus>§ 99 a.</Explicatus>
+                <Stk id="id22dc8f3a-7e53-4d99-8e84-3f6675d42a58">
+                  <Exitus>
+                    <Linea>
+                      <Char>Med bøde straffes, medmindre højere straf er forskyldt efter den øvrige lovgivning, den, der tager friplejeboliger eller servicearealer i brug til anden anvendelse uden godkendelse fra ministeren for by, bolig og landdistrikter, jf. § 84, stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idb6619405-d10c-4ae0-86bd-8e95121c0b0c">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Med bøde straffes, medmindre højere straf er forskyldt efter den øvrige lovgivning, den, der overdrager friplejeboliger eller servicearealer til en anden uden godkendelse af ministeren for by, bolig og landdistrikter, jf. § 67, stk. 1, og § 72, stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id8ceb8988-5d43-42ae-987a-8c320b756d57">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id51d34f06-24a6-4c06-aacc-10b089d2e410">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om almene boliger m.v., jf. lovbekendtgørelse nr. 1023 af 21. august 2013, som ændret senest ved lov nr. 224 af 3. marts 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id70d55bb6-abbb-435c-ad73-326645e1d993">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id6f4092a1-279a-48d1-8603-fe9689574a37">
+          <AendringDefinition id="id36e54f7a-bc91-44a5-87ff-fdeab7f7f43a">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 27</Char>
+                <Char> indsættes efter stk. 6 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5692c7c1-b001-4954-822d-a71767e2f10c">
+            <AendringNyTekst>
+              <Stk id="iddee29899-bf55-46d1-a946-59a64465ba28">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 5, 5. pkt., finder tilsvarende anvendelse ved afhændelse af almene plejeboliger til en certificeret friplejeboligleverandør, der vil anvende ejendommen som friplejeboliger, når køber kan overtage bestående støttede lån.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Staten overtager på uændrede vilkår beliggenhedskommunens garantiforpligtelse efter § 127.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kan køber ikke overtage bestående støttede lån, finder stk. 3 anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id5cc83922-e090-4dd7-9923-19f0ecd45480">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 7-9 bliver herefter stk. 8-10.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id3a5b6e6a-71a8-4062-a8d1-c999306a8b8e">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id448363ed-c151-4065-8d3f-24e81bdef5bc">
+          <AendringDefinition id="ide3582fd6-9dc6-4f9a-93bb-6be31f52a8ad">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 27, stk. 9,</Char>
+                <Char> der bliver stk. 10, ændres »Stk. 1-3 og 7« til: »Stk. 1-3 og 8«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id35d39790-b357-4cb5-bb95-858e621de7c9">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8ff28d77-0325-45c7-b3c5-a74ef088e632">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id0f3e7b70-f676-41e4-ac07-4e8ad22e617e">
+          <AendringDefinition id="id2f175cc6-9f25-449c-a1c1-342089251b10">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 91, stk. 8, 1. pkt,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 92, stk. 3, 1. pkt.,</Char>
+                <Char> ændres »§ 10, stk. 1, eller § 11, stk. 2, nr. 3« til: »§ 10, stk. 1, jf. lovbekendtgørelse nr. 897 af 17. august 2011, § 11, stk. 2, nr. 3, eller § 11 a, stk. 1«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id81d4613d-44ab-4c74-a621-354d25ff4318" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id092b4ce1-a617-4256-bfe7-f1c8c4430dc2">
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om social service, jf. lovbekendtgørelse nr. 150 af 16. februar 2015, som ændret ved § 1 i lov nr. 495 af 21. maj 2013 og § 1 i lov nr. 722 af 25. juni 2014, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="iddc3249ec-a5dc-4387-88cb-5df1f66b862b">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idf36ae6fe-53b8-41ea-81b2-6ddc489b82a7">
+          <AendringDefinition id="idcc05962b-64be-495d-b4de-0ff33995e15c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 129, stk. 1,</Char>
+                <Char> indsættes efter »handicap«: », friplejebolig efter lov om friplejeboliger«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6f5846c2-c423-4dad-8fd9-737f05f179f4" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id2d39e2ad-9864-4a85-9daa-61c50eb5c49b">
+      <Explicatus>§ 4</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om individuel boligstøtte, jf. lovbekendtgørelse nr. 158 af 18. februar 2015, som ændret ved § 3 i lov nr. 574 af 10. juni 2014 og § 2 i lov nr. 1523 af 27. december 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id4481c525-44cb-4613-bdc1-f2d85197ee34">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id8b864c71-6d60-4651-a4a9-898945556a27">
+          <AendringDefinition id="id253da967-dd23-485a-929e-84716412b2d3">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 54, stk. 2, nr. 4,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc47459bf-8463-413d-821d-f8717cf93be8" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus id="id7d9f6b04-3414-4cc7-ba4f-7b28b943ab49">
+                <Index>
+                  <Indentatio id="id5e54d323-02c1-4cd4-8257-296b187ccefe" formaInd="Nummer">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Friplejeboliger, hvortil der ydes eller har været ydet offentlig støtte.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc5e47789-8350-4611-86af-c4808f1e1f18">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="ida53d94bd-5403-4488-91bd-2692cb9f4627">
+          <AendringDefinition id="idac39b52d-4dd8-4232-9e0c-68afaafadbe9">
+            <Exitus>
+              <Linea>
+                <Char>I overskriften til </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">kapitel 10 b</Char>
+                <Char> indsættes efter »plejeboliger«: »og ustøttede friplejeboliger«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id104fe174-5cd6-4cc9-a6c5-27220f2e6eaf" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide7903923-ea48-47d7-80fe-29c3c5dd57c1">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id1fa8e32a-7066-47ac-879d-38340404a494">
+          <AendringDefinition id="idaf9bc393-f148-4e27-ac36-6fc61520e9a9">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 64 e, 1. pkt.,</Char>
+                <Char> indsættes efter »§ 143 i lov om almene boliger m.v.,«: »ustøttede friplejeboliger, jf. § 36, stk. 2, i lov om friplejeboliger,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5ef76d20-e788-4fd8-80ab-a0dcdd917d2c" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id31169d3a-f64a-4431-9f1f-0ed276656ecd">
+      <Explicatus>§ 5</Explicatus>
+      <Stk id="iddf597b1c-67fc-4efd-ba6c-cc0ff342bf18">
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. juli 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="id7ff72bce-2422-43c0-ae43-9ed892975a7c">
+      <Explicatus>§ 6</Explicatus>
+      <Stk id="id10035cab-b575-41bb-b5f7-b6479836008a">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 13, stk. 1, i lov om friplejeboliger som ændret ved denne lovs § 1, nr. 13, finder også anvendelse på friplejeboliger, hvortil der er givet tilsagn om støtte efter § 10, stk. 1, jf. lovbekendtgørelse nr. 897 af 17. august 2011.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id21000665-f439-487b-be39-37399f4da782">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 14, stk. 2, og § 36, stk. 2, i lov om friplejeboliger som affattet ved denne lovs § 1, nr. 16 og 37, finder anvendelse på lejeaftaler indgået efter lovens ikrafttræden.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id2177effb-e4e6-4a6c-b4f3-114ec22247b7">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 51, finder anvendelse på forbedringer, der påbegyndes udført den 1. juli 2015 eller senere.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id66fffd5a-ab13-43ad-9e5c-f91557d091b2">
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Lejeforhøjelse efter § 47 a i lov om leje kan tidligst kræves med virkning fra 1 år efter ikrafttrædelsen af seneste lejeforhøjelse efter reglerne om balanceleje, jf. § 48 i lov om friplejeboliger.</Char>
+          </Linea>
+          <Linea>
+            <Char>Er lejeaftalen indgået inden lovens ikrafttræden, kan lejeforhøjelse efter § 47 a i lov om leje kræves, selv om der ikke er taget forbehold herom ved aftalt uopsigelighed.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id8aa5828f-023d-45cc-ad63-e336a76008b6">
+        <Explicatus>Stk. 5.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 65 a i lov om friplejeboliger, jf. denne lovs § 1, nr. 61, gælder ikke for pant givet før lovens ikrafttræden.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id69d944f6-8cb0-43c5-97bb-2a432fd0eb6f">
+        <Explicatus>Stk. 6.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 65 a i lov om friplejeboliger, jf. denne lovs § 1, nr. 61, gælder endvidere ikke for pant givet i forbindelse med konvertering eller omprioritering af lån med pant i ejendommen, der er ydet før lovens ikrafttræden, og for pant givet i forbindelse med udnyttelse af ejerpant, der er etableret før lovens ikrafttræden.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idc9a38c5d-0ca7-447d-a487-780bb75a750a">
+        <Explicatus>Stk. 7.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Ved afhændelse af friplejeboliger, jf. § 1, nr. 66, inden for den periode, hvor friplejeboligleverandøren efter § 66 i lov om friplejeboliger, jf. lovbekendtgørelse nr. 897 af 17. august 2011, er berettiget til at oppebære den pris for ydelser efter kapitel 16 i lov om social service, som der er opnået kvote på grundlag af, overgår den nye leverandør til afregning efter § 1, nr. 33.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idbec7c901-8db0-4946-b850-8b0882fc674e">
+        <Explicatus>Stk. 8.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Friplejeboligleverandører, der har etableret friplejeboliger ved kvotetildeling efter § 10 eller § 11 i lov om friplejeboliger, jf. lovbekendtgørelse nr. 897 af 17. august 2011, kan vælge at overgå til afregning efter § 1, nr. 33, før udløbet af den 10-årige periode, som er fastsat i § 66 i lov om friplejeboliger, jf. lovbekendtgørelse nr. 897 af 17. august 2011.</Char>
+          </Linea>
+          <Linea>
+            <Char>Friplejeboligleverandøren skal sende en meddelelse herom til Ministeriet for By, Bolig og Landdistrikter med angivelse af, fra hvilken dato leverandøren overgår til det nye afregningssystem.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="ida170f9dc-1772-4fb1-a587-20464e969dd7">
+        <Explicatus>Stk. 9.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Friplejeboligleverandører, der indgår aftale med kommunalbestyrelsen om, at denne får anvisningsret til boliger i friplejeboligbebyggelsen, jf. § 1, nr. 1, skal for alle boliger i bebyggelsen overgå til afregning efter § 1, nr. 33.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id545fe2d6-9730-4f65-86e1-f0817e442afa">
+        <Explicatus>Stk. 10.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Friplejeboligleverandører, der er certificeret til at levere rehabiliteringsforløb, jf. § 83 a i lov om social service, og som ikke er overgået til afregning efter § 1, nr. 33, afregnes for levering af rehabiliteringsforløb efter § 83 a i lov om social service i henhold til §§ 1-3 i bekendtgørelse nr. 751 af 3. juli 2008 om afregning mellem friplejeboligleverandøren og kommunalbestyrelsen og om procedurer for velfærdsministerens meddelelse af tilsagn om kvotetildeling, herunder til de priser for personlig og praktisk hjælp efter §§ 83 og 87 i lov om social service, som de har budt ind med i forbindelse med kvotetildelingen, indtil de overgår til afregning efter § 1, nr. 33.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idaac3fd8c-b137-428e-9ec8-a542912ed89c">
+    <UnderskriftStedDato id="idaac3fd8c-b137-428e-9ec8-a542912ed89c" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="idaac3fd8c-b137-428e-9ec8-a542912ed89c" />
+  </UnderskriftGruppe>
+</Dokument>

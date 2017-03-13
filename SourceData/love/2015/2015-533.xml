@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id8f4e2991-f21f-46f1-a409-cc9138a0c354" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idf4ce0cda-9078-4d8c-b28f-bb5c53b85acf">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150053330</AccessionNumber>
+    <DocumentId>AH005560</DocumentId>
+    <UniqueDocumentId>169821</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af dyreværnsloven og lov om dyrlæger (Forbud mod seksuel omgang eller seksuelle handlinger med dyr, forbud mod salg af hunde på markeder, avl af familie- og hobbydyr, ændret rådsstruktur m.v.)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-04-29</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-06</EndDate>
+    <Status>Historic</Status>
+    <Number>533</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1149 af 12/09/2015</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1150 af 12/09/2015</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 533 af 29/04/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2015-09-30</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Dan Jørgensen</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Fødevaremin.,\nFødevarestyrelsen, j.nr. 2014-15-30-00013</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id3b8842d6-e7f1-4184-9b68-ae7967a41778">
+    <Titel id="ide68c499b-88d4-4853-8b41-16485b7d719e">
+      <Linea>
+        <Char>Lov om ændring af dyreværnsloven og lov om dyrlæger</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id3261e20d-5913-4f36-a02f-9c560a8f5a23">
+      <Linea>
+        <Char>(Forbud mod seksuel omgang eller seksuelle handlinger med dyr, forbud mod salg af hunde på markeder, avl af familie- og hobbydyr, ændret rådsstruktur m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id57b2f20c-19ab-4eae-8fef-81c3f8416b1a">
+    <Hymne id="id66125891-5687-41ef-90ed-b10a75e17b57">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id6b34429d-06bc-44b4-9651-bae23205bfa8">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I dyreværnsloven, jf. lovbekendtgørelse nr. 473 af 15. maj 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id24b44137-0c3b-4a78-a2e3-9ecdbede779b">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="iddbd01abd-d56b-4cab-b190-3ef99a2ae7c4">
+          <AendringDefinition id="id434ceed4-8f41-4666-888b-af8c32a4829f">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 3 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id62b34135-8f57-4186-a2b3-d8b4fff3324c" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id89c202c9-8c8f-4f71-90a8-bfbf9b63bad1" localId="1">
+                <Explicatus>§ 3 a.</Explicatus>
+                <Stk id="idda134111-ef03-4da4-bb0c-36465602d6c2">
+                  <Exitus>
+                    <Linea>
+                      <Char>Det er forbudt at have seksuel omgang med eller foretage seksuelle handlinger med dyr, jf. dog stk. 2.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="ida38b0fc6-bdfb-401a-86ef-1e86c2d11dd6">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Forbuddet omfatter ikke handlinger, som udføres af veterinærmedicinske eller zootekniske årsager, herunder i forbindelse med avl og reproduktion, dyreforsøg eller af andre lignende berettigede grunde.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ideabb50f1-6f9c-41f1-8249-fd1ef6f46112">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id2e772e4b-7a7d-4ef9-9fe6-34e25b3c80d6">
+          <AendringDefinition id="idb342a9ec-6796-4521-9d56-4a9e39686eea">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 10 </Char>
+                <Char>indsættes efter stk. 2 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc0240b36-bdd8-4ee8-87f4-41ef01b7e7e0" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id0a09fe3d-8a68-4d15-a100-c21dfc88d226">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En afgørelse truffet i medfør af stk. 2 kan ikke indbringes for ministeren for fødevarer, landbrug og fiskeri.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dette gælder også i tilfælde, hvor afgørelsen er påklaget til og afgjort af Rigspolitiet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id6d25b846-ff76-48bd-9d0f-6afd2bff30b4">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 bliver herefter stk. 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id358afe7c-ae8b-4368-9ac8-0dc7b9769e3e">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id92bc3191-a8b4-45be-9882-78d889140455">
+          <AendringDefinition id="idfb08a50b-fe15-45df-862a-9d1291e9286c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idbd2825fd-f2e2-452c-b549-eff767a563ce" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="idf6e0d8b0-a3c7-43f4-966a-9528b6fa9287">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om avl af familie- og hobbydyr.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idba4965c7-2e01-4b33-8982-12d2437a3dc4">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id78c69151-43a1-4ec8-b831-9407fb7d16a6">
+          <AendringDefinition id="id2d67de86-e920-4a8d-b68d-b4bd8b0e63f0">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 19 indsættes i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">kapitel 3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id33c2c2c4-b96c-41ad-9874-a4c877ecd239" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="idcb86baa6-7109-40ea-bd26-b516bd48333c" localId="2">
+                <Explicatus>§ 19 a.</Explicatus>
+                <Stk id="idbc90f63a-a8bd-457c-88dd-85a6d1a8b36a">
+                  <Exitus>
+                    <Linea>
+                      <Char>Det er forbudt at sælge hunde på markeder.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8c48cf09-9948-4cbc-9a2b-192c226990a1">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id4c18e23d-d2a4-4612-b8dc-10157887dd99">
+          <AendringDefinition id="id09f82f04-39da-4a7b-ac77-faa3af23052e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 25, stk. 1, 3. pkt.,</Char>
+                <Char> indsættes efter »dyreværn«: », herunder rådgive ministeren i forbindelse med fastsættelsen af regler efter denne lov«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id31b1656b-856c-49f7-8fa4-8bce078bf1ad">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf566b343-45fe-4e21-aa8e-6fa45fe544af">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="ide99ee3d0-a90f-43f5-a8cc-5492d6be988d">
+          <AendringDefinition id="id3e98689f-b4f8-4c71-b282-f9c5732c4ba7">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 25</Char>
+                <Char> indsættes efter stk. 1 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6151883f-e269-4807-b892-29b53740a2e7" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id6470f75b-7264-4d2b-90b1-cb931c930500">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Rådet varetager på eget initiativ eller på ministerens begæring informations- og debatskabende aktiviteter inden for sit virksomhedsområde, jf. stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id129bbaef-2dcc-43af-9252-204550cd64df">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2-5 bliver herefter stk. 3-6.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="idd7089eec-f900-4bea-9af9-da9789f40bb3">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id0fb8e425-7ef2-4d7f-aff8-a7e2fcf0a5b0">
+          <AendringDefinition id="id723778a7-bd86-42b2-8471-46e0f0454f8c">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">Kapitel 6</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">6 a</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd40f823d-39a0-4a7c-aceb-8eb42290798c" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="iddef18d0a-affe-43f5-9041-b9d6456c43bf">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="idb9c08c60-f995-47ef-8082-b5b9e5f6d883">
+          <AendringDefinition id="id253feec8-63ab-4cf2-ba9e-69d0b9a2235d">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 27, stk. 2,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id81cfab7b-fba9-4161-a63c-e490de3bf5f9" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7a578e7e-59cf-4748-b154-4c4cec71fabd">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="idbbdd1a04-14ad-4f1f-8569-5f0870314a51">
+          <AendringDefinition id="idcefd4622-646b-44ab-bafc-f1b8f8e62c23">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 28, stk. 2, nr. 1,</Char>
+                <Char> indsættes efter »§§ 1-3,«: »§ 3 a, stk. 1,«, og efter »§ 19« indsættes: », § 19 a«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8cc08f73-385f-4bec-bd6a-3a20acdf96c5" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="iddb5fd3a1-f2d8-4c0a-a3c1-3878d2642440">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om dyrlæger, jf. lovbekendtgørelse nr. 464 af 15. maj 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idcd31aff6-deb0-455d-8d28-80a5cc000c42">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="ide8f043bf-17e5-4640-8c52-0e584d3eae2e">
+          <AendringDefinition id="id8d28f5a6-8b30-4701-b780-67ce515d4837">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 28, stk. 1,</Char>
+                <Char> indsættes efter »består af«: »mindst«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id04ad83fa-bbdb-4af1-a674-e61b97794ad2" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida30e04ae-b414-4bef-a317-c8bd367bc344">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idf7e770ca-69cf-443e-9d9b-e43c92bfa236">
+          <AendringDefinition id="ida1f4ecf1-1f24-40cc-a7f8-9a4ff71bab68">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 29, stk. 1, 1. pkt.,</Char>
+                <Char> indsættes efter »veterinærfaglige udtalelser«: »og udtalelser vedrørende hold af særlige dyr«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd0b4d8cb-a57e-4f03-87f2-afa67688c002" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="idf3c5a348-0032-4c41-9a75-cc860867113f">
+      <Explicatus>§ 3</Explicatus>
+      <Stk id="idce55464e-a111-4c1e-b605-02eef8f44e47">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idb6b4fcb8-480d-4759-b68c-edcf8887818e">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 5-8, og § 2 træder i kraft den 1. januar 2016.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="ide62f15cb-32e5-4444-9524-383af1dee715">
+      <Explicatus>§ 4</Explicatus>
+      <Stk id="id78150e2c-8536-444a-9279-0384b19d3f08">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id2965c89d-c6f4-4479-b387-1cd9a19bde30">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 2 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id3a49875d-2ea8-4b4d-a3ea-b2c6a2162c75">
+    <UnderskriftStedDato id="id3a49875d-2ea8-4b4d-a3ea-b2c6a2162c75" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id3a49875d-2ea8-4b4d-a3ea-b2c6a2162c75" />
+  </UnderskriftGruppe>
+</Dokument>

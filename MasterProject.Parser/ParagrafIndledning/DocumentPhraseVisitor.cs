@@ -23,8 +23,8 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.ParagrafIndledning
     //}
     public class DocumentPhraseVisitor: ParagrafIndledningBaseVisitor<Dokument>
     {
-        
-        public override Dokument VisitDokumentPhrase([NotNull] Grammar.ParagrafIndledningParser.DokumentPhraseContext context)
+
+        public override Dokument VisitDokumentPhraseType1([NotNull] Grammar.ParagrafIndledningParser.DokumentPhraseType1Context context)
         {
             var debug = context.GetText();
 
@@ -35,6 +35,11 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.ParagrafIndledning
             var reference = context.Accept(new DokumentReferenceVisitor());
             
             return new Dokument { Title=t,DokumentReference=reference };
+        }
+
+        public override Dokument VisitDokumentPhraseType2(Grammar.ParagrafIndledningParser.DokumentPhraseType2Context context)
+        {
+            return base.VisitDokumentPhraseType2(context);
         }
     }
 }

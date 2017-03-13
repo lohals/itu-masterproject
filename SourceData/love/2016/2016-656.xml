@@ -1,0 +1,2538 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id20a0583c-ebc2-41b1-b692-abc236756ba6" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="ida1631dda-45df-42ff-aca8-19947a50daff">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20160065630</AccessionNumber>
+    <DocumentId>CN000181</DocumentId>
+    <UniqueDocumentId>181810</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af sundhedsloven, lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed og forskellige andre love (Styrelsen for Patientsikkerheds fremtidige tilsyn m.v.)</DocumentTitle>
+    <Year>2016</Year>
+    <DiesSigni>2016-06-08</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-01-26</EndDate>
+    <Status>Valid</Status>
+    <Number>656</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1156 af 01/09/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1356 af 23/10/2016</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1188 af 24/09/2016</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 84 af 17/01/2017</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 656 af 08/06/2016</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Sophie Løhde</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Sundheds- og Ældremin., j.nr. 1605382</JournalNumber>
+    <Ministry>Sundheds- og Ældreministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="idd895835b-365c-49fa-9805-7cc974d8cf2d">
+    <Titel id="id06c98c05-d8ef-4418-bfbd-763ab855ba71">
+      <Linea>
+        <Char>Lov om ændring af sundhedsloven, lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed og forskellige andre love</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id1d37c5e9-c6e9-43af-b4ee-24df791dfb68">
+      <Linea>
+        <Char>(Styrelsen for Patientsikkerheds fremtidige tilsyn m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id1d6823f5-cf11-4868-ad22-404cbdd1ed7c">
+    <Hymne id="id0ff9ff50-0359-4f71-b45c-25a24a98fbb4">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="idf8a22ee9-bcd5-4512-8ecb-1ff4fb909a9c">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I sundhedsloven, jf. lovbekendtgørelse nr. 1202 af 14. november 2014, som ændret bl.a. ved § 1 i lov nr. 1536 af 27. december 2014, lov nr. 1537 af 27. december 2014, § 1 i lov nr. 542 af 29. april 2015, § 6 i lov nr. 523 af 29. april 2015 og § 7 i lov nr. 742 af 1. juni 2015 og senest ved § 1 i lov nr. 383 af 27. april 2016, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idde950609-6258-4e28-a0b1-cebef98481cd">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id675a638b-4d0f-44b6-9a13-ee21ef5ac9bf">
+          <AendringDefinition id="idaabde9a1-da94-48aa-8c1e-b165bc47f22d">
+            <Exitus>
+              <Linea>
+                <Char>Overalt i loven ændres »Patientombuddet« til: »Styrelsen for Patientsikkerhed«, og »Patientombuddets« til: »Styrelsen for Patientsikkerheds«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3184effa-f9d2-4061-ba73-3b9eaf827f67">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1941b52b-716e-491b-8636-dc2b4b5c5d39">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id1f1ea974-309c-4713-92d2-2ec114c0b7f0">
+          <AendringDefinition id="idc5118a10-13af-4b54-af5b-d06523628167">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18, stk. 4, § 21, nr. 3, § 46, stk. 2, § 47, stk. 1 </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2, § 52, stk. 4, § 54, stk. 1</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2, § 107, stk. 4, §§ 177, 192</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">201, § 215 b, stk. 1</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2, 2. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 218</Char>
+                <Char> ændres »Sundhedsstyrelsen« til: »Styrelsen for Patientsikkerhed«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc354d7d3-ec22-4aba-b6d4-307b6257eaa4">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9b300851-9f8c-4ced-86fd-21a676a29784">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id59dfcd8e-5f8f-4acd-952f-2b24383ce353">
+          <AendringDefinition id="id1f313f7c-7eef-478d-9ce7-9a509886c1da">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 157</Char>
+                <Char> indsættes efter stk. 8 som nye stykker:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id97763d74-e82a-47b2-bc45-523e38e4d966">
+            <AendringNyTekst>
+              <Stk id="id284219e9-d90f-437b-84b0-7df5661b32c4">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen har adgang til oplysninger i registeret, når det er nødvendigt til brug for styrelsens behandling af bivirkningsindberetninger, jf. kapitel 5 i lov om lægemidler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf1efce15-4141-4409-9f77-7cc4272db5b1">
+                <Explicatus>Stk. 10.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte regler om, at oplysninger i registeret kan videregives til Lægemiddeladministrationsregisteret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id46ef7d65-e901-4f28-b191-78f6dd3affd5">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 9-13 bliver herefter stk. 11-15.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id8304d382-65c4-408a-81c0-fad992180027">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="idf6fe1cd3-812f-4cf6-adcc-0f3bba4b9460">
+          <AendringDefinition id="id3b87e4e6-a43f-422a-b395-8f36fb646c85">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 157, stk. 10,</Char>
+                <Char> der bliver stk. 12, affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0182089d-314c-4913-98f8-c7f969da52a0">
+            <AendringNyTekst>
+              <Stk id="id7e8cf541-f6c0-48d5-83b4-f334f14b3dd5">
+                <Explicatus>Stk. 12.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsdatastyrelsen har adgang til oplysninger i registeret, når det er påkrævet af driftstekniske grunde eller følger af Sundhedsdatastyrelsens forpligtelser som dataansvarlig.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sundhedsdatastyrelsen kan endvidere fremfinde oplysninger i registeret, når sådanne oplysninger ikke er tilgængelige i Lægemiddeladministrationsregisteret eller Lægemiddelstatistikregisteret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide0d878e3-c01a-4fb8-8581-c9422f62061c">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id810186d4-d10b-4aa9-bd18-46b8d4497b2c">
+          <AendringDefinition id="id547c2e6a-a3c9-4a37-8da3-f7c6c21adc26">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 157 a, stk. 8, </Char>
+                <Char>ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd5940782-ce49-40c1-8dce-d20358b53a4e">
+            <AendringNyTekst>
+              <Stk id="id63da9370-d62f-4728-8fce-d225a44fc6cd">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen har adgang til oplysninger i registeret, når det er nødvendigt til brug for styrelsens behandling af bivirkningsindberetninger, jf. kapitel 5 i lov om lægemidler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3d2426a3-64f3-449b-89a0-5d67e4e98c96">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte regler om, at oplysninger i registeret kan videregives til Lægemiddeladministrationsregisteret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="ideea5e019-dc99-45de-963e-63fe2b2761d6">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 9-11 bliver herefter stk. 10-12.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="idc0e9c231-5769-4e69-9847-41ee17f46e0a">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="ideedf5a44-ebb8-40c2-8312-007ea2c29fdd">
+          <AendringDefinition id="idf1f4dc51-5c73-4289-9d0d-d5350fb72282">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 180, stk. 2, nr. 2 </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 3, </Char>
+                <Char>ændres »embedslægen« til: »Styrelsen for Patientsikkerhed«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida97a4d8b-f297-438d-9496-9a28cffa56e4">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7476d1f9-c67c-40cb-8210-63e61e33d90d">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id23e0e4ea-4681-424d-b273-cc0c561f8c8a">
+          <AendringDefinition id="id3cca5266-124c-4259-bfd4-9cefc7f013ad">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 181, stk. 1, </Char>
+                <Char>ændres »en embedslæge« til: »Styrelsen for Patientsikkerhed«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id77ae7862-b76e-4a7c-8a97-8a55eb2d5dc0">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida19b9a6d-276d-49a0-97ec-fbd0d4850220">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="idb1b8db2f-7c2f-4111-8e25-6e2e84502ac5">
+          <AendringDefinition id="id0b132b1a-4b50-4312-a2f8-e676caddbad1">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 181, stk. 2, 1. pkt., </Char>
+                <Char>udgår »andre«, og »embedslægens« ændres til: »Styrelsen for Patientsikkerheds«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id74afe513-c540-4070-a3d9-018c552ee9be">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1cc8db95-85ae-4e98-b21a-42cee735210c">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="idb221e9c0-05c4-46e1-bf0c-09bc03019c36">
+          <AendringDefinition id="id9270e504-60a1-44af-a52f-d6555344cbaf">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 195, stk. 1, </Char>
+                <Char>ændres »praktiserende« til: »autoriserede«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2fcb7f6e-2cf9-49e0-a390-2f5770e6fc04">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idda5e3619-d7ef-48c7-ba0d-320aeb3efefd">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="idf34e19f0-8fc8-4fa3-977c-ef36ae40441a">
+          <AendringDefinition id="id59cbbea8-332b-4f55-ace8-7d54d43666f2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 199, stk. 1, </Char>
+                <Char>indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">4. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5c0ad6f7-c64a-4a60-845e-2eb193821d4a">
+            <AendringNyTekst>
+              <Exitus formaEx="Left">
+                <Linea>
+                  <Char>Styrelsen for Patientsikkerhed stiller desuden rapporteringer, der vedrører utilsigtede hændelser med lægemidler og medicinsk udstyr, til rådighed for Lægemiddelstyrelsen til brug for Lægemiddelstyrelsens varetagelse af opgaver i henhold til lov om lægemidler og lov om medicinsk udstyr.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id955bdb44-c7df-48c6-abe7-7905c155f384">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="id51e47dd1-36e1-4667-b9a1-417f1c7b2926">
+          <AendringDefinition id="id1f4243f4-69ed-4511-a580-c92b250c8d8f">
+            <Exitus>
+              <Linea>
+                <Char>I overskriften til </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">kapitel 66</Char>
+                <Char> indsættes efter »Sundhedsstyrelsen«: »og Styrelsen for Patientsikkerhed«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id945f148b-6b17-43b7-85c8-d5cf450154ce">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc2d066a7-c3cd-4f11-8ec8-b2e92f52ae63">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="id3bdda7c0-6cbf-488f-868e-92f44b59705e">
+          <AendringDefinition id="id62cf7bde-cca4-440a-996c-19864e783f4c">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 212, stk. 2,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0e2738e7-0df9-4b9b-93aa-1b0b0b4e8982">
+            <AendringNyTekst>
+              <Stk id="id450bcea9-8e9c-4188-aa4f-2b91dc00bf6d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen skal følge de sundhedsmæssige forhold og holde sig orienteret om den til enhver tid værende faglige viden på sundhedsområdet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5440c0c8-02b8-4fe1-907a-bd582b50a752">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen orienterer offentligheden, når særlige sundhedsmæssige forhold gør det nødvendigt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb695c52d-2814-42ec-bb48-67d098ed1f14">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen orienterer Styrelsen for Pa­tient­sikkerhed om sundhedsmæssige forhold, som er relevante for Styrelsen for Patientsikkerheds tilsyn efter § 213, stk. 1 og 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id21650ee9-efdf-4277-ac2b-1d210af0098c">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="ida22a1628-d0c6-4a66-a395-e856777502e0">
+          <AendringDefinition id="idf14c04d3-e338-459a-81c4-ceb2fbe868e5">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 212 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id32078c99-40aa-4e72-96f9-ae76b703523c">
+            <AendringNyTekst>
+              <Paragraf id="id8e060505-e89f-40d0-ae04-549add764121" localId="212a">
+                <Explicatus>§ 212 a.</Explicatus>
+                <Stk id="id8406d6a5-7694-4525-8a8a-5b1bc8ad2201">
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed er en styrelse under sundheds- og ældreministeren, der bistår ministeren med den centrale forvaltning af forhold vedrørende pa­tienters sikkerhed og rettigheder.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idfacc81ec-4c9e-4fef-a83d-066516e8c8e6">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed opretter som en organisatorisk del af styrelsen to decentrale enheder til varetagelse af tilsynsopgaver m.v.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id2e1dbb34-3420-476e-9c9e-71d50e74b238">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed vejleder om udførelsen af sundhedsfaglige opgaver inden for styrelsens område.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id523abd1f-8672-4088-86e9-45e86ea2a28b">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed rådgiver statslige, regionale og kommunale myndigheder i hygiejniske, miljømæssige og socialmedicinske forhold.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idcbd8eec4-6b36-4937-93a2-a66fb63d96d1">
+        <Explicatus>14.</Explicatus>
+        <Aendring id="id8db50ca4-6198-4571-b918-ff0ceee36b50">
+          <AendringDefinition id="idb358ac08-390a-4bce-bbfa-1f7d36898a34">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 213 </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id03bfcb35-210e-44db-ae26-bbcd2e4dd395">
+            <AendringNyTekst>
+              <Paragraf id="id3814dfe7-f91d-49e7-9884-8ea1e27999bc" localId="213">
+                <Explicatus>§ 213.</Explicatus>
+                <Stk id="id1c61fe3c-0e59-4215-a493-f2b45fd0f016">
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed fører det overordnede tilsyn med sundhedsforholdene og den sundhedsfaglige virksomhed på sundhedsområdet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idf2707717-4eae-43f4-85f4-6de95a4defe0">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed gennemfører løbende tilsyn med udvalgte behandlingssteder nævnt i § 213 c, stk. 1, ud fra en løbende vurdering af, hvor der kan være størst risiko for patientsikkerheden.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idbd863986-8040-450b-9c0b-c50fa992acd7">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed kan bemyndige personer til at udføre tilsynet efter stk. 1 og 2.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id41588c0f-8c48-4437-bcfa-5d1f86cb6d2e">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Bliver Styrelsen for Patientsikkerhed bekendt med overtrædelser eller mangler på sundhedsområdet, orienterer styrelsen vedkommende behandlingssted eller myndighed.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed orienterer desuden offentligheden, når særlige sundhedsmæssige forhold gør det nødvendigt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7d110c39-ba70-4805-a35a-d16459fb2542">
+        <Explicatus>15.</Explicatus>
+        <Aendring id="ide2a3da13-22b3-44b8-b038-f7a58ba7bf7c">
+          <AendringDefinition id="idf01fe359-3754-44e0-9faf-22eedbfc1cdd">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 213 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8c756b27-b4b7-4c74-911f-720b8c784d0b">
+            <AendringNyTekst>
+              <Paragraf id="id3d6a62c3-e656-48d5-bd2e-fba9a909c5f5" localId="213a">
+                <Explicatus>§ 213 a.</Explicatus>
+                <Stk id="idde94bc3c-548b-4605-a873-724e2fc8cc3b">
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed eller personer, der er bemyndiget til at udføre tilsyn efter § 213, stk. 1 eller 2, jf. § 213, stk. 3, kan afkræve personer inden for sundhedsområdet de oplysninger, som er nødvendige som led i tilsynet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Disse personer er pligtige til at give de afkrævede oplysninger.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id87da0d03-45ad-4771-a18a-ea84982cacd4">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed eller personer, der er bemyndiget til at udøve tilsynet, jf. § 213, stk. 3, har til enhver tid som led i tilsynet efter § 213, stk. 1 og 2, mod behørig legitimation uden retskendelse adgang til alle behandlingssteder m.v. omfattet af tilsynet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="ida4fd6fd7-9e16-4904-9787-bc1c020ee3eb" localId="213b">
+                <Explicatus>§ 213 b.</Explicatus>
+                <Stk id="id0ba15298-f81f-474b-8f2e-4ba4e823a06c">
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed udarbejder en tilsynsrapport efter tilsynsbesøg udført efter § 213, stk. 1 og 2, og en årlig sammenfatning af observationer og vurderinger som følge af tilsynet efter § 213, stk. 2.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idc76348d0-a659-47f6-9b70-1d0f88239d1b">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed fastsætter regler om offentliggørelse af tilsynsrapporter og sammenfatninger, jf. stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="idb47deea0-0c63-4611-8f39-bae59956189f" localId="213c">
+                <Explicatus>§ 213 c.</Explicatus>
+                <Stk id="idb8a656ac-04b9-44fb-92de-a24aeec3d566">
+                  <Exitus>
+                    <Linea>
+                      <Char>Sygehusenheder, klinikker, praksisser, plejecentre, plejehjem, bosteder, sundheds- eller genoptræningscentre og andre behandlingssteder, hvor sundhedspersoner udøver behandling, skal lade sig registrere hos de centrale sundhedsmyndigheder.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="ida6ee5b43-a2f1-45a6-b331-c02161d27e2b">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed fastsætter nærmere regler om registrering efter stk. 1, herunder regler om nærmere afgrænsning af de behandlingssteder, der skal lade sig registrere, og at registrering skal ske elektronisk.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="ide6109297-a4ff-421b-9988-102dbfef43dd" localId="213d">
+                <Explicatus>§ 213 d.</Explicatus>
+                <Stk id="id5e698411-9f53-4563-9604-d3e89cdc5c8f">
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed opkræver et årligt gebyr hos de behandlingssteder, der er registreret efter § 213 c, stk. 1, til dækning af styrelsens udgifter til registreringsordningen efter § 213 c, stk. 1, og tilsynet efter § 213, stk. 1 og 2.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id57ed5348-b677-4a38-85ca-6eaf986e982a">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed fastsætter nærmere regler om størrelsen af det i stk. 1 nævnte gebyr og om opkrævning af gebyret.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc79fad0b-b674-4970-b291-3808dac72dd8">
+        <Explicatus>16.</Explicatus>
+        <Aendring id="ide8738ad4-3303-408d-82b3-00e5cbaa8b12">
+          <AendringDefinition id="ida8e9ce1b-afd7-4209-8b08-01e8a6381510">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 214, stk. 3, </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 215 </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4c17f814-8a51-4fdc-be75-a4040c6dd2fb">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc7be6c09-5fa5-4d35-89e3-c714d8ee9f06">
+        <Explicatus>17.</Explicatus>
+        <Aendring id="id058c0da3-6f7b-4663-9552-652fb0f6c14f">
+          <AendringDefinition id="id9555749d-a918-4c6c-8974-8a69b39afd76">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 215 a </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd8a94440-69d5-44bc-b7cf-bd11fa0ef4b5">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idbc51af47-af59-4e91-bd67-bce7a3661036">
+        <Explicatus>18.</Explicatus>
+        <Aendring id="id46cd0d4c-66e2-48a4-98e7-161c4c7f92dd">
+          <AendringDefinition id="idac6d08e6-84ee-4cdb-aedd-5086c1c601c2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 215 b, stk. 1,</Char>
+                <Char> ændres »et sygehus, i en klinik, i en praksis el.lign.« til: »et behandlingssted omfattet af tilsyn efter § 213, stk. 1 eller 2,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1815068c-9a2f-4335-b9bb-f50b5c3226f3">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id36eecda7-f76f-4745-acc5-2055ef7bb7b3">
+        <Explicatus>19.</Explicatus>
+        <Aendring id="idf643dce2-4a34-4898-be81-192207d0a099">
+          <AendringDefinition id="ide5262864-78cf-4860-b048-eef7987d3f74">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§§ 217</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">219</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5d316786-452c-4fcd-9ccf-b2446b7466af">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id33ac499d-e42f-4e13-b869-d8fac613c42a">
+        <Explicatus>20.</Explicatus>
+        <Aendring id="id84ca18c1-311f-4195-857a-329d04e7fa7b">
+          <AendringDefinition id="id9f486997-da1a-44fb-b8ab-bc37644a4d0a">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 220</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id52ba2dfa-391d-48c9-a17e-8a860a32d6b5">
+            <AendringNyTekst>
+              <Paragraf id="id81715cd1-88cb-4f6d-9ab1-f1940c7dca84" localId="220">
+                <Explicatus>§ 220.</Explicatus>
+                <Stk id="id94a6c85a-cf1b-4842-82c3-6a055b113883">
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed fører tilsyn med de sundhedsmæssige forhold på dag- og døgninstitutioner, der ikke er omfattet af § 213, stk. 1 og 2.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ved sundhedsmæssige forhold forstås bekæmpelse af smitsomme sygdomme, hygiejniske forhold og sundhedsproblemer af mere generel karakter.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id0779297a-ef48-42d7-9a90-1669d6154823">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ved overtrædelse af regler fastsat i medfør af stk. 7 kan Styrelsen for Patientsikkerhed</Char>
+                      <Char formaChar="Italic">
+                      </Char>
+                      <Char>give påbud om afhjælpning.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="ide8f19411-25df-480c-804f-4c2acf71ccf3">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ved overtrædelse af regler fastsat i medfør af stk. 7 kan Styrelsen for Patientsikkerhed nedlægge forbud helt eller delvis mod fortsat anvendelse af institutionen, hvis manglen ikke kan afhjælpes inden for en bestemt frist eller fortsættelse af driften er forbundet med alvorlig fare for sundheden.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id57f9ef54-bb3d-482b-9ff9-3936da05171a">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed kan bemyndige personer til at udføre undersøgelser med henblik på at tilvejebringe oplysninger til brug for styrelsens beslutning om at udstede påbud efter stk. 2 eller forbud efter stk. 3.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id6f1a699a-0c2b-4f76-a375-843bcf4910ac">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed eller personer, der er bemyndiget til at foretage undersøgelser, jf. stk. 4, har til enhver tid og mod behørig legitimation uden retskendelse adgang til offentlige og private ejendomme for at tilvejebringe oplysninger til brug for beslutning om at udstede påbud efter stk. 2 eller forbud efter stk. 3.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id50b332af-6cab-496a-84c7-1d1463066fb1">
+                  <Explicatus>Stk. 6.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Afgørelser truffet af Styrelsen for Patientsikkerhed efter stk. 2 og 3 kan ikke indbringes for anden administrativ myndighed.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id024c1449-243f-48f7-8c7a-d8f4cce3d4ae">
+                  <Explicatus>Stk. 7.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen for Patientsikkerhed kan fastsætte nærmere regler om de sundhedsmæssige forhold på dag- og døgninstitutioner omfattet af stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf019c09f-51dc-4dce-bc60-113be2428d5e">
+        <Explicatus>21.</Explicatus>
+        <Aendring id="id4a061dc2-c49d-45e3-9ea4-c5d8eb5ad345">
+          <AendringDefinition id="idf9522518-b688-4e0d-9e68-cf98a329b425">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 221</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0dde3bc5-a833-4f7d-889c-dedff3fa698a">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id975b08cd-2686-466c-8714-e0d524e1d41c">
+        <Explicatus>22.</Explicatus>
+        <Aendring id="id61ce9b89-716b-4969-9d40-32c10d2ca04c">
+          <AendringDefinition id="idf919787d-829e-4649-9f63-925ef1d4d59d">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Bold">
+                </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 271, stk. 1, nr. 4,</Char>
+                <Char> ændres »§ 157, stk. 2-4, 6 eller 11,« til: »§ 157, stk. 2-4, 6 eller 13,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id463489df-5c5e-48b9-a3cc-d1dff1a9c5ed">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id29ac0775-fa05-4b45-a3ce-def7af86e833">
+        <Explicatus>23.</Explicatus>
+        <Aendring id="id35456fad-1a40-45ac-8782-66125b17ecbc">
+          <AendringDefinition id="id25b3d575-1d4c-4242-82a7-8495f6fd5b70">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Bold">
+                </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 271, stk. 4, 2. pkt.,</Char>
+                <Char> ændres »§ 157, stk. 5 og 12, og § 157 a, stk. 4 og 8« til: »§ 157, stk. 5 og 14, og § 157 a, stk. 4 og 10«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8e2e4e59-c96d-46f4-8353-9741ce9ba9e1">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id708034f7-1da5-43a0-b74c-570a06e57441">
+        <Explicatus>24.</Explicatus>
+        <Aendring id="idfbe38732-91df-41b0-97f6-a764241e01ab">
+          <AendringDefinition id="id4bd2eb10-f5ed-4daf-915d-15c3e000744f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 272, stk. 1,</Char>
+                <Char> ændres »§ 215, stk. 3 og 5, § 215 a, stk. 1, jf. dog stk. 2, § 215 a, stk. 6, eller § 215 b, stk. 1, eller som overtræder regler, påbud eller forbud udstedt i medfør af §§ 219 og 220« til: »§ 213 a, stk. 1, 2. pkt., § 213 c, stk. 1, eller § 215 b, stk. 1, eller som overtræder regler, påbud eller forbud udstedt i medfør af § 220, stk. 2, 3 og 7«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6fd5adb1-975c-4a24-ba3c-2ecbe9403ae4">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9964072a-4fc8-4754-93b7-810a7179f851">
+        <Explicatus>25.</Explicatus>
+        <Aendring id="id06f342b4-0e7d-45ff-ad2b-3df8650c6d77">
+          <AendringDefinition id="id1c0409ed-34c6-4f24-acb3-0461085883eb">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 272, stk. 2, </Char>
+                <Char>ændres »§ 215 a, stk. 8, eller § 219, stk. 6« til: »§ 213 b, stk. 2«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8530952e-6f10-4f39-86d4-4d91ae5de533">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id78358ad3-273b-4e7d-b038-4c8c9e8c4e27">
+        <Explicatus>26.</Explicatus>
+        <Aendring id="idcf800b34-c39a-42ef-92ea-9bb08b74a6a5">
+          <AendringDefinition id="id56da336c-25c0-4dd8-8579-6eaa610825f7">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 274</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2235db76-9c11-40ed-a19c-db05d164ae02">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idbe948807-32b0-438e-94ae-63e931af04f4">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, jf. lovbekendtgørelse nr. 877 af 4. august 2011, som ændret ved § 1 i lov nr. 361 af 9. april 2013, § 3 i lov nr. 519 af 26. maj 2014, § 2 i lov nr. 1536 af 27. december 2014 og § 2 i lov nr. 383 af 27. april 2016, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id2314c0d9-2dde-4678-baf5-14641f395890">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id7230b00d-1672-4003-b461-08a3e4fc1ac5">
+          <AendringDefinition id="idb283bcfd-a50f-4070-85fd-e599504c1ada">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 2, stk. 1, 1.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 4, § 3, stk. 2, 1. pkt., § 18, § 20, stk. 3, 1.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt., § 21, stk. 1, 2. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2, § 22, stk. 3, § 23, stk. 2, § 24, stk. 2, § 25, stk. 3</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 4, 1.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt., § 29, stk. 1, § 30, 3. pkt., § 35, stk. 1</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3,</Char>
+                <Char> to steder i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 36, stk. 1,</Char>
+                <Char> i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 37, stk. 1, stk. 2, 2. pkt., stk. 3, 1. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 4, 1.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt., § 39, 3. pkt., § 42, stk. 2, 1.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt., § 44, § 48, stk. 1, § 50, § 53, stk. 1, § 66, § 67, stk. 1, 2. pkt., § 68, stk. 1, 2. pkt., § 69, 2. pkt., § 71, stk. 2, 1.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt., stk. 3, 1.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 4,</Char>
+                <Char> to steder i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 72, stk. 1, </Char>
+                <Char>i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 72, stk. 2, § 74, stk. 2,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 89</Char>
+                <Char> ændres »Sundhedsstyrelsen« til: »Styrelsen for Patientsikkerhed«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id64a7ef1a-33d8-4e35-8103-0d724e3c38b4">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id0194934c-0c6c-4fc4-b6e7-1dd7c73365a3">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idd90b2d88-be7a-461c-8017-668cf3db3df1">
+          <AendringDefinition id="idfec512ad-d20a-4961-950b-9b68e3090f84">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4, § 35, stk. 4, § 36, stk. 2, 1.-3. pkt., </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3, § 37, stk. 3, 2. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 4, 1. pkt., § 72, stk. 2,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 77</Char>
+                <Char> ændres »Sundhedsstyrelsens« til: »Styrelsen for Patientsikkerheds«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd3423510-ff9c-4544-82c5-9f7b27eb9c9e">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8f9b8dd3-dce0-428c-b767-f386f7c0703b">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="ida148515e-1fd4-4bf7-8b61-0c84fd127f87">
+          <AendringDefinition id="id20254678-2150-4a6d-be60-1f1c6b3603e5">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">Kapitel 3 </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idcd0bc796-1e66-4098-8c33-0ff24d131b1d">
+            <AendringNyTekst>
+              <Kapitel id="iddeb97670-e703-4e7e-9c71-5a27d14157b3" localId="3">
+                <Explicatus>Kapitel 3</Explicatus>
+                <Rubrica id="id1ad5a44d-bdac-486b-84cd-73b324658216">
+                  <Linea>
+                    <Char>Tilsyn, tilsynsforanstaltninger og fraskrivelser</Char>
+                  </Linea>
+                </Rubrica>
+                <ParagrafGruppe>
+                  <Rubrica id="id16bfceef-3ebf-4895-8dec-d187efd42346">
+                    <Linea>
+                      <Char>Tilsyn</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf id="id8b06d294-6c70-4725-b219-8172d379ffd3" localId="5">
+                    <Explicatus>§ 5.</Explicatus>
+                    <Stk id="id346b5b52-45a2-4bb0-91e3-42d0dc1746c7">
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed fører tilsyn med faglig virksomhed, der udøves af autoriserede sundhedspersoner og sundhedspersoner, der handler på disses ansvar.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idc3ee57b9-347f-401f-bb9d-7ee01d34fc8e">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed fører endvidere tilsyn med andre personer end sundhedspersoner, jf. stk. 1, der udøver sundhedsfaglig virksomhed inden for sundhedsvæsenet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id8c7b5593-8281-4e4b-ba14-d16216634b59">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Stk. 1 og 2 gælder ikke for virksomhed, der udøves af autoriserede psykologer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id1524ef53-f140-4d4c-a3eb-221f885702fd">
+                      <Explicatus>Stk. 4.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed fører tilsyn med ledere af plejecentre, plejehjem og lign., hvortil der ikke er knyttet en fast læge.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idec334baa-3574-4b0f-94a1-b77f044cd102">
+                      <Explicatus>Stk. 5.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed kan bemyndige personer til at udøve tilsyn efter stk. 1, 2 og 4.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="id86e30b41-f294-4d75-9c17-cec528b93a2e" localId="6">
+                    <Explicatus>§ 6.</Explicatus>
+                    <Stk id="idd12825b4-302f-4897-82a6-a301a28302be">
+                      <Exitus>
+                        <Linea>
+                          <Char>Personer omfattet af § 5, stk. 1, 2 og 4, er forpligtet til på begæring af Styrelsen for Pa­tient­sikkerhed at afgive oplysninger, der er nødvendige for gennemførelse af tilsynet, og at medvirke ved tilsyn efter Styrelsen for Pa­tient­sikkerheds nærmere anvisninger.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id34eaeff3-d833-477b-8220-da554e2c1781">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Arbejdsgivere for personer omfattet af § 5, stk. 1, 2 og 4, er forpligtet til på begæring af Styrelsen for Pa­tient­sikkerhed at afgive alle oplysninger, der er nødvendige for gennemførelse af tilsynet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id85b12705-c260-437a-aae0-c38595527948">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed eller personer, der af styrelsen er bemyndiget til at udøve tilsynet, jf. § 5, stk. 5, har til enhver tid mod behørig legitimation uden retskendelse adgang til sygehuse, plejehjem og lign.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idd4167254-31f7-44bc-84c2-1c23694a8f6a">
+                      <Explicatus>Stk. 4.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed kan til brug for tilsynet med autoriserede sundhedspersoner fastsætte regler om udveksling med andre landes sundhedsmyndigheder af oplysninger vedrørende disciplinære eller strafferetlige sanktioner eller andre alvorlige konkrete forhold, der vil kunne få følger for udøvelsen af autoriserede sundhedspersoners virksomhed.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id92f34760-5133-48bb-a413-dedc41a02d68">
+                      <Explicatus>Stk. 5.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Sundheds- og ældreministeren kan fastsætte regler om, at Styrelsen for Patientsikkerhed kan pålægge personer inden for sundhedsvæsenet at foretage anmeldelser og indberetninger vedrørende deres faglige virksomhed.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+                <ParagrafGruppe>
+                  <Rubrica id="id1c1f7dfe-312f-450e-bbfc-825a82cd219f">
+                    <Linea>
+                      <Char>Fratagelse af autorisation</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf id="idc9874b46-b9a4-4900-b0fe-822a2ba74d7d" localId="7">
+                    <Explicatus>§ 7.</Explicatus>
+                    <Stk id="idf3d39ab8-3839-45e1-91e8-264edbad09e9">
+                      <Exitus>
+                        <Linea>
+                          <Char>En autoriseret sundhedsperson kan fratages autorisationen efter § 11, hvis den pågældende må antages at være til fare for patientsikkerheden på grund af</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus id="id9b6a7ba0-c930-4a57-8396-d541c3c3a717">
+                        <Index>
+                          <Indentatio id="id66c54215-dee8-4d52-a430-275b251a053f" formaInd="Nummer">
+                            <Explicatus>1)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>en fysisk tilstand, der gør den pågældende uegnet til udøvelse af erhvervet,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id21073d12-6697-4ae0-872c-aca88e164a0b" formaInd="Nummer">
+                            <Explicatus>2)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>sygdom eller misbrug af rusmidler el.lign., der midlertidigt eller varigt gør den pågældende uegnet til udøvelse af erhvervet, eller</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="idabe4a6e5-b8c4-432d-b1b6-dba6a0503439" formaInd="Nummer">
+                            <Explicatus>3)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>grov forsømmelighed ved udøvelse af erhvervet.</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="idb6ccf070-7bb7-46ca-b932-5e695fbb5124" localId="7a">
+                    <Explicatus>§ 7 a.</Explicatus>
+                    <Stk id="idf431beeb-ea2c-4ba5-95af-95d3e064ca93">
+                      <Exitus>
+                        <Linea>
+                          <Char>En autoriseret sundhedsperson kan fratages autorisationen efter § 11, hvis den pågældende</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus id="idfbde68d5-ceb3-4aa6-8259-50f88ad9cf96">
+                        <Index>
+                          <Indentatio id="idd15e60f2-b0c4-46cb-8c52-eb320c6ada9b" formaInd="Nummer">
+                            <Explicatus>1)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>ikke afgiver de i § 6, stk. 1, omtalte oplysninger til gennemførelse af tilsynet og ikke medvirker ved tilsyn efter Styrelsen for Patientsikkerheds nærmere anvisninger,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="idca4f35d1-354b-4d31-ae19-06f682978514" formaInd="Nummer">
+                            <Explicatus>2)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>ikke overholder en dom eller afgørelse i medfør af § 8 eller § 8 a,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id58820fab-70d3-40a5-a356-ffa1465de5c3" formaInd="Nummer">
+                            <Explicatus>3)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>overtræder en afgørelse efter § 9, stk. 1 eller 2,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id11c059f3-f6a9-477e-9c71-3ff21bcec1ce" formaInd="Nummer">
+                            <Explicatus>4)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>overtræder et forbud udstedt i medfør af § 9 b, stk. 1,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id234f48fa-9858-4563-a62d-6da0df372303" formaInd="Nummer">
+                            <Explicatus>5)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>overtræder et påbud udstedt i medfør af § 10, stk. 1, eller § 10 a eller</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id398dec8e-86f0-4d30-80dc-ad48b9097f0e" formaInd="Nummer">
+                            <Explicatus>6)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>overtræder en afgørelse om suspension udstedt i medfør af § 10 c, stk. 1.</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="ida99dbb7b-e3c5-4dc8-9bc9-86adf095adfe" localId="7b">
+                    <Explicatus>§ 7 b.</Explicatus>
+                    <Stk id="id7ee82a56-144a-4c55-bf94-a82d52663d09">
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed fratager en sundhedsperson dennes autorisation her i landet, hvis den pågældende sundhedspersons udenlandske autorisation vedrørende samme erhverv bliver frataget administrativt eller ved dom i udlandet, jf. dog stk. 2.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Tilsvarende gælder i de tilfælde, hvor vedkommende i øvrigt i udlandet administrativt eller ved dom bliver begrænset i sin ret til at udøve det erhverv, som er omfattet af den danske autorisation.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="ide20742d2-20b7-4e37-b57c-b89c33c97659">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Der skal ikke ske fratagelse af autorisationen her i landet, hvis de forhold, som har begrundet autorisationsfratagelsen i udlandet, er af en sådan karakter, at disse forhold udført her i landet åbenbart ikke ville have medført en fratagelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+                <ParagrafGruppe>
+                  <Rubrica id="id6b8b9622-d9cd-4a25-bec1-2615f4111513">
+                    <Linea>
+                      <Char>Indskrænkning af virksomhedsområde</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf id="id6a33dafe-a743-4aa6-a9c9-84e3811c2a07" localId="8">
+                    <Explicatus>§ 8.</Explicatus>
+                    <Stk id="ide1fcfd24-11ba-48e0-8ddc-007cb776c719">
+                      <Exitus>
+                        <Linea>
+                          <Char>En autoriseret sundhedspersons virksomhedsområde kan indskrænkes efter § 11, hvis den pågældende må antages at være til fare for patientsikkerheden på et eller flere faglige områder på grund af alvorlig eller gentagen kritisabel faglig virksomhed.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id8018ca81-4312-4df3-ba3e-6ef1bdd1d21c">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>En autoriseret sundhedspersons virksomhedsområde kan indskrænkes efter § 11, hvis vedkommende må antages at være til fare for patientsikkerheden, fordi den pågældende er uegnet til udøvelsen af erhvervet på grund af forhold nævnt i § 7, nr. 1 og 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="id40cdddc8-193e-4fdd-a8af-c416eb4cedc8" localId="8a">
+                    <Explicatus>§ 8 a.</Explicatus>
+                    <Stk id="id67ebf94b-efa0-4f77-a7b6-5063b4a04c6c">
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed indskrænker en autoriseret sundhedspersons virksomhedsområde i de i § 7 b nævnte situationer, hvis sundhedspersonen administrativt eller ved dom har fået indskrænket sin udenlandske autorisation eller retten til at udøve det erhverv, som er omfattet af autorisationen her i landet, jf. dog stk. 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idce0ddc41-8a6b-45cd-a3c7-8182b0961e0f">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Der skal ikke ske indskrænkning af virksomhedsområdet her i landet, hvis de forhold, som har begrundet indskrænkningen i udlandet, er af en sådan karakter, at disse forhold udført her i landet åbenbart ikke ville have medført en indskrænkning.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+                <ParagrafGruppe>
+                  <Rubrica id="id03365c27-a06d-4bf7-aee7-ab534d42a0ed">
+                    <Linea>
+                      <Char>Midlertidig fratagelse af autorisation eller indskrænkning af virksomhedsområde</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf id="idb9aacbf1-f5e5-43a7-9fed-9220b78c6ecf" localId="9">
+                    <Explicatus>§ 9.</Explicatus>
+                    <Stk id="id9e537d19-720c-4afd-a3dd-6b2bc96798f7">
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed kan midlertidigt fratage en autoriseret sundhedsperson dennes autorisation, hvor der er begrundet mistanke om, at sundhedspersonen er til fare for patientsikkerheden på grund af grov forsømmelighed ved udøvelse af erhvervet, jf. § 7, nr. 3, eller fordi vedkommende er uegnet til udøvelsen af erhvervet på grund af forhold nævnt i § 7, nr. 1 og 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idbc4091f0-c71e-4287-a723-35a94673a7f4">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed kan midlertidigt indskrænke en autoriseret sundhedspersons virksomhedsområde, hvor der er begrundet mistanke om, at sundhedspersonen er til fare for patientsikkerheden på et eller flere faglige områder på grund af alvorlig eller gentagen kritisabel faglig virksomhed, eller fordi vedkommende er uegnet til udøvelsen af erhvervet på grund af forhold nævnt i § 7, nr. 1 og 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id767907c5-6982-4873-97d8-8865c6386905">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed kan endvidere midlertidigt fratage en autoriseret sundhedsperson dennes autorisation eller midlertidigt indskrænke en sundhedspersons virksomhedsområde, hvis sundhedspersonen overtræder et forbud udstedt i medfør af § 9 b, stk. 1, overtræder et påbud udstedt i medfør af § 10 eller overtræder en afgørelse om suspension udstedt i medfør af § 10 c.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idf2d8561f-c5f3-49c9-8012-81d5cae47d35">
+                      <Explicatus>Stk. 4.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed kan endvidere midlertidigt fratage en autoriseret sundhedsperson dennes autorisation eller midlertidigt indskrænke en sundhedspersons virksomhedsområde, hvis sundhedspersonen ikke afgiver de i § 6, stk. 1, omtalte oplysninger til gennemførelse af tilsynet eller ikke medvirker ved tilsyn efter Styrelsen for Pa­tie‌ntsikkerheds nærmere anvisninger eller overtræder et påbud udstedt i medfør af § 10 a.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+                <ParagrafGruppe>
+                  <Rubrica id="id42be8502-cf8e-4bc2-8271-7262e5fddaae">
+                    <Linea>
+                      <Char>Afgørelse med vilkår</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf id="ida81fb42c-1f8a-4539-bd3b-cf6bb9132426" localId="9a">
+                    <Explicatus>§ 9 a.</Explicatus>
+                    <Stk id="id3fa0e7d3-b77a-4779-a874-9f5d09f86042">
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed kan undlade at indbringe en sag om autorisationsfratagelse, jf. § 7, nr. 1 og 2, og indskrænkning af virksomhedsområde, jf. § 8, stk. 2, for domstolene og undlade at træffe afgørelse om midlertidig autorisationsfratagelse, jf. § 9, stk. 1, jf. § 7, nr. 1 og 2, eller midlertidig indskrænkning af virksomhedsområde, jf. § 9, stk. 2, jf. § 7, nr. 1 og 2, på vilkår af at den pågældende autoriserede sundhedsperson i en nærmere fastsat periode overholder betingelser om behandling, kontrolforanstaltninger m.v. Styrelsen for Patientsikkerhed kan forlænge den fastsatte periode.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="ida9b51da7-41cc-4a6e-b9df-1100ce84fbc2">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Ved manglende overholdelse af vilkår, jf. stk. 1, kan Styrelsen for Patientsikkerhed genoptage sagen om autorisationsfratagelse, jf. § 7, nr. 1 og 2, indskrænkning af virksomhedsområde, jf. § 8, stk. 2, midlertidig autorisationsfratagelse, jf. § 9, stk. 1, jf. § 7, nr. 1 og 2, eller midlertidig indskrænkning af virksomhedsområde, jf. § 9, stk. 2, jf. § 7, nr. 1 og 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+                <ParagrafGruppe>
+                  <Rubrica id="id8b91b751-50b2-4bb7-9dff-a2da1d18e07b">
+                    <Linea>
+                      <Char>Forbud</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf id="id62a4e024-fbfc-4506-ac99-780c6b27ffef" localId="9b">
+                    <Explicatus>§ 9 b.</Explicatus>
+                    <Stk id="id3ef4bdd4-c300-403b-8029-84bafde738dc">
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed kan give en autoriseret sundhedsperson forbud mod helt eller delvis at udøve sin faglige virksomhed, mens styrelsen oplyser en sag om midlertidig autorisationsfratagelse, jf. § 9, stk. 1, eller om midlertidig indskrænkning af virksomhedsområde, jf. § 9, stk. 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idb37a9ea8-f4e2-4732-b149-2a3258aa1523">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Forbud efter stk. 1 om, at en sundhedsperson straks ophører med at udøve faglig virksomhed, kan meddeles, hvor det af hensyn til patientsikkerheden skønnes nødvendigt som følge af begrundet mistanke om fare for patientsikkerheden på grund af manglende egnethed som følge af forhold nævnt i § 7, nr. 1 og 2, eller alvorlig eller gentagen kritisabel faglig virksomhed.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id77b73ca3-626e-4b00-8573-40f5f2dbcf92">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Forbud efter stk. 1 meddeles for en nærmere angiven kortere periode, som kan forlænges.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+                <ParagrafGruppe>
+                  <Rubrica id="idcdad7fdd-cf19-4df8-b5cc-c3ea01ff941d">
+                    <Linea>
+                      <Char>Påbud</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf id="id31fbbe4f-4dca-4b73-9cc7-a5857fcf13fd" localId="10">
+                    <Explicatus>§ 10.</Explicatus>
+                    <Stk id="idc1e4ee99-49eb-47fb-a89c-b3f3fdea4e47">
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed kan give et fagligt påbud til en autoriseret sundhedsperson om ændring af dennes virksomhed, hvis sundhedspersonen antages at være til fare for patientsikkerheden på grund af alvorlig eller gentagen kritisabel faglig virksomhed.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id0946c7e8-e235-42df-a736-6891fb655e69">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed kan inden meddelelse af påbud efter stk. 1 indhente en skriftlig erklæring fra Retslægerådet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="id16188967-d3db-47f0-a4db-31b68e036651" localId="10a">
+                    <Explicatus>§ 10 a.</Explicatus>
+                    <Stk id="id71bfb4d2-0bcc-4bc8-a330-937a7e3579b6">
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed kan, når der er begrundet mistanke om, at en autoriseret sundhedsperson er uegnet til udøvelsen af erhvervet som følge af forhold nævnt i § 7, nr. 1 og 2, give sundhedspersonen påbud om at lade sig underkaste undersøgelser og medvirke ved kontrolforanstaltninger samt at udlevere relevante helbredsoplysninger til brug for styrelsens oplysning af sagen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+                <ParagrafGruppe>
+                  <Rubrica id="id434ec0d1-7f11-40d3-9001-a2881fa8790d">
+                    <Linea>
+                      <Char>Skærpet tilsyn</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf id="id3550c7a0-2bcd-4bdc-81a4-5d0d3d59db1f" localId="10b">
+                    <Explicatus>§ 10 b.</Explicatus>
+                    <Stk id="id8b737486-b552-4101-8299-685936566a1f">
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed kan for en nærmere angiven periode iværksætte skærpet tilsyn med en person omfattet af den i § 5, stk. 1, 2 og 4, nævnte personkreds, hvis styrelsen har begrundet mistanke om, at den pågældende vil kunne udgøre en forringet sikkerhed for patienter på grund af kritisabel faglig virksomhed.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idf438ef5b-87b0-4d9a-b880-ae71b9df5d67">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed kan forlænge den fastsatte periode, jf. stk. 1.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+                <ParagrafGruppe>
+                  <Rubrica id="ide7221231-4d7c-4885-9920-78e72eb2e087">
+                    <Linea>
+                      <Char>Suspension</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf id="id25e3ad43-92f4-4ba1-9932-6787b1f0a2d4" localId="10c">
+                    <Explicatus>§ 10 c.</Explicatus>
+                    <Stk id="idc0205743-bf96-4d84-8e5b-a37c0ead3016">
+                      <Exitus>
+                        <Linea>
+                          <Char>Bliver Styrelsen for Patientsikkerhed som led i tilsyn bekendt med, at en autoriseret sundhedsperson ophører med at udøve faglig virksomhed i Danmark på grund af sygdom, udrejse, pension el.lign., kan styrelsen suspendere den pågældende sundhedspersons autorisation.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed kan træffe afgørelse om suspension, hvor der er begrundet mistanke om, at sundhedspersonen vil kunne være til fare for patientsikkerheden på grund af alvorlig eller gentagen kritisabel faglig virksomhed eller uegnethed til udøvelsen af erhvervet, hvis den pågældende genoptager faglig virksomhed i Danmark og styrelsen ikke får kendskab hertil.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id47ace8b5-8487-49b0-8839-63aa0cb86b1d">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed skal ophæve afgørelsen efter stk. 1, når vedkommende sundhedsperson genoptager faglig virksomhed i Danmark under anvendelse af den betegnelse, der er forbeholdt den suspenderede autorisation.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+                <ParagrafGruppe>
+                  <Rubrica id="id2e19e676-215c-4513-8eb0-4b776eacadb3">
+                    <Linea>
+                      <Char>Fraskrivelse af autorisation og frivillig indskrænkning af virksomhedsområde</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf id="ide4e33b60-2212-4236-872f-8d20807a4c04" localId="10d">
+                    <Explicatus>§ 10 d.</Explicatus>
+                    <Stk id="id7619b137-c2f9-4f0b-971b-94e075d13ba6">
+                      <Exitus>
+                        <Linea>
+                          <Char>En autoriseret sundhedsperson kan over for Styrelsen for Patientsikkerhed fraskrive sig autorisationen for en fastsat periode eller indtil videre.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idbacd6d0d-de6d-4435-8eee-23ac22cbca31">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>En autoriseret sundhedsperson kan meddele Styrelsen for Patientsikkerhed, at vedkommende vil indskrænke sit virksomhedsområde for en periode eller indtil videre.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+                <ParagrafGruppe>
+                  <Rubrica id="idfa3ab5bb-52bf-4879-bd0b-ead3cd505d64">
+                    <Linea>
+                      <Char>Procedure for fratagelse af autorisation eller indskrænkning af virksomhedsområde</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf id="id9650cdde-9b36-49ea-a636-e3275158d35f" localId="11">
+                    <Explicatus>§ 11.</Explicatus>
+                    <Stk id="id96104c0a-5f47-421e-8a8b-8208c7ed6f66">
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed anlægger retssag om fratagelse af autorisation efter §§ 7 og 7 a eller om indskrænkning af en autoriseret sundhedspersons virksomhedsområde efter § 8 i den borgerlige retsplejes former.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id64449182-19aa-453e-b83c-c8499efd6836">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed skal, inden sag anlægges efter stk. 1, indhente en skriftlig erklæring fra Retslægerådet.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed skal, inden sag anlægges, endvidere opfordre sundhedspersonen til at udtale sig skriftligt eller afgive en mundtlig redegørelse i et møde, hvori også Retslægerådet deltager.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idecba49f3-2751-464d-8070-2eb54a469693">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Det kan i en dom om fratagelse af autorisation eller indskrænkning af virksomhedsområde fastsættes, at anke ikke har opsættende virkning.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+                <ParagrafGruppe>
+                  <Rubrica id="idef7ca36b-d24e-4bca-973f-6936b7dda1a5">
+                    <Linea>
+                      <Char>Bortfald af afgørelser om midlertidig autorisationsfratagelse eller indskrænkning af virksomhedsområde</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf id="id732a0f80-c325-4146-826b-864fddfd9965" localId="11a">
+                    <Explicatus>§ 11 a.</Explicatus>
+                    <Stk id="id09116bc6-188e-4e8f-8fb6-b7711b59ae62">
+                      <Exitus>
+                        <Linea>
+                          <Char>Afgørelser truffet af Styrelsen for Patientsikkerhed efter § 9, stk. 1-3, bortfalder, senest 2 år efter at styrelsen har truffet afgørelse, medmindre styrelsen forinden har anlagt retssag, jf. § 11, stk. 1.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+                <ParagrafGruppe>
+                  <Rubrica id="idd7a053af-7c03-45c6-a3aa-213cc06c168a">
+                    <Linea>
+                      <Char>Generhvervelse af frataget autorisation og ophævelse af indskrænket virksomhedsområde</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf id="id73ece72d-13ec-454b-8779-40bc54fe3056" localId="11b">
+                    <Explicatus>§ 11 b.</Explicatus>
+                    <Stk id="id79f162f9-c81a-419e-81b3-740fd9bb0918">
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed kan efter ansøgning give en person, der har fået frataget sin autorisation efter §§ 7 eller 7 a eller indskrænket sit virksomhedsområde efter § 8, tilladelse til at generhverve autorisationen eller få ophævet indskrænkningen af virksomhedsområdet, når de omstændigheder, der begrundede autorisationsfratagelsen eller indskrænkningen af virksomhedsområdet, ikke længere er til stede.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id35bd5424-3687-4e57-aa78-f6784b31a1e4">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Afslag på generhvervelse af autorisation eller ophævelse af indskrænket virksomhedsområde efter stk. 1 kan tidligst indbringes for domstolene, 1 år efter at der er afsagt endelig dom om fratagelse af autorisation eller indskrænkning af virksomhedsområde, eller 1 år efter at generhvervelse af autorisationen eller ophævelse af indskrænket virksomhedsområde senest er nægtet ved dom.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="id64302044-ce57-4c7b-b390-9fc04bcd77f8" localId="11c">
+                    <Explicatus>§ 11 c.</Explicatus>
+                    <Stk id="id410beb79-e674-4345-ab73-64dbdd8c45f6">
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed kan efter ansøgning give en person, der har fået frataget sin autorisation efter § 7 b eller indskrænket sit virksomhedsområde efter § 8 a, tilladelse til at generhverve autorisationen eller få ophævet indskrænkningen af virksomhedsområdet.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Tilladelse efter 1. pkt. er betinget af, at de forhold, der begrundede fratagelsen af autorisationen i udlandet, ikke giver anledning til begrundet mistanke om, at sundhedspersonen ved udøvelse af erhvervet i Danmark vil være til fare for patientsikkerheden.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Tilsvarende gælder, når den pågældende i øvrigt i udlandet er blevet begrænset i sin ret til at udøve det erhverv, som er omfattet af autorisationen her i landet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idc21bb3c8-cc4f-4a2b-89cf-137abeeda323">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>En person kan forlange Styrelsen for Patientsikkerheds afslag på generhvervelse af autorisationen eller ophævelse af indskrænkningen af virksomhedsområde efter stk. 1 indbragt for domstolene.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Har en person ved dom fået afslag på generhvervelse af autorisationen eller ophævelse af indskrænket virksomhedsområde, skal der forløbe mindst 1 år, før personen kan forlange sagen prøvet på ny ved domstolene.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerheds afgørelse om afslag på generhvervelse af autorisation eller ophævelse af indskrænket virksomhedsområde efter stk. 1 skal indeholde oplysning om adgangen til at begære domstolsprøvelse og om fristen herfor.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id9b2efa19-7bc9-452e-9fa9-7b47e7671f4f">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Begæring om domstolsprøvelse efter stk. 2 skal fremsættes over for Styrelsen for Patientsikkerhed, senest 3 uger efter at afgørelsen efter stk. 1 er meddelt den pågældende.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed anlægger sag mod den pågældende i den borgerlige retsplejes former.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+                <ParagrafGruppe>
+                  <Rubrica id="idc8a39bfe-b306-4814-9a4b-ca7ac3ba4b86">
+                    <Linea>
+                      <Char>Generhvervelse af fraskrevet autorisation og ophævelse af frivilligt indskrænket virksomhedsområde</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf id="idcf3db01e-87c7-488d-9fb9-a938acebbc1f" localId="11d">
+                    <Explicatus>§ 11 d.</Explicatus>
+                    <Stk id="id87a3911d-ece8-4635-9ea7-dce2f2a75251">
+                      <Exitus>
+                        <Linea>
+                          <Char>En fraskrevet autorisation, jf. § 10 d, stk. 1, gen­erhverves, når en fastsat frist for fraskrivelsen er udløbet.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>En fraskrevet autorisation kan inden for en fastsat frist gen­erhverves efter ansøgning til Styrelsen for Patientsikkerhed, hvis styrelsen vurderer, at gen­erhvervelse ikke er forbundet med fare for patientsikkerheden.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Tilsvarende gælder, hvis autorisationen er fraskrevet for en ikke nærmere bestemt periode.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id21db8206-3cbe-4344-b0c5-379aaa051b90">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>En indskrænkning af virksomhedsområde, jf. § 10 d, stk. 2, ophører, når fristen for indskrænkningen er udløbet.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Indskrænkningen af virksomhedsområdet kan inden for en fastsat frist ophæves helt eller delvis efter ansøgning til Styrelsen for Patientsikkerhed, hvis styrelsen vurderer, at generhvervelse ikke er forbundet med fare for patientsikkerheden.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Tilsvarende gælder, hvis indskrænkningen ikke gælder for en nærmere bestemt periode.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="ide3f25f80-f2e9-4963-aa53-b1f1433a4127">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Afslag efter stk. 1 på generhvervelse af fraskrevet autorisation eller ophævelse af frivillig indskrænkning af virksomhedsområde efter stk. 2 kan forlanges indbragt for domstolene.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Har en person ved dom fået afslag på gen­erhvervelse af fraskrevet autorisationen eller ophævelse af frivillig indskrænkning af virksomhedsområde, skal der forløbe mindst 1 år, før personen kan forlange sagen prøvet på ny ved domstolene.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerheds afgørelse skal indeholde oplysning om adgangen til at begære domstolsprøvelse og om fristen herfor.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id46d1b93d-1fbb-44d4-b3d0-2833afe6ce7d">
+                      <Explicatus>Stk. 4.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Begæring om domstolsprøvelse efter stk. 3 skal fremsættes over for Styrelsen for Patientsikkerhed, senest 3 uger efter at afgørelsen er meddelt den pågældende.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed anlægger sag mod den pågældende i den borgerlige retsplejes former.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+                <ParagrafGruppe>
+                  <Rubrica id="id6eaa4a3c-c062-4166-b491-dc409b25f40d">
+                    <Linea>
+                      <Char>Offentliggørelse af autorisationsændringer og andre tilsynsforanstaltninger</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf id="id7ac1940b-086f-49c0-acdf-595efbbaa444" localId="12">
+                    <Explicatus>§ 12.</Explicatus>
+                    <Stk id="id2a112ab9-c3a5-4cdf-80b7-b44f43c7331f">
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed offentliggør domme om fratagelse af autorisation efter §§ 7 og 7 a og om indskrænkning af virksomhedsområde efter § 8.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idc46ddcd8-64a7-42dc-aa50-3d423c4d6ee3">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed offentliggør afgørelser efter §§ 7 b, 8 a, 9, 9 b, 10, 10 b, 10 c, 36 og 51.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idd9ab6295-652e-4469-ad3a-ea5eca05d24f">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed offentliggør beslutninger efter § 10 d, § 37, stk. 1, og § 51.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idee41457a-00b8-496b-b1ab-c3ea6677a2c6">
+                      <Explicatus>Stk. 4.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed meddeler landets apoteker om bortfald og generhvervelse af retten til at ordinere afhængighedsskabende lægemidler efter §§ 36, 37 og 51.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed kan meddele oplysninger, jf. 1. pkt., til andre landes sundhedsmyndigheder.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id66a77916-980a-4055-b365-4c9f2a2f0c7c">
+                      <Explicatus>Stk. 5.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Bliver en autoriseret sundhedsperson i medfør af straffelovens § 79, stk. 1 eller 4, ved dom eller kendelse frakendt eller udelukket fra retten til at udøve sundhedsfaglig virksomhed, skal anklagemyndigheden give Styrelsen for Patientsikkerhed meddelelse herom.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Styrelsen for Pa­tient­sikkerhed offentliggør rettens dom eller kendelse om frakendelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id3200b75a-c268-4fdc-832f-6c0206af2111">
+                      <Explicatus>Stk. 6.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Sundheds- og ældreministeren kan fastsætte nærmere regler om offentliggørelse af de i stk. 1-3 og 5 nævnte afgørelser, domme, kendelser og beslutninger, herunder om omfang samt tid, sted og form for offentliggørelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+                <ParagrafGruppe>
+                  <Rubrica id="id6123af85-b8ca-4ae1-883e-34b285c610a7">
+                    <Linea>
+                      <Char>Bortfald af retten til selvstændig faglig virksomhed</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf id="idda1169f9-4608-47ba-b9d2-b5ed764fa240" localId="13">
+                    <Explicatus>§ 13.</Explicatus>
+                    <Stk id="id22c3e76b-f2bd-4841-bd19-5df22567ff27">
+                      <Exitus>
+                        <Linea>
+                          <Char>Retten til at udøve selvstændig faglig virksomhed bortfalder, når den autoriserede sundhedsperson fylder 75 år, jf. dog stk. 3.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Retten til fortsat at anvende professionsbetegnelsen bortfalder ikke.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id9e8db9ce-addf-4c8c-8c3b-21884a03d508">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>For læger, tandlæger og kiropraktorer medfører stk. 1, 1. pkt., bortfald af tilladelse til selvstændigt virke.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idbbf2d064-6f39-4882-bda5-e1b01abe77fd">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Patientsikkerhed kan efter ansøgning give tilladelse til, at en autoriseret sundhedsperson fortsat kan udøve sin selvstændige faglige virksomhed helt eller delvis, efter at vedkommende er fyldt 75 år.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+                <ParagrafGruppe>
+                  <Rubrica id="id43146a5f-790c-4a45-ad03-6f5902b28e62">
+                    <Linea>
+                      <Char>Afskæring af administrativ klageadgang</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf id="idf40c43c6-5e63-4e46-88fa-aad290d877b4" localId="14">
+                    <Explicatus>§ 14.</Explicatus>
+                    <Stk id="id9f2f03c8-f3cc-465e-adfb-8dfe72432ac0">
+                      <Exitus>
+                        <Linea>
+                          <Char>Afgørelser truffet af Styrelsen for Patientsikkerhed efter §§ 7 b, 8 a og 9, § 9 a, stk. 1, § 9 b, stk. 1, § 10, stk. 1, §§ 10 a og 10 b, § 10 c, stk. 1, § 11 b, stk. 1, § 11 c, stk. 1, § 11 d, stk. 1 og 2, og § 13, stk. 3, kan ikke indbringes for anden administrativ myndighed.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id6605a00b-348f-4456-99ff-f4a393595c1f">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id0d1c5901-3e2d-4dcd-8d66-8a0a35de669e">
+          <AendringDefinition id="id708cb6d9-6078-4ef0-8021-f9b2134d4954">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">Kapitel 7</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc16be4c2-a193-4469-852a-aea0c8d41fab">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idfc32e9ab-01f0-46f3-8d68-ec9333153db0">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id9d9783b1-1801-4ec7-87e7-b4d620a15b82">
+          <AendringDefinition id="id5523d253-dbae-42ac-ab09-a5c59673228f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 29, stk. 2, </Char>
+                <Char>udgår »eller hvor denne er bortfaldet, jf. § 14,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id886eef24-7a42-452c-8bc7-036d36606a0e">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id3d1b6ac8-bb98-4748-8dcd-9180b34d8d60">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id4d43f850-d763-4e28-89e4-5d27caba8be7">
+          <AendringDefinition id="id71e20909-0ada-45c0-97f9-2804f22cefe2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 29 </Char>
+                <Char>indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida16b9d68-c81d-4e4a-b261-2cdd3a4ebd45">
+            <AendringNyTekst>
+              <Stk id="idd95356f7-b93d-4d4f-90e8-ea9c6705e878">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En læge, hvis tilladelse efter stk. 1 er bortfaldet, jf. § 13, kan virke i underordnet stilling på sygehus.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida0232910-e0e1-447c-bc06-090448917b84">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id9181cd81-efab-4599-93fb-a6595b5767d1">
+          <AendringDefinition id="idae3d8c4c-1fc5-454a-9c13-890e163c9cdf">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 35, stk. 1, </Char>
+                <Char>ændres »embedslægen« til: »styrelsen«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id11afde83-d447-4a0d-9dec-ac45647b5ae2">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id40f10beb-0da7-4937-9166-a12e2fc274ce">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id4dd86552-91a5-41c9-aadd-b13189b021f1">
+          <AendringDefinition id="id70105cec-322b-4eb4-a27f-56a3a832a265">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 39, 1. pkt., </Char>
+                <Char>ændres »embedslægen« til: »Styrelsen for Patientsikkerhed«, og i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.</Char>
+                <Char> ændres »Embedslægen« til: »Styrelsen for Patientsikkerhed«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id81a7ddaa-1dc4-4990-a061-de956bc03460">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id330e57ce-06cf-46c7-b540-0b7a81580d19">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="id778024c5-f4d9-4b04-bf3b-b7031f8d2d82">
+          <AendringDefinition id="id045770ee-ce1b-463e-b58c-30f5ddf2d3ee">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 40</Char>
+                <Char> ændres »§ 10« til: »§ 11 b«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ideeba31cb-2a0b-4850-a05e-03b386e30938">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idbbce1441-4a85-4c29-a1cf-6ea549a925f0">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="ida3283792-941e-479a-906a-88e3bc6ebe58">
+          <AendringDefinition id="id1b5010d3-3f5c-4a1b-8ba1-25016df77abf">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 44</Char>
+                <Char> udgår »pågældende embedslæge eller«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id76740e75-5204-464c-ad61-7646bd901a82">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id60bed757-3240-4184-917d-1d76a005ea10">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="id73698ed7-18b8-4e8f-a289-fa441766b953">
+          <AendringDefinition id="id9af844fa-57ad-485b-bb1d-fda2f9e97119">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 71, stk. 5 </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 6,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide8e9e606-7e60-4af1-b871-e0083ee943c8">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id65aed1e7-7c7d-456c-a9b0-c965cc3ae216">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="idbf7b0970-51e8-4c1d-a1b0-82e6097a6448">
+          <AendringDefinition id="id10a87750-67d9-412b-a753-788b3ec2731c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 72, stk. 2,</Char>
+                <Char> udgår »og med det udvidede tilsyn på området«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc0a3f9ac-1ba9-4135-835d-36b8c409984e">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide1ba0297-69c5-4156-801a-8323e37428eb">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="idd329a739-04de-443c-91ed-5ed1172c63d4">
+          <AendringDefinition id="idfcbdd72d-98a9-43da-8e0f-91ed49d63dff">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 77</Char>
+                <Char> ændres »§ 14, stk. 3« til: »§ 13, stk. 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7cb247e2-a56c-46ea-b909-0e1daa2d31dc">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id059f939a-afb3-428a-b963-8558b01d614d">
+        <Explicatus>14.</Explicatus>
+        <Aendring id="ide4a0f9e7-1513-4fd1-9f01-f96751a79812">
+          <AendringDefinition id="id0c107b23-61f0-4738-b99d-13e003d7062d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 82</Char>
+                <Char> ændres »§ 19, § 20, stk. 2, § 26, stk. 2, og § 43« til: »§ 6, stk. 1, § 19, § 20, stk. 2, og § 43«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc548c5a8-4beb-4a24-a708-82fe44150b81">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id254313f8-d196-43e7-bbe6-8182dc3fd18d">
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om klage- og erstatningsadgang inden for sundhedsvæsenet, jf. lovbekendtgørelse nr. 1113 af 7. november 2011, som ændret bl.a. ved lov nr. 1257 af 18. december 2012 og § 2 i lov nr. 519 af 26. maj 2014 og senest ved § 18 i lov nr. 395 af 2. maj 2016, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id8aceda5c-f765-47d3-afa6-deaacb6aeaf1">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="iddce2c671-0515-4958-8960-71be37097ba8">
+          <AendringDefinition id="id19c47b78-dfd4-47c1-bccb-af8a2ca6d1ec">
+            <Exitus>
+              <Linea>
+                <Char>Overalt i loven bortset fra § 12, stk. 3, og § 18, stk. 1, 1. pkt., ændres »Patientombuddet« til: »Styrelsen for Pa­tient­sikkerhed«, »Patientombuddets« til: »Styrelsen for Pa­tient­sikkerheds«, »ombuddet« til: »styrelsen«, og »ombuddets« til: »styrelsens«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc9a1502f-a96f-4f38-a60c-239dbc28b32b">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id491106eb-0d0e-427b-93d3-607dd904bce9">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id6b8b6176-f7d9-4c5d-9059-36e09047db4a">
+          <AendringDefinition id="id5e081027-0c08-4d43-9274-3cbef434a094">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 1, 1. pkt., </Char>
+                <Char>udgår »og afsnit IV«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id39964c87-9c7c-4ab0-a2f1-ed68832e566b">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id15fb7b21-00ef-4905-af6c-8545f16249bb">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id659e59fa-4b11-4f31-a27c-2daa17e4cd70">
+          <AendringDefinition id="idbf3af331-b546-46d8-bce2-35946e1688e2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1 </Char>
+                <Char>indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 5:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id61bb94bc-fc2a-4c7d-8eb0-a444d5252aa4">
+            <AendringNyTekst>
+              <Stk id="id293ea86a-f0cc-4700-afe6-0ce98b12863c">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klager over tilslutning til behandling meddelt af Styrelsen for Patientsikkerhed, jf. § 18, stk. 4, i sundhedsloven, og klager over videregivelse af helbredsoplysninger m.v. til forskning eller statistik, jf. § 46, stk. 2, eller § 47 i sundhedsloven, kan ikke behandles af Styrelsen for Pa­tient­sikkerhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide53434b3-4372-4844-91c6-de391ffbf0e0">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id326ebe87-2faa-498c-8d35-12615641b664">
+          <AendringDefinition id="id75850593-d39e-48be-b872-9fe8426f6029">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 2, stk. 1, 1. pkt., </Char>
+                <Char>indsættes efter »kapitel 4-7 og 9«: »samt afsnit IV«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id29d0f106-2e56-4465-811a-d0484f3797b0">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idacc23e78-0244-4ec4-a367-96f02ee2925b">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="idb52c08f4-b242-4018-9836-8fd050d4e812">
+          <AendringDefinition id="id49a950de-6e5e-452e-87bb-96c2fd5728a6">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 2 a, § 29, stk. 4 </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">5,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 30, stk. 2, 2. pkt.,</Char>
+                <Char> ændres »Sundhedsstyrelsen« til: »Styrelsen for Patientsikkerhed«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id46e74bd4-aeea-423e-a4d6-5b5daaeb2945">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf12cf912-a0dc-4fb1-a1dc-19cccd597383">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id986b19fb-dc14-4c59-b69b-ef8042c70b7e">
+          <AendringDefinition id="idebadd888-06f6-41ac-bae3-12fc5aa211fd">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 1,</Char>
+                <Char> udgår »Sundhedsstyrelsen og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id980135bf-4ee7-4ef2-b00a-85bd2fbd3b3f">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1242da86-5ec6-4c12-98ea-e61e8e25f844">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id1949179c-bd1e-43a6-9141-299cbd706156">
+          <AendringDefinition id="idc2e51791-3dba-4dfe-ad44-8bdee0b1ba6e">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 3, </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8b717761-5de6-4459-90e8-3f771b75056b">
+            <AendringNyTekst>
+              <Stk id="id00520671-0fa7-4577-a982-0b87dc19902a">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Modtagne klager, jf. § 1, og afgørelse af sådanne klager anvendes som led i Styrelsen for Patientsikkerheds tilsyn med sundhedsområdet efter sundhedsloven og tilsyn med individer efter lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id85b1ddb3-2e3a-4859-90bb-22fee64bdffc">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id9e431987-cfca-41da-96bb-8999666544f0">
+          <AendringDefinition id="idab927827-e93f-4fcb-b4da-be24dec2e657">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12 a, stk. 2, 2. pkt., </Char>
+                <Char>indsættes efter »Patientombuddet«: »eller dennes stedfortræder«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc2c2d592-2e65-41d7-b815-d7d2975764c4">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idd6d203e4-87ce-4b6c-b07c-836c7015b54c">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="iddff7b687-11cd-4177-84a1-0d84cbf27b37">
+          <AendringDefinition id="id492cd2fe-d93b-42cf-bdea-a55f61b0de6d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18, stk. 1, 1. pkt., </Char>
+                <Char>ændres »Patientombuddet« til: »Styrelsen for Pa­ti‌entsikkerheds aktiviteter i tilknytning til pa­­ti‌ent­klagesystemet«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id674efc06-2559-4d3a-ab02-61fb8f12a79f">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idaad64c59-588c-4d13-9edb-3e264d886fbb">
+      <Explicatus>§ 4</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om apoteksvirksomhed, jf. lovbekendtgørelse nr. 1040 af 3. september 2014, som ændret ved § 1 i lov nr. 580 af 4. maj 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id732f8c53-ca03-4ce1-b995-0c4a880659ba">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id18f754d1-4931-4c07-bb91-ca7a20ff45de">
+          <AendringDefinition id="idf2572cd2-c05c-416d-b1b4-d5e547ca8d45">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 11, stk. 3, </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5eb55b22-e206-421f-944e-511a2143383e">
+            <AendringNyTekst>
+              <Stk id="id3a784cf2-2662-472e-8917-2b3260d6f40b">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte regler om, at Sundhedsdatastyrelsen kan videregive oplysninger om ordination af lægemidler, herunder oplysninger, der identificerer receptudstederen ved cpr-nummer, ydernummer el.lign., og oplysninger, der identificerer patienten ved cpr-nummer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id681fff52-c54f-4614-bcc0-f666a1a02c2f">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idba5d7841-4bb0-42f9-a01c-26365654c3bc">
+          <AendringDefinition id="id10c91d35-b2eb-4f67-acde-64298345e142">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 11, stk. 4,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0db9d8d6-eb32-45a1-ad1e-3dbca0ace805">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id03a0ff83-81bf-4946-bef1-6b7cd29cd7bf">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 5 bliver herefter stk. 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="idd261962c-a14a-4d14-9a1d-561f3214b79e">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id95d3e74e-364c-42d2-a631-9d1ca062be3e">
+          <AendringDefinition id="id6bc3f861-11ad-4315-ae38-98bad9e52e39">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 11 </Char>
+                <Char>indsættes efter stk. 5, der bliver stk. 4, som nye stykker:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfe885093-d834-4e1e-a695-8107109b9548">
+            <AendringNyTekst>
+              <Stk id="ida1b46708-91ce-476c-93ac-b0ee0c28c050">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte regler om, at Sundhedsdatastyrelsen til personer, der er ansat i det offentlige sundhedsvæsen, personer, der praktiserer efter overenskomst på sundhedsområdet, forskere, der er ansat på et universitet, eller forskere, der er ansat i en patientforening, kan videregive oplysninger fra Lægemiddelstatistikregisteret om ordination af lægemidler, herunder oplysninger, der identificerer receptudstederen ved cpr-nummer, ydernummer el.lign., og oplysninger, der identificerer patienten ved cpr-nummer, til brug for statistiske eller videnskabelige undersøgelser af væsentlig samfundsmæssig betydning, når videregivelsen er nødvendig for udførelsen af undersøgelserne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id84a675a4-ac7f-4567-bcb8-0175c3f50980">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte regler om, at Sundhedsdatastyrelsen kan videregive oplysninger om receptudsteders ordination af lægemidler, herunder oplysninger, der identificerer receptudstederen ved cpr-nummer, ydernummer el.lign., dog undtaget oplysninger, der identificerer patienter, til brug for statistiske eller videnskabelig undersøgelser af væsentlig samfundsmæssig betydning, når videregivelsen er nødvendig for udførelsen af undersøgelserne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id958132bf-2a63-4d06-8948-476d0da37442">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 6 og 7 bliver herefter stk. 7 og 8.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id498b2be5-bfe9-44e8-8bb4-5fd8ce35a619">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id6492c46f-1cdb-40db-b8ae-053b065b264a">
+          <AendringDefinition id="idf98954c9-62d0-4c97-8a35-b7a685ef664b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 22, stk. 1, nr. 4,</Char>
+                <Char> ændres »§ 6« til: »§ 7, nr. 1 og 2,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id248c94e2-94d3-459e-becf-3f08e45f51df">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="ide3c8072f-d9ac-4c3b-8ecc-c18352cadf5e">
+      <Explicatus>§ 5</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om foranstaltninger mod smitsomme og andre overførbare sygdomme, jf. lovbekendtgørelse nr. 814 af 27. august 2009, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idad1c5853-a8f9-4bce-b7f9-9d569ec3faa3">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id1e8ed620-1f8d-490a-96eb-11bcf8c0cc98">
+          <AendringDefinition id="id4ce17ab6-d8c5-4212-a306-dcf18f77ce95">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 3, stk. 1, 1. pkt., </Char>
+                <Char>ændres »en embedslæge udpeget af Sundhedsstyrelsen« til: »en læge med relevante faglige kvalifikationer udpeget af Styrelsen for Patientsikkerhed«, og to steder ændres »den lokale told- og skatteforvaltning« til: »told- og skatteforvaltningen«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd89b3dd9-4f55-473f-ba2d-7d6225274927">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id378ff876-031d-49d3-813e-6b7aeaab8b05">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="ida9ee59ac-5525-4af9-a1ec-477aae8ec289">
+          <AendringDefinition id="id35991763-2bd5-4db4-8a6f-9975cbbdb0ae">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 3, stk. 3, 2. pkt., </Char>
+                <Char>indsættes efter »for henholdsvis«: »Styrelsen for Patientsikkerhed,«, »Forsvarskommandoen« ændres til: »Værnsfælles Forsvarskommando,«, og »SKAT« ændres til: »told- og skatteforvaltningen«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idff1b8fbc-081f-4fb8-97f0-a35a957a104b">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf7fd1eed-8a7f-402c-9112-8d91a63d0fd5">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="idc16eaea3-1edf-4e38-b18b-3a1fef77d1c5">
+          <AendringDefinition id="id5c0d6b3c-7135-477d-978b-e6d1161deb26">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc2dba54b-334a-4e5a-b291-c56568ba56de">
+            <AendringNyTekst>
+              <Stk id="id75b71885-a0e4-43bc-9684-873cf2c3b2fa">
+                <Exitus>
+                  <Linea>
+                    <Char>De stedlige politi-, havne-, lods-, luftfarts-, miljø-, sygehus- og fødevaremyndigheder, told- og skatteforvaltningen, redningsberedskabet og Styrelsen for Patientsikkerhed er forpligtet til at bistå epidemikommissionen i udøvelsen af dennes pligter ifølge denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id507bc71e-3dd7-4051-b4ad-46a6e4031c07">
+      <Explicatus>§ 6</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om folkekirkens kirkebygninger og kirkegårde, jf. lovbekendtgørelse nr. 329 af 29. marts 2014, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="ida5d90c68-d781-44f9-8198-d825ee4a5d69">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id32e1f0ca-1d79-4246-b78f-ea6b33225ef8">
+          <AendringDefinition id="id715bf97e-6b26-4d39-92fd-6925e5e9736c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 47, 3. pkt.,</Char>
+                <Char> ændres »embedslægen« til: »Styrelsen for Patientsikkerhed«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3ff937e5-363d-4b32-815e-f1344993caee">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="ida46f04e3-96ee-43bf-a572-dddf4cf6117d">
+      <Explicatus>§ 7</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om anvendelse af tvang i psykiatrien, jf. lovbekendtgørelse nr. 1160 af 29. september 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idd6000412-8720-4ed1-b377-0c4e0bc0633f">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="ida0419044-45c6-46de-951c-7a5a00d2f5b4">
+          <AendringDefinition id="idf7c637e1-0682-4f6f-913d-bfc2d3d555ac">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13 a, stk. 2, 1. pkt., § 13 b, stk. 2, 1. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 20, stk. 2, 1. pkt.,</Char>
+                <Char> ændres »Sundhedsstyrelsen« til: »Sundhedsdatastyrelsen«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idacff1403-8172-4c13-92b9-4adfedf4a1c0">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id827a1fe4-38e4-4ead-82de-d76c4dfb9e31">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id0113d044-d7e6-44ab-ba21-2eb15c7c78b8">
+          <AendringDefinition id="id06f4833f-03b3-41a3-a91a-682339c179ff">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18 c, stk. 4, 1. pkt., </Char>
+                <Char>to steder</Char>
+                <Char formaChar="Italic">
+                </Char>
+                <Char>i</Char>
+                <Char formaChar="Italic"> § 18 c, stk. 4, 2.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">4. pkt., </Char>
+                <Char>i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18 c, stk. 4, 5. pkt., stk. 5, 1., 3. </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 4. pkt., </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> stk. 8</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">9, </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 21 a, stk. 2,</Char>
+                <Char> ændres »Sundhedsstyrelsen« til: »Styrelsen for Patientsikkerhed«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idabaca5ac-ca0a-42ef-b161-084b491d287e">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8be72d5f-47a0-4fc3-951d-f5c0fa8bf858">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id04277b7a-69c0-4ad3-b1d9-1103621be765">
+          <AendringDefinition id="id09d1b71e-2d29-4a9e-9c49-79865279fd3b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18 c, stk. 4, 2. pkt.,</Char>
+                <Char> og</Char>
+                <Char formaChar="Italic"> § 18 c, stk. 5, 4. pkt., </Char>
+                <Char>ændres »Sundhedsstyrelsens« til: »Styrelsen for Patientsikkerheds«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida8ef45e2-36c3-4583-94d3-60fde0ff0d0c">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="idb12c00c3-e74d-4d45-a030-63bd806d65ab">
+      <Explicatus>§ 8</Explicatus>
+      <Stk id="id32d0f801-be2f-49a6-9892-b9b25c06997b">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. juli 2016, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idccceef97-b802-4f1f-9135-0a18ed78fa2a">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Lovens § 1, nr. 3-5, 14, 15, 17, 18, 20, 22, 23, 24 og 25, og lovens § 2, nr. 11 og 12, træder i kraft den 1. januar 2017.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="ide67a9b8c-6854-4b15-b895-43bd6658effb">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Behandlingssteder omfattet af registreringspligten efter § 213 c, stk. 1, i sundhedsloven som affattet ved denne lovs § 1, nr. 15, skal lade sig registrere inden den 31. december 2017.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idbf2e6a2f-6007-41fe-ab03-a775946146cd">
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Tilsynsrapporter offentliggjort i henhold til regler fastsat i medfør af sundhedslovens § 215 a, stk. 8, 5. pkt., og § 219, stk. 6, 2. pkt., jf. lovbekendtgørelse nr. 1202 af 14. november 2014 med senere ændringer, og § 71, stk. 6, i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, jf. lovbekendtgørelse nr. 877 af 4. august 2011 med senere ændringer, før lovens ikrafttræden, jf. stk. 2, forbliver offentliggjort efter gældende regler, dog højst 3 år i alt.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id306b0d47-eab8-46c1-8b35-e3fcd292dff6">
+        <Explicatus>Stk. 5.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>En autoriseret sundhedsperson kan ikke fratages autorisationen, jf. § 7 a i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed som affattet ved denne lovs § 2, nr. 3, som følge af at den pågældende før lovens ikrafttræden, jf. stk. 1, ikke har overholdt et fagligt påbud, en varig indskrænkning af virksomhedsområde eller en midlertidig autorisationsfratagelse, jf. § 7, stk. 2, 1. pkt., § 7, stk. 2, 3. pkt., og § 8, stk. 1, i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, jf. lovbekendtgørelse nr. 877 af 4. august 2011 med senere ændringer.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id979eef07-e604-407c-a7c6-27308bcdea17">
+        <Explicatus>Stk. 6.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>En autoriseret sundhedsperson kan ikke fratages autorisationen eller få indskrænket sit virksomhedsområde, jf. § 7 b eller § 8 a i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed som affattet ved denne lovs § 2, nr. 3, som følge af at den pågældendes udenlandske autorisation er blevet frataget eller indskrænket eller den pågældende i øvrigt i udlandet er blevet begrænset i sin ret til at udøve erhverv før lovens ikrafttræden, jf. stk. 1.</Char>
+          </Linea>
+          <Linea>
+            <Char>Dette gælder dog ikke, hvis der kunne være sket autorisationsfratagelse eller indskrænkning af virksomhedsområde i henhold til § 12 i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, jf. lovbekendtgørelse nr. 877 af 4. august 2011 med senere ændringer.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id9d6d6718-9780-4494-8741-c33f50977b27">
+        <Explicatus>Stk. 7.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Styrelsen for Patientsikkerhed kan ikke træffe afgørelse om midlertidig autorisationsfratagelse, forbud og suspension, jf. § 9, stk. 1, og §§ 9 b og 10 c i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed som affattet ved denne lovs § 2, nr. 3, i situationer, hvor de af sundhedspersonens handlinger eller undladelser, der giver anledning til begrundet mistanke om fare for patientsikkerheden, har fundet sted før lovens ikrafttræden, jf. stk. 1.</Char>
+          </Linea>
+          <Linea>
+            <Char>Afgørelse om midlertidig autorisationsfratagelse på grundlag af handlinger eller undladelser, der har fundet sted før lovens ikrafttræden, jf. stk. 1, træffes fortsat efter § 8, stk. 1, i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, jf. lovbekendtgørelse nr. 877 af 4. august 2011 med senere ændringer.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id774ae07a-9e6d-4844-b0aa-8339e2a8d87e">
+        <Explicatus>Stk. 8.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>En autoriseret sundhedsperson kan ikke fratages autorisationen eller få indskrænket sit virksomhedsområde midlertidigt, jf. § 9, stk. 3, i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed som affattet ved denne lovs § 2, nr. 3, som følge af at den pågældende før lovens ikrafttræden, jf. stk. 1, har overtrådt et fagligt påbud.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id65635562-05b4-42bb-abf3-e56196fd42c2">
+        <Explicatus>Stk. 9.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Styrelsen for Patientsikkerhed behandler ansøgninger om generhvervelse af autorisation eller ophævelse af indskrænkning af virksomhedsområde, der er frataget eller foretaget før lovens ikrafttræden, jf. stk. 1, efter § 11 b i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed som affattet ved denne lovs § 2, nr. 3.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="ide468362a-7fee-45ce-ab7a-d064a705fe3b">
+        <Explicatus>Stk. 10.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Styrelsen for Patientsikkerhed behandler ansøgninger om generhvervelse af autorisation eller ophævelse af indskrænkning af virksomhedsområde i henhold til § 12 i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, jf. lovbekendtgørelse nr. 877 af 4. august 2011 med senere ændringer, der er frataget eller foretaget før lovens ikrafttræden, jf. stk. 1, efter § 11 c i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed som affattet ved denne lovs § 2, nr. 3.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id663f94fc-0f18-41e7-a6bc-98d16fe3d819">
+        <Explicatus>Stk. 11.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Styrelsen for Patientsikkerhed behandler ansøgninger om generhvervelse af fraskrevet autorisation eller om ophævelse af frivillig indskrænkning af virksomhedsområde på baggrund af den pågældende sundhedspersons meddelelse herom, der er modtaget i styrelsen før lovens ikrafttræden, jf. stk. 1, efter § 11 d i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed som affattet ved denne lovs § 2, nr. 3.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="ida24d0c4a-9443-4ff6-8b5a-71c2cf2fab8c">
+        <Explicatus>Stk. 12.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Styrelsen for Patientsikkerhed offentliggør ikke beslutninger om fraskrivelse af retten til at ordinere af­hæn‌gighedsskabende lægemidler, jf. § 12, stk. 3, i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed som affattet ved denne lovs § 2, nr. 3, der er modtaget i styrelsen før lovens ikrafttræden, jf. stk. 1.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id2aaa859a-c88a-408a-948c-020941a2e4f0">
+        <Explicatus>Stk. 13.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Styrelsen for Patientsikkerheds afgørelser med vilkår og aftaler om medvirken til oplysning af en sag om en sundhedspersons manglende egnethed i henhold til § 6 i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, jf. lovbekendtgørelse nr. 877 af 4. august 2011 med senere ændringer, forbliver i kraft, indtil de ophæves.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id9aafa6cf-f771-4882-8664-118cd16eebdf">
+        <Explicatus>Stk. 14.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Klager over forhold, der er omfattet af afsnit IV, § 18, stk. 4, § 46, stk. 2, eller § 47 i sundhedsloven, som er indgivet til Patientombuddet eller Styrelsen for Patientsikkerhed før lovens ikrafttræden, jf. stk. 1, og som endnu ikke er afgjort på ikrafttrædelsestidspunktet, afgøres af Sundhedsvæsenets Disciplinærnævn.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="id9523290f-b46b-46de-8460-61e2745dd792">
+      <Explicatus>§ 9</Explicatus>
+      <Stk id="id682e81bc-4836-465f-9423-edccf10e446b">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2-4.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id767db783-403a-442a-b2a6-9e4a15b36b98">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Lovens § 1, nr. 6-8, kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne og Grønland med de ændringer, som de færøske og grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id8e76ec57-6abe-4a21-a49e-6dc43c3f011e">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Lovens § 1, nr. 11-21 og 24-26, §§ 2, 3, 5 og 6 og § 7, nr. 1, kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idf340f530-2ac2-45f4-aa7d-ae6781f5abbe">
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Lovens § 4 kan ved kongelig anordning sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idb8539157-6419-4b91-a574-f5ce67aee5d0">
+    <UnderskriftStedDato id="id80987c82-4a20-4c40-85ad-59b5fd62d5fe" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id47e2c35d-ee3d-4da1-8378-6dc0763e8e18" />
+  </UnderskriftGruppe>
+</Dokument>

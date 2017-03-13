@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id3ad206fb-c756-4b0a-ab88-0fe7e92c5b85" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id58619b55-5e53-4335-b98a-2bf42ef2dddd">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20160013330</AccessionNumber>
+    <DocumentId>CJ000262</DocumentId>
+    <UniqueDocumentId>177525</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af forældreansvarsloven og lov om social service (Forældremyndighed, når den ene forælder har forvoldt den anden forælders død, overførsel af forældremyndighed til samlevende par m.v.)</DocumentTitle>
+    <Year>2016</Year>
+    <DiesSigni>2016-02-16</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-11-02</EndDate>
+    <Status>Valid</Status>
+    <Number>133</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1270 af 24/10/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 133 af 16/02/2016</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Karen Ellemann</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Social- og Indenrigsmin., j.nr. 2015-6289</JournalNumber>
+    <Ministry>Social- og Indenrigsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id90575e7e-0963-410e-a350-5abbca836e7a">
+    <Titel id="idd4908899-fafb-4931-9ea0-1ffac7827dc4">
+      <Linea>
+        <Char>Lov om ændring af forældreansvarsloven og lov om social service</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id783ca1ae-037c-48e2-ad20-080246892122">
+      <Linea>
+        <Char>(Forældremyndighed, når den ene forælder har forvoldt den anden forælders død, overførsel af forældremyndighed til samlevende par m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id41c97ac5-5df1-4dbf-8868-bbe7b9ac987c">
+    <Hymne id="id7a8c27d1-ff3a-40a1-92bf-ca6fa184b271">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id1c63f0fb-7353-48a4-9140-cd0851a947ef">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I forældreansvarsloven, jf. lovbekendtgørelse nr. 1820 af 23. december 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id12af4248-f5b1-4e19-9356-db0ef23aacb1">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idc2cd1599-ddd4-4d70-8336-1f2342705ed4">
+          <AendringDefinition id="id1bd4f001-90f8-4123-b46e-15018e18f265">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Italic"> § 13, stk. 2, 2. pkt.,</Char>
+                <Char> indsættes efter »ægtepar«: »eller et samlevende par«, og efter »ægtefælle« indsættes: »eller samlever«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5eae327a-4dff-453b-84d3-ae3592347dec">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idce9cbf38-2f87-431b-9caf-3e84869b26d4">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idfeb56077-5cd9-46b5-9959-0f86e2b278e7">
+          <AendringDefinition id="id4e5be8af-469f-4dcf-b8c3-e2aa03ee36f1">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 14, stk. 2,</Char>
+                <Char> ændres »§ 15« til: »§§ 15 og 15 a«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3fd33476-0ef2-44ea-8823-491fcbba69b4">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb7c2ddb9-1bda-41a4-867a-bf81ade07b16">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id2ed83674-5224-4ec9-a11e-032d12e84d10">
+          <AendringDefinition id="id2bb905e6-a3e0-412d-8780-5a78f83df975">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 15 </Char>
+                <Char>ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9631106e-8222-4117-8769-f1a96a633e0f">
+            <AendringNyTekst>
+              <Paragraf id="id5007dcf2-b2c2-47c1-bf6c-2aee6e326e55" localId="1">
+                <Explicatus>§ 15.</Explicatus>
+                <Stk id="idf1a0fb91-96db-4692-878e-1c18f40be5bb">
+                  <Exitus>
+                    <Linea>
+                      <Char>Dør en forælder, og havde forældrene ved dødsfaldet fælles forældremyndighed, har den efterlevende forælder forældremyndigheden alene, jf. dog stk. 2 og § 15 a, stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idf26e3d59-d6b2-4644-9f58-5c6ffeca4d74">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Dør en forælder, og havde forældrene ved dødsfaldet fælles forældremyndighed, kan andre i forbindelse med dødsfaldet anmode om forældremyndigheden, hvis barnet ved dødsfaldet ikke havde bopæl hos den efterlevende forælder.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Statsforvaltningen træffer afgørelse om, hvem der skal have forældremyndigheden.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id0d343988-77eb-4b0c-b743-5ff44bb45c0a">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Dør en forælder, der har forældremyndigheden alene, kan en efterlevende forælder og andre anmode om forældremyndigheden.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Er der fælles forældremyndighed, og dør begge forældre, kan andre ligeledes anmode om forældremyndigheden.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Statsforvaltningen træffer afgørelse om, hvem der skal have forældremyndigheden.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id7fb154d7-c9a9-4d11-8be0-8c96984a65c9">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>I sager omfattet af stk. 2 og 3 finder § 13, stk. 2, 2. pkt., tilsvarende anvendelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="ida84a82a3-bac3-4844-922d-55fe293337a6" localId="2">
+                <Explicatus>§ 15 a.</Explicatus>
+                <Stk id="id359490d8-69e3-4357-bbc4-b5d5d235d880">
+                  <Exitus>
+                    <Linea>
+                      <Char>Har den ene forælder forvoldt den anden forælders død, og havde forældrene ved dødsfaldet fælles forældremyndighed, eller havde den efterlevende forælder forældremyndigheden alene, skal statsforvaltningen træffe afgørelse om, hvorvidt forældremyndigheden skal forblive hos den efterlevende forælder, eller om en anden skal have forældremyndigheden.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id22a63539-caf7-4798-9bd3-749805395056">
+                  <Explicatus>Stk. 2. </Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis den ene forælder har forvoldt den anden forælders død og den afdøde forælder havde forældremyndigheden alene, finder § 15, stk. 3, 1. og 2. pkt., tilsvarende anvendelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id19580196-8922-4141-a9d2-a85379b7bd50">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>I sager omfattet af stk. 1 finder § 13, stk. 2, 2. pkt., tilsvarende anvendelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf9727f06-8944-498d-933f-83c704819312">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id22a96dee-74bc-4093-a820-4d1548d10ee3">
+          <AendringDefinition id="id29a77460-5691-438b-abb0-d49d6b7cd868">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 16, 2. pkt</Char>
+                <Char>.</Char>
+                <Char formaChar="Italic">,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id16ba803b-b338-4ccb-80ba-86c8adda143e">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf4aa1b90-f17c-4874-a438-6bead6a442dd">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="idb7448747-42f3-4352-9e81-9f77ce41f492">
+          <AendringDefinition id="idba405444-9459-46b0-829a-4a523293b9a8">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 31, stk. 1, </Char>
+                <Char>ændres »Anmodning om afgørelse om forældremyndighed efter §§ 11, 14 eller 15,« til: »Anmodning om afgørelse om forældremyndighed efter §§ 11, 14, 15 og 15 a,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="iddb5efcb6-cd30-4f53-87b4-1da6409fe2fb">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id02db726e-c180-469a-b929-e82615304f0d">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="idc75c7bb5-0229-4573-99fa-77d15e201b2c">
+          <AendringDefinition id="idf5780c0f-f6de-4cc9-9e95-de208603e451">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Italic"> § 36, stk. 1, </Char>
+                <Char>ændres »godkendes eller der træffes afgørelse herom efter § 15, stk. 2,« til: »godkendes eller der træffes afgørelse om forældremyndighed efter § 15, stk. 3, eller § 15 a, stk. 2,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida0005ec6-47e3-44a7-9a0a-7c1fdb9e4719">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idfda30c57-d277-4d22-83ab-57d6cd20a067">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id7ad6847d-0782-43c1-8187-4163ab965071">
+          <AendringDefinition id="id6ffa7626-8a3e-452a-accb-ea634382a9c9">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Italic"> § 37 </Char>
+                <Char>ophæves </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">1. pkt., </Char>
+                <Char>og i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt. </Char>
+                <Char>ændres »afgørelsen« til: »en afgørelse efter § 15 eller § 15 a«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id704fa499-82ad-4bd7-89a8-5ed722143d35">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ideed34a4d-d141-49ad-bd99-a712f0520337">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id71f64e51-f11c-4c2e-a934-ed9c7220b35d">
+          <AendringDefinition id="idc3391af0-4dff-4d9e-b35e-06e784ab55d6">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 46, stk. 2,</Char>
+                <Char> ændres »§§ 11, 14, 15 og 17« til »§§ 11, 14, 15, 15 a og 17«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida4831ba8-87dc-44ff-bd4f-999f23156b13">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idab352fa2-ddb5-4720-a672-a2b92469fab0">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om social service, jf. lovbekendtgørelse nr. 1284 af 17. november 2015, som ændret senest ved lov nr. 1894 af 29. december 2015, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idbb884605-62b6-4d8a-98d8-7a1f32dcbdc7">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id257190cf-5520-4aa4-a80c-fc071a5d9a9f">
+          <AendringDefinition id="id0574d13b-63f3-4301-a634-7a1b6ab02853">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 57 </Char>
+                <Char>indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id48057947-a5e1-4a75-a3db-2c4881372359">
+            <AendringNyTekst>
+              <Stk id="id456436fe-5b71-48f5-8e93-8ae905103bd7">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen skal endvidere i fornødent omfang medvirke til, at der udpeges en egnet indehaver af forældremyndigheden, når Statsforvaltningen til brug for behandlingen af en sag efter forældreansvarslovens § 15 a, stk. 1, anmoder kommunalbestyrelsen herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id090294e3-0ff3-4be4-988b-6db319401373">
+      <Explicatus>§ 3</Explicatus>
+      <Stk id="idabf59fa7-5dc5-4315-a983-94aa430b8acd">
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. marts 2016.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="idcef84181-501f-4938-9116-54b181355197">
+      <Explicatus>§ 4 </Explicatus>
+      <Stk id="id04f5822c-df4e-4146-93a6-3ef827018503">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id7e96b37c-3976-446f-a6d8-00d1aeac6fe2">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char> § 1 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som de færøske og grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id615da43e-eba3-4fdf-b818-7fa4153ddaf2">
+    <UnderskriftStedDato id="id615da43e-eba3-4fdf-b818-7fa4153ddaf2" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id615da43e-eba3-4fdf-b818-7fa4153ddaf2" />
+  </UnderskriftGruppe>
+</Dokument>

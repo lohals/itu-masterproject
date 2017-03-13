@@ -4,43 +4,68 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using UnitTest.Dk.Itu.Rlh.MasterProject.ParagrafIndledningParser.TestData;
 using Xunit;
 
 namespace UnitTest.Dk.Itu.Rlh.MasterProject.ParagrafIndledningParser
 {
     public class TestParagrafIndledningRealData
     {
+        private static readonly string TestDataDir = "ParagrafIndledningParser/TestData";
 
-        public static IEnumerable<object[]> TestData2017_Format1
+        public static IEnumerable<object[]> TestData_Format1
         {
             get
             {
+                var fileNames = new[]
+                {
+                    "2017-format1.csv",
+                    "2016-format1.csv",
+                    "2015-format1.csv",
+                };
                 return
-                    ParseTestData(new FileInfo("ParagrafIndledningParser/TestData/2017-format1.csv"));
+                     ParseFiles(fileNames);
             }
         }
 
-        private static IEnumerable<object[]> ParseTestData(FileInfo file)
+        private static IEnumerable<object[]> ParseFiles(string[] fileNames)
         {
-            var lines = File.ReadAllLines(file.FullName);
-            return lines
-                .Skip(2)
-                .Select(line => line.Split(';'))
-                .Select(line =>line.Select(item=>item.Trim('"')).ToArray())
-                .Select(strings => new object[]
-                {
-                   strings[0],
-                   int.Parse(strings[2]),
-                   int.Parse(strings[1]),
-                   strings[3]
-
-                });
+            return fileNames
+                .Select(filename => new FileInfo($"{TestDataDir}/{filename}"))
+                .SelectMany(file => file.ParseTestData());
         }
 
-        
-        [Theory(Skip="Grammar not ready")]
-        [MemberData(nameof(TestData2017_Format1))]
+        public static IEnumerable<object[]> TestData_Format2
+        {
+            get
+            {
+                var fileNames = new[]
+                {
+                    "2017-format2.csv",
+                    "2016-format2.csv",
+                };
+                return
+                     ParseFiles(fileNames);
+            }
+        }
+
+
+
+        //[Theory(Skip = "Grammar not ready")]
+        //[Theory()]
+        [MemberData(nameof(TestData_Format1))]
         public void TestParagrafIndledning_Format1Data(string input, int number, int year, string title)
+        {
+            AssertResult(input, number, year, title);
+        }
+
+       // [Theory]
+        [MemberData(nameof(TestData_Format2))]
+        public void TestParagrafIndledning_Format2Data(string input, int number, int year, string title)
+        {
+            AssertResult(input, number, year, title);
+        }
+        private static void AssertResult(string input, int number, int year, string title)
         {
             var parser = new global::Dk.Itu.Rlh.MasterProject.Parser.ParagrafIndledning.ParagrafIndledningParser();
             var result = parser.Parse(input);
@@ -50,7 +75,6 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.ParagrafIndledningParser
             var parseResult = result.Result;
 
             parseResult.AssertParagrafIndledningResult(number, year, title);
-
         }
     }
     

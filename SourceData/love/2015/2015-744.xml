@@ -1,0 +1,1622 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idc60f73a2-3f4c-4f1a-b15c-ee96d7d7afa7" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id46974bd3-2d09-4f71-ade8-fddf012424f3">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150074430</AccessionNumber>
+    <DocumentId>BU000441</DocumentId>
+    <UniqueDocumentId>170470</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om fremme af vedvarende energi, lov om tilskud til fremme af vedvarende energi i virksomheders produktionsprocesser og lov om elforsyning (Ny ansøgningsprocedure og grænse på 500 kW for støtte til bl.a. solcelleanlæg og husstandsvindmøller, investeringstilskud og driftsstøtte til kraft-varme-værker, afregningsvilkår for Horns Rev 3 og ophævelse af treledstariffen m.v.)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-06-01</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-29</EndDate>
+    <Status>Valid</Status>
+    <Number>744</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 418 af 25/04/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LOV nr 1283 af 24/11/2015 </KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1141 af 29/08/2016</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LOV nr 1756 af 27/12/2016</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 744 af 01/06/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20150128330</Ref_Accn>
+    <Ref_Af REFid="change_1">2015-11-24</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om ændring af lov om elforsyning og lov om Energinet.dk (Støtte til eksisterende naturgasfyrede industrielle kraft-varme-værker m.v.)</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Rasmus Helveg Petersen</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Klima-, Energi-, og Bygningsmin.,\nEnergistyrelsen, sagsnr. 2014-2976</JournalNumber>
+    <Ministry>Energi-, Forsynings- og Klimaministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id8a3fe4e7-e8fa-43dd-8f97-4b883640f0d8">
+    <Titel id="id3fa2db2e-f1a6-45e3-becb-9433a985f112">
+      <Linea>
+        <Char>Lov om ændring af lov om fremme af vedvarende energi, lov om tilskud til fremme af vedvarende energi i virksomheders produktionsprocesser og lov om elforsyning</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id324c2f6e-c2d0-4d5c-976f-41414a57974c">
+      <Linea>
+        <Char>(Ny ansøgningsprocedure og grænse på 500 kW for støtte til bl.a. solcelleanlæg og husstandsvindmøller, investeringstilskud og driftsstøtte til kraft-varme-værker, afregningsvilkår for Horns Rev 3 og ophævelse af treledstariffen m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="idf8306db7-9b8f-4bb3-9f38-53258507b4a4">
+    <Hymne id="idf94373c4-954f-4ca3-a50d-5e446c066a30">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id2afc3408-08c9-4b9e-97a4-6d5a7938bb60">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 122 af 6. februar 2015, som ændret ved § 1 i lov nr. 576 af 18. juni 2012, § 1 i lov nr. 641 af 12. juni 2013 og § 1 i lov nr. 900 af 4. juli 2013, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id60ab0bc5-f5de-4810-9acf-2f273caf9023">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id65085d8b-6a65-4374-adc1-ecc347b2c7ff">
+          <AendringDefinition id="idcada88a5-52cc-40ee-a81d-32df8f6afe49">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5, stk. 1,</Char>
+                <Char> indsættes efter nr. 4 som nyt nummer:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idcec93395-2cae-467d-9ec3-a420199edea8" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus id="idbb32f239-edce-4100-8cdd-78a7745e8733">
+                <Index>
+                  <Indentatio id="id09d8105c-0288-474e-8186-519e1a6ee70f" formaInd="Nummer">
+                    <Explicatus>5)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Projektets påbegyndelse: Enten påbegyndelse af arbejdet på investeringsprojektet eller det første bindende tilsagn om køb af udstyr eller indgåelse af andre forpligtelser, som gør investeringen irreversibel, alt efter hvad der indtræder først.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id76a9a223-9fc6-4edf-b2d0-99fb0549ecf8">
+          <Exitus>
+            <Linea>
+              <Char>Nr. 5 bliver herefter nr. 6.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id12918bf3-19c3-47d1-966b-ffc4c7271956">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id845ec1dc-2fc7-4da0-98a1-3dfdf6a8d475">
+          <AendringDefinition id="id37311d0c-b296-44e8-93e9-f74486effe6f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 35, stk. 3, 2. pkt.,</Char>
+                <Char> indsættes efter »§ 37, stk. 2, nr. 3,«: »eller af havvindmølleparken Horns Rev 3 som nævnt i § 37, stk. 2, nr. 4,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id044a0287-8926-4f0b-9fc6-a7d46bd6f48f" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1e0d1c41-fe23-48d5-9d9b-b456376a4820">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id53b44029-b47d-4012-946a-ac9a45815345">
+          <AendringDefinition id="idfcff6a2d-cb97-4e01-84b7-639cc68823be">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 35 b, stk. 2, 2. pkt.,</Char>
+                <Char> ændres »2019« til: »2016«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf1eb6b52-b639-4ce3-b82b-b50e3874348b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="iddb64de7a-be2c-47a0-aecf-1559783bb388">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="idb3ec2a74-1fab-4c9d-860e-8a0fb81778d3">
+          <AendringDefinition id="id90295617-1177-4a60-a3f2-8b733b2bb5d8">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 37, stk. 2,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">nr. 4:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc10a1e36-3920-4a04-92ca-446571bba7ec" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus id="idb58ff5f5-c2ac-4658-84cb-4635465c1aa1">
+                <Index>
+                  <Indentatio id="id6ce92ceb-2780-4599-b38f-a2f486ba80c4" formaInd="Nummer">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Til elektricitet produceret på havvindmølleparken Horns Rev 3 udbudt den 6. december 2013 ydes et pristillæg, der fastsættes således, at dette og den efter § 51, stk. 2, nr. 1, fastsatte markedspris tilsammen udgør 77 øre pr. kWh.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id6a53d8e2-d2df-4b62-9400-9f53183063be">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="idbd3cc875-58ae-43a3-bdc2-7455542e4504">
+          <AendringDefinition id="idbe6c6218-5fb6-43f4-8cf6-484f35200ecc">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 37, stk. 4, 1. pkt.,</Char>
+                <Char> ændres »de i stk. 2, nr. 1 og 2, nævnte havvindmølleparker og 20 TWh for den i stk. 2, nr. 3, nævnte havvindmøllepark« til: »de havvindmølleparker, der er nævnt i stk. 2, nr. 1 og 2, og 20 TWh for de havvindmølleparker, der er nævnt i stk. 2, nr. 3 og 4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id14388e03-9d5f-41f0-9cfa-152eca61e496" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id03feb0f4-6bfb-4960-a6ad-6d728c9f84aa">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id05ebfdf1-04b9-4fe6-a8d2-4c10c2fc95d1">
+          <AendringDefinition id="idfd12dba5-d962-4154-a9c8-a78a08431cf2">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 37, stk. 5,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9795a02a-6318-4d70-8ee6-e951372a5a5c" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id9e8d4ae6-e2c6-4dce-bf39-c680b1222487">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der ydes ikke pristillæg for elproduktion fra de havvindmølleparker, der er nævnt i stk. 2, nr. 3 og 4, i timer, hvor den markedspris, der er fastsat efter § 51, stk. 2, nr. 1, ikke er positiv.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For den havvindmøllepark, der er nævnt i stk. 2, nr. 3, gælder dette dog højst i 300 timer pr. kalen­d‌e‌r‌å‌r.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idffab1694-9a0c-4446-bec5-faaf882de915">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="idfce4b978-3527-4860-97d7-e0415a4d354c">
+          <AendringDefinition id="id3aa6a132-c201-43dd-b3b1-bc4092456405">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 41</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 4:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7a4f680b-705d-421d-8cfc-d40d94eaeda4" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id7066ec4e-1709-466f-95cb-c79590f334d8">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Pristillæg for elektricitet fra vindmøller nettilsluttet den 1. januar 2016 eller senere er betinget af Energinet.dk’s tilsagn forud for projektets påbegyndelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4bad70c7-44aa-4c61-a9ad-a634ed085bbe">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id26809c0e-ca1e-4db7-8174-ece566878eb9">
+          <AendringDefinition id="id5c8f978a-36f1-47e6-97fc-178847a68c6e">
+            <Exitus>
+              <Linea>
+                <Char>Før § 43 indsættes som ny overskrift:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2a018e6b-f503-4f1e-a01b-2ac896a31051" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <ParagrafGruppe>
+                <Rubrica id="id65335048-99f4-417a-ac34-b1756f435454">
+                  <Linea>
+                    <Char>Fælles regler for pristillæg m.v. til vindmøller</Char>
+                  </Linea>
+                </Rubrica>
+              </ParagrafGruppe>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida0c1be88-7561-4cfe-b7aa-2d8a562db781">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="id61da7af9-00b8-42b1-9dc3-cdc5344b003b">
+          <AendringDefinition id="id62d59959-dcff-465f-92c1-0249e9d591e8">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 43, stk. 1, 2</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">4,</Char>
+                <Char> ændres », 36, 37, 37 a og 38-42« til: »og 36-42«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1588d211-29bf-4861-b768-ec56e7ecd1cb" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2ad528e7-76cd-4a49-ae19-c2aad78d8de0">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="id48d31a0f-b2f9-47e5-ba15-20821e40adf0">
+          <AendringDefinition id="id7925461a-c13a-43e0-9d80-5a7d1c8d6517">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 43, stk. 2,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id841177ff-b053-4548-8fca-63aa7f654777" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id6452593a-f2d1-4c2a-b113-4dea7bdc1c23">
+                <Exitus>
+                  <Linea>
+                    <Char>Klima-, energi- og bygningsministeren kan endvidere fastsætte regler om, at Energinet.dk skal opgøre produk­t‌i‌o‌n‌somkostninger for energiproduktion til elektricitet fra anlæg omfattet af §§ 35 a, 35 b og 41, og om, hvordan disse skal opgøres.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1eda980f-b1a1-4acf-9fcb-a6993faf6c61">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="idea465efc-0305-4382-bcdf-4f15d2754a77">
+          <AendringDefinition id="id3f070418-f6f8-4f25-a575-c8afe84b83be">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 43 a, stk. 2,</Char>
+                <Char> indsættes efter »stk. 7«: »og 8«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0cb127c3-cdc0-4b9c-8e93-4e3d8b3895e1" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8bab8a8a-de8f-4877-b724-0c4d036c0e4e">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="id91cd84a3-5e2d-4663-b675-37e9e4af7068">
+          <AendringDefinition id="id9b7a4af3-1d24-4229-8ba6-cdae38c03ddf">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 43 a, stk. 7, 4. pkt., </Char>
+                <Char> indsættes efter »anlægget«: », jf. dog stk. 8«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id849d9735-0a85-474f-ba17-158efd436f20" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc4c82eae-1d46-4ba4-9325-615b91104902">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="id5a350e29-3beb-4130-bbf4-9fa03ce33e59">
+          <AendringDefinition id="idc0a5a29d-3bb5-4051-848d-4fc8b59b5579">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 43 a</Char>
+                <Char> indsættes efter stk. 7 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id884a97bb-352f-4ce7-ab7d-f66527be7acb" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="idc118d90d-074f-424d-9b69-9eedea782421">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For anlæg, som er nettilsluttet den 1. januar 2016 eller senere, er valg af pristillæg efter stk. 7 betinget af Energinet.dk’s tilsagn forud for projektets påbegyndelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id02160734-f449-4af6-9f87-ab08b4366d67">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 8 bliver herefter stk. 9.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="idd7b72d77-cdf5-4a65-84b9-b263d1579e69">
+        <Explicatus>14.</Explicatus>
+        <Aendring id="id1fa42cac-a3b0-48c9-9140-cdf6344cc642">
+          <AendringDefinition id="id9ea71196-99f6-4c78-aff5-672583b91bc8">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 44, stk. 2,</Char>
+                <Char> indsættes efter »stk. 5«: »og 6«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf01f8ae4-4a96-4ccc-afdc-9a832d52dea7" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id381909d6-a437-4f31-bf75-8c1c81e65246">
+        <Explicatus>15.</Explicatus>
+        <Aendring id="idb8da28b0-7ffd-4ddb-a2a3-fcf3c3b2c0f6">
+          <AendringDefinition id="id8b3ef39d-095a-4e39-bdf7-dfe6b639cb5d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 44, stk. 5, 2. pkt.,</Char>
+                <Char> indsættes efter »anlægget«: », jf. dog stk. 6«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2e590050-28d5-4cf7-b06a-1deadd080f6d" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id3b01316f-8028-4d87-a9df-ad8132e67cbe">
+        <Explicatus>16.</Explicatus>
+        <Aendring id="id9e1e4ec7-6a9f-4052-9f79-21673bcdd7ef">
+          <AendringDefinition id="id94c49c6b-9e91-49a7-ac30-0eb4b5598926">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 44</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 6:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6df59b0d-ed76-44d0-af1f-acd31716bcff" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id1efd38ba-1d49-40eb-91e2-db1d60277048">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For anlæg, som er nettilsluttet den 1. januar 2016 eller senere, er valg af pristillæg efter stk. 5 betinget af Energinet.dk’s tilsagn forud for projektets påbegyndelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idd0cdf98c-6116-4abe-a2ee-49c7a3f81e73">
+        <Explicatus>17.</Explicatus>
+        <Aendring id="id49b51ce8-5c04-4a44-8c74-498d45b80b5b">
+          <AendringDefinition id="id48ae47dd-e3d7-432a-abc7-2691e0f14995">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 47, stk. 6,</Char>
+                <Char> ændres »den 11. juni 2013 eller senere« til: »efter den 10. juni 2013, dog senest den 31. december 2015«, og »stk. 7 og 8« ændres til: »stk. 8 og 9«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8400fcbf-650e-46f0-aff9-be91be3e316a" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idefe8b55c-ec11-4f01-a55f-31f5eb2d6f42">
+        <Explicatus>18.</Explicatus>
+        <Aendring id="id77674880-e94c-43f3-8d66-8a564dc2d750">
+          <AendringDefinition id="id1954e8c5-e8fb-44c3-a796-a6c07a9afb48">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 47</Char>
+                <Char> indsættes efter stk. 6 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="iddb9aedeb-6717-455d-a3e5-e0791459ca46" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="ide7dabeab-ab65-4ae5-8a4f-4bb53855bf83">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For elektricitet fremstillet på solcelleanlæg med en installeret effekt på under 500 kW, som er nettilsluttet den 1. januar 2016 eller senere, ydes pristillæg som nævnt i stk. 6, dog således, at pristillægget er betinget af Energinet.dk’s tilsagn forud for projektets påbegyndelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilsagn og pristillæg kan ikke gives for elektricitet fremstillet på anlæg, som Energinet.dk har givet tilsagn om er omfattet af den pulje, som er nævnt i stk. 8 og 9.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id4e201b6e-62fc-464f-8bb9-473a0a474ff9">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 7-9 bliver herefter stk. 8-10.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id18343347-d0b9-4087-a9d1-ba288b157d0d">
+        <Explicatus>19.</Explicatus>
+        <Aendring id="id7dbf5e0a-37bd-4034-b7bd-eac8f8a7584e">
+          <AendringDefinition id="idb6e253d7-e78b-40eb-8e15-ddbb1d293cf1">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 47, stk. 7, 1. pkt.,</Char>
+                <Char> der bliver stk. 8, 1. pkt., ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida7a6e75d-abb1-49c4-9faf-fd1cd0df18d4" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Energinet.dk kan forud for et projekts påbegyndelse give tilsagn om mulighed for forhøjet pristillæg for elektricitet fremstillet på solcelleanlæg inden for en pulje på 20 MW årligt i 5 år fra og med 2013.</Char>
+                </Linea>
+                <Linea>
+                  <Char>I 2016 og 2017 kan Energinet.dk alene give tilsagn om mulighed for forhøjet pristillæg for elektricitet fremstillet på solcelleanlæg med en installeret effekt på under 500 kW.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idfac9e3d3-02f2-43df-9b48-ae2119ffc12a">
+        <Explicatus>20.</Explicatus>
+        <Aendring id="idd756f6bc-aa69-45bf-9db2-faedbd2dd8c9">
+          <AendringDefinition id="iddef98793-b6eb-4ee6-9d82-86ca9cb6bdb9">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 47, stk. 8, 1.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.,</Char>
+                <Char> der bliver stk. 9, 1. og 2. pkt., ændres »stk. 7« til: »stk. 8«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idba9e2efc-84c1-46d4-a28e-ff21ae84c43b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idcb3ff4d5-00e7-4afa-ab49-bdabcc21a8c8">
+        <Explicatus>21.</Explicatus>
+        <Aendring id="idf1479df5-45ed-4b77-a7fb-0286d13c7571">
+          <AendringDefinition id="id8612b291-fede-439d-bddb-436102f0a1a4">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 47, stk. 8, 4. pkt.,</Char>
+                <Char> der bliver stk. 9, 4. pkt., ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id923025b0-20c8-465b-82da-54af04083be0" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4a660cde-12b3-459d-8be8-0541e6ad633e">
+        <Explicatus>22.</Explicatus>
+        <Aendring id="id6ba8df26-e234-45bd-9ffd-cf518d600aa2">
+          <AendringDefinition id="ide49a85dc-7344-4c72-8914-427553bd9721">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 47, stk. 9,</Char>
+                <Char> der bliver stk. 10, ændres »stk. 4-8« til: »stk. 4-9«, og efter »måde« indsættes: », jf. dog stk. 11«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0ce239c2-3635-43c9-ad03-a11cfd6b5254" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1b922f4f-4c8c-4e6b-8539-5179a42ebc4e">
+        <Explicatus>23.</Explicatus>
+        <Aendring id="idb3a9b9a3-9efb-454e-95cc-25ce2f025838">
+          <AendringDefinition id="idf73c92af-8128-4c54-a2e3-64dc3b66e471">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 47</Char>
+                <Char> indsættes efter stk. 9, der bliver stk. 10, som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf2261b5e-5d18-48f0-a693-f4dd1c943690" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="ide6be9e88-d7a8-4910-88d1-5fe463d96b2c">
+                <Explicatus>Stk. 11.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For elektricitet fra anlæg, som er nettilsluttet den 1. januar 2016 eller senere, ydes alene pristillæg efter stk. 10, hvis anlægget har en installeret effekt på under 500 kW.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Pristillægget er endvidere betinget af Energinet.dk’s tilsagn forud for projektets påbegyndelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id3faf418a-6606-406e-979c-441017189e7f">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 10 bliver herefter stk. 12.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id7ff4552b-7ede-4943-acda-abc565d6fdd4">
+        <Explicatus>24.</Explicatus>
+        <Aendring id="id7c200cae-ec31-4f85-9954-d738f496188a">
+          <AendringDefinition id="idef362476-9b71-4a96-b5e8-729f8d766121">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 48, stk. 3,</Char>
+                <Char> ændres »den 22. april 2004 eller senere« til: »i perioden fra og med den 22. april 2004 til og med den 9. november 2015«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfe56dcf8-eee5-4e8d-9d83-8bc5089e2567" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id34d27d06-9e46-4ab9-b376-931b3f8250f8">
+        <Explicatus>25.</Explicatus>
+        <Aendring id="idec7ecd1f-27dd-4f4c-9ea5-0d4ebc2bf870">
+          <AendringDefinition id="idd8b5bdd0-d169-472a-83a2-813e6ef556bc">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 49, stk. 4, 2. pkt., </Char>
+                <Char> ændres »stk. 4-7 eller stk. 9, nr. 1 eller 2,« til: »stk. 4-8 eller stk. 10, nr. 1 eller 2,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idbc7a690d-85b0-4182-9481-1c3c310557a3" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5ba989b0-814d-4957-b5bc-d59e7d379b98">
+        <Explicatus>26.</Explicatus>
+        <Aendring id="id592477d8-0e52-4987-9ce0-d68b4aa5b569">
+          <AendringDefinition id="id338418b1-a2a5-4cf0-8cf9-0edbed380c95">
+            <Exitus>
+              <Linea>
+                <Char>Før § 50 indsættes som ny overskrift:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id024c167a-551a-4f28-a48d-02dd94e5df71" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <ParagrafGruppe>
+                <Rubrica id="id0d20840d-20c0-4be3-9549-b849f6ff95ad">
+                  <Linea>
+                    <Char>Fælles regler om pristillæg m.v. til biogas og andre VE-elproduktionsanlæg</Char>
+                  </Linea>
+                </Rubrica>
+              </ParagrafGruppe>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida0168fb7-43a9-4363-ae20-f72a3ae5cc07">
+        <Explicatus>27.</Explicatus>
+        <Aendring id="id8ec8568f-fb94-4191-8c23-01e71e2d1ad5">
+          <AendringDefinition id="idc2de0a3b-b95e-4a5c-adbe-189f692142e6">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 50, stk. 2,</Char>
+                <Char> ændres »stk. 9« til: »stk. 10«, og »stk. 7« til: »stk. 8«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id99e9c2cd-07a6-447e-afa2-523a165b0cad" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id215ce7dc-d21e-42aa-b9ef-7bd57994bc83">
+        <Explicatus>28.</Explicatus>
+        <Aendring id="idcd6764b3-44a3-4828-8064-596b026f6a49">
+          <AendringDefinition id="ide4ac2262-d7d2-4b1e-bbbc-90d34bba2e86">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 50, stk. 3,</Char>
+                <Char> indsættes efter 2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4e58289d-9b57-4a72-a437-f4b36884efac" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>2. pkt. gælder dog ikke pristillæg efter §§ 43 a og 45, når elektriciteten er produceret af et kraft-varme-værk, som ydes støtte efter § 3, stk. 3, nr. 4, i lov om tilskud til fremme af vedvarende energi i virksomheders produktionsprocesser.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id6b98f6d0-b665-45f5-93b4-247bbb0cedf5">
+        <Explicatus>29.</Explicatus>
+        <Aendring id="id46cbe0f1-bb90-456a-a74d-1b61f12fb9f4">
+          <AendringDefinition id="idfe3ae294-2c65-41d3-8410-070a8488c78f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 50, stk. 3, 3. pkt.,</Char>
+                <Char> der bliver 4. pkt., udgår »dog«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id651aba68-0651-4132-85cb-ed81c400a7c7" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1712b7c2-6a38-46df-9bf7-eb9fb1667113">
+        <Explicatus>30.</Explicatus>
+        <Aendring id="id72ded5ed-b14d-4b15-b9c3-300073c4aeef">
+          <AendringDefinition id="id3027d22a-4c51-4429-a72f-060fc4fd5c4c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 50, stk. 4, 1. pkt.,</Char>
+                <Char> ændres »§§ 58 og 58 a« til: »§ 58«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd8d9673e-3a7b-4c1c-9760-309ab6487f9b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4ba3554d-8a8e-4c9e-b8e2-ccc3ee95b31d">
+        <Explicatus>31.</Explicatus>
+        <Aendring id="ide399df23-c990-4136-985b-7ddaadbd4796">
+          <AendringDefinition id="idf47564b0-3a62-406e-952f-1cb0082da8b0">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 50</Char>
+                <Char> indsættes efter stk. 5 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id86cfc15e-3e3d-4fd6-b7c0-50fa9d355d0e" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id1ad1f827-ff7c-4350-87f6-5053b1758a2d">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klima-, energi- og bygningsministeren kan fastsætte regler om, at Energinet.dk skal opgøre produktionsomkostninger for energiproduktion til elektricitet fra anlæg omfattet af §§ 43 a-43 d, 44, 45 og 47, og om hvordan disse skal opgøres.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id9e36bad6-c3d9-4b2a-ac6d-4f93a58b0e18">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 6 bliver herefter stk. 7.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id72e07e6b-21a2-456a-883f-9b8c80df205a">
+        <Explicatus>32.</Explicatus>
+        <Aendring id="id3830946b-8190-41bf-bf2f-8dc14231e420">
+          <AendringDefinition id="id1e5b649f-011c-43b3-9481-300e307f8b12">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 50, stk. 6,</Char>
+                <Char> der bliver stk. 7, ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8681c746-cd56-49d9-8fb1-e620eef670a3" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id701ac0e2-76ae-49f5-b725-fa516d4e1ae8">
+        <Explicatus>33.</Explicatus>
+        <Aendring id="idf8abeaee-bfcf-4b2b-9882-80728e8c9a2e">
+          <AendringDefinition id="id7348d588-44f2-4965-bb70-f739fd7dd56d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 51, stk. 1, § 53, stk. 1, § 55, stk. 1</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2, § 56, stk. 1,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 57, stk. 1, 1. pkt.,</Char>
+                <Char> ændres »36, 37, 37 a, 38-43« til: »36-43«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc2ca7a34-8c5c-4326-aefe-c139259255be" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4b38b56c-3c28-4c6c-84ee-fa91732dcc28">
+        <Explicatus>34.</Explicatus>
+        <Aendring id="idaf362373-05a5-40a3-96a0-9314db2392f4">
+          <AendringDefinition id="id896c7cc0-263c-4d3b-a21a-fe3ad6aadab2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 51, stk. 4, 1. pkt., </Char>
+                <Char> ændres »stk. 4-7 og stk. 9, nr. 1 og 2« til: »stk. 4-8 og stk. 10, nr. 1 og 2«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="iddfc53500-1235-4531-b640-02fc4e7244fb" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4ecf9fd6-cbbe-47c1-ac96-fb788821598d">
+        <Explicatus>35.</Explicatus>
+        <Aendring id="id10b94005-c271-4268-a8d7-550bc573afcf">
+          <AendringDefinition id="id607bac22-7922-4ce9-9364-24b168aabfb3">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 52, stk. 4, 1. pkt.,</Char>
+                <Char> ændres »stk. 7« til: »stk. 8«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id16d80a07-10c5-45ea-b17f-be28065f7803" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id0594e591-b41c-478f-8689-d855e89e4887">
+        <Explicatus>36.</Explicatus>
+        <Aendring id="idb04c801f-b5d7-4546-815e-f458d0866f6c">
+          <AendringDefinition id="idfaac47de-c6c4-4dc0-9e5e-18762394a72b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 52, stk. 5,</Char>
+                <Char> udgår », dog ikke opgaver som nævnt i § 59 a, stk. 1, i lov om elforsyning«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2ef01adc-fb69-4437-8000-b9bdb482b1fc" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idbf366645-1313-438c-a5e9-8ddda2dfc57f">
+        <Explicatus>37.</Explicatus>
+        <Aendring id="id10ca9569-ef1d-43c0-a1da-0b820ec32de4">
+          <AendringDefinition id="idd57cac7f-5f08-4a5d-9765-187feb669200">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 66, stk. 2,</Char>
+                <Char> indsættes efter »§§ 18-21«: », § 41, stk. 4, § 43 a, stk. 8, § 44, stk. 6, § 47, stk. 7 og 11,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfd0f34c4-29a8-4fb9-8685-847a561fd5c8" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id561552d7-ef6f-4d4d-bdd2-e0065fea9357">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 607 af 12. juni 2013 om tilskud til fremme af vedvarende energi i virksomheders produktionsprocesser, som ændret ved § 4 i lov nr. 1498 af 23. december 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id98d01d2c-1f94-40ea-88ff-3f39b64814ce">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idd971cf1e-be54-4aa5-9b0e-2fa8abfa2773">
+          <AendringDefinition id="id63fe7772-3488-4443-8542-fed4903a1577">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4, stk. 2,</Char>
+                <Char> indsættes efter 1. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf9bc8af5-7dfd-4dc3-b418-8ccd117c422b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Der vil dog kunne ydes tilskud i medfør af § 3, stk. 3, nr. 4, til projekter i kraft-varme-værker, som leverer fjernvarme til procesformål i virksomheder, uanset at der også ydes pristillæg efter §§ 43 a eller 45 i lov om fremme af vedvarende energi.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idafdc5654-ccf9-4b20-a030-e9ec870da5e0">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idb5c90103-6ad7-4f99-8ecf-2f153d8ff6cb">
+          <AendringDefinition id="id77feb944-8012-4685-8abf-a07dc16b14da">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4, stk. 2, 2. pkt.,</Char>
+                <Char> der bliver 3. pkt., udgår »dog«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida0c28292-52ce-420b-8a2b-94507345e257" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id633d6c8c-3af5-4e47-892f-27740c2b48e6">
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om elforsyning, jf. lovbekendtgørelse nr. 1329 af 25. november 2013, som ændret bl.a. ved § 2 i lov nr. 576 af 18. juni 2012, § 8 i lov nr. 903 af 4. juli 2013, § 1 i lov nr. 633 af 16. juni 2014 og § 1 i lov nr. 1498 af 23. december 2014 og senest ved § 1 i lov nr. 577 af 4. maj 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id37beba46-55dc-4cc2-ac2f-25e608dc61b3">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id7b304af0-740c-4514-bf43-673ff16ecdcd">
+          <AendringDefinition id="idf9171805-e400-4d10-93de-ecc684d01bf6">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 8, stk. 1, nr. 1, § 8 a, stk. 1, 1. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 9</Char>
+                <Char> ændres »36, 37, 37 a, 38-43« til: »36-43«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0d09cd31-9b86-4e6d-9049-5a6911ee552e" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id026980a7-e14e-4de8-834c-b1ded1a3195b">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id35250a9e-2a96-45a2-aef2-6511e1707cd6">
+          <AendringDefinition id="id5193b4d0-74e4-46ce-a957-1209a6d32d5c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 8, stk. 1, nr. 2,</Char>
+                <Char> udgår », 58 a« og »og § 59 a, stk. 1 og 2,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id11caff86-439d-4673-939c-27392e8e66c7" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida0e40c62-6539-40c0-aba2-442ba715ac86">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="ide0a11419-2cb8-4573-86bb-91d4278f8153">
+          <AendringDefinition id="ida8cb840f-126b-4762-abbb-1af22760683a">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 8 a, stk. 1, 1. pkt.,</Char>
+                <Char> udgår », 58 a«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id95189484-9107-4f1d-99be-749d1da8a054" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf2d83e2a-794d-429e-9721-79e200c1dd21">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="idde159912-a789-4278-bf67-2265d004aaaa">
+          <AendringDefinition id="id465aeba5-ee89-42a7-bd0b-6c47787ab7f1">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 27 c, stk. 2, 2. pkt.,</Char>
+                <Char> udgår »§ 59 a, stk. 1, eller«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id78c7ebd9-6913-465e-a8da-b27b30452407" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida2ba14d4-4fc4-4cdb-978a-01400f629eb8">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id7be29986-ad5c-406e-b87c-dde6bf2e598c">
+          <AendringDefinition id="ida8b5a412-ebb5-4f85-9ea5-ac1c01b65922">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 27 c, stk. 8, 2. pkt.,</Char>
+                <Char> ændres », et VE-elproduktionsanlæg« til: »og fra et VE-elproduktionsanlæg«, og »og et decentralt kraft-varme-anlæg eller et elproducerende affaldsforbrændingsanlæg omfattet af § 58 a i denne lov« udgår.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida0578f5a-a1a8-4faf-a3ad-407fd2ba3611" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id00503490-a6ba-4665-b1c8-696672faf26f">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="idbc807cf0-58d5-497c-a73b-32b72854723c">
+          <AendringDefinition id="iddce701a9-0559-435d-ac39-42eb0c3ef78d">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 58, stk. 1, nr. 1, 2. pkt.,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ided899fde-b19f-4d19-8c1c-4caec690101a" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id11a0ddc6-eaaf-4356-a240-7c0e95d90a51">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id4f023975-33b4-4783-b8c8-88c4cd32b9fb">
+          <AendringDefinition id="id2eda626c-4955-4d47-b5a2-f4cdd779d708">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 58, stk. 1, nr. 1, 3. pkt.,</Char>
+                <Char> der bliver 2. pkt., ændres »Endvidere finder bestemmelsen ikke« til: »Bestemmelsen finder ikke«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id61df2e9c-a8f3-430b-9817-d2d1d81021d8" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id67e0902f-824d-4bb0-8af2-13218b51a7a7">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id49e11f51-e039-4275-a875-f0bc3e692c2a">
+          <AendringDefinition id="id9d6f1f8e-ef28-4331-b171-4d84b9a6e31e">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 58 a</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id16444dbb-5ab2-44a8-beae-7567d2cf916f" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9a24b008-9029-4031-b75d-1dc63e60bcef">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="id635203f1-e9fc-45e5-a314-7e528ba60ac7">
+          <AendringDefinition id="id6214fc74-ffef-4b9e-9f4c-44bbc5d3c87f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 58 b, stk. 1,</Char>
+                <Char> ændres »§§ 58 og 58 a« til: »§ 58«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id08d2b093-1a92-4e20-b7cf-2ffdad208eae" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida948d520-6a96-4f38-bb60-dfb0eb5fcc04">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="id9b696a36-563a-4e7f-985d-8715b45191a9">
+          <AendringDefinition id="id96045460-505e-48da-920a-04dd4dd77b71">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 58 b indsættes før overskriften før § 59:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide92ec25a-26ee-45b4-a42a-fbe13bb20106" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id613bcea4-f6fa-45db-9af5-6fa426e9c27f" localId="1">
+                <Explicatus>§ 58 c.</Explicatus>
+                <Stk id="idada41796-7c74-447a-b749-753e0e19752b">
+                  <Exitus>
+                    <Linea>
+                      <Char>Denne bestemmelse omhandler tilskud til elektricitet til industrielle kraft-varme-værker, som er tilsluttet elforsyningsnettet senest den 21. marts 2012.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Tilskuddet ydes fra og med den 1. januar 2013 til og med den 31. december 2020.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id2f3b2d7a-4c3a-4e39-bea4-0ca30fa69af8">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Tilskuddet fastsættes og udbetales månedligt til værker omfattet af stk. 1 med udgangspunkt i en tolvtedel af grundbeløbet som nævnt i stk. 3.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Når den gennemsnitlige månedlige markedspris som nævnt i § 59, stk. 2, er 13,453 øre pr. kWh eller derunder, indekseres grundbeløbet med faktoren 1,7122.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Grundbeløbet reduceres lineært ved en markedspris over 13,453 øre pr. kWh, således at det bortfalder, når markedsprisen er 41,582 øre pr. kWh.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="ida2cca2ab-11e9-4942-b221-42d33772accf">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Grundbeløbet udgør 3 øre pr. kWh pr. 1. januar 2013 og stiger pr. 1. januar 2014 til 7 øre pr. kWh.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Grundbeløbet opgøres på baggrund af værkets elproduktion i 2011 med fradrag af det nødvendige egetforbrug til elproduktionen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Hvis der ikke har været elproduktion i mere end 4 uger i 2011, fastsættes grundbeløbet på grundlag af elproduktionen i 2010, hvis værket anmoder om dette.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id3e475b75-aa98-4656-91a4-d017b559b84d">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ydelsen af tilskuddet er betinget af, at værket er driftsklart og til rådighed for driften af det sammenhængende elforsyningsnet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Desuden skal elektriciteten fra værket være fremstillet ved en højeffektiv kraft-varme-produktion.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Endvidere skal der betales afgift efter lov om afgift af elektricitet for den elektricitet, som værket producerer.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Tilskuddet ydes, uanset om der tillige ydes pristillæg efter regler i denne lov eller i lov om fremme af vedvarende energi.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id5de4f220-5061-42d2-a731-80c33ec1ffbc">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Administrationen af tilskuddet, herunder beregning og udbetaling af dette, varetages af Energinet.dk.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="ide8a4da9b-98b7-4a93-91f4-e7ecde9287ab">
+                  <Explicatus>Stk. 6.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Staten afholder udgifterne til tilskud til industrielle kraft-varme-værker efter stk. 1-3 og omkostningerne forbundet med administration af ordningen efter stk. 5 inden for en bevillingsramme fastsat på finansloven.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id4f89af59-0ebe-4a6c-8e96-78b7fa422d26">
+                  <Explicatus>Stk. 7.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Klima-, energi- og bygningsministeren kan efter forelæggelse for det i § 3 nævnte udvalg fastsætte regler om, at tilskuddet skal nedsættes eller bortfalde.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id46be98db-2e37-4adb-bf1c-14f3eef25ee8">
+                  <Explicatus>Stk. 8.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Klima-, energi- og bygningsministeren kan fastsætte regler om beregningsmetoder efter stk. 2 og 3.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ministeren kan endvidere fastsætte regler om, hvorledes betingelserne i stk. 4 skal opfyldes.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf534927f-935d-4f59-aeed-f45071b71b33">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="idc15505c2-d649-4111-af1e-4eb65d849018">
+          <AendringDefinition id="id8734d8e9-8ff7-454d-8773-e378c384450b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 59, stk. 1, 1. pkt.,</Char>
+                <Char> udgår », 58 a«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id752e223a-fd2d-4790-8581-52f3c6ae1329" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id45ed311d-aba7-4a50-962a-395e024f981e">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="id3be376d4-c7d6-4bb4-bf7b-38885c9e2e17">
+          <AendringDefinition id="id68a6870e-c7db-42a6-bff8-bb74a9aac251">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 59, stk. 1, 1. pkt.,</Char>
+                <Char> ændres »og 58 b« til: », 58 b og 58 c«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5835439f-3913-4882-a1f2-d3bc508c8bad" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id462c40f3-536a-4fd4-896e-430f099181cd">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="ide1b4a6dd-7714-4ed0-b5a7-02c24e40b880">
+          <AendringDefinition id="idaf6562dd-9830-43bc-8da4-90747ebcc2c7">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 59, stk. 2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2f7ba1a0-6304-4b9b-9d4a-ead7b3f95eba" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id4a6c6b6e-df8f-42af-8087-dee86eff3b6c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energinet.dk fastsætter markedsprisen for elektricitet på anlæg nævnt i stk. 1 på månedsbasis som et gennemsnit af spotprisen, jf. stk. 3, i det pågældende område.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf565279a-ac60-4b2c-9780-cefe1e1cbb43">
+        <Explicatus>14.</Explicatus>
+        <Aendring id="id4ffce684-e106-4894-95f1-05961ebc9940">
+          <AendringDefinition id="id2288cf2f-4f4e-4f8b-b949-f8ca892f39e1">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 59, stk. 4,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 59 a</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id74757940-91ae-4e3f-8781-67e6a555e0c4" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8cf49359-04cb-4e5b-888c-332ecdde6fa8">
+        <Explicatus>15.</Explicatus>
+        <Aendring id="id2d1d70f5-cec2-4ea7-a56c-25953849c5ed">
+          <AendringDefinition id="idc742544a-d3d6-4b12-bb90-57ae1f76d41e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 64, 1. pkt.,</Char>
+                <Char> udgår », 58 a« og »og § 59 a, stk. 1«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf9c441f5-9c4b-439b-9cb2-5fe3780be3f4" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idaad05e55-c388-4a8f-87be-4538c1ad2c12">
+        <Explicatus>16.</Explicatus>
+        <Aendring id="id1f76c38a-085a-47ba-96c0-d53aedc10af6">
+          <AendringDefinition id="idbbea942b-c7f4-4264-83fe-00f7e4b4e980">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 65, stk. 1, 1. pkt.,</Char>
+                <Char> ændres »Udbetaling af pristillæg for elektricitet omfattet af § 58 a og beregning« til: »Beregning«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id22e58036-a0b2-4beb-b8e3-2063ba8b62ae" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id62786355-3f6f-4767-8dba-51e881ec55d0">
+        <Explicatus>17.</Explicatus>
+        <Aendring id="id201bea34-0d8d-4d64-a3e2-d3e0e22b46c1">
+          <AendringDefinition id="id347d00c5-885b-4a29-b1ed-f71d6464fc64">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 65, stk. 2,</Char>
+                <Char> udgår », 58 a«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idbf2edb8f-f26d-42ca-938e-ffae4f1adea5" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id56c4d0ac-d1dd-488c-a4d9-dd832c6d2c1e">
+        <Explicatus>18.</Explicatus>
+        <Aendring id="id0c2fa816-9d2b-424d-b1cc-f46d017635b2">
+          <AendringDefinition id="id3937b645-0592-4b03-8820-3e7ffd4675b9">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 65, stk. 2,</Char>
+                <Char> indsættes efter »pristillæg«: »eller tilskud«, og »og 58 b« ændres til: », 58 b og 58 c«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id651d56cf-2440-4d83-a74d-fe8f1c330df0" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id88bbadd4-1a5a-43ad-b881-75eec151fbc8">
+        <Explicatus>19.</Explicatus>
+        <Aendring id="id82000e82-fbc8-433e-832c-1c6d8c0ca635">
+          <AendringDefinition id="id4d1b1176-0b5f-4320-b5f0-1b7e11f309e4">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 65 a, stk. 1,</Char>
+                <Char> udgår », 58 a«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9f7393f2-6bdf-428b-b651-05efe9a36d4c" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idbdf0f616-f902-46a8-bca1-17bda8c00b4f">
+        <Explicatus>20.</Explicatus>
+        <Aendring id="id007b1e3b-558a-43a6-b1ca-6c8fc2700982">
+          <AendringDefinition id="idf0d670e1-0368-40d2-a3ca-2c42e6fbc48f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 65 a, stk. 1,</Char>
+                <Char> indsættes efter »for lidt udbetalt pristillæg«: »eller tilskud«, »og 58 b« ændres til: », 58 b og 58 c«, og efter »for meget udbetalt pristillæg« indsættes: »eller tilskud«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id83e7ea38-a0c4-4622-836a-2ca87a22fe00" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id0ba88abd-26e8-4be9-a07e-3f418db4cea1">
+        <Explicatus>21.</Explicatus>
+        <Aendring id="idf6de96a0-7c6b-4288-95fc-f36a7d6309a3">
+          <AendringDefinition id="id34a575a5-a708-47d7-bfe0-7dda3ed8299b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 68 a, stk. 1, 1. pkt.,</Char>
+                <Char> udgår »58 a,« og »59 a,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id27b730ea-9e6c-4456-8848-031d5699c014" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idf670f0f4-9115-4240-9719-5a6919e4089f">
+      <Explicatus>§ 4</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 576 af 18. juni 2012 om ændring af lov om fremme af vedvarende energi, lov om elforsyning, lov om naturgasforsyning og lov om Energinet.dk (Støtte til vindmøller på land, biogas og eksisterende industrielle kraftvarmeværker samt forlængelse af puljen til nye VE-teknologier m.v.), som ændret ved § 5 i lov nr. 1390 af 23. december 2012, § 5 i lov nr. 641 af 12. juni 2013, § 12 i lov nr. 903 af 4. juli 2013 og § 7 i lov nr. 1498 af 23. december 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id1329be68-f5ac-47db-8717-478a34a70e5a">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id45ef3e5f-0d4d-45bc-b6ee-0bab01c2a9f4">
+          <AendringDefinition id="id2bc7fbf2-8171-4db9-a786-d246c19f0b87">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 2, nr. 6,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id751ed61b-2286-4b36-b8f7-acc5bf188401" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id13463c88-2196-4796-a866-9a61bf287843">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id9f889611-18c0-45ba-8de3-63100b4865a3">
+          <AendringDefinition id="idc5c02b28-eb06-4038-88f5-2dcdc980fa08">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 2, nr. 7,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6f86cfd6-06c1-4ee8-be39-775109015a9e" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide92ab4f6-691d-4cde-8707-7399fdbde0a8">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id02199b4f-64a1-45c1-8be3-5ae6f574cf95">
+          <AendringDefinition id="id39569a28-3cf3-4d55-9f56-ae7493bda89e">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 2, nr. 8</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">9,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id773fcc31-4427-4c04-877b-8fda88df170d" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id4b6357b3-48fe-4e03-8437-979f77f72806">
+      <Explicatus>§ 5</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 641 af 12. juni 2013 om ændring af lov om fremme af vedvarende energi, lov om elforsyning og ligningsloven (Rammer for kystnære havvindmøller og revision af værditabs- og køberetsordningerne m.v.), som ændret ved § 3 i lov nr. 900 af 4. juli 2013, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idc3fd78ea-6929-457d-8612-f73d2c6e1c47">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="ida5534763-b07f-4ab2-8596-401a5acd05b7">
+          <AendringDefinition id="id489d3554-9a92-4831-a5ca-44f293617861">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, nr. 21, 27</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">33,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfc96d20c-d48e-48b3-9ff0-246b58b6347f" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idbca5967e-e02a-40c4-b788-9179ce87ec49">
+      <Explicatus>§ 6</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 903 af 4. juli 2013 om ændring af affalds- og råstofafgiftsloven, lov om kuldioxidafgift af visse energiprodukter, lov om afgift af elektricitet, momsloven og forskellige andre love (Nedsættelse af afgifter på el til erhverv, bortfald af CO</Char>
+          <Char formaChar="Subscript">2</Char>
+          <Char>-afgift af el for erhverv, nedsættelse af energiafgifter på brændsler til proces, ændret lagerprincip ved deponering af farligt affald, lempelse af momskredittider samt supplerende støtte til eksisterende industrielle kraft-varme-værker), som ændret ved § 9 i lov nr. 93 af 29. januar 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id73020134-58d2-40a9-a910-265b7b78701b">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idbf859830-f98b-412f-a320-28642fa5009e">
+          <AendringDefinition id="idedb438ad-032e-4f63-bf02-c708a4fcd063">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 8</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1558654d-f59e-4684-b994-13029623b2f5" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida82310fa-1ebb-486c-94c9-d6c689d62aaa">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="ide7c8dd12-2090-4173-9fbb-f9312a224d06">
+          <AendringDefinition id="id5171d557-201f-44a7-9892-da0f94d11da3">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13, stk. 1,</Char>
+                <Char> ændres », 9 og 10« til » og 9«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id81fe1717-9fc1-4ff7-b0a2-152df3651239" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf9f8fbbe-2f39-4a53-8fe9-99201123b295">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id4b0e6269-1d62-4604-8407-360fc9c4b043">
+          <AendringDefinition id="id031af129-aeb8-4d5c-a90b-dff511df15c0">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13, stk. 10,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6e072f81-0032-4bb5-9f1f-1fc6a611d5af" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id620a5a58-c70c-4e1d-9962-0c60d8fc9e09">
+      <Explicatus>§ 7</Explicatus>
+      <Stk id="ida3d1f23a-4516-41c5-aff0-717319401601">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. juli 2015, jf. dog stk. 2-4.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id49bd8fce-5c4a-43d2-a8df-2f2fefa92f88">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 30 og 36, § 3, nr. 2-9, 11, 13-17, 19 og 21, og § 4, nr. 2, træder i kraft den 1. november 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idacd43dd8-545b-4bbe-9dd8-729f270c3c58">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 32, træder i kraft den 1. januar 2016.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idae9a66e4-58b9-4920-94ee-af863263efdc">
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Klima-, energi- og bygningsministeren fastsætter tidspunktet for ikrafttrædelsen af § 3, nr. 10, 12, 18 og 20, og § 6.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id85c4d002-f5e1-4dfa-bd53-6aded1604bd5">
+        <Explicatus>Stk. 5.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Der kan ydes pristillæg efter § 41, stk. 3, § 43 a, stk. 7, § 44, stk. 5, og § 47, stk. 6 og 9, i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 122 af 6. februar 2015, for elektricitet fremstillet på anlæg, som er nettilsluttet den 1. januar 2016 eller senere, hvis projektet er påbegyndt inden den 1. juli 2015, og hvis det forhold, at nettilslutning ikke er opnået inden den 1. januar 2016, ikke kan tilregnes ejeren af anlægget.</Char>
+          </Linea>
+          <Linea>
+            <Char>Har et anlæg, som er omfattet af 1. pkt., en installeret effekt på 500 kW eller derover, er det endvidere en betingelse, at der er truffet afgørelse herom i 2015, og at ansøgning herom er modtaget af Energinet.dk senest den 31. oktober 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id95678697-63cc-49e4-b09e-9c021128ba8b">
+        <Explicatus>Stk. 6.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Elektricitet fra solcelleanlæg, hvor ejeren opfylder betingelserne i § 4, stk. 7-9, i lov nr. 900 af 4. juli 2013, er ikke omfattet af § 47, stk. 7, i lov om fremme af vedvarende energi som affattet ved denne lovs § 1, nr. 18, uanset om anlægget er nettilsluttet den 1. januar 2016 eller senere.</Char>
+          </Linea>
+          <Linea>
+            <Char>Har anlægget en installeret effekt på 500 kW eller derover, er det dog en betingelse, at der er truffet afgørelse om pristillæg i 2015, og at ansøgning herom er modtaget af Energinet.dk senest den 31. oktober 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id924d2fd7-740b-4b54-a1b9-a2fa17609c78">
+        <Explicatus>Stk. 7.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Energinet.dk træffer afgørelse om pristillæg efter stk. 5 og 6.</Char>
+          </Linea>
+          <Linea>
+            <Char>Sådanne afgørelser kan ikke påklages til anden administrativ myndighed end Energiklagenævnet.</Char>
+          </Linea>
+          <Linea>
+            <Char>Klage skal være indgivet skriftligt, inden 4 uger efter at afgørelsen er meddelt.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id0ac36344-6671-453a-a27f-054341db2b2d">
+    <UnderskriftStedDato id="id0ac36344-6671-453a-a27f-054341db2b2d" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id0ac36344-6671-453a-a27f-054341db2b2d" />
+  </UnderskriftGruppe>
+</Dokument>

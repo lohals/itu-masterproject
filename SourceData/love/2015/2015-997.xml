@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="ide6ac772d-8737-44ba-a974-cb27a8ee37e0" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="iddccb32e6-cb8a-4b17-b873-59d7c051e061">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150099730</AccessionNumber>
+    <DocumentId>AN012135</DocumentId>
+    <UniqueDocumentId>174082</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af ligningsloven (Genindførelse af boligjobordningen)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-08-30</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-09-14</EndDate>
+    <Status>Historic</Status>
+    <Number>997</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1162 af 01/09/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 997 af 30/08/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2016-09-13</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Karsten Lauritzen</Signature>
+    <PlaceOfSignature>Givet på Kongeskibet Dannebrog</PlaceOfSignature>
+    <JournalNumber>Skattemin., j.nr. 15-1832372</JournalNumber>
+    <Ministry>Skatteministeriet</Ministry>
+    <AdministrativeAuthority>Skatteministeriet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id14dffb73-5ab2-4f3b-964d-053cfc733c3e">
+    <Titel id="id40434d70-e244-4872-aa4f-921062ca0a68">
+      <Linea>
+        <Char>Lov om ændring af ligningsloven</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id84212c0d-cd1a-48bf-957a-f94cdd453df8">
+      <Linea>
+        <Char>(Genindførelse af boligjobordningen)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="idf3436b36-db5a-4b73-8b14-2413f4bf3130">
+    <Hymne id="id9450c083-f7ba-4ee1-a88b-4be5fc67ed73">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id425884da-c3b5-4c05-b46c-e76a4c6ce172">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I ligningsloven, jf. lovbekendtgørelse nr. 1041 af 15. september 2014, som ændret senest ved § 1 i lov nr. 540 af 29. april 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id7c5191e1-13cc-4a1d-896f-5120429fee3b">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idd08d0fdf-c03e-49c1-b046-82c6a2961dab">
+          <AendringDefinition id="idc441b733-f515-4fd6-b323-0f47b4d773c3">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 7 Å, stk. 3,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id03a05a0f-29c5-403d-b3cb-c9f869458349">
+            <AendringNyTekst>
+              <Stk id="id96a7183f-919a-42f6-bef4-aa3b50e5bcc9">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved opgørelsen af den skattepligtige indkomst medregnes ikke vederlag for arbejde for en privat hvervgiver udført i eller i tilknytning til dennes private hjem til en person, der opfylder alderskravet i lov om social pension til at kunne få folkepension.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er en betingelse, at arbejdet ikke udføres som et led i erhvervsmæssig virksomhed.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Vederlag efter 1. pkt., der inden for et indkomstår overstiger et grundbeløb på 10.000 kr. (2010-niveau), medregnes dog til den skattepligtige indkomst med den del af vederlaget, der overstiger grundbeløbet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Grundbeløbet reguleres efter personskattelovens § 20.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id23f661ac-9001-44d4-a0a2-119fd223a364">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idae102616-5d3c-46e6-9c85-62549c91fb3c">
+          <AendringDefinition id="idfbfed051-3bcd-4580-bf9e-91753b66e733">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 7 Å, stk. 3,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4cb3dafe-8960-4310-a227-77dc02f5aef7">
+            <AendringNyTekst>
+              <Stk id="id6bea28af-8164-4bdf-a3f3-eaca99f4c5b5">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved opgørelsen af den skattepligtige indkomst medregnes ikke vederlag for arbejde for en privat hvervgiver udført i eller i tilknytning til dennes private hjem til en person, der opfylder alderskravet i lov om social pension til at kunne få folkepension.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er en betingelse, at arbejdet ikke udføres som et led i erhvervsmæssig virksomhed eller indberettes som fradragsberettiget ydelse af en privat hvervgiver efter reglerne i § 8 V.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Vederlag efter 1. pkt., der inden for et indkomstår overstiger et grundbeløb på 10.000 kr. (2010-niveau), medregnes dog til den skattepligtige indkomst med den del af vederlaget, der overstiger grundbeløbet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Grundbeløbet reguleres efter personskattelovens § 20.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide99b9f5c-402b-40d6-b79a-52b536f87b94">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id8d72f255-3f5f-4377-a721-e38d3642814f">
+          <AendringDefinition id="id93dd078e-9189-4291-84eb-103218792e83">
+            <Exitus>
+              <Linea>
+                <Char>To steder i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 8 V, stk. 2, nr. 5,</Char>
+                <Char> ændres »31. december 2014« til: »31. december 2015«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd06acf58-1e1b-4dd3-b18b-3af46d0fa8b5">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id54cd3386-a995-47b1-a4e7-5bb3c1550285">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id2b07a2eb-fcea-4d99-947e-37234a00fe42">
+          <AendringDefinition id="idc047862f-df43-4f9c-962d-f914d9d932a5">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 8 V, stk. 4, 3. pkt., </Char>
+                <Char>ændres »1. marts 2015« til: »1. marts 2016«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id81325cd7-bcc6-4f97-9200-c7fb1c37c7c2">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id058c28bc-9554-4b0b-9deb-e870eefa3cc7">
+      <Explicatus>§ 2</Explicatus>
+      <Stk id="id7e76ccad-6a30-439a-bdcc-a7653aab6713">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id900741eb-6138-4157-bb0c-22e70bde64fd">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 2, træder i kraft den 1. januar 2016.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id258ad54e-c652-447e-bee8-fc0e72938c6a">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 1, 3 og 4, har virkning fra og med den 1. januar 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idddcaaf58-69b8-4911-bf6c-504d4669dba5">
+    <UnderskriftStedDato id="idddcaaf58-69b8-4911-bf6c-504d4669dba5" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="idddcaaf58-69b8-4911-bf6c-504d4669dba5" />
+  </UnderskriftGruppe>
+</Dokument>

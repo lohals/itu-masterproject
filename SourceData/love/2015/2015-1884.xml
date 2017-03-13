@@ -1,0 +1,851 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idef27529a-e77f-4782-875a-65334b3e724f" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idcebc04d1-d635-4a09-ac7a-610822c495fa">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150188430</AccessionNumber>
+    <DocumentId>AN012390</DocumentId>
+    <UniqueDocumentId>176725</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af skattekontrolloven, arbejdsmarkedsbidragsloven, kildeskatteloven, ligningsloven og pensionsbeskatningsloven (Indførelse af land for land-rapportering for store multinationale koncerner, gennemførelse af ændring af direktiv om administrativt samarbejde på beskatningsområdet m.v.)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-12-29</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-09-14</EndDate>
+    <Status>Valid</Status>
+    <Number>1884</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 117 af 29/01/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1162 af 01/09/2016</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1884 af 29/12/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <EuReferences>32014L0107</EuReferences>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Karsten Lauritzen</Signature>
+    <PlaceOfSignature>Givet på Marselisborg Slot</PlaceOfSignature>
+    <JournalNumber>Skattemin., j.nr. 15-1342223</JournalNumber>
+    <Ministry>Skatteministeriet</Ministry>
+    <AdministrativeAuthority>SKAT</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="ided77234c-f4bc-4d6f-a111-d4f3d02099b8">
+    <Titel id="id485ba322-569f-44c2-9e52-20d9fb65bc53">
+      <Linea>
+        <Char>Lov om ændring af skattekontrolloven, arbejdsmarkedsbidragsloven, kildeskatteloven, ligningsloven og pensionsbeskatningsloven</Char>
+      </Linea>
+      <Nota id="id0cd3b0c3-9121-4f92-8046-e80be6202fdb" formaNo="EU">
+        <Explicatus>1)</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 2014/107/EU af 9. december 2014 om ændring af direktiv 2011/16/EU for så vidt angår obligatorisk automatisk udveksling af oplysninger på beskatningsområdet, EU-Tidende 2014, nr. L 359, side 1.</Char>
+          </Linea>
+        </Exitus>
+      </Nota>
+    </Titel>
+    <UnderTitel id="iddee2a680-8e95-4682-baaf-069fb69e8f5b">
+      <Linea>
+        <Char>(Indførelse af land for land-rapportering for store multinationale koncerner, gennemførelse af ændring af direktiv om administrativt samarbejde på beskatningsområdet m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="ide56312ac-9bd6-48eb-b046-17b59ee25a8e">
+    <Hymne id="ida6ba0670-c42d-481e-82bf-5f1aa1cf3856">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="ida1be6f05-b3e6-4d74-92a3-1a58505eb838">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I skattekontrolloven, jf. lovbekendtgørelse nr. 1264 af 31. oktober 2013, som ændret bl.a. ved § 1 i lov nr. 1634 af 26. december 2013 og § 2 i lov nr. 1376 af 16. december 2014 og senest ved § 4 i lov nr. 739 af 1. juni 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id93c4b25c-8266-424e-a7b5-064da0caa9af">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id65f8f79e-94c0-45a8-94ba-da04c3e67f9c">
+          <AendringDefinition id="id0a47a8a4-cd83-42b9-a222-e5f72d4e5e48">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">Fodnoten</Char>
+                <Char> til lovens titel affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9a1cc46e-a7ec-4484-8d56-b020e2ff6afc">
+            <AendringNyTekst>
+              <Exitus id="id7968eaca-d595-45d6-a643-c30dcb542ecb">
+                <Index>
+                  <Indentatio id="id9b97f569-47b1-42f6-bbc7-5d3ff504c838" formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 2011/16/EU af 15. februar 2011 om administrativt samarbejde på beskatningsområdet og om ophævelse af direktiv 77/799/EØF, EU-Tidende 2011, nr. L 64, side 1, som ændret ved Rådets direktiv 2014/107/EU af 9. december 2014 om ændring af direktiv 2011/16/EU for så vidt angår obligatorisk automatisk udveksling af oplysninger på beskatningsområdet, EU-Tidende 2014, nr. L 359, side 1.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="iddff153bb-670e-44b0-a3ab-8c26fa9e46fd">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id9dd43d02-a7ea-4488-a7ea-36e9ad4226cf">
+          <AendringDefinition id="id6eb5a2e0-965c-4e74-bed7-17ac8ee37af9">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Bold">
+                </Char>
+                <Char formaChar="Italic">§ 3 B </Char>
+                <Char>indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 10-16:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id93c18c66-5400-4b8e-bb02-f41fecf197fa">
+            <AendringNyTekst>
+              <Stk id="idbc68cff3-d139-4990-b7b0-191c16a4d6a7">
+                <Explicatus>Stk. 10.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Enhver multinational koncerns ultimative moderselskab, som er skattemæssigt hjemmehørende i Danmark efter selskabsskattelovens § 1 eller fondsbeskatningslovens § 1, skal til told- og skatteforvaltningen indgive en land for land-rapport for et indkomstår, hvis koncernen har en konsolideret omsætning på mindst 5,6 mia. kr. i regnskabsåret forud for det indkomstår, der skal rapporteres for.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Land for land-rapporten skal indgives senest 12 måneder efter den sidste dag i det indkomstår, som land for land-rapporten skal indgives for.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id07e24402-d6d2-425d-8c28-cf2cd37caa3b">
+                <Explicatus>Stk. 11.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et koncernselskab, som ikke er det ultimative moderselskab, skal indgive land for land-rapporten i overensstemmelse med stk. 10, hvis</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Exitus id="ida8100d98-a05a-4c9e-9118-0256d91cc86f">
+                <Index>
+                  <Indentatio id="id2434ae0f-8a11-4533-88a8-c88c7b131793" formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>koncernselskabet er skattemæssigt hjemmehørende i Danmark efter selskabsskattelovens § 1 og</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id7023e1ed-195a-4d90-b73d-61f02df06add" formaInd="Nummer">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>en eller flere af følgende betingelser er opfyldt:</Char>
+                      </Linea>
+                    </Exitus>
+                    <Exitus id="id6e20620d-2e99-49e5-92e1-8429cffa3c56">
+                      <Index>
+                        <Indentatio id="idf94bb50a-cdf9-4bce-8e47-dd498e0f5ad4" formaInd="Litra">
+                          <Explicatus>a)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Koncernens ultimative moderselskab er ikke forpligtet til at indgive land for land-rapporten i det land, hvor det er hjemmehørende,</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio id="id4f383d81-7979-490a-8f74-894f4abf50f0" formaInd="Litra">
+                          <Explicatus>b)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>der sker ikke automatisk udveksling af land for land-rapporterne, som følge af at der ikke eksisterer en aftale mellem de kompetente myndigheder i Danmark og den jurisdiktion, hvor det ultimative moderselskab er hjemmehørende, selv om der er en international aftale om udveksling af skatteoplysninger, eller</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio id="id956b7fc7-6e28-4018-8fe3-7750e4a4077a" formaInd="Litra">
+                          <Explicatus>c)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>der er en systematisk fejl vedrørende den jurisdik­ti‌on, hvor det ultimative moderselskab har skattemæssigt hjemsted, og told- og skatteforvaltningen har meddelt koncernselskabet omfattet af nr. 1 dette.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                      </Index>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+              <Stk id="idfd0e738c-736f-4811-83c5-abc09486b2bb">
+                <Explicatus>Stk. 12.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis en eller flere af betingelserne i stk. 11, nr. 2, er opfyldt og der er mere end ét dansk koncernselskab, jf. stk. 11, nr. 1, skal koncernselskaberne udvælge et af kon­cern­selskaberne som ansvarligt for indgivelse af land for land-rapporten til told- og skatteforvaltningen i overensstemmelse med stk. 10.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Udvælgelsen skal meddeles told- og skatteforvaltningen, jf. stk. 14, 1. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id252a1273-1999-4f04-8990-cbb471cac025">
+                <Explicatus>Stk. 13.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et koncernselskab er ikke forpligtet til at indgive en land for land-rapport til told- og skatteforvaltningen, selv om en eller flere af betingelserne i stk. 11, nr. 2, er opfyldt, hvis den multinationale koncern indgiver en land for land-rapport for det pågældende indkomstår gennem et stedfortrædende moderselskab til den skattemyndighed, hvor det stedfortrædende moderselskab er skattemæssigt hjemmehørende, og følgende betingelser er opfyldt:</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Exitus id="id77b18f54-709b-4eda-aef3-131baab19ff7">
+                <Index>
+                  <Indentatio id="id970f6425-e7b9-4b4f-aaaa-16b7d9e36916" formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Den jurisdiktion, hvor det stedfortrædende moderselskab er skattemæssigt hjemmehørende, kræver indgivelse af land for land-rapportering.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="idf068e2f7-07e3-42df-be43-1379f037e137" formaInd="Nummer">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Den jurisdiktion, hvor det stedfortrædende moderselskab er skattemæssigt hjemmehørende, har en inter­na­tio­nal aftale om udveksling af oplysninger med Danmark, og der sker automatisk udveksling af land for land-rapporter i henhold til en aftale mellem de kompetente myndigheder.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id7acb487e-15be-43e3-a7b4-2d54d96ae147" formaInd="Nummer">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Der er ikke en systematisk fejl vedrørende den jurisdiktion, hvor det stedfortrædende moderselskab er skattemæssigt hjemmehørende, eller told- og skatteforvaltningen har undladt at meddele en systematisk fejl til koncernselskabet.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id46538185-c8af-46af-b489-3752ec3d5621" formaInd="Nummer">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Den jurisdiktion, hvor det stedfortrædende moderselskab er skattemæssigt hjemmehørende, har modtaget en meddelelse, jf. stk. 14, 1. pkt., fra et koncernselskab, som er skattemæssigt hjemmehørende i samme jurisdiktion som det stedfortrædende moderselskab om, at koncernselskabet skal betragtes som det stedfortrædende moderselskab.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="idb46880b0-3fd6-4800-83d4-450b6402781b" formaInd="Nummer">
+                    <Explicatus>5)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>En meddelelse er blevet givet til told- og skatteforvaltningen, jf. stk. 14, 2. pkt.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+              <Stk id="id8dd3e980-1cc2-4d08-9f8a-d49a25e422e8">
+                <Explicatus>Stk. 14.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et ultimativt moderselskab, jf. stk. 10, eller et dansk stedfortrædende moderselskab, jf. stk. 11, i en multinational koncern skal senest inden udgangen af det indkomstsår, for hvilket land for land-rapporteringen skal indgives, meddele told- og skatteforvaltningen, at det er forpligtet til at indgive rapporten.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Er koncernselskabet i en multinational koncern ikke det ultimative moderselskab eller det stedfortrædende moderselskab, skal koncernselskabet senest inden udgangen af det indkomstår, for hvilket land for land-rapporteringen skal indgives, meddele told- og skatteforvaltningen, hvilket koncernselskab der er forpligtet til at indgive land for land-rapporten, og hvor dette koncernselskab er skattemæssigt hjemmehørende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id74d948ac-a704-4c9b-b0e5-7085181a3556">
+                <Explicatus>Stk. 15.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved følgende begreber i stk. 10-14 forstås:</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Exitus id="idbf54f2b7-24f3-48b7-b5ec-286484d4b71b">
+                <Index>
+                  <Indentatio id="id4cda3455-5c99-497a-96c7-8ed2daf58cbc" formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Koncern: en gruppe af virksomheder, der er forbundet med hinanden gennem ejerskab eller kontrol, således at de skal udarbejde et konsolideret koncernregnskab efter de årsregnskabsregler, der anvendes af koncernen, eller skulle have udarbejdet et sådant, hvis et eller flere af selskaberne var børsnoterede.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="idb25dc73e-b712-4954-ba59-863daad26520" formaInd="Nummer">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Multinational koncern: en koncern, der har koncernselskaber i mere end én skattejurisdiktion.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id5e34cdea-d335-4849-a983-f432d202baaa" formaInd="Nummer">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Koncernselskab:</Char>
+                      </Linea>
+                    </Exitus>
+                    <Exitus id="idb943d9be-e576-4dbe-b4d0-ac57223b3021">
+                      <Index>
+                        <Indentatio id="id700e9d59-72ab-48f6-8e0f-a85b6f5f94ed" formaInd="Litra">
+                          <Explicatus>a)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Enhver virksomhed i den multinationale koncern, som optræder som en separat enhed i det konsoliderede koncernregnskab eller ville have optrådt sådan, hvis koncernen skulle have udarbejdet et konsolideret koncernregnskab, hvis et eller flere af selskaberne var børsnoterede.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio id="id7027a043-fb10-49fa-8aa5-b950c936f3a0" formaInd="Litra">
+                          <Explicatus>b)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Enhver virksomhed, der er undladt i det konsoliderede koncernregnskab alene på grund af virksomhedens størrelse eller uvæsentlighed.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio id="id6990cc38-fa91-47c5-8e98-472be8c5fcbd" formaInd="Litra">
+                          <Explicatus>c)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Ethvert fast driftssted af en virksomhed omfattet af litra a eller b, hvis der udarbejdes et separat regnskab for det faste driftssted af hensyn til aflæggelse af årsregnskab eller skatteregnskab eller af hensyn til eksterne tilsynsformål eller koncerninterne managementkontrolformål.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                      </Index>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+              <Exitus id="id30cde00c-2018-4b4c-82f2-6f3397d7e684">
+                <Index>
+                  <Indentatio id="idabec33f7-7f10-4e1a-ba04-67afeb4f7022" formaInd="Nummer">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Ultimativt moderselskab: et koncernselskab, der i en multinational koncern opfylder følgende kriterier:</Char>
+                      </Linea>
+                    </Exitus>
+                    <Exitus id="idafc93146-0f78-4cf6-854f-f59975ba4ee7">
+                      <Index>
+                        <Indentatio id="ide5f3e79e-4484-418a-be44-3062ad839237" formaInd="Litra">
+                          <Explicatus>a)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Det har direkte eller indirekte tilstrækkelig indflydelse over et eller flere andre koncernselskaber i den multinationale koncern, hvorved selskabet er forpligtet til at udarbejde et konsolideret kon­cern­regnskab efter de regler, der gælder, hvor det er skattemæssigt hjemmehørende, eller skulle have udarbejdet et sådant, hvis det var børsnoteret.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio id="id7bbe578b-44e3-416b-a307-904302c9000f" formaInd="Litra">
+                          <Explicatus>b)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Der er ikke et andet koncernselskab i den mul­ti­na­ti‌onale koncern, som direkte eller indirekte har tilstrækkelig indflydelse over selskabet nævnt i litra a.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                      </Index>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+              <Exitus id="ida5a454b9-2492-4189-8945-ca7ec9c0fd90">
+                <Index>
+                  <Indentatio id="id22081767-a394-474a-acec-b69c462cce5e" formaInd="Nummer">
+                    <Explicatus>5)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Omsætning: indtægter, der opstår i forbindelse med en virksomheds ordinære drift, herunder varesalg, levering af tjenesteydelser, honorarer, renter, udbytte og royalties.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="idb597dfd3-cf76-419c-9061-e2c8671795ab" formaInd="Nummer">
+                    <Explicatus>6)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Stedfortrædende moderselskab: et koncernselskab, der i overensstemmelse med stk. 12 er udpeget til at indgive land for land-rapporten i det land, hvor det er skattemæssigt hjemmehørende, når en eller flere af betingelserne i stk. 11, nr. 2, er opfyldt.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id77505dc3-a4ef-4037-8b1a-7b70e4fb3f0e" formaInd="Nummer">
+                    <Explicatus>7)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Aftale mellem de kompetente myndigheder: en international aftale mellem de kompetente skattemyndigheder i de relevante jurisdiktioner, som kræver automatisk udveksling af land for land-rapporter mellem landene.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id01b04000-bd05-4d4e-92a1-64e370a9d858" formaInd="Nummer">
+                    <Explicatus>8)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>International aftale om udveksling af skatteoplysninger: enhver dobbeltbeskatningsoverenskomst, anden international overenskomst eller konvention eller administrativt indgået aftale om bistand i skattesager, der medfører, at der mellem Danmark og en eller flere jurisdiktioner kan udveksles skatteoplysninger, herunder automatisk udveksling af oplysninger.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id48e28819-2723-4d34-9a20-a6414e1e4192" formaInd="Nummer">
+                    <Explicatus>9)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Systematisk fejl vedrørende en jurisdiktion: når der eksisterer en aftale mellem de kompetente myndigheder i Danmark og den pågældende jurisdiktion, men jurisdiktionen har suspenderet den automatiske udveksling af andre grunde end dem, der er fastsat i aftalen mellem de kompetente myndigheder, eller på anden måde gentagne gange har undladt automatisk at udveksle land for land-rapporter med Danmark i tilfælde, hvor den multinationale koncern har koncernselskaber i Danmark.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+              <Stk id="id9268256b-20f8-4320-9a44-62bee156cc87">
+                <Explicatus>Stk. 16.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skatteministeren kan fastsætte nærmere regler om land for land-rapporten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idaed91d9a-00ff-4fac-bcaf-b68acea34def">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id0009ba5f-eb94-4cd9-8fd9-cbee3c976cc5">
+          <AendringDefinition id="idc1ef47a5-a8e8-4546-89dd-01b16a10438f">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 8 X</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8c3c0f22-fbc3-49da-b546-31b88cec89c8">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide55d6ef3-127c-4c5f-bc36-e97acf09d833">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="idd2790768-541b-479f-ae1a-e06044dc7c6c">
+          <AendringDefinition id="id6ce6bab5-71fa-47fc-bf6f-858c6e35c1c2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 8 Å </Char>
+                <Char>indsættes som </Char>
+                <Char formaChar="Italic">stk. 7 </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">8:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5c1901cf-ac99-470a-bc22-bafb23cce528">
+            <AendringNyTekst>
+              <Stk id="idfb560179-4b0d-460b-8b61-fea1680a2757">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En person, som der skal indberettes oplysninger om efter regler udstedt i medfør af stk. 1 og 2, underrettes om brud på sikkerheden med hensyn til oplysninger om vedkommende, når det er sandsynligt, at dette brud kan skade beskyttelsen af personoplysninger om den pågældende eller vedkommendes privatliv.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id49f6acd9-ad4e-4343-9eff-de1d8c4657f2">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finansielle institutter, der er indberetningspligtige, skal underrette hver enkelt person, hvorom der skal indberettes efter regler udstedt i medfør af stk. 1 og 2 om, at oplysningerne om vedkommende vil blive indsamlet og videregivet i overensstemmelse med regler udstedt i medfør af stk. 1, 3, 5 og 6, og skal give disse personer alle de oplysninger, som vedkommende har ret til i henhold til persondatalovens §§ 28 og 29, i tilstrækkelig god tid til, at personen kan udøve sine databeskyttelsesrettigheder, og under alle omstændigheder inden det finansielle institut indberetter oplysninger om den pågældende til Told- og Skatteforvaltningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id93547684-2574-4112-999e-2bcf96a77c70">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id90de82a8-94e7-4a0f-8093-e69e06bdbe55">
+          <AendringDefinition id="id7734a104-05dc-44ff-981b-6acfb1e481d2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 9, stk. 1,</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic">§ 9 A, stk. 1 </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 3,</Char>
+                <Char> udgår »§ 8 X, stk. 1,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2628fded-8117-4d01-be8c-d037968c40a2">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id464203b4-a402-4c7c-8cd7-e09cf2d38eec">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="idd8bb31f0-305d-4172-9d8f-9268f1d6552d">
+          <AendringDefinition id="id54e259c6-15bf-4cf0-8193-4db04cb09cf0">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 10 E, stk. 1,</Char>
+                <Char> udgår »8 X,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ideee93284-bc40-4881-8aa6-a5d83f234192">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id249923c7-2487-416d-8e15-45f5674452c4">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id1d610d48-7b0f-49b4-a657-af1c53f0e0f8">
+          <AendringDefinition id="idf4d4e927-a7ce-4f92-894f-97588dac761c">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 11, stk. 1, nr. 1,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd3121905-5edc-4e3d-8441-c98f710b67a3">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id43881e07-34a0-4edd-945c-843df5e4306d">
+          <Exitus>
+            <Linea>
+              <Char>Nr. 2-5 bliver herefter nr. 1-4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id3df09b39-84f9-48f1-937e-8cd58d130c9b">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id6019ce72-cfe4-4dab-a343-d4ace253a6c2">
+          <AendringDefinition id="ida814b1b0-d93a-4fbb-b9c6-6ea350af2e4c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 11, stk. 1, nr. 2, </Char>
+                <Char>der bliver stk. 1, nr. 1, indsættes efter »direktiv 77/799/EØF«: », som ændret ved Rådets direktiv 2014/107/EU af 9. december 2014 om ændring af direktiv 2011/16/EU for så vidt angår obligatorisk automatisk udveksling af oplysninger på beskatningsområdet«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida10cdfbf-b062-43aa-a120-ace0e1c274c7">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf30d69ac-525c-418b-a383-3c4a90452d16">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="id6177c043-deda-430c-8254-ad9891fe37b6">
+          <AendringDefinition id="id8df8c3c2-e4cb-419f-9bd9-f9de4f9c64e3">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 11, stk. 2,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide4ac803b-c647-4c38-bf89-ad0b6dfb001e">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idf24f74f6-d70d-494f-bc29-5201aab87df9">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 bliver herefter stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="idf41f5dd9-6195-4c8d-85a7-53dfd84cc54e">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="iddffb0d25-8346-42ef-a389-9712486898bb">
+          <AendringDefinition id="idf37df589-e95c-4de3-83f7-0134e19ad7b3">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 11, stk. 3,</Char>
+                <Char> der bliver stk. 2, ændres »nr. 2-5« til: »nr. 1-4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id151e245b-74ca-447d-8199-4117fa647acd">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id82243a81-fddd-4884-a841-0b011acb33e7">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="id79e60374-6425-4055-bf58-c682eebd5303">
+          <AendringDefinition id="idb817a4fd-d959-4da4-92a1-dd2028d94241">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 11 A, stk. 2, nr. 4,</Char>
+                <Char> ændres »i direktiv 2003/48/EF om beskatning af indtægter fra opsparing i form af rentebetalinger eller aftaler efter dette direktiv« til: »i Rådets direktiv 2011/16/EU af 15. februar 2011 om administrativt samarbejde på beskatningsområdet og om ophævelse af direktiv 77/779/EØF som ændret ved direktiv 2014/107/EU af 9. december 2014 om ændring af direktiv 2011/16/EU for så vidt angår obligatorisk automatisk udveksling af oplysninger på beskatningsområdet samt tilsvarende aftaler om indsamling og udveksling af oplysninger«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id438ba097-6595-476a-9037-2f2da78efcac">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide31122d1-2abd-4c82-98c8-52615466bef6">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="id5eb2ad49-d3e3-4e1f-8163-f6a42f6f1029">
+          <AendringDefinition id="id5afa7a5e-d218-44f2-8c33-089bc64a9c35">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Italic"> § 14, stk. 2,</Char>
+                <Char> udgår »§ 8 X,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id58be5519-6876-4a43-9fb1-099e75d068bb">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id042b64b8-42ee-457b-9d32-563201f27fd1">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="id9a56caed-2235-4694-82d7-805799b0853a">
+          <AendringDefinition id="id80e8318b-f366-45f7-b5da-fddd47945be6">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 17, stk. 3,</Char>
+                <Char> ændres »§ 3 B, stk. 5 og 6,« til: »§ 3 B, stk. 5, 6, 10 og 11,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id53e3fe31-2cb6-4eab-92bc-640d6a9a1df3">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id335cd206-efe6-49ec-a12c-8f3e28502f5e">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I arbejdsmarkedsbidragsloven, lov nr. 471 af 12. juni 2009, som ændret ved § 3 i lov nr. 1278 af 16. december 2009, § 4 i lov nr. 1382 af 28. december 2011 og § 4 i lov nr. 1500 af 18. december 2013, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idf9b2495e-ce7f-4ae3-b397-1c2125ec4d65">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id91c063a6-d39f-4229-a7ad-0f41ca9e9b67">
+          <AendringDefinition id="ide477acaa-edbb-440a-a4ea-cd9b5ea56b4a">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 6, stk. 2, 3. pkt., </Char>
+                <Char>ændres »kildeskattelovens § 60, stk. 1, litra j« til: »kildeskattelovens § 60, stk. 1, litra i«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7801640e-c27f-44a2-be59-e0b1917373d3">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id692b753a-66ed-4c8a-81f6-26c399405776">
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I kildeskatteloven, jf. lovbekendtgørelse nr. 1403 af 7. december 2010, som ændret bl.a. ved § 11 i lov nr. 118 af 7. februar 2012, § 3 i lov nr. 922 af 18. september 2012 og § 2 i lov nr. 1354 af 21. december 2012 og senest ved § 1 i lov nr. 202 af 27. februar 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id02581aac-9537-416c-8f56-c2c751cd9676">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idfb0fd5d1-6b9b-4a3d-bd36-5a7d2b451032">
+          <AendringDefinition id="id44b9bd38-5c19-4c33-bfca-a46e897afc90">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">Fodnoten</Char>
+                <Char> til lovens titel ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1a504b18-7332-4976-8a99-ed6e97a1e0c0">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id6657a228-afda-4979-b0c2-157012052bbc">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id59373380-6103-4b48-91e7-5cf596f0a30a">
+          <AendringDefinition id="id92105831-7071-4ee3-af10-e6b0654ff5d6">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 60, stk. 1, litra h,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc30e04fb-c338-41c7-8c81-fa4672a9e343">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idd2a8725b-e193-4e2b-a62d-ecdbbb2ae5f0">
+          <Exitus>
+            <Linea>
+              <Char>Litra i-l bliver herefter litra h-k.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="idebfe2d71-b490-44be-af22-8b6d1dcf7eef">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="idf6aac8a1-5532-4c7b-9713-9e358630b33b">
+          <AendringDefinition id="idd3b9ec6a-ce9d-4824-88ee-560a26d41323">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 60, stk. 2,</Char>
+                <Char> ændres »litra k og l« til: »litra j og k«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd0196b6d-a706-4e87-b131-f2a3a228f167">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2666ecdd-9e9e-4737-acd1-5d82ff16ed9d">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id55d5dbfd-174e-4cd2-bd94-c7579c18f735">
+          <AendringDefinition id="id3edfcdd0-789f-432b-b7c8-e541125e81d1">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 62 D, stk. 3,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 88, stk. 2,</Char>
+                <Char> ændres »EF's bistandsdirektiv (Rådets direktiv nr. 2011/16/EU af 15. februar 2011)« til: »Rådets direktiv 2011/16/EU af 15. februar 2011 om administrativt samarbejde på beskatningsområdet og om ophævelse af direktiv 77/799/EØF som ændret ved Rådets direktiv 2014/107/EU af 9. december 2014 om ændring af direktiv 2011/16/EU for så vidt angår obligatorisk automatisk udveksling af oplysninger på beskatningsområdet,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd58f9d11-9d30-4a47-8112-fd80f4b44b5d">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id7bd25e95-a3a9-4170-b7a8-6a164f77d234">
+      <Explicatus>§ 4</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I ligningsloven, jf. lovbekendtgørelse nr. 1081 af 7. september 2015, som ændret ved lov nr. 997 af 30. august 2015, og § 5 i lov nr. 1574 af 15. december 2015, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id5594c21c-2a61-4a5c-bc7e-b9da2667922e">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id17674ca2-d710-4846-b064-5d295fcf6b43">
+          <AendringDefinition id="id973ba26c-9b8d-470e-9f6c-908317b84fc8">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 16 H, stk. 2, 2. pkt., </Char>
+                <Char>ændres »bistandsdirektivet« til: »Rådets direktiv 2011/16/EU af 15. februar 2011 om administrativt samarbejde på beskatningsområdet og om ophævelse af direktiv 77/799/EØF som ændret ved Rådets direktiv 2014/107/EU af 9. december 2014 om ændring af direktiv 2011/16/EU for så vidt angår obligatorisk automatisk udveksling af oplysninger på beskatningsområdet,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idbe487943-f714-41bb-b1cd-bf528e6321f5">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id303c932c-5b29-49b5-8524-4179752bbbfe">
+      <Explicatus>§ 5</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I pensionsbeskatningsloven, jf. lovbekendtgørelse nr. 1088 af 3. september 2015, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id63fe84c9-ad3e-40c3-87f2-5ad6cc96c53a">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idb2260708-42e7-45de-8bf0-bdd840528d35">
+          <AendringDefinition id="idcd30b6dd-83bb-4afb-ad4c-9d82431b6d37">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 15 C, stk. 1, nr. 6, </Char>
+                <Char>ændres </Char>
+                <Char formaChar="Italic">»</Char>
+                <Char>direktivet om gensidig bistand mellem medlemsstaternes kompetente myndigheder inden for området direkte skatter, visse punktafgifter og afgiftsbelastning af forsikringspræmier« til: »Rådets direktiv 2011/16/EU af 15. februar 2011 om administrativt samarbejde på beskatningsområdet og om ophævelse af direktiv 77/799/EØF som ændret ved Rådets direktiv 2014/107/EU af 9. december 2014 om ændring af direktiv 2011/16/EU for så vidt angår obligatorisk automatisk udveksling af oplysninger på beskatningsområdet, Rådets forordning (EU) nr. 389/2012 af 2. maj 2012 om administrativt samarbejde på punktafgiftsområdet og om ophævelse af fordning (EF) nr. 2073/2004«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id08da70cc-5101-4906-8eb3-ee6d3c9a15b7">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id1f9fe834-a33a-44f9-9f25-538095d7c41f">
+      <Explicatus>§ 6</Explicatus>
+      <Stk id="idd033851d-0043-4662-a0bd-c702376ae07f">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2016, jf. dog stk. 3 og 4.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id48ec3b0f-f531-421f-933b-1bc1dce07769">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Lovens § 1, nr. 2 og 13, har virkning for indkomstår, der påbegyndes den 1. januar 2016 eller senere.</Char>
+          </Linea>
+          <Linea>
+            <Char>Skattekontrollovens § 3 B, stk. 11, som affattet ved denne lovs § 1, nr. 2, har dog først virkning for indkomstår, der påbegyndes den 1. januar 2017 eller senere.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id6671d89e-344b-4446-9eb0-d619c8dfdc0a">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Lovens § 1, nr. 3, for så vidt angår ophævelsen af skattekontrollovens § 8 X, stk. 1-3, 5 og 6, og lovens § 1, nr. 5-10 og 12, træder i kraft den 1. juli 2016 og har virkning for indberetning og udveksling af oplysninger for 2016 og senere.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="ida10ffe21-e5e0-4622-8e36-dd8de66637ed">
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Lovens § 2, nr. 1, og § 3, nr. 1-3, træder i kraft den 1. januar 2017.</Char>
+          </Linea>
+          <Linea>
+            <Char>Kildeskattelovens § 60, stk. 1, litra h, som affattet ved lovbekendtgørelse nr. 1403 af 7. december 2010, finder anvendelse på skatteansættelser, der vedrører perioden til og med den 31. december 2016.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idb95f0b80-2580-42ac-9e57-018820edf86d">
+    <UnderskriftStedDato id="idb95f0b80-2580-42ac-9e57-018820edf86d" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="idb95f0b80-2580-42ac-9e57-018820edf86d" />
+  </UnderskriftGruppe>
+</Dokument>

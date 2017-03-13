@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="iddb8d2de3-67e6-47e7-a6c5-7fb3a2e6afde" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id41e70040-8ec8-453e-8815-a40b0e4f48cc">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150188130</AccessionNumber>
+    <DocumentId>AA009413</DocumentId>
+    <UniqueDocumentId>176843</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om Politiets Efterretningstjeneste (PET) og toldloven (Politiets Efterretningstjenestes adgang til oplysninger om flypassagerer i terrorsager m.v. og SKATs håndtering af oplysninger om flypassagerer i forbindelse med toldkontrol m.v.)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-12-29</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-03-10</EndDate>
+    <Status>Valid</Status>
+    <Number>1881</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 231 af 07/03/2017</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1881 af 29/12/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Søren Pind</Signature>
+    <PlaceOfSignature>Givet på Marselisborg Slot</PlaceOfSignature>
+    <JournalNumber>Justitsmin., j.nr. 2015-731-0047 </JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id4d5ac1f0-4537-467e-a7b9-eb57aca7a6b5">
+    <Titel id="idee36d5ba-689a-4913-9ec8-1d31228a4c9a">
+      <Linea>
+        <Char>Lov om ændring af lov om Politiets Efterretningstjeneste (PET) og toldloven</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id53ae273f-094b-460b-8f14-033f98f3e1f6">
+      <Linea>
+        <Char>(Politiets Efterretningstjenestes adgang til oplysninger om flypassagerer i terrorsager m.v. og SKATs håndtering af oplysninger om flypassagerer i forbindelse med toldkontrol m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id534fbb0e-1cf5-43d3-8d79-f6fa38f74c35">
+    <Hymne id="idedd9d749-3e33-4d19-9fd5-ac71a11b00bc">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="iddc0c727e-68b4-4085-b1ae-648573b77f3b">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om Politiets Efterretningstjeneste (PET), jf. lovbekendtgørelse nr. 1600 af 19. december 2014, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id4dfe30ab-16c2-4fde-9b74-956d6a9eabc1">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id4a5c3f7b-e20e-47ba-ae8c-78d71adf4ddc">
+          <AendringDefinition id="idfce7c162-aa9e-4b6b-aad6-6bc8a8496833">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2 </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc7f24c8e-5d27-4cf7-9afe-d2471cd348f3">
+            <AendringNyTekst>
+              <Stk id="idd30a77f3-4ed3-4f2e-ab7a-2b76db122170">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Told- og skatteforvaltningen skal videregive oplysninger om passagerer og besætning på luftfartøjer til Politiets Efterretningstjeneste, hvis tjenesten vurderer, at oplysningerne kan have betydning for varetagelse af tjenestens opgaver vedrørende forebyggelse og efterforskning af overtrædelser af straffelovens kapitel 12 og 13.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6c6c3754-a7dc-4952-8fd3-57b07c2d0fcb">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Justitsministeren kan efter forhandling med skatteministeren fastsætte regler om, hvordan oplysninger efter stk. 2 skal stilles til rådighed for Politiets Efterretningstjeneste.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id039950c3-90cb-4e2f-8873-4a3ad0899e9b">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I toldloven, jf. lovbekendtgørelse nr. 867 af 13. september 2005, som ændret bl.a. ved lov nr. 1573 af 20. december 2006 og senest ved § 8 i lov nr. 1637 af 26. december 2013, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id17ac529a-a8ae-418b-82b1-e8f738312c5e">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id50d663b6-a88a-44db-b83f-73446aab7bb3">
+          <AendringDefinition id="ida4d6793f-a7d7-45cb-bf22-2e8f884d7722">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Bold Italic">
+                </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 17 </Char>
+                <Char>indsættes efter stk. 3 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb7e7d00a-8116-4eab-bffd-b1b3e57cb4c3">
+            <AendringNyTekst>
+              <Stk id="idb37062eb-149d-4302-aff5-418685e37120">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Virksomheder, der driver trafik med luftfartøjer, har pligt til at give oplysninger om passagerer og besætning på luftfartøjer, som virksomhederne er i besiddelse af, til told- og skatteforvaltningen til brug for udøvelse af toldkontrol samt forebyggelse og efterforskning af overtrædelser af straffelovens kapitel 12 og 13.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id8a4f922e-d171-443e-95bc-31f81ce14cfd">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 4 bliver herefter stk. 5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="idb769b92d-a408-4ce7-b955-7bb7f447d732">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id24b1d645-d22e-4ad6-a530-a216b8fd4d57">
+          <AendringDefinition id="id6823f52b-a068-4c61-b4ad-1afccc691047">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Bold Italic">
+                </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 17 </Char>
+                <Char>indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 6:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7ba4a468-3428-49a4-a263-f624e6520261">
+            <AendringNyTekst>
+              <Stk id="id9c9e80c7-5ef6-42e8-9158-e9d10684d5e2">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skatteministeren fastsætter efter forhandling med justitsministeren nærmere regler om oplysningsforpligtelsen efter stk. 4, herunder hvordan oplysningerne stilles til rådighed for told- og skatteforvaltningen, og med hvilke intervaller oplysningerne skal meddeles.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der kan endvidere fastsættes regler om told- og skatteforvaltningens behandling af de oplysninger, der modtages.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2e1827d7-8163-4eab-bf79-b83c249b1547">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id80380e76-6e95-418c-8a62-c2f3edb5f8a0">
+          <AendringDefinition id="id986914af-fe75-4b6c-b797-fb50fb2874b7">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 79, nr. 1 </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 2,</Char>
+                <Char> ændres »§ 17, stk. 1,« til: »§ 17, stk. 1 og 4,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5a17ea22-060a-4350-8483-c1e864fe71e4">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id5679e43f-0c16-4bbc-bb00-aa72b89f6c27">
+      <Explicatus>§ 3</Explicatus>
+      <Stk id="idac9a65e2-bc1d-4185-902b-8cb406736e25">
+        <Exitus>
+          <Linea>
+            <Char>Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="idf87af42b-d0e5-467c-aa25-edb88f1f7916">
+      <Explicatus>§ 4</Explicatus>
+      <Stk id="idb8687c8c-a1e5-4a8d-8050-c36f2175e578">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idf55c381c-16dd-4de2-b84d-9e3b5dffa022">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som de færøske eller grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id1317ed6d-e2f8-4b9b-b2ab-034e49ae2c72">
+    <UnderskriftStedDato id="id1317ed6d-e2f8-4b9b-b2ab-034e49ae2c72" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id1317ed6d-e2f8-4b9b-b2ab-034e49ae2c72" />
+  </UnderskriftGruppe>
+</Dokument>

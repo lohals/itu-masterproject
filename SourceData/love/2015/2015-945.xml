@@ -1,0 +1,1174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id8e667af7-1f6a-4c45-b8e9-e07b41a99b11" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idf5f1f734-7d8f-4d16-8d14-38e8b61b2d7c">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150094529</AccessionNumber>
+    <DocumentId>AN011950</DocumentId>
+    <UniqueDocumentId>173421</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om beskatning af rederivirksomhed (tonnageskatteloven)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-08-06</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-06-21</EndDate>
+    <Status>Valid</Status>
+    <Number>945</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LOV nr 1886 af 29/12/2015 </KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 945 af 06/08/2015</DokumentKortNavn>
+    <PopularTitle>Tonnageskatteloven</PopularTitle>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20150188630</Ref_Accn>
+    <Ref_Af REFid="change_1">2015-12-29</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om ændring af tonnageskatteloven og sømandsbeskatningsloven (Udvidelse af tonnageskatteordningen med en række specialskibe)</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">P.M.V.\nJens Brøchner</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Lise Bo Nielsen</Signature>
+    <PlaceOfSignature>Skatteministeriet</PlaceOfSignature>
+    <JournalNumber>Skattemin., j.nr. 15-1988504</JournalNumber>
+    <Ministry>Skatteministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id50a4e556-cdc0-4c53-8281-cf985e99a920">
+    <Titel id="ideb4c6d28-b1d0-428d-ae61-ae36f95667c7">
+      <Linea>
+        <Char>Bekendtgørelse af lov om beskatning af rederivirksomhed (tonnageskatteloven)</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idd5b14350-af83-4b05-962b-1365a304f35d">
+    <Indledning id="id97182963-1b54-4fd4-8da9-b66d6a574e50">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om beskatning af rederivirksomhed (tonnageskatteloven), jf. lovbekendtgørelse nr. 965 af 19. september 2011, med de ændringer, der følger af § 12 i lov nr. 924 af 18. september 2012.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De ændringer, der følger af § 1, nr. 1, og § 1, nr. 3 for så vidt angår tonnageskattelovens § 10, stk. 2, nr. 8, i lov nr. 539 af 6. juni 2007 om ændring af tonnageskatteloven (Justering af tonnageskatteordningen), er ikke indarbejdet i denne lovbekendtgørelse, da disse ændringer træder i kraft efter skatteministerens nærmere bestemmelse, jf. § 2, stk. 1, i lov nr. 539 af 6. juni 2007.</Char>
+        </Linea>
+        <Nota id="id3fb16e8e-06fa-4459-b6fe-72603554b228">
+          <Explicatus>1)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>De vedtagne ændringer, jf. lov nr. 539 af 6. juni 2007, af forholdet, hvormed bruttotonnage fra lejede skibe kan omfattes af tonnageskatteordningen, jf. tonnageskattelovens § 7, stk. 1, og hvorefter indkomst ved administration af skibspuljer kan omfattes af tonnageskatteordningen, jf. tonnageskattelovens § 10, stk. 2, nr. 8, er endnu ikke trådt i kraft.</Char>
+            </Linea>
+            <Linea>
+              <Char>Der henvises til § 2, stk. 1 og 2, i lov nr. 539 af 6. juni 2007.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+      </Exitus>
+    </Indledning>
+    <Bog id="idf589cad6-0eb9-4ec1-8a33-56e934b8a94b">
+      <Afsnit id="idd11e1d90-1061-4f32-b56e-353641a5b1ce" localId="1">
+        <Kapitel id="idd4a2bde8-f113-4b1e-b8c6-6436bf0e1cfa" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="id778979e5-06b9-49ab-9d13-3d9e2b84093e">
+            <Linea>
+              <Char>Rederier</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="id376ad279-5913-4843-8bf3-3a24ff9861ce">
+              <Linea>
+                <Char>Anvendelsesområde</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idf563024b-ec35-4134-892f-9b72509786de" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="idd4955e00-e95f-4884-a86b-fc0c723389fd">
+                <Exitus>
+                  <Linea>
+                    <Char>Selskaber m.v., som er skattepligtige efter selska‌bsskattelovens § 1, stk. 1, nr. 1 og 2, eller stk. 6, og som udøver rederivirksomhed som omhandlet i § 6, kan vælge at opgøre deres skattepligtige indkomst af rederivirksomheden efter bestemmelserne i denne lov (tonnagebeskatning).</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samme gælder for selskaber, som er skattepligtige efter selskabsskattelovens § 2, stk. 1, litra a, og som driver rederivirksomhed, når disse er hjemmehørende i en EU-medlemsstat.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>1. pkt. gælder ikke selskaber omfattet af selskabsskattelovens § 2 C, medmindre dette selskab er koncernforbundet, jf. § 3, stk. 1, med et selskab omfattet af tonnageskatteordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id20bcc34f-cf05-437d-9b8d-00a79ce449ed" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="id9fb52d6b-c1c4-48e6-b41a-c8e76aa0f1d7">
+                <Exitus>
+                  <Linea>
+                    <Char>Rederier, som opfylder betingelserne i § 1, og som anvender skibe, som efter §§ 6-8 kan omfattes af loven, kan vælge tonnagebeskatning fra og med det første indkomstår, hvor betingelserne herfor er opfyldt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Valget skal træffes senest ved rettidig indgivelse af selvangivelse for det indkomstår, hvor tonnagebeskatning første gang vil kunne vælges.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida1ea3ad3-4c78-46ef-be0f-4214f0fe5a50">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Valg eller fravalg af tonnagebeskatning efter stk. 1 er bindende for rederiet i en periode på 10 år regnet fra påbegyndelsen af det indkomstår, hvor tonnagebeskatning første gang kan vælges.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved udløbet af denne periode kan tonnagebeskatning tilsvarende vælges for en ny 10-års-periode.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Efter udtræden af tonnageskatteordningen kan ordnin‌gen tidligst igen vælges efter 10 indkomstår med beskatning efter skattelovgivningens almindelige regler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id61bcc4ee-f4c3-4f9b-97ad-fdc5a6990d89">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når tonnageskatteordningen anvendes, skal samtlige skibe og andre aktiver, som opfylder betingelserne for tonnagebeskatning, indgå i tonnageskatteordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9c0d52e8-5fb7-4238-9bd3-dfeb490cd62d" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id2c210fd8-c133-4ffe-a3d8-ef9dc2a1e80a">
+                <Exitus>
+                  <Linea>
+                    <Char>Når et rederi udøver bestemmende indflydelse over eller hvorover der udøves en bestemmende indflydelse af et andet rederi, eller når samme fysiske eller juridiske personer udøver bestemmende indflydelse over flere rederier, skal samtlige således koncernforbundne rederier, herunder udenlandske sambeskattede rederier, jf. selskabsskattelovens §§ 31, 31 A og 32, træffe samme valg, for så vidt angår anvendelse af tonnageskatteordningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dog kan rederier undlade at træffe samme valg, når de ikke har fælles ledelse eller driftsorganisation, og de ikke driver virksomhed inden for beslægtede forretningsområder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved bestemmende indflydelse forstås ejerskab eller rådighed over stemmerettigheder som omhandlet i ligningslovens § 2, stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idaef9935b-2d8d-4d92-8186-5316a332dd8d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis rederier, som er omfattet af stk. 1, 2. pkt., ikke længere opfylder betingelserne for ikke at træffe samme valg vedrørende anvendelse af tonnageskatteordningen, skal samtlige rederier uanset bestemmelserne i § 2, stk. 2, vælge beskatning efter tonnageskatteordningen fra og med det indkomstår, hvor betingelserne ikke længere er opfyldt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id279b6771-8f58-423f-afaf-7b498ff6d3d1">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når skibe m.v., som kan omfattes af denne lov, ejes eller lejes af flere rederier, kan de enkelte rederiers andele af sådanne skibe m.v. indgå i tonnageskatteordningen for de pågældende rederier.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="iddd7777c9-2ed0-4eec-8e2f-ec58a719d455" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="idd8efe601-6a44-4cee-b343-110ee29a74d7">
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis rederier bliver koncernforbundne, anses bindingsperioden efter § 2 for den samme som bindingsperioden for det rederi, der senest blev omfattet af tonnageskatteordningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis ikke alle rederier er omfattet af tonnageskatteordningen, er bindingsperioden 10 år fra og med det indkomstår, hvor rederierne bliver koncernforbundne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>1. og 2. pkt. finder tilsvarende anvendelse ved fusion og tilførsel af aktiver.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved spaltning af selskaber anses bindingsperioden for den samme som for det selskab, der spaltes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd17b0235-ccb2-453e-9f4c-525d891b7b69">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bliver et rederi omfattet af tonnageskatteordningen i medfør af § 3, stk. 2, eller begynder et koncernforbundet selskab, der ikke hidtil har drevet rederivirksomhed, at drive sådan virksomhed, uden at bestemmelserne i § 3, stk. 1, 2. pkt., finder anvendelse, anses bindingsperioden efter § 2 for at være den samme som for det eller de koncernforbundne selskaber.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida2c6606d-9c73-4c4b-b8b7-15f80498bc68" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="id54fe49fe-065f-47ac-9dd3-68ab9921c26c">
+                <Exitus>
+                  <Linea>
+                    <Char>Et rederi, som omdannes efter reglerne i lov om skattefri virksomhedsomdannelse, kan omfattes af tonnageskatteordningen, når de skibe, som bliver omfattet af tonnagebeskatningen, fra og med indkomståret 2003 af den personlige ejer højst har været afskrevet med et beløb samlet svarende til den afskrivning, der kunne have været foretaget ved anvendelse af den afskrivningssats, der gælder for selskaber på tidspunktet for virksomhedsomdannelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis omdannelsen omfatter flere ejere, foretages beregningen efter 1. pkt. for hver enkelt ejer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb6917722-eec1-47d4-bbc0-942e30e0ef91">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er der forud for virksomhedsomdannelsen foretaget afskrivninger i videre omfang end nævnt i stk. 1, kan tonnagebeskatning vælges, hvis de overskydende afskrivnin‌ger medregnes i den skattepligtige indkomst for den pågældende person som indkomst ved selvstændig erhvervsvirksomhed for indkomståret forud for det indkomstår, hvor virksomhedsomdannelsen får virkning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3eb28192-d46e-464e-a914-8b5754fb6b98">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En ideel ejerandel i en personligt ejet virksomhed, som udøver rederivirksomhed som omhandlet i § 6, kan anses som en selvstændig virksomhed, der kan omdannes efter reglerne i lov om skattefri virksomhedsomdannelse, når den omdannede virksomhed omfattes af tonnageskatteordnin‌gen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id67c23e24-33b4-4a1b-beca-85c2c5c6a7fe">
+              <Linea>
+                <Char>Indkomst omfattet af tonnagebeskatning</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id260fcf33-3e42-46b4-8dd9-a642b3caa914" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id9e80e4cb-245c-4247-ad51-9a81ea7355cf">
+                <Exitus>
+                  <Linea>
+                    <Char>Skattepligtig indkomst i forbindelse med erhvervsmæssig virksomhed med transport af passagerer eller gods (rederivirksomhed) mellem forskellige destinationer med</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idf36386b7-0f8e-4927-a339-f6d4ac9707c8">
+                  <Index>
+                    <Indentatio id="iddbb59a62-5f35-472f-8629-1570cceb04c2" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>skibe ejet af rederiet, jf. dog stk. 2,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7d2b84cc-374f-45ab-b8f4-579e76c6a176" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>skibe, som lejes uden besætning (bareboat-charter), og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd1a36cb1-a523-4e3d-9418-f3c7f3efb935" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>skibe, som lejes med besætning (time-charter),</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Linea>
+                    <Char>opgøres efter reglerne i §§ 9-15.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er en betingelse, at skibene har en bruttotonnage på 20 t eller derover, og at skibene strategisk og forretningsmæssigt drives fra Danmark.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er endvidere en betingelse, at registreringsbetingelsen i § 6 a, stk. 1, jf. dog § 6 a, stk. 2 og 3, er opfyldt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id55e8b072-dd87-40ba-9b95-2934aa6095b9">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skibe, som ejes eller lejes af rederiet, og som udlejes eller videreudlejes, kan kun omfattes af denne lov, når lejeren anvender skibet til formål, som ville kunne omfattes af denne lov, hvis skibet blev anvendt til samme formål af udlejeren selv.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Endvidere kan skibe, som ejes eller lejes af rederiet, og som udlejes eller videreudlejes uden besætning (bareboat-charter), kun omfattes af denne lov, når rederiet i tilfælde af forbigående overskudskapacitet udlejer skibet i en periode på højst tre år.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Samme skib kan kun omfattes af denne bestemmelse én gang, når skibet ejes af samme rederi eller dermed koncernforbundet rederi.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf435856c-2337-4b6b-bbe3-a8dc34ee2a58" localId="7">
+              <Explicatus>§ 6 a.</Explicatus>
+              <Stk id="id235f99a7-950f-41e5-bef7-9f47cdf5eb7f">
+                <Exitus>
+                  <Linea>
+                    <Char>Det er en betingelse, jf. § 6, stk. 1, 3. pkt., at rederiet i gennemsnit over et indkomstår fastholder eller forøger den procentdel af den af rederiet ejede bruttotonnage, der er registreret i en stat, der er medlem af EU eller EØS.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved opgørelsen af, om betingelsen i 1. pkt. er opfyldt, tages udgangspunkt i den procentdel af den af rederiet ejede bruttotonnage, der anvendes til formål, som vil kunne omfattes af denne lov, og som den 12. januar 2005 er registreret i en stat, der er medlem af EU eller EØS.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Rederier, der var omfattet af tonnageskatteordningen den 17. januar 2004, kan vælge ved opgørelsen efter 1. pkt. at tage udgangspunkt i den tilsvarende procentdel af bruttotonnagen den 17. januar 2004.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For rederier, der på et senere tidspunkt end den 12. januar 2005 bliver omfattet af tonnageskatteordningen, tages ved opgørelsen efter 1. pkt. udgangspunkt i den tilsvarende procentdel af bruttotonnagen på det tidspunkt, hvor rederiet bliver omfattet af tonnageskatteordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id72753a5b-a3d4-4d74-9265-f29fe90c91be">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1 finder ikke anvendelse, såfremt - set under et for alle rederier omfattet af denne lov - den procentdel af den ejede bruttotonnage, der anvendes til formål, som vil kunne omfattes af denne lov, og som er registreret i en stat, der er medlem af EU eller EØS, ikke er faldet i gennemsnit i løbet af det forudgående indkomstår.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd076a3c7-5e86-4551-98fd-4fb62e4fe51a">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1 finder heller ikke anvendelse, såfremt i gennemsnit over indkomståret mindst 60 pct. af den af rederiet ejede bruttotonnage, der anvendes til formål, som vil kunne omfattes af denne lov, er registreret i en stat, der er medlem af EU eller EØS.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2dea55d7-5665-438e-bced-951ee8b3e1ef">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For rederier, der skal træffe samme valg for så vidt angår anvendelsen af tonnageskatteordningen, jf. § 3, stk. 1, gælder de i stk. 1-3 nævnte tonnagebestemmelser for de koncernforbundne rederier under et på et konsolideret grundlag.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id6c30cf80-6470-4ac8-8f1a-1b4ce6d88f35" localId="8">
+              <Explicatus>§ 6 b.</Explicatus>
+              <Stk id="idda80a347-3a3a-4ff5-bf33-dc4a5552a849">
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis et rederi ikke opfylder betingelsen i § 6 a, stk. 1, jf. dog § 6 a, stk. 2 og 3, beskattes indtægt fra den - set i forhold til udgangspunktet for opgørelsen, jf. § 6 a, stk. 1, 2.-4. pkt. - yderligere andel af den af rederiet ejede bruttotonnage, der anvendes til formål, som vil kunne omfattes af denne lov, og som er registreret uden for EU eller EØS, efter skattelovgivningens almindelige regler.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Indtægten fra den yderligere andel af bruttotonnagen beregnes som den andel af den samlede bruttoindtjening før afskrivninger og finansielle poster opgjort efter skattelovgivningens almindelige regler, som svarer til forholdet mellem på den ene side den yderligere andel af bruttotonnagen, jf. 1. pkt., og på den anden side hele den af rederiet ejede bruttotonnage, der anvendes til formål, som vil kunne omfattes af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb6a0aed5-69cb-4f9f-8117-c601ac2b8cc8" localId="9">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="ida6b3c2a2-9642-4c0d-8b30-7706ad00cc71">
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis den bruttotonnage, som et rederi i gennemsnit over et indkomstår har til rådighed fra lejede skibe, er større end fire gange den bruttotonnage, som ejes af rederiet selv, beskattes indtægt fra den overskydende del af den lejede tonnage efter skattelovgivningens almindelige regler.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den overskydende indtægt beregnes som den andel af den samlede bruttoindtjening før afskrivninger og finansielle poster opgjort efter skattelovgivningens almindelige regler, som svarer til forholdet mellem på den ene side den del af den lejede tonnage, der overstiger fire gange egentonnagen, og på den anden side den samlede tonnage til rådighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9032b759-c9ff-401a-9602-7589a356c927">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For koncernforbundne rederier, som ikke er omfattet af § 3, stk. 1, 2. pkt., kan forholdet mellem egen og lejet tonnage opgøres for rederierne under et.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id67f4d03c-6e78-423e-a14c-6d299ac32a07">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skibe, som lejes uden besætning, sidestilles ved anvendelsen af stk. 1 med skibe ejet af rederiet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samme gælder skibe, som lejes med besætning, når skibene lejes for en periode på mindst et år og højst syv år, og når der samtidig med indgåelse af lejemålet aftales en køberet, hvorefter lejer senest ved lejemålets udløb kan erhverve skibet til højst markedsprisen ved køberettens erhvervelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id49efc7f7-94fd-480b-aa53-7a0b8b591ecf" localId="10">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="idf1ef9f25-e474-43f5-88b6-36a3cbc57015">
+                <Exitus>
+                  <Linea>
+                    <Char>Indkomst af følgende former for virksomhed kan ikke omfattes af § 6:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id8d0a3667-23bd-4e77-b264-63c7b9bb2e3b">
+                  <Index>
+                    <Indentatio id="id5ff04b1f-da7e-43c5-9fcc-fc6d8f8c0738" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Forundersøgelser, efterforskning eller udvinding af kulbrinter eller andre naturforekomster.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8813fba5-5bdf-463f-a151-fd2025829714" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Fiskeri og forarbejdningsvirksomhed.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idfc6c046c-c56f-4a28-b8d0-d6d5281cd9a1" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Bygning og reparation af havne, moler, broer, olieinstallationer, vindmølleparker eller andre havanlæg, nedlægning af rørledninger på havbunden, opmudring, stenfiskeri, sandsugning eller lignende virksomhed.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id6f7f69ef-a762-4744-8faf-dab21def8082" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Dykkervirksomhed.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id0b5a4120-2f95-4ed5-ac83-041d2a29aeb9" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Lodsning, når skibene anvendes i og omkring havne.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id46ace8e5-5fc3-432c-a2ac-f85bc23a96de" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Bugsering m.v. Dette gælder dog ikke i tilfælde, hvor skibet udfører bugser- og bjærgningsaktiviteter til søs i mindst 50 pct. af den tid, skibet i løbet af et indkomstår er i drift.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Det er en betingelse, at skibet er registreret i en stat, der er medlem af EU eller EØS.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Ved anvendelsen af 2. pkt. fordeles ventetid forholdsmæssigt mellem den tid, der er medgået til bugser- og bjærgningsaktiviteter til søs, og den tid, der er anvendt til andre aktiviteter.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Bugseringsaktiviteter m.v., der udføres i eller omkring havne, eller som består i at bistå fartøjer med egen fremdrift med at lægge til i havn, anses ikke for at være foregået til søs.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf41df6eb-ca8b-40fc-8019-71c5b3c8230f" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Passagersejlads i eller over havneløb m.v.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id55beb6ea-d057-401f-ac9a-788fb951127f" formaInd="Nummer">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Uddannelsesaktiviteter, sociale og pædagogiske aktiviteter m.v.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id665ead3b-80b4-4120-a5da-e16f54158e58" formaInd="Nummer">
+                      <Explicatus>9)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Museumsaktiviteter og skibsbevaring.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id2650b777-3c81-4cb1-ba0e-201f2211b080" formaInd="Nummer">
+                      <Explicatus>10)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Sports-, udflugts- og fritidsformål.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8885764f-c189-4832-b36a-144a23366e35" formaInd="Nummer">
+                      <Explicatus>11)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Anvendelse af permanent opankrede skibe, uanset formål.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idbf8c8a24-45d4-4df2-a1e3-ba88502fa00e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddybningsmaskiner, flydekraner, flydedokke, kabeltromler, boreplatforme, flydende beholdere og lignende materiel anses ikke for skibe efter denne lov.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samme gælder pramme og lægtere, medmindre de er lastbærende og har en bruttotonnage på 2.000 t eller derover.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idde04c5ca-19e7-4b34-b3f4-577201ed678b">
+              <Linea>
+                <Char>Opgørelse af indkomst under tonnageskatteordningen</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id42fae929-7877-424f-b9aa-654158f09649" localId="11">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="idd722c7d7-81e1-4f5d-94e1-111eb91cd007">
+                <Exitus>
+                  <Linea>
+                    <Char>Rederier, som oppebærer indkomst omfattet af tonnageskatteordningen, og som samtidig oppebærer anden indkomst, skal opgøre tonnagebeskattet indkomst og anden indkomst hver for sig.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf923058b-e5ca-413b-85fc-11116deabb1b" localId="12">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id515633f6-f31b-44f4-82d6-661010541aaa">
+                <Exitus>
+                  <Linea>
+                    <Char>Indkomst omfattes af tonnageskatteordningen, når den kan henføres til transportydelser leveret ved anvendelse af skibe som nævnt i § 6, eller ydelser i nær tilknytning hertil, jf. stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0e3b5f7d-5a46-45fd-8cf5-086733fa1f63">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ud over levering af transportydelser som nævnt i stk. 1 henføres indkomst vedrørende følgende former for virksomhed til beskatning under tonnageskatteordningen, når sådan virksomhed foregår i nær tilknytning til levering af transportydelser omfattet af tonnageskatteordningen:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id17eb4dca-dc63-4a86-b0c6-33eab97ad9bf">
+                  <Index>
+                    <Indentatio id="ide2dd8a78-3d63-4796-8abc-f2196f7db391" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Anvendelse af containere.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7c2ff4b5-022c-4442-9776-2de59dc2a86e" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Drift af lastnings-, losnings- og vedligeholdelsesfaciliteter.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7df7e97e-a4a9-4f17-9f89-9974544fa4a7" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Drift af billetkontorer og passagerterminaler.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id20ce75b4-2774-4c91-b6c3-f84ede74f689" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Drift af kontorfaciliteter m.v.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id661788d4-85ca-47db-b31f-be9e86f970f0" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Salg af varer til forbrug om bord.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf8bbfd3e-22c6-4369-bc52-e46fcee841bc" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>En beregnet markedsleje ved rederiets egen anvendelse af lokaler om bord.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id953654a7-854d-4765-9865-f9f96f8f9747" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Lejeindtægt ved udleje af lokaler om bord.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida503b8b2-e53f-4e83-a776-ca4572b91e5c" formaInd="Nummer">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>(Udeladt)</Char>
+                          <Char formaChar="Superscript">1)</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idfc66d69c-9c6f-49a3-82bd-ebd99fc70bd1" formaInd="Nummer">
+                      <Explicatus>9)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Afhændelse af skibe, der helt eller delvis omfattes af tonnageskatteordningen, jf. dog § 16, stk. 3, eller som helt eller delvis kan omfattes af tonnageskatteordnin‌gen, men endnu ikke er færdiggjort i et sådant omfang, at de kan indgå i rederiets drift, samt afhændelse eller opgivelse af retten i henhold til en kontrakt om levering af et skib, som helt eller delvis vil kunne omfattes af tonnageskatteordningen, jf. dog § 16, stk. 5, 3. pkt.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idc6b4f9f3-6bc5-43ba-b278-52a6d27ec9f4">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Selskabets øvrige indkomst opgøres efter skattelovgivningens almindelige regler og udgør sammen med indkomsten efter stk. 1 og 2 selskabets samlede skattepligtige indkomst.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf5f8128a-01de-4046-a0da-e11fd43cfcfa" localId="13">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="id95d91088-cefe-4d69-a556-c21ced0b481e">
+                <Exitus>
+                  <Linea>
+                    <Char>Omfatter vederlag for en samlet transportydelse såvel transport som omhandlet i § 10, stk. 1 og 2, som andre transportydelser, beskattes det samlede vederlag efter denne lov, når det tonnagebeskattede selskab har indgået aftale om udførelse af disse andre transportydelser med en anden transportvirksomhed.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Udfører det tonnagebeskattede rederi selv disse andre transportydelser, beskattes den del af vederlaget, som vedrører disse andre ydelser, efter skattelovgivningens almindelige regler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id01c6b125-3e8d-441e-8c8c-682439adc0a2" localId="14">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="idb49830c9-03bd-494f-94ed-dc8c8e22280d">
+                <Exitus>
+                  <Linea>
+                    <Char>Nettofinansudgifter efter eventuel fradragsbeskæring i selskabsskattelovens § 11 B og nettofinansindtægter beskattes efter skattelovgivningens almindelige regler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id41089979-764d-4697-9e14-c7aba0028ab6">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Gevinst og tab på kontrakter (terminskontrakter m.v.), som tjener til sikring af driftsindtægter og driftsudgifter omfattet af § 10, henføres til den indkomst, som er sikret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8e10c934-7a05-45ac-872a-0bced5888b03" localId="15">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id5715cb53-2908-4623-a9ac-36a34fafa4ad">
+                <Exitus>
+                  <Linea>
+                    <Char>Uanset bestemmelserne om opgørelse af skattepligtig indkomst efter denne lov skal den skattepligtige anvende priser og vilkår for handelsmæssige eller økonomiske transaktioner som omhandlet i ligningslovens § 2, stk. 1, med fysiske eller juridiske personer og faste driftssteder (kontrollerede transaktioner) i overensstemmelse med, hvad der kunne være opnået, hvis transaktionerne var afsluttet mellem uafhængige parter.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ligningslovens § 2, stk. 2-6, finder tilsva‌rende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida7e0f045-3003-4826-b455-d460ac9fd1cd">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved opgørelsen af indkomst, som efter §§ 11 og 12 eller på anden måde skal henføres til tonnagebeskatning eller til beskatning efter de almindelige regler, anvendes de priser og de vilkår, der kunne være opnået, hvis aftale om transportydelser eller andre ydelser eller om anvendelse af faciliteter m.v. var indgået mellem uafhængige parter, jf. ligningslovens § 2, stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Skattekontrollovens § 3 B finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Med hensyn til fristen for skatteansættelse finder skatteforvaltningslovens § 26, stk. 5, tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc080f1fb-9a4b-4db5-847a-57d72846b56f">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved manglende overholdelse af bestemmelserne i stk. 1 og 2 reguleres den skattepligtige indkomst i overensstemmelse med bestemmelserne i ligningslovens § 2, uanset bestemmelserne i denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida42739a2-87f1-4578-a91e-06d9ca0ee7e6" localId="16">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="iddead623a-58b6-4d86-afe8-f89ad6d90f46">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf6f189c2-a8f5-4be5-8030-986fa648417d" localId="17">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="id1a9ebd17-c64d-42e9-a1e9-580016e16f1d">
+                <Exitus>
+                  <Linea>
+                    <Char>For skibe m.v. omfattet af denne lov opgøres den skattepligtige indkomst på grundlag af nettotonnagen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den skattepligtige indkomst udgør for hvert skib følgende grundbeløb (2010-niveau) pr. 100 nettoton (NT) pr. påbegyndt døgn, uanset om skibet er i drift eller ej:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="iddff9c790-7cfe-4588-b2f3-cab53076dfe4">
+                  <Index>
+                    <Indentatio id="id523b986f-6b74-4462-963c-607be73d40c7" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Til og med 1.000 NT - 8,97 kr. pr. 100 NT</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc28e59b1-f8ec-499a-bd37-3b6d87dff436" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Fra 1.001 NT til og med 10.000 NT - 6,44 kr. pr. 100 NT</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id74a20fc3-23fd-4b1a-afda-ed339aa910c9" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Fra 10.001 NT til og med 25.000 NT - 3,85 kr. pr. 100 NT</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id85a153d4-6216-4e7e-95b4-aa44ae1e9f8f" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Mere end 25.000 NT - 2,53 kr. pr. 100 NT</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id1b962121-d579-42dc-aac0-6474961fa91a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan ikke ved indkomstopgørelsen efter stk. 1 foretages fradrag for skattemæssige afskrivninger på skibe eller driftsmidler, som helt eller delvis er omfattet af tonnageskatteordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1c53a257-8900-4190-ba9b-86534f3adc03">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan ikke ved indkomstopgørelsen efter stk. 1 foretages fradrag efter skattelovgivningens almindelige regler for udgifter, der vedrører den tonnagebeskattede indkomst.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Vedrører en udgift såvel indkomst, der kan beskattes efter denne lov, som anden indkomst, fordeles udgiften forholdsmæssigt efter den samlede bruttoindtjening før afskrivninger og finansielle poster opgjort efter skattelovgivnin‌gens almindelige regler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3dd3c893-ef82-45e1-a142-24ff460035cd">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Grundbeløbene i stk. 1 reguleres efter personskattelovens § 20.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De regulerede beløb afrundes opad til nærmeste ørebeløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id4bc9542b-9774-4725-87a6-aebf2398c2cc">
+              <Linea>
+                <Char>Beskatning af avancer og genvundne afskrivninger</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id00e8bedf-3beb-4d30-85fd-fb9fdfec0e28" localId="18">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="id66ae5d37-ae51-4ab3-9a00-159bdd31a590">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved overgang fra beskatning efter de almindelige regler til tonnagebeskatning foretages en forholdsmæssig fordeling af de eksisterende saldi efter afskrivningsloven efter den regnskabsmæssige værdi af de aktiver, der helt eller delvis omfattes af tonnageskatteordningen, og den regnskabsmæssige værdi af øvrige aktiver.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den del, der vedrører aktiver helt eller delvis omfattet af tonnagebeskatningen, indgår på særlige overgangssaldi.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Endvidere indgår beløb, som er beskattet efter § 5, stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Senere udgifter til forbedringer på de pågældende aktiver tilgår disse saldi.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0b603fc7-ffa5-4b07-b90a-85e6006e58d6">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Anskaffelsessummen for henholdsvis skibe og driftsmidler, som erhverves efter overgang til tonnagebeskatning, og som helt eller delvis anvendes under tonnageskatteordningen, indgår på særlige udligningssaldi.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Senere udgifter til forbedringer på de pågældende aktiver tilgår disse saldi.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Rederier, som fra etableringstidspunktet anvender tonnageskatteordningen, skal ikke føre udligningssaldi, medmindre rederiet er omfattet af § 5 eller § 17, stk. 1, finder anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbe9308c0-0e54-42b1-ba27-e2bc3cea7475">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis et skib eller et driftsmiddel afhændes, fragår salgssummen den saldo, som det pågældende aktiv er omfattet af.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For skibes vedkommende finder 1. pkt. ikke anvendelse på beløb, der overstiger skibets faktiske anskaffelsessum tillagt udgifter til forbedringer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Overgangssaldi og udligningssaldi nedskrives årligt med det maksimale beløb efter afskrivningslovens regler.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Modsvares negative overgangssaldi af positive udligningssaldi, nedskrives udligningssaldi på grundlag af nettobeløbet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Nedskrivningerne kan ikke føres til fradrag.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id189200bc-fa84-475a-9ccb-5488287166b3">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bliver rederiets overgangssaldi negative, finder afskrivningslovens § 8 anvendelse, medmindre de negative saldi helt eller delvis modsvares af tilsvarende positive udligningssaldi.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Modsvares kun en del af negative overgangssaldi af positive udligningssaldi, finder afskrivningslovens § 8 anvendelse på forskelsbeløbet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id08b6c34a-1961-49d4-a189-d1f308ef5ea8">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved anvendelsen af stk. 2 og 4 sidestilles indgåelse af bindende kontrakt om levering af nybygget tonnage inden for højst tre år med erhvervelse af skib.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er en betingelse, at kontrakt indgås senest ved udgangen af det følgende indkomstår, og at den pågældende tonnage anvendes i tonnageskatteordningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved anvendelsen af stk. 3 sidestilles afhændelse eller opgivelse af retten i henhold til en kontrakt om levering af nybygget tonnage, jf. 1. og 2. pkt., med afhændelse af skib.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id55973a9f-b1d1-450e-a403-35a0bf1a9a83" localId="19">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="idfc6a90a9-6094-4c97-84a6-461b91bcd452">
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis et skib eller driftsmiddel overgår fra anden anvendelse til hel eller delvis anvendelse under tonnageskatteordningen, efter at rederiet er indtrådt i ordningen, finder § 16, stk. 1, tilsvarende anvendelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anvender rederiet tonnageskatteordningen fra etableringstidspunktet, opgøres der udligningssaldi for skibe og driftsmidler, som erhverves efter at de i 1. pkt. nævnte skibe og driftsmidler er overgået til anvendelse under tonnageskatteordningen, og som helt eller delvis anvendes under ordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1559505b-495a-48a5-a711-9f5eef01d5bb">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Overgår skibe eller driftsmidler fra hel eller delvis anvendelse under tonnageskatteordningen til anden anvendelse, anses aktiverne for maksimalt afskrevet efter afskrivningslovens bestemmelser.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beløbet fragår overgangssaldi eller udligningssaldi, hvis aktiverne er omfattet af sådanne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beløbet tilgår rederiets saldi efter afskrivningsloven.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>§ 20, stk. 2, finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id7386df4c-9f47-4941-becc-1ac8fe11157b" localId="20">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="idb8015c36-538e-4b57-9c41-25ee993dfa13">
+                <Exitus>
+                  <Linea>
+                    <Char>Afhændes eller opgives retten i henhold til en kontrakt om levering af et driftsmiddel, der helt eller delvis skal omfattes af tonnageskatteordningen, medregnes fortjeneste eller tab herved ved opgørelsen af rederiets skattepligtige indkomst for det indkomstår, hvori salget sker.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Fortjeneste eller tab opgøres som forskellen mellem afståelsessummen for retten i henhold til kontrakten og anskaffelsessummen for denne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4a838ab5-f6b5-4dcc-b2e8-5257c37fde14">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afhændes et driftsmiddel, der helt eller delvis skal omfattes af tonnageskatteordningen, men som endnu ikke er færdiggjort i et sådant omfang, at det kan indgå i rederiets drift, medregnes fortjeneste eller tab ved opgørelsen af rederiets skattepligtige indkomst for det indkomstår, hvori salget sker.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Fortjeneste eller tab opgøres som forskellen mellem afståelsessummen og anskaffelsessummen tillagt udgifter til forbedringer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0c718049-54c8-432a-875a-af13936e5945">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1 og 2 finder ikke anvendelse på kontrakter om levering af skibe og skibe, der helt eller delvis skal omfattes af tonnageskatteordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id29e4c1ec-a301-42a1-9316-9c710d51609f" localId="21">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="id1c02f848-461c-4e05-8e88-2aac80e68d11">
+                <Exitus>
+                  <Linea>
+                    <Char>Der foretages ikke afskrivninger på bygninger og installationer, som helt eller delvis omfattes af tonnageskatteordningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ejendomsavancebeskatningslovens bestemmelser finder i øvrigt anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2fda63d1-9493-447f-9f0d-2d1f0ff7e6c8">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Overgår bygninger og installationer fra hel eller delvis anvendelse under tonnageskatteordningen til anden anvendelse, anses aktiverne for maksimalt afskrevet efter afskrivningslovens bestemmelser i den periode, de har været omfattet af tonnageskatteordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idae113cc8-07ad-47b2-9dee-4c1e837d629d" localId="22">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="id4150c1ca-7136-4c52-a7d6-f7102a872411">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved rederiets overgang fra tonnagebeskatning til beskatning efter skattelovgivningens almindelige regler udgør afskrivningsgrundlaget for aktiver omfattet af overgangssaldi og udligningssaldi summen af de pågældende saldi.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Andre aktiver omfattet af tonnageskatteordningen anses for maksimalt afskrevet efter afskrivningslovens bestemmelser i de år, rederiet har været omfattet af tonnageskatteordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id80c6ac51-11f5-4ddb-960a-62eff3058807">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis et rederi er blevet skattepligtigt efter selska‌bsskattelovens § 1, fordi ledelsens sæde er flyttet her til landet, eller fordi rederiet er blevet hjemmehørende her i landet efter bestemmelserne i en dobbeltbeskatningso‌ve‌renskomst, og rederiet fra dette tidspunkt har anvendt tonnageskatteordningen, fastsættes grundlaget for de afskrivninger, der er nævnt i stk. 1, 2. pkt., efter bestemmelserne i selskabsskattelovens § 4 A, stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idb9407716-4c5f-414e-a664-89ed3b511157">
+              <Linea>
+                <Char>Lempelse for udenlandske fragtskatter</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idc22d42d0-b932-42dd-8e97-44b2a147a1cb" localId="23">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="id76f24e7e-77ae-407b-8d51-bdaaac04e3a2">
+                <Exitus>
+                  <Linea>
+                    <Char>Har et rederi betalt fragtskatter i udlandet, fordeles disse på tonnagebeskattet rederivirksomhed og eventuel anden rederivirksomhed i forhold til den anvendte tonnage.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De fragtskatter, der falder på den tonnagebeskattede del af rederivirksomheden, kan for hvert enkelt land fradrages i den del af tonnageskatten beregnet efter § 15, der falder på fragtindtægter fra det pågældende land.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Eventuel overskydende fragtskat kan ikke fradrages i eller fremføres til modregning i skat af anden indkomst.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0a52f5da-df44-4e5e-8e31-c9fe09cbffaa">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De fragtskatter, der falder på den ikketonnagebeskattede del af rederivirksomheden, kan fradrages eller fremføres til modregning i skat af anden ikketonnagebeskattet indkomst efter bestemmelserne i ligningslovens § 33.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idfc2ebda9-cf64-4162-867f-827f9d1a0870" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="idef7db852-ac66-490b-a70c-4c7bea5d3cb0">
+            <Linea>
+              <Char>Operatørselskaber</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id6a74d496-db34-42ee-8538-4935f8cc0ab3" localId="24">
+              <Explicatus>§ 21 a.</Explicatus>
+              <Stk id="id73d6fe62-9f0f-47f7-b722-3152f7b6ea0b">
+                <Exitus>
+                  <Linea>
+                    <Char>Selskaber m.v., som er skattepligtige efter selskabsskattelovens § 1, stk. 1, nr. 1 og 2, eller stk. 6, og som udøver virksomhed som operatørselskab som nævnt i stk. 2, kan vælge at opgøre deres skattepligtige indkomst af operatørvirksomheden efter denne lov.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samme gælder selskaber, som er skattepligtige efter selskabsskattelovens § 2, stk. 1, litra a, og som driver virksomhed som operatørselskab, når disse er hjemmehørende i en EU-medlemsstat.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er en betingelse for anvendelsen af reglerne i 1. og 2. pkt., at operatørselskabet fra ejeren af skibet har overtaget det fulde ansvar for skibets drift samt alle forpligtelser og ansvar ifølge ISM-koden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>§ 2 finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>§§ 3 og 4 finder tilsvarende anvendelse, når et operatørselskab er koncer‌nforbundet med et andet operatørselskab eller med et rederi.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id724ac48e-0a6f-41e4-929e-5a76a030964f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Indkomst omfattes af tonnageskatteordningen, når den kan henføres til erhvervsmæssig virksomhed med administration af besætning og teknisk ledelse af skibe, der anvendes til formål, som vil kunne omfattes af denne lov.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er en betingelse, at skibene har en bruttotonnage på 20 t eller derover, og at skibene strategisk og forretningsmæssigt drives fra en EU-medlemsstat.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er endvidere en betingelse, at operatørselskabet i gennemsnit over et indkomstår fastholder eller forøger den procentdel af den af operatørselskabet opererede bruttotonnage, der er registreret i en stat, der er medlem af EU eller EØS.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved opgørelsen af, om betingelsen i 3. pkt. er opfyldt, tages udgangspunkt i den procentdel af den af operatørselskabet opererede bruttotonnage, der anvendes til formål, som vil kunne omfattes af denne lov, og som på det tidspunkt, hvor operatørselskabet bliver omfattet af tonnageskatteordningen, er registreret i en stat, der er medlem af EU eller EØS.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>3. pkt. finder ikke anvendelse, såfremt - set under et for alle operatørselskaber omfattet af denne lov - den procentdel af den opererede bruttotonnage, der anvendes til formål, som vil kunne omfattes af denne lov, og som er registreret i en stat, der er medlem af EU eller EØS, ikke er faldet i gennemsnit i løbet af det forudgående indkomstår.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>3. pkt. finder heller ikke anvendelse, såfremt i gennemsnit over indkomståret mindst 60 pct. af den af operatørselskabet opererede bruttotonnage, der anvendes til formål, som vil kunne omfattes af denne lov, er registreret i en stat, der er medlem af EU eller EØS.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>§ 6 a, stk. 4, finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis et operatørselskab ikke opfylder betingelsen i 3. pkt., jf. dog 5. og 6. pkt., finder § 6 b tilsva‌rende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb75cfd77-746b-442b-8cd3-273c9eecf972">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Operatørselskabets øvrige indkomst, herunder også med relation til drift af skibe, opgøres efter skattelovgivnin‌gens almindelige regler og udgør sammen med indkomsten efter stk. 2 selskabets samlede skattepligtige indkomst.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5e99d177-e39a-49d3-809c-36f5611bdfac">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>§§ 9 og 12-20 finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id93df3bf9-3833-4a00-945f-1f654261aa2e" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="idf874860e-89fc-4f9b-8cf4-ae7f9f7f1337">
+            <Linea>
+              <Char>Kontrolbestemmelser, ikrafttræden m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idb1a341f4-5d29-468b-aa34-eaf4ef204a4c" localId="25">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="id8d8a549e-4935-418c-a13a-ad17251415aa">
+                <Exitus>
+                  <Linea>
+                    <Char>Et rederi, som anvender tonnageskatteordningen, skal hvert år i sit skattemæssige årsregnskab, jf. skattekontrollovens § 3, vedlægge en skriftlig erklæring fra en revisor om, at betingelserne i § 3, stk. 1 og 2, samt i § 6, stk. 2, 2. pkt., er opfyldt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Rederiet skal ligeledes hvert år vedlægge oplysning om, i hvilket omfang den af rederiet i årets løb ejede bruttotonnage, der anvendes til formål, som vil kunne omfattes af denne lov, har været registreret i en stat, der er medlem af EU eller EØS, henholdsvis uden for EU eller EØS, jf. § 6 a.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Rederiet skal endvidere det første år, hvor reglerne i § 6 a kan finde anvendelse, vedlægge oplysning om den procentdel af den af rederiet ejede bruttotonnage, der anvendes til formål, som vil kunne omfattes af denne lov, som på basisdatoen, jf. § 6 a, stk. 1, 2.-4. pkt., var registreret i en stat, der er medlem af EU eller EØS.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id36be2820-8d85-4e05-827f-ed90259e431a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved udlejning af skibe, jf. § 6, stk. 2, er det en betingelse for anvendelse af tonnageskatteordningen, at lejeren ifølge lejekontrakten alene må anvende skibet til formål, som vil kunne omfattes af denne lov, og at en revisor årligt afgiver erklæring om, at betingelserne i § 6, stk. 2, 1. pkt., er opfyldt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc5191adf-1078-4791-bc55-9848e89095eb">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For operatørselskaber er det en betingelse for anvendelse af tonnageskatteordningen, jf. § 21 a, at ejeren eller lejeren af skibet ifølge operatørkontrakten alene må anvende skibet til formål, som vil kunne omfattes af denne lov.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er endvidere en betingelse, at det fremgår af operatørkontrakten, fra hvilken stat skibet strategisk og forretningsmæssigt drives, og i hvilken stat skibet er registreret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id51545480-2537-49bb-8692-868acd2faaf6">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et operatørselskab, der anvender tonnageskatteloven, skal hvert år i sit skattemæssige årsregnskab, jf. skattekontrollovens § 3, vedlægge en skriftlig erklæring fra en revisor om, at betingelserne i § 3, stk. 1 og 2, er opfyldt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Operatørselskabet skal ligeledes hvert år vedlægge oplysning om, i hvilket omfang den af selskabet i årets løb opererede bruttotonnage, der anvendes til formål, som vil kunne omfattes af denne lov, har været registreret i en stat, der er medlem af EU eller EØS, henholdsvis uden for EU eller EØS, jf. § 21 a, stk. 2, 3. pkt., jf. 5. og 6. pkt. Operatørselskabet skal endvidere det første år, hvor reglerne i § 21 a kan finde anvendelse, vedlægge oplysning om den procentdel af den af selskabet opererede bruttotonnage, der anvendes til formål, som vil kunne omfattes af denne lov, og som på basisdatoen, jf. § 21 a, stk. 2, 4. pkt., var registreret i en stat, der er medlem af EU eller EØS.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id705487b6-bdc2-4832-b51f-2a5d9824bb3d" localId="26">
+              <Explicatus>§ 23.</Explicatus>
+              <Stk id="ide959e2a6-3841-4421-84e4-adf0b7f74140">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning fra og med indkomståret 2001.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc96e3de6-7d75-4c31-a902-f55c3fb3ff71">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Rederier, som vil kunne vælge tonnageskatteordningen fra det tidspunkt, hvor loven har virkning, kan træffe valg om anvendelse af ordningen senest ved rettidig indgivelse af selvangivelse for det andet indkomstår, hvor ordnin‌gen vil kunne anvendes.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Er tonnagebeskatning ikke valgt senest ved rettidig indgivelse af selvangivelse for det andet indkomstår, hvor ordningen vil kunne anvendes, regnes 10-års-perioden efter § 2, stk. 2, fra og med det indkomstår, hvor loven får virkning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd5356ae7-f98b-45c2-b064-4ec10ea00f96" localId="27">
+              <Explicatus>§ 24.</Explicatus>
+              <Stk id="id743b2ff3-c13b-4769-8969-058e8b656f1f">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idce28a06b-892b-42e6-a034-3b6b849af86d">
+    <UnderskriftStedDato id="idce28a06b-892b-42e6-a034-3b6b849af86d" />
+    <Underskriver id="idce28a06b-892b-42e6-a034-3b6b849af86d" />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,602 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id2504e3a5-2282-44bd-876d-a83b7115c212" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id6b18a1e8-e044-497d-a20a-d58e97764d3f">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150053030</AccessionNumber>
+    <DocumentId>CF001408</DocumentId>
+    <UniqueDocumentId>169834</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af adoptionsloven, lov om social service, forældreansvarsloven og lov om retssikkerhed og administration på det sociale område (Lempelse af betingelserne for adoption uden samtykke m.v.)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-04-29</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-11-26</EndDate>
+    <Status>Historic</Status>
+    <Number>530</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1052 af 08/09/2015</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1053 af 08/09/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1820 af 23/12/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1821 af 23/12/2015</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 530 af 29/04/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2015-12-23</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Manu Sareen</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold, j.nr. 2013-2092</JournalNumber>
+    <Ministry>Social- og Indenrigsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="ide0b05480-2d8b-4f97-8f4c-c9efd5df6a8d">
+    <Titel id="idb35e1d1c-66ae-4721-a92e-4dd3eb169f00">
+      <Linea>
+        <Char>Lov om ændring af adoptionsloven, lov om social service, forældreansvarsloven og lov om retssikkerhed og administration på det sociale område</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id998a5241-5b92-4dad-9fec-0e79978f858c">
+      <Linea>
+        <Char>(Lempelse af betingelserne for adoption uden samtykke m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="idd02a6749-de72-468d-99a2-a43984c9b533">
+    <Hymne id="id60313adc-4294-488a-90f0-ede43bc9e382">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id89d3d54f-ee2c-45d9-a44f-7190fc7f7573">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I adoptionsloven, jf. lovbekendtgørelse nr. 1084 af 7. oktober 2014, som ændret ved § 1 i lov nr. 1525 af 27. december 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id49739a1e-b854-4f9e-9bce-409547305592">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="ideac97140-9bc2-4a65-8f5d-9adf86e35297">
+          <AendringDefinition id="ideba5084f-20b9-42f1-9520-73e7402c7b69">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 9, stk. 2, 2. pkt.,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0fbbe3a0-ea53-4727-b793-88edfa77452b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id20f5ca41-1b35-4596-a703-6cc095a0c7b4">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="ide352b69c-5522-4b9d-9fd9-da4fa1da1898">
+          <AendringDefinition id="id4c302b49-252b-4fee-bbb0-857fbfdd0f8c">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 9, stk. 3</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">4,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id86739327-7dd4-411f-9a34-5a74ccd41c92" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id75c4fb1b-44ad-4a76-b038-48c11d452a4a">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Adoption kan meddeles efter stk. 2, hvis betingelserne for anbringelse af barnet uden for hjemmet i § 58, stk. 1, nr. 1 eller 2, i lov om social service er opfyldt og det er sandsynliggjort, at forældrene varigt vil være ude af stand til at varetage omsorgen for barnet, og at adoption af hensyn til kontinuiteten og stabiliteten i barnets opvækst vil være til gavn for barnet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id656e3962-04f3-4029-bfa4-7ece09e0e48f">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når barnet er anbragt uden for hjemmet i en plejefamilie, jf. § 66, stk. 1, nr. 1-3, i lov om social service, og betingelserne for anbringelse af barnet uden for hjemmet i § 58, stk. 1, i lov om social service er opfyldt, kan adoption efter stk. 2 meddeles plejeforældrene, hvis barnets tilknytning til plejefamilien har antaget en sådan karakter, at det vil være skadeligt for barnet at bryde denne tilknytning, navnlig under hensyn til kontinuiteten og stabiliteten i barnets opvækst og til barnets relation til sine forældre.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idd3340765-e36f-4e3d-9727-94ce68e5582a">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="ida4aaa422-367b-4ebc-af94-94c0e4bba13e">
+          <AendringDefinition id="id9ad0326d-ed93-4187-92cc-f27cd3a2ed99">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 9 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd868e51c-338b-4d8f-9439-38bc9bdd46b5" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id09b0c245-292a-400b-8406-e48460e078f8" localId="1">
+                <Explicatus>§ 10.</Explicatus>
+                <Stk id="idb3297367-9d48-4f6a-b966-4a0ded051397">
+                  <Exitus>
+                    <Linea>
+                      <Char>Når statsforvaltningen modtager meddelelse fra kommunalbestyrelsen om, at Ankestyrelsen har meddelt samtykke efter § 68 e i lov om social service til, at et barn kan adopteres uden samtykke fra forældrene, træffer statsforvaltningen efter § 9, stk. 2-4, afgørelse om adoption af barnet, hvis betingelserne er opfyldt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id9fba82e2-019d-4b13-847b-b47d81462d78">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Inden statsforvaltningen træffer afgørelse efter stk. 1, skal statsforvaltningen forespørge barnets forældre, om de vil give samtykke til adoptionen, jf. § 7.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id86f341c3-5460-4c66-b0c0-9de163c90ad8">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id53b1b842-0966-40c4-96ec-75011bc65c45">
+          <AendringDefinition id="id0ecc22e4-f06c-44e6-a3eb-1cb32f339c4d">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1f9c8f85-4543-497c-abdb-e0d3d10d8279" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida1a34992-829a-4a9a-a1da-17eec95bab95">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id15537101-2005-406f-b442-8329b145f683">
+          <AendringDefinition id="idd616b8be-0a78-4f24-87e3-8d195503d813">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 25, nr. 4,</Char>
+                <Char> ændres »behandlingen« til: »statsforvaltningens behandling«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf6e0a51e-e1d4-440e-9d43-76c3181c6ecf" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idecbce981-b25e-49d7-8c86-daae036bb8b0">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="ideca9d4d6-5060-4240-a796-99fbe5cdc32d">
+          <AendringDefinition id="idc91c5243-22af-444c-a33f-fc7a261ac7e3">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 29 b, stk. 1, 2. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6b4b70d8-70c3-4c29-bef2-dd10e156c23c" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Dette gælder dog ikke afgørelser efter § 9.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id5ff3a1f0-0d09-4ceb-9fe5-cfc458f1790e">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om social service, jf. lovbekendtgørelse nr. 150 af 16. februar 2015, som ændret ved § 1 i lov nr. 495 af 21. maj 2013 og § 1 i lov nr. 722 af 25. juni 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idaf81f07e-6078-4e14-8ad3-67b158a5d901">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id5b0108df-7e59-48f1-b7ea-31a5ef9983f1">
+          <AendringDefinition id="ide9181271-8aa5-4386-9666-c52077def150">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13</Char>
+                <Char> indsættes efter stk. 6 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id02b4e859-93ca-4166-974f-5405b1c99f15" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id45b37a99-bfc4-44cb-bee4-4b4c03ceb418">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den nationale videns- og specialrådgivningsorganisation yder gratis vejledende rådgivning til kommuner i sager om adoption uden samtykke.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idef130ead-d547-4ff6-8e04-b98761950821">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 7-10 bliver herefter stk. 8-11.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id72e851f8-4d9c-45b5-a245-ea79468ffde9">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id13f47eb8-e527-4a58-97fe-b4a2a733e759">
+          <AendringDefinition id="id8eb6d6e2-47fc-4ddd-bfb5-23a03d62a0ab">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 68 c indsættes før overskriften før § 69:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4d245b98-15c5-4996-a9fe-2494682cd5ac" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <ParagrafGruppe>
+                <Rubrica id="id4d37f456-7b2e-4818-9574-cf742f8bdd73">
+                  <Linea>
+                    <Char>Myndighedernes opgaver i forbindelse med adoption</Char>
+                  </Linea>
+                </Rubrica>
+              </ParagrafGruppe>
+              <Paragraf id="id22d25b85-dc74-4d1e-848e-8832105106cc" localId="2">
+                <Explicatus>§ 68 d.</Explicatus>
+                <Stk id="ida6fefd01-7cf5-47a1-a85a-000d1fcb7037">
+                  <Exitus>
+                    <Linea>
+                      <Char>I forbindelse med en afgørelse om anbringelse af et barn eller en ung uden for hjemmet efter § 52, stk. 3, nr. 7, jf. § 52, stk. 1, eller § 58, hvor det må antages, at barnet eller den unge vil være anbragt i en længere årrække, skal kommunalbestyrelsen overveje, om hensynet til kontinuitet og stabilitet i barnets eller den unges opvækst taler for, at barnet eller den unge i stedet bliver adopteret.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="ideb29feae-efcd-4c31-99c1-154e2788a245" localId="3">
+                <Explicatus>§ 68 e.</Explicatus>
+                <Stk id="id07508b02-11ba-44db-817b-755ebfc5ce9b">
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis kommunalbestyrelsen vurderer, at adoption af et barn eller en ung ikke kan gennemføres med samtykke fra barnets eller den unges forældre, jf. § 7 i adoptionsloven, og kommunalbestyrelsen vurderer, at adoption vil kunne gennemføres uden samtykke fra forældrene efter § 9, stk. 2-4, i adoptionsloven, forelægger kommunalbestyrelsen sagen for børn og unge-udvalget.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="ida9c52450-5ce7-41de-86d9-4d5d0c581229">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En forelæggelse for børn og unge-udvalget efter stk. 1 skal indeholde en indstilling om, at barnet eller den unge adopteres efter § 9, stk. 2-4, i adoptionsloven.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Indstillingen skal indeholde følgende:</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus id="id440eceb4-16f4-4370-9a85-806b285c558a">
+                    <Index>
+                      <Indentatio id="idf0191034-d2e1-42ba-80b8-fbb14287c872" formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Den børnefaglige undersøgelse, jf. § 50.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="id2c5956af-a4ec-49e0-abbe-5cda2085634f" formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Handleplanen, jf. § 140.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="id708f79eb-839a-4b06-961a-5f98bc21370e" formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>En redegørelse for, at betingelserne for adoption uden samtykke efter § 9, stk. 2-4, i adoptionsloven er opfyldt.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="id48e4fbc4-4b54-473a-8dcb-b529f691df18" formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Oplysninger om barnets eller den unges holdning til den påtænkte adoption, jf. § 6, stk. 1 og 3, i adoptionsloven.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk id="ide9e0bf46-9ae5-4606-a776-19a53f817a9e">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En indstilling om adoption i medfør af § 9, stk. 3 eller 4, i adoptionsloven skal endvidere indeholde en redegørelse for, at betingelserne for anbringelse af barnet eller den unge uden for hjemmet i § 58, stk. 1, er opfyldt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="id6382da51-0870-4b5a-930d-a6324caffc24" localId="4">
+                <Explicatus>§ 68 f.</Explicatus>
+                <Stk id="idcfcb5c07-42c0-46a2-9a09-f038200640b7">
+                  <Exitus>
+                    <Linea>
+                      <Char>På baggrund af en indstilling fra kommunalbestyrelsen, jf. § 68 e, stk. 2, kan børn og unge-udvalget på et møde indstille til Ankestyrelsen, at styrelsen meddeler samtykke til, at barnet eller den unge adopteres efter § 9, stk. 2-4, i adoptionsloven.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id36893371-4ad1-4f94-b310-5d2949e88011">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Inden indstilling efter stk. 1 afgives, skal børn og unge-udvalget give barnet eller den unge, barnets eller den unges forældre, indehaverne af forældremyndigheden over barnet eller den unge og barnets eller den unges eventuelle plejeforældre samt advokaterne og bisidderne for dem lejlighed til at udtale sig.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Plejeforældre kan efter 1. pkt. udtale sig under mødet i børn og unge-udvalget, men anses alene som part i sagen, hvis de søger om adoption af barnet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id99b91cc0-367f-4d0f-9c48-90aa7cd5b5d2">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En indstilling efter stk. 1 kan kun vedtages, hvis mindst 4 af udvalgets 5 medlemmer stemmer for indstillingen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Indstillingen skal være skriftlig og begrundet, og den skal meddeles sagens parter, jf. stk. 2, kommunalbestyrelsen og Ankestyrelsen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Er dommeren ikke enig i indstillingen, skal dette tilføres udvalgets protokol, og meddelelsen om indstillingen skal indeholde oplysning om dommerens opfattelse.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Hvis indstillingen ikke vedtages, gives skriftlig meddelelse herom til sagens parter, jf. stk. 2, og kommunalbestyrelsen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Meddelelsen skal begrundes, og den skal indeholde oplysning om dommerens opfattelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="idd872eee2-b356-4c57-b1cc-12511cbb8c9b" localId="5">
+                <Explicatus>§ 68 g.</Explicatus>
+                <Stk id="idb05796db-63a4-423d-a295-1464e3722b47">
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis Ankestyrelsen kan tiltræde børn og unge-udvalgets indstilling efter § 68 f, stk. 1, meddeler styrelsen samtykke til, at barnet adopteres uden samtykke fra forældrene.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Meddelelsen skal være skriftlig og begrundet og gives til sagens parter, jf. § 68 f, stk. 2, og kommunalbestyrelsen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Hvis Ankestyrelsen ikke kan tiltræde indstillingen, meddeler styrelsen sagens parter og kommunalbestyrelsen dette.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Denne meddelelse skal være skriftlig og begrundet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="idd42bbae5-cde9-4f58-8e44-d5e9dda3d5f9" localId="6">
+                <Explicatus>§ 68 h.</Explicatus>
+                <Stk id="iddc4d4e06-5a90-4b17-b167-d0aa8e4116ad">
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for børn, ligestilling, integration og sociale forhold kan fastsætte nærmere regler om behandlingen af sager efter §§ 68 e-68 g.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc15d3998-8a86-488b-9eb9-0ce7da74b55e">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id4679cf97-02d8-4fdf-94a9-fdd11f8fe727">
+          <AendringDefinition id="id3d0f84c4-5afd-4a78-b454-614c1273c3af">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 74, stk. 1, nr. 11,</Char>
+                <Char> ændres »§ 123 b, stk. 1,« til: »§ 123 b, stk. 1, og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="iddb3e62c3-8f2f-4a70-b382-19f6faea5d92" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4c3beaa8-3dbf-4b03-b0bb-4c35f3406614">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id142fa96f-5b89-465c-8077-27767d9a78e7">
+          <AendringDefinition id="id863ac1f2-ec92-4cb9-8636-221549ef7f24">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 74, stk. 1, nr. 12,</Char>
+                <Char> ændres »123 c og« til: »§ 123 c.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id188ee8f3-5953-4bc3-bf7f-0c1ec5f15157" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4b59f050-d240-4615-a58b-760576fbbd18">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id752785e4-65b6-4efa-8be5-8f6743e5adff">
+          <AendringDefinition id="id8a2f6159-dc69-48dc-9b43-6abb828c311b">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 74, stk. 1, nr. 13,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6f4242db-2ecb-4d91-8b60-4703f3da917c" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9920f568-ce8f-4631-91e8-c0b915eac964">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="idb75e141a-f2a8-4f07-88a3-3b7e0ef169d0">
+          <AendringDefinition id="id24f3a6c2-531d-4aea-995b-02e079b025df">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 74, stk. 4, 1. pkt.,</Char>
+                <Char> udgår », samt afgørelse om anbefaling af adoption, jf. stk. 1, nr. 13,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide1c19ea8-74a1-4c98-ba12-8fc72f7512bf" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id63535647-2198-4661-beb8-4bb6ff62ef72">
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I forældreansvarsloven, jf. lovbekendtgørelse nr. 1085 af 7. oktober 2014, som ændret ved § 2 i lov nr. 1525 af 27. december 2014 og § 1 i lov nr. 270 af 25. marts 2015, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idf55d4ceb-afa7-4ebe-81af-249555e9394e">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id71367c38-c24b-40e1-82b6-75913c3a5b8e">
+          <AendringDefinition id="id5c1be0f8-3ce1-48d2-bcf0-55dbe2e25f03">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 20 a</Char>
+                <Char> indsættes efter »disse,«: »navnlig«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6fe1c130-5d4f-4f38-904e-00e34d93eaf7" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idd2c10d51-987c-4dc6-8823-be99af82a20d">
+      <Explicatus>§ 4</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om retssikkerhed og administration på det sociale område, jf. lovbekendtgørelse nr. 1019 af 23. september 2014, som ændret ved § 7 i lov nr. 1486 af 23. december 2014, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id0a3ae0e9-76bd-46b0-9110-564acac72437">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id0309a351-f99c-4f38-a5e6-2bc345b93f96">
+          <AendringDefinition id="id1c1003b8-1edf-4c1c-a9ab-3f150f71c9f7">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 55, stk. 2, nr. 3,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id35df004c-9d7d-4389-ad70-c77b2018cbdd" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus id="id62ed65ae-5453-40a2-ab44-ec8b56bd8af7">
+                <Index>
+                  <Indentatio id="idcd04ee89-5e62-44a1-a445-510790524eb3" formaInd="Nummer">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Sager om Ankestyrelsens samtykke til, at et barn adopteres uden samtykke fra forældrene efter § 9, stk. 2-4, i adoptionsloven.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="idee7909a5-99d5-4dfc-8700-7d04b9726812">
+      <Explicatus>§ 5</Explicatus>
+      <Stk id="idfc146980-dc3e-4c64-95a8-31b37dda11d8">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. oktober 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id0e96291d-f7ef-4b81-8991-e69fc6dafa14">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 3 finder ikke anvendelse på adoption, der er gennemført før lovens ikrafttræden.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="id762b4029-1c3d-4552-b825-78f4f1fe4fff">
+      <Explicatus>§ 6</Explicatus>
+      <Stk id="id391366fc-6aa4-4fa2-b03b-8a8a8416f25b">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id58224f24-7087-435c-b20d-203b7feac203">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§§ 1 og 3 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som de færøske og grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idf8806fe6-19c2-497f-a3ef-07e39aed7aaf">
+    <UnderskriftStedDato id="idf8806fe6-19c2-497f-a3ef-07e39aed7aaf" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="idf8806fe6-19c2-497f-a3ef-07e39aed7aaf" />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="ideff1381f-bf9d-496c-a16e-90383db665c0" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/02/16/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="ida70ca823-7665-475b-81ff-37e9f6c12c8d">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150027430</AccessionNumber>
+    <DocumentId>CE000267</DocumentId>
+    <UniqueDocumentId>169155</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om akkreditering af videregående uddannelsesinstitutioner (Ingen prækvalifikation af nye uddannelser ved sammenlægning af eksisterende uddannelser)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-03-25</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2015-03-26</EndDate>
+    <Status>Valid</Status>
+    <Number>274</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 274 af 25/03/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Subject>Styrelsen for Videregående Uddannelser</Subject>
+    <Subject>uddannelse</Subject>
+    <Subject>Prækvalifikation</Subject>
+    <Subject>Akkreditering</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Sofie Carsten Nielsen</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Uddannelses- og Forskningsmin.,\nStyrelsen for Videregående Uddannelser, j.nr. 14/021133</JournalNumber>
+    <Ministry>Uddannelses- og Forskningsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="ida386c4e5-f202-43da-96b8-ce72cde1f82c">
+    <Titel id="id4b286bc5-c568-4749-a511-5d359f27674d">
+      <Linea>
+        <Char>Lov om ændring af lov om akkreditering af videregående uddannelsesinstitutioner</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="ida35ef373-f0a9-45b1-85ff-f276ee6e6204">
+      <Linea>
+        <Char>(Ingen prækvalifikation af nye uddannelser ved sammenlægning af eksisterende uddannelser)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id1ec48b3c-c996-4321-94ff-2c279ecc1f5e">
+    <Hymne id="id9a969c07-1005-49d1-8704-dcaf9c3eb1d5">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="idbc1e1f47-ab02-4253-aae2-606f106461c2">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 601 af 12. juni 2013 om akkreditering af videregående uddannelsesinstitutioner foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idcf8638d1-67a6-41b1-80de-16a0c9373451">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id2c94b7b0-9831-42fc-b2cc-538b815789f1">
+          <AendringDefinition id="id91989ddd-1080-41d7-982a-1ef5569a6d73">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18 </Char>
+                <Char>indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3 </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">4:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id27200d21-c55f-4bec-97d8-aff19e87cc03" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="idda0a401b-e963-48b0-bac2-755447f2c793">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1 finder ikke anvendelse ved en sammenlægning af eksisterende uddannelser, medmindre sammenlægningen medfører en udvidelse af de sammenlagte uddannelsers formål og erhvervssigte og udvidelsen har væsentlige negative konsekvenser for arbejdsmarked og rekrutteringsgrundlag for eksisterende beslægtede uddannelser og uddannelsesudbud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id574b8be1-a907-4aed-8089-170dfa9ea6c0">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren fastsætter nærmere regler om betingelser for sammenlægning af uddannelser uden forudgående prækvalifikation, herunder lukning af uddannelser og andre forhold ved sammenlægning af uddannelser, jf. stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1f4b14bc-d315-4be8-bde1-0f95c21d5463">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id0dff2772-57a4-4ac5-8de2-6f6864d30a98">
+          <AendringDefinition id="id71cea43f-1792-436c-b208-3d01290cea36">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 21, stk. 1, </Char>
+                <Char>indsættes efter »uddannelsesudbud«: », jf. dog § 18, stk. 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7103eef1-8be9-4954-9f4d-5102e5846ea6" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id99f67a91-416e-4e26-9758-fa23e3cecd49">
+      <Explicatus>§ 2</Explicatus>
+      <Stk id="idec14d1ec-6cbd-4e85-9220-a1652f92f6f0">
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. april 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="ida6cdaf72-ce41-4125-afba-475983a76147">
+    <UnderskriftStedDato id="ida6cdaf72-ce41-4125-afba-475983a76147" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="ida6cdaf72-ce41-4125-afba-475983a76147" />
+  </UnderskriftGruppe>
+</Dokument>

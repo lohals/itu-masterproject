@@ -1,0 +1,1573 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idbd9a834d-ea7b-4962-9b4f-54fa9a8bf8b8" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id5980dce2-49f5-46a5-a267-fac3daab40ac">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20160065230</AccessionNumber>
+    <DocumentId>AN012590</DocumentId>
+    <UniqueDocumentId>181750</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om indkomstbeskatning af aktieselskaber m.v., aktieavancebeskatningsloven, virksomhedsskatteloven og forskellige andre love og om ophævelse af lov om investeringsfonds (Tilpasning i forhold til EU-retten med hensyn til genbeskatning af underskud i faste driftssteder, definition af datterselskabsaktier og nedsættelse af indkomstskattesatsen på udgående udbytter samt indgreb mod omgåelse af udbyttebeskatningen i forbindelse med investering i investeringsinstitutter, justering af indgrebet i virksomhedsordningen og andre justeringer af erhvervsbeskatningen)</DocumentTitle>
+    <Year>2016</Year>
+    <DiesSigni>2016-06-08</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-01-14</EndDate>
+    <Status>Valid</Status>
+    <Number>652</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1162 af 01/09/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1164 af 06/09/2016</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1147 af 29/08/2016</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1148 af 29/08/2016</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1283 af 25/10/2016</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 652 af 08/06/2016</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Karsten Lauritzen</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Skattemin., j.nr. 15-1386553</JournalNumber>
+    <Ministry>Skatteministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="idad4a2eaa-d791-45ad-bbb1-23655ca0ba10">
+    <Titel id="idd986d7ab-fca0-478a-a69d-2bbf4903b751">
+      <Linea>
+        <Char>Lov om ændring af lov om indkomstbeskatning af aktieselskaber m.v., aktieavancebeskatningsloven, virksomhedsskatteloven og forskellige andre love og om ophævelse af lov om investeringsfonds</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id34aabdf8-a794-4e48-adfb-963387521788">
+      <Linea>
+        <Char>(Tilpasning i forhold til EU-retten med hensyn til genbeskatning af underskud i faste driftssteder, definition af datterselskabsaktier og nedsættelse af indkomstskattesatsen på udgående udbytter samt indgreb mod omgåelse af udbyttebeskatningen i forbindelse med investering i investeringsinstitutter, justering af indgrebet i virksomhedsordningen og andre justeringer af erhvervsbeskatningen)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="ida4ff3e45-c64a-4dc1-9b6b-984948823dc7">
+    <Hymne id="id7f966bdb-f811-4332-a922-7df0dc2b19c6">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="idb0b050d6-ac80-4f57-8b80-db2e3dbdae98">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om indkomstbeskatning af aktieselskaber m.v., jf. lovbekendtgørelse nr. 680 af 20. maj 2015, som ændret ved § 2 i lov nr. 998 af 30. august 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id98f4c1a1-7a3f-4edb-8adc-428d1e6b228e">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idbfcd5210-9511-424f-9b44-258c0e8ebeee">
+          <AendringDefinition id="idcce2af1e-9b88-48cd-9701-2fda97286200">
+            <Exitus>
+              <Linea>
+                <Char>Lovens </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">titel </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida282ad7d-ad6c-4461-ab87-88b3133612a7" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <Titel id="id28b28f43-022c-4469-82e7-328c54dc938d">
+                <Linea>
+                  <Char>Selskabsskatteloven</Char>
+                </Linea>
+              </Titel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id6d470570-1263-45d2-951c-adb081d00ff5">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id2624a3b7-1d2e-4e64-bf6c-71b0debdcfaf">
+          <AendringDefinition id="idc3216cfc-17ea-485a-b2fa-2f8d1bc1d0c7">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 1, nr. 2 e, 1. pkt., </Char>
+                <Char>indsættes efter »elektricitet«: », og som har en installeret effekt på over 25 kW«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb86f95ff-51f8-4f8a-b05d-c7d6c9f81e48">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2442948f-7d88-4d65-846e-3bdc3d914f10">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="idc550505e-5d64-4606-ad83-362fada4fe98">
+          <AendringDefinition id="id9aa3afb9-74db-49fa-9673-bf4e66364dd3">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 1, nr. 2 e, 3. pkt., </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> nr. 2 h, 3. pkt., </Char>
+                <Char>indsættes efter »aktieselskaber«: »og anpartsselskaber«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd530edfe-1344-4c8a-9cf3-6c33f172e309">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id818160e9-2b7c-4d05-a3dc-01b9181c1ee7">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="idf8815a2b-607c-40b0-beec-22f9eb40007b">
+          <AendringDefinition id="id0d2a9833-e812-4e45-a0f5-cca895e02be0">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 4, 1. pkt., </Char>
+                <Char>indsættes efter »fast ejendom«: »og indtægt ved produktion af elektricitet og varme«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide63793d6-4281-4f4e-a1ce-d138fbfec6b3">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf96f693c-044e-4485-8f9d-a3d67a7d3b90">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id280a8e2c-76fa-43ef-8db1-0fc229c71cc8">
+          <AendringDefinition id="id5ff2d6b5-5d80-43bd-80e2-3e2f65755508">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 5, </Char>
+                <Char>indsættes som</Char>
+                <Char formaChar="Italic"> 2. </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 3. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idaddc0db6-58e7-4b9e-b03e-2704a063b874">
+            <AendringNyTekst>
+              <Stk id="idfa97b400-01ac-4f8d-8402-70d870c07750">
+                <Exitus>
+                  <Linea>
+                    <Char>Indtægt ved produktion af elektricitet og varme er ikke omfattet af 1. pkt. Fjernvarmeværkers indtægt ved produktion af varme er ikke omfattet af 2. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8e25c30b-971c-4ddd-940a-bd9f69b05dad">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id1f62722e-f653-47bc-9720-383746b71ef7">
+          <AendringDefinition id="idf806d67c-5a93-4711-98f6-191488c0b94e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 2, stk. 3, 2. pkt., </Char>
+                <Char>ændres »27 pct.« til: »22 pct.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id20177870-4e99-443d-9b80-ff9339b1946c">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf2f3a28a-52dd-4349-8997-f409aeb802bb">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="idfddcfe4c-ac9d-4e66-937f-d02593debd5c">
+          <AendringDefinition id="id446010a3-4eba-4cc5-9081-b5ae6bacad17">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 3, stk. 1, nr. 4, </Char>
+                <Char>indsættes som</Char>
+                <Char formaChar="Italic"> 3. </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 4. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2f15028e-9b6d-402d-806c-f3e6f28faeea">
+            <AendringNyTekst>
+              <Stk id="id36219381-d5d2-46c0-8a29-dad4ae6e6f10">
+                <Exitus>
+                  <Linea>
+                    <Char>Betingelserne i 1. pkt. er også opfyldt, selv om en havn, en lufthavn eller et gas- eller fjernvarmeværk har produktion af elektricitet med en installeret effekt på 25 kW eller derunder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Fritagelsen efter 1. pkt. gælder dog ikke indtægt ved produktion af elektricitet og for en havn eller lufthavn indtægt ved produktion af varme.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id20f75725-7637-4d66-ad2c-8223164fe682">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id8c328441-948a-4228-a532-a8b69f38c75f">
+          <AendringDefinition id="id4b15b997-3274-4009-8d5f-438a1bb14f43">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 3, stk. 1, nr. 4 a,</Char>
+                <Char> indsættes som</Char>
+                <Char formaChar="Italic"> 3. </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 4. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9d58ca67-8492-4753-aa41-aeb55682d65a">
+            <AendringNyTekst>
+              <Stk id="id96c8bff3-05e3-4695-8b3a-ce65fbc4b81c">
+                <Exitus>
+                  <Linea>
+                    <Char>Betingelserne i 1. pkt. er opfyldt, selv om et vandforsyningsselskab m.v. har aktiviteter i form af produktion af elektricitet eller produktion af varme.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Fritagelsen efter 1. pkt. gælder dog ikke indtægt ved produktion af elektricitet og varme.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idfe5cb942-97c0-4990-8671-d815548bc756">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="id164e2683-b8ec-4ac8-8edf-ca7e1a01f08c">
+          <AendringDefinition id="id71f9a7b2-ceaa-426a-be25-2c71fcbb2c92">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 3, stk. 8, 2. pkt., </Char>
+                <Char>ændres »§ 35 O, stk. 6,« til: »dagæld­ende § 35 O, stk. 6, jf. lovbekendtgørelse nr. 680 af 20. maj 2015,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3e802335-d0b1-45d2-8db4-88e8d18db5e5">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id77ca41ec-2bcf-417d-a37a-e41e97701bdc">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="ide8a4f101-3b39-4368-a20a-f00539649502">
+          <AendringDefinition id="ideccbcb9d-0c01-4110-a5f6-ca585d6d344d">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5 C, stk. 2, 3. pkt.,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7eb09d2d-a8d9-4cd3-bf05-5977297bc2c7">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida7285187-e681-4090-bfa8-46daa0f9e9e2">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="idfac1f3ad-e7c9-4d5c-90a4-c8ef69c8cf4f">
+          <AendringDefinition id="ida7e9b895-cedf-46f8-a83c-a3f2cb67e7f0">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13, stk. 3, </Char>
+                <Char>udgår »og lovpligtige udjævningsreserver inden for kredit- og kautionsforsikring«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4f8580d3-e95d-4ee9-9e2f-105372a7201d">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id04b90cd6-713c-443c-b017-94f3577918be">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="idcb04561d-f17f-4bcd-b1a2-b9453f8f2b66">
+          <AendringDefinition id="id6ec13c5d-ed71-456a-b4ae-f1f6ad1f9082">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13, stk. 4, 1. pkt., stk. 5, 1. </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 2. pkt., stk. 6, 6. pkt., stk. 7, 4. pkt., </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 9, 1. pkt.,</Char>
+                <Char> ændres »stk. 3, 1. pkt.,« til: »stk. 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id74ce7259-76ad-4684-bcf0-00ed079985be">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="iddbe85263-5c63-4de9-8a43-ed01c00fb3a1">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="idd049bdfc-756d-41b2-81f7-5baf33d3d170">
+          <AendringDefinition id="id822597bb-92fd-427e-9083-634a2713d102">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13 D, stk. 3, 2. pkt., </Char>
+                <Char>ændres »§ 35 O« til: »dagældende § 35 O, jf. lovbekendtgørelse nr. 680 af 20. maj 2015«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide0a8c845-af26-4c52-97d5-a832922c352d">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide7b390ea-0869-4f5b-b5a6-27adf5e55036">
+        <Explicatus>14.</Explicatus>
+        <Aendring id="idfbe5f469-5cf9-45a4-9063-4ac354453310">
+          <AendringDefinition id="id3014c1cd-fd5b-4b98-8f1f-c1a56ad9ca66">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 35 O, stk. 1-6,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3c111a1c-ef80-48cd-91cf-ebe85c04f3d1">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idb233ffe6-6785-41ab-ae26-c7e1d9b5c0c9">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 7 bliver herefter stk. 1.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id1dfb8637-d1d7-4020-a6ef-38620b5a312d">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I afskrivningsloven, jf. lovbekendtgørelse nr. 948 af 17. august 2015, som ændret ved § 16 i lov nr. 132 af 16. februar 2016, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id86ab76a2-28db-4c1e-9f06-f195db915194">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id236b6d8c-4a32-4e68-9eb4-6126ebbd5406">
+          <AendringDefinition id="id32898cae-59b2-4919-bf8c-54446bef6c15">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 67</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7d23b8c6-cc16-4593-925f-69010c1f2f53">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id990e1ebd-0a83-460a-8086-92ced4604f37">
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I aktieavancebeskatningsloven, jf. lovbekendtgørelse nr. 1082 af 8. september 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idb6773bc4-3655-4fe9-be98-c729eda67088">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id1f999abc-8840-414d-917a-e03c025d2320">
+          <AendringDefinition id="id9c377cc7-9302-4ceb-9aee-1e9074f1c279">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 2, stk. 3, nr. 3,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id01fb3766-349f-4d09-99c9-62da980f9ffb">
+            <AendringNyTekst>
+              <Exitus id="id3dda519f-9633-4749-9266-ce57b60aee63">
+                <Index>
+                  <Indentatio id="id801853ed-30b3-46f8-be67-44872dc8046d" formaInd="Nummer">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Ved afståelse af aktier m.v., der omfattes af § 19, eller ved afståelse af investeringsbeviser, jf. dog ligningslovens § 16 B, stk. 2, nr. 4.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb286be8c-ae9f-46c3-b28f-13a2ea84a006">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idbed16fdc-29f1-4294-979c-016d3c6daf68">
+          <AendringDefinition id="id50789538-c062-4f80-805b-8357fbc797e4">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4 A, stk. 2, </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6a09558d-7f9c-484f-b1bc-468621182c00">
+            <AendringNyTekst>
+              <Stk id="id5fef5f25-a234-4237-b727-309e8a917e55">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det er en betingelse efter stk. 1, at datterselskabet er omfattet af selskabsskattelovens § 1, stk. 1, nr. 1-2 a, 2 d-2 h eller 3 a-5 b, eller at datterselskabet er et tilsvarende udenlandsk selskab, der er selskabsskattepligtigt uden fritagelse i den stat, hvor datterselskabet er hjemmehørende, herunder efter en dobbeltbeskatningsoverenskomst, og den kompetente myndighed i denne stat skal udveksle oplysning­er med de danske skattemyndigheder efter en dobbeltbeskatningsoverenskomst, en anden international overenskomst eller konvention eller en administrativt indgået aftale om bistand i skattesager.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9b6d5606-127a-4473-a66b-63d908b1f2a6">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id18e2b6b5-52a8-4c07-a964-84d07f19f0d4">
+          <AendringDefinition id="id0edf8d82-6bd8-4ea5-ba13-b1b98204928c">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4 A, stk. 3, nr. 3, </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide4282a49-aa83-4d10-b126-dc2a35f3bf94">
+            <AendringNyTekst>
+              <Indentatio id="idb7ae8419-8709-43f1-8880-188fb4e0eb8e" formaInd="Nummer">
+                <Explicatus>3)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Mellemholdingselskabet ejer ikke hele aktiekapitalen i datterselskabet, eller mellemholdingselskabet ejer hele aktiekapitalen i et datterselskab, som ikke er selskabs­skattepligtigt eller er fritaget for selskabsskattepligt i Danmark eller udlandet, eller som er hjemmehørende i en stat, hvor den kompetente myndighed ikke skal udveksle oplysninger med de danske skattemyndigheder efter en dobbeltbeskatningsoverenskomst, en anden international overenskomst eller konvention eller en administrativt indgået aftale om bistand i skattesager.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide04d8b42-43de-4a6b-b05f-98e4fe66f88d">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id91c7a1e7-5d40-49b3-98f7-48b02f34b14d">
+          <AendringDefinition id="id67e75984-5cc1-4882-a2fc-5ff7460be1e8">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 14, stk. 2, 1. pkt.,</Char>
+                <Char> udgår », § 10 E«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1f620bea-a9fa-4abb-a907-869a9d80f455">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id56404fd8-7b0e-492e-a139-adc861a83eb5">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="idea05c5f4-d5bd-4fd4-9b57-9ece4fbbea4b">
+          <AendringDefinition id="id8abbb4fc-3c96-475f-a4cc-fdee67667ef5">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 23, stk. 2,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">5. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9d1fd595-6e2b-4e8e-8214-a74bfe6c350e">
+            <AendringNyTekst>
+              <Stk id="id0e456015-5c23-4fb0-b60a-50f515f9362e">
+                <Exitus>
+                  <Linea>
+                    <Char>Afståelsessummer, der er skattepligtige efter ligningslovens §§ 16 A eller 16 B, indgår ikke i opgørelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5e23afdc-0b8d-45fa-807b-df354d7f7b73">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id8c1ceb51-5e07-40b3-93c3-78f4c3564286">
+          <AendringDefinition id="id12cdad28-545b-45f1-8835-3ace5dc1af6f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 23, stk. 7,</Char>
+                <Char> indsættes efter 4. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide274f679-17d8-429a-bc56-a143361d04f9">
+            <AendringNyTekst>
+              <Stk id="ide34b511f-199a-424b-a690-5f7a995421f7">
+                <Exitus>
+                  <Linea>
+                    <Char>Afståelsessummer, der er skattepligtige efter ligningslovens §§ 16 A og 16 B, indgår ikke i opgørelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id362178d5-5745-4740-b00e-be49c8d51b4f">
+      <Explicatus>§ 4</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I ejendomsavancebeskatningsloven, jf. lovbekendtgørelse nr. 1200 af 30. september 2013, som ændret ved § 8 i lov nr. 202 af 27. februar 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id38a0e753-9d50-4178-9d54-8522f408c385">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idd53266e6-7d53-42a6-bb60-c2bc93250e42">
+          <AendringDefinition id="id77c2b0bd-b3fd-4a66-8069-a86327544e81">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5, stk. 4, nr. 1,</Char>
+                <Char> ændres »investeringsfondsloven« til: »dagældende investeringsfondslov, jf. lovbekendtgørelse nr. 1152 af 7. oktober 2014,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0e7f6f36-d29d-43e1-a95f-8309aac4977f">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id3b8c0e01-cdf5-4e65-af84-cec7e800b2b1">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idae2ee45d-f1de-46f5-b814-5bd57805f9aa">
+          <AendringDefinition id="id20be8a75-0b65-42c3-b74c-4d5fe0b541fc">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5, stk. 4, nr. 2, stk. 5, nr. 1, 1. pkt., stk. 6, nr. 1, </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> stk. 8, 1. pkt.,</Char>
+                <Char> ændres »investeringsfondsloven,« til: »dagældende investeringsfondslov, jf. lovbekendtgørelse nr. 1152 af 7. oktober 2014,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id98b1f4cb-1a28-4929-b65a-647fcf3ab8f7">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id0b63345a-2338-4438-9129-b7fed5b6098e">
+      <Explicatus>§ 5</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I fusionsskatteloven, jf. lovbekendtgørelse nr. 1017 af 24. august 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id0f9ee514-deaf-4199-8f64-cc7e55aa8748">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id2b62909d-ccf7-4355-8b7a-ea54ca74baa0">
+          <AendringDefinition id="iddee76178-2122-447b-a97f-94d011b5c46f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 1, </Char>
+                <Char>ændres »§ 1, stk. 1, nr. 2, i lov om indkomstbeskatning af aktieselskaber m.v. (selskabsskatteloven)« til: »selskabsskattelovens § 1, stk. 1, nr. 2,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id20e61140-2c45-4399-9458-005c906ccb10">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idbb35d7e1-9518-4fc0-9bff-cf3452bb619b">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="ida477a600-6496-45bb-9bea-2423e58710dd">
+          <AendringDefinition id="id640f2a50-2c36-4961-aaf7-a8636a9da2d8">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 8, stk. 1, 4. </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 5. pkt., </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idbc812a91-fd1a-4c98-9e5b-a915e3e3e1d6">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idda679809-c034-4515-8910-5c3913fe5cd6">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id1d681f96-158e-4bf4-af4e-147af2ebf630">
+          <AendringDefinition id="id8f842483-5e64-43fe-9cf4-f6d184b36cda">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 15 b, stk. 1, 8. pkt.,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide2e4be84-7f6d-442d-9802-4d43830e1700">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id180eb8ef-5aa5-4b43-a431-a8384aa17d70">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id9bfe91a5-fd8f-4bd7-a26d-5d5de847cd6c">
+          <AendringDefinition id="id6b3dfef2-a3df-40ed-a4f2-046b3ee35613">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 15 b, stk. 2, 8. pkt.,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id214d9883-341f-426e-8d90-413e60e27bb6">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id18e69de9-ab7d-49a5-99a5-d7a49e202226">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id69546f9d-21c7-428b-869e-1b12569e3408">
+          <AendringDefinition id="idcb2db926-6716-4dc5-9825-7f31d79861c0">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 15 d, stk. 2, 6. </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 7. pkt.,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfac2a433-f139-4578-a7e0-1500d915a7a4">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7edaf1c2-183f-4d4a-95d6-0ce0acd74efe">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id428586db-b7e3-4c77-b995-de445b689107">
+          <AendringDefinition id="idd39d2d6f-16a5-40e4-8ac2-eec00341d9fc">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 15 d, stk. 3, 6. </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 7. pkt.,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1a83f357-76c0-48e4-b661-2deb7fc42c9e">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id9f2b48d2-8627-4bfa-9843-913b07a19a8d">
+      <Explicatus>§ 6</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om indskud på etableringskonto og iværksætterkonto, jf. lovbekendtgørelse nr. 1175 af 30. oktober 2014, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id58ca2ec1-2b31-4818-b153-72270db59e75">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id40ee8a34-1fc4-4071-ae28-fcc4b8d48e91">
+          <AendringDefinition id="idd3453b38-919b-409c-8239-18f1c7dfa762">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 7, stk. 9,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3384185c-d3cc-4b7a-89db-80da8e576255">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idf4120491-783b-4d0d-a4fe-33f11eae8489">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 10 og 11 bliver herefter stk. 9 og 10.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id8a892c4e-7cbd-47f0-9176-84b4e4038c7b">
+      <Explicatus>§ 7</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>Lov om investeringsfonds, jf. lovbekendtgørelse nr. 1152 af 7. oktober 2014, ophæves.</Char>
+        </Linea>
+      </Exitus>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idb3125478-9165-4a40-aa51-4c99f4617d9d">
+      <Explicatus>§ 8</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I kildeskatteloven, jf. lovbekendtgørelse nr. 117 af 29. januar 2016, som ændret ved § 3 i lov nr. 1884 af 29. december 2015 og § 2 i lov nr. 428 af 18. maj 2016, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id8b6d924e-ac86-48d2-987a-b82ed887ea46">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idd237a43c-e5d0-4698-acc1-0cee5f7932ab">
+          <AendringDefinition id="idb4c9385a-0028-4f0b-987f-9fe68d07c536">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 65, stk. 3,</Char>
+                <Char> indsættes efter 2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida82f74c0-ec09-4734-a6d2-6b5c881fca74">
+            <AendringNyTekst>
+              <Stk id="id4d4a1e1f-ab35-4208-a68c-8fd3961e0935">
+                <Exitus>
+                  <Linea>
+                    <Char>Skatteministeren kan desuden for selskaber, der skal betale selskabsskat efter § 29 A i selskabsskatteloven, fastsætte regler om, at der ikke skal indeholdes udbytteskat i forbindelse med investeringsinstitutters eller investeringsselskabers udbetaling eller godskrivning af afståelsessummer til selskaber og foreninger m.v., jf. stk. 7 og 9.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er en betingelse, at det kan godtgøres, at de generelle indkomstforhold for selskabet eller foreningen m.v. generelt vil medføre, at den indeholdte udbytteskat helt åbenbart vil overstige indkomstårets samlede indkomstskat.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id05bce2b5-6752-4e68-badc-20b0397668ec">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="ide2bc1c2b-76f1-4ccb-ae89-2289e2ed1825">
+          <AendringDefinition id="id5e834093-71a9-434f-9b95-e44cd00b6d47">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 65, stk. 7, 1. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 9, 1. pkt.,</Char>
+                <Char> indsættes efter »eller godskrivning af udbytte«: »og udbetaling eller godskrivning af afståelsessummer omfattet af ligningslovens § 16 B, stk. 1,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9080552f-d6d2-4ce4-a4b1-ea6a9ac05c31">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idfe4f8f5e-50c9-4654-b770-d74f6a011c73">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id24ecedb7-a1c3-45d3-a40d-bc35d7a04ed5">
+          <AendringDefinition id="idad22065e-f483-4968-8a4c-86551eba4d75">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 65 A, stk. 1,</Char>
+                <Char> ændres »på 27 pct.« til: »med den sats, der fremgår af § 2, stk. 6, eller af selskabsskattelovens § 2, stk. 3,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idee584f86-b9d8-4a96-99ec-bd459ddf9c5a">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id57c651af-0e77-4001-af83-cffce92b5ead">
+      <Explicatus>§ 9</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I kursgevinstloven, jf. lovbekendtgørelse nr. 1113 af 18. september 2013, som ændret ved § 20 i lov nr. 268 af 25. marts 2014, § 3 i lov nr. 1375 af 16. december 2014, § 2 i lov nr. 202 af 27. februar 2015 og § 1 i lov nr. 1883 af 29. december 2015, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id1280ffe5-90b8-4dc6-aa4f-221f23d2ad76">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idb37adeda-5bd2-474d-8e24-01255a0ed9db">
+          <AendringDefinition id="idd822e636-82c7-42f0-9327-9a7835307fa8">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 15, stk. 2, 1. pkt.,</Char>
+                <Char> udgår », § 10 E«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id54dfafb3-b7a3-4c65-92b1-9e152d06f86a">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idac2725ed-43ed-4a48-994e-39ddf6947201">
+      <Explicatus>§ 10</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I ligningsloven, jf. lovbekendtgørelse nr. 1081 af 7. september 2015, som ændret senest ved lov nr. 134 af 16. februar 2016, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id44be5525-d482-4262-b68b-72a6b5f37f10">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id0d02ad07-1254-451c-bec3-88af556e1c3f">
+          <AendringDefinition id="idb7f066b4-d75b-44e5-8bdb-ada734319dd3">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 7 F, stk. 1, nr. 10, </Char>
+                <Char>ændres »§ 22, stk. 1, nr. 7«</Char>
+                <Char formaChar="Italic">
+                </Char>
+                <Char>til: »§ 22, stk. 1, nr. 5«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf7cfd996-bb74-4a1d-a7d2-d2677fc26ad5">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idd1dfc68b-718a-4367-be84-bde72ab60c06">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id4ef46035-1ad0-4dc9-a05a-cb05436868e4">
+          <AendringDefinition id="id3b1e2a8e-d4b6-41ab-aab0-0ee4f37b8fb2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 8, stk. 2, </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 27 A, stk. 2, 1. pkt., </Char>
+                <Char>ændres »lov om indkomstbeskatning af aktieselskaber mv.« til: »selskabsskatteloven.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd03ff095-0351-4eb3-b2f5-db2dba465f55">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb9d864e7-83d3-4055-98cb-7804903ba0ea">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id912b21b9-ecb5-4cc0-b7f2-470a80501050">
+          <AendringDefinition id="idf327808d-7440-4f1d-9087-3ec5f28057f8">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Bold">
+                </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 16 B, stk. 2, nr. 4,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idcd9e57c3-dc6c-41de-ac7d-b50991eea7b2">
+            <AendringNyTekst>
+              <Stk id="idf6c48f96-d0f4-4371-92de-994bb9d39d52">
+                <Exitus>
+                  <Linea>
+                    <Char>1. pkt. omfatter dog alene aktier m.v. eller investeringsbeviser, der er udstedt af et investeringsinstitut, hvis andele udbydes til offentligheden, og som efter national lovgivning, EU-retlig regulering eller international aftale er undergivet et krav om risikospredning og pligt til på en deltagers forlangende at tilbagekøbe eller indløse udstedte andele.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id332db21b-9800-4a92-b0f0-6e471b9b7df5">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="idfa3a4861-887d-4d11-b723-0bd356ed2941">
+          <AendringDefinition id="id8550f3cf-a80e-4b3d-97d4-a0788269d208">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 16 B, stk. 2, nr. 5,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id70f57ec7-e569-497b-b1e9-362f5e893f6d">
+            <AendringNyTekst>
+              <Stk id="idfdae7ab7-e2dd-42f2-afc7-92e7d9d9ce75">
+                <Exitus>
+                  <Linea>
+                    <Char>1. pkt. omfatter ikke aktier, der alene anses for optaget til handel på et reguleret marked som følge af aktieavancebeskatningslovens § 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id13000984-a9aa-4b5a-896f-1ad0fc039bb0">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id4038d56d-c4a1-4acc-aac3-cbc26050b46e">
+          <AendringDefinition id="id4d652860-ed45-4d7d-b620-e30d15c9f3d4">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Bold">
+                </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 16 C, stk. 2, 3. pkt., </Char>
+                <Char>indsættes efter</Char>
+                <Char formaChar="Italic">
+                </Char>
+                <Char>»Et investeringsinstitut«:</Char>
+                <Char formaChar="Italic">
+                </Char>
+                <Char>», der udelukkende investerer i fordringer omfattet af kursgevinstloven, aktier i det administrationsselskab, der forestår investeringsinstituttets administration, afledte finansielle instrumenter efter Finanstilsynets regler herom og beviser i investeringsinstitutter med minimumsbeskatning omfattet af stk. 1, der udelukkende investerer i aktiver som nævnt i nærværende punktum,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id017181b6-eda7-491c-9648-a25fed55b58a">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idbb896d33-a9d3-4bac-93cf-ebb8982bac83">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id9a62b6af-9d69-4697-a5c6-5744b10ca265">
+          <AendringDefinition id="id6e92a7b5-ce30-4c18-bad8-baec7e21aacf">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 33 D, stk. 1, 4. pkt.,</Char>
+                <Char> ændres »henlæggelser til investeringsfonde og indskud på etableringskonti« til: »indskud på etableringskonti og iværksætterkonti«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1e6d371b-5360-424e-bb78-569e961931cd">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id6c0b080f-9e23-46f9-8ba6-db367fd0bb89">
+      <Explicatus>§ 11</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I personskatteloven, jf. lovbekendtgørelse nr. 1163 af 8. oktober 2015, som ændret ved § 6 i lov nr. 1574 af 15. december 2015 og § 10 i lov nr. 1888 af 29. december 2015, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id8c771a22-b79d-4946-a6d9-d355838a8650">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id39eda27d-3dd4-4759-89ba-093eced8262b">
+          <AendringDefinition id="id5c77598d-f285-474b-babe-7644e0739009">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 3, stk. 2, nr. 4, </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idba270a1d-7b61-4922-b7fe-58230bc43c8c">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id598aef29-65d7-4ced-8417-8a119693464a">
+          <Exitus>
+            <Linea>
+              <Char>Nr. 5-12 bliver herefter nr. 4-11.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="ideda9dfd7-1775-4cd1-9feb-b47d61ad6c2b">
+      <Explicatus>§ 12</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I skattekontrolloven, jf. lovbekendtgørelse nr. 1264 af 31. oktober 2013, som ændret bl.a. ved § 1 i lov nr. 1354 af 21. december 2012, § 1 i lov nr. 1634 af 26. december 2013, § 3 i lov nr. 528 af 28. maj 2014, § 7 i lov nr. 1286 af 9. december 2014 og § 1 i lov nr. 1884 af 29. december 2015 og senest ved § 3 i lov nr. 1885 af 29. december 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idb79730c4-c4dd-4cef-858f-624fac515632">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id3c9149a6-069a-4b05-8000-06c0a91544c3">
+          <AendringDefinition id="id55ce14b8-6c6d-4fef-a584-07df5720fba9">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 1, 2. pkt.,</Char>
+                <Char> ændres », § 10 B eller § 10 E« til: »eller § 10 B«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7e7db84a-667a-4624-bbf1-cca37c58c98d">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4b5499e6-9b0b-4dfe-ab03-e391c1f0a08d">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idf668f0ef-955d-4b8e-9d70-7b1581f840cf">
+          <AendringDefinition id="ide42cfc5d-ef28-4e99-8d21-abec7e271393">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 9, stk. 1,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 14, stk. 2,</Char>
+                <Char> udgår »§ 10 E, stk. 1,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id225c84f1-cc9c-4e59-8eae-5323407af30a">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7b960df4-a884-459b-8ac2-b50fbd6b2e78">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id16aa6acd-b703-42e9-a881-06b01fc6b17e">
+          <AendringDefinition id="idd272d381-1b76-4848-9389-94fb211407c8">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 9 A, stk. 1 </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 10 D</Char>
+                <Char> udgår », § 10 E«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1eb98023-f7bb-4502-93bc-f958f5e02cfa">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf60b9f40-0f63-4dc7-a9ce-d2b6d8dda3a9">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="idc9615805-7a22-491d-995a-0a6b4533424f">
+          <AendringDefinition id="id91ae38e2-3bda-438f-a937-478c77fdc465">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 10 A, stk. 3,</Char>
+                <Char> indsættes efter »vekselerere«: », administratorer af værdipapirfonde«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id13f5382d-15ed-4ec7-9e8e-425ff23ce909">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2608030a-77f5-4340-b4c4-6306e07c2408">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id98086897-983d-438d-9325-d908c1cb12a3">
+          <AendringDefinition id="id6412a153-2a47-4e02-b1f9-aeaa760a4116">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 10 E</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd77d2d39-c7e9-48b9-bd0f-516c589cf39e">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf110be7d-4ae4-4dba-87c1-faa85110d8a7">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="idfd43891f-fdea-43c4-8024-0285d11a564c">
+          <AendringDefinition id="id6e90aac6-be60-418e-b90a-4c3bf45d7e14">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 11 H, stk. 2,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4b73a34e-09ca-4661-98a1-0514e1a691ca">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id2178e2a0-39d6-46a7-9837-781a1853b1e7">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 og 4 bliver herefter stk. 2 og 3.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id4425182d-b486-4b5f-ad4a-1bdedbba0fb6">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id2edbd559-e6c9-4aad-bce4-157bfbd3253e">
+          <AendringDefinition id="idbed00e82-f274-423d-a11d-c3c69a36a663">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 11 H, stk. 3,</Char>
+                <Char> der bliver stk. 2, udgår »og 2«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2b2bd629-8040-4b1d-8fff-15d3f038fc71">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8590e154-158b-4bad-a3e1-c1088ab73b99">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="idd511c528-f55f-4ed1-90bb-e5406b6afaa3">
+          <AendringDefinition id="idc01fff63-1dcb-424e-ba23-3fc365ac4526">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 11 H, stk. 4,</Char>
+                <Char> der bliver stk. 3, udgår »eller 2«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idcfc668e6-10a5-47bc-ac62-e17038fd36df">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id5de60528-b2b7-4b05-a7b5-c9fa91654c3e">
+      <Explicatus>§ 13</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I virksomhedsskatteloven, jf. lovbekendtgørelse nr. 1114 af 18. september 2013, som ændret ved § 9 i lov nr. 792 af 28. juni 2013, § 1 i lov nr. 992 af 16. september 2014 og § 4 i lov nr. 202 af 27. februar 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id917c31e0-b65d-4345-a110-29f6933ccdcc">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id598657fc-25ce-4532-885e-57024e2f935c">
+          <AendringDefinition id="id6a652dad-4648-40d5-9fa4-54ae38d0a27d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 3, stk. 3,</Char>
+                <Char> udgår », indskud på særlige konti i et pengeinstitut efter § 5 i lov om investeringsfonds«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id337719e7-d8a7-43db-af10-ad44d6cacaf6">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc7bb0f04-7d0e-4190-ba0c-9f708ca6d986">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id24cae46c-5973-4093-af6c-2fb9455061d8">
+          <AendringDefinition id="id8679cba5-657d-4715-a29f-142eaaadd367">
+            <Exitus>
+              <Linea>
+                <Char>Efter kapitel 2 a indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id446d6f83-bff1-4ae3-bf60-e5a79a2932f1">
+            <AendringNyTekst>
+              <Kapitel id="id10b05351-eb21-4b14-844c-0c409fce67d4" localId="2b">
+                <Explicatus>Kapitel 2 b</Explicatus>
+                <Rubrica id="id18506bad-e4f0-4999-8ffb-8fb3684347f9">
+                  <Linea>
+                    <Char>Sikkerhedsstillelser</Char>
+                  </Linea>
+                </Rubrica>
+                <ParagrafGruppe>
+                  <Paragraf id="idd4799627-cf65-4706-9600-377d961c7c71" localId="4b">
+                    <Explicatus>§ 4 b.</Explicatus>
+                    <Stk id="id181c9b2e-dece-4718-a905-f7cf917ed351">
+                      <Exitus>
+                        <Linea>
+                          <Char>Stilles aktiver, der indgår i virksomhedsordningen, til sikkerhed for gæld, der ikke indgår i virksomhedsordningen, anses den skattepligtige for at have gjort brug af værdier i virksomhedsordningen svarende til det laveste beløb af enten gældens kursværdi eller aktivernes handelsværdi i det indkomstår, hvori der stilles sikkerhed, jf. dog stk. 2-4.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Beløbet i 1. pkt. anses for overført fra virksomhedsordningen til privatøkonomien.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Beløbet opgøres på det tidspunkt, hvor aktiverne stilles til sikkerhed, eller på det tidspunkt, hvor den skattepligtiges tilvalg af virksomhedsordningen har virkning fra, hvis den skattepligtige forud for tilvalget af virksomhedsordningen har stillet virksomhedens aktiver til sikkerhed for gæld, der ikke indskydes i virksomhedsord­ning­en samtidig med virksomhedens aktiver.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id8c364909-3394-4f15-8f56-5c543d81c24d">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Stk. 1 finder ikke anvendelse for sikkerhedsstillelse, der er foretaget som led i en sædvanlig forretningsmæssig disposition.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id6b553af4-893a-4984-a738-078bebb307f0">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Stk. 1 finder ikke anvendelse for gæld med pant i fast ejendom omfattet af § 1, stk. 3, 2. og 3. pkt., i det omfang gældens kursværdi ikke overstiger ejendomsværdien med tillæg af udgifter til forbedringer, som er foretaget efter fastsættelsen af ejendomsværdien, eller den kontante anskaffelsessum for den del af ejendommen, der tjener til bolig for den skattepligtige.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Vurderingen efter 1. pkt. foretages på det tidspunkt, hvor der gives pant i den faste ejendom, eller på det tidspunkt, hvor den skattepligtiges tilvalg af virksomhedsordningen har virkning fra, hvis den skattepligtige forud for tilvalget af virksomhedsordningen har givet pant i ejendommen for gæld, der ikke indskydes i virksomhedsord­ning­en samtidig med ejendommen.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Stk. 1 finder ikke anvendelse for gæld med pant i fast ejendom omfattet af § 1, stk. 3, 2. og 3. pkt., hvis gælden kan henføres til omlægning af gæld, der er undtaget efter 1. pkt., og kursværdien af gælden ikke overstiger kursværdien af den gæld, der er omlagt.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id597004ab-9e7b-4703-9328-10c660ad5e9e">
+                      <Explicatus>Stk. 4.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Stk. 1 finder ikke anvendelse for gæld med pant i fast ejendom, der tidligere har tjent til bolig for den skattepligtige, hvis gælden indskydes i virksomhedsordningen i samme indkomstår som ejendommen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb907b036-ded6-4790-883d-8a41cb1fb7aa">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="idf9de131b-5b9b-49fa-b2ec-2acb01bb0f40">
+          <AendringDefinition id="idc88955d0-d630-43d5-bf0b-ab21eea50283">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5, stk. 1</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2,</Char>
+                <Char> indsættes efter »værdier«: »og beløb omfattet af § 4 b, stk. 1,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd9a9f729-5e71-4075-87dd-fb1d2be866ee">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1c0fca4d-48c6-4a7a-b86e-823f10d588ff">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id62e08606-ee70-4af1-993b-6371f9314dba">
+          <AendringDefinition id="id9df0bb29-d4cf-46f6-85c3-20a86af51620">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 8, stk. 1, 1. pkt.,</Char>
+                <Char> indsættes efter »§ 4 a«: », beløb, der i tidligere indkomstår er omfattet af § 4 b, stk. 1,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2df40928-ded3-47f9-a82c-cd560fc1189c">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id62819643-f3a5-417f-83f1-d77c1aa239ff">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="idaaf75ab0-e4e8-45da-8172-9acd1d716746">
+          <AendringDefinition id="idae117a99-953e-4383-9ffc-cd0af209078f">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 10, stk. 6-9,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4e3792cd-af9c-4904-9222-91bf9eabebe4">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id36b37ef8-1ea6-44a5-b581-0dbcaa50e47d">
+      <Explicatus>§ 14</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 426 af 6. juni 2005 om ændring af selskabsskatteloven og andre skattelove (Nedsættelse af selskabsskatten og globalpuljeprincip i sambeskatningen), som ændret ved § 5 i lov nr. 1182 af 12. december 2005, § 14 i lov nr. 343 af 18. april 2007, § 6 i lov nr. 344 af 18. april 2007 og § 10 i lov nr. 591 af 18. juni 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="ide4df43c5-b216-4189-9af3-0e3c7bd9814b">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id24bf0b94-0d9b-47f7-8fcf-62b60da48518">
+          <AendringDefinition id="id47c81024-5a83-4447-8c45-f3ad9a23254c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 15, stk. 9, 4. pkt., </Char>
+                <Char>ændres »9. og 10. pkt.« til: »9.-11. pkt.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1c6dbf0f-c2e5-48a0-9358-4b8ebbcf9f1d">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc3d43852-cb45-43b5-bd34-92dc15fc292b">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idd568341f-260e-478c-87e0-1a3476ff0b28">
+          <AendringDefinition id="idbb814879-7b2f-4f39-8c8c-5933e9a83a72">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 15, stk. 9, </Char>
+                <Char>indsættes efter 9. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2393c7c8-8d19-42b3-a862-c123c454d8f9">
+            <AendringNyTekst>
+              <Stk id="id3d060b3f-c052-42a2-b1f5-f6741255b6f4">
+                <Exitus>
+                  <Linea>
+                    <Char>Ligningslovens § 33 D, stk. 5, jf. lovbekendtgørelse nr. 995 af 7. oktober 2004, finder dog ikke anvendelse, hvis det faste driftssted er beliggende i et land, der er medlem af EU eller EØS.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id93e7d676-acc7-4f12-bd14-db0fe771828d">
+      <Explicatus>§ 15</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 521 af 17. juni 2008 om ændring af dødsboskatteloven og forskellige andre love (Forhøjelse af grænser for skattefritagelse, ændringer som følge af arveloven og nye aktieavancebeskatningsregler m.v.) foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id321caad2-cb9a-45a2-9542-6dbe7cc13471">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="ide8332788-46b7-4af4-9091-a3798499b688">
+          <AendringDefinition id="id4a2e0b27-fc70-4408-95e7-412e0e8a8f32">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idbae8d0a8-85f4-4d8d-bf65-8b1c6e0c6165">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id53942aa6-ba23-4f3e-8b49-be9dc53dac75">
+      <Explicatus>§ 16</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om Energinet.dk, jf. lovbekendtgørelse nr. 1097 af 8. november 2011, som ændret ved § 3 i lov nr. 575 af 18. juni 2012, § 4 i lov nr. 576 af 18. juni 2012, § 3 i lov nr. 633 af 16. juni 2014, § 2 i lov nr. 1283 af 24. november 2015 og § 9 i lov nr. 261 af 16. marts 2016, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idad91e82f-2b51-4542-be1c-d669f6b8b68e">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id1ff67166-385e-4903-a240-e0217882937c">
+          <AendringDefinition id="id8ff05caa-854a-402c-a571-867238ea74b4">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 2, 2. pkt.,</Char>
+                <Char> ændres »selskabsskattelovens § 35 O« til: »dagældende § 35 O i selskabsskatteloven, jf. lovbekendtgørelse nr. 680 af 20. maj 2015«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd4902269-d3aa-4da8-b394-0329a51dc113">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id6255ec64-56ef-45b8-a4d2-ed0b3ffaf470">
+      <Explicatus>§ 17</Explicatus>
+      <Stk id="id261d62f5-211d-49db-9d30-1977334de7d1">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. juli 2016.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="ida29677c2-4cf1-43ce-b6d3-dc8da47846c9">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 2-5, 7 og 8, har virkning fra og med indkomståret 2017.</Char>
+          </Linea>
+          <Linea>
+            <Char>Selskaber og foreninger m.v. kan vælge at anvende bestemmelserne i indkomståret 2016.</Char>
+          </Linea>
+          <Linea>
+            <Char>Uanset selskabsskattelovens § 5, stk. 4, sidestilles overgang til beskatning efter selskabsskattelovens § 1, stk. 1, nr. 6, eller til undtagelse fra beskatning efter selskabsskattelovens § 3 ikke med ophør af virksomhed.</Char>
+          </Linea>
+          <Linea>
+            <Char>Ved overgang ved begyndelsen af indkomståret 2017 til beskatning efter selskabsskattelov­ens § 1, stk. 1, nr. 6, kan underskud som følge af tab på aktiver og passiver, der er realiseret i perioden fra den 23. februar 2016 til udgangen af indkomståret 2016, ikke fremføres, i det omfang der er urealiserede gevinster på aktiver og passiver, der udgår fra beskatningen som følge af overgangen.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idf85c3b22-0af2-438c-b531-1487f9e59b86">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 6, har virkning for udbytter, der udloddes den 1. januar 2007 eller senere, hvis det udbyttemodtagende selskab er hjemmehørende i EU eller EØS, og for udbytter, der udloddes den 1. juli 2016 eller senere, hvis det udbyttemodtagende selskab er hjemmehørende uden for EU og EØS.</Char>
+          </Linea>
+          <Linea>
+            <Char>I kalenderårene 2007 til og med 2013 er indkomstskattesatsen 25 pct. I kalenderåret 2014 er indkomstskattesatsen 24,5 pct. I kalenderåret 2015 er indkomstskattesatsen 23,5 pct.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id99ddc69d-1f70-442e-829c-0e29ce0bd719">
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 3, nr. 2 og 3, har virkning for udenlandske datterselskabsudbytter og afståelsessummer, der er modtaget den 1. januar 2010 eller senere, og gevinster og tab på udenlandske datterselskabsaktier, der er afstået i indkomståret 2010 eller senere, medmindre de er afstået inden den 22. april 2009.</Char>
+          </Linea>
+          <Linea>
+            <Char>Fradrag for tab på datterselskabsaktier efter 1. pkt., der er afstået inden den 23. februar 2016, bortfalder dog kun, i det omfang der i samme periode er modsvarende skattepligtige gevinster, udbytter og afståelsessummer på aktierne i det pågældende selskab.</Char>
+          </Linea>
+          <Linea>
+            <Char>§ 3, nr. 2 og 3, har endvidere virkning for udbytter og afståelsessummer modtaget i perioden fra og med den 1. januar 2009 til og med den 31. december 2009, hvis moderselskabet ejede mindst 10 pct. af aktiekapitalen i datterselskabet i en sammenhængende periode på mindst 1 år, inden for hvilken periode udbytteudlodningen m.v. fandt sted, og datterselskabet var selskabsskattepligtigt uden fritagelse, og har virkning for udbytter og afståelsessummer modtaget i perioden fra og med den 1. juli 2007 til og med den 31. december 2008, hvis moderselskabet ejede mindst 15 pct. af aktiekapitalen i datterselskabet i en sammenhængende periode på mindst 1 år, inden for hvilken periode udbytteudlodningen fandt sted, og datterselskabet var selskabsskattepligtigt uden fritagelse.</Char>
+          </Linea>
+          <Linea>
+            <Char>Det er en betingelse i 1.-3. pkt., at den kompetente myndighed i den stat, hvor datterselskabet er hjemmehørende, skal udveksle oplysninger med de danske skattemyndigheder efter en dobbeltbeskatningsoverenskomst, en anden international overenskomst eller konvention eller en administrativt indgået aftale om bistand i skattesager, som har virkning for det pågældende tidspunkt.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idf6452fe2-c573-4dd8-a741-338596565d73">
+        <Explicatus>Stk. 5.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 3, nr. 5 og 6, og § 10, nr. 3 og 4, har virkning for salg til det udstedende selskab, der sker den 23. februar 2016 eller senere.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id3e5b2b5e-7b54-424d-b616-c8f3e4895027">
+        <Explicatus>Stk. 6.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Den skattepligtige kan vælge, at stk. 8, 2. pkt., og § 13, nr. 2-5, har virkning fra og med den 11. juni 2014 og finder anvendelse for alle sikkerhedsstillelser.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id08777ef4-47ae-47b1-9e39-fee036e74d40">
+        <Explicatus>Stk. 7.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Den skattepligtige, der i perioden fra og med den 11. juni 2014 til og med den 8. september 2014 har foretaget dispositioner, der omfattes af virksomhedsskattelovens § 10, stk. 6, kan vælge, at opgørelsen af beløb efter virksomhedsskattelovens § 10, stk. 6, 1. pkt., som ophævet ved denne lovs § 13, nr. 5, skal ske på baggrund af sikkerhedsstillelsens størrelse for alle dispositioner i perioden.</Char>
+          </Linea>
+          <Linea>
+            <Char>Finder 1. pkt. anvendelse, fastsættes gældens kursværdi den 8. september 2014 til den størst udvisende kursværdi af gælden i perioden fra og med den 11. juni 2014 til og med den 8. september 2014 til brug for opgørelse af gældens kursværdi ved anvendelse af virksomhedsskattelovens § 4 b, stk. 1, som indsat ved denne lovs § 13, nr. 2, eller virksomhedsskattelovens § 10, stk. 6, som ophævet ved denne lovs § 13, nr. 5.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="ida2a26d49-8937-4f7e-933a-975240d93401">
+        <Explicatus>Stk. 8.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Virksomhedsskattelovens § 10, stk. 6, som ophævet ved denne lovs § 13, nr. 5, finder ikke anvendelse for sikkerhedsstillelse, der etableres fra og med den 11. juni 2014 til og med den 30. juni 2016, i det omfang denne sikkerhedsstillelse afløser en sikkerhedsstillelse, der eksisterede den 10. juni 2014 og beløbsmæssigt ikke overstiger sidstnævnte sikkerhedsstillelse.</Char>
+          </Linea>
+          <Linea>
+            <Char>Virksomhedsskattelovens § 4 b, stk. 1, som indsat ved denne lovs § 13, nr. 2, finder ikke anvendelse for sikkerhedsstillelse, der etableres fra og med den 1. juli 2016 til og med den 31. december 2017, i det omfang denne sikkerhedsstillelse afløser en sikkerhedsstillelse, der eksisterede den 10. juni 2014 og beløbsmæssigt ikke overstiger sidstnævnte sikkerhedsstillelse.</Char>
+          </Linea>
+          <Linea>
+            <Char>Den beløbsmæssige værdi af en sikkerhedsstillelse, der eksisterede den 10. juni 2014, opgøres pr. 10. juni 2014 som det laveste beløb af enten gældens kursværdi eller aktivernes handelsværdi, jf. dog 4. pkt. Finder stk. 7 anvendelse, fastsættes gældens kursværdi, jf. 3. pkt., til den størst udvisende kursværdi af gælden i perioden fra og med den 11. juni 2014 til og med den 8. september 2014.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id05451bf8-a5f7-434f-8731-cf350f7a0769">
+        <Explicatus>Stk. 9.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 3, stk. 5, 1. pkt., i lov nr. 992 af 16. september 2014 finder ikke anvendelse for sikkerhedsstillelse omfattet af virksomhedsskattelovens § 4 b, stk. 1, som indsat ved denne lovs § 13, nr. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id58903269-ea0f-48ca-8632-8f9638c87bf2">
+        <Explicatus>Stk. 10.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Skattepligtige, der anvender reglerne i afsnit I i virksomhedsskatteloven, kan ændre valg af selvangivne oplysninger vedrørende virksomhedsordningen for indkomstårene 2013 til og med 2015.</Char>
+          </Linea>
+          <Linea>
+            <Char>1. pkt. finder ikke anvendelse for indkomståret 2013, hvis omvalget for dette indkomstår medfører, at den skattepligtige omfattes af § 3, stk. 6, i lov nr. 992 af 16. september 2014.</Char>
+          </Linea>
+          <Linea>
+            <Char>1. pkt. finder endvidere ikke anvendelse for indkomståret 2013, hvis omvalget medfører, at en allerede negativ saldo på indskudskontoen ultimo indkomståret 2013 forøges.</Char>
+          </Linea>
+          <Linea>
+            <Char>Meddelelse om omvalg, jf. 1. pkt., skal være indgivet til told- og skatteforvaltningen senest den 1. juli 2017.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="ide208c31d-489a-4cbf-831f-9900627330c7">
+        <Explicatus>Stk. 11.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Indberetning efter skattekontrollovens §§ 10 A og 10 B vedrørende udlodninger fra værdipapirfonde samt erhvervelser og afståelser af andele i værdipapirfonde skal ske for udlodninger, erhvervelser og afståelser foretaget den 1. juli 2016 eller senere.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="ida2d34bc5-4322-42ad-b3ea-19e083f818ec">
+        <Explicatus>Stk. 12.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Betingelsen i aktieavancebeskatningslovens § 14, stk. 1, anses for opfyldt for andele i værdipapirfonde erhvervet senest den 30. juni 2016, hvis told- og skatteforvaltningen har modtaget oplysninger om erhvervelsen af andelen inden udløbet af selvangivelsesfristen for det indkomstår, som er påbegyndt, men ikke afsluttet, den 1. juli 2016.</Char>
+          </Linea>
+          <Linea>
+            <Char>Betingelsen i 1. pkt. anses for opfyldt, hvis told- og skatteforvaltningen har modtaget oplysninger om besiddelsen efter skattekontrollovens § 11 B, stk. 6, eller uanset tidsfristen i 1. pkt. har modtaget oplysninger om besiddelsen ved indberetning efter skattekontrollovens § 10 A eller oplysning efter skattekontrollovens § 11 B, stk. 7.</Char>
+          </Linea>
+          <Linea>
+            <Char>Aktieavancebeskatningslovens § 14, stk. 2, 2. pkt., finder tilsvarende anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id26066b22-f490-4bdb-8b3a-5954909001cc">
+    <UnderskriftStedDato id="id02ae4e63-9961-4d76-a4a2-d5809bb409c0" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id5b13891a-32e8-46b0-9967-3ecc201b45b6" />
+  </UnderskriftGruppe>
+</Dokument>

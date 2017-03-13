@@ -1,0 +1,705 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id028625f1-b307-4ea9-98e4-5e79349e158c" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id74c70213-f159-4dcd-af0b-b2444210fcb9">
+    <DocumentType>LOV H#LOKDOK 01</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150156530</AccessionNumber>
+    <DocumentId>BE006612</DocumentId>
+    <UniqueDocumentId>176313</UniqueDocumentId>
+    <DocumentTitle>Lov om ansættelsesklausuler</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-12-15</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-03-05</EndDate>
+    <Status>Valid</Status>
+    <Number>1565</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 193 af 02/03/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1565 af 15/12/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Jørn Neergaard Larsen</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Beskæftigelsesmin., j.nr. 2014-3715</JournalNumber>
+    <Ministry>Beskæftigelsesministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id239db1c2-394d-4f72-b823-737774a39bd1">
+    <Titel id="id209fc42e-e5fb-4cd3-98b9-e1bfa67825d2">
+      <Linea>
+        <Char>Lov om ansættelsesklausuler</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id9f2e34ee-9b55-41b0-a489-5af1ec995d76">
+    <Hymne id="id62364a68-32f8-46aa-ac33-5c3821201e42">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <Bog id="id2c386f6a-7bce-4321-8b85-2b245bfbffde">
+      <Afsnit id="id557f11f1-cdee-410a-a610-cccab7a6c3a7" localId="1">
+        <Kapitel id="id9bfdbcd0-75fa-449d-8a77-6f697ef9bbd3" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="id06f0b4bb-7a73-4717-8411-317cc6b17784">
+            <Linea>
+              <Char>Anvendelsesområde og definitioner</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id67f0819f-cd9e-4969-beae-5783df68ba6a" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="idb59a38fd-a1c8-4e88-9af8-0579f2204890">
+                <Exitus>
+                  <Linea>
+                    <Char>Denne lov finder anvendelse på ansættelsesklausuler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id99f8aa7c-c345-41cf-90e2-1642f699732a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I denne lov forstås ved:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idb349a420-df14-40c8-b885-d1fce0298146">
+                  <Index>
+                    <Indentatio id="id16a2c07f-2544-4a8d-9afd-f68a45626450" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Ansættelsesklausuler: Job-, konkurrence- og kundeklausuler samt kombinerede klausuler.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id0469bd79-a8bf-48c4-8c74-9f4337b4fa5a" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Lønmodtager: En person, der modtager vederlag for personligt arbejde i tjenesteforhold.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id50ffb631-fe3d-4365-9ef4-a029f3bda767" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Andet passende arbejde: Arbejde inden for et fagligt område, som lønmodtageren er uddannet til eller har haft beskæftigelse inden for, og som opnås efter fratræden i den periode, hvor lønmodtageren er forpligtet af en ansættelsesklausul.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id350a69c6-9d99-4005-98a4-65cc1df4b965" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Jobklausul: En aftale, som en arbejdsgiver indgår med andre virksomheder med henblik på at hindre eller begrænse en lønmodtagers muligheder for at opnå ansættelse i en anden virksomhed, eller en aftale indgået med en lønmodtager med henblik på at hindre eller begrænse andre lønmodtageres muligheder for at opnå ansættelse i en anden virksomhed.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id08362308-2f6a-4be3-a401-b3080271ef7b" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Konkurrenceklausul: En aftale mellem en lønmodtager og dennes arbejdsgiver om, at lønmodtageren af konkurrencehensyn efter fratrædelsen ikke må drive forretning eller anden virksomhed af en vis art eller tage ansættelse i en sådan.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1336757a-43c8-4b53-a862-e94d22187e55" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Kundeklausul: En aftale mellem en lønmodtager og dennes arbejdsgiver om, at lønmodtageren efter fratrædelsen ikke må tage ansættelse hos eller direkte eller indirekte have erhvervsmæssig kontakt med sin tidligere arbejdsgivers kunder og andre forretningsmæssige forbindelser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id5c5ac191-1f16-4ed9-9bdb-b3e3831e010b" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Kombineret ansættelsesklausul: En aftale om, at lønmodtageren forpligtes af en konkurrenceklausul og en kundeklausul i samme tidsrum.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id24a64fda-d2c0-4f40-b5c0-64361d84e1ed" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="ida616ca5f-628d-42ff-a2d5-94a626e43435">
+                <Exitus>
+                  <Linea>
+                    <Char>Kapitel 3 kan fraviges ved kollektiv overenskomst, som er indgået af de mest repræsentative arbejdsmarkeds­parter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id28db2635-7420-4bb0-a0d1-3470404603f9" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="id7aed0840-60d3-4eca-bdcb-116ee423db5c">
+            <Linea>
+              <Char>Jobklausuler</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id1dfe70d9-a930-477e-ab3a-456698e5de5c" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id08cd1e3b-895b-40a9-9646-2a11a3303414">
+                <Exitus>
+                  <Linea>
+                    <Char>En arbejdsgiver kan ikke gyldigt indgå aftaler om jobklausuler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id5eaf23a0-6e20-45ec-a912-78800bc8695b" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="idce499faf-a52e-4620-a1a0-5453af58a706">
+                <Exitus>
+                  <Linea>
+                    <Char>Virksomheder kan uanset § 3 i forbindelse med forhandlinger om virksomhedsoverdragelser indgå aftaler med andre virksomheder med henblik på at hindre eller begrænse en lønmodtagers muligheder for at opnå ansættelse i en anden virksomhed.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Har en lønmodtager været beskæftiget i 3 måneder eller derunder hos den overdragende virksomhed, kan lønmodtageren ikke blive omfattet af en aftale efter 1. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id792f29a3-2ad8-4bcf-9854-cc6531d262d5">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En jobklausul efter stk. 1 kan opretholdes indtil 6 måneder efter indgåelsen af jobklausulen, uanset om forhandlingerne resulterer i en aftale om virksomhedsoverdragelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id06441ed8-b656-4043-93f5-98d2dddbd581">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Resulterer forhandlingerne efter stk. 1 i en aftale om virksomhedsoverdragelse, kan aftalen opretholdes indtil 6 måneder efter tidspunktet for virksomhedsoverdragelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id2bdac834-9716-4a2a-afba-2ab209a1dfd1" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="id1fccb6fd-31bf-4619-9074-d922734f0be0">
+            <Linea>
+              <Char>Konkurrenceklausuler-, kundeklausuler og kombinerede ansættelsesklausuler</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idee5ea303-2bc9-43d4-baa5-074f8984f9d3" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="id0811cca4-95cd-4eba-b1b8-726f2980d438">
+                <Exitus>
+                  <Linea>
+                    <Char>En aftale om en konkurrenceklausul er alene gyldig, når lønmodtageren</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idd30439f8-5bdf-4195-b95e-eead14f3cbca">
+                  <Index>
+                    <Indentatio id="id5cb09cfa-2899-45c9-9bc2-652057bc7b4a" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>indtager en helt særlig betroet stilling eller indgår en aftale med arbejdsgiveren om udnyttelsesretten til en af lønmodtageren gjort opfindelse,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id38b1acbb-fc94-4d53-a415-25bf88924fa4" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>skriftligt får oplyst, hvilke forhold i lønmodtagerens ansættelse der gør det påkrævet at indgå en aftale om en konkurrenceklausul,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id15ee2aba-e965-4274-9ebb-0d71f12a3928" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>har været i et ansættelsesforhold hos arbejdsgiveren i en uafbrudt periode på mindst 6 måneder,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id5590235d-1d5e-4363-b032-813f5e0571a3" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>får kompensation for den periode, hvor konkurrenceklausulen gælder, efter § 8,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd0332502-a098-4722-8c50-de1c693ce358" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ikke forpligtes af konkurrenceklausulen i mere end 12 måneder fra fratrædelsestidspunktet og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb621fb06-9922-491b-b36f-bd43fb9f85aa" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>skriftligt får udleveret oplysningerne om forholdene i nr. 1-5.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idabe6deca-90bf-413a-98a3-4db5d893c445" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id37a4c1e3-c2fa-407f-811d-1aca8112381e">
+                <Exitus>
+                  <Linea>
+                    <Char>En aftale om en kundeklausul er alene gyldig, når</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="ida6ec145b-a4ea-461a-860b-33d406c87155">
+                  <Index>
+                    <Indentatio id="id18da66f3-00cd-4f6d-9a90-542f578aa075" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>aftalen angår kunder, som lønmodtageren har været i forretningsmæssig forbindelse med inden for de seneste 12 måneder før opsigelses- eller afskedigelsestidspunktet,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id423491bf-5af1-4a59-9d3f-4190b4373b90" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>lønmodtageren har været i et ansættelsesforhold hos arbejdsgiveren i en uafbrudt periode på mindst 6 måneder,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb9a2cd65-0652-4ab3-8d3a-0bf50808836c" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>lønmodtageren får kompensation for den periode, hvor kundeklausulen gælder, efter § 8,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idffc56da0-7840-44a6-bd49-946334eb78c9" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>lønmodtageren ikke forpligtes af kundeklausulen i mere end 12 måneder fra fratrædelsestidspunktet og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id9a946ce8-0141-46b9-b956-be35b9f3f997" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>lønmodtageren skriftligt får udleveret oplysningerne om forholdene i nr. 1-4.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="ida960fdba-7cab-4e77-99c0-cca3864f2a4d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved en lønmodtagers egen opsigelse eller ved afskedigelse af en lønmodtager, som har påtaget sig en kundeklausul, skal lønmodtageren have udleveret en af arbejdsgiveren udarbejdet liste over kunder som nævnt i stk. 1, nr. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id614e5778-ef04-4872-b201-6ea696c357ca" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="id4885aea7-b78b-4924-b987-a4e7122fd751">
+                <Exitus>
+                  <Linea>
+                    <Char>En aftale om en kombineret ansættelsesklausul er alene gyldig, når</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id0c53fa86-d671-4929-96d7-cb73f575c253">
+                  <Index>
+                    <Indentatio id="id9f57f1cb-32fa-48d7-915d-8ea57b194777" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>lønmodtageren ikke forpligtes af den kombinerede ansættelsesklausul i mere end 6 måneder fra fratrædelsestidspunktet og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd3a26656-66ae-44c7-b396-61e303031388" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>betingelserne i §§ 5 og 6 er opfyldt.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="ide2a59e5d-9d81-4e98-b4ed-0eb26b9d116a" localId="4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="id351bf441-6349-4a2b-931b-f9b2127f7bf0">
+            <Linea>
+              <Char>Kompensation</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idb6220d20-2424-40c8-8246-d951af3bc023" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="id9426b3bf-b953-47d8-b6e2-8ea986aea17a">
+                <Exitus>
+                  <Linea>
+                    <Char>For aftaler om konkurrence- eller kundeklausuler med en varighed på op til 6 måneder skal kompensationen, jf. § 5, nr. 4, og § 6, stk. 1, nr. 3, udgøre mindst 40 pct. af lønnen pr. måned på fratrædelsestidspunktet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Får lønmodtageren andet passende arbejde, udgør kompensationen fra og med den 3. til og med den 6. måned efter fratrædelsen dog mindst 16 pct. af lønnen pr. måned på fratrædelsestidspunktet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc8814f19-efbb-4892-9271-d8e8677d61aa">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For aftaler om konkurrence- eller kundeklausuler med en varighed på op til 12 måneder skal kompensationen, jf. § 5, nr. 4, og § 6, stk. 1, nr. 3, udgøre mindst 60 pct. af lønnen pr. måned på fratrædelsestidspunktet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Får lønmodtageren andet passende arbejde, udgør kompensationen fra og med den 3. til og med den 12. måned efter fratrædelsen dog mindst 24 pct. af lønnen pr. måned på fratrædelsestidspunktet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id86770fce-0028-4c8e-b879-568de06934c4">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kompensationen efter stk. 1 og 2 for de første 2 måneder efter fratrædelsen udbetales senest ved fratrædelsen som et engangsbeløb, uanset om lønmodtageren får andet passende arbejde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc84827c4-1f35-4187-9aee-e2c9c885fcff">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Engangsbeløbet nævnt i stk. 3 skal for klausuler med en varighed på op til 6 måneder udgøre mindst 40 pct. af lønnen pr. måned på fratrædelsestidspunktet og for klausuler med en varighed på op til 12 måneder udgøre mindst 60 pct. af lønnen pr. måned på fratrædelsestidspunktet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id61a11f57-d6c0-4086-8319-feb0dec81aa8">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lønmodtagerens ret til kompensation efter stk. 1 og 2 bortfalder, såfremt lønmodtageren ikke aktivt søger at finde andet passende arbejde og ikke opfylder sin tabsbegrænsningspligt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tabsbegrænsningspligten omfatter ikke engangsbeløbet efter stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id28bde53c-207a-4bc9-8c5a-8e07e69ea15a" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="idb458478c-1f0c-441c-a60f-936d0f4bcf8d">
+                <Exitus>
+                  <Linea>
+                    <Char>For aftaler om kombinerede klausuler efter § 7 med en varighed på op til 6 måneder skal kompensationen udgøre mindst 60 pct. af lønnen pr. måned på fratrædelsestidspunktet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Får lønmodtageren andet passende arbejde, udgør kompensationen fra og med den 3. til og med den 6. måned efter fratrædelsen dog mindst 24 pct. af lønnen pr. måned på fratrædelsestidspunktet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id821ec403-1e4d-44c6-99ca-72c44fa4ac07">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kompensationen efter stk. 1 for de første 2 måneder efter fratrædelsen udbetales senest ved fratrædelsen som et engangsbeløb, uanset om lønmodtageren får andet passende arbejde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id563baf36-8460-41c0-bbaa-1d52f26cee42">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Engangsbeløbet nævnt i stk. 2 skal for kombinerede klausuler udgøre mindst 60 pct. af lønnen pr. måned på fratrædelsestidspunktet, uanset om lønmodtageren får andet passende arbejde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd3e559dd-98fb-43fa-a6e6-0b83c7ea0d07">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lønmodtagerens ret til kompensation efter stk. 1 bortfalder, såfremt lønmodtageren ikke aktivt søger at finde andet passende arbejde og ikke opfylder sin tabsbegrænsningspligt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tabsbegrænsningspligten omfatter ikke engangsbeløbet efter stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idef18e0d9-1f15-49d3-a587-00a9854a8fc7" localId="5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica id="id99f0f9f0-12b2-42e5-96a3-dfb3df2b8150">
+            <Linea>
+              <Char>Opsigelse og misligholdelse</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id98f4d4b0-4930-4532-82fe-285d49d66469" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="idc8721244-d440-4f9a-bc7c-01e6e09f206f">
+                <Exitus>
+                  <Linea>
+                    <Char>En arbejdsgiver kan opsige en aftale som omhandlet i kapitel 3 med 1 måneds varsel til udløbet af en måned.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6aa04f47-a9d7-4a27-b8b9-7cb7792d688a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lønmodtageren har ved opsigelse efter stk. 1 krav på det i § 8, stk. 3, og § 9, stk. 2, nævnte engangsbeløb ved fratrædelsen, på betingelse af at fratrædelsen sker, senere end 3 måneder efter at lønmodtageren har tiltrådt ansættelsesforholdet, og inden 6 måneder efter at arbejdsgiveren har opsagt aftalen, og fratrædelsen skyldes forhold, der ville have gjort arbejdsgiveren berettiget til at gøre aftalen gældende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc9e22a82-b98f-4322-a336-00f11bc21774">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Modtager lønmodtageren løn i en opsigelsesperiode efter den faktiske fratrædelse, regnes fratrædelsen fra opsigelsesperiodens udløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ideefb595b-8dd8-415a-90f9-cd8a80281ce9" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="id16a4176c-2fac-4204-b4ff-4c68717066c2">
+                <Exitus>
+                  <Linea>
+                    <Char>Opsiger arbejdsgiveren ansættelsesforholdet, uden at lønmodtageren har givet rimelig anledning hertil, eller fratræder lønmodtageren selv sin stilling, og har arbejdsgiverens undladelse af at opfylde sine forpligtelser givet gyldig grund hertil, er en aftale om en konkurrenceklausul, jf. § 5, og konkurrenceklausuldelen af en kombineret klausul, jf. § 7, ikke gyldig, og lønmodtageren vil have krav på engangsbeløbet efter § 8, stk. 3, og § 9, stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5be19b84-8786-4345-8049-f3d2a1b2dcb7">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En aftale om en konkurrenceklausul efter § 5 og konkurrencedelen af en kombineret klausul efter § 7 er ikke bindende for lønmodtageren, for så vidt den med hensyn til tid, sted eller andre forhold går videre end påkrævet for at værne om arbejdsgiverens tarv eller på urimelig måde indskrænker lønmodtagerens adgang til erhverv.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der skal ved vurderingen af, om klausulen på urimelig måde indskrænker lønmodtagerens adgang til erhverv, også tages hensyn til den interesse, som arbejdsgiveren har i, at aftalen efterkommes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id63e2ed79-d084-4d4c-a9cc-2dddc6195532">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1 og 2 gælder også for andre end lønmodtagere, som har påtaget sig en forpligtelse til af konkurrencehensyn ikke at drive forretning eller anden virksomhed af en vis art eller tage ansættelse i en sådan.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb2634bbc-5a0a-4967-ae73-205c3156fb39">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bortviser arbejdsgiveren berettiget lønmodtageren fra tjenesten, kan en aftale som omhandlet i kapitel 3 opretholdes.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Lønmodtagerens ret til kompensation efter §§ 8 og 9 bortfalder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id8c0742c1-357a-4ac6-8391-0c7ef2a052f8" localId="6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica id="id6dacf37d-3028-4db1-b7bd-98a5a48a324c">
+            <Linea>
+              <Char>Ikrafttræden og ændringer i anden lovgivning m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id67016da4-ac8e-45bd-bf70-a4c597cee9eb" localId="12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="idd13305f6-edff-4938-b891-b258f820d6af">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. januar 2016.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id598b5111-cf40-439e-9abc-879641a5a45c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven har virkning for aftaler om ansættelsesklausuler, der indgås den 1. januar 2016 eller senere.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc260a4c0-df10-4e59-97c8-72bfe495e553">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Aftaler om jobklausuler, som inden den 1. januar 2016 er indgået i overensstemmelse med de hidtil gældende regler, kan fortsat opretholdes indtil den 1. januar 2021.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id003f96ed-93f7-4395-8822-89ed5524b529">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelser om brug af ansættelsesklausuler i kollektive aftaler eller overenskomster indgået inden den 1. januar 2016 bevarer deres gyldighed indtil det tidspunkt, hvor den pågældende aftale eller overenskomst kan opsiges til ophør.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id33387639-87b8-42ad-ab7c-91a073162af2">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven finder ikke anvendelse på aftaler om konkurrence- og kundeklausuler indgået før den 1. januar 2016.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For sådanne aftaler finder de hidtil gældende regler anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida9bce48f-93f9-4d69-8868-309be288024e" localId="13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id6d08bb80-34d6-49cf-acdb-6e228ba4f9ac">
+                <Exitus>
+                  <Linea>
+                    <Char>Lov nr. 460 af 17. juni 2008 om arbejdsgivers brug af jobklausuler ophæves.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <AendringCentreretParagraf id="iddae5feab-e99b-4ed1-a2a8-298ccffa9007">
+              <Explicatus>§ 14.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>I lov om retsforholdet mellem arbejdsgivere og funktionærer, jf. lovbekendtgørelse nr. 81 af 3. februar 2009, som ændret ved § 5 i lov nr. 647 af 12. juni 2013 og lov nr. 52 af 27. januar 2015, foretages følgende ændringer:</Char>
+                </Linea>
+              </Exitus>
+              <AendringsNummer id="id1a5391db-7826-4f15-850e-d2cbf182eb93">
+                <Explicatus>1.</Explicatus>
+                <Aendring id="id1379d50f-6827-4506-a613-dc0b71ea3505">
+                  <AendringDefinition id="id5537e979-3053-42a7-bb02-0f40e0ec44ad">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§§ 18</Char>
+                        <Char> og </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">18 a</Char>
+                        <Char> ophæves.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id1f7e3cd3-fa32-4ab8-85dc-c3cc1802cd95">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="idcb1c5881-0e15-4979-92bf-a04c727bcbc6">
+                <Explicatus>2.</Explicatus>
+                <Aendring id="id4616ef02-5989-4915-809f-1c2aabb5f762">
+                  <AendringDefinition id="idf4ac3dfd-5699-43e7-ad8c-f27d3abb6e3d">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 21 </Char>
+                        <Char>udgår », jf. dog § 18, stk. 5, og § 18 a, stk. 6«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id21ab6dc4-60c7-46bb-8d24-e7a70b522705">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+            </AendringCentreretParagraf>
+            <AendringCentreretParagraf id="id3e3ab683-c91f-4f9c-9b43-c7154119fe04">
+              <Explicatus>§ 15.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>I lov om aftaler og andre retshandler på formuerettens område, jf. lovbekendtgørelse nr. 781 af 26. august 1996, som ændret ved § 2 i lov nr. 1376 af 28. december 2011, foretages følgende ændring:</Char>
+                </Linea>
+              </Exitus>
+              <AendringsNummer id="idca6cb7dc-64b3-41eb-9296-ef59d49f305e">
+                <Explicatus>1.</Explicatus>
+                <Aendring id="id1e019ede-15e9-405c-97cb-2476ea4255d4">
+                  <AendringDefinition id="id680600aa-05e0-4528-aa45-1a6002337696">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 38</Char>
+                        <Char> ophæves.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idc8e159fc-3e3d-4ca9-b215-5fae4bff13f3">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+            </AendringCentreretParagraf>
+            <Paragraf id="idb2f54e48-1ff8-4205-a71a-abcbcf619d1c" localId="14">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="idafc01a12-848e-4806-962d-c5cb9f05b1ed">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id42b83a16-d70b-4e35-8f23-3985e80b5ea9">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>§ 15 kan ved kongelig anordning sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id7648520b-8d5c-4392-a2d8-8053c9f80ca8">
+    <UnderskriftStedDato id="id7648520b-8d5c-4392-a2d8-8053c9f80ca8" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id7648520b-8d5c-4392-a2d8-8053c9f80ca8" />
+  </UnderskriftGruppe>
+</Dokument>

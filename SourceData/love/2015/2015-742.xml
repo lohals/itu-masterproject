@@ -1,0 +1,1183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idbcebf51c-6913-4eda-9635-7333b025179d" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id8e342eff-83a0-404f-adf5-c2f5e5482853">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150074230</AccessionNumber>
+    <DocumentId>AE002187</DocumentId>
+    <UniqueDocumentId>170574</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af forskellige lovbestemmelser om ansøgninger, anmodninger, meddelelser og klager til offentlige myndigheder (Overgang til obligatorisk digital selvbetjening, for så vidt angår anmodning om sygedagpenge, afgivelse af samtykke til udstedelse af børneattest og straffeattest til offentlig brug, ansøgning og meddelelser m.v. om personligt tillæg og helbredstillæg, indgivelse af klager til Patientombuddet, Sundhedsvæsenets Disciplinærnævn og Ankenævnet for Patienterstatningen, ansøgning om udstedelse af personcertifikater på luftfartsområdet, anmodning om behandling af klager fra flypassagerer, ansøgning om chaufføruddannelsesbeviser m.v.)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-06-01</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-01-26</EndDate>
+    <Status>Valid</Status>
+    <Number>742</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 48 af 13/01/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1239 af 13/10/2016</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1240 af 13/10/2016</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1201 af 28/09/2016</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1188 af 24/09/2016</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 84 af 17/01/2017</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 742 af 01/06/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Bjarne Corydon</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Finansmin.,\nDigitaliseringsstyrelsen, j.nr. 2014-5135-019</JournalNumber>
+    <Ministry>Finansministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id94a36218-817b-47e2-9e91-8f33febef440">
+    <Titel id="idb5f73b11-2865-4a6f-b963-7a850303d173">
+      <Linea>
+        <Char>Lov om ændring af forskellige lovbestemmelser om ansøgninger, anmodninger, meddelelser og klager til offentlige myndigheder</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="ida76aeace-5e11-4fdd-9ef0-5eac9736a7f5">
+      <Linea>
+        <Char>(Overgang til obligatorisk digital selvbetjening, for så vidt angår anmodning om sygedagpenge, afgivelse af samtykke til udstedelse af børneattest og straffeattest til offentlig brug, ansøgning og meddelelser m.v. om personligt tillæg og helbredstillæg, indgivelse af klager til Patientombuddet, Sundhedsvæsenets Disciplinærnævn og Ankenævnet for Patienterstatningen, ansøgning om udstedelse af personcertifikater på luftfartsområdet, anmodning om behandling af klager fra flypassagerer, ansøgning om chaufføruddannelsesbeviser m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="ida9de1d70-b9a3-461a-a662-00cef48fa8c8">
+    <Hymne id="id228cb127-84c9-4c04-a28d-fbbdd6ec59b8">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="ida4b846e5-41f2-49b2-9cec-57786cbe370b">
+      <Explicatus>§ 1</Explicatus>
+      <Rubrica id="id868bd8b7-f5d6-4ea8-80d3-2daa07a3e9bb">
+        <Linea>
+          <Char>Beskæftigelsesministeriet</Char>
+        </Linea>
+      </Rubrica>
+      <Exitus>
+        <Linea>
+          <Char>I lov om sygedagpenge, jf. lovbekendtgørelse nr. 43 af 23. januar 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="ided22bc7f-51ae-440f-84f7-59180629193c">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id55b38a1d-f049-40c4-8e2c-d05b79075509">
+          <AendringDefinition id="id476afbb7-ec66-4a76-8613-375d374db7cb">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 11, stk. 2,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6ddba4cf-2a8a-41d9-aa5d-defc2c618f00" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="idba530fa8-c60d-4d93-b512-618ab6050d14">
+                <Exitus>
+                  <Linea>
+                    <Char>Udfyldelse af oplysningsskemaet skal ske ved digital selvbetjening, jf. § 69 a, hvis sygefraværet er anmeldt via Nemrefusion.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id30ee5348-9097-482f-9505-04e040e993c8">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id91303f69-bf65-46c6-a4ea-53d978c8c17d">
+          <AendringDefinition id="ideef06b1c-d37e-4b2e-a78e-342f4d5f37c4">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 38, stk. 2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idcc2627bb-0b40-4d07-90f9-ad85fbec882a" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="ide23a1316-69a7-49ee-97b5-ad037264a43e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Anmodning om sygedagpenge skal ske ved digital selvbetjening, jf. § 69 a.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id925e4065-5587-4f42-8e09-659bc8f6c8b4">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="idc12e3842-7091-4c1a-83a2-3ef22431090d">
+          <AendringDefinition id="id7366131d-4ac1-4f82-b89d-2292e99055a6">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 40, stk. 5, 2. pkt., § 40 a, stk. 4, 2. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 59, stk. 8, 2. pkt.,</Char>
+                <Char> indsættes efter »herpå«: »ved digital selvbetjening, jf. § 69 a«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0e202be0-3392-4e9b-8dfe-38678013d9c0" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf5cfcced-c607-4114-bb41-bae02d492de3">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id102a39bc-c58c-4b94-ab7a-cdae5bd7d0f3">
+          <AendringDefinition id="id1356f48a-6b19-4423-8f9a-a95533ece573">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 69 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1a1757d5-0717-4d11-a753-07388a58013d" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id790320f9-175f-49c4-be87-b3e7fe7c61f8" localId="1">
+                <Explicatus>§ 69 a.</Explicatus>
+                <Stk id="ida9bef278-401c-47de-83cb-ffab9d8dc196">
+                  <Exitus>
+                    <Linea>
+                      <Char>Udfyldt oplysningsskema efter § 11, stk. 2, hvis sygefraværet er anmeldt via Nemrefusion, anmodning om sygedagpenge fra kommunen efter § 38, stk. 2, og meddelelser efter § 40, stk. 5, § 40 a, stk. 4, og § 59, stk. 8, skal indgives til kommunen ved anvendelse af den digitale løsning, som kommunen stiller til rådighed (digital selvbetjening).</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Oplysningsskemaer, anmodninger og meddelelser, der ikke indgives ved digital selvbetjening, afvises af kommunen, jf. dog stk. 2 og 3.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id3546d348-71ab-4416-b1f8-a8db4fd8551f">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis kommunen finder, at der foreligger særlige forhold, der gør, at borgeren ikke må forventes at kunne anvende digital selvbetjening, skal kommunen tilbyde, at oplysningsskemaet, anmodningen om sygedagpenge eller meddelelsen kan indgives på anden måde end ved digital selvbetjening efter stk. 1.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Kommunen bestemmer, hvordan et oplysningsskema, en anmodning eller en meddelelse omfattet af 1. pkt. skal indgives, herunder om den skal indgives mundtligt eller skriftligt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id237cf4b9-2734-457d-885e-236c447fa3a7">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Kommunen kan ud over de i stk. 2 nævnte tilfælde undlade at afvise et oplysningsskema, en anmodning eller en meddelelse, der ikke er indgivet ved digital selvbetjening, hvis der ud fra en samlet økonomisk vurdering er klare fordele for kommunen ved at modtage disse på anden måde end digitalt.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Kommunen kan endvidere undlade at afvise en meddelelse efter § 40, stk. 5, § 40 a, stk. 4, eller § 59, stk. 8, der ikke er indgivet ved digital selvbetjening, hvis det efter sagens karakter er hensigtsmæssigt at modtage meddelelsen på anden måde end digitalt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idbef759de-9036-4855-94aa-6528768f17bf">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Et digitalt udfyldt oplysningsskema, en digital anmodning om sygedagpenge og en digital meddelelse anses for at være kommet frem, når den er tilgængelig for kommunen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idd69fae96-3396-4be2-a4b4-d63b0b8c5546">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="idf13bac0f-fa31-4e62-a316-ab0dcc5509d2">
+          <AendringDefinition id="idfd8688bd-6836-4787-a1a0-7804bdf61752">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 77</Char>
+                <Char> indsættes efter stk. 1 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idcda1d48f-a13c-43a7-8ba0-2c7b26aef90b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="ida8dd196d-4748-417c-b2c3-8d2424483dc8">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis en borger klager over en afgørelse efter § 69 a, stk. 2, skal kommunen behandle oplysningsskemaet, anmodningen eller meddelelsen, selv om den ikke er indgivet digitalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idfeb83c3a-9e74-45ae-b6f0-44bd5c17f41b">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2 bliver herefter stk. 3.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idca65dd61-71c1-49cc-bdc8-58816ec721a3">
+      <Explicatus>§ 2</Explicatus>
+      <Rubrica id="id8e6936c8-3fb9-4c90-9007-bf721d26e3d9">
+        <Linea>
+          <Char>Justitsministeriet</Char>
+        </Linea>
+      </Rubrica>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 622 af 12. juni 2013 om ændring af forskellige lovbestemmelser om ansøgninger, anmeldelser, anmodninger, meddelelser og erklæringer til offentlige myndigheder (Overgang til obligatorisk digital selvbetjening for borgere, for så vidt angår ansøgning om økonomisk fripladstilskud, meddelelse om valg af læge, ansøgning om navngivning og navneændring, indgivelse af erklæring om faderskab, anmeldelse af cykeltyveri m.v.) foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idda452d10-c4ba-4565-b5c9-8e5c2e808739">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idb1777eff-df36-4ba5-a172-1b6d4feeb8c6">
+          <AendringDefinition id="idbc1bcb82-7b74-46df-b1b4-372d278b9dc3">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id57c97e6d-7468-4d5a-b682-b3f72db4a02e" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id167eddac-bae2-4c68-a42f-755a8356bd8b">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Justitsministeren kan fastsætte regler om, at samtykke til udstedelse af straffeattester til offentlig brug skal afgives ved anvendelse af den digitale løsning, som Rigspolitiet stiller til rådighed (digital selvbetjening).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id7439150d-97bf-4c91-9945-19802f7bb216">
+      <Explicatus>§ 3</Explicatus>
+      <Rubrica id="idaaf8b263-708f-4d12-8b4d-69ac6e93118d">
+        <Linea>
+          <Char>Kulturministeriet</Char>
+        </Linea>
+      </Rubrica>
+      <Exitus>
+        <Linea>
+          <Char>I arkivloven, jf. lovbekendtgørelse nr. 1035 af 21. august 2007, som ændret ved lov nr. 1170 af 10. december 2008, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id23678a63-22e5-4709-9a1d-0f1dcea7ba47">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idb929ce99-c842-4a82-ab88-1896b5c7c621">
+          <AendringDefinition id="id77aca4a1-3339-4e9c-8472-50ec965aead5">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 22 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="iddcf5a3a9-bc8e-4a0f-9747-618bd44d8316" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="idce40a004-d5dc-44a3-aaed-8ad6e3eb63e1" localId="2">
+                <Explicatus>§ 22 a.</Explicatus>
+                <Stk id="id7feae12e-2c52-4960-9cd8-85d20a0795ed">
+                  <Exitus>
+                    <Linea>
+                      <Char>Bestilling af arkivalier til benyttelse på Statens Arkivers læsesale skal indgives til Statens Arkiver ved anvendelse af den digitale løsning, som Statens Arkiver stiller til rådighed (digital selvbetjening).</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Bestillinger, der ikke indgives ved digital selvbetjening, afvises af Statens Arkiver, jf. dog stk. 2 og 3.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id8937ab16-e440-417f-9fc2-6c66becd618c">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis Statens Arkiver finder, at der foreligger særlige forhold, der gør, at borgeren ikke må forventes at kunne anvende digital selvbetjening, skal Statens Arkiver tilbyde, at bestilling af arkivalier til benyttelse på Statens Arkivers læsesale kan indgives på anden måde end ved digital selvbetjening efter stk. 1.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Statens Arkiver bestemmer, hvordan bestilling omfattet af 1. pkt. skal indgives, herunder om den skal indgives mundtligt eller skriftligt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id2c980eef-ac18-4fd2-8889-7211969b1a03">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Statens Arkiver kan helt ekstraordinært ud over de i stk. 2 nævnte tilfælde undlade at afvise en bestilling af arkivalier til benyttelse på Statens Arkivers læsesale, der ikke er indgivet ved digital selvbetjening, hvis der ud fra en samlet økonomisk vurdering er klare fordele for Statens Arkiver ved at modtage bestillingen på anden måde end digitalt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idcfba6737-22df-4bd1-8c76-3068e770dbfe">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En digital bestilling af arkivalier til benyttelse på Statens Arkivers læsesale anses for at være kommet frem, når den er tilgængelig for Statens Arkiver.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="ida0ffa6b0-e6bd-47a3-a69b-9f63f47215fa">
+      <Explicatus>§ 4</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om indhentelse af børneattester i forbindelse med ansættelse af personale m.v., jf. lovbekendtgørelse nr. 362 af 2. april 2014, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id21fdf8fb-847e-4d69-a161-781a017dd212">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idacf8ed6c-4b49-4843-bba9-a8838c64394e">
+          <AendringDefinition id="id1a0d39c4-b479-435f-ab88-5ccf22ec6223">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 3 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2f3d75be-cfbc-43d7-ac86-f189de703196" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="iddb73dbc7-1430-4863-938b-25bba0005ace" localId="3">
+                <Explicatus>§ 3 a.</Explicatus>
+                <Stk id="id330ca5b2-b098-454a-9a99-e0a0fe4fe626">
+                  <Exitus>
+                    <Linea>
+                      <Char>Justitsministeren kan fastsætte regler om, at begæring om børneattest og samtykke i den forbindelse skal indgives ved anvendelse af den digitale løsning, som Rigspolitiet stiller til rådighed (digital selvbetjening).</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id86aa644b-1fd8-4cb6-91c5-362f560507b9">
+      <Explicatus>§ 5</Explicatus>
+      <Rubrica id="id82329329-c7d8-4bfb-9173-38f3392ad0d2">
+        <Linea>
+          <Char>Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold</Char>
+        </Linea>
+      </Rubrica>
+      <Exitus>
+        <Linea>
+          <Char>I lov om social pension, jf. lovbekendtgørelse nr. 10 af 12. januar 2015, som ændret ved § 32 i lov nr. 174 af 24. februar 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idd387c420-8131-4d3b-a1c2-bc4bba832013">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idc0638924-c32e-4d86-a861-6dbd6ac826f4">
+          <AendringDefinition id="id2feacd65-29a0-4e40-b96d-a4bd35df3ef5">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 14 c indsættes før overskriften før § 15:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id439762a3-173d-4345-a61b-80d677dd6368" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id06c617e0-5d89-4d90-84c6-38591c2fb823" localId="4">
+                <Explicatus>§ 14 d.</Explicatus>
+                <Stk id="id26849193-d9ce-4403-bdd7-fc157b7cce29">
+                  <Exitus>
+                    <Linea>
+                      <Char>Ansøgninger og meddelelser m.v. om personligt tillæg efter § 14, stk. 1, og om helbredstillæg efter § 14 a, stk. 1 og 4, skal indgives til kommunalbestyrelsen ved anvendelse af den digitale løsning, som kommunen stiller til rådighed (digital selvbetjening).</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ansøgninger eller meddelelser m.v., der ikke indgives ved digital selvbetjening, afvises af kommunalbestyrelsen, jf. dog stk. 2 og 3.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id35aaa6bf-3ba2-4f35-b305-b511d1755205">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis kommunalbestyrelsen finder, at der foreligger særlige forhold, der gør, at borgeren ikke må forventes at kunne anvende digital selvbetjening, skal kommunalbestyrelsen tilbyde, at ansøgningen eller meddelelsen m.v. kan indgives på anden måde end ved digital selvbetjening efter stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idcde3bfc8-b633-4996-be2d-a3f2b847bd6e">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Kommunalbestyrelsen kan ud over de i stk. 2 nævnte tilfælde undlade at afvise en ansøgning eller meddelelse m.v., der ikke er indgivet ved digital selvbetjening, hvis der ud fra en samlet økonomisk vurdering er klare fordele ved at modtage ansøgningen eller meddelelsen m.v. på en anden måde end digitalt.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Kommunalbestyrelsen kan endvidere undlade at afvise en meddelelse, der ikke er indgivet ved digital selvbetjening, hvis det efter sagens karakter er hensigtsmæssigt at modtage meddelelsen på anden måde end digitalt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id4a585df0-67f2-4458-8f5d-bc781fcb4043">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En digital ansøgning eller meddelelse m.v. anses for at være kommet frem, når den er tilgængelig for kommunalbestyrelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id60d01220-8305-49d5-bef1-90272ae64792">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for børn, ligestilling, integration og sociale forhold kan fastsætte nærmere regler om, at kommunalbestyrelsens afgørelser om digital selvbetjening efter stk. 2 også skal gælde for ansøgninger og meddelelser m.v. på andre nærmere angivne sagsområder, og regler om, at kommunalbestyrelsen skal give Udbetaling Danmark besked, hvis kommunalbestyrelsen har truffet afgørelse om digital selvbetjening efter stk. 2 og afgørelsen har betydning for andre ansøgninger og meddelelser m.v. på sagsområder, der hører under Udbetaling Danmark.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id30890d3f-0597-4839-9c19-eed07f1f3382">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idb08a334f-969c-4f3e-b662-b606fe0991d2">
+          <AendringDefinition id="idc368f68b-9ddc-463d-9cd3-03974444e236">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 50, stk. 1,</Char>
+                <Char> ændres »jf. dog stk. 3« til: »jf. dog stk. 4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0133272d-5eb5-4ffb-9b42-27e6983a67d1" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4768fbc9-953f-48b9-b0ac-60729ab67005">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id6b0d2c7e-8bf4-4b65-bc47-fc61f9a64250">
+          <AendringDefinition id="idc741bfe0-bf92-4a4e-9d38-71834a6c89f8">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 50</Char>
+                <Char> indsættes efter stk. 1 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7785cc24-3bca-4804-9a03-b5017ee8f035" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="idf0d2d3bf-cdb1-4a38-a9c1-c1784c4ece9c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis en borger klager over en afgørelse efter § 14 d, stk. 2, skal kommunalbestyrelsen behandle ansøgningen eller meddelelsen m.v., selv om den ikke er indgivet digitalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id382e89d3-f3f9-493d-aba0-16c1fe3d5afa">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2 og 3 bliver herefter stk. 3 og 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id617c2dd1-add3-47f3-80fb-f83157d3ee4e">
+      <Explicatus>§ 6</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., jf. lovbekendtgørelse nr. 11 af 12. januar 2015, som ændret ved § 33 i lov nr. 174 af 24. februar 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id68e631ec-5101-44fe-a0f8-cc1a0d3a16d8">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id7b8362f6-bd87-43bb-95a4-0ffbaac45aa3">
+          <AendringDefinition id="idfdc700fc-7fb8-460d-8ebd-f46624a6e21d">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 23 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida5f53512-6c04-4b4f-80ba-134fa94a3f31" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id74859f82-ce19-47b8-8b53-5f5baf86468a" localId="5">
+                <Explicatus>§ 23 a.</Explicatus>
+                <Stk id="idd09390a8-3764-42c3-aba6-d339fd723f7a">
+                  <Exitus>
+                    <Linea>
+                      <Char>Ansøgninger og meddelelser m.v. om personligt tillæg efter § 17, stk. 2, og om helbredstillæg efter § 18, stk. 1 og 4, skal indgives til kommunalbestyrelsen ved anvendelse af den digitale løsning, som kommunen stiller til rådighed (digital selvbetjening).</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ansøgninger eller meddelelser m.v., der ikke indgives ved digital selvbetjening, afvises af kommunalbestyrelsen, jf. dog stk. 2 og 3.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id7e55c037-6bbb-461e-9848-454d0d0380a6">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis kommunalbestyrelsen finder, at der foreligger særlige forhold, der gør, at borgeren ikke må forventes at kunne anvende digital selvbetjening, skal kommunalbestyrelsen tilbyde, at ansøgningen eller meddelelsen m.v. kan indgives på anden måde end ved digital selvbetjening efter stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id774e4d91-2dc7-4972-9ccf-6ef2b36b89fb">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Kommunalbestyrelsen kan ud over de i stk. 2 nævnte tilfælde undlade at afvise en ansøgning eller meddelelse m.v., der ikke er indgivet ved digital selvbetjening, hvis der ud fra en samlet økonomisk vurdering er klare fordele ved at modtage ansøgningen eller meddelelsen m.v. på en anden måde end digitalt.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Kommunalbestyrelsen kan endvidere undlade at afvise en meddelelse, der ikke er indgivet ved digital selvbetjening, hvis det efter sagens karakter er hensigtsmæssigt at modtage meddelelsen på anden måde end digitalt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idacb1e213-c47a-4d4a-ab2e-e068326cb7b8">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En digital ansøgning eller meddelelse m.v. anses for at være kommet frem, når den er tilgængelig for kommunalbestyrelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idfe5a868d-3131-404d-aa2e-8d179395bd97">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for børn, ligestilling, integration og sociale forhold kan fastsætte nærmere regler om, at kommunalbestyrelsens afgørelser om digital selvbetjening efter stk. 2 også skal gælde for ansøgninger og meddelelser m.v. på andre nærmere angivne sagsområder, og regler om, at kommunalbestyrelsen skal give Udbetaling Danmark besked, hvis kommunalbestyrelsen har truffet afgørelse om digital selvbetjening efter stk. 2 og afgørelsen har betydning for andre ansøgninger og meddelelser m.v. på sagsområder, der hører under Udbetaling Danmark.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1e7c648f-88f1-40c4-a3e5-f936d4d72aef">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idaeb6a63d-3d21-4c99-ac15-6b69db34849d">
+          <AendringDefinition id="id1d022ca6-f8ed-4643-8ccb-1c5168d6c786">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 49, stk. 1,</Char>
+                <Char> ændres »jf. dog stk. 2 og 3« til: »jf. dog stk. 4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb15aa17b-9213-4988-af70-9f46b144080e" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2216c219-8bde-44b0-86f1-5dd01200826f">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="idb7093a26-de0d-4017-a2ea-ecd5e1bfe59d">
+          <AendringDefinition id="id095a9bf6-5099-45cc-89b2-c67c8e26ffd8">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 49</Char>
+                <Char> indsættes efter stk. 1 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide77ed50b-d556-43d0-9ecb-f7638ca67765" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id5f7a8372-c909-428f-b9e0-3f0d84849bf8">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis en borger klager over en afgørelse efter § 23 a, stk. 2, skal kommunalbestyrelsen behandle ansøgningen eller meddelelsen m.v., selv om den ikke er indgivet digitalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idb9b2766a-a90b-4af2-adc2-a7c30428f803">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2 og 3 bliver herefter stk. 3 og 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id551607ad-5a78-4ed0-b0ee-3418933cf567">
+      <Explicatus>§ 7</Explicatus>
+      <Rubrica id="id41523b4f-9552-4eb5-898c-adc672333fdf">
+        <Linea>
+          <Char>Ministeriet for Sundhed og Forebyggelse</Char>
+        </Linea>
+      </Rubrica>
+      <Exitus>
+        <Linea>
+          <Char>I sundhedsloven, jf. lovbekendtgørelse nr. 1202 af 14. november 2014, som ændret ved § 1 i lov nr. 1536 af 27. december 2014, lov nr. 1537 af 27. december 2014, § 6 i lov nr. 523 af 29. april 2015 og § 1 i lov nr. 542 af 29. april 2015, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="iddbeaff48-24ef-4e41-9530-502c6fd04d61">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idece6c106-b321-4503-b7ff-da5ed517791b">
+          <AendringDefinition id="idbf48a341-dff5-4243-8dbc-8b1d012193b7">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 168 indsættes i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">kapitel 51</Char>
+                <Char>:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idcefc5418-9b13-4f24-bda9-2b399122a479" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id7f51e153-c1e4-405c-a819-e2e02154a838" localId="6">
+                <Explicatus>§ 168 a.</Explicatus>
+                <Stk id="idd658b2e7-ac5e-4614-b842-a13487daf11b">
+                  <Exitus>
+                    <Linea>
+                      <Char>Ansøgning om tilskud til lægemidler købt i et andet EU-/EØS-land, jf. § 168, stk. 3, skal indgives til Sundhedsstyrelsen ved anvendelse af den digitale løsning, som Sundhedsstyrelsen stiller til rådighed (digital selvbetjening).</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ansøgninger, der ikke indgives ved digital selvbetjening, afvises af Sundhedsstyrelsen, jf. dog stk. 2 og 3.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id52c1dbcc-62c5-4e36-80b3-750418cd6eed">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis Sundhedsstyrelsen finder, at der foreligger særlige forhold, der gør, at borgeren ikke må forventes at kunne anvende digital selvbetjening, skal Sundhedsstyrelsen tilbyde, at ansøgningen kan indgives på anden måde end ved digital selvbetjening efter stk. 1.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Sundhedsstyrelsen bestemmer, hvordan en ansøgning omfattet af 1. pkt. skal indgives, herunder om den skal indgives mundtligt eller skriftligt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idb6129c95-5e82-429a-a0c6-c11ab1a8e3a7">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Sundhedsstyrelsen kan helt ekstraordinært ud over de i stk. 2 nævnte tilfælde undlade at afvise en ansøgning, der ikke er indgivet ved digital selvbetjening, hvis der ud fra en samlet økonomisk vurdering er klare fordele for Sundhedsstyrelsen ved at modtage ansøgningen på anden måde end digitalt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id1636f42a-de04-4797-b8df-cfe8063a2cf3">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En digital ansøgning anses for at være kommet frem, når den er tilgængelig for Sundhedsstyrelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id8061e00f-0a2d-477b-bbc5-ff76ebfda8d8">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Sundhedsstyrelsens afgørelser efter stk. 1-3 kan ikke indbringes for anden administrativ myndighed.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id73f29825-2af4-4d91-86c5-f5164328025e">
+      <Explicatus>§ 8</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om klage- og erstatningsadgang inden for sundhedsvæsenet, jf. lovbekendtgørelse nr. 1113 af 7. november 2011, som ændret bl.a. ved lov nr. 1257 af 18. december 2012, § 2 i lov nr. 1401 af 23. december 2012, § 2 i lov nr. 1638 af 26. december 2013 og § 2 i lov nr. 519 af 26. maj 2014 og senest ved § 7 i lov nr. 523 af 29. april 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="ide4201213-f664-4524-a92f-ba173afd4383">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idcd6113fa-4ee8-4ebb-a38a-f8a567a9ef46">
+          <AendringDefinition id="id897e5a80-adfc-42d6-8d88-149dfb4507a1">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 10 indsættes i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">kapitel 1:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc1b80f80-53ad-4357-ac3a-d578662d64d1" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="ida56ad2b3-fc51-400b-b5f2-1da4358be4f9" localId="7">
+                <Explicatus>§ 10 a.</Explicatus>
+                <Stk id="id370ea756-8b3b-4e27-8909-01b2ad350d38">
+                  <Exitus>
+                    <Linea>
+                      <Char>Klager omfattet af § 1, stk. 1, § 2, stk. 1, og §§ 5-8 skal indgives til Patientombuddet ved anvendelse af den digitale løsning, som Patientombuddet stiller til rådighed (digital selvbetjening).</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Klager, der ikke indgives ved digital selvbetjening, afvises af Patientombuddet, jf. dog stk. 2 og 3.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>1. pkt. gælder ikke for klager over afgørelser, der vedrører udstedelse af det særlige sundhedskort efter sundhedsloven.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id5d152b5c-ef81-432c-bc37-05d635b2edba">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis Patientombuddet finder, at der foreligger særlige forhold, der gør, at borgeren ikke må forventes at kunne anvende digital selvbetjening, skal Patientombuddet tilbyde, at klagen kan indgives på anden måde end ved digital selvbetjening efter stk. 1.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Patientombuddet bestemmer, hvordan en klage omfattet af 1. pkt. skal indgives, herunder om den skal indgives mundtligt eller skriftligt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id222cc591-315c-4f9b-b7aa-b2078b260c25">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Patientombuddet kan helt ekstraordinært ud over de i stk. 2 nævnte tilfælde undlade at afvise en klage, der ikke er indgivet ved digital selvbetjening, hvis der ud fra en samlet økonomisk vurdering er klare fordele for Patientombuddet ved at modtage klagen på anden måde end digitalt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id5befda25-829b-4faa-bb27-4e277cceb9db">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En digital klage anses for at være kommet frem, når den er tilgængelig for Patientombuddet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id261be1b2-103d-4a06-a70a-dc3a1df285c9">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idc98b5b4f-e131-4828-bb12-70256ec90c1b">
+          <AendringDefinition id="idfbd1f3dc-1b2a-4904-a5cf-fba6ea964e8b">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 58 c</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida71f41b9-f56f-44bf-a69d-ecbf692d63b1" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id49d648e4-b732-45ab-9dcf-b8216a5ae8df" localId="8">
+                <Explicatus>§ 58 c.</Explicatus>
+                <Stk id="idb65dd8d6-b1c8-4d29-ae0b-5728e6fefb59">
+                  <Exitus>
+                    <Linea>
+                      <Char>Klager omfattet af § 58 b fra patienter skal indgives til Patientombuddet ved anvendelse af den digitale løsning, som Patientombuddet stiller til rådighed (digital selvbetjening).</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Klager, der ikke indgives ved digital selvbetjening, afvises af Patientombuddet, jf. dog stk. 2 og 3.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id5e5daa63-a4b8-43a3-baf8-7f6b91ec57fa">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis Patientombuddet finder, at der foreligger særlige forhold, der gør, at borgeren ikke må forventes at kunne anvende digital selvbetjening, skal Patientombuddet tilbyde, at klagen kan indgives på anden måde end ved digital selvbetjening efter stk. 1.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Patientombuddet bestemmer, hvordan en klage omfattet af 1. pkt. skal indgives, herunder om den skal indgives mundtligt eller skriftligt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id3d8d795e-d6cd-4212-b27e-f693a0d13651">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Patientombuddet kan helt ekstraordinært ud over de i stk. 2 nævnte tilfælde undlade at afvise en klage, der ikke er indgivet ved digital selvbetjening, hvis der ud fra en samlet økonomisk vurdering er klare fordele for Patientombuddet ved at modtage klagen på anden måde end digitalt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id9afd512b-ecc6-4724-878e-da3672dcf253">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En digital klage anses for at være kommet frem, når den er tilgængelig for Patientombuddet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id90516f79-f5b7-4995-aacb-be6cbbf4df4f">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Patientombuddets afgørelser efter stk. 1-3,kan ikke indbringes for anden administrativ myndighed.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="id8781a32a-8e80-42a7-bb98-659dd7e62eb4" localId="9">
+                <Explicatus>§ 58 d.</Explicatus>
+                <Stk id="id18e29ffc-77cb-47d4-9ed4-c665a46fa203">
+                  <Exitus>
+                    <Linea>
+                      <Char>Ankenævnet for Patienterstatningens afgørelser kan indbringes for retten, der kan stadfæste, ophæve eller ændre afgørelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id8f6d15ed-d811-4780-8d1b-19512cfc7769">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Afgørelsen skal indbringes for retten, inden 6 måneder efter at afgørelsen er meddelt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idc30dec0d-1c8d-4824-9a1e-d71f6494b2b5">
+      <Explicatus>§ 9</Explicatus>
+      <Rubrica id="id8e605154-38f7-44e5-8a9e-eaf309c48975">
+        <Linea>
+          <Char>Transportministeriet</Char>
+        </Linea>
+      </Rubrica>
+      <Exitus>
+        <Linea>
+          <Char>I lov om luftfart, jf. lovbekendtgørelse nr. 1036 af 28. august 2013, som ændret ved lov nr. 1114 af 29. december 1997, § 5 i lov nr. 542 af 8. juni 2006 og § 6 i lov nr. 736 af 25. juni 2014, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idea7ad0c9-4d41-44bd-b493-39a04d17f320">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id596ae6f9-7886-4ca6-b717-c31c5d56c6f9">
+          <AendringDefinition id="idae419bd7-fc27-4172-ac5c-b1255e388f61">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 153 a indsættes i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">kapitel 14:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id591422ea-d251-4f6a-858f-14f50762895b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id60fa2def-62b4-4d50-9a9f-a312984a9a80" localId="10">
+                <Explicatus>§ 153 b.</Explicatus>
+                <Stk id="idd97c5106-14ef-4d55-8d03-09c91397ef8a">
+                  <Exitus>
+                    <Linea>
+                      <Char>Ansøgning om udstedelse af personcertifikat efter § 35 og efter EU-forordninger på området og anmodning om behandling af klage efter Europa-Parlamentets og Rådets forordning (EF) nr. 261/2004 af 11. februar 2004 om fælles bestemmelser om kompensation og bistand til luftfartspassagerer ved boardingafvisning og ved aflysning eller lange forsinkelser og om ophævelse af forordning (EØF) nr. 295/91 skal indgives til Trafikstyrelsen ved anvendelse af den digitale løsning, som Trafikstyrelsen stiller til rådighed (digital selvbetjening).</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ansøgninger og anmodninger, der ikke indgives ved digital selvbetjening, afvises af Trafikstyrelsen, jf. dog stk. 2 og 3.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idc29c1bd4-1fcd-493b-8523-70e113992f1e">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis Trafikstyrelsen finder, at der foreligger særlige forhold, der gør, at borgeren ikke må forventes at kunne anvende digital selvbetjening, skal Trafikstyrelsen tilbyde, at ansøgningen eller anmodningen kan indgives på anden måde end ved digital selvbetjening efter stk. 1.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Trafikstyrelsen bestemmer, hvordan en ansøgning eller anmodning omfattet af 1. pkt. skal indgives, herunder om den skal indgives mundtligt eller skriftligt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id7308d87f-861f-4bfb-9f3c-04a9d02c0f34">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Trafikstyrelsen kan helt ekstraordinært ud over de i stk. 2 nævnte tilfælde undlade at afvise en ansøgning eller anmodning, der ikke er indgivet ved digital selvbetjening, hvis der ud fra en samlet økonomisk vurdering er klare fordele for Trafikstyrelsen ved at modtage ansøgningen eller anmodningen på anden måde end digitalt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="ide6b4e05f-1e1e-418d-a7dd-c385a59f8329">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En digital ansøgning eller anmodning anses for at være kommet frem, når den er tilgængelig for Trafikstyrelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id7c1f7c32-6a54-4187-a576-618892094a5d">
+      <Explicatus>§ 10</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om buskørsel, jf. lovbekendtgørelse nr. 1050 af 12. november 2012, som ændret ved § 2 i lov nr. 1639 af 26. december 2013, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id5b82e233-82ec-4a06-8d71-c576c79adddd">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id78d0f481-0934-4a1d-bf63-615aaec7847a">
+          <AendringDefinition id="id7bc7bda7-991b-4712-99b0-48fc28645bf7">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 18 b indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id570f7519-77eb-47ce-98eb-a052c9747b41" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id198598a6-688f-4e6e-9acb-80005ad960d4" localId="11">
+                <Explicatus>§ 19.</Explicatus>
+                <Stk id="idcfdcb1d7-7c34-43b6-8ef5-ae86af78d6b2">
+                  <Exitus>
+                    <Linea>
+                      <Char>Ansøgning om udstedelse af bevis for opfyldelse af grundlæggende kvalifikations- og efteruddannelseskrav for førere af visse køretøjer, der benyttes til godstransport eller personbefordring ad vej efter regler udstedt i medfør af § 18, stk. 1, nr. 1, skal indgives til Trafikstyrelsen ved anvendelse af den digitale løsning, som Trafikstyrelsen stiller til rådighed (digital selvbetjening).</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ansøgninger, der ikke indgives ved digital selvbetjening, afvises af Trafikstyrelsen, jf. dog stk. 2 og 3.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idb85d4c31-11cd-495c-b87f-de38aad9b9b1">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis Trafikstyrelsen finder, at der foreligger særlige forhold, der gør, at borgeren ikke må forventes at kunne anvende digital selvbetjening, skal Trafikstyrelsen tilbyde, at ansøgningen kan indgives på anden måde end ved digital selvbetjening efter stk. 1.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Trafikstyrelsen bestemmer, hvordan en ansøgning omfattet af 1. pkt. skal indgives, herunder om den skal indgives mundtligt eller skriftligt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idaa505eaa-b6bc-4093-9de3-e81ab95da544">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Trafikstyrelsen kan helt ekstraordinært ud over de i stk. 2 nævnte tilfælde undlade at afvise en ansøgning, der ikke er indgivet ved digital selvbetjening, hvis der ud fra en samlet økonomisk vurdering er klare fordele for Trafikstyrelsen ved at modtage ansøgningen på anden måde end digitalt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idd53dd3cc-0abf-4b5d-b7b0-7165a583c41c">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En digital ansøgning anses for at være kommet frem, når den er tilgængelig for Trafikstyrelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idea195564-88f4-4405-8f48-504379f76130">
+      <Explicatus>§ 11</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om godskørsel, jf. lovbekendtgørelse nr. 1051 af 12. november 2012, som ændret ved § 1 i lov nr. 1639 af 26. december 2013, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idea682b8e-c42e-428c-8ac4-ed4ef0ccdcc9">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idcac68c45-be29-475e-a990-b18e2989908f">
+          <AendringDefinition id="idaf0293e8-f444-4f27-b9b4-1dbd2e38f2fc">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 16 d indsættes før overskriften før § 17:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide6b2a0a3-ee25-45d1-96b8-2c740a6db86c" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id8cac0bfe-4be7-481f-ab4b-41039678be58" localId="12">
+                <Explicatus>§ 16 e.</Explicatus>
+                <Stk id="ida9b213a5-5f0b-49f4-a384-d4275efa3b56">
+                  <Exitus>
+                    <Linea>
+                      <Char>Ansøgning om udstedelse af bevis for opfyldelse af grundlæggende kvalifikations- og efteruddannelseskrav for førere af visse køretøjer, der benyttes til godstransport eller personbefordring ad vej efter regler udstedt i medfør af § 2, stk. 2, skal indgives til Trafikstyrelsen ved anvendelse af den digitale løsning, som Trafikstyrelsen stiller til rådighed (digital selvbetjening).</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ansøgninger, der ikke indgives ved digital selvbetjening, afvises af Trafikstyrelsen, jf. dog stk. 2 og 3.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idc442b19e-1f9d-4bf6-83a3-58fa39f8d8c9">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis Trafikstyrelsen finder, at der foreligger særlige forhold, der gør, at borgeren ikke må forventes at kunne anvende digital selvbetjening, skal Trafikstyrelsen tilbyde, at ansøgningen kan indgives på anden måde end ved digital selvbetjening efter stk. 1.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Trafikstyrelsen bestemmer, hvordan en ansøgning omfattet af 1. pkt. skal indgives, herunder om den skal indgives mundtligt eller skriftligt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idd4dd78a4-b27b-4f3e-876b-f651627a592e">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Trafikstyrelsen kan helt ekstraordinært ud over de i stk. 2 nævnte tilfælde undlade at afvise en ansøgning, der ikke er indgivet ved digital selvbetjening, hvis der ud fra en samlet økonomisk vurdering er klare fordele for Trafikstyrelsen ved at modtage ansøgningen på anden måde end digitalt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id352448bb-680d-48f0-a636-9246e914233f">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En digital ansøgning anses for at være kommet frem, når den er tilgængelig for Trafikstyrelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id932d88bd-7162-4a2a-b477-6cc55708e859">
+      <Explicatus>§ 12</Explicatus>
+      <Rubrica id="id4f3c473d-c2a5-48f3-80b7-7fde0cec9732">
+        <Linea>
+          <Char>Økonomi- og Indenrigsministeriet</Char>
+        </Linea>
+      </Rubrica>
+      <Exitus>
+        <Linea>
+          <Char>I lov om Det Centrale Personregister, jf. lovbekendtgørelse nr. 5 af 9. januar 2013, som ændret senest ved lov nr. 545 af 29. april 2015, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="iddf3616ef-7831-4225-87c5-454f1ac800b3">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idd438bc91-01f0-4014-ac56-cf17f08293de">
+          <AendringDefinition id="ide894e73c-1160-45f1-bbb6-0809047f0a1b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idce9b26d5-4c58-4078-b93b-21422296fbdc" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id38b3e97e-7226-4738-bb32-b04a84f4411b">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Anmodning fra en person over 15 år om indsigt i oplysninger i CPR om vedkommende selv, jf. § 31, stk. 1, i lov om behandling af personoplysninger, skal fremsættes ved anvendelse af den digitale selvbetjeningsløsning, som Økonomi- og Indenrigsministeriet stiller til rådighed (digital selvbetjening).</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anmodninger, der ikke indgives ved digital selvbetjening, afvises af Økonomi- og Indenrigsministeriet, jf. dog 3. og 5. pkt. Hvis Økonomi- og Indenrigsministeriet finder, at der foreligger særlige forhold, der gør, at borgeren ikke må forventes at kunne anvende digital selvbetjening, skal Økonomi- og Indenrigsministeriet tilbyde, at anmodningen kan indgives på anden måde end ved digital selvbetjening.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Økonomi- og Indenrigsministeriet bestemmer, hvordan en anmodning omfattet af 3. pkt. skal fremsættes, herunder om den skal fremsættes mundtligt eller skriftligt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Økonomi- og Indenrigsministeriet kan helt ekstraordinært ud over de i 3. pkt. nævnte tilfælde undlade at afvise en anmodning, der ikke er indgivet ved digital selvbetjening, hvis der ud fra en samlet økonomisk vurdering er klare fordele for ministeriet ved at modtage anmodningen på anden måde end digitalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7ba94def-7872-429b-a98d-5e7e18e6b527">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Anmodning om indsigt efter stk. 2, 1. pkt., besvares alene via den digitale selvbetjeningsløsning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="idabf86dd4-d276-431e-b94b-be803a97e010">
+      <Explicatus>§ 13</Explicatus>
+      <Stk id="idad263bcf-b4b3-4edc-8665-af23176344a0">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. december 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id133b953a-5607-40e0-aaaa-dcdfcb06b4cb">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven finder alene anvendelse for ansøgninger, anmodninger, meddelelser og klager m.v., der indgives efter lovens ikrafttræden.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="id505fea0b-bd9e-4e10-89b7-b8540e337cd5">
+      <Explicatus>§ 14</Explicatus>
+      <Stk id="id1ce81b36-55d8-4457-b0af-fae786e42633">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="ida447021e-8712-4641-b11d-eeaccad9f6d9">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§§ 8 og 9 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id5067c9b3-82d7-4062-880e-9cd2dba1cb3b">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§§ 9 og 12 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idcd6fa870-ec51-4424-a452-693673f89d95">
+    <UnderskriftStedDato id="idcd6fa870-ec51-4424-a452-693673f89d95" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="idcd6fa870-ec51-4424-a452-693673f89d95" />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,1413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idf8ef4817-abf6-44b0-bf1a-7e358226ed9e" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id569e2162-6f2d-49d0-9ccf-8ee7c8e7904f">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150105429</AccessionNumber>
+    <DocumentId>CJ000010</DocumentId>
+    <UniqueDocumentId>173201</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om socialtilsyn</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-09-08</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-02-16</EndDate>
+    <Status>Historic</Status>
+    <Number>1054</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LOV nr 1870 af 29/12/2015 </KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 124 af 12/02/2016</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 1054 af 08/09/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2016-02-15</DateOfHistoricMark>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20150187030</Ref_Accn>
+    <Ref_Af REFid="change_1">2015-12-29</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om ændring af sundhedsloven og lov om socialtilsyn (Øget kvalitet i alkoholbehandlingen)</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">P.M.V\nHans B. Thomsen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Anita Hørby</Signature>
+    <PlaceOfSignature>Social- og Indenrigsministeriet</PlaceOfSignature>
+    <JournalNumber>Social- og Indenrigsmin., j.nr. 2015-4958</JournalNumber>
+    <Ministry>Social- og Indenrigsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id039675e4-43c8-4ddf-9150-3f1d1b758acd">
+    <Titel id="id34865a6a-b704-43bf-ab2d-9cf1f6cb0b33">
+      <Linea>
+        <Char>Bekendtgørelse af lov om socialtilsyn</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id45d72bd6-7782-4c18-8a68-132b4ef812fd">
+    <Indledning id="id93ccb09c-ed64-4789-ab14-d3f17bda541c">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov nr. 608 af 12. juni 2013 om socialtilsyn med de ændringer, der følger af § 2 i lov nr. 649 af 18. maj 2015.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="id001006f7-bdb1-42be-acfc-43883e272294">
+      <Afsnit id="id138b8a00-b491-410d-93e5-df764476e3de" localId="1">
+        <Kapitel id="id4bec3aec-ae24-46a1-b446-ce6229890498" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="id8c2f0b61-d333-4818-85b9-07348f23312b">
+            <Linea>
+              <Char>Formål, ansvar og område</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idb8951784-82c3-4306-88aa-0dcb7ed9535d" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="id17ccadcf-52fe-45ba-a9ac-9af6c253671c">
+                <Exitus>
+                  <Linea>
+                    <Char>Formålet med denne lov er at bidrage til at sikre, at borgerne ydes en indsats, der er i overensstemmelse med formålet med offentlige og private tilbud efter lov om social service.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Formålet skal opnås gennem en systematisk, ensartet, uvildig og fagligt kompetent varetagelse af opgaven med at godkende og føre driftsorienteret tilsyn med tilbuddene.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id2825590c-d1f3-4ce0-9bbd-6f2a3ebe918f">
+              <Linea>
+                <Char>Ansvar for socialtilsynet</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id5fc0e19d-88d5-489c-aa8e-4211803e15c2" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="id22715fd7-f726-40ae-b268-556c524b3746">
+                <Exitus>
+                  <Linea>
+                    <Char>Inden for hver region har kommunalbestyrelsen i en af kommunerne ansvaret for at godkende og føre driftsorienteret tilsyn med sociale tilbud, jf. § 4.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kommunalbestyrelserne, som varetager denne funktion, benævnes i denne lov socialtilsyn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3abd25b3-7a33-4ffb-a351-5120b1598134">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen i følgende kommuner varetager funktionen som socialtilsyn efter stk. 1, jf. dog stk. 3 og 4:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idcea22271-429f-4246-92a4-9a0974658b32">
+                  <Index>
+                    <Indentatio id="idd306eaec-6a18-45f2-96f4-88c1a66ea33c" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Frederiksberg Kommune i Region Hovedstaden.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id525f6687-30b3-4e40-91be-41a90be8c693" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Holbæk Kommune i Region Sjælland.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="iddf4dd24c-b36f-4047-a68f-c51ee3de3bd5" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Faaborg-Midtfyn Kommune i Region Syddanmark.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id5db8a48e-4789-41d8-bef7-6076335c4c5b" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Silkeborg Kommune i Region Midtjylland.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idcb340523-ef36-4ac2-beb1-568568ea1294" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Hjørring Kommune i Region Nordjylland.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id4fe6d2c3-bc8b-47a1-a465-82f8dcfa88f1">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Fra reglen i stk. 2 gælder følgende undtagelser:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id754f14cb-a8cf-4fa9-9b82-33364d5d45c9">
+                  <Index>
+                    <Indentatio id="idefdb985a-620c-48b5-8ae5-47e6ec41354c" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Socialtilsynet i Region Syddanmark varetager opgaven i Frederiksberg Kommune og opgaven vedrørende tilbud beliggende i andre kommuner i Region Hovedstaden, hvor Frederiksberg Kommune enten er driftsherre eller har indgået aftale med tilbuddet om køb af samtlige pladser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc1271039-e9eb-41aa-952b-e6e7ade5a905" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Socialtilsynet i Region Hovedstaden varetager opgaven i Holbæk Kommune og opgaven vedrørende tilbud beliggende i andre kommuner i Region Sjælland, hvor Holbæk Kommune enten er driftsherre eller har indgået aftale med tilbuddet om køb af samtlige pladser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id9a9aa3b4-19e1-4d91-96db-de2e8acd2306" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Socialtilsynet i Region Sjælland varetager opgaven i Hjørring Kommune og opgaven vedrørende tilbud beliggende i andre kommuner i Region Nordjylland, hvor Hjørring Kommune enten er driftsherre eller har indgået aftale med tilbuddet om køb af samtlige pladser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idbc4fe40e-ce9d-4c7f-bfc6-90a6a0edc18e" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Socialtilsynet i Region Nordjylland varetager opgaven i Silkeborg Kommune og opgaven vedrørende tilbud beliggende i andre kommuner i Region Midtjylland, hvor Silkeborg Kommune enten er driftsherre eller har indgået aftale med tilbuddet om køb af samtlige pladser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id9ae43396-c6c5-41e0-8f83-b2d11a421cbd" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Socialtilsynet i Region Midtjylland varetager opgaven i Faaborg-Midtfyn Kommune og opgaven vedrørende tilbud beliggende i andre kommuner i Region Syddanmark, hvor Faaborg-Midtfyn Kommune enten er driftsherre eller har indgået aftale med tilbuddet om køb af samtlige pladser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="ide7763a6a-c92b-4482-b3a6-900ab56eecdd">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Private tilbud som nævnt i § 4, stk. 1, der drives af koncerner eller koncernlignende konstruktioner, hører under socialtilsynet i den region, hvor koncern­en har sin hovedadresse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6ded297e-3c2c-45ba-8b9b-60395fed08be">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvert socialtilsyn kan oprette én afdeling uden for kommunen, når særlige hensyn til geografiske forhold tilsiger det.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idae7a781c-c140-4999-9b43-fa4cd050b6f3" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id56230de9-e2dd-4ce2-a337-1e5fc2082326">
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet kan udbyde</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="ida830e420-a3c9-48e2-9068-96f76e59aa20">
+                  <Index>
+                    <Indentatio id="id7c97274c-64b7-4744-a662-87b6d7c5bff8" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>konsulentbistand og undervisning relateret til socialtilsynets tilsynsfaglige eller socialfaglige viden til en kommune, en region eller et tilbud og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id9d2969a7-c497-4088-806b-94c0ec4d0814" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>udførelse af opgaver efter delegation fra det ansvarlige regionsråd, jf. § 5, stk. 7, i lov om social service, eller fra den ansvarlige kommunalbestyrelse, jf. § 148 a, stk. 4, i lov om social service.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id354807a8-db42-4723-b271-6b9ead243165">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet skal efter anmodning fra den anbringende kommune oplyse, hvilke plejefamilier eller kommunale plejefamilier der i henhold til socialtilsynets oplysninger er egnede til at imødekomme de behov, den anbringende kommune konkret vurderer at et barn eller en ung har.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id403b5037-0341-4b2f-8c33-08bd17260799">
+              <Linea>
+                <Char>Anvendelsesområde</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id0f6fbe39-414f-4b69-9352-5d94d41e12b5" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id9a739f91-5871-41ed-b3c6-9512d3999988">
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet godkender og fører driftsorienteret tilsyn med følgende sociale tilbud:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id3137c6e9-f3c9-4cd9-9459-adfd2ccade9b">
+                  <Index>
+                    <Indentatio id="id6d06519a-fe31-4913-9db7-0b4a7d6624f8" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Plejefamilier og kommunale plejefamilier efter § 66, stk. 1, nr. 1 og 2, i lov om social service.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf486d82d-5c34-4db2-94f5-90aa769c7d2f" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Døgntilbud efter § 66, stk. 1, nr. 5 og 6, og §§ 107-110 i lov om social service samt stofmisbrugsbehandlingstilbud efter §§ 101 og 101 a i lov om social service.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id409a6fb1-b08c-4cac-b3e5-c2de38a8a968" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Tilbud i form af hjælp og støtte efter §§ 83-87, 97, 98 og 102 i lov om social service, når</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus id="idaf4a3132-56dd-4810-83c5-609f0d0a2306">
+                        <Index>
+                          <Indentatio id="id42c5db53-5760-4c3b-bb79-1bfd073f191f" formaInd="Litra">
+                            <Explicatus>a)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>tilbuddet leveres til beboere i plejeboliger eller lignende boligformer efter andre bestemmelser end nævnt i nr. 2, hvor borgeren er visiteret af kommunalbestyrelsen til ophold i boligen, dog ikke friplejeboliger,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id68967a78-ffa2-4435-b0f7-1f942ff7f22a" formaInd="Litra">
+                            <Explicatus>b)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>hjælpen udgår fra servicearealer knyttet til boligerne og ydes af et fast ansat personale,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="idbee30741-5005-47c3-b69a-ab9ee02e682e" formaInd="Litra">
+                            <Explicatus>c)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>tilbuddet til beboerne omfatter i væsentligt omfang støtte efter § 85 i lov om social service og</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id5a8b4956-bf51-40b1-9a02-bdb279f1a4e7" formaInd="Litra">
+                            <Explicatus>d)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>tilbuddets målgruppe er personer, der har ophold i boligen på grund af nedsat fysisk eller psykisk funktionsevne eller særlige sociale problemer.</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idd88d49c3-46b5-4ad2-b0bb-08d082af39a8">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet træffer afgørelse om, hvorvidt det konkrete tilbud er omfattet af godkendelse og driftsorienteret tilsyn efter stk. 1, nr. 3, eller af tilsyn efter § 151 i lov om social service.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="ide20d346e-e82f-4bbb-8ee6-67eb225484e0" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="id73dfba7c-6e67-44c8-8d31-9e73c51f5cad">
+            <Linea>
+              <Char>Socialtilsynets opgaver</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="id9f0f6b78-fdec-4dd2-94e0-77e357bf7460">
+              <Linea>
+                <Char>Godkendelse</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id38821be9-01c3-46ba-ae9f-f7dd99c22b0c" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="idcebcddbf-c17f-4154-90c7-5c987a7f7697">
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet træffer efter ansøgning afgørelse om godkendelse som generelt egnet af sociale tilbud m.v., jf. § 4, på baggrund af en vurdering af, om tilbuddet samlet set opfylder betingelserne for godkendelse, jf. §§ 6 og 12-18.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6c4bf67b-0e88-41dd-b91a-09d9c8526d73">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Godkendelse efter stk. 1 er en betingelse for, at tilbuddet kan indgå i den kommunale forsyning, jf. § 4, stk. 3, i lov om social service.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id80f088c7-6f74-4532-802a-4acb498b677d">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet kan, når særlige grunde taler for det, træffe afgørelse om, at ikkegodkendte tilbud, som kommunalbestyrelsen i akutsituationer har visiteret borgere til i en periode på op til 3 uger, jf. § 4, stk. 4, i lov om social service, kan anvendes i yderligere 3 uger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id10088250-0acb-4046-ab4f-f29af091039c">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet kan i forbindelse med godkendelsen efter stk. 1 fastsætte vilkår, hvis opfyldelse er en betingelse for fortsat godkendelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Socialtilsynet kan knytte frister til et vilkår.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id599df9f9-6550-446a-a06d-8b5bc24f348e">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet kan træffe afgørelse om ophør af godkendelsen af et tilbud, hvis tilbuddet ikke længere opfylder betingelserne for godkendelse, jf. § 6.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id75836eb5-282c-4542-9266-03a3dbb6d468">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Godkendelsen bortfalder, hvis tilbuddet ikke har været benyttet til det godkendte formål i en sammenhængende periode på 2 år, dog 3 år for plejefamilier og kommunale plejefamilier, jf. § 66, stk. 1, nr. 1 og 2, i lov om social service.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc1df478a-11eb-45dd-8cff-cc57c5d2cc08">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet skal i forbindelse med godkendelsen af plejefamilier og kommunale plejefamilier, jf. § 66, stk. 1, nr. 1 og 2, i lov om social service, tilbyde plejefamilien et kursus i at være plejefamilie.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida75146d5-a833-4b85-981e-59b482148622">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og indenrigsministeren kan fastsætte nærmere regler om godkendelsens tilrettelæggelse og om socialtilsynets forpligtelser i forbindelse med godkendelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id6f1abd4f-24ff-45f4-8ccb-a29fcb56bd40" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id3d55b2bb-573c-4405-a536-437989c8183b">
+                <Exitus>
+                  <Linea>
+                    <Char>Det er en betingelse for godkendelse af sociale tilbud, at tilbuddet efter en samlet vurdering har den fornødne kvalitet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd8252fb8-f207-4b75-939c-a67c52420aeb">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilbuddenes kvalitet vurderes inden for følgende temaer:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idafc91578-809a-4139-b7ca-02cb1cb08a07">
+                  <Index>
+                    <Indentatio id="idabbaff56-42c3-499f-a78e-545d46c0eec4" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Uddannelse og beskæftigelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc40510d2-e94a-4e2b-92d7-4fb07aaa000b" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Selvstændighed og relationer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idbced3c2b-471e-4a88-ad65-1637e40a5316" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Målgrupper, metoder og resultater.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id38e50067-6869-497b-b329-900197550216" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Organisation og ledelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id6308c522-beaa-4dad-aaf5-570c32704fdd" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Kompetencer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id6e259d95-f603-4333-b42e-4b49ef479e0f" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Økonomi.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id28a23d9e-4400-42fd-b6ae-a8385ef4d63c" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Fysiske rammer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id99c3d6f4-b843-4a73-ba18-a6aa609f6be5">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og indenrigsministeren fastsætter nærmere regler om vurderingen af tilbuddenes kvalitet, herunder i form af opstilling af kriterier og indikatorer for hvert af kvalitetstemaerne, jf. stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idd39299fe-1269-4ac4-a69d-66c31d589207">
+              <Linea>
+                <Char>Driftsorienteret tilsyn</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="ideccb4b28-6c37-4a74-ae81-c411074573e9" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="id9981349f-9c62-4b62-a2f0-c9c3e372a9c8">
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet fører driftsorienteret tilsyn med sociale tilbud for at sikre, at tilbuddene fortsat har den fornødne kvalitet, jf. § 6.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Socialtilsynet skal som led i det driftsorienterede tilsyn både føre kontrol med forholdene i tilbuddet og indgå i dialog med tilbuddet, som skal bidrage til at fastholde og udvikle kvaliteten i tilbuddet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id13256f0d-a1a7-46f6-8c08-46f1258e11aa">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet skal ved varetagelsen af tilsynsopgaven indhente relevant information, herunder</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id7274875e-4d09-403d-946f-44418a76e3b2">
+                  <Index>
+                    <Indentatio id="id6260d214-b036-40e6-bbf7-748239195a8c" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>aflægge anmeldte og uanmeldte tilsynsbesøg i tilbuddet,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id3f3e0016-f4a0-487f-ab60-c58ebdefc056" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>indhente oplysninger fra tilbuddet, herunder tilbuddets seneste årsrapport, jf. § 12, stk. 3,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1c56f61b-d62c-4e19-868e-714e4510c2c8" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>indhente oplysninger om tilbuddet fra de kommuner, som har ansvar for de enkelte borgeres ophold i tilbuddet i henhold til lov om social service, jf. §§ 9-9 b i lov om retssikkerhed og administration på det sociale område, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7f21f475-9aac-4be2-aedc-308d174ee98a" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>indhente oplysninger fra ansatte og borgere i tilbuddet samt fra andre relevante personer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id6978d105-8b36-4f0e-a88c-e5ce921e7110">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet skal som led i det løbende driftsorienterede tilsyn besøge alle omfattede tilbud, jf. § 4, mindst en gang om året.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Socialtilsynet skal foretage en konkret vurdering af behovet for antal tilsynsbesøg i hvert enkelt tilbud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="iddd33e34a-488c-4511-8929-53eaa05e1426">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og indenrigsministeren fastsætter nærmere regler om, hvilke forhold der skal inddrages i det driftsorienterede tilsyn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idba04f5fc-d924-46b5-b541-2adbe18a51f7" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="idfecc399e-cb80-4eae-9587-716fa3a5e50e">
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet skal træffe afgørelse om skærpet tilsyn, når forholdene i det enkelte tilbud tilsiger det.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Afgørelse om skærpet tilsyn træffes for 3 måneder ad gangen og oplyses på Tilbudsportalen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Som led i en afgørelse om skærpet tilsyn skal socialtilsynet udstede påbud, jf. stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5533699e-daef-48fe-b587-28dc75c01e85">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet kan træffe afgørelse om at udstede påbud, hvis overholdelse kan gøres til en betingelse for fortsat godkendelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Socialtilsynet skal fastsætte en frist for et påbuds overholdelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id860990fe-3d1f-460c-b7ff-c5f976f00018">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og indenrigsministeren fastsætter nærmere regler om, hvornår der kan iværksættes skærpet tilsyn, og hvornår der kan gives påbud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8dff3f5b-12f2-4160-a825-f28d92d974aa" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="idcfe5ac76-bbac-4d6c-b6f9-2601ca58d56c">
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet skal udarbejde en årsrapport om tilbuddenes kvalitet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Rapportens konklusioner skal indgå i drøftelserne om den rammeaftale på det sociale område og det almene ældreboligområde, som årligt indgås mellem kommunalbestyrelserne i regionen og regionsrådet, jf. § 6 i lov om social service.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd30ed3e2-765b-4125-a725-039d3ca93c67">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og indenrigsministeren fastsætter nærmere regler om, hvilke forhold der skal redegøres for i årsrapporten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id6c45d5e9-09f0-45bd-9a09-9ab26373d6ae" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id291b0760-2b09-48bd-9f3a-19ae86b9caaf">
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis socialtilsynet bliver opmærksomt på bekymrende forhold i et tilbud, skal socialtilsynet underrette de kommuner, som har ansvar for de enkelte borgeres ophold i tilbuddet i henhold til lov om social service, jf. §§ 9-9 b i lov om retssikkerhed og administration på det sociale område, når disse borgere kan blive berørt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id450bf571-b252-4f6d-8176-bcd1b132100d" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="idc8ab98b5-1270-420d-828f-b8d3edb0b961">
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet skal have et telefonnummer og en e-postadresse, hvortil et tilbuds personale, beboere, pårørende og andre kan henvende sig anonymt om bekymrende forhold i tilbuddet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Socialtilsynet skal oplyse beboere og ansatte om muligheden for at rette henvendelse til socialtilsynet efter denne bestemmelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida5678e71-cee5-4d5b-a7b1-d818d254d294">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Myndigheder og personer, der udøver opgaver efter stk. 1, samt enhver, der i øvrigt yder bistand hertil, har under ansvar efter straffelovens §§ 152-152 e tavshedspligt med hensyn til enhver oplysning, som de under deres virksomhed får kendskab til.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Straffelovens § 152 f finder ligeledes anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6d3032d5-dc14-4993-b171-ba421ce0b150">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet må ikke over for tilbuddet eller andre oplyse, at det har modtaget en henvendelse efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idb0972f49-fab2-4d10-80c6-0491f486f8aa" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="id0e8f77ff-9910-41ac-a9fb-96f8f4016eca">
+            <Linea>
+              <Char>Tilbuddene</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="idf4b3e93f-9f9b-437a-b25d-958628742436">
+              <Linea>
+                <Char>Tilbuddenes oplysningspligt</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id0e45db07-3280-42f0-a921-7f341a545733" localId="12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="id7ea4897d-0cc0-480f-a748-f3b94f0535d3">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilbud, der søger om godkendelse efter § 5, skal til brug for vurderingen af ansøgningen give socialtilsynet de faglige, organisatoriske og økonomiske oplysninger om tilbuddet, som socialtilsynet anmoder om.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2b609252-00b3-47b5-9d1b-490b4416ff29">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilbud, der er godkendt efter § 5, skal</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id253ad6eb-1385-45f5-8ccc-17e88ab6df3f">
+                  <Index>
+                    <Indentatio id="id18317b39-57ce-4ced-bf6c-c463bc0ae034" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>af egen drift give socialtilsynet oplysninger om væsentlige ændringer i forhold til godkendelsesgrundlaget,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id5c31fb09-64f8-4350-bd3c-8234309dda7b" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>efter anmodning give socialtilsynet oplysninger om, hvilke kommuner der har ansvar for at yde hjælp til borgere, der har ophold i tilbuddet, jf. §§ 9-9 b i lov om retssikkerhed og administration på det sociale område, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idfec1bdb0-6c96-47b4-999e-cc9fd8c7b97c" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>efter anmodning give socialtilsynet de oplysninger, som er nødvendige for, at socialtilsynet kan udføre det driftsorienterede tilsyn.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id99a6a74f-6862-4567-b4b5-87c0ec108223">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilbud omfattet af § 4, stk. 1, nr. 2 og 3, der er godkendt efter § 5, skal udarbejde en årlig rapport om tilbuddets virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8251219f-5b9f-475b-8edf-e4badaf92dbb">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og indenrigsministeren fastsætter nærmere regler om tilbuddenes oplysningspligt efter stk. 1-3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id4c34662b-afb9-45b6-90f3-c460b647e2cf">
+              <Linea>
+                <Char>Tilbuddenes vedtægter</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="ide506ac98-9d1d-4de8-9196-18e916407676" localId="13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id92e37356-3326-4dc8-b5ba-bc5d1a84633f">
+                <Exitus>
+                  <Linea>
+                    <Char>Private tilbud, som ikke er organiseret som enkeltmandsvirksomheder, skal have en vedtægt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2bfa4417-aa12-427c-a19c-26d2a0db1d3f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vedtægten skal indeholde:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idf6f05ab5-c0d9-4748-849a-d0d96c311305">
+                  <Index>
+                    <Indentatio id="id2869b07f-3e6e-47fe-a05e-3d0508de0778" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Angivelse af navn, hjemsted og formål.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id4d5ddc92-b98b-4514-9601-e5db1a6753e9" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Egenkapitalens størrelse ved oprettelsen, og hvorledes den er indbetalt (kontant eller i værdier).</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb8cd4220-f45c-488d-af94-25321fc73f4b" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udpegning af ledelse og ledelsens opgaver, ansvar og dispositionsret over for tredjemand.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id6ab3c768-5daf-4f1d-8e69-970a4823f1fd" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Regler om hæftelse for gældsforpligtelser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id9c4a4234-bdce-4fcf-898f-9473b64ccbab" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Regler for, hvorledes tilbuddet skal forholde sig med hensyn til budgetlægning, regnskabsførelse og revision.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1d39c585-6f54-46e5-8068-05ea6faadb40" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Procedurer for vedtægtsændringer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7ca72b1b-cfda-4575-bceb-9664ae314f2d" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Regler for anvendelse af kapitalen i tilfælde af nedlæggelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id4f86bce6-a0a1-4ca9-bb74-2836b3153468" formaInd="Nummer">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Regler om bestyrelsens sammensætning.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id8f7181c2-a86d-4349-8e1e-bd59eefd62e4">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet påser, at vedtægterne opfylder kravene i stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id45a0e019-0ecb-42a7-b9ad-408b9a1aa1ec">
+              <Linea>
+                <Char>Tilbuddenes bestyrelser</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id2896103e-efb5-4de1-8431-bb78c5973c0c" localId="14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="idd3bd546a-eb0e-44f6-8a10-8ef05f5207a6">
+                <Exitus>
+                  <Linea>
+                    <Char>Private tilbuds leder, dennes ægtefælle eller personer, der er knyttet til de nævnte personer ved slægt- eller svogerskab i ret op- eller nedstigende linje eller sidelinjen så nært som søskende, kan ikke udgøre en bestyrelses flertal.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestyrelsen skal sammensættes, så mindst et medlem er uafhængig af tilbuddets leder, og lederen må ikke have stemmeret i bestyrelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf148eb62-0537-41a5-b224-b0a5a1778b36">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet kan kun godkende tilbud oprettet som aktieselskab eller anpartsselskab, hvis selskabet har en bestyrelse, der opfylder betingelserne i stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id7ee237a2-d817-40f9-ae75-b15d7a12f83f">
+              <Linea>
+                <Char>Tilbud oprettet som fonde</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="ide18ad608-36db-4761-8648-af5199855713" localId="15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="id9b39b8ec-e339-449d-8034-25996e3ef3db">
+                <Exitus>
+                  <Linea>
+                    <Char>For tilbud etableret som fonde, der er undtaget fra lov om fonde og visse foreninger og lov om erhvervsdrivende fonde, skal godkendelsen angive, at opholdsstedet, botilbuddet eller behandlingstilbuddet er lovligt etableret som fond i henhold til lov om social service.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id94b0ebe9-1a60-4802-966f-d6034cf0d0c3">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet godkender vedtægterne for tilbud oprettet som fonde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf7627974-bb43-492a-b5df-b2d6ab02c5e6">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vedtægterne kan godkendes, hvis der er en klar adskillelse mellem stifterens økonomi og fondens økonomi, og hvis socialtilsynet vurderer, at vedtægternes regler om anvendelse af fondens formue ved ophør er i overensstemmelse med fondens formål.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbdc76827-24f4-435e-8258-7bc1658f8c65">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Væsentlige vedtægtsændringer og opløsning af fonden skal godkendes af Civilstyrelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6e4ca018-cf57-4914-8021-dcb6b4875049">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynets tilsyn med tilbud, der er oprettet som fonde, der er undtaget fra lov om fonde og visse foreninger, omfatter tilsyn med,</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id0faaf6eb-ff5a-4720-890e-0eb96f031e9d">
+                  <Index>
+                    <Indentatio id="id7816223c-88d4-4af1-88fa-6ad7d51bf8bc" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>om fondens økonomiske dispositioner er i overensstemmelse med vedtægterne og med grundlaget for godkendelsen, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id65716978-11bb-4d7b-b88c-ddec8d32e832" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>om fonden efterlever lovgivningens krav om regnskabsaflæggelse og revision.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id5067b277-aad1-4ebf-9ce1-1b07691c5323">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet underretter Civilstyrelsen, jf. stk. 4, om ophør af et tilbud etableret som fond.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id1ab616c4-7daa-432c-a0ab-43d892d807e4">
+              <Linea>
+                <Char>Tilbuddenes budget</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id7cb1f460-e992-47dc-a01c-8d5698343f91" localId="16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="ide8aac18c-f1cb-4b4d-9b01-97a10d3f71ca">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilbud som nævnt i § 4, stk. 1, nr. 2 og 3, der søger om godkendelse, eller som er godkendt, skal som grundlag for godkendelsen og det driftsorienterede tilsyn efter denne lov udarbejde et budget for varetagelsen af opgaverne efter lov om social service, der skal godkendes af socialtilsynet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1e7f6387-da54-447c-bd80-1398a5441de2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For private koncerner og koncernlignende konstruktioner, jf. § 2, stk. 4, skal der udarbejdes budget, jf. stk. 1, både for de enkelte tilbud og for den samlede koncern, hvoraf bl.a. pengestrømmene mellem koncernens enkelte dele skal fremgå.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er en forudsætning for godkendelse af budgettet, jf. stk. 1, at afregninger mellem tilbuddet og andre enheder inden for koncernen sker på markedsvilkår.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc0d546d3-5c90-49f7-8f4d-e95ceaf14f82">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og indenrigsministeren kan fastsætte nærmere regler om udarbejdelse og godkendelse af budget.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idb15fdc8e-9c37-4a6d-8704-fdfa43165182">
+              <Linea>
+                <Char>Tilbuddenes regnskaber</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id7c9e0c65-d32c-4e59-b218-d3f5afa8d138" localId="17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="id2b4f1efa-2681-4035-8109-8f7cb966b962">
+                <Exitus>
+                  <Linea>
+                    <Char>Private tilbud godkendt efter § 5 skal aflægge årsregnskab i overensstemmelse med reglerne i årsregnskabslovens afsnit II, medmindre andet følger af særlige regler.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis tilbuddets balancesum, nettoomsætning og gennemsnitlige antal medarbejdere overstiger grænser fastsat i § 4 i årsregnskabsloven, skal årsregnskabet aflægges i overensstemmelse med årsregnskabslovens afsnit III.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb3781a2a-80c0-4678-a1a9-7e6fba85de69">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet kan stille yderligere krav til det enkelte tilbuds regnskabsaflæggelse, hvis det i særlige tilfælde vurderes nødvendigt for at sikre tilstrækkelig gennemskuelighed i tilbuddets økonomi.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id94247c75-44df-4b9a-8397-4b10a0a377ae" localId="18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="idd20d5150-45f6-4c8a-9027-057418130675">
+                <Exitus>
+                  <Linea>
+                    <Char>Regnskaber for private tilbud som nævnt i § 4, stk. 1, nr. 2 og 3, skal revideres af en godkendt revisor.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det reviderede regnskab sendes til socialtilsynet til orientering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6ab4cccf-da5f-418f-b252-19b1c090dea3">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved revisionen efterprøves, om regnskabet er rigtigt, om de dis­positioner, der er omfattet af regnskabsaflæggelsen, er i overensstemmelse med meddelte bevillinger, love og andre forskrifter og med indgåede aftaler og sædvanlig praksis, samt om der er taget skyldige økonomiske hensyn ved forvaltningen af de midler og ved driften af de tilbud, der er omfattet af regnskabet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id49b8581c-11ad-459c-8a5c-753b432b6ae6">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilbuddets revisor skal på anmodning fra socialtilsynet oplyse om forhold, der er behandlet i forbindelse med revisionen, og som er af betydning for socialtilsynets vurdering af, om betingelserne for godkendelsen er opfyldt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Revisor skal give socialtilsynet besked, hvis revisor ved revisionen konstaterer forhold, der giver revisor anledning til tvivl om, hvorvidt betingelserne for godkendelsen er opfyldt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id908231c2-28dc-4985-94cd-ad8ae8b927c7">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og indenrigsministeren kan fastsætte nærmere regler om revisionens tilrettelæggelse og indhold.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id495cb99c-dec1-4f4f-8798-b1e69979922e">
+              <Linea>
+                <Char>Tilbuddenes klageadgang</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id78cf0148-94fe-42ba-81db-f5c4c4913a82" localId="19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="idf36bfb18-fee9-46de-9925-081a56bb467f">
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynets afgørelser efter denne lov kan påklages af de tilbud eller myndigheder, der er adressater for socialtilsynets afgørelser, efter reglerne i kapitel 10 i lov om retssikkerhed og administration på det sociale område.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idfcc82cdd-2942-4345-9124-0c7756f55242">
+              <Linea>
+                <Char>Tilbuddenes videregivelse af oplysninger</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idebc43d69-ad9d-40de-aac7-d037b2dcbca3" localId="20">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="idabfd4ede-8b5b-4794-bcb7-94d0de988c81">
+                <Exitus>
+                  <Linea>
+                    <Char>Videregivelse af oplysninger fra et tilbud til socialtilsynet kan ske uden samtykke fra borgeren, når videregivelsen er nødvendig for udførelsen af det driftsorienterede tilsyn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id6c3da6e8-16f6-4bfb-91d3-49d86943793c" localId="4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="id335a3ddb-8076-40d9-b8ca-a8784aa7d40f">
+            <Linea>
+              <Char>Samarbejde, Tilbudsportalen og finansiering</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="idd2d6ebe1-4147-4284-a80d-806ac5bb8388">
+              <Linea>
+                <Char>Samarbejde</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="ide80f7079-84a7-49fe-9851-ef23da7ec9df" localId="21">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="id5d395cff-9338-4362-9326-42b5892f9242">
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og indenrigsministeren kan fastsætte nærmere regler om kommunikationen mellem socialtilsynet, tilbuddene, kommunerne, regionerne og Socialstyrelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan i denne forbindelse fastsætte regler om, at kommunikationen skal foregå digitalt, og om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan endvidere fastsætte regler om at undtage tilbud helt eller delvis fra digital kommunikation, når særlige omstændigheder taler for det.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idbb046828-59ba-4ec3-af6c-3d8ba41b1cf0">
+              <Linea>
+                <Char>Tilbudsportalen</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id458c9bcc-67c6-4c33-b83d-210644497390" localId="22">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="id7e7621e7-172d-450c-b937-8f5e3b3ee0da">
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet skal registrere oplysninger på Tilbudsportalen, jf. § 14 i lov om social service, om tilbud omfattet af § 4, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id653e8727-3c9c-44be-9b8a-5f014e23e4d6">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Oplysningerne skal bl.a. angå</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idfa534175-9978-43ca-b887-17a035038f72">
+                  <Index>
+                    <Indentatio id="id0d613c3d-80f6-4514-8134-8d4c669a999c" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>godkendelse af tilbud,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id33acb51f-9058-439b-aab9-83ab835c75fe" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilbuddets aktuelle status i forhold til godkendelsen, herunder oplysning om eventuelle vilkår, påbud og skærpet tilsyn, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="iddd1c8185-0a91-4b6f-823c-0544dae699d2" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>resultaterne af udført tilsyn med et tilbud.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id075153aa-bb7b-4175-b674-dc1c77357ebe">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og indenrigsministeren fastsætter nærmere regler om indberetningerne efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id79c4530e-d4da-4412-873a-be032b070e1e">
+              <Linea>
+                <Char>Finansiering af socialtilsynet</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id7a78e8e1-07da-41cd-94ab-427c2eba6582" localId="23">
+              <Explicatus>§ 23.</Explicatus>
+              <Stk id="id4bd4b6cf-7d59-4177-81a1-31c3a1af8d1a">
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynets drift finansieres af kommunerne efter objektive kriterier, jf. stk. 2, og ved opkrævning af omkostningsbaserede takster for godkendelse og driftsorienteret tilsyn, jf. stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide91f8fa8-4c01-4093-9d07-c7126e7a70ff">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Opgaverne i forbindelse med godkendelse af og tilsyn med generelt godkendte plejefamilier og kommunale plejefamilier, jf. § 4, stk. 1, nr. 1, finansieres af de kommuner, hvor det enkelte socialtilsyn godkender og fører tilsyn, jf. § 2, stk. 2 og 3, efter objektive kriterier.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3ee43b52-7505-4aad-8a8b-4fbbe0ea8b91">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For opgaverne i forbindelse med godkendelse af og tilsyn med tilbud efter § 4, stk. 1, nr. 2 og 3, fastsætter socialtilsynet takster for godkendelse og takster for tilsyn, som opkræves hos de omfattede tilbud.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Taksterne differentieres efter tilbuddets størrelse og tilsynets omfang, og der fastsættes en særlig takst for godkendelse af væsentlige ændringer i allerede eksisterende godkendelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id30e0db15-2d69-424b-af5f-db8ee990106c">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når socialtilsynet varetager andre opgaver for kommuner, regionsråd eller tilbud end de opgaver, der fremgår af § 2, dækkes omkostningerne hertil af den pågældende kommune eller det pågældende regionsråd eller tilbud på grundlag af den konkrete aftale.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idaa84fe27-85df-4887-838a-ac56b5b5aa57">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet kan i 2014 og 2015 indregne udgifter til etablering af tilsynsvirksomheden afholdt inden lovens ikrafttræden i de objektive finansieringsandele, jf. stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id838ae645-b0e1-4799-84fd-0a698468e30e">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og indenrigsministeren fastsætter nærmere regler om finansieringen, herunder om opkrævning og beregning af finansierings­andelene samt om indregning af etableringsudgifter, jf. stk. 5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id5a0c09ed-58e7-44bf-bb18-e83df1d555d6" localId="5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica id="ide0ebe752-8330-4c4c-ae77-2bf645ab5885">
+            <Linea>
+              <Char>Socialstyrelsens opgaver vedrørende socialtilsynene</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id37a711da-afd5-4136-a726-3e9d1e80ea4d" localId="24">
+              <Explicatus>§ 24.</Explicatus>
+              <Stk id="id2b40180d-e87f-4da6-9595-2a5cb3d1a3b5">
+                <Exitus>
+                  <Linea>
+                    <Char>Socialstyrelsen følger løbende praksis i socialtilsynene og foretager herunder stikprøver og understøtter udførelsen af godkendelses- og tilsynsopgaven med relevant vejledning og materiale m.v. Socialstyrelsen udarbejder en årlig rapport om socialtilsynenes virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id65d8c43c-39ac-4520-b8ed-f716da65bdf6">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynene skal på anmodning fra Socialstyrelsen tilvejebringe og indsende de oplysninger, som Socialstyrelsen anmoder om.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id31d5f839-b15d-4912-9020-fd9d226c7bb5" localId="6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica id="id51bd7aa7-6496-44f5-a1c3-c331a76752cd">
+            <Linea>
+              <Char>Ikrafttræden og overgangsbestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id02406b38-5df3-4e39-8c97-8b569a21c1db" localId="25">
+              <Explicatus>§ 25.</Explicatus>
+              <Stk id="id88296201-beba-4265-a964-b6c352168755">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. januar 2014.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id19ee2071-c819-4f65-b19e-f7a8ac58faec" localId="26">
+              <Explicatus>§ 26.</Explicatus>
+              <Stk id="idfe7101a8-1951-41ac-bb38-1eab6ca5f970">
+                <Exitus>
+                  <Linea>
+                    <Char>Plejefamilier og kommunale plejefamilier, der var godkendt som generelt egnede ved lovens ikrafttræden, samt tilbud omfattet af § 4, stk. 1, nr. 2, som var optaget på Tilbudsportalen ved lovens ikrafttræden, skal godkendes efter reglerne i denne lov inden den 1. januar 2016.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilbud som nævnt i § 4, stk. 1, nr. 3, som indgik i den kommunale forsyning ved lovens ikrafttræden, skal godkendes efter reglerne i denne lov inden den 1. januar 2016.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Godkendelsen skal ske på socialtilsynets eget initiativ eller efter ansøgning fra det enkelte tilbud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide0ce91d1-8baa-4a1a-930b-cfcb25298c1b">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sociale tilbud, der er omfattet af § 4, er underlagt driftsorienteret tilsyn, jf. § 7, fra lovens ikrafttræden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det driftsorienterede tilsyn med tilbud nævnt i § 4, stk. 1, nr. 3, påhviler dog den stedlige kommune efter § 151 i lov om social service, indtil socialtilsynet har truffet afgørelse om, hvorvidt det konkrete tilbud er omfattet af § 4, stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den besigtigelse, der finder sted i forbindelse med godkendelse af tilbud efter reglerne i denne lov i perioden fra lovens ikrafttræden indtil den 1. januar 2016, opfylder kravet om mindst et årligt tilsynsbesøg efter § 7, stk. 3, i det pågældende år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idcc83986b-5d4e-4239-8af8-09cbf06ec5a9" localId="27">
+              <Explicatus>§ 27.</Explicatus>
+              <Stk id="id4bae64b6-6c0b-4404-bf2f-eb10cc7aa250">
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunerne nævnt i § 2, stk. 2, overtager pr. 1. januar 2014 det personale, som i regionen eller i kommunerne i regionen udelukkende eller overvejende er beskæftiget med varetagelse af opgaver, som overføres til kommunerne nævnt i § 2, stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="iddd313d3d-003b-4375-85a1-4eca0375753c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De pligter og rettigheder, der følger af lov om lønmodtageres retsstilling ved virksomhedsoverdragelse, finder tilsvarende anvendelse for personale, der er ansat i henhold til kollektiv overenskomst, bestemmelser om løn- og arbejdsforhold, der er fastsat eller godkendt af offentlig myndighed, eller individuel aftale, og som i forbindelse med overførsel efter stk. 1 ikke er omfattet af lov om lønmodtageres retsstilling ved virksomhedsoverdragelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id189c6455-d531-44f8-b459-6414e934afc8">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tjenestemænd har pligt til at følge med opgaverne til den nye ansættelsesmyndighed på vilkår, der svarer til de hidtidige vilkår.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char> Den nye ansættelsesmyndighed udbetaler den samlede tjenestemandspension, idet pensionsbyrden deles forholdsmæssigt mellem de to ansættelsesmyndigheder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id085026eb-ac3b-4d31-8193-f54b044a70c6" localId="28">
+              <Explicatus>§ 28.</Explicatus>
+              <Stk id="ida2160748-e9d3-49e3-99bb-eea8398e9056">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="id9a448bfa-edef-4d9c-83ba-8151fe00dddd">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 649 af 18. maj 2015 (Tilbud om anonym, ambulant behandling af stofmisbrugere m.v.) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id2c61ec7f-d41b-4d0a-8fd0-35d4c74ac7f3">
+        <Explicatus>§ 3</Explicatus>
+        <Stk id="idf12ccff5-ca96-436e-abe2-30e1f96fc68a">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. juli 2015.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idc76838d7-4308-4855-aef5-385bc1513dd2">
+    <UnderskriftStedDato id="idc76838d7-4308-4855-aef5-385bc1513dd2" />
+    <Underskriver id="idc76838d7-4308-4855-aef5-385bc1513dd2" />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,1639 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="ida07736d6-88c0-48b3-9d50-1186ae483f3f" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id08e65747-53fe-4b4d-a9de-9742eee25535">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150078129</AccessionNumber>
+    <DocumentId>AT005235</DocumentId>
+    <UniqueDocumentId>172915</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om produktionsskoler</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-06-15</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-01-28</EndDate>
+    <Status>Historic</Status>
+    <Number>781</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LOV nr 1749 af 27/12/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 97 af 26/01/2017</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 781 af 15/06/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2017-01-27</DateOfHistoricMark>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20160174930</Ref_Accn>
+    <Ref_Af REFid="change_1">2016-12-27</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om ændring af lov om produktionsskoler (Harmonisering af skoleydelse til et SU-lignende niveau m.v.)</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">P.M.V.\nPer Hansen\nAfdelingschef</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Kira Gandrup</Signature>
+    <PlaceOfSignature>Undervisningsministeriet</PlaceOfSignature>
+    <JournalNumber>Undervisningsmin., j.nr. 152.89M.541</JournalNumber>
+    <Ministry>Ministeriet for Børn, Undervisning og Ligestilling</Ministry>
+  </Meta>
+  <TitelGruppe id="id39d97786-896e-43e0-b006-a86997a5281f">
+    <Titel id="id61903ab1-61fb-4917-ad45-26ebbd97efcf">
+      <Linea>
+        <Char>Bekendtgørelse af lov om produktionsskoler</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idbe8a2ae6-171d-4b48-bba8-7f7eed2e3a53">
+    <Indledning id="idd7a725fe-683a-48c1-b25f-5757bb0cc0d2">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om produktionsskoler, jf. lovbekendtgørelse nr. 456 af 23. maj 2012, med de ændringer, der følger af § 8 i lov nr. 634 af 16. juni 2014 og § 1 i lov nr. 1379 af 16. december 2014.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="id92605622-92a9-4544-b5d9-31233b2de262">
+      <Afsnit id="ida5d2858e-bbe2-4aff-9bc2-8494be402039" localId="1">
+        <Kapitel id="id66312075-7072-4900-be4f-93179704a136" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="id01d6019b-4df8-46ae-b5e5-dc98f9d9450b">
+            <Linea>
+              <Char>Formål og virksomhed</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id49fa9c18-6089-4b15-99e3-1f6c0b2e0078" localId="1">
+              <Explicatus>§ 1. </Explicatus>
+              <Stk id="id055d14df-8656-4ad5-add9-2c94dfc8fa38">
+                <Exitus>
+                  <Linea>
+                    <Char>Produktionsskoler tilbyder undervisningsforløb, der er baseret på praktisk arbejde og produktion.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilbuddet gives til unge under 25 år, som ikke har gennemført en ungdomsuddannelse, og som ikke umiddelbart har forudsætninger for at påbegynde en sådan uddannelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6542f0a2-caf9-4d25-979a-351051b1a306">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilbuddet skal styrke deltagernes personlige udvikling og forbedre deres muligheder i uddannelsessystemet og på det almindelige arbejdsmarked, herunder til beskæftigelse i fleksjob, i skånejob eller lignende.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilbuddet skal endvidere bidrage til at udvikle deltagernes interesse for og evne til aktiv medvirken i et demokratisk samfund.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5a70df2d-05ef-48ec-b2c8-595189a6c683">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilbuddet tilrettelægges med særligt henblik på, at den unge opnår kvalifikationer, der kan føre til gennemførelse af en erhvervskompetencegivende ungdomsuddannelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id213b36a8-be01-4b78-b52b-7f86fe665f2f">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilbuddet tilrettelægges som heltidsundervisning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Undervisningsministeren kan fastsætte nærmere regler herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id65312350-7d65-4113-973f-d5ba4e27f7e3">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Optagelse og udskrivning af deltagere finder sted løbende under hensyn til de enkelte deltageres behov.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved optagelsen udarbejdes en plan for den enkelte deltagers forløb.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Undervisningsministeren fastsætter nærmere regler herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idffa0e2bd-d6d0-4dd9-ae68-9cd94160013d">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En produktionsskole kan kun optage deltagere med tilskud efter lovens kapitel 3, når kommunalbestyrelsen i den unges bopælskommune gennem Ungdommens Uddannelsesvejledning vurderer, at den unge er omfattet af produktionsskolernes målgruppe efter stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For deltagere, der er udgået fra en dansk skole i Sydslesvig, vurderer kommunalbestyrelsen i produktionsskolens beliggenhedskommune gennem Ungdommens Uddannelsesvejledning, om den unge er omfattet af produktionsskolens målgruppe.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Vurderer Ungdommens Uddannelsesvejledning, at den unge er omfattet af målgruppen, kan den unge umiddelbart og i op til 6 måneder herefter optages og begynde på en produktionsskole med tilskud efter lovens kapitel 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idc63c560d-808e-402c-9da5-4083aae35d84" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="id02289df3-d837-482f-b08b-5fda5c97659b">
+                <Exitus>
+                  <Linea>
+                    <Char>Produktionsskoletilbud omfatter praktisk arbejde, produktion og teoretisk undervisning i tilknytning hertil.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den teoretiske undervisning skal være af betydeligt omfang og i størst muligt omfang integreres med det praktiske arbejde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7575fa50-68bd-4da8-a291-6970b7e75b4f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I tilbuddet skal indgå uddannelses- og erhvervsvejledning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc7da1640-04e8-46d8-ae28-53cb554cb77b">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilbuddet skal fortrinsvis have relation til fagområder inden for de erhvervskompetencegivende ungdomsuddannelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida27c8785-6759-46a1-b493-8b75e3bc4c99">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For elever, der gennemfører et produktionsskoleforløb på mere end 3 måneder, skal der i forløbet indgå meritgivende kombinationsforløb til kompetencegivende uddannelse, medmindre særlige forhold taler herimod.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kombinationsforløbet skal vare mindst 2 uger og højst 5 uger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id089dafff-8ae1-4c02-901d-4e5ed73966d4">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Til deltagere med behov herfor skal tilbydes undervisning, der styrker deltagernes grundlæggende færdigheder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf98d990a-73c4-468f-80c5-57912b15336f">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I tilbuddet kan endvidere indgå:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id0a60b4c8-ef64-417c-8ccc-f4b68716734c">
+                  <Index>
+                    <Indentatio id="idbbd851f8-d0a9-4479-b189-21c325bc157b" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Praktik af kortere varighed i privat eller offentlig virksomhed.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide05dceed-1a70-4ffb-a63c-a9fe07ec99d5" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Ekskursioner og udvekslingsophold.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1b7c1368-00a7-43f1-b898-c3698fa04754" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Specialundervisning og anden specialpædagogisk bistand.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idef1992bb-d938-45e8-a9b9-5d11ec99ee83">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Indtil 1/3 af et produktionsskoleforløb kan anvendes til undervisning, uddannelser og kurser, som er oprettet ved eller i medfør af en uddannelseslov.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I beregningen indgår kombinationsforløb, jf. stk. 4, ikke.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc9f0cd9d-2fab-4e35-a426-7a61b3c2c386">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved afslutningen af et forløb på en produktionsskole udsteder skolen efter drøftelse med deltageren et kompetencebevis.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>En deltager kan afstå fra at modtage et kompetencebevis, hvis produktionsskoleforløbet har været kortere end 3 måneder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8450c7e3-2436-4569-a116-d5583be62b51">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Produktionsskoletilbud skal gennemføres i egnede lokaler med værkstedsindretning eller faciliteter svarende til skolens virksomhedsplan, jf. § 6, stk. 7.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idebcc65eb-5f5d-4817-a2d7-12886c2499bc">
+                <Explicatus>Stk. 10.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan fastsætte regler om omfang, tilrettelæggelse og indhold af tilbud efter stk. 1-6, om skolernes udstedelse af kompetencebevis til deltagerne efter stk. 8 og fastsættelse af kompetencemål til brug herfor samt om kravene til lokaler og udstyr efter stk. 9.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id2e5085ca-9bf3-4e15-a237-54bc7ed18dd3" localId="3">
+              <Explicatus>§ 2 a.</Explicatus>
+              <Stk id="id8880e2d0-d032-46e1-b945-57a6cefccd7a">
+                <Exitus>
+                  <Linea>
+                    <Char>Produktionsskoler skal samarbejde med institutioner godkendt efter lov om institutioner for erhvervsrettet uddannelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Samarbejdet skal bygge på en skriftlig aftale mellem produktionsskolen og den institution, som produktionsskolen udsluser eller forventer at udsluse flest elever til.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>En produktionsskole kan indgå aftaler med flere institutioner.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Produktionsskoler kan gennemføre dele af erhvervsuddannelsernes grundforløb, hvis det indgår i en samarbejdsaftale.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8f43b479-f103-4386-804a-dd5502b9370b">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan fastsætte regler om aftalerne samt om omfang, tilrettelæggelse og indhold af samarbejdet og aktiviteten efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idfa297c21-7806-4aa9-a4fa-66b09080137e" localId="4">
+              <Explicatus>§ 2 b.</Explicatus>
+              <Stk id="idf8757461-eb18-4c7d-ab15-c333c152eb08">
+                <Exitus>
+                  <Linea>
+                    <Char>En produktionsskole kan i henhold til en aftale med en skole, institution eller virksomhed, der er godkendt til at udbyde det pågældende hovedforløb, jf. § 18 i lov om erhvervsuddannelser, medvirke til uddannelse af elever i produktionsskolebaseret erhvervsuddannelse, jf. kapitel 7 c i lov om erhvervsuddannelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idfceb7c4a-3daa-4592-a3b6-614f44605cc4" localId="5">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="idb42e58fa-8e47-4d25-bf89-ee81e69fd8b4">
+                <Exitus>
+                  <Linea>
+                    <Char>En produktionsskole kan afsætte sin produktion på vilkår, der ikke giver private udbydere urimelig konkurrence.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id85d3ac09-aea1-4234-84a1-1e41372df852" localId="6">
+              <Explicatus>§ 3 a.</Explicatus>
+              <Stk id="ide39fbb26-6654-470d-b4b1-2b35864fe458">
+                <Exitus>
+                  <Linea>
+                    <Char>Produktionsskolerne skal i deres information og annoncering, herunder på skolernes hjemmesider på internettet, oplyse om målgruppen, jf. § 1, stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Skolerne skal endvidere oplyse, at et produktionsskoleophold ikke er et formelt kompetencegivende undervisningstilbud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id607ed7f3-8d60-412a-84d4-931b601758ae" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="id761833a1-0135-43d3-b204-87580278f383">
+            <Linea>
+              <Char>Godkendelse, drift og tilsyn</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idabe3ea5b-df22-4b98-9606-723d4152b004" localId="7">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="idae619c5c-e11f-4994-bb6a-8e8124e38146">
+                <Exitus>
+                  <Linea>
+                    <Char>Produktionsskoler etableres som selvejende institutioner med vedtægter, der godkendes af den kommunalbestyrelse, der helt eller delvis yder grundtilskud til skolen, jf. § 9, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3d79bbaf-fd59-4537-8784-4bcb8a3dbb41">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vedtægterne skal indeholde bestemmelser om, hvad der skal foretages ved skolens ophør, herunder at eventuelle overskydende midler skal anvendes til beslægtede formål efter kommunalbestyrelsens godkendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc4e683b0-db8e-4394-a208-0377427f54fa">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren fastsætter nærmere regler om vedtægternes indhold.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id701321dd-eb14-49c6-b44f-2f95e62e0fb9">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved godkendelse af vedtægterne skal kommunalbestyrelsen påse, at skolen råder over egnede lokaler, jf. § 2, stk. 9, og kan påbegynde sin virksomhed på et realistisk økonomisk grundlag.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3ceb0fcb-247f-44ee-ab39-fc8659ead769">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Godkendelse af en produktionsskoles vedtægter skal tilbagekaldes, hvis skolen ophører med at drive produktionsskolevirksomhed, eller hvis skolens virksomhed ikke længere er i overensstemmelse med denne lov eller regler fastsat i medfør heraf.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilbagekaldelsen kan ske uden varsel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4691ba66-dfef-4864-aabb-82f944a1b478">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Godkendelsen af en produktionsskoles vedtægter kan endvidere tilbagekaldes, såfremt der ikke længere er behov for skolen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilbagekaldelsen skal ske med mindst et års varsel til en 1. januar.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2bf1e0b2-a230-4403-8d3b-54aebe7573d8">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan fastsætte regler om fremgangsmåden ved tilbagekaldelse af godkendelse af vedtægter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id69c7187c-e299-455c-bded-05000ead43f1">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan fastsætte regler om kravene til det økonomiske grundlag ved etablering af skoler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idac512508-2aa5-4896-b4ad-1d00f1cecb72" localId="8">
+              <Explicatus>§ 5. </Explicatus>
+              <Stk id="idefe59593-3f97-40fe-83b6-779c2619a7a3">
+                <Exitus>
+                  <Linea>
+                    <Char>Skolen skal i sit virke som selvejende institution være uafhængig, og dens midler må alene komme dens undervisnings- og produktionsvirksomhed til gode.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id834ee11a-ee1a-44eb-9f64-3de2ffc4400a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Likvide midler, der ikke er nødvendige til den daglige drift, skal under hensyntagen til sikkerheden anbringes på en eller flere af følgende måder:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id137da911-c9fb-497b-a62c-b5a3a562713f">
+                  <Index>
+                    <Indentatio id="idb81c6b07-ac94-4fe3-9123-23628f02dc90" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Som indestående i pengeinstitutter hjemmehørende i Danmark eller et andet land inden for Det Europæiske Økonomiske Samarbejdsområde (EØS).</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id6c2db07b-f4b5-4b8c-9649-938c4f745dac" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>I fondsaktiver udstedt af danske realkreditinstitutter, KommuneKredit eller andre danske finansieringsinstitutter under offentligt tilsyn.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id4c78d82d-d0d0-42a5-8e14-5cc4616caa13" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>I fondsaktiver eller gældsbreve, for hvilke den danske stat eller en dansk kommune står som udsteder eller garant.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8223a1f7-6af5-4b14-8b13-18124c9c178e" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>I værdipapirer fra et EU-/EØS-medlemsland, bortset fra aktier og investeringsforeningsbeviser, som efter deres art og sikkerhed kan sidestilles med de aktiver, der er nævnt i nr. 2 og 3.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id8790815d-4666-4ae6-96d4-552c034e4094">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skolen kan uanset bestemmelsen i stk. 2, nr. 4, under størst mulig hensyntagen til sikkerheden i fornødent omfang anbringe likvide midler i andelsbeviser med begrænset hæftelse eller i aktier i det pengeinstitut, som skolen bruger som sin sædvanlige bankforbindelse, og i andelsbeviser med begrænset hæftelse i forsyningsvirksomheder m.m., hvis skolen derved opnår økonomiske fordele.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Andelene og aktierne skal afhændes, hvis skolen skifter pengeinstitut eller ikke længere opnår den forudsatte fordel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id65966248-9354-426a-b823-20825d3dca67">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Aftaler, herunder husleje- og ejendomsaftaler, skal indgås på vilkår, der ikke er ringere for skolerne end sædvanlige markedsvilkår, og skal søges ændret, hvis udviklingen i markedsvilkårene tilsiger det.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd5ade063-f611-4efc-aece-5556fb9d0863">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan fastsætte nærmere regler om huslejeaftaler, herunder i særlige tilfælde bestemme, at huslejeaftaler skal indgås på andre vilkår end dem, der er nævnt i stk. 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idca8884db-8dca-46cd-b209-5c0fe7c151e2" localId="9">
+              <Explicatus>§ 6. </Explicatus>
+              <Stk id="idbb458f75-7825-4dba-925d-f546f51e7cc1">
+                <Exitus>
+                  <Linea>
+                    <Char>Den overordnede ledelse af den enkelte skole varetages af bestyrelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbd576e34-faf0-490c-be7d-d0ddcb75fc87">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen sammensættes af et ulige antal medlemmer på mindst 5.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De lokale arbejdsmarkedsorganisationer skal være repræsenteret, og der kan endvidere være repræsentanter for den eller de kommunalbestyrelser, der yder grundtilskud til skolen, jf. § 9, stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Antallet af kommunale, regionale eller andre offentligt udpegede repræsentanter må dog ikke være så stort, at det udgør et flertal i bestyrelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Deltagernes råd, jf. § 6 a, udpeger en tilforordnet til skolens bestyrelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id240b24c7-1953-4d97-a163-dad38029458a">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Følgende personer kan ikke være medlemmer af bestyrelsen:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id978c7d4c-5507-4486-8340-7d936dc26107">
+                  <Index>
+                    <Indentatio id="id31f5ecc4-6cb7-430a-aed1-6953b5c4c51c" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Personer, der udlejer ejendomme m.m. til skolen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id84dc916d-9356-4ef5-9199-b7cbff3015c8" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Medlemmer af bestyrelsen i fonde, selskaber, foreninger eller andre virksomheder, der udlejer ejendomme m.m. til skolen, eller som kontrollerer udlejer af ejendomme m.m. til skolen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id15538950-8e44-482f-a08a-5bea220b2cf0" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Advokater, revisorer eller lignende rådgivere for personer, jf. nr. 1, eller for fonde, selskaber, foreninger eller andre virksomheder, jf. nr. 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id3569288c-b499-46fa-8793-5380581fb906" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Ansatte i ledende stillinger hos personer, jf. nr. 1, eller i fonde, selskaber, foreninger eller andre virksomheder, jf. nr. 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id9ac68675-2ea4-4a66-a5da-508e9945e6ec" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Medlemmer af bestyrelsen ved en skole inden for samme skoleform.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id010ac9e7-1d0e-4aac-857a-2f3a6aacf0be">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er lejeforholdet af uvæsentligt omfang, finder stk. 3, nr. 1-4, ikke anvendelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Undervisningsministeren fastsætter nærmere regler herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfd5ae8f3-c663-4813-ab25-96a3b30d8aa1">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For bestyrelsen, lederen og andre ansatte ved skolen gælder i øvrigt bestemmelserne i forvaltningslovens kapitel 2 om inhabilitet og i kapitel 8 om tavshedspligt m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbfaef968-1223-4821-8c6f-7fb434d4a22f">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen vælger selv sin formand og næstformand.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For varetagelse af hvervet som formand og næstformand kan der af skolens midler ydes et vederlag efter de gældende regler om særskilt vederlag.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Undervisningsministeren fastsætter efter forhandling med finansministeren nærmere regler herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0b148620-00d9-46b7-ae84-199ab1beebb1">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen udarbejder hvert år en plan for skolens virksomhed.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Virksomhedsplanen skal være i overensstemmelse med §§ 1 og 2 og skal omfatte en beskrivelse af mål, målgruppe samt indholdet af undervisningen og produktionsvirksomheden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4b6a275d-ef60-407a-8239-b69eddd91e5b">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen udarbejder en strategi for skolens udslusning af deltagere.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Udslusningsstrategien skal være offentligt tilgængelig på skolens hjemmeside på internettet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestyrelsen er desuden ansvarlig for, at skolens eventuelle generelle samarbejdsaftaler og skolens erfaringer hermed i relation til udslusning gøres offentligt tilgængelige på skolens hjemmeside på internettet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6df0054c-a65e-4236-aaa8-1466f38e2626">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen fastsætter regler for optagelse af deltagere på skolen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9a2364dd-8928-4ada-af0c-7dc64ab2caca">
+                <Explicatus>Stk. 10.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen fastlægger efter forslag fra skolelederen skolens budget og godkender dens regnskab.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id726470e2-b965-4ed2-877c-e431bab2df2a">
+                <Explicatus>Stk. 11.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen ansætter og afskediger skolens leder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd870ac5e-01cb-4571-bf63-b5ed82e7c86e">
+                <Explicatus>Stk. 12.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen ansætter og afskediger lærere og andet personale.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestyrelsen kan bemyndige skolens leder hertil.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9494ddaf-17ce-45f8-aaf6-4276cc06b073">
+                <Explicatus>Stk. 13.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen skal straks give Undervisningsministeriet og grundtilskudsydende kommunalbestyrelser meddelelse, hvis skolen ophører, standser sine betalinger, begæres erklæret konkurs, eller der i øvrigt er fare for, at skolens virksomhed må indstilles.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id710b5afb-3691-44d4-96cc-ac25872b6b59">
+                <Explicatus>Stk. 14.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan fastsætte nærmere regler om bestyrelsens sammensætning og funktion.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida6ecc7e1-a970-48ef-8e3a-e966ec53eeb3" localId="10">
+              <Explicatus>§ 6 a.</Explicatus>
+              <Stk id="id2d3100c2-e1d1-41f1-8c7e-372aed6cb84d">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved hver skole har deltagerne ret til at danne et deltagerråd.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Rådet udpeger repræsentanter for deltagerne til udvalg m.v., som skolen har nedsat til at behandle spørgsmål af betydning for deltagerne i almindelighed.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dette gælder dog ikke udvalg m.v., hvor deltagelsen ville stride mod anden lovgivning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Undervisningsministeren fastsætter nærmere regler om valg til deltagernes råd, om deltagerrådenes virksomhed og om bestyrelsens forpligtelse over for deltagerrådene.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id4f0f68e1-f34a-4bcd-8246-0f986d7e2567" localId="11">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="ida97efc89-ed92-4c12-b30a-e481b0990727">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved enhver produktionsskole skal der være ansat en leder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Lederen varetager den daglige administration og har det pædagogiske ansvar.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Lederen kan ikke samtidig være leder for en anden produktionsskole, undervisnings- eller kursusinstitution eller være ansat i en kommune, der yder grundtilskud til skolen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id698e334d-db3a-4b91-be76-e63b204e225e" localId="12">
+              <Explicatus>§ 7 a.</Explicatus>
+              <Stk id="id127fc994-b884-4e5d-85e3-046b553e3849">
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan fastsætte regler om elektronisk kommunikation mellem skolen og Undervisningsministeriet, mellem skolen og andre offentlige myndigheder og uddannelsesinstitutioner omfattet af Undervisningsministeriets lovgivning samt mellem skolen og brugerne af skolen, herunder om anvendelse af digital signatur.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id437e68ba-3791-4f00-a234-a12fe26ab8a3" localId="13">
+              <Explicatus>§ 8. </Explicatus>
+              <Stk id="id54154437-0017-4e54-bf69-5e9d240c62fa">
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren fører tilsyn med produktionsskolerne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Finder undervisningsministeren, at en skoles virksomhed ikke er i overensstemmelse med denne lov, de regler eller aftaler, der er fastsat eller indgået i henhold til loven, kan ministeren udstede påbud til skolen om at ændre den pågældende virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id75dde2eb-90e7-4fff-94d5-d76af0151216">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan indhente alle oplysninger fra skolerne om undervisningen, deltagerne, personalet, udstyret, huslejeaftaler, aftaler om ejendomskøb og andre aftaler og om skolernes drift i øvrigt til brug for fastlæggelse af tilskud,gennemgang af årsregnskaber, gennemførelse af tilsyn og udarbejdelse af statistik.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2b589e7e-518b-4ba9-8938-c338a6baae10">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Produktionsskolerne skal hos deltagerne indhente oplysninger om deres personnumre.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Skolerne kan videregive disse oplysninger til undervisningsministeren, jf. stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8f5201df-c6c0-4e04-8682-5b08985c2fe5">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan bestemme, at oplysninger efter stk. 2 og 3 skal leveres i elektronisk form, herunder fastsætte, i hvilket format leveringen skal ske.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Undervisningsministeren kan fastsætte nærmere regler herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida3da4b96-8b52-4aa0-a579-5547bbed20f1">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan bestemme, at produktionsskolerne eller grupper af produktionsskoler skal anvende fælles administrative systemer sammen med andre institutioner.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Undervisningsministeren kan fastsætte nærmere regler herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="iddd441a49-d727-49dd-ba61-a41ac81dd608" localId="14">
+              <Explicatus>§ 8 a.</Explicatus>
+              <Stk id="idbb80c568-0e2c-40d1-b636-2ff87487ff14">
+                <Exitus>
+                  <Linea>
+                    <Char>Rådet for de Grundlæggende Erhvervsrettede Uddannelser, der er nedsat i medfør af lov om erhvervsuddannelser, rådgiver undervisningsministeren om produktionsskolernes undervisningstilbud og afgiver indstilling til ministeren om regler om produktionsskolerne og deres virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id5e6bd209-b943-4620-b46f-8e806774a1e6" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="id28bfd8a0-64da-4a82-97bb-fd068d3d19ad">
+            <Linea>
+              <Char>Tilskud</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="ida8d5169f-d5d3-4f61-b95e-9180050b747f" localId="15">
+              <Explicatus>§ 9. </Explicatus>
+              <Stk id="id469da91a-ea76-4d16-b212-386a725c2a1b">
+                <Exitus>
+                  <Linea>
+                    <Char>En eller flere kommunalbestyrelser kan yde grundtilskud til produktionsskoler med et samlet beløb pr. skole, der for 1999 udgør 345.000 kr. Tilskuddet reguleres årligt med Finansministeriets indeks for pris- og lønudviklingen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Grundtilskuddet udbetales i januar måned med det fulde beløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8bf5fd05-839f-4bf3-9e1d-71f759f58ea6">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis grundtilskud ydes af to eller flere kommunalbestyrelser i fællesskab, kan den enkelte andel af grundtilskuddet ikke udgøre mindre end 1/3 af det fulde grundtilskud.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ydes grundtilskud af flere end tre kommunalbestyrelser fællesskab, forhøjes grundtilskuddet, så det for hver kommunalbestyrelse udgør 1/3 af det i stk. 1 fastsatte grundtilskud.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I tilfælde, hvor særlige geografiske forhold gør sig gældende, kan undervisningsministeren bestemme, at den enkelte andel kan udgøre mindre end 1/3 af det fulde grundtilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id737007d3-ef77-467b-8b7c-9d95960ab346">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvor grundtilskud ydes af flere kommunalbestyrelser i fællesskab, træffer de aftale om, hvilken kommunalbestyrelse der godkender skolens vedtægter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd9f6979a-1fed-4951-a429-3c24d0fc0169">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsagn om grundtilskud skal opsiges, hvis godkendelse af vedtægterne tilbagekaldes i henhold til § 4, stk. 5.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Opsigelsen kan ske uden varsel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6f2e98c0-e2e1-4092-8d30-c5c1241cac66">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsagn om grundtilskud kan endvidere opsiges, såfremt der ikke længere er behov for skolen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Opsigelsen skal ske med mindst et års varsel til en 1. januar.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2e185518-c76c-478f-beb5-7b4d022cec7e">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelser kan yde tilskud til produktionsskoler ud over grundtilskud i henhold til stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id893373c0-8aaa-4c05-a5ed-a439a0169338">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelser kan overdrage fast ejendom til en produktionsskole.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id44bbff20-c420-46dd-beda-c07366e10a07" localId="16">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="idfe9cca3d-4989-41ba-981f-c7f8ebdfc566">
+                <Exitus>
+                  <Linea>
+                    <Char>Staten yder tilskud til produktionsskoler, hvis vedtægter er godkendt, og som modtager grundtilskud, jf. dog stk. 2 og 7.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Statstilskud ydes som driftstilskud og bygningstilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id215b89db-a687-4260-8b29-fb59408a9dc0">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Statstilskud ydes kun til produktionsskoler, der har en aktivitet på mindst 20 årselever pr. år i det seneste opgørelsesår eller som gennemsnit af de seneste 2 opgørelsesår.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Opgørelsesåret er perioden fra den 1. juli til den 30. juni.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Statstilskud ydes dog indtil udgangen af det finansår, hvor det er konstateret, at skolen ikke opfylder de nævnte krav.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Undervisningsministeren kan fastsætte nærmere regler herom.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I tilfælde, hvor særlige geografiske forhold gør sig gældende, eller hvis nærmeste anden produktionsskole ikke er beliggende inden for en radius på 75 minutters befordringstid med offentlige befordringsmidler, kan undervisningsministeren fravige kravet om 20 årselever.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc16fd1dd-9287-4101-b94c-8e6fba85f757">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Staten yder et særligt tilskud ud fra antallet af årselever, hvori indgår deltagere, der i forlængelse af et produktionsskoleophold af mindst 1 måneds varighed går videre i kompetencegivende uddannelse eller lønnet erhvervsarbejde.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilskuddet ydes, når produktionsskolen har dokumentation for, at deltageren har været i gang med en tilskudsberettigende aktivitet i 12 uger inden for en periode på 4 måneder efter produktionsskoleopholdet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Undervisningsministeren fastsætter nærmere regler om betingelser for og beregning af dette tilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb5446a68-6119-428c-8e0b-3f097c827df4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Staten yder et særligt tilskud ud fra antallet af årselever, hvori indgår deltagere i meritgivende kombinationsforløb i henhold til § 2, stk. 4.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilskuddet ydes på betingelse af, at udgiften til den pågældende undervisning afholdes af produktionsskolen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2a21efc6-c991-40bc-99a8-12f56faed679">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Størrelsen af tilskud efter stk. 3 og 4 beregnes ud fra takster, hvis størrelse fastsættes på de årlige finanslove.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Antallet af årselever beregnes ud fra samme principper som ved beregning af statstilskud efter stk. 1, jf. § 11.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf8cf420b-2b80-4451-9418-f331fd00ec29">
+                <Explicatus>Stk.6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Staten yder et igangsættelsestilskud pr. år til hver produktionsskole til sikring af bedre udslusning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide7e50d37-830c-44d0-9570-1cdc8a1f5ddb">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ydelse af statstilskud er endvidere betinget af, at skolen opfylder betingelserne i kapitel 1 og 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf37d1e65-1641-4fef-a68a-6f1f1ecfb6d8">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skolen disponerer frit ved anvendelsen af tilskud efter stk. 1 og 3-5, idet formålene med disse forudsættes opfyldt, jf. dog § 12, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb94e0407-9608-4bb4-a591-4c8294ff1759">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Staten refunderer udgiften til skoleydelse, jf. § 17.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id0c12397a-9500-428e-97ff-edcb15c3484f" localId="17">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="id9b709f38-4ca3-4a78-acdf-177ae5b4349d">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskud i henhold til § 10, stk. 1, ydes som fast tilskud pr. årselev med beløb, hvis størrelse fastsættes på de årlige finanslove.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved beregningen af årselever indgår deltagere inden for produktionsskolernes målgruppe, jf. § 1, stk. 1, 2. pkt., dog ikke deltagere, for hvem skolen opkræver betaling efter lov om betaling for visse uddannelsesaktiviteter i forbindelse med lov om en aktiv beskæftigelsesindsats m.m.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id03749822-6a60-4380-b880-1c8748331e7e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved beregningen af årselever kan der for den enkelte deltager højst medregnes et års produktionsskoleophold.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved beregningen heraf indgår såvel det aktuelle produktionsskoleophold som eventuelle tidligere ophold på samme eller andre produktionsskoler, herunder eventuelle forløb som led i en fri ungdomsuddannelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Forløb som led i en erhvervsgrunduddannelse, samt forløb som led i aktivering i henhold til lov om en aktiv beskæftigelsesindsats indgår ikke i beregningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="iddfc1d23c-b328-49d5-b122-90aa9912e77d">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved beregningen af årselever indgår ikke elever fra folkeskolen, der deltager i undervisningsforløb i henhold til folkeskolelovens § 9, stk. 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idce97749c-edf4-4c1c-9201-9e16113ebb91">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved beregningen af årselever indgår ikke deltagere under 18 år, i det omfang de i medfør af § 2, stk. 7, følger almen voksenuddannelse eller anden undervisning, hvortil kommunen efter anden lovgivning skal yde tilskud eller afholde udgifterne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id11b61e81-2d84-4f04-85fc-4a22d41d815e">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Inden for en kvote, der udgør 10 pct. af produktionsskolens samlede årselevtal i det forudgående finansår, kan der i særlige tilfælde medregnes ophold af længere varighed.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For skoler, der ikke har haft aktivitet i det forudgående finansår, beregnes kvoten på baggrund af det forventede årselevtal.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd9384cfd-3bd0-4f57-a0f8-4032113ea545">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren fastsætter nærmere regler om beregningen af årselever, herunder om beregning af 1-års-reglen i stk. 2, og om meddelelse af tilladelse til ophold af længere varighed samt om, hvilken tilknytning eleverne skal have til Danmark for at indgå i årselevberegningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfbb02d06-6976-402a-b3bf-15a22eb5b897">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan fastsætte regler om, at undervisning i medfør af § 2, stk. 7, ikke indgår i årselevberegningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idfebd555e-84a7-4394-9aa0-e89ca06c9b35" localId="18">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="id6cd6975d-a23c-42e3-ae16-78b6c8e27940">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskud i henhold til §§ 9 og 10 må kun anvendes til skolens virksomhed efter denne lov.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der kan ikke foretages transport i tilsagte eller forventede tilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3d41f87a-463b-4858-8c12-736e79bf9047">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren fastsætter nærmere regler om tilskud i henhold til §§ 9 og 10, herunder om ansøgning, anvisning, ydelse af forskud, tilbagebetaling, modregning af tilskud og kontrol af udbetalt tilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9862f21b-2b29-499e-8eac-8d3a0072cbee">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan for skoler, der ikke følger bestemmelserne i denne lov, de regler eller aftaler, jf. § 14, der er fastsat eller indgået i henhold til loven, eller undervisningsministerens påbud, jf. § 8, stk. 1, tilbageholde tilskud, lade tilskud bortfalde helt eller delvis eller kræve tilskud tilbagebetalt helt eller delvis.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Undervisningsministeren kan tilbageholde tilskud eller lade tilskud bortfalde for skoler, som begæres erklæret konkurs eller tages under rekonstruktionsbehandling, eller når der i øvrigt er fare for, at en skoles virksomhed må indstilles.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id73b044ff-891c-40d1-b5ca-2dec8df4457a">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan kræve tilskud tilbagebetalt, hvis grundlaget for tilskudsberegningen eller tilskudsberegningen i øvrigt har været fejlagtig.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5f50623e-b26b-4ca0-9d6d-6305ef104002">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For meget udbetalt tilskud kan modregnes i kommende udbetalinger til skolen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbb04ec8f-fcd9-4b31-8203-c9069c4ad495">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan endvidere træffe beslutning om, at der ikke ydes tilskud til en skole, herunder en ny skole, hvis der efter ministerens skøn ikke er tilstrækkelig sikkerhed for, at skolen opfylder kravet i § 5, stk. 1, om uafhængighed og forvaltning af skolens midler.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der kan herved navnlig lægges vægt på, om</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id3836a6eb-d483-4240-8359-287ef27236ed">
+                  <Index>
+                    <Indentatio id="ided0293dc-001d-4242-aebd-1f17fddd96aa" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>skolen indgår i et fællesskab eller et samarbejde med skoler, institutioner, fonde, virksomheder, foreninger m.fl., der indebærer en nærliggende risiko for, at skolen styres af andre,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb119dd25-a53f-4a5a-ac5b-8573edc8f2b6" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>skolens midler anvendes til formål uden for skolen eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id66e7b563-5889-428f-98ba-5af05cd0f828" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>skolens ledelse og lærere står i et juridisk eller økonomisk afhængighedsforhold til de i nr. 1 nævnte institutioner m.fl.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd2d68771-76c3-444b-a924-5bb6c95795e9" localId="19">
+              <Explicatus>§ 12 a. </Explicatus>
+              <Stk id="idf32e4395-8a30-4c34-97b5-454544fc022d">
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan ved ydelse af tilskud i henhold til § 10, stk. 1, stille vilkår, der fremmer formålet i lov om en aktiv beskæftigelsesindsats (sociale klausuler).</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Børne- og undervisningsministeren kan fastsætte nærmere regler herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idd9fb75dd-2f34-4594-a735-b316027d540f" localId="4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="idbd6a6f11-22e3-4ece-b935-343baa590dcf">
+            <Linea>
+              <Char>Kommunale bidrag</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idb971e7d4-bcaf-4328-a8b0-1c8847eff668" localId="20">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id5fdfa125-f274-4838-9e83-25d97e10dded">
+                <Exitus>
+                  <Linea>
+                    <Char>For hver deltager, der udløser statstilskud til en produktionsskole, jf. § 11, stk. 1, betaler hjemstedskommunen bidrag til staten pr. årselev med beløb, hvis størrelse fastsættes på de årlige finanslove, for aktiviteten i det finansår, som finansloven vedrører, jf. dog stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved hjemstedskommune forstås den kommune, i hvilken deltageren ifølge CPR havde bopæl den 5. september i kalenderåret forud for det finansår, hvor aktiviteten afholdes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id86c680f2-5276-4ae5-98b1-038ab69c3bb7">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunerne betaler ikke bidrag til staten for den aktivitet på produktionsskoler, der vedrører erhvervsgrunduddannelseselever, jf. stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id319b3398-0cbc-4201-9c15-5daa54ae3d1c">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Efter hvert kvartal foretager produktionsskolen en særskilt beregning af de bidragsmæssige konsekvenser for de enkelte kommuner, der ifølge skolens oplysning skal betale bidrag efter stk. 1, så det fremgår, hvor mange årselever på henholdsvis under og over 18 år kommunen skal betale bidrag for.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beregningen foretages efter reglerne for beregningen af statstilskud.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Skolerne indtaster oplysningerne i en elevdatabase (Elevbasen) senest den 10. i den måned, der følger efter kvartalets udløb, hvorefter Undervisningsministeriet orienterer kommunerne om aktivitetsudviklingen på produktionsskolerne og de forventede bidragsmæssige konsekvenser heraf, dels for kommunerne under et, dels for den enkelte kommune.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id47e3cf47-e4bc-4255-a3d1-c2e8356ca7a5">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Inden udgangen af februar måned efter det bidragspligtige finansår indtaster skolen i Elevbasen oplysninger om navn og personnummer og årselevandel for hver enkelt deltager, der har gået på skolen i det bidragspligtige finansår.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Undervisningsministeriet foretager herefter en sammenligning med CPR’s oplysning om deltagerens hjemstedskommune, jf. stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Undervisningsministeren fastsætter nærmere regler om indtastning, fejlretning og indsendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id86b8e0c8-81a4-4fed-8639-f2688ae3b3f6">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bidragsopkrævningen gennemføres ved modregning i udbetalingerne i juli måned til kommunerne fra told- og skatteforvaltningen af indkomstskat, statstilskud m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ide35e8db2-a61a-4095-bb79-185b5d504432" localId="21">
+              <Explicatus>§ 13 a.</Explicatus>
+              <Stk id="idee905f9f-b9c9-40f0-a60f-ed7ea1775ba4">
+                <Exitus>
+                  <Linea>
+                    <Char>Elevens bopælskommune kan kræve refusion af bidraget i henhold til § 13, stk. 1, fra en anden kommune for deltagere, der ved beregningen af kommunal udligning til kommuner indgår i folketallet i den anden kommune.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idf6a2e4e0-c982-4ffe-8e70-d883f2b4ba20" localId="5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica id="id6490eb27-d681-4b40-85db-cca9960a713b">
+            <Linea>
+              <Char>Løn m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id531558ac-433b-41bc-9703-d4fa0549651d" localId="22">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="id8824806a-f035-4045-b9b5-0dcbd0dad2f1">
+                <Exitus>
+                  <Linea>
+                    <Char>For ledere og lærere ved produktionsskoler skal løn- og ansættelsesvilkår følge de af finansministeren aftalte eller fastsatte bestemmelser, herunder vedrørende pensionsforhold.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id1a2ecbee-f98e-4f3e-bc10-b342e7a57cc2" localId="6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica id="idd029b10d-eb6a-4c90-bcca-0d6057306dbf">
+            <Linea>
+              <Char>Regnskab og revision</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id9e29b898-b4f7-4773-9ea5-8b52f637f68e" localId="23">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="ida3975213-ebba-4c9e-a2f2-4420667e704c">
+                <Exitus>
+                  <Linea>
+                    <Char>Skolens regnskabsår er kalenderåret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8de181b7-3a77-47ed-b37b-76a1aa12d59c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Årsregnskaber for produktionsskoler skal revideres af en statsautoriseret eller en registreret revisor.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestyrelsen underretter Undervisningsministeriet om den udpegede revisor og om revisorskift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id72987c37-c88a-4041-8e74-5f20108c44a9">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen påser, at revisor opfylder bestemmelserne om uafhængighed i revisorloven.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestyrelsen må endvidere ikke antage en revisor, der samtidig er revisor for udlejer af de ejendomme m.m., som institutionen anvender, eller for fonde, selskaber, foreninger eller andre virksomheder, der kontrollerer udlejer, medmindre lejeforholdet er af uvæsentligt omfang.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Undervisningsministeren fastsætter regler om, hvornår lejeforholdet er af uvæsentligt omfang.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Opfylder revisor ikke på tilfredsstillende måde kravene til revision i henhold til denne lov eller regler fastsat i medfør heraf, eller tilsidesætter revisor i øvrigt sine pligter som revisor, kan undervisningsministeren pålægge bestyrelsen inden for en nærmere angiven frist at udpege en anden revisor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8f42f8cf-e6a8-490c-bfff-71e7a258ec55">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Revisor attesterer oplysninger til brug for beregningen af tilskud, jf. §§ 10 og 11.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf23f5838-33cd-4b2d-82dc-1bb2ec884309">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Årsregnskaberne opstilles og revideres efter regler fastsat af undervisningsministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id917e7ea4-0b36-4787-ae78-fb3d291ffe7f">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I forbindelse med indsendelsen af årsregnskabet til undervisningsministeren afgiver bestyrelsesmedlemmerne en erklæring på tro og love om, at de opfylder betingelserne for at være medlemmer af bestyrelsen, jf. § 6, stk. 3 og 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id60c6e208-7729-4f79-afeb-2677493c040e" localId="7">
+          <Explicatus>Kapitel 7</Explicatus>
+          <Rubrica id="id4456ff4a-5cca-4f5f-8f68-c698d2f2e8bd">
+            <Linea>
+              <Char>Andre bestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id5765d714-336f-46fb-9e10-ccb1134b998c" localId="24">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="idd76c27e6-6436-4eca-b92d-c907e430d032">
+                <Exitus>
+                  <Linea>
+                    <Char>Produktionsskoler kan udbyde undervisning og anden aktivitet som indtægtsdækket virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id1f490c32-be25-4fe7-8dab-2d52bdd5efe7" localId="25">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="ide5599a4e-8984-4add-a648-9a3c436fc321">
+                <Exitus>
+                  <Linea>
+                    <Char>Produktionsskolerne udbetaler en skoleydelse til de deltagere, der udløser statstilskud, herunder for den tid, de følger undervisning efter § 2, stk. 7, uanset de i medfør af § 11, stk. 4, ikke udløser statstilskud i den tid.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1b0c03d7-b399-4d73-841b-b387bb015e31">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skoleydelsen udgør 616 kr. pr. uge for deltagere under 18 år, 795 kr. pr. uge for hjemmeboende deltagere over 18 år og 1.475 kr. pr. uge for udeboende deltagere over 18 år.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De angivne beløb er fastsat i 2010-niveau og reguleres fra og med 2011 en gang årligt den 1. januar med 2,0 pct. tillagt eller fratrukket en tilpasningsprocent for det pågældende finansår, jf. § 3, stk. 1, i lov om en satsreguleringsprocent</Char>
+                  </Linea>
+                  <Nota id="idb78fbc9d-e1c0-41ff-9f17-aa70d0829d58">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Aktuelle satser for skoleydelsen fremgår af takstkataloget for produktionsskoler på Undervisningsministeriets hjemmeside: www.uvm.dk .</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilpasningsprocenten tillægges eller fratrækkes, afhængigt af om den lønudvikling, der ligger til grund for beregning af tilpasningsprocenten, er højere eller lavere end 2. pct. Reguleringen sker på grundlag af de på reguleringstidspunktet gældende beløb.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De regulerede beløb afrundes til nærmeste kronebeløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6e78db76-2587-406a-ba01-fa79194ff777">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren fastsætter nærmere regler om skoleydelsen, herunder om, at denne ikke skal udbetales til visse grupper af deltagere og skal nedsættes forholdsmæssigt for deltagere, der uden lovlig grund kommer for sent til eller udebliver fra produktionsskoleaktiviteten, ikke aktivt deltager i udfærdigelse, justering og opfyldelse af den individuelle forløbsplan eller ikke aktivt deltager i praktikforløb, som skolen skønner bidrager til opfyldelse af forløbsplanen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf57be19c-f5ce-4d62-acba-a41bbe1e62f1" localId="26">
+              <Explicatus>§ 18. </Explicatus>
+              <Stk id="id6d9aa202-a53e-428d-8f19-8b6d2c8f0e52">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id6da54127-c0f6-4818-a427-7c58a8eae941" localId="27">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="idab7005e8-54bb-488e-834e-c3572ac37d37">
+                <Exitus>
+                  <Linea>
+                    <Char>Deltagere på produktionsskoler, der kommer til skade som følge af undervisning under arbejdspladslignende forhold, er berettiget til ydelser efter reglerne i lov om sikring mod følger af arbejdsskade.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Udgifterne til ydelser afholdes af staten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2075125e-d045-4ddf-b215-4817a9931a99">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ordningen efter stk. 1 omfatter de deltagere, der udløser statstilskud efter denne lov, og de deltagere, for hvem skolen opkræver betaling efter lov om betaling for udgifter til uddannelse i forbindelse med visse tilbud efter lov om en aktiv beskæftigelsesindsats og lov om aktiv socialpolitik m.m.</Char>
+                  </Linea>
+                  <Nota id="ide3c3a4ff-ec21-498b-8197-cb53cbf326d8">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>I dag lov om betaling for visse uddannelsesaktiviteter i forbindelse med lov om en aktiv beskæftigelsesindsats m.m.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>Undervisningsministeren kan fastsætte nærmere regler om ordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id7be026d2-a6c8-47d3-af8d-c3bbbd231000" localId="28">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="id442c5fff-2412-412d-8e77-21e4361ed244">
+                <Exitus>
+                  <Linea>
+                    <Char>Produktionsskoler samarbejder med andre uddannelsesinstitutioner i et lokalt fællesskab.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Samarbejdet kan angå udbuddet af uddannelser, kurser og vejledningsaktiviteter m.v. og gensidig meddelelse af oplysninger om planlagte og forventede initiativer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Undervisningsministeren kan fastsætte nærmere regler herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9a76309a-c729-444c-b312-3bf72398532d" localId="29">
+              <Explicatus>§ 20 a.</Explicatus>
+              <Stk id="id1ee910d9-00ca-4abf-9fdf-b42f9c28a8f8">
+                <Exitus>
+                  <Linea>
+                    <Char>En produktionsskole kan efter aftale med en eller flere produktionsskoler og institutioner for erhvervsrettet uddannelse varetage nærmere bestemte administrative opgaver for en eller flere af de nævnte andre uddannelsesinstitutioner.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3942c2d9-eb3a-4fcc-9f45-e186df0991c8">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan fastsætte nærmere regler om varetagelsen af de administrative opgaver, jf. stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id1ec1796b-4d35-4d7c-a7ad-a82f4c850388" localId="30">
+              <Explicatus>§ 21. </Explicatus>
+              <Stk id="id5ad64193-c80d-45e7-8b49-134b575da080">
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan yde tilskud til forsøgs- og udviklingsarbejder samt til konsulentvirksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0ea3b909-21e3-4483-95a8-f7388168fb1c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren fastsætter nærmere regler om tilskud i henhold til stk. 1, herunder om regnskab og revision.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb84d2473-db61-47b9-99b1-135ebc1a433e">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan fravige bestemmelserne i denne lov i forbindelse med forsøgs- og udviklingsarbejder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id3641bfd5-a6fb-4627-b4f4-8806a186bab7" localId="31">
+              <Explicatus>§ 21 a.</Explicatus>
+              <Stk id="ide1ed0da5-10dd-486f-8fa6-e1007bc2c68d">
+                <Exitus>
+                  <Linea>
+                    <Char>Har undervisningsministeren bemyndiget en styrelse under Undervisningsministeriet til at udøve de beføjelser, der i denne lov er tillagt ministeren, kan ministeren fastsætte regler om fremgangsmåden ved og adgangen til at klage over afgørelser, der er truffet i henhold til bemyndigelsen, herunder om, at afgørelser ikke kan indbringes for ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id85a1fb3e-aa28-42b1-b9f6-ccb274bc4821" localId="8">
+          <Explicatus>Kapitel 8</Explicatus>
+          <Rubrica id="id4592d5f7-8b50-47d2-aca1-b4f7b71ae558">
+            <Linea>
+              <Char>Ikrafttrædelses- og overgangsbestemmelse</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id20afa7db-a13f-4565-83ee-5e57c3fec719" localId="32">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="idef2c23aa-e262-44c0-856c-6ce167ff2106">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. januar 2000, jf. dog stk. 2-6.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7a2d3ace-de24-44f3-a064-8ff5d1f842c5">
+                <Explicatus>Stk. 2-6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>(Udelades)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id83e68750-2bff-43dd-8634-63d5e6737137" localId="33">
+              <Explicatus>§ 23.</Explicatus>
+              <Stk id="id205980fb-a892-4951-801b-467400865bea">
+                <Exitus>
+                  <Linea>
+                    <Char>(Udelades)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idedee3b51-da26-4d42-8e12-256d3f2ca7e1" localId="34">
+              <Explicatus>§ 24.</Explicatus>
+              <Stk id="id27d80286-10ef-4a24-852e-d7f006f676a0">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="id272b3d19-33c2-4342-90e8-d647ec2a91d0">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1616 af 22. december 2010</Char>
+        </Linea>
+        <Nota id="idc8bad418-4069-41d3-9ab6-8a6aee306bfa">
+          <Explicatus>3)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører § 1, stk. 1, og § 17, stk. 2, 1. og 2. pkt.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>(Ændring af optagelseskriterier og skoleydelse) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="ida7622f62-0097-4563-a0c4-a601872966b5">
+        <Explicatus>§ 2</Explicatus>
+        <Stk id="id5760658a-ccdf-47a8-bcee-db2a3ae2cb58">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id007c7eb0-3f5c-43ba-ae74-5fa39f116999">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Den hidtil gældende bestemmelse i § 1, stk. 1, i lov om produktionsskoler finder anvendelse for unge, som Ungdommens Uddannelsesvejledning efter § 1, stk. 6, i lov om produktionsskoler inden den 1. januar 2011 har vurderet omfattet af produktionsskolernes målgruppe.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id07d030f8-f6f3-433c-974c-93fc9f02fae9">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 634 af 16. juni 2014</Char>
+        </Linea>
+        <Nota id="idf9194396-4c59-44e1-8ba6-72e6c9ea7166">
+          <Explicatus>4)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører § 2, stk. 7, og § 20 a.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>(Bedre og mere attraktive erhvervsuddannelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="iddd2a944c-c6ed-4f85-94d4-a2ace6208b53">
+        <Explicatus>§ 10</Explicatus>
+        <Stk id="iddca34be9-2b44-4fb6-b293-f013aef5b37c">
+          <Explicatus>Stk. </Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. juli 2014, jf. dog stk. 2-5.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id96b9d233-bfad-4019-8f8c-0ebbdc2d65db">
+          <Explicatus>Stk. 2-5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="idf61a4b9b-7991-466d-82bb-6b85d14da252">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1379 af 16. december 2014</Char>
+        </Linea>
+        <Nota id="id66946796-012a-4335-aa3d-db811a021423">
+          <Explicatus>5)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører § 12, stk. 3, 2. pkt., § 15, stk. 3, 1. pkt., og § 21 a.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>(Ophævelse af revisionsbestemmelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id0ded7660-8054-41b8-ba85-49259359a2d7">
+        <Explicatus>§ 3</Explicatus>
+        <Stk id="iddf88e4e7-77b5-47e6-a5ab-96364c862163">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2015.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idb12c71d8-359a-4191-bd39-6984553d303a">
+    <UnderskriftStedDato id="idb12c71d8-359a-4191-bd39-6984553d303a" />
+    <Underskriver id="idb12c71d8-359a-4191-bd39-6984553d303a" />
+  </UnderskriftGruppe>
+</Dokument>

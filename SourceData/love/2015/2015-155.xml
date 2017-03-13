@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/02/16/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150015530</AccessionNumber>
+    <DocumentId>BL001045</DocumentId>
+    <UniqueDocumentId>168081</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om Aarhus Letbane og lov om trafikselskaber\n(Transportministerens udtræden af Aarhus Letbane I/S)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-02-18</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-11-10</EndDate>
+    <Status>Valid</Status>
+    <Number>155</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 323 af 20/03/2015</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 155 af 18/02/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Magnus Heunicke</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Transportministeriet, j.nr. 2014-2756</JournalNumber>
+    <Ministry>Transport- og Bygningsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om Aarhus Letbane og lov om trafikselskaber</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Transportministerens udtræden af Aarhus Letbane I/S)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 432 af 16. maj 2012 om Aarhus Letbane foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I overskriften til </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">kapitel 1</Char>
+                <Char> udgår »Oprettelse af«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 1, stk. 1</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Transportministeren udtræder af Aarhus Letbane I/S.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Aarhus Letbane I/S ejes herefter af Aarhus Kommune med 87,7 pct. og Region Midtjylland med 12,3 pct.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Transportministerens oprindelige indskud på 600 mio. kr. i Aarhus Letbane I/S konverteres til et tilskud på 600 mio. kr. til Aarhus Letbane I/S.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beløbet er angivet i 2009-priser og opskrives med forudsætningsindekset for anlæg på finansloven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Transportministeren yder yderligere et tilskud på 330 mio. kr. til Aarhus Letbane I/S.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beløbet er angivet i 2014-priser og opskrives med forudsætningsindekset for anlæg på finansloven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Aarhus Kommune indskyder 500 mio. kr. i Aarhus Letbane I/S.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beløbet er angivet i 2009-priser og opskrives med forudsætningsindekset for anlæg på finansloven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Aarhus Kommune indskyder yderligere 331 mio. kr. i Aarhus Letbane I/S i forbindelse med transportministerens udtræden af Aarhus Letbane I/S.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beløbet er angivet i 2014-priser og opskrives med forudsætningsindekset for anlæg på finansloven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Region Midtjylland indskyder 78 mio. kr. i Aarhus Letbane I/S.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beløbet er angivet i 2009-priser og opskrives med forudsætningsindekset for anlæg på finansloven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Region Midtjylland indskyder yderligere 41 mio. kr. i Aarhus Letbane I/S i forbindelse med transportministerens udtræden af Aarhus Letbane I/S.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beløbet er angivet i 2014-priser og opskrives med forudsætningsindekset for anlæg på finansloven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 bliver herefter stk. 8.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 1, stk. 4</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">5,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4, stk. 4, § 7, stk. 1</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2,</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 10, stk. 1,</Char>
+                <Char> udgår », transportministeren«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 5.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Aarhus Letbane I/S ledes af en bestyrelse og en direktion.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 12, stk. 2, 2. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Den nødvendige finansiering tilvejebringes i fællesskab af Aarhus Kommune med 87,7 pct. og Region Midtjylland med 12,3 pct.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Overskriften til </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">kapitel 4</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <ParagrafGruppe>
+                <Rubrica>
+                  <Linea>
+                    <Char>Oprettelse af et drifts- og infrastrukturselskab samt mulighed for sammenlægning af Aarhus Letbane I/S og drifts- og infrastrukturselskabet</Char>
+                  </Linea>
+                </Rubrica>
+              </ParagrafGruppe>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 14, stk. 1,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2 og 3 bliver herefter stk. 1 og 2.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 14, stk. 4,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 5 bliver herefter stk. 3.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>10.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 14, stk. 6,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>11.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 14 indsættes i </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">kapitel 4:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 14 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Aarhus Kommune og Region Midtjylland kan beslutte at overdrage samtlige aktiver og passiver samt rettigheder og pligter fra Aarhus Letbane I/S til drifts- og infrastrukturselskabet eller til et helejet datterselskab heraf, jf. dog stk. 3.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>I forbindelse med overdragelsen opløses Aarhus Letbane I/S uden likvidation.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Tinglysning og registrering af drifts- og infrastrukturselskabets eller dets helejede datterselskabs rettigheder og pligter kan ske på grundlag af denne lov.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Aarhus Kommune og Region Midtjylland kan beslutte at overdrage samtlige aktiver og passiver samt rettigheder og pligter fra drifts- og infrastrukturselskabet og fra dets helejede datterselskaber til Aarhus Letbane I/S, jf. dog stk. 3.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>I forbindelse med overdragelsen opløses drifts- og infrastrukturselskabet og dets helejede datterselskaber uden likvidation.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Tinglysning og registrering af Aarhus Letbane I/S’ rettigheder og pligter kan ske på grundlag af denne lov.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En overdragelse efter stk. 1 eller 2 er betinget af, at overdragelsen ikke indebærer ændringer i statens tilsyn med anvendelsen af det statslige tilskud til Aarhus Letbane I/S, jf. § 1, stk. 2 og 3, som fastlægges i administrationsaftalen og revisionsinstruksen mellem staten og Aarhus Letbane I/S.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om trafikselskaber, jf. lovbekendtgørelse nr. 412 af 11. april 2010, som ændret ved § 26 i lov nr. 432 af 16. maj 2012, § 1 i lov nr. 745 af 25. juni 2014 og lov nr. 746 af 25. juni 2014, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5, stk. 9,</Char>
+                <Char> ændres »stk. 2« til: »stk. 1«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. april 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

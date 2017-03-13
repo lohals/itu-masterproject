@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id6b7fa1fc-87b9-4161-93e2-8d556e8a7c10" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idb69204b0-e0a5-4a9d-a146-40af55fd2b7f">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150188030</AccessionNumber>
+    <DocumentId>AA009411</DocumentId>
+    <UniqueDocumentId>176777</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af straffeloven (Tilslutning til fjendtlig væbnet styrke)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-12-29</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-07-05</EndDate>
+    <Status>Historic</Status>
+    <Number>1880</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1052 af 04/07/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1880 af 29/12/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2016-07-04</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Søren Pind</Signature>
+    <PlaceOfSignature>Givet på Marselisborg Slot</PlaceOfSignature>
+    <JournalNumber>Justitsmin., j.nr. 2015-731-0049</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="idd31a5796-60cc-45e5-8907-9cc2bbdd295d">
+    <Titel id="id7e387495-8aa1-4c4a-a44a-74ec86a12cfc">
+      <Linea>
+        <Char>Lov om ændring af straffeloven</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id35b081ff-7702-4e6e-bd0e-bc8c7a17c5ff">
+      <Linea>
+        <Char>(Tilslutning til fjendtlig væbnet styrke)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id293e24e8-07a6-4e35-a260-d9c9e2483827">
+    <Hymne id="id54386aa7-61a0-4ad7-8c7d-cbe63868eb87">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id6a61e3a9-e8ed-4c67-8661-30947fa97bab">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I straffeloven, jf. lovbekendtgørelse nr. 873 af 9. juli 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id06414ed6-c0d5-4bf0-ab6f-d9efe1b7217d">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="ide1a886a8-e424-4be3-a8cf-3b8fdc4f209e">
+          <AendringDefinition id="id26ec6308-a78d-415c-801e-ace8f88053f2">
+            <Exitus>
+              <Linea>
+                <Char>Overskriften til </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">12. kapitel </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id42d4c65a-e52f-49a6-b6a6-cac2ea7bcaf9" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <Kapitel id="id8674b0f2-2f6e-4b16-961f-f9fde6da763f" localId="1">
+                <Explicatus>12. kapitel</Explicatus>
+                <Rubrica id="idecbf1804-ba49-4714-a777-0f7a88156e2f">
+                  <Linea>
+                    <Char formaChar="Italic">Landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed</Char>
+                  </Linea>
+                </Rubrica>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id02625b3d-c21e-459e-b7c6-8f34ce8f57c6">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idf1460b98-c8d2-4e4b-a7f7-6fc1436d71cb">
+          <AendringDefinition id="id2de988d8-510d-48ba-a850-87ca16e5fff9">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 101 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id633f1b93-5b5e-47a6-8083-3ddccdf7a337">
+            <AendringNyTekst>
+              <Paragraf id="ide8d4bcef-0fb9-4c3b-a6ec-93a3c8c5a0ea" localId="1">
+                <Explicatus>§ 101 a. </Explicatus>
+                <Stk id="idb62b94bf-ef11-4c52-af95-b41606d7a4c3">
+                  <Exitus>
+                    <Linea>
+                      <Char>Den, der har dansk indfødsret eller bopæl i den danske stat, og som under en væbnet konflikt, i hvilken den danske stat er part, er tilsluttet en væbnet styrke for en part, som kæmper mod den danske stat, straffes med fængsel indtil 10 år.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Under særligt skærpende omstændigheder kan straffen stige til fængsel indtil på livstid.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Som særligt skærpende omstændigheder anses navnlig tilfælde, hvor den pågældende har deltaget i kamphandlinger.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id0bf0b66f-9594-4406-9c77-e4982a04b44d">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Den, der hverver en person med dansk indfødsret eller bopæl i den danske stat til en væbnet styrke under de omstændigheder, der er beskrevet i stk. 1, eller som offentligt tilskynder en sådan person til at tilslutte sig fjendtlige styrker i sådanne konflikter, straffes med fængsel indtil 10 år.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Under særligt skærpende omstændigheder kan straffen stige til fængsel indtil 16 år.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Som særligt skærpende omstændigheder anses navnlig tilfælde, hvor der er tale om overtrædelser af systematisk eller organiseret karakter.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idd5782f0e-7eba-451c-9f02-93e804e6f60c">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id1a11ca17-e82d-45a3-bb75-59edc82fa559">
+          <AendringDefinition id="id750798b8-140b-43fa-9981-099ab6f531de">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 102, stk. 1, </Char>
+                <Char>ændres »Den, som« til: »Den, som uden for de tilfælde, der er nævnt i § 101 a,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb8fd17d6-cecc-4665-968f-e9d6dd51abf2">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id79a50e53-93eb-43c6-a9ec-90605875ea36">
+      <Explicatus>§ 2</Explicatus>
+      <Stk id="idd4d7813d-cf07-4759-aaca-e84ce48bc299">
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="id1f567d30-b1fc-4137-9f4b-add18bf2622f">
+      <Explicatus>§ 3</Explicatus>
+      <Stk id="id5df5563a-f839-4e02-9523-8150db22cb0b">
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idcee4373c-00cf-46d8-9e8a-2429dac11a1d">
+    <UnderskriftStedDato id="idcee4373c-00cf-46d8-9e8a-2429dac11a1d" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="idcee4373c-00cf-46d8-9e8a-2429dac11a1d" />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id2fa65675-7fc4-45d9-ba0e-6d14ccadc4fb" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="ida431beba-fe19-4a85-a528-a6c3c3e3df29">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150189130</AccessionNumber>
+    <DocumentId>AN012398</DocumentId>
+    <UniqueDocumentId>176799</UniqueDocumentId>
+    <DocumentTitle>Lov om ophævelse af reklameafgiftsloven (Ophævelse af reklameafgiftsloven)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-12-29</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2015-12-30</EndDate>
+    <Status>Valid</Status>
+    <Number>1891</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1891 af 29/12/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Karsten Lauritzen</Signature>
+    <PlaceOfSignature>Givet på Marselisborg Slot</PlaceOfSignature>
+    <JournalNumber>Skattemin., j.nr. 14-5317487</JournalNumber>
+    <Ministry>Skatteministeriet</Ministry>
+    <AdministrativeAuthority>SKAT</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id669e60a9-c9af-4abb-bee7-e52e005c0b0c">
+    <Titel id="id638ef8e6-b878-4739-b02c-872d5b16087e">
+      <Linea>
+        <Char>Lov om ophævelse af reklameafgiftsloven</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="idc330800b-3659-4f26-8208-c0d0dda2318c">
+      <Linea>
+        <Char>(Ophævelse af reklameafgiftsloven)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id2f222c0c-8374-4a7d-8d9a-60bc704fb3bd">
+    <Hymne id="idcbb31a84-f07f-47e6-8c38-09101f1ff2eb">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id48aae5de-2573-4d2a-bf96-8095debb6569">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>Reklameafgiftsloven, lov nr. 1228 af 18. december 2012, ophæves.</Char>
+        </Linea>
+      </Exitus>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="idc4f117b7-af2a-44d8-8253-673c622f1a1f">
+      <Explicatus>§ 2</Explicatus>
+      <Stk id="id43fec084-a246-4482-a239-7778ce73171f">
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2016.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id84fbb17a-4a9f-42bd-8e36-79b2f920a055">
+    <UnderskriftStedDato id="id84fbb17a-4a9f-42bd-8e36-79b2f920a055" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id84fbb17a-4a9f-42bd-8e36-79b2f920a055" />
+  </UnderskriftGruppe>
+</Dokument>

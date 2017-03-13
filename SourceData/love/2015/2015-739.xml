@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id3874dbca-f61e-4db2-a5c0-ed2e8526580d" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id3118a2a1-2ae8-4703-8d4a-78b6f650a54f">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150073930</AccessionNumber>
+    <DocumentId>BP001320</DocumentId>
+    <UniqueDocumentId>171698</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af selskabsloven, lov om visse erhvervsdrivende virksomheder, lov om forebyggende foranstaltninger mod hvidvask af udbytte og finansiering af terrorisme og skattekontrolloven (Gennemførelse af en del af initiativerne i skattelypakken på erhvervsområdet)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-06-01</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2015-09-18</EndDate>
+    <Status>Valid</Status>
+    <Number>739</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1089 af 14/09/2015</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 739 af 01/06/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Henrik Sass Larsen</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Erhvervs- og Vækstmin.,\nErhvervsstyrelsen, j.nr. 2015-3160</JournalNumber>
+    <Ministry>Erhvervs- og Vækstministeriet</Ministry>
+    <AdministrativeAuthority>Erhvervsstyrelsen</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="ideb8e566b-0bf9-43f2-8624-0f5bcfaa632c">
+    <Titel id="id7cf1b3d9-64c1-4086-8775-1b62d76a5305">
+      <Linea>
+        <Char>Lov om ændring af selskabsloven, lov om visse erhvervsdrivende virksomheder, lov om forebyggende foranstaltninger mod hvidvask af udbytte og finansiering af terrorisme og skattekontrolloven</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id994ddf8e-13c6-4dea-9776-d99e4cd38ac3">
+      <Linea>
+        <Char>(Gennemførelse af en del af initiativerne i skattelypakken på erhvervsområdet)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id35ca89be-7b8b-4000-80ac-283aff2e7818">
+    <Hymne id="id863ad2c1-1103-4fba-8fe4-68d710932640">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="idc2d0c1c1-ca3a-4e94-a58e-e15fd3ca348b">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I selskabsloven, jf. lovbekendtgørelse nr. 610 af 28. april 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id9f3f6144-2538-4417-aef6-8852d2fa35e3">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idc47339dd-0e82-4c8c-9b0a-9c707a4e99c9">
+          <AendringDefinition id="id75c0a1bf-30c2-42d1-9eab-369c4b189300">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 48, stk. 2, 3. pkt.,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id85c94e6b-246c-4137-bb6c-cb7edc2dd5f1">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id805ddb4e-6a16-4ca3-a021-797d37a3d70f">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idaa9a3a45-0ebb-4add-a5f0-f60ed188b8d4">
+          <AendringDefinition id="idbdbe4fcb-a5a7-4c55-bfce-1a557b71d2eb">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 49</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic">stk. 2</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6a389d53-3887-4f66-a7e6-011a79eb19ad">
+            <AendringNyTekst>
+              <Stk id="id51d545a9-d2d0-41f3-93de-5706dabce079">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhververen af en eller flere ihændehaveraktier kan ikke udøve de rettigheder, som tilkommer en kapital­ejer, medmindre erhververen er noteret i Erhvervsstyrelsens it-system, jf. §§ 57 a eller 58, eller har givet meddelelse om sin besiddelse til selskabet i henhold til § 55.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id83293af2-f46e-4ab3-8d24-eb5f24476263">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det centrale ledelsesorgan har ansvaret for at kontrollere, om en erhverver opfylder betingelserne i stk. 1 og 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7b97220a-e60b-4263-881c-09adfceb2355">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id9dffc8a7-1e18-4f0f-a443-ea414f31febd">
+          <AendringDefinition id="idc4538314-2f56-4df3-b6e0-e238cc59b803">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 57 a, stk. 1,</Char>
+                <Char> udgår », jf. § 48, stk. 2, 3. pkt.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idbb0e11ba-18f2-43b4-adc3-9b2430aca1e5">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7e65b64f-7118-4f54-b472-33a24e026ea2">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="idbe4b2d64-a774-49df-9b85-ec1a38885c42">
+          <AendringDefinition id="id65696001-633c-44fd-a9ff-d3aab3b52ecc">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 57 a, stk. 4, </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd3977382-2e47-47b5-8074-524a2ccd1e95">
+            <AendringNyTekst>
+              <Stk id="id10f1ad66-80ce-4999-b4b2-191933aafed5">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Pligten til at foretage registrering efter stk. 1 og 3 gælder ikke, hvis de ihændehaveraktier, der er henholdsvis erhvervet og overdraget, er optaget til handel på et reguleret marked.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id60720dce-c7ca-44b5-907b-855b73f6cede">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id184b5529-50b1-483c-9e3f-fd9acdac651e">
+          <AendringDefinition id="id36f4ba7d-0035-47b9-abf3-5b409a9fa2e5">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 367, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfca9f6a6-ec3e-4dcd-83e3-fc1c58079c71">
+            <AendringNyTekst>
+              <Stk id="id604077f4-3ea7-4952-84a8-03b2279d9945">
+                <Exitus>
+                  <Linea>
+                    <Char>Overtrædelse af § 1, stk. 3, § 2, § 3, stk. 1, §§ 10 og 15, § 24, stk. 2, § 30, § 32, stk. 2 og 3, § 33, stk. 4, § 38, stk. 2, § 42 a, § 44, stk. 1, § 49, stk. 3, § 50, stk. 1, § 51, stk. 1, 2 og 6, § 52, § 53, stk. 1 og 2, §§ 54-56, § 57 a, stk. 1-3, §§ 58-61, 89, 98 og 99, § 101, stk. 3, 4, 7 og 8, §§ 108 og 113-119, § 120, stk. 3, §§ 123, 125, 127-134, 138 og 139, § 139 a, stk. 1, nr. 1, § 160, 3. pkt., § 179, stk. 2, § 180, § 181, 3. pkt., § 182, stk. 3, § 190, stk. 2, 3. pkt., § 192, stk. 1, § 193, stk. 2, §§ 196, 198 og 202-204, § 205, stk. 1, § 206, § 207, stk. 3, § 210, § 214, stk. 2 og 3, § 215, stk. 1, § 218, stk. 2, § 227, stk. 2, §§ 228 og 234, § 339, stk. 6, § 340, stk. 3, § 347, § 349, stk. 2 og 3, og §§ 354, 356-357 b og 359 straffes med bøde.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Et selskabs opretholdelse af disposition­er, der er truffet i strid med § 206 eller § 210, straffes med bøde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="ide86a9ee1-52e6-4f56-9c36-95a3aa429f2b">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om visse erhvervsdrivende virksomheder, jf. lovbekendtgørelse nr. 1295 af 15. november 2013, som ændret ved § 2 i lov nr. 616 af 12. juni 2013, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id723362de-0a38-485a-81be-aafd6bdd050e">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id3450eb32-7bba-4f72-9f05-bbb1171de416">
+          <AendringDefinition id="idf9d8d4a6-6abb-46fc-b9cd-a51dd368b53b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 2, stk. 3,</Char>
+                <Char> indsættes efter »kapitel 1, 2 og 7«: »og § 15 f«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida6cb9143-10d9-43d7-88e7-2bde772bfe9a">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id72f3b6c2-1397-4de8-a64a-8e9b24b8316e">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id09308d9e-b84a-4401-b20d-157e0c87cde2">
+          <AendringDefinition id="id94d1f30b-94fc-4ab0-a637-e794040ab737">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 15 e indsættes før overskriften før § 16:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd397a9b8-6fbd-4c11-b34a-44cb425d4b18">
+            <AendringNyTekst>
+              <Paragraf id="id8ed06e9e-e1e2-4b92-9ffc-bacec0e630c6" localId="1">
+                <Explicatus>§ 15 f.</Explicatus>
+                <Stk id="id154efc28-747f-4598-a0ac-5b04c29a74d5">
+                  <Exitus>
+                    <Linea>
+                      <Char>Erhvervs- og vækstministeren kan fastsætte regler om, at §§ 55, 56 og 58 i selskabsloven med de nødvendige tilpasninger skal finde tilsvarende anvendelse på en eller flere typer af virksomheder omfattet af denne lov.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idc701c706-658c-493d-a5b5-02de356893a3">
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om forebyggende foranstaltninger mod hvidvask af udbytte og finansiering af terrorisme, jf. lovbekendtgørelse nr. 1022 af 13. august 2013, som ændret ved § 6 i lov nr. 268 af 25. marts 2014 og § 5 i lov nr. 403 af 28. april 2014, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="ida8d63d7b-1638-4cee-9e79-e9800dc49da9">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idbbe1ef52-3e97-49bb-902d-29ed6533a166">
+          <AendringDefinition id="iddf27a17d-7a34-436e-b13d-928c8be59908">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 32, stk. 4,</Char>
+                <Char> indsættes efter »§ 1, stk. 1, nr. 11,«: »og, hvis formålet tilsiger det, virksomheder og personer omfattet af § 1, stk. 1, nr. 15-18,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2595d4fd-ba89-485e-bb37-707669cff857">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idd9186cd0-4d0e-4df2-a847-97d2a22d31e9">
+      <Explicatus>§ 4</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I skattekontrolloven, jf. lovbekendtgørelse nr. 1264 af 31. oktober 2013, som ændret senest ved § 2 i lov nr. 1376 af 16. december 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="ida55becc1-1cae-4d25-8043-b856d1afea1c">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idf21795cd-f9b3-4c4c-8e4a-50ab27313235">
+          <AendringDefinition id="idcaef702d-dc0d-4970-9067-8a81e2a38fff">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 8 D, stk. 3,</Char>
+                <Char> indsættes efter »papirer«: », og om ejere af aktier, der er optaget til handel på et reguleret marked«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5960ffc9-0aaf-430d-a549-6307cb291be3">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id60542721-d2ba-4b81-80d6-7503923cd8cd">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id2dc4ff9a-1132-4702-8f7e-0b0e9e858f8d">
+          <AendringDefinition id="ida58d6dd6-beda-412f-bbbc-9509e9b43e6e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 8 D, stk. 3,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc99e24f0-c413-4713-a8be-40d577507c24">
+            <AendringNyTekst>
+              <Stk id="idfb9d9ac1-48cc-43c4-bc49-66c3eb215523">
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1, 2. pkt., finder ikke anvendelse på oplysninger om ejere af aktier, der er optaget til handel på et reguleret marked.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="iddea0bf67-f8a5-4733-bed9-62f493296afd">
+      <Explicatus>§ 5</Explicatus>
+      <Stk id="id01a2aff7-cb19-4426-85f2-034b462bae4e">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. juli 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idac8fcc49-df89-4c6f-8d57-6c0c200010e2">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Selskaber, som forud for lovens ikrafttræden har vedtaget bemyndigelser i henhold til selskabslovens § 155, stk. 1 og 2, som indeholder mulighed for udstedelse af ihændehaveraktier, kan udnytte disse bemyndigelser efter deres indhold frem til den 1. juli 2016.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id2a0512ea-16ce-4a74-b71a-658559175b69">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Ihændehaveraktier, som inden denne lovs ikrafttræden er udstedt i henhold til den hidtil gældende sel­skabs­lovs § 48, stk. 2, 3. pkt., eller som udstedes efter bemyn­dig­els­er nævnt i stk. 2, kan fortsat eksistere efter lovens ikrafttræden.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="id88147add-521a-4b60-9f1c-48298c8e791f">
+      <Explicatus>§ 6</Explicatus>
+      <Stk id="id15fe16c9-ce7a-4b85-8773-66e815bccceb">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="ida55d1750-4bf5-4c83-b605-3c2548c38342">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Lovens §§ 1-3 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idb3425640-3339-4bf9-aaef-c34c5a1b0274">
+    <UnderskriftStedDato id="idb3425640-3339-4bf9-aaef-c34c5a1b0274" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="idb3425640-3339-4bf9-aaef-c34c5a1b0274" />
+  </UnderskriftGruppe>
+</Dokument>

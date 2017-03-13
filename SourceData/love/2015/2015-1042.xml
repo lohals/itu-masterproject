@@ -1,0 +1,719 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idd1ef8573-1a96-4e1c-a036-0bd3e9d83c93" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id00873238-36c6-46ca-90e3-497e7bd8b4c3">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150104229</AccessionNumber>
+    <DocumentId>AA009028</DocumentId>
+    <UniqueDocumentId>172917</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om handel med brugte genstande samt pantelånervirksomhed</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-09-04</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2015-09-08</EndDate>
+    <Status>Valid</Status>
+    <Number>1042</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 1042 af 04/09/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Søren Pind</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Mette Johansen</Signature>
+    <PlaceOfSignature>Justitsministeriet</PlaceOfSignature>
+    <JournalNumber>Justitsmin., j.nr. 2015-1111-0009</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="idd5ca0708-89ae-433f-bfb1-c024146aa205">
+    <Titel id="idde1f2ad9-42d9-4c18-9a41-9dd0b797a209">
+      <Linea>
+        <Char>Bekendtgørelse af lov om handel med brugte genstande samt pantelånervirksomhed</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idb8d56cee-e72d-4266-9945-5e5adfa92068">
+    <Indledning id="id627d6bf6-0542-46e0-961c-363fa7d7b9d7">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om handel med brugte genstande samt pantelånervirksomhed, jf. lovbekendtgørelse nr. 216 af 17. februar 2014, med de ændringer, der følger af § 4 i lov nr. 736 af 25. juni 2014.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="idab50af6e-0da8-41fb-85dc-f32301cc9e5b">
+      <Afsnit id="ida0b47b4f-3d74-46c6-a825-19383aadb905" localId="1">
+        <Kapitel id="id60c876dd-1735-4ef2-9805-a369425c85fa" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="id6ee0c309-1a57-484c-9fd4-0e7f21b9eb65">
+            <Linea>
+              <Char>Lovens område</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idd63d5f34-42c8-4d40-a633-69efd4730977" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="id35f2430a-2bd0-4ea4-9eb3-5ca3acce8d74">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder for selvstændig næringsvirksomhed ved</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idc835ca6b-f41e-4dcc-b42d-b99d6ad30cb1">
+                  <Index>
+                    <Indentatio id="id81d8ffdd-683a-4a16-9b31-e1feb1d939aa" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>handel med eller køb af brugte genstande, der ikke sker som et sædvanligt led i en handelsvirksomhed med nye genstande eller i en håndværks- eller industrivirksomhed;</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="iddc4e2692-5024-4091-a425-f0897a57dcdc" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>udlån af penge mod håndpant, herunder pant i lotterisedler, og formidling af sådanne lån (pantelånervirksomhed).</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id283c3b63-3486-4a14-9e19-96ab40582010">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder dog ikke for</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id52ed63cb-de2e-4433-94b1-d1f3ba04dd20">
+                  <Index>
+                    <Indentatio id="idd9eefd37-94e5-456c-946e-ee322b9fc0e6" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>handel med eller køb af registreringspligtige motorkøretøjer;</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8b7ffdc0-7095-40f7-a05f-743e96c0f637" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>handel med bøger og frimærker;</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd46a6947-9721-4d2f-8c45-a7c096e6bf39" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>opkøb, der ikke sker på fast forretningssted, af genstande, der udelukkende afhændes til næringsdrivende til videresalg eller forarbejdning;</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id5f762012-d664-4913-ad73-904c0c8ea5e6" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ydelse og formidling af lån mod håndpant i værdipapirer eller registreringspligtige motorkøretøjer eller for udlånsvirksomhed, der udøves af banker, sparekasser eller det kgl. assistentshus.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idaa7348d4-e5b4-4146-8dc0-10f43ee68638">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I det omfang, en virksomhed ifølge stk. 1 og 2 er omfattet af denne lov, er den ikke undergivet reglerne i næringsloven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id25b5ffd3-0d73-41ac-92b5-720822c5c849">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Justitsministeren kan bestemme, at reglerne i kapitel 3 helt eller delvis skal gælde for anden selvstændig næringsvirksomhed ved handel med eller køb af brugte genstande end den, der efter stk. 1 og 2 er omfattet af loven, samt for auktionsholderes virksomhed vedrørende auktionssalg af brugte genstande.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id39c9511c-0163-421e-9b7f-34135af5db52" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="id8aff29ec-66c2-4869-95ab-c0c93fd455ab">
+            <Linea>
+              <Char>Bevilling</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id47190273-c860-4866-aa1c-04a68f29b14e" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="idffdde78f-7099-4698-8b74-60ceb594627f">
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der driver virksomhed, som er omfattet af loven, skal have bevilling.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ided3c43d8-fc45-4373-a32b-6c6645f4146b">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bevilling meddeles enten til handel med brugte genstande eller til pantelånervirksomhed og udstedes af politiet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bevillingen giver ret til at drive virksomhed i og fra den politikreds, bevillingen omfatter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2db5a245-e527-4cc7-be03-7bbaa1cc2358">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For udstedelse af bevilling til handel med brugte genstande eller bevilling til pantelånervirksomhed betales 80 kr.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida5e9c285-9505-4abf-b1e1-087679c683cc" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="idc8eec661-ad9b-4932-815b-993ee4b512c1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ret til at få bevilling har den, der opfylder næringslovens betingelser for erhvervelse af næringsbrev som handlende, håndværker og industridrivende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id750e86e6-56c3-4bbe-8b12-fa189f216569">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Justitsministeren kan tillade, at bevilling meddeles, selv om de i stk. 1 nævnte betingelser ikke er opfyldt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id91db0ebf-d942-49bc-aac6-ffd2e5f30b34">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bevilling kan nægtes, hvis ansøgeren er dømt for strafbart forhold, der begrunder en nærliggende fare for misbrug af bevillingen, eller hvis der i øvrigt efter de oplysninger, der foreligger om hans personlige forhold, er særlig grund til at antage, at han ikke vil drive virksomheden på forsvarlig måde.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bevilling kan endvidere nægtes, såfremt ansøgeren har betydelig forfalden gæld til det offentlige, hvorved forstås beløb i størrelsesordenen 50.000 kr. og derover.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1ae481db-bb55-4cd7-9211-6acf922afb27">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er ansøgeren et aktieselskab eller lignende, kan bevilling nægtes, hvis der om et medlem af selskabets direktion eller bestyrelse foreligger oplysninger, som efter stk. 3 kan begrunde nægtelse af bevilling.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Indtræder nye medlemmer i direktionen eller bestyrelsen, skal der inden 14 dage foretages anmeldelse herom til politiet, der afgør, om bevillingen kan opretholdes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id78996cc1-4a97-4ec1-9007-040d3bfd1c3d" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id5f445c4c-0fad-4087-b389-bf5c63604fc3">
+                <Exitus>
+                  <Linea>
+                    <Char>Virksomheden må kun drives fra fast forretningssted med særskilte forretningslokaler.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Reglerne i næringslovens § 11 og § 12, stk. 3 og 4, om personlig henvendelse angående optagelse af bestillinger og om salg ved omførsel finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id56fc2871-983e-421f-9615-e8bee5db2bb3">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Før virksomheden påbegyndes, skal indehaveren anmelde til politiet, hvor den agtes drevet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Flyttes virksomheden, skal bevillingshaveren forinden give politiet meddelelse derom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id7181a022-5845-408f-8c21-a91b4cfbf653" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="ide3168678-d4d5-47ed-b1f4-415de44be2e3">
+                <Exitus>
+                  <Linea>
+                    <Char>Bevillingshaveren skal have sin bevilling eller et af politiet udstedt duplikateksemplar ophængt på et sted, der er iøjnefaldende for kunderne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idbfc4f18d-c6a6-4a6b-85a1-5203b233196d" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="idf7179380-dec8-4212-b0dd-7f86a4d7b1a7">
+                <Exitus>
+                  <Linea>
+                    <Char>Bevillingen bortfalder, når bevillingeshaveren dør, jfr.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>dog § 7.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samme gælder, hvis han ophører med at opfylde betingelserne i § 3, stk. 1, eller hvis anmeldelse efter § 3, stk. 4, ikke foretages rettidigt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id10cee40b-680d-49d8-9e0e-0ba0c52d4a1e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Justitsministeren kan gøre undtagelse fra bestemmelserne i stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id2c9771ce-a52e-4eea-bbc1-c4d755d14d88" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="id7519a1d5-5f94-4cdd-a7fc-8e173e1497bf">
+                <Exitus>
+                  <Linea>
+                    <Char>Efter anmeldelse til politiet kan et dødsbo, en ægtefælle, der sidder i uskiftet bo, et konkursbo eller en værge for en person, der er under værgemål med fratagelse af den retlige handleevne, jf. værgemålslovens § 6, uden bevilling fortsætte afdødes, fallentens eller den umyndiges virksomhed med henblik på afvikling, afhændelse eller lignende af virksomheden, jfr.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>§ 11, stk. 3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Adgangen hertil gælder kun 1 år efter dødsfaldet, konkursdekretets afsigelse eller værgemålets iværksættelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I særlige tilfælde kan politiet forlænge fristen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf36f2ba7-cff1-4b4b-82dc-03069f1d0447" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="id5eeebfb9-0446-4d3e-8fd5-433073e2f9f3">
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis en bevillingshaver gør sig skyldig i grov eller oftere gentagen tilsidesættelse af de pligter, der påhviler ham efter denne lov eller de forskrifter, som er fastsat i henhold til loven, og der efter de udviste forhold er grund til at antage, at han fremtidig ikke vil drive virksomheden på forsvarlig måde, kan politiet fratage ham bevillingen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Afgørelsen skal indeholde oplysninger om adgangen til efter § 9 at begære domstolsprøvelse og om fristen herfor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id37444960-c13a-4b86-a701-047f363bba00">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En bevilling kan endvidere fratages af politiet, såfremt bevillingshaveren har betydelig forfalden gæld til det offentlige, hvorved forstås beløb i størrelsesordenen 100.000 kr. og derover.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bevillingen kan fratages på tid fra 1 til 5 år eller indtil videre.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Afgørelsen skal indeholde oplysning om adgangen til efter § 9 at begære domstolsprøvelse og om fristen herfor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9a0a12e4-29af-467f-b014-ff8e37ac0721" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="idace83b00-e3d5-4386-80e1-05346cf9c29c">
+                <Exitus>
+                  <Linea>
+                    <Char>En afgørelse efter § 8, stk. 1, kan af den, afgørelsen vedrører, forlanges indbragt for domstolene.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Begæring herom skal fremsættes over for politiet inden 4 uger efter, at afgørelsen er meddelt den pågældende.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Politiet indbringer sagen for retten efter reglerne om politisager.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id77df4055-549f-41a5-a9d8-b6ebd60d9b2e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Begæring om afgørelsens indbringelse for retten efter stk. 1 har opsættende virkning, men retten kan ved kendelse bestemme, at den pågældende under sagens behandling ikke må udøve virksomhed i henhold til bevillingen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Såfremt afgørelsen findes lovlig ved dommen, kan det i denne bestemmes, at anke ikke har opsættende virkning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf31cd787-9175-40d8-8519-99acad84f8bb">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En afgørelse efter § 8, stk. 2, kan af den, afgørelsen vedrører, forlanges indbragt for domstolene.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Begæring herom skal fremsættes over for politiet inden 4 uger efter, at afgørelsen er meddelt den pågældende.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Myndigheden anlægger sag mod den pågældende i den borgerlige retsplejes former.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id02b66145-bfe2-47cc-b097-ac48964c9c79">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Begæring om afgørelsens indbringelse for retten efter stk. 3 har ikke opsættende virkning, men retten kan ved kendelse bestemme, at den pågældende under sagens behandling skal have adgang til at udøve virksomhed i henhold til bevillingen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ankes en dom, hvorved en tilbagekaldelse ikke findes lovlig, kan den ret, der har afsagt dommen, eller den ret, hvortil sagen er indbragt, bestemme, at virksomhed i henhold til bevillingen ikke må drives under ankesagens behandling.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id17f726c7-bb0b-4f5d-9274-11f45e7b8b58" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id81c6f254-89a0-48ab-94b0-7e3c6a32ed2a">
+                <Exitus>
+                  <Linea>
+                    <Char>Er en bevilling bortfaldet efter § 6, frataget efter § 8 eller frakendt efter borgerlig straffelovs § 79, skal den straks afleveres til politiet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idc8af48d3-cb60-47fd-b039-70e4ce073370" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="id8fb54316-721f-488e-8a1b-8f7bb1820934">
+                <Exitus>
+                  <Linea>
+                    <Char>Den daglige drift af virksomheden skal forestås af bevillingshaveren selv eller af en bestyrer, der er godkendt af politiet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf356aa39-98ae-488a-8045-b887d192fe85">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udøves virksomheden fra flere forretningssteder, kan kun et af disse forestås af bevillingshaveren.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Driften af de øvrige forretningssteder skal forestås af godkendte bestyrere.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idedd10b4f-8044-4d5d-80c6-d5221dea24a8">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er bevillingshaveren et selskab eller lignende, skal driften forestås af en godkendt bestyrer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samme gælder i de tilfælde, der er nævnt i § 7.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3fc12bd1-4317-4a8a-a7d5-6b0c99b1c242">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Med hensyn til betingelserne for godkendelse af bestyrere samt bortfald og fratagelse af godkendelsen finder §§ 3, 6, 8 og 9 tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idef60e433-167d-4c4c-a24c-c75bc05a36c8" localId="12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="id453c0f46-22b0-4d66-9c99-d7334b08915c">
+                <Exitus>
+                  <Linea>
+                    <Char>Politiet kan forbyde, at en bevillingshaver i sin virksomhed lader nogen, som ikke opfylder betingelserne for at få bevilling, afslutte køb eller lån på egen hånd.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id2c5d0ede-0342-4d74-9980-1838fc320818" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="iddb338359-9457-497e-85de-74ff954ffce5">
+            <Linea>
+              <Char>Tilsyn m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id56b0d533-b9c7-4c83-92cf-0e43a4e65125" localId="13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="idae25649d-ff44-42e6-a247-86d95e72e91a">
+                <Exitus>
+                  <Linea>
+                    <Char>Politiet har adgang til at foretage eftersyn af virksomhedernes forretningslokaler, varelagre og forretningsbøger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ide9e7b9ab-1c06-4202-8469-17c4e28ca242" localId="14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="id9b52336e-4ff1-470d-be3b-1eda6aa89325">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilbydes der bevillingshaveren genstande til køb eller som pant under omstændigheder, der kan begrunde mistanke om manglende lovlig adkomst, skal han straks give politiet meddelelse derom samt tilbageholde genstandene, indtil politiet kommer til stede.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samme gælder, når det konstateres, at genstande, som bevillingshaveren har købt eller modtaget som pant, er efterlyst.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd80cf307-5514-419c-a278-3a2f94d744d0">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bevillingshaveren må ikke købe brugte genstande eller modtage pant af personer under 18 år eller af berusede personer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id99ae76bb-7ac3-4d7e-b719-cd0e33b97a54" localId="15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="id40a99961-0a71-4f92-b999-e57c2e2daca0">
+                <Exitus>
+                  <Linea>
+                    <Char>Justitsministeren kan fastsætte nærmere regler om udøvelse af virksomhed i henhold til loven, herunder regler om</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idaa2d36cb-db0a-46e6-8a51-4a8ed1de9c92">
+                  <Index>
+                    <Indentatio id="idde2343b9-d69d-4daa-bc44-9616a60afe72" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>regnskabsførelse og opbevaring af forretningsbøger;</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb4ca0307-cc5e-45d4-a26d-fa7d79dbd5a0" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>pligt til at afkræve kunder legitimation;</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id5150017b-ae19-4c40-b3cd-decce839e01a" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>førelse og gennemgang af registre over efterlyste koster;</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id9974a93d-47c1-41fa-910b-331ea68f73df" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>opbevaring og gennemgang af meddelelser fra offentlige myndigheder;</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id54b28c6b-522c-4331-8589-b9e018e97f44" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>forbud mod, at visse genstande købes eller modtages som pant;</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7161a955-e82d-4d90-91af-4e0101fb781d" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>forretningslokalernes indretning;</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id5acb7656-0827-481b-80a4-e930d57b3a91" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>opbevaring af opkøbte brugte genstande;</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id998871c6-bc9c-4272-98b1-1c312a9e1664" formaInd="Nummer">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>udfærdigelse af lånebeviser;</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id5a98a6df-c678-47e7-9237-13863131dbe7" formaInd="Nummer">
+                      <Explicatus>9)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>opbevaring af pantsatte genstande samt bortsalg af panter, der ikke er indløst rettidigt;</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id0e79d318-6a8b-42da-82d6-fae2bbb7638a" formaInd="Nummer">
+                      <Explicatus>10)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>forrentning af lån hos pantelånere og forbud mod fastsættelse af yderligere omkostninger i forbindelse med sådanne lån.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="ide943d451-0c1b-4c48-9e51-be321926c186">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Justitsministeren kan fastsætte regler om, hvilken myndighed inden for politiet der varetager politiets opgaver inden for denne lovs område.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id21820f67-d39c-4aec-972c-c5c1685b7c90" localId="4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="id3bea7a51-06e5-4724-a861-f6a8432dfaa2">
+            <Linea>
+              <Char>Straf</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id5b2e83f8-dc99-4a62-b78e-b5a06cc71f72" localId="16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="id03924bd9-1357-4e92-9e71-8552410a3873">
+                <Exitus>
+                  <Linea>
+                    <Char>Overtrædelse af § 2, stk. 1, §§ 4-5, § 10, § 11, stk. 1-3, og § 14 eller af forbud efter § 12 straffes med bøde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf2bf7e14-c326-4c9d-ba46-ed471bd7a3eb">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I forskrifter, som udstedes i henhold til loven, kan fastsættes straf af bøde for overtrædelse af bestemmelser i forskrifterne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idef92f1d3-808a-46a9-b8c6-434ca550cb24">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er overtrædelse begået af et aktieselskab eller lignende, kan der pålægges selskabet som sådant bødeansvar.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="ida666704c-6464-4202-8bab-e905c34cbdca" localId="5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica id="id4c5871b6-ba22-47b7-8dd1-c63a03a89bf5">
+            <Linea>
+              <Char>Andre bestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id36a500ba-944e-489a-9e04-8f1482602643" localId="17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="ida8896888-9ecf-4bcd-be1b-35722a4dd2ed">
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren fastsætter bestemmelser om driften af det kgl. assistenshus.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id3bbdc4bc-7767-44e3-a7fb-554393aaea1e" localId="18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="idb1399e1e-9ddb-45a7-bb85-5d06fad1bf86">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. januar 1967.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd7868d29-17e8-48e5-aee2-efbc0f17f65f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lov nr. 272 af 6. maj 1921 om pantelånervirksomhed og handel med brugte genstande ophæves.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De bevillinger, der er udstedt efter denne lov, bevarer dog deres gyldighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id3e8e9352-8f6f-458b-925d-45256883f8c8" localId="19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="idc381ac38-6ea9-4773-8e57-83fa9cad3d8a">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland, men kan ved kgl. anordning sættes i kraft for Grønland med de afvigelser, som de særlige grønlandske forhold tilsiger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="idd313c22b-70bd-4521-b2e6-a9df591fe946">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 736 af 25. juni 2014</Char>
+        </Linea>
+        <Nota id="id4fc8c25f-abbb-4100-83f9-c91a5706d43a">
+          <Explicatus>1)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører § 2, stk. 2, og § 15, stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="ideb81501d-720e-47e3-9527-43385432b315">
+        <Explicatus>§ 13</Explicatus>
+        <Stk id="id59fd6a07-70ca-4a04-99cc-a75b37a1e4a9">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id1596051c-9ba4-47c1-9f23-1deed6e817ca">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§§ 1-4, § 5, nr. 1, og §§ 6-11 træder i kraft den 1. juli 2014.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idb89ef404-6c0c-4380-aba5-4de06509cdad">
+    <UnderskriftStedDato id="idb89ef404-6c0c-4380-aba5-4de06509cdad" />
+    <Underskriver id="idb89ef404-6c0c-4380-aba5-4de06509cdad" />
+  </UnderskriftGruppe>
+</Dokument>

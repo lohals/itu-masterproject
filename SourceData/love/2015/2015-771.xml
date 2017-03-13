@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id5b3e54e1-cfeb-4c74-a31c-7ea98b415c16" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id749447d6-04fc-41e8-b8c3-f7106c952df7">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150077129</AccessionNumber>
+    <DocumentId>AT005221</DocumentId>
+    <UniqueDocumentId>172838</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om gennemsigtighed og åbenhed i uddannelserne m.v.</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-06-10</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-08</EndDate>
+    <Status>Valid</Status>
+    <Number>771</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 771 af 10/06/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">P.M.V. \nPer Hansen\nAfdelingschef</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Kira Gandrup</Signature>
+    <PlaceOfSignature>Undervisningsministeriet</PlaceOfSignature>
+    <JournalNumber>Undervisningmin., j.nr. 154.64M.541</JournalNumber>
+    <Ministry>Ministeriet for Børn, Undervisning og Ligestilling</Ministry>
+  </Meta>
+  <TitelGruppe id="id4fa2d7e6-dd41-4328-a2f1-945067535929">
+    <Titel id="id9989cf1c-70cd-4aba-902c-1822cd6ae92f">
+      <Linea>
+        <Char>Bekendtgørelse af lov om gennemsigtighed og åbenhed i uddannelserne m.v.</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idcedfde8c-db3e-4458-be4a-11b89dfefb8a">
+    <Indledning id="id4dc79b83-6cbc-48f8-aba3-3819751ede8d">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om gennemsigtighed og åbenhed i uddannelserne m.v., jf. lovbekendtgørelse nr. 880 af 19. september 2005, med de ændringer, der følger af § 7 i lov nr. 593 af 24. juni 2005.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="id8fd917e8-66b8-4446-bf37-9d20c14b1554">
+      <Afsnit id="ide98298ca-3c5f-4d36-852c-beb4afa493fd" localId="1">
+        <Kapitel id="idcbc20535-2adf-4fbb-9bc2-b02a58f7b8c0" localId="1">
+          <ParagrafGruppe>
+            <Paragraf id="id79ab43cf-313d-4db2-b1ea-6bead315fd85" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="id1b315744-2e70-4924-93a4-95e3d0dc6fe3">
+                <Exitus>
+                  <Linea>
+                    <Char>Oplysninger om undervisning, uddannelser, skoler og uddannelsesinstitutioner skal efter bestemmelserne i denne lov være offentligt tilgængelige på internettet, så borgerne enkelt og hurtigt kan vurdere kvaliteten af undervisningen på de enkelte skoler og institutioner.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id481deb5c-9264-4e61-add1-6dd553143e4d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder for undervisning, der er reguleret ved lov eller i henhold til lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3eaae98d-0364-40de-924e-cd80ce5bef1c">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for undervisning, der udføres som led i uddannelse af forsvarets militære personel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id57968efb-3555-48f2-903f-3fa58af8bf0c">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for oplysninger, der er omfattet af lov om behandling af personoplysninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idebe583f7-b7fc-4dbe-91be-56d81c29ca1f" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="id4435a66e-63d3-4b5d-895a-3c326c56de24">
+                <Exitus>
+                  <Linea>
+                    <Char>En skole eller en uddannelsesinstitution, som giver undervisning, der er omfattet af loven, skal sikre, at følgende er oplyst på en lettilgængelig måde på skolens eller institutionens hjemmeside på internettet, jf. dog § 3, stk. 1:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id80f42e17-75bb-4a76-abae-ce059a63b355">
+                  <Index>
+                    <Indentatio id="idb7b8de61-c333-421b-a8c1-e762b69ae439" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Skolens eller institutionens aktuelle uddannelser, uddannelsernes mål, fagudbud og læseplaner m.v.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id00d83bf0-79a8-43f8-879c-c445c5d09f2a" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Skolens eller institutionens aktuelle værdigrundlag og pædagogiske udgangspunkt, herunder pædagogisk praksis og indsatsområder.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc7c2a0fa-6584-416f-8fb4-4b680db7efc1" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Skolens eller institutionens karaktergivning m.v., jf. stk. 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id98cfc989-84b9-49f6-9ba2-60913900908d" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Elevers og studerendes fuldførelsestid, fuldførelsesfrekvens, frafald, overgangsfrekvens til anden uddannelse og overgangsfrekvens til beskæftigelse.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Skolerne eller institutionerne anvender centrale databaser, der stilles til rådighed af vedkommende minister, medmindre denne bestemmer andet.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>For grundskolen kan ministeren bestemme, at skolerne skal give oplysninger om, hvor stor en andel af eleverne der deltager i folkeskolens prøver, og på hvilket niveau.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id0de53259-6052-4654-aad9-bf64f92bf8fc" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Gennemførte aktuelle evalueringer af kvaliteten af en skoles eller institutions undervisning, bortset fra oplysninger om en enkelt lærers undervisning og evalueringer, hvor alene skolens ansatte har medvirket.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf3b00a9e-fd1c-4d3b-98b0-6193821c6c0f" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Andet, som skolen eller institutionen finder væsentligt for belysning af kvaliteten af skolens eller institutionens undervisning.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id5bb65ef7-62da-408c-a38e-075b374b36ab">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De oplysninger, som skal gives efter stk. 1, nr. 3, omfatter gennemsnit af karakterer for elevers og studerendes præstationer, afgivet efter lovgivningen om de pågældende uddannelser, fordelt på uddannelser, uddannelsestrin og fag, således at der gives oplysning om afsluttende karakterer samt andre karakterer, i det omfang der har medvirket ekstern censur ved bedømmelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved tilsvarende bedømmelse, hvor der er anvendt bedømmelsen »bestået/ikke bestået« eller lignende udtryk, skal der gives en sammenfatning, der oplyser den procentdel af elever eller studerende, der har opnået den bedømmelse, hvormed præstationen er anerkendt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Oplysningerne skal være tilgængelige, når bedømmelsesresultaterne foreligger.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Antallet af enkeltvurderinger, som indgår i et gennemsnit eller en procentdel, skal oplyses.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Gennemsnit eller procentdel skal ikke angives for grupper med mindre end tre deltagere eller for elever i skoler på det specialpædagogiske område under regionsrådene eller tilsvarende specialklasser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id196cecc1-dc7f-4fef-83dc-b38d14fea0c6" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id6ccb1b3c-3ddb-4214-af3d-5b69786d12ae">
+                <Exitus>
+                  <Linea>
+                    <Char>Opgaver, som efter denne lov påhviler skoler og uddannelsesinstitutioner, påhviler kommunalbestyrelsen eller regionsrådet for de uddannelser og den undervisning, som udbydes på og vareteages af kommunernes henholdsvis regionernes skoler og uddannelsesinstitutioner.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id269107c6-b7cb-4ddb-8a67-272fb698dfb3">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsynet med en skoles eller en institutions varetagelse af opgaver efter denne lov påhviler den myndighed, som i øvrigt har tilsyn med institutionens uddannelsesmæssige virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd39a5348-8eea-4ecc-8f01-f8d3ebbc0d02" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id97f6bf7f-9d9a-476b-a0e2-f8f19f24175c">
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan fastsætte nærmere regler om, i hvilken form oplysninger skal være tilgængelige på internettet med henblik på, at oplysninger om uddannelserne, jf. § 2, er offentligt tilgængelige for borgerne på en så enkel, gennemsigtig og åben måde som muligt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0c7b3f9a-f509-4ce6-ab64-78343ce3b34d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren kan fastsætte regler om, fra hvilket tidspunkt skoler og institutioner skal give de i § 2, stk. 1, nr. 4, nævnte oplysninger, og om, at oplysningerne, helt eller delvis, ikke skal gives for bestemte uddannelser eller skoler og institutioner.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5a5952b0-90b6-465b-96a6-59977012e314">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De regler, der er nævnt i stk. 1 og 2, fastsættes efter forhandling med vedkommende minister, hvis de skal gælde for skoler og institutioner, der ikke hører under undervisningsministerens område.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id4f526f8d-56d5-4460-ab12-4cb39b590a9b" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="id96a613f6-ffe7-4117-8b67-4fcc54eac5e7">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id23d099fe-47be-487a-b89b-bf5bb3dec296" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id0d83d8aa-582d-4729-bbf3-3aea55a3745e">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. juli 2003.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6ca2cfc9-1790-49a8-a1dc-f629dff44b25">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De i § 2, stk. 1, nr. 3, nævnte oplysninger omfatter karakterer m.v., som er afgivet efter den 1. juli 2002.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id147c0049-b339-4b91-b741-d6ba373a0d20" localId="7">
+              <Explicatus>§§ 7-9.</Explicatus>
+              <Stk id="idca38dd77-353a-4252-aa0e-dbb484221903">
+                <Exitus>
+                  <Linea>
+                    <Char>(Udelades)</Char>
+                  </Linea>
+                  <Nota id="idc67e4c17-2c9f-4616-9888-e5c119cc98d2">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Bestemmelserne vedrører ændringer i anden lovgivning.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ide2260fe3-14ab-446e-8ebf-550a078e98a1" localId="8">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id2a3b247f-6609-47cc-a0f3-def446788290">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="id73bf9ad8-ccf5-4606-b87e-c0c5c8dc518f">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 593 af 24. juni 2005 (Konsekvensændringer som følge af kommunalreformen)</Char>
+        </Linea>
+        <Nota id="ide0e02535-76cd-474a-8689-78d4242845bb">
+          <Explicatus>2)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører § 2, stk. 2, 5. pkt. og § 3, stk. 1.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id090bf09f-0674-4a3b-a098-5b00e66d6ce5">
+        <Explicatus>§ 11. </Explicatus>
+        <Stk id="id02604500-2c7f-4971-ba51-6ecd6ffdce3e">
+          <Explicatus>Stk. 1. </Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2007.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idccedcd2e-d302-4ceb-a9e8-dca3a59c8c69">
+          <Explicatus>Stk. 2-5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id8edd294b-eab5-40e2-a405-4e5774ae23cb">
+    <UnderskriftStedDato id="id8edd294b-eab5-40e2-a405-4e5774ae23cb" />
+    <Underskriver id="id8edd294b-eab5-40e2-a405-4e5774ae23cb" />
+  </UnderskriftGruppe>
+</Dokument>

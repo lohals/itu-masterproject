@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id1da7631c-4918-471c-a774-beec3edf3819" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id1990acaa-28c3-4401-982c-9581c3c74050">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20160045630</AccessionNumber>
+    <DocumentId>BE006813</DocumentId>
+    <UniqueDocumentId>180300</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om social pension og lov om organisering og understøttelse af beskæftigelsesindsatsen m.v. (Undtagelse af visse førtidspensionssager fra forelæggelse for rehabiliteringsteamet)</DocumentTitle>
+    <Year>2016</Year>
+    <DiesSigni>2016-05-25</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-10-15</EndDate>
+    <Status>Valid</Status>
+    <Number>456</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1239 af 13/10/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 456 af 25/05/2016</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Jørn Neergaard Larsen</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Beskæftigelsesmin.,\nStyrelsen for Arbejdsmarked og Rekruttering, j.nr. 15/15482</JournalNumber>
+    <Ministry>Beskæftigelsesministeriet</Ministry>
+    <AdministrativeAuthority>Styrelsen for Arbejdsmarked og Rekruttering</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id3bb87b0a-d768-403c-8f4f-27a459caac23">
+    <Titel id="id9003de8c-31b0-4e35-89dc-5fed8ebb8d54">
+      <Linea>
+        <Char>Lov om ændring af lov om social pension og lov om organisering og understøttelse af beskæftigelsesindsatsen m.v.</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id296675c6-f32e-4cf6-a8ee-bbd0058144d4">
+      <Linea>
+        <Char>(Undtagelse af visse førtidspensionssager fra forelæggelse for rehabiliteringsteamet)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id3747cd3a-1f3d-487f-9d0d-20ac25834a72">
+    <Hymne id="id4a31fff6-54bf-4b88-8748-594f459bb8bc">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id62714229-ecd3-46b1-999d-b700332cf049">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om social pension, jf. lovbekendtgørelse nr. 10 af 12. januar 2015, som ændret senest ved § 1 i lov nr. 1810 af 23. december 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id8384d1cf-e5dc-4b67-882d-f6f5ee858fdd">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idab691050-6885-4383-ada8-8bd0551f6c56">
+          <AendringDefinition id="id192c7020-e47c-48c2-85d3-7acd5e0fdc96">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 17, stk. 2, 2. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3, 4. pkt.,</Char>
+                <Char> indsættes efter »rehabiliteringsteam«: », jf. dog stk. 4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id72972a32-f49a-4f6b-9679-9611f91ffbc4">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id30422519-624d-45f6-81cd-b3a6699e1669">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id58112561-ca9b-4582-8476-491b8502de7e">
+          <AendringDefinition id="id0670b955-9e44-4585-a5c8-f19a48aeb7f4">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 17</Char>
+                <Char> indsættes efter stk. 3 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc84c2d14-f844-4611-b95a-f66dee4ac423">
+            <AendringNyTekst>
+              <Stk id="id6af7d75a-6a34-4f6d-b78a-1c84ec08fb14">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I sager efter stk. 2 og 3 kan kommunalbestyrelsen træffe afgørelse om, at en sag overgår til behandling efter reglerne om førtidspension uden forudgående forelæggelse for rehabiliteringsteamet, når kommunalbestyrelsen vurderer, at det er utvivlsomt, at personen ikke opfylder betingelserne for tilkendelse af førtidspension.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="ida3b3a73e-266e-4eb1-871e-1882c100742f">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 4 og 5 bliver herefter stk. 5 og 6.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id7d3ebc2b-f016-4ebd-9e5a-dd3d68b65320">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id28e55644-71e2-496d-aac8-1793bd3d44b8">
+          <AendringDefinition id="id458b589d-2999-4f2e-9b06-0415b56c4a5e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18, stk. 2,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8ffaf092-434d-48ad-8a3a-accdd2dff1df">
+            <AendringNyTekst>
+              <Stk id="idd893e88c-4ca0-425b-8e02-fb0655d13bd4">
+                <Exitus>
+                  <Linea>
+                    <Char>Det gælder dog ikke i sager, der behandles efter § 17, stk. 4, eller i sager, hvor kommunalbestyrelsen vurderer, at det er helt åbenbart, at personens arbejdsevne ikke kan forbedres, og</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idc2995cb3-b00e-417f-93a3-5a3ad65cec99">
+                  <Index>
+                    <Indentatio id="id0e4bf541-78bc-4529-b009-8566a1185007" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>sundhedskoordinatoren har udtalt sig eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id11a64ad2-48b3-4283-b1d8-d6f4ae5b9c56" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>personen er terminalt syg.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf0c1ebc2-7d9f-4e18-aff5-63f236edc1c3">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="idfe044121-4eab-4840-851f-093d6e988a38">
+          <AendringDefinition id="idaab0af35-b005-4913-82c4-adc784ca2bb0">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 19 </Char>
+                <Char>indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 5:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd42cc373-12c3-4ea2-9a23-e8d8f42fbbe1">
+            <AendringNyTekst>
+              <Stk id="id625fe2af-f672-4800-8e5b-f95f2ccb3d4d">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Beskæftigelsesministeren kan efter for­handling med ministeren for sundhed og ældre fastsætte nærmere regler om tilrettelæggelsen og indholdet af sundhedskoordinatorens inddragelse i sager efter § 18, stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="iddcb3ce11-20ab-4896-925b-aa98b66c491f">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 1482 af 23. december 2014 om organisering og understøttelse af beskæftigelsesindsatsen m.v., som ændret ved § 3 i lov nr. 1868 af 29. december 2015, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id500efc43-0b62-461b-a106-8585e880f04b">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idec6875c9-91fd-4bfc-8a16-87f8294b7c0f">
+          <AendringDefinition id="id847c9768-f6e1-4096-8147-d9e39c9523bc">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 9, stk. 1, 2. pkt., </Char>
+                <Char>indsættes efter »førtidspension«: », jf. dog § 17, stk. 4, og § 18, stk. 2, i lov om social pension«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb8d54967-1422-43d8-a108-e185f14e4c80">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="ide6ab4525-468e-434a-a8d3-c9277a301012">
+      <Explicatus>§ 3</Explicatus>
+      <Stk id="id9037b17f-e8d6-444e-a2ed-d769f872a790">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. juni 2016.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id5979c184-a6dd-441d-8cb8-c193447b31d2">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 1 og 2, finder ikke anvendelse på ansøgninger om førtidspension indgivet før lovens ikrafttræden.</Char>
+          </Linea>
+          <Linea>
+            <Char>For sådanne ansøgninger finder de hidtil gældende regler anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id9fb23a85-bf25-4410-9db8-b291ca337122">
+    <UnderskriftStedDato id="id67cc53e5-2873-4d0c-95ef-5a91a6ac2f90" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id31a319c3-e1ad-454c-a646-6b6980b0e9f3" />
+  </UnderskriftGruppe>
+</Dokument>

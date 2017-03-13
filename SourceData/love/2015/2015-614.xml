@@ -1,0 +1,899 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id5470c5b0-c391-4ddf-bc4d-491ef1925fb6" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idc63ad6fa-e9a9-43de-bd9e-c67b7939688d">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150061429</AccessionNumber>
+    <DocumentId>BX000382</DocumentId>
+    <UniqueDocumentId>169776</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om forpligtende kommunale samarbejder</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-05-06</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-03-01</EndDate>
+    <Status>Valid</Status>
+    <Number>614</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LOV nr 1631 af 26/12/2013 </KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LOV nr 427 af 18/05/2016 </KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LOV nr 204 af 28/02/2017 </KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 614 af 06/05/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20130163130</Ref_Accn>
+    <Ref_Af REFid="change_1">2013-12-26</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om ændring af lov om vandforsyning m.v., lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og forskellige andre love\n(Konsekvensændringer som følge af lov om vandplanlægning)</Ref_Text>
+    <Change id="change_2" />
+    <Ref_Accn REFid="change_2">A20160042730</Ref_Accn>
+    <Ref_Af REFid="change_2">2016-05-18</Ref_Af>
+    <Ref_Text REFid="change_2">Lov om ændring af lov om miljøgodkendelse m.v. af husdyrbrug, lov om planlægning, lov om anvendelse af Danmarks undergrund, lov om fremme af vedvarende energi og forskellige andre love (Konsekvensændringer m.v. som følge af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM))</Ref_Text>
+    <Change id="change_3" />
+    <Ref_Accn REFid="change_3">A20170020430</Ref_Accn>
+    <Ref_Af REFid="change_3">2017-02-28</Ref_Af>
+    <Ref_Text REFid="change_3">Lov om ændring af lov om miljøgodkendelse m.v. af husdyrbrug, lov om miljøbeskyttelse, lov om jordbrugets anvendelse af gødning og om plantedække og forskellige andre love (Ny regulering af husdyrbrug m.v. og indførelse af generelle regler for anvendelse af gødning på arealer og for husdyrbrug m.v. som udmøntning af dele af fødevare- og landbrugspakken samt ændringer som følge af VVM-direktivet m.v.)</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">P.M.V.\nHans B. Thomsen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Lise Brandi-Hansen</Signature>
+    <PlaceOfSignature>Økonomi- og Indenrigsministeriet</PlaceOfSignature>
+    <JournalNumber>Økonomi- og Indenrigsmin., j.nr. 2015-3033</JournalNumber>
+    <Ministry>Social- og Indenrigsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id3826a8eb-8b0b-484e-88b2-6f1c042bdf41">
+    <Titel id="id4db717e4-fb76-4e69-bd3b-29b12f439296">
+      <Linea>
+        <Char>Bekendtgørelse af lov om forpligtende kommunale samarbejder</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id2f0068bd-6e7d-401e-9838-89164bb90290">
+    <Indledning id="id08c769b9-951e-409c-9015-c77d438a5962">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om forpligtende kommunale samarbejder, jf. lovbekendtgørelse nr. 990 af 8. august 2013, med de ændringer, der følger af § 10 i lov nr. 639 af 12. juni 2013, § 4 i lov nr. 651 af 12. juni 2013, § 8 i lov nr. 895 af 4. juli 2013, § 2 i lov nr. 576 af 10. juni 2014 og § 68 i lov nr. 1482 af 23. december 2014.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De ændringer, der følger af § 15 i lov nr. 1631 af 26. december 2013 i lov om ændring af lov om vandforsyning m.v., lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og forskellige andre love, er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af disse ændringer fastsættes af miljøministeren, jf. § 17, stk. 2, i lov nr. 1631 af 26. december 2013.</Char>
+        </Linea>
+        <Nota id="ida8922482-0615-44ec-84ea-2d6fcd1fcc42">
+          <Explicatus>1)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Ved § 15 i lov nr. 1631 af 26. december 2013 foretages følgende ændringer med ikrafttræden på et af miljøministeren fastsat tidspunkt, jf. § 17, stk. 2, i lov nr. 1631 af 26. december 2013:</Char>
+            </Linea>
+          </Exitus>
+          <Exitus>
+            <Linea>
+              <Char formaChar="Bold">1.</Char>
+            </Linea>
+            <Linea>
+              <Char>I </Char>
+              <Char formaChar="Italic">§ 1, stk. 2, nr. 3, litra i,</Char>
+              <Char> udgår »vandforekomster og«.</Char>
+            </Linea>
+          </Exitus>
+          <Exitus>
+            <Linea>
+              <Char formaChar="Bold">2.</Char>
+            </Linea>
+            <Linea>
+              <Char>I </Char>
+              <Char formaChar="Italic">§ 1, stk. 2, nr. 3,</Char>
+              <Char> indsættes efter litra i som nyt litra:</Char>
+            </Linea>
+          </Exitus>
+          <Exitus>
+            <Linea>
+              <Char>»j) lov om vandplanlægning og regler udstedt i medfør af loven,«.</Char>
+            </Linea>
+          </Exitus>
+          <Exitus>
+            <Linea>
+              <Char>Litra j-p bliver herefter litra k-q.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+      </Exitus>
+    </Indledning>
+    <Bog id="id1ffb4c64-683c-4e49-9351-124f6a126489">
+      <Afsnit id="id230a7659-3210-4fe3-a97c-d8fe2e716b41" localId="1">
+        <Kapitel id="id8f2d1c11-08a6-4b5a-bab7-3eac75e5e3a1" localId="1">
+          <ParagrafGruppe>
+            <Rubrica id="id09da3901-eb8b-4a32-a9e6-46f99857d949">
+              <Linea>
+                <Char formaChar="Italic">Forpligtende kommunale samarbejder</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id1b985d9d-38f2-40b2-8b58-80ea38bf5068" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="idba7f6b07-3bda-408e-9366-620772ea746b">
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelserne i de i medfør af § 2, stk. 1, udpegede grupper af kommuner samarbejder med virkning fra den 1. januar 2007 efter reglerne i denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id680abb16-5594-4310-a4d1-5fb20d79f638">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Samarbejdet omfatter</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id907f8120-04d6-4f39-b9fb-a119cb0cd394">
+                  <Index>
+                    <Indentatio id="idccf4e272-8ee6-4c71-bb1d-90d72fdf8d8c" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>beskæftigelsesområdet, for så vidt angår kommunalbestyrelsens opgaver efter</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus id="id6b7ea6b6-44f7-4e62-9ba0-4c6fe284900e">
+                        <Index>
+                          <Indentatio id="id92ae1178-7b7f-40ac-bb3d-b4371826a2b1" formaInd="Litra">
+                            <Explicatus>a)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>§ 3, stk. 2-4, i lov om organisering og understøttelse af beskæftigelsesindsatsen m.v. og regler udstedt i medfør heraf og</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id3ccc457f-cbc0-4bd7-b3a9-f17beef9b392" formaInd="Litra">
+                            <Explicatus>b)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>§ 16 i lov om retssikkerhed og administration på det sociale område i det omfang, bestemmelsen finder anvendelse på kommunalbestyrelsens opgaver efter litra a,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide580e83e-a575-42df-b75c-55439d9fb934" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>genoptræningsområdet, for så vidt angår kommunalbestyrelsens opgaver efter</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus id="id219ca4e3-fc37-4994-ab06-6a9fe982f930">
+                        <Index>
+                          <Indentatio id="id164ba66c-f375-45d6-be1c-dd1fefaf3e28" formaInd="Litra">
+                            <Explicatus>a)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>§ 140 i sundhedsloven,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id520dff4c-d117-4f12-ab6f-3333d5369700" formaInd="Litra">
+                            <Explicatus>b)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>§ 44, jf. § 86, stk. 2, og §§ 85 og 86 i lov om social service og</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id20df5a69-3371-41ce-b6a1-dc88db84928d" formaInd="Litra">
+                            <Explicatus>c)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>§ 16, stk. 1, i lov om retssikkerhed og administration på det sociale område, for så vidt angår kommunalbestyrelsens opgaver efter litra b,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide197a49d-9265-47a6-87d2-e967f67a887e" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>natur- og miljøområdet, for så vidt angår kommunalbestyrelsens opgaver efter</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus id="idb13005e6-1fb1-4463-83e5-c7d3a750f5ec">
+                        <Index>
+                          <Indentatio id="id55fc32ef-eb40-4048-95f4-d1765c0d7f02" formaInd="Litra">
+                            <Explicatus>a)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>lov om miljøbeskyttelse og regler udstedt i medfør af loven,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id8cbd4911-8daa-41fb-a209-3885abe5b6a0" formaInd="Litra">
+                            <Explicatus>b)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>lov om vandforsyning m.v. og regler udstedt i medfør af loven,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="idb05eda59-b81c-44ff-ba5e-091daba52f34" formaInd="Litra">
+                            <Explicatus>c)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>lov om forurenet jord og regler udstedt i medfør af loven,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id05b31ba1-2e26-4624-b656-c7f104e4b151" formaInd="Litra">
+                            <Explicatus>d)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>lov om beskyttelse af havmiljøet og regler udstedt i medfør af loven,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id7145fd37-4826-4a60-9b31-d787f7e468e9" formaInd="Litra">
+                            <Explicatus>e)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>lov om kemikalier og regler udstedt i medfør af loven,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id6b4f6260-1bd6-4304-9d96-55a2f4410072" formaInd="Litra">
+                            <Explicatus>f)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>lov om betalingsregler for spildevandsanlæg m.v. og regler udstedt i medfør af loven,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="idbad4c357-8d7d-4992-87f9-c1437c3f6790" formaInd="Litra">
+                            <Explicatus>g)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>lov om råstoffer og regler udstedt i medfør af loven,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id9009cb42-6bfc-4703-8437-f91f5df58f65" formaInd="Litra">
+                            <Explicatus>h)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>lov om okker og regler udstedt i medfør af loven,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id09bc5b8c-cf6e-4932-bf32-7e1a59c1a415" formaInd="Litra">
+                            <Explicatus>i)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder (miljømålsloven) og regler udstedt i medfør af loven,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id42ca3653-2a56-4b50-aeb4-97c6235a3d95" formaInd="Litra">
+                            <Explicatus>j)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>lov om naturbeskyttelse, dog med undtagelse af § 35, stk. 11, og § 49, stk. 3, samt regler udstedt i medfør af loven,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id73c17fbd-9eab-4d5f-9353-3524030dbe7c" formaInd="Litra">
+                            <Explicatus>k)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>lov om vandløb og regler udstedt i medfør af loven,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id45e5dbfb-83be-4c61-a7fb-1c9377a87c34" formaInd="Litra">
+                            <Explicatus>l)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>regler udstedt i medfør af lov om sommerhuse og campering m.v.,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id04da0339-b11f-4a32-9dd3-82c84d9d9562" formaInd="Litra">
+                            <Explicatus>m)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>§ 11 a, nr. 7, § 11 e, stk. 3, § 11 g samt kapitel 6 og § 51 i lov om planlægning og regler udstedt i medfør af loven, for så vidt angår anlæg omfattet af lovens § 11 g,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="idb59764c7-a9ad-43fc-b950-149a31f5fdc4" formaInd="Litra">
+                            <Explicatus>n)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>§ 2, stk. 1, nr. 5, litra a, jf. § 18, stk. 3, i lov om støtte til udvikling af landdistrikterne,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id6cc98d4e-bded-49bb-8201-f2d5767ea5a7" formaInd="Litra">
+                            <Explicatus>o)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>lov om privat bortskaffelse af spildevand på Sejerø og andre småøer og i områder med spredt bebyggelse og regler udstedt i medfør af loven og</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="idf8db9b6c-aae3-4d4e-a7b0-406a43b99054" formaInd="Litra">
+                            <Explicatus>p)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>lov om miljøgodkendelse m.v. af husdyrbrug.</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id983b5333-2c28-43fe-a130-d4844adc2fdd" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>det sociale område, for så vidt angår kommunalbestyrelsens opgaver efter</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus id="id22773e26-5df9-4ce5-a246-ccc7c00a51cf">
+                        <Index>
+                          <Indentatio id="id7472e0e5-8395-4e24-9fdd-02e13e7658fa" formaInd="Litra">
+                            <Explicatus>a)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>§ 10, stk. 4, § 11, stk. 7, §§ 12, 32, 36, 41, 42, 45, 97, 98, 100-104, 107-110, 112-114, 116, 124-136, 141 og 148 a i lov om social service og</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id0423dd46-9498-4b8e-9c25-f25bc2e6e00b" formaInd="Litra">
+                            <Explicatus>b)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>§ 16, stk. 1, i lov om retssikkerhed og administration på det sociale område, for så vidt angår kommunalbestyrelsens opgaver efter litra a, og</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1458cb53-2441-468c-ae5c-fe3991c7c34b" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>specialundervisningsområdet, for så vidt angår kommunalbestyrelsens opgaver efter</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus id="ide7098f14-d3e4-469e-8323-1f050323bcd4">
+                        <Index>
+                          <Indentatio id="id44a73d8d-0f7b-46af-8ab9-4d6e03cebab0" formaInd="Litra">
+                            <Explicatus>a)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>§ 3, stk. 2, § 4, § 20, stk. 2 og 5, § 21, stk. 1 og 2, jf. § 20, stk. 3, § 22, stk. 1, jf. § 20, stk. 2, og § 22, stk. 2, jf. § 20, stk. 3, i lov om folkeskolen og regler udstedt i medfør heraf, for så vidt angår undervisningen i specialskoler og specialklasser, og § 12, stk. 2, i lov om folkeskolen og regler udstedt i medfør heraf, for så vidt angår pædagogisk-psykologisk rådgivning, og</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="ide7474877-992e-4b30-965b-ea560d4d402b" formaInd="Litra">
+                            <Explicatus>b)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>lov om specialundervisning for voksne og regler udstedt i medfør heraf.</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id6881de3f-7f76-4c7e-96dc-019f0ccbbde9" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="ida380d1a2-fb74-42c8-811e-ea75d0e1e911">
+                <Exitus>
+                  <Linea>
+                    <Char>Økonomi- og indenrigsministeren udpeger de grupper af kommuner, hvis kommunalbestyrelser skal samarbejde efter reglerne i denne lov, og udpeger, hvilken kommunalbestyrelse der inden for hver af de udpegede grupper af kommuner er bemyndiget til at varetage udøvelsen af opgaverne for hvert af de i § 1, stk. 2, nr. 1-5, nævnte opgaveområder på vegne af alle kommunalbestyrelserne i gruppen af kommuner.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Udøvelsen af opgaverne må ikke varetages af de delegerende kommunalbestyrelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id703af03d-d3e4-4cf9-adb4-ad503ee930bc">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Økonomi- og indenrigsministeren udfærdiger senest den 1. juli 2005 en fortegnelse over de i stk. 1 nævnte grupper af kommuner og over de i stk. 1 nævnte bemyndigede kommunalbestyrelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1b2e7def-71e5-4d77-8322-5da119e53d34">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved udpegelsen af grupper af kommuner efter stk. 1 skal det tilstræbes, at de befolkningsmæssigt og geografisk danner et hensigtsmæssigt grundlag for varetagelse af de kommunale opgaver, som samarbejdet skal omfatte, jf. § 1, stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb4462d49-9ed1-4962-8688-043c4d155633">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved udpegelsen af grupper af kommuner efter stk. 1 og ved udpegelsen af de i stk. 1 nævnte bemyndigede kommunalbestyrelser skal der tages hensyn til kommunalbestyrelsernes ønsker om at indgå forpligtende kommunale samarbejder i medfør af denne lov og ønsker om indholdet af bemyndigelserne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id07811f6d-4f5d-4dbe-8286-df8ce2f20711">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved udpegelsen af grupper af kommuner efter stk. 1 skal der tages særligt hensyn til, at kommunalbestyrelsen i en kommune, der udgør en ø, ønsker at indgå i et samarbejde efter denne lov.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der skal endvidere tages særligt hensyn til, at kommunalbestyrelserne i de kommuner, der udgør en ø, og som ønsker at indgå i en kommunesammenlægning, der alene omfatter kommunerne på øen, ønsker at indgå i et samarbejde efter denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id0790827e-2005-49a2-9a92-b9259b5ca73b" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="idcb6491fb-f337-400c-87f1-141e27b3bcc1">
+                <Exitus>
+                  <Linea>
+                    <Char>Hvor en beslutning, der træffes efter regler nævnt i § 1, stk. 2, efter lovgivningen skal træffes af kommunalbestyrelsen i et møde, skal beslutningen træffes af den delegerende kommunalbestyrelse i et møde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id498bc4b8-c861-4849-a200-428897a4202c" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="idaf4129c8-a327-4cf2-bfcb-5c0b9a7e8dc8">
+                <Exitus>
+                  <Linea>
+                    <Char>De delegerende kommunalbestyrelser betaler den bemyndigede kommunalbestyrelses omkostninger ved udøvelsen af de opgaver, der er omfattet af bemyndigelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf9a78498-e950-4cdc-b45e-14516ddc2c30">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Økonomi- og indenrigsministeren kan fastsætte nærmere regler om beregning og betaling af omkostningerne efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idf66b8d2f-9bc4-4247-bcf0-03aba5069e8b">
+              <Linea>
+                <Char formaChar="Italic">Klage</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id6ef2e654-88a1-4cdc-83e2-449d26e167ae" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="id30620d88-ac56-4b1e-9641-88b2b369ebe9">
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser, der er truffet efter bemyndigelse i medfør af § 2, stk. 1, kan ikke påklages til den delegerende kommunalbestyrelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide15f6147-486c-44d7-80c3-1234173a8a49">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klage over afgørelser, der er truffet efter bemyndigelse i medfør af § 2, stk. 1, kan indbringes for den myndighed, der er klageinstans i forhold til den delegerende kommunalbestyrelses afgørelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id0ebc429d-a8f5-495a-a416-793341750596">
+              <Linea>
+                <Char formaChar="Italic">Omgørelse</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id5924a94c-9742-4d76-828a-095618f9bdd6" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id55d4fea9-8378-43e0-99f3-159ea3b9d7ab">
+                <Exitus>
+                  <Linea>
+                    <Char>Den delegerende kommunalbestyrelse kan i et møde ændre afgørelser truffet efter bemyndigelse i medfør af § 2, stk. 1, i det omfang kommunalbestyrelsen ifølge lovgivningen ville kunne ændre afgørelsen, såfremt denne var truffet af et udvalg eller administrationen i den delegerende kommune.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kan kommunalbestyrelsen efter lovgivningen ikke træffe afgørelse i sagen, kan det organ i den delegerende kommune, som efter lovgivningen i kommunalbestyrelsens sted kan træffe afgørelse i sagen, under tilsvarende betingelser ændre afgørelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id8deac56f-dcfd-47a1-8d26-0a67a5222c20">
+              <Linea>
+                <Char formaChar="Italic">Udveksling af oplysninger m.v.</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idc70aad56-308d-4f54-bdd1-aa38c7fe075e" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="id81dc86ff-0026-4b5d-aa4f-0a7f1e562784">
+                <Exitus>
+                  <Linea>
+                    <Char>En kommunalbestyrelse, der er bemyndiget i medfør af § 2, stk. 1, kan til brug for kommunalbestyrelsens udøvelse af en opgave omfattet af bemyndigelsen afkræve den delegerende kommunalbestyrelse de oplysninger, der er fornødne til udøvelsen af opgaven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2f041c28-32d8-4353-9822-bfb809f60a27">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En delegerende kommunalbestyrelse kan, i det omfang det er fornødent, til brug for kommunalbestyrelsens varetagelse af en opgave afkræve den bemyndigede kommunalbestyrelse oplysninger, som er tilgået denne som følge af bemyndigelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id42990e21-f326-4889-825f-4f3fbc6bf07b">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I en sag, der rejses ved ansøgning, kan den bemyndigede kommunalbestyrelse og den delegerende kommunalbestyrelse uden ansøgerens samtykke udveksle oplysninger efter stk. 1 og 2 om ansøgerens rent private forhold, såfremt oplysningerne, hvis den bemyndigede kommunalbestyrelse havde varetaget alle den delegerende kommunalbestyrelses opgaver, ikke skulle indhentes fra en anden del af forvaltningen i den bemyndigede kommune.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1170eaeb-1ea2-4965-aae9-01b463951a00">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En kommunalbestyrelse, der er bemyndiget i medfør af § 2, stk. 1, kan til brug for kommunalbestyrelsens udøvelse af en opgave omfattet af bemyndigelsen indhente de samme oplysninger fra andre offentlige myndigheder og fra private, som ifølge lovgivningen ville kunne indhentes af den delegerende kommunalbestyrelse, hvis denne havde varetaget opgaven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7a339627-4e73-457e-8ef7-ef0aed587144">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når interne miljøoplysninger omfattet af lov om aktindsigt i miljøoplysninger videregives i medfør af stk. 1-3, mister oplysningerne ikke som følge af videregivelsen deres interne karakter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id964d6820-0349-406c-8d9a-0854669ac52b">
+              <Linea>
+                <Char formaChar="Italic">Personale</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="ide3f1af11-c663-4ee2-a2d8-a55413a5fa34" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="id64ac869d-5e5e-4459-b3c7-41ba3a0211cc">
+                <Exitus>
+                  <Linea>
+                    <Char>En kommunalbestyrelse, der for et af de i § 1, stk. 2, nr. 1-5, nævnte opgaveområder er bemyndiget i medfør af § 2, stk. 1, overtager den 1. januar 2007 de ansatte, der udelukkende eller helt overvejende er beskæftiget med udøvelsen af opgaver på det pågældende opgaveområde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idadaedc34-3ea7-49d6-8e65-acc467449dc8">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hver delegerende kommunalbestyrelse henholdsvis hvert sammenlægningsudvalg for en delegerende kommune, der oprettes den 1. januar 2007, og den bemyndigede kommunalbestyrelse henholdsvis sammenlægningsudvalget for en bemyndiget kommune, der oprettes den 1. januar 2007, skal på grundlag af et aftaleudkast udarbejdet af den delegerende kommunalbestyrelse henholdsvis sammenlægningsudvalget for en sådan kommune forhandle med henblik på snarest muligt og inden den 15. juli 2006 at indgå en aftale om, hvilke ansatte der skal overføres efter stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Er sådan aftale ikke indgået inden den 15. juli 2006, eller erklærer den delegerende eller den bemyndigede kommunalbestyrelse henholdsvis sammenlægningsudvalget for en af disse kommuner forhandlingerne afsluttet uden resultat, træffer vedkommende delingsråd, jf. kapitel 4 i lov om visse proceduremæssige spørgsmål i forbindelse med kommunalreformen, inden den 15. august 2006 beslutning om, hvilke ansatte der skal overføres efter stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Aftaleudkast og aftale henholdsvis delingsrådsbeslutning efter 1. og 2. pkt. skal tillige omfatte fordelingen af pensionsforpligtelsen vedrørende tjenestemænd og andre ansatte omfattet af § 10, stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id56b58900-83be-4d41-bbdf-9c09bb5e2a1d">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>§ 8, stk. 3, § 9, stk. 2, § 10, stk. 3, § 13, stk. 4 og 5, §§ 14, 15 og 16 samt kapitel 4 i lov om visse proceduremæssige spørgsmål i forbindelse med kommunalreformen finder tilsvarende anvendelse for fordelingen efter stk. 2 af ansatte og af pensionsforpligtelsen vedrørende tjenestemænd og andre ansatte omfattet af § 10, stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Regler fastsat i medfør af kapitel 4 i lov om visse proceduremæssige spørgsmål i forbindelse med kommunalreformen finder tilsvarende anvendelse for fordelingen efter stk. 2 af ansatte og af pensionsforpligtelsen vedrørende tjenestemænd og andre ansatte omfattet af § 10, stk. 2, medmindre økonomi- og indenrigsministeren fastsætter andet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id498c848b-6d20-48ef-8dd6-fb876f74c9a5">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Økonomi- og indenrigsministeren kan efter forhandling med finansministeren fastsætte nærmere regler for fordelingen efter stk. 1 og 2 af de ansatte og af pensionsforpligtelsen vedrørende tjenestemænd og andre ansatte omfattet af § 10, stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id7d4b3060-a05c-42b1-a6b0-47a71cde45e2" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="id1201ea89-72a3-4dd8-b535-a9cd89252ee6">
+                <Exitus>
+                  <Linea>
+                    <Char>De pligter og rettigheder, der følger af lov om lønmodtageres retsstilling ved virksomhedsoverdragelse, finder tilsvarende anvendelse for personale, der er ansat i henhold til kollektiv overenskomst, bestemmelser om løn- og arbejdsforhold, der er fastsat eller godkendt af offentlig myndighed, eller individuel aftale, og som følge af en bemyndigelse efter § 2, stk. 1, overføres til den bemyndigede kommune, og som ikke er omfattet af lov om lønmodtageres retsstilling ved virksomhedsoverdragelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id0bd75d08-b3a4-46a2-b958-8797b42ba740" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id183fe09a-4e69-4a74-a36f-fb060539c46a">
+                <Exitus>
+                  <Linea>
+                    <Char>Tjenestemænd, der som følge af en bemyndigelse efter § 2, stk. 1, overføres til den bemyndigede kommune, overgår til ansættelse under den nye ansættelsesmyndighed på vilkår, der i øvrigt svarer til de hidtidige vilkår.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc803cc15-ab3f-4b74-a784-7b9f5cfb07bf">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tjenestemænd omfattet af stk. 1 får ved pensionering fra denne ansættelse udbetalt den samlede tjenestemandspension af den nye ansættelsesmyndighed.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samme gælder andre ansatte, der som følge af en bemyndigelse efter § 2, stk. 1, overføres til den bemyndigede kommune, og som har en pensionsordning, der i det væsentlige giver samme rettigheder som tjenestemandspensionsordninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id8a616063-92e5-45b7-8592-67ffa1910907">
+              <Linea>
+                <Char formaChar="Italic">Særlige bestemmelser</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="ideec4ea94-23d2-47f9-b4b6-9e17da6ecd6e" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="id7385d1b2-ec89-4889-a558-18c99a49c464">
+                <Exitus>
+                  <Linea>
+                    <Char>Økonomi- og indenrigsministeren kan for grupper af kommuner udpeget efter § 2, stk. 1, for hvilke særlige omstændigheder gør sig gældende, fravige reglerne i denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida6156f5b-d6d6-4e57-b2c3-d286d942682d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Økonomi- og indenrigsministeren kan for grupper af kommuner udpeget efter § 2, stk. 1, for hvilke særlige omstændigheder gør sig gældende, efter forhandling med vedkommende minister fravige regler i anden lovgivning, der vedrører de i § 1, stk. 2, nævnte opgaveområder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8edc6e12-7479-4e8e-adf7-144b5e2233fe" localId="12">
+              <Explicatus>§ 11 a.</Explicatus>
+              <Stk id="idc49c6f36-7b73-4a35-b6f4-4ef38e5f5c58">
+                <Exitus>
+                  <Linea>
+                    <Char>Økonomi- og indenrigsministeren kan efter ansøgning fra kommunalbestyrelser, der indgår i en gruppe af kommuner udpeget efter § 2, stk. 1, og efter forhandling med vedkommende minister tillade, at de ansøgende kommunalbestyrelsers samarbejde efter denne lov omfatter andre kommunale opgaver end dem, der er nævnt i § 1, stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Økonomi- og indenrigsministeren udpeger, hvilken kommunalbestyrelse der skal varetage udøvelsen af opgaverne på vegne af den eller de øvrige kommunalbestyrelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6587656c-ac2a-4220-952d-8fd3a7d1327c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Økonomi- og indenrigsministeren kan efter ansøgning fra kommunalbestyrelser, der indgår i en gruppe af kommuner udpeget efter § 2, stk. 1, og efter forhandling med vedkommende minister tillade, at samarbejde efter denne lov ikke omfatter opgaver, der er nævnt i § 1, stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4efa2ce8-ba26-42a1-807e-6d9cc37432a3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Økonomi- og indenrigsministeren kan efter inddragelse af kommunalbestyrelserne i de berørte kommuner fastsætte vilkår for tilladelser efter stk. 1 og 2, herunder om ikrafttræden og ophør af den opgavefordeling, som følger af tilladelserne, om offentliggørelse heraf, om overførsel af ansatte mellem kommuner som følge af ikrafttræden og ophør af en sådan opgavefordeling og om overførte ansattes rettigheder i forbindelse hermed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id3a705b4a-8c59-43ad-aaff-fae1e7bd4513" localId="13">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="idb8f52d7b-c302-4533-8537-e77105de4d0b">
+                <Exitus>
+                  <Linea>
+                    <Char>§ 5 i lov om organisering og understøttelse af beskæftigelsesindsatsen m.v. gælder ikke for kommunalbestyrelser, på vegne af hvilke en anden kommunalbestyrelse efter bemyndigelse i medfør af § 2, stk. 1, varetager udøvelsen af opgaverne efter § 1, stk. 2, nr. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida5070685-1b9f-4f5d-bd35-f8ac7eefddb4">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den i § 4 i lov om organisering og understøttelse af beskæftigelsesindsatsen m.v. nævnte beskæftigelsesplan skal for grupper af kommuner udpeget efter § 2, stk. 1, omfatte både det kommende års samlede beskæftigelsesindsats og indsatsen for hver enkelt af de deltagende kommuner.</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus />
+              </Stk>
+              <Stk id="id70065918-9c86-4b9b-8871-cda52ccbbd3b">
+                <Explicatus>Stk. 3-5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id94c56039-958c-40af-a9f8-51800a5dd8d9" localId="14">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id125198f0-a534-456e-ad0b-6438b7ae463f">
+                <Exitus>
+                  <Linea>
+                    <Char>§ 5, stk. 2, i integrationsloven gælder ikke, for så vidt angår de i § 1, stk. 2, nr. 1, nævnte opgaver, for en kommunalbestyrelse, der i henhold til § 2, stk. 1, er bemyndiget til på vegne af alle kommunalbestyrelserne i en gruppe af kommuner at varetage udøvelsen af opgaverne efter § 1, stk. 2, nr. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id49bedfc2-c8e9-490d-bbfe-5d5b3f7920da" localId="15">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="idd4bc47ab-2735-4e05-b114-1864ad2ab190">
+                <Exitus>
+                  <Linea>
+                    <Char>Samarbejdet efter denne lov omfatter ikke kommunalbestyrelsens opgaver efter § 1, stk. 2, nr. 3, litra a-c, i det omfang en kommunalbestyrelse i en gruppe af kommuner udpeget efter § 2, stk. 1, deltager i et kommunalt fællesskab, jf. § 60 i lov om kommunernes styrelse, herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id5bb9989f-3cdf-4072-8857-f008f980dd37">
+              <Linea>
+                <Char formaChar="Italic">Ikrafttræden m.v.</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idabcdb238-5445-4a2c-9b05-2bccffdde365" localId="16">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="idbd094cc4-fdbb-4b6b-9db4-fece00a004db">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, dog træder § 1, stk. 2, i kraft den 1. januar 2007.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idae13c5df-970e-4400-b087-596942f7a118">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sager om kommunalbestyrelsens opgaver efter regler nævnt i § 1, stk. 2, der er under behandling den 1. januar 2007, overgår, i det omfang dette følger af §§ 2 og 3, til behandling hos den kommunalbestyrelse, der efter § 2, stk. 1, er bemyndiget til at varetage udøvelsen af opgaverne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb0f59e7c-1633-4925-899c-1a048e974e0d" localId="17">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="id68ca5c48-3a0b-4e48-a4aa-78a9db2e498e">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="id24d25b7c-8592-446a-a6a6-ab4a068a97dc">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 639 af 12. juni 2013, hvis § 10 ændrer § 7, stk. 5, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="idf0953ad0-b17e-4922-9247-9276bb5b2c2b">
+        <Explicatus>§ 31</Explicatus>
+        <Stk id="id2b568251-d837-4ae4-a24e-6fadf0a3d44e">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2014.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id33e24e06-8914-45ba-b992-edb737ad0032">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 651 af 12. juni 2013, hvis § 4 ændrer § 1, stk. 2, nr. 2, litra c, og § 1, stk. 2, nr. 4, litra a og b, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id244eb511-ed4b-42fd-adba-e675f022951c">
+        <Explicatus>§ 5</Explicatus>
+        <Stk id="id9484a368-740e-4f8d-a507-babf61c71145">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2014.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="idc3631a10-3df8-4e6e-ad23-6e20b17386cd">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 895 af 4. juli 2013, hvis § 8 ændrer § 1, stk. 2, nr. 1, litra a, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id5126615b-5528-4464-8371-119f7c0470ca">
+        <Explicatus>§ 9</Explicatus>
+        <Stk id="idcb27f757-7470-44ad-abc4-28ab0fbdd734">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2014 […].</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id517bd33f-a99e-4141-8103-b31251830700">
+          <Explicatus>Stk. 2-4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades).</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="idc21a993c-501e-4c8c-b591-e65e9003c8b5">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 576 af 10. juni 2014, hvis § 2 ændrer § 1, stk. 2, nr. 4, litra a, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id3275bc49-11e7-4bf1-8733-5ced8ee144d6">
+        <Explicatus>§ 3</Explicatus>
+        <Stk id="idb456d100-506e-41f1-8ffb-d75d1db8f431">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. oktober 2014.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id8475b3ab-f660-4406-b6ab-0248dae5b0b5">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1482 af 23. december 2014, hvis § 68 ændrer § 1, stk. 2, nr. 1, litra a, og § 12, stk. 1 og 2, og ophæver § 12, stk. 3-5, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="idac60b19b-0a46-4a65-97bf-30bbff90ad66">
+        <Explicatus>§ 56</Explicatus>
+        <Stk id="id9554c0ce-a038-4e6d-b5a2-e1304e25271a">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2015, […].</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idb1e4096b-770e-43fe-8c17-8c1694e494c2">
+          <Explicatus>Stk. 2-4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades).</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id8c7ae34a-ca7e-4608-9969-d2d9acabd3c7">
+    <UnderskriftStedDato id="id8c7ae34a-ca7e-4608-9969-d2d9acabd3c7" />
+    <Underskriver id="id8c7ae34a-ca7e-4608-9969-d2d9acabd3c7" />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,2421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id187bf027-d733-49b1-859c-0d335d243455" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="ida3dbc9ec-1383-4bd2-9b8f-9af49a95b345">
+    <DocumentType>LOV H#LOKDOK 01</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20160062030</AccessionNumber>
+    <DocumentId>CN000165</DocumentId>
+    <UniqueDocumentId>180117</UniqueDocumentId>
+    <DocumentTitle>Lov om kliniske forsøg med lægemidler</DocumentTitle>
+    <Year>2016</Year>
+    <DiesSigni>2016-06-08</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-02-09</EndDate>
+    <Status>Valid</Status>
+    <Number>620</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 620 af 08/06/2016</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <EuReferences>32014R0536</EuReferences>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Sophie Løhde</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Sundheds- og Ældremin., j.nr. 1600915</JournalNumber>
+    <Ministry>Sundheds- og Ældreministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="idee18d0d6-3438-4c87-944e-06ed058f1364">
+    <Titel id="idbb86d612-d67c-49b4-8408-ba78aef803e9">
+      <Linea>
+        <Char>Lov om kliniske forsøg med lægemidler</Char>
+      </Linea>
+      <Nota id="id1816e89a-e7e7-4c82-bab6-f9ce3ae25b0b" formaNo="EU">
+        <Explicatus>1)</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>I loven er der medtaget visse bestemmelser fra Europa-Parlamentets og Rådets forordning (EU) nr. 536/2014 af 16. april 2014 om kliniske forsøg med humanmedicinske lægemidler og om ophævelse af direktiv 2001/20/EF, EU-Tidende 2014, nr. L 158, side 1.</Char>
+          </Linea>
+          <Linea>
+            <Char>Ifølge artikel 288 i EUF-Traktaten gælder en forordning umiddelbart i hver medlemsstat.</Char>
+          </Linea>
+          <Linea>
+            <Char>Gengivelsen af disse bestemmelser i loven er således udelukkende begrundet i praktiske hensyn og berører ikke forordningens umiddelbare gyldighed i Danmark.</Char>
+          </Linea>
+        </Exitus>
+      </Nota>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="iddca546d6-75b7-45eb-a373-86303dc9a254">
+    <Hymne id="id0269aaed-365c-41ad-a1c6-016827a47697">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <Bog id="id6214a79a-5e13-42a2-8fc2-f7f1755de5f2">
+      <Afsnit id="idd5610561-8511-406a-b04b-3d4067ba8160" localId="I">
+        <Explicatus>Afsnit I</Explicatus>
+        <Rubrica id="id6f8ee1dd-951d-4e88-a343-780e81592814">
+          <Linea>
+            <Char>Kliniske forsøg</Char>
+          </Linea>
+        </Rubrica>
+        <Kapitel id="idbabbba9f-8941-404f-a8cb-84b07c11b497" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="id4bbeeb0f-c6bb-4365-9cf2-2253ad92953f">
+            <Linea>
+              <Char>Lovens anvendelsesområde</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idde37ed1f-ac04-40fe-a095-860499aa0eb5" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="ida6cd2c9d-2a5b-4e17-8dc3-d1944558ddf5">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven finder anvendelse ved Lægemiddelstyrelsens og de videnskabsetiske lægemiddelkomiteers vurdering og kontrol af kliniske forsøg med lægemidler på mennesker i overensstemmelse med reglerne i Europa-Parlamentets og Rådets forordning (EU) nr. 536/2014 af 16. april 2014 om kliniske forsøg med humanmedicinske lægemidler og om ophævelse af direktiv 2001/20/EF.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfe72ca8c-3081-45b9-ac1c-c711cef55cc6">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven finder desuden anvendelse ved Lægemiddelstyrelsens vurdering og kontrol af kliniske forsøg med lægemidler på dyr.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9140de8b-d53b-41fd-a968-7e4e440dd692" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="idc681bae7-a5ef-4967-bbb3-af9f5258ad7c">
+                <Exitus>
+                  <Linea>
+                    <Char>I denne lov forstås ved:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id14cdf2a4-3cb6-49e0-8e72-a831768986cf">
+                  <Index>
+                    <Indentatio id="id4d2b5e68-9b64-4fd2-9a9a-3dff90f252d4" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Forordningen: Europa-Parlamentets og Rådets forordning (EU) nr. 536/2014 af 16. april 2014 om kliniske forsøg med humanmedicinske lægemidler og om ophævelse af direktiv 2001/20/EF.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf784c12e-4689-47c4-8430-3ca28d464fbc" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Sponsor: En person, et firma, en institution eller en organisation, der påtager sig ansvaret for igangsætning, ledelse og organisering af finansieringen af et klinisk forsøg.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7f377332-d36c-4035-9751-21f90ac24ba7" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Investigator: En person, der er ansvarlig for gennemførelsen af et klinisk forsøg på et klinisk forsøgssted.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id11e92ebe-6660-4e84-8005-0bdfd2114e64" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Samtykke: Et informeret samtykke, som er en forsøgspersons utvungne og frivillige tilkendegivelse af sin vilje til at deltage i et bestemt klinisk forsøg efter at være blevet informeret om alle de aspekter af det kliniske forsøg, som er relevante for forsøgspersonens beslutning om at deltage, eller, når det drejer sig om mindreårige og forsøgspersoner, som er uden handleevne, tilladelse eller stedfortrædende samtykke fra deres retligt udpegede repræsentant til at inddrage dem i det kliniske forsøg.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id04f63813-6f86-45d8-84ee-edecaa0c4f5c" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Retligt udpeget repræsentant: En fysisk eller juridisk person eller myndighed eller et organ, som i henhold til gældende lovgivning er bemyndiget til at give informeret samtykke på vegne af en forsøgsperson (stedfortrædende samtykke), som er uden handleevne eller mindreårig.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+      <Afsnit id="id4c840e45-7ed1-4fd3-84f8-9b75f5399796" localId="II">
+        <Explicatus>Afsnit II</Explicatus>
+        <Rubrica id="id6bbd38ee-9df6-40ae-82d7-506175955d91">
+          <Linea>
+            <Char>Kliniske forsøg med lægemidler på mennesker</Char>
+          </Linea>
+        </Rubrica>
+        <Kapitel id="id57895ced-896b-49c7-b408-5d2e91b5413a" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="id0195a3c6-7e4a-4887-b95a-040c9c8f3dcf">
+            <Linea>
+              <Char>Samtykke til deltagelse i forsøg</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id55ec8b49-8f7c-40a7-ade5-4f6afc58b10f" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="idb77c7dce-d59e-4100-b497-97de8e985976">
+                <Exitus>
+                  <Linea>
+                    <Char>Stedfortrædende samtykke på vegne af mindreårige forsøgspersoner skal afgives af forældremyndighedens indehaver, jf. dog § 4, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2814ffec-0701-4daa-a047-e903ccc3ba8d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stedfortrædende samtykke på vegne af forsøgspersoner under værgemål, der omfatter beføjelse til at meddele samtykke til deltagelse i sundhedsvidenskabelige forskningsprojekter, jf. værgemålslovens § 5, stk. 1, skal gives af værgen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9c8f78d8-861c-4041-a339-c5edd99a6579">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stedfortrædende samtykke på vegne af øvrige forsøgspersoner uden handleevne skal gives af den nærmeste pårørende og forsøgsværgen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Forsøgsværgen er en læge, som er uafhængig af investigators interesser og af interesser i det kliniske forsøg med lægemidler i øvrigt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7888150e-425a-4038-9405-7f1ae9455e13">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det stedfortrædende samtykke skal være udtryk for forsøgspersonens interesse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="iddd331095-b002-4acb-b3b4-cd795309d9dd" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="idf2273baa-c925-458e-a7ad-ec3cdf41997b">
+                <Exitus>
+                  <Linea>
+                    <Char>Et klinisk forsøg må kun gennemføres på en forsøgsperson, der er fyldt 15 år og endnu ikke myndig, såfremt forsøgspersonen og forældremyndighedens indehaver giver samtykke hertil.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf2c4a06c-1556-47ae-8a15-96911ba18f60">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Børn mellem 5 og 15 år skal så vidt muligt høres om deres deltagelse i et klinisk forsøg.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9d205371-7ac6-4c5b-9454-4367463d15fd">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte nærmere regler om høring i medfør af stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="iddd24df99-aaf6-418d-8f22-ded58eed8393" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="id54511dfa-e954-4764-a5e7-fe4bed7ee242">
+                <Exitus>
+                  <Linea>
+                    <Char>Kravet om en underskrift efter forordningens artikel 29 om informeret samtykke kan opfyldes ved anvendelse af en teknik, der sikrer entydig identifikation af den person, som skal underskrive dokumentet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc6050df7-a68e-4049-b126-368d2a4d2894">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte nærmere regler om indholdet af deltagerinformationen og krav til underskriftens form.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide1a2ae64-4ca9-4610-a6f5-85afbbecb27b">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte nærmere regler om kvalifikationer hos den person, som giver den mundtlige information og modtager det informerede samtykke fra forsøgspersonen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="iddf670211-2ebb-4a5a-a1fd-c2736c913b54">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte nærmere regler om samtykke og deltagelse i forsøg for personer, som kan være udsat for et særligt pres for deltagelse i et klinisk forsøg med lægemidler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id061a0585-88fc-400e-bcd6-45ee57d14564" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="id5434ec16-1a33-4ccf-b3b6-2f63a6da3a1f">
+            <Linea>
+              <Char>Videnskabsetiske lægemiddelkomiteer</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id30e40066-9cd5-41e7-abcc-5ee96b89380e" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id5b457a36-bb34-45ed-8f81-7e78d9debd1f">
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren nedsætter en eller flere videnskabsetiske lægemiddelkomiteer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id04bc868f-9055-495b-9f38-3c2a3fe3473f" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="idf0e477df-f617-472e-85b1-15f213171b58">
+                <Exitus>
+                  <Linea>
+                    <Char>En videnskabsetisk lægemiddelkomité består af 8 medlemmer, der udpeges på følgende måde:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id6e25d591-5998-4f3c-94a1-ac65bfdcceb5">
+                  <Index>
+                    <Indentatio id="idbbda6965-354e-4fe0-9baa-10dd2dffb470" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Sundheds- og ældreministeren udpeger formanden for komiteen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida970edcc-4d1b-40fa-a17d-bf0db7043f19" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>5 medlemmer udpeges af sundheds- og ældreministeren efter indstillinger fra de enkelte regionsråd.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1741431e-3004-4a98-a0df-bef714557b10" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>2 medlemmer udpeges af sundheds- og ældreministeren efter indstillinger fra organisationer, der repræsenterer patienter.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id70db5676-4d90-437e-b08b-c1b5ddb07f68">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Formanden skal være aktiv inden for sundhedsvidenskabelig forskning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8b84c758-c303-4ad0-a397-1693b84caa03">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den enkelte region skal ved indstillingerne efter stk. 1, nr. 2, indstille henholdsvis en lægperson og en person, som er aktiv inden for sundhedsvidenskabelig forskning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Indstillingerne til sundheds- og ældreministeren af personer, der er aktive inden for sundhedsvidenskabelig forskning, skal ske efter indstillinger til de enkelte regionsråd fra relevante forskningsfaglige fora.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id53b49921-4212-4136-bfd3-b32fb69eb353">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved udpegningen skal det sikres, at komiteen ud over formanden har 4 lægpersoner og 3 medlemmer, der er aktive inden for den sundhedsvidenskabelige forskning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6cff75f9-7db0-4501-b0ca-5a9fcf2d54b9">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En komité vælger selv sin næstformand.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0889e35f-16dd-4074-896d-411c83552f6f">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En komité kan nedsætte underudvalg, som træffer afgørelser og varetager komiteernes opgaver i øvrigt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc4cc2bce-691b-4d5e-8684-d037dd2cf2f9">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De videnskabsetiske lægemiddelkomiteer udarbejder et fælles forslag til forretningsorden, der godkendes af sundheds- og ældreministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc42638f5-04eb-476a-9739-0dccd0d82a92">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Komiteernes medlemmer udpeges for 4 år ad gangen svarende til den for regionsrådene gældende valgperiode.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Genudpegning af medlemmer kan ske to gange.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der kan udpeges suppleanter for medlemmerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida5e78b7f-67b5-48cf-b314-635458dba455">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den afgående komité fortsætter sit virke, indtil nye medlemmer er udpeget og den nye komité er konstitueret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id12f2ff98-648d-4172-85d3-57c711b87667">
+                <Explicatus>Stk. 10.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte nærmere regler om, hvilke fora der er relevante forskningsfaglige fora, jf. stk. 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ideea80cfc-7ac9-4854-bbc4-b2e02f907b73">
+                <Explicatus>Stk. 11.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte nærmere regler om krav til dokumentation for, at medlemmerne af den videnskabsetiske lægemiddelkomité ikke har interessekonflikter, og at de er uafhængige af sponsor, stedet for det kliniske forsøg, de involverede investigatorer og de personer, som finansierer det kliniske forsøg, og at de ikke er under anden utilbørlig påvirkning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id56916529-2968-4168-9078-689b908cf024" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="id1a9a5831-e5ae-493f-b6e3-8290304a3241">
+                <Exitus>
+                  <Linea>
+                    <Char>Er det i en videnskabsetisk lægemiddelkomité eller et underudvalg nedsat i medfør af § 7, stk. 6, ikke muligt at opnå enighed om bedømmelsen af en ansøgning eller andre forhold efter forordningen eller denne lov, træffer komiteen afgørelse ved afstemning, jf. dog stk. 2 og 3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Komiteens afgørelse træffes på baggrund af indstillinger fra et flertal af medlemmerne i den kompetente komité.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved stemmelighed er formandens eller i tilfælde af formandens forfald næstformandens stemme afgørende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id84841a4e-3464-4aef-9804-f4774477873f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Formanden eller i tilfælde af formandens forfald næstformanden skal være en del af flertallet, når komiteen træffer afgørelse i sager om godkendelse af et forsøg.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd9a255bd-69e8-447d-a914-c70e567200ab">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Formanden for en komité kan på komiteens vegne træffe afgørelse i sager, der ikke giver anledning til tvivl.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Formanden kan desuden træffe afgørelse, når det vurderes nødvendigt af hensyn til forsøgspersonernes sikkerhed eller af hensyn til overholdelse af tidsfristerne i godkendelsesprocedurerne fastsat i kapitel II og III i forordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id853de9c5-bd2b-4ab6-9bc1-fae408d03033">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er afgørelsen truffet af formanden eller i tilfælde af formandens forfald næstformanden, orienteres komiteens øvrige medlemmer snarest muligt herefter om afgørelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf2a26eea-b677-4049-b38a-24c377858fad" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="id6938f195-e345-468f-afba-5843c46e5d26">
+                <Exitus>
+                  <Linea>
+                    <Char>De videnskabsetiske lægemiddelkomiteer følger forskningsudviklingen inden for lægemiddelforsøg og virker for forståelsen af de etiske problemstillinger, som udviklingen kan medføre i forhold til sundhedsvæsenet og de sundhedsvidenskabelige forskningsmiljøer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6da4eda8-b4ad-4c28-934f-a79f464adfa6">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Komiteerne skal aktivt samarbejde og koordinere opgavevaretagelsen med relevante nationale og internationale myndigheder og organisationer m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idc7ee5356-e78d-4fcc-8fe4-4e5558c1dc9c" localId="4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="idfece7a0f-5d8c-42dc-96b0-4a85d27399c2">
+            <Linea>
+              <Char>Behandling af ansøgninger om og gennemførelse af forsøg</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id5564e725-c109-4fe1-8e06-0b0dba1b906b" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="ided544799-51f7-4258-b47b-666832799e24">
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen og de videnskabsetiske lægemiddelkomiteer koordinerer behandlingen af ansøgninger og opfølgningen på godkendte forsøg.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen og de videnskabsetiske lægemiddelkomiteer skal i øvrigt samarbejde om opgavevaretagelse efter forordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7790905a-a2fa-4f4d-a02a-a24c07ef5d1d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen fungerer som nationalt kontaktpunkt, jf. artikel 83 i forordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1f6429d3-b8f5-4953-bedb-8e31190dfea5">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når Danmark er rapporterende medlemsstat, varetager Lægemiddelstyrelsen alle opgaver pålagt Danmark som rapporterende medlemsstat i henhold til forordningen, medmindre andet udtrykkeligt er angivet i denne lov eller forskrifter fastsat i medfør af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id265f08e9-14ce-4eb0-96e2-6bcfd9f83718">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen vurderer, om et forsøg eller aktiviteter i et forsøg falder inden for denne lov eller forordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8e73abe0-d07d-464d-b6eb-cbbb008db47a" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="idfb3fd51c-8de0-42e6-b1aa-19010724d131">
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen afgør, om et klinisk forsøg godkendes, om det godkendes på visse betingelser, eller om der gives afslag på godkendelse, og meddeler afgørelsen i overensstemmelse med artikel 8, stk. 1, og artikel 14, stk. 3, i forordningen, jf. dog stk. 6.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id764e3c36-02de-4c53-ab74-83cb6651146b">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen erklærer, at Danmark er uenig i den rapporterende medlemsstats konklusion, for så vidt angår del I af vurderingsrapporten, jf. artikel 8, stk. 2, i forordningen, når en ansøgning alene vedrører aspekter, der er omfattet af del I af vurderingsrapporten, hvis enten Lægemiddelstyrelsen eller den videnskabsetiske lægemiddelkomité er uenig i den nævnte konklusion.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idefbcfa2b-83b7-4598-beb6-1f78e1779369">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den videnskabsetiske lægemiddelkomité afgør ved hver ansøgning, om et klinisk forsøg godkendes, om det godkendes på visse betingelser, eller om godkendelse afslås, jf. artikel 8, stk. 1, når en ansøgning alene vedrører aspekter, der er omfattet af del II af vurderingsrapporten, og Danmark forinden ikke har erklæret sig uenig i den rapporterende medlemsstats konklusion, for så vidt angår del I af vurderingsrapporten, jf. stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc9593964-8ca8-45c2-b7bb-622be034351e">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen vurderer, om de sundhedsfaglige aspekter af del I af vurderingsrapporten for en ansøgning om kliniske forsøg med humanmedicinske lægemidler er opfyldt, jf. artikel 6, stk. 1, i forordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6bf6cb74-84ea-4198-89d5-d6ab02130738">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den videnskabsetiske lægemiddelkomité vurderer, om de videnskabsetiske aspekter af del I af vurderingsrapporten er opfyldt, jf. artikel 6, stk. 1, i forordningen, og om aspekterne omfattet af del II af vurderingsrapporten er opfyldt, jf. artikel 7, stk. 1, i forordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id949817bd-0149-4e7c-8005-c43eb2f9e161">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen kan ikke godkende et klinisk forsøg eller godkende et klinisk forsøg på visse betingelser, jf. stk. 1, hvis den videnskabsetiske lægemiddelkomité er uenig i den rapporterende medlemsstats konklusioner, for så vidt angår del I af vurderingsrapporten, af nogen af de i artikel 8, stk. 2, i forordningen anførte grunde eller komiteen af behørigt begrundede årsager finder, at aspekterne omfattet af del II af vurderingsrapporten ikke er overholdt, jf. artikel 8, stk. 4, i forordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idc13828e6-65ac-4f69-a724-f1217dc55ad8" localId="12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="id750afd5d-469a-4a85-95ff-a0f5d605e42f">
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen afgør, om en væsentlig ændring af et forsøg kan godkendes, om ændringen kan godkendes på visse betingelser, eller om der gives afslag på godkendelse, og meddeler afgørelsen i overensstemmelse med artikel 19, stk. 1, og artikel 23, stk. 1, i forordningen, jf. dog stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2b3158fe-a5bd-42e1-9638-b5a7f4dfa5cf">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den videnskabsetiske lægemiddelkomité afgør, om en væsentlig ændring af et forsøg godkendes, om det godkendes på visse betingelser, eller om der gives afslag på godkendelse, når ændringen alene vedrører et aspekt, som er omfattet af del II af vurderingsrapporten, og meddeler afgørelsen i overensstemmelse med artikel 20, stk. 5, i forordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide82d5fc4-ac2a-45ef-b04e-cdbee3362bbd">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen kan ikke godkende en væsentlig ændring af et aspekt, der er omfattet af del I af vurderingsrapporten, eller godkende en væsentlig ændring på visse betingelser, jf. stk. 1, hvis den videnskabsetiske lægemiddelkomité er uenig i den rapporterende medlemsstats konklusioner, for så vidt angår del I af vurderingsrapporten, af nogen af de i artikel 19, stk. 2, i forordningen anførte grunde.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilsvarende kan Lægemiddelstyrelsen ikke godkende væsentlige ændringer af aspekter, der er omfattet af del I og del II af vurderingsrapporten, eller godkende væsentlige ændringer på visse betingelser, hvis den videnskabsetiske lægemiddelkomité er uenig i den rapporterende medlemsstats konklusioner, for så vidt angår del I af vurderingsrapporten, af nogen af de i artikel 23, stk. 2, i forordningen anførte grunde eller komiteen finder, at væsentlige aspekter, som er omfattet af del II af vurderingsrapporten, ikke er overholdt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="iddbb1d06a-e42f-4274-9390-e23a89ea5dbe" localId="13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="idf6d4323f-2319-4e1c-836b-782c1e085690">
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen afgør, om godkendelsen af et klinisk forsøg skal tilbagekaldes, eller om det kliniske forsøg skal suspenderes, og Lægemiddelstyrelsen kan stille krav om, at sponsor ændrer et hvilket som helst aspekt af det kliniske forsøg, jf. artikel 77, stk. 1, i forordningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen kan inddrage den videnskabsetiske komité i vurderingen af grundlaget for afgørelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den videnskabsetiske komité kan anmode Lægemiddelstyrelsen om at overveje korrigerende foranstaltninger efter 1. pkt., såfremt komiteen finder det påkrævet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idbfe902ae-5fa0-42e3-b675-497def9fe21f" localId="14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="id9c21baff-8c38-468e-9ac0-b828a72c80bb">
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren fastsætter nærmere regler om de aspekter af vurderingsrapportens del I, som også skal vurderes af den videnskabsetiske lægemiddelkomité, herunder om forsøgets mulige risici for forsøgspersonerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf35727cf-2257-4e5c-90c5-b52c10143e59">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren fastsætter nærmere regler om det administrative samarbejde, sagsgange og tidsfrister for Lægemiddelstyrelsens og den videnskabsetiske lægemiddelkomités behandling af ansøgninger om kliniske forsøg og opfølgning på godkendte kliniske forsøg.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id98aaca98-de7f-4575-b46e-ca904d629629">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren fastsætter regler om krav til sprog i ansøgninger om kliniske forsøg.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idc9cd2d38-48dd-44d3-a69d-10c3ab36b39f" localId="5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica id="id22718dc7-cda4-4738-9930-282336528408">
+            <Linea>
+              <Char>Forsøgslægemidler</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id09c45b25-70cb-4fe6-a9d1-1e835805b525" localId="15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="idadf93628-66b0-4d21-a9a1-a64aa7c7d49f">
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen kan dispensere fra artikel 92 i forordningen om, at forsøgspersoner som udgangspunkt skal have udleveret gratis forsøgslægemidler, hjælpelægemidler og nødvendigt udstyr til behandlingen, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id21a51e68-b476-40ba-93b5-3abaf0b87cae">
+                  <Index>
+                    <Indentatio id="id06a7a3b1-bbb9-4bdc-abde-910a61c1de59" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>formålet med forsøget forspildes, såfremt de udleveres gratis, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd788abec-b725-41f1-b618-600e849a0d8b" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>de anvendes til en indikation omfattet af lægemidlets produktresumé og forsøgspersonen uanset deltagelse i forsøget er i en behandling med lægemidlet, hvor forsøgspersonen selv betaler for lægemidlet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idf9faee17-7731-4aaf-ad39-d32b89deb696">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I forsøg, der foregår på et hospital, hvor forsøgspersonen i forvejen får lægemidlet m.v. gratis som led i behandlingen på et sygehus, kan sponsor indgå en aftale med sygehuset om, at sygehuset afholder udgifterne til lægemidlet m.v. i forbindelse med forsøget.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9443d3ba-654f-41ad-826f-80f0a257146f" localId="16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="id25bc3626-87d4-4a01-a1df-b1a64e61e69f">
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren fastsætter nærmere regler om krav til sprog på etiketter på forsøgslægemidler og hjælpelægemidler, jf. forordningens artikel 69 om sprog på etiketter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idb48db63d-bdfd-4d14-8cab-b6313aade62c" localId="6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica id="id359a78fc-79fe-46eb-a00b-e8346d075e43">
+            <Linea>
+              <Char>Overvågning, kontrol og inspektion</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id098865e1-5e4f-49d1-89ce-33c66f34bffa" localId="17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="idaa4e1719-f8ef-4a48-8971-e1ac8aa8a09c">
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen fører kontrol med, at forpligtelserne til underretning om påbegyndelse, afbrydelse m.v. af forsøg efter forordningens artikel 36 og 37 overholdes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id423e1678-556a-46a6-85f7-43c9553a5129" localId="18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="id65dda6b9-131f-4328-969b-736bb6925250">
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen vurderer indberetninger om formodede alvorlige uventede bivirkninger efter forordningens artikel 42 og sponsors årlige rapport om sikkerhed ved et forsøgslægemiddel efter artikel 43 i forordningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen inddrager den videnskabsetiske komité, hvis Lægemiddelstyrelsen efter en sundhedsfaglig vurdering af indberetningen finder grundlag for at træffe korrigerende foranstaltninger efter forordningens artikel 77, jf. § 13.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbb72c018-2800-491d-b513-764932af52ae">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen og den videnskabsetiske komité vurderer alvorlige overtrædelser, uventede hændelser og nødsikkerhedsforanstaltninger, som indberettes efter forordningens artikel 52, 53 og 54.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id808812f2-7d16-4d33-bdeb-a390357a8102">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte nærmere regler om, hvilke andre forpligtelser til indberetning af sikkerhedsoplysninger efter forordningens artikel 41-44 Lægemiddelstyrelsen eller den videnskabsetiske lægemiddelkomité skal sikre overholdelse af.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb604e2e8-ed1f-4e49-a14d-86e1c90298bb" localId="19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="id2706a440-15b7-4078-9ae7-8debfd472ee4">
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen kan inden, under og efter gennemførelsen af et klinisk forsøg med lægemidler på mennesker, herunder som led i behandling af en ansøgning om markedsføringstilladelse efter lægemiddelloven og som opfølgning på udstedelse af en markedsføringstilladelse, inspicere enhver virksomhed, sygehus, klinik og andre steder, der udfører eller har udført et klinisk forsøg i Danmark eller har foretaget aktiviteter i tilknytning til et klinisk forsøg udført i udlandet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen kan påbyde udlevering af alle oplysninger om forsøget, herunder skriftligt materiale, der er nødvendige for inspektionen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide942025f-d9aa-436d-9a59-75ae7d7ef298">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen kan på baggrund af en anmodning fra en kompetent myndighed i et andet EU- eller EØS-land eller fra Det Europæiske Lægemiddelagentur om bistand til inspektion af et klinisk forsøg inspicere enhver virksomhed, ethvert sygehus, enhver klinik og andre steder, der udfører eller har udført et klinisk forsøg med lægemidler eller har foretaget aktiviteter i tilknytning til et klinisk forsøg udført i udlandet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Styrelsen kan påbyde udlevering af alle oplysninger om forsøget, herunder skriftligt materiale, der er nødvendige for inspektionen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idedb83a30-ee48-4921-8a6a-73b4cb7af812">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En videnskabsetisk komité kan anmode Lægemiddelstyrelsen om at inspicere en virksomhed, et sygehus, en klinik og andre steder, der udfører et konkret klinisk forsøg, såfremt komiteen finder, at der er behov herfor.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Når inspektionen vedrører godkendelse af eller opfølgning på et klinisk forsøg med lægemidler, kan Lægemiddelstyrelsen og den videnskabsetiske komité beslutte, at komiteen deltager i styrelsens inspektion i henhold til stk. 1 og 2 og § 20, stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Deltager den videnskabsetiske komite i inspektionen, har komiteens repræsentanter samme rettigheder som Lægemiddelstyrelsen efter stk. 1 og 2 og efter § 20, stk. 1 og 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id99ffc988-563c-43b4-a7a8-59948113705b">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren fastsætter nærmere regler om Lægemiddelstyrelsens og den videnskabsetiske komités samarbejde i forbindelse med gennemførelsen af inspektioner af kliniske forsøg.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="iddbcd85e7-4aa8-4e57-80f4-437ed40c99a3">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte nærmere regler om Lægemiddelstyrelsens gennemførelse af inspektioner i henhold til stk. 1-3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ide3ba5fb0-b716-40a6-b55e-a1bb4579839b" localId="20">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="id89912926-feb5-4d22-a6e5-990aafde9f05">
+                <Exitus>
+                  <Linea>
+                    <Char>Som led i Lægemiddelstyrelsens inspektion efter § 19, stk. 1 og 2, har styrelsens repræsentanter mod behørig legitimation og uden retskendelse adgang til virksomheder, sygehuse, klinikker og andre steder, der er en del af forsøgets gennemførelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7ba395cd-ec6d-4840-83f9-9a188fadd297">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen har direkte adgang til at indhente oplysninger i patientjournaler m.v., herunder elektroniske journaler, med henblik på at se oplysninger om forsøgspersoners helbredsforhold, som er nødvendige som led i Lægemiddelstyrelsens inspektion efter § 19, stk. 1 og 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id4041a410-995c-4079-b336-ba1c1444bf2c" localId="21">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="idc50b1737-0e1f-48d5-9aae-5194c497316f">
+                <Exitus>
+                  <Linea>
+                    <Char>Et samtykke afgivet efter kapitel V i forordningen giver sponsor og sponsors repræsentanter og investigator direkte adgang til at indhente oplysninger i patientjournaler m.v., herunder i elektroniske journaler, med henblik på at se oplysninger om forsøgspersonens helbredsforhold, som er nødvendige som led i egenkontrol med forskningsprojektet, herunder kvalitetskontrol og monitorering, som disse er forpligtet til at udføre.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idafe97129-934f-4bfa-a53b-236b27b35085">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et samtykke afgivet efter kapitel V i forordningen giver udenlandske lægemiddelmyndigheder direkte adgang til at indhente oplysninger i patientjournaler m.v., herunder elektroniske journaler, med henblik på at se oplysninger om forsøgspersonens helbredsforhold, som er nødvendige for de udenlandske lægemiddelmyndigheders kvalitetskontrol som led i en ansøgning om godkendelse af det pågældende lægemiddel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+      <Afsnit id="id2ca1e37b-c573-4e81-a7fa-8205c3997711" localId="III">
+        <Explicatus>Afsnit III</Explicatus>
+        <Rubrica id="id67ee7544-0698-4895-bfeb-671a4e94b7f5">
+          <Linea>
+            <Char>Kliniske forsøg med lægemidler på dyr</Char>
+          </Linea>
+        </Rubrica>
+        <Kapitel id="idc9047901-bab5-4305-ad0d-88327786311e" localId="7">
+          <Explicatus>Kapitel 7</Explicatus>
+          <Rubrica id="id0ad31a9e-2368-4145-bbb1-5af06d6f5c23">
+            <Linea>
+              <Char>Ansøgning om og overvågning og kontrol af forsøg</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idb145e46c-a14e-4fc6-99c7-00b7b5325de1" localId="22">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="idce43cb1a-5301-4d76-9532-bf8a3771d744">
+                <Exitus>
+                  <Linea>
+                    <Char>Et klinisk forsøg med lægemidler på dyr må kun udføres, når Lægemiddelstyrelsen har givet tilladelse til forsøget i henhold til reglerne i denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id25cd27bd-0c7c-444c-8ac9-493761703c47" localId="23">
+              <Explicatus>§ 23.</Explicatus>
+              <Stk id="idbfe1a280-b059-4725-9e56-11e926793d40">
+                <Exitus>
+                  <Linea>
+                    <Char>Ansøgning om tilladelse til et klinisk forsøg på dyr skal indgives til Lægemiddelstyrelsen af sponsor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7228b619-a937-438e-bddd-f55816095776">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte nærmere regler om tidsfrister, hvilke oplysninger en ansøgning om tilladelse til kliniske forsøg med dyr skal indeholde, og om Lægemiddelstyrelsens behandling af sådanne ansøgninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ideb767d65-0cec-4800-bfb4-0316dae93fba" localId="24">
+              <Explicatus>§ 24.</Explicatus>
+              <Stk id="id5bc54a8a-287d-41af-9489-080d8a09ccb4">
+                <Exitus>
+                  <Linea>
+                    <Char>Sponsor eller dennes repræsentant skal have bopæl i et EU- eller EØS-land.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idde9939f4-308b-4ef4-a70f-8c8f488d8b7c" localId="25">
+              <Explicatus>§ 25.</Explicatus>
+              <Stk id="id77a2812a-36c4-4878-b895-725c061173ea">
+                <Exitus>
+                  <Linea>
+                    <Char>Gør Lægemiddelstyrelsen indsigelse mod et klinisk forsøg med dyr, kan sponsor én gang ændre ansøgningen for at tage hensyn til indsigelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ændres ansøgningen ikke i overensstemmelse med indsigelsen, afviser styrelsen ansøgningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6c8571bb-6d0e-408f-b478-37fd1db56a99">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen kan stille vilkår for forsøget over for sponsor og investigator.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id0b484cf1-9119-495d-aa9a-dc4a3b7479a3" localId="26">
+              <Explicatus>§ 26.</Explicatus>
+              <Stk id="idfacaa9f1-5b86-4462-a37b-da4e87d9445c">
+                <Exitus>
+                  <Linea>
+                    <Char>Er et klinisk forsøg med lægemidler på dyr påbegyndt, kan sponsor kun ændre i forsøgsprotokollen og dokumentationen for forsøgslægemidlet efter godkendelse fra Lægemiddelstyrelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id91ad57b4-e998-407b-9ce4-0dbd0030a2ff" localId="27">
+              <Explicatus>§ 27.</Explicatus>
+              <Stk id="id1bd23459-f62b-42c5-9061-db2652894638">
+                <Exitus>
+                  <Linea>
+                    <Char>Sponsor skal</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id73432f4c-e808-444f-9a92-c1fc78fa06f0">
+                  <Index>
+                    <Indentatio id="id87b29585-2293-410e-9872-b4f5e277d1ff" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>omgående underrette Lægemiddelstyrelsen, hvis der under forsøget optræder uventede og alvorlige formodede bivirkninger,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id4926b5e3-ccee-48ef-b2b5-ed75abb543be" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>inden 15 dage underrette Lægemiddelstyrelsen, hvis et forsøg må afbrydes tidligere end planlagt, og give styrelsen en begrundelse for afbrydelsen,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id56e820d0-b8ef-497c-9505-2e64f6e33ff2" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>en gang årligt i hele forsøgsperioden udarbejde en liste over alle alvorlige formodede bivirkninger, som er indtruffet i forsøgsperioden, og en rapport om dyrenes sikkerhed og indsende dem til Lægemiddelstyrelsen og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id5a8cd7b7-abe3-4009-9f95-f964fc7d9f1d" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>højst 90 dage efter forsøgets afslutning underrette Lægemiddelstyrelsen om, at forsøget er afsluttet, og snarest muligt og senest inden 1 år indsende forsøgets resultat til styrelsen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idcab7b426-d22c-4549-bb8a-4e6ed0c7ffe6">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte nærmere regler om de i stk. 1 nævnte underretninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida2d6fd44-a628-423e-a77b-3bbefed2a632">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte nærmere regler om sponsors pligt til at underrette andre, herunder ansvarlige for kliniske forsøg og lægemiddelmyndigheder i de andre EU- eller EØS-lande, om oplysninger indberettet efter stk. 1, nr. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idc97186b1-1d5a-4651-97f7-cd4e6c667931" localId="28">
+              <Explicatus>§ 28.</Explicatus>
+              <Stk id="idef55fc56-279a-4614-b482-2db26889f685">
+                <Exitus>
+                  <Linea>
+                    <Char>Opstår der under forsøget afvigelser fra den godkendte forsøgsprotokol, kan Lægemiddelstyrelsen over for sponsor og investigator kræve forsøget ændret eller midlertidigt standset, eller styrelsen kan forbyde forsøget.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0dae220d-be76-4efb-a7b4-e828a1cbd7b5">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte nærmere regler om betingelserne for Lægemiddelstyrelsens korrigerende foranstaltninger efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idbd7e2cfb-1d0c-4c59-9513-9faa3fc4437b" localId="29">
+              <Explicatus>§ 29.</Explicatus>
+              <Stk id="id829be140-990a-44cb-8477-7e116f218353">
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemidler til kliniske forsøg med dyr skal overholde gældende standarder for god fremstillingspraksis fastsat i medfør af lægemiddelloven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4d5c6f69-c806-41a0-b7fd-98fb6ab2962d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen fastsætter nærmere regler om krav til kvalitet og sikkerhed ved forsøgslægemidler, herunder til deres fremstilling, og til kontrollen heraf.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id92da982f-c187-4f93-bdb5-20669ae2a546" localId="30">
+              <Explicatus>§ 30.</Explicatus>
+              <Stk id="id98f9fb20-fef4-4a42-b7ca-a15c9cfa279a">
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte nærmere regler om formkrav til ansøgninger og underretninger efter dette kapitel, herunder at ansøgning eller underretning skal ske elektronisk.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ide09fb379-f0e6-40d0-a18b-c8a27bdd8f64" localId="31">
+              <Explicatus>§ 31.</Explicatus>
+              <Stk id="id0e7961eb-200b-4bda-aea7-08fdb09e0b04">
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen kan inden, under og efter gennemførelsen af et klinisk forsøg med lægemidler på dyr, herunder som led i behandling af en ansøgning om markedsføringstilladelse og som opfølgning på udstedelse af en markedsføringstilladelse, kontrollere enhver virksomhed m.v., der udfører eller har udført et klinisk forsøg.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Styrelsen kan påbyde udlevering af alle oplysninger, herunder skriftligt materiale, der er nødvendige for kontrollen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id76245278-872f-4839-a1e9-097061f8ba8e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsen kan på baggrund af en anmodning fra en kompetent myndighed i et andet EU- eller EØS-land om bistand til kontrol af et klinisk forsøg kontrollere enhver virksomhed m.v., der udfører eller har udført et klinisk forsøg med lægemidler.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Styrelsen kan påbyde udlevering af alle oplysninger, herunder skriftligt materiale, der er nødvendige for kontrollen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id79961663-d641-4dbd-89a3-ebcb0d30e178">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Som led i Lægemiddelstyrelsens kontrol har styrelsens repræsentanter mod behørig legitimation og uden retskendelse adgang til virksomheder, praksis og andre steder, der er en del af forsøgets gennemførelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3725d569-0a5b-4c1c-b7ac-b3f5f2831fe0">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemiddelstyrelsens adgang til kontrol efter stk. 1-3</Char>
+                    <Char formaChar="Italic">
+                    </Char>
+                    <Char>omfatter også styrelsens overholdelse af krav til forsøgslægemidler efter § 29, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+      <Afsnit id="idfad734aa-a340-4412-891f-d905dc22e8c7" localId="IV">
+        <Explicatus>Afsnit IV</Explicatus>
+        <Rubrica id="idd72a54af-8cb2-48a5-99da-afbe71e76227">
+          <Linea>
+            <Char>Afsluttende bestemmelser</Char>
+          </Linea>
+        </Rubrica>
+        <Kapitel id="id85c0451b-4486-4dd5-ba19-0b4af949877c" localId="8">
+          <Explicatus>Kapitel 8</Explicatus>
+          <Rubrica id="idc06249a3-66db-48a1-b93f-8b51ce01565f">
+            <Linea>
+              <Char>Klageadgang</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id05a88cec-e896-463e-9a13-7894658bcb78" localId="32">
+              <Explicatus>§ 32.</Explicatus>
+              <Stk id="idb4ecd93c-edca-4e2f-8059-0ec505030495">
+                <Exitus>
+                  <Linea>
+                    <Char>Sponsor kan senest 30 dage efter modtagelse af en afgørelse fra Lægemiddelstyrelsen eller den videnskabsetiske lægemiddelkomité indbringe afgørelsen for Sundheds- og Ældreministeriet, for så vidt angår retlige forhold.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idd9ea96c9-f79e-4cb7-ab53-072bb482ee7e" localId="9">
+          <Explicatus>Kapitel 9</Explicatus>
+          <Rubrica id="id7016fb6e-a73e-41f1-bfda-bbed4806be7d">
+            <Linea>
+              <Char>Finansiering m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idfb12a36a-8c95-475a-adee-e3196c601c98" localId="33">
+              <Explicatus>§ 33.</Explicatus>
+              <Stk id="idc1a23155-8fef-4411-9681-c24344af516d">
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren kan fastsætte regler om opkrævning og betaling af gebyrer fra sponsor til dækning af Lægemiddelstyrelsens og de videnskabsetiske lægemiddelkomiteers virksomhed efter denne lov og regler udstedt i medfør af loven eller forordninger udstedt af Den Europæiske Union.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id2025afae-08f9-49bc-b70e-ab78caec73b1" localId="10">
+          <Explicatus>Kapitel 10</Explicatus>
+          <Rubrica id="idb20ed92c-c629-46e5-acb0-8100d2d24f82">
+            <Linea>
+              <Char>Godtgørelse</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idf9c432a8-dd91-459a-a668-8dd81c22a9aa" localId="34">
+              <Explicatus>§ 34.</Explicatus>
+              <Stk id="id8dbdd16f-eccf-4a4b-8eef-c6b0c97c3913">
+                <Exitus>
+                  <Linea>
+                    <Char>Sponsor eller, hvis denne ikke har værneting i Danmark, investigator skal betale en godtgørelse på 1.350 kr. til personer, som har deltaget i et projekt iværksat i strid med artikel 4 eller artikel 28-35 i forordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide069991e-ff66-4dd4-9f98-4d5bfe4b6b0f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Godtgørelsens størrelse reguleres årligt pr. 1. januar med 2,0 pct. tillagt tilpasningsprocenten for det pågældende finansår, jf. lov om en satsreguleringsprocent.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De herefter fremkomne beløb afrundes til nærmeste med 50 delelige kronebeløb.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Reguleringen sker på grundlag af de gældende beløb før afrunding på reguleringstidspunktet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide9661a6e-f96b-4bc8-b01b-4c01a789f7bf">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Godtgørelse efter stk. 1 fastsættes på grundlag af de beløb, der var gældende på det tidspunkt, hvor forsøgspersonen deltog i det kliniske forsøg.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id124658d1-c91a-48c4-8e4b-64d00289cceb">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En videnskabsetisk lægemiddelkomité, som bliver opmærksom på, at en forsøgsperson kan have et krav på godtgørelse efter stk. 1, kan påbyde sponsor, sponsors repræsentant eller, hvis denne ikke har værneting i Danmark, investigator at informere de berørte personer herom.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Komiteen kan stille krav om form og indhold af informationen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Komiteen kan endvidere sætte en frist for udsendelse af informationen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id7b80bca6-8fec-449c-8bb9-4399c563120b" localId="11">
+          <Explicatus>Kapitel 11</Explicatus>
+          <Rubrica id="idd631a8fc-ec38-4992-8b74-fb3313b331b4">
+            <Linea>
+              <Char>Straf</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id55ad4846-fa66-4c72-9654-8cbcc64d4851" localId="35">
+              <Explicatus>§ 35.</Explicatus>
+              <Stk id="id75082fe5-9446-4632-9d27-776a2ed7083c">
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre strengere straf er forskyldt efter den øvrige lovgivning, straffes med bøde eller fængsel indtil 4 måneder den, der</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id59c2258c-a9d6-4bb7-a6ee-1fa65275cc2f">
+                  <Index>
+                    <Indentatio id="id06b5acce-34c2-41eb-95b4-f3912f3e11b2" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>iværksætter et klinisk forsøg med lægemidler i strid med artikel 4 eller artikel 15 i forordningen eller § 22 i denne lov,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd3f6ae08-aded-48ee-8669-fc0e004d1b8a" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at efterkomme underretningspligten i medfør af  artikel 12, artikel 36, stk. 1, 2 og 3, artikel 37, stk. 1-3, 5 og 6, artikel 38, stk. 1, artikel 52, stk. 1, artikel 53, stk. 1 og 2, eller artikel 54 i forordningen eller § 27, stk. 1, i denne lov,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id81fe6adf-dfaa-43fc-b026-1a64ed8c621e" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at efterkomme sikkerhedsindberetninger i medfør af artikel 42, stk. 1, artikel 43, stk. 1, eller artikel 46 i forordningen,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id6aeb52ab-8c28-44cf-af1d-309075223f04" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ikke overholder artikel 47 eller artikel 48 i forordningen,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf888ec7f-0daa-4802-a186-3e82bb4c154a" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>overtræder artikel 63 eller artikel 65 i forordningen,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idfce29fea-f678-4bf5-a57a-b21bc6583bf8" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at efterkomme et påbud i medfør af artikel 77, stk. 1, i forordningen,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id3635e85a-e2dd-4d2e-85b3-ca009d677042" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at efterkomme et påbud eller en oplysningspligt i medfør af § 19, stk. 1, 2. pkt., og stk. 2, 2. pkt., § 20, stk. 2, § 21, § 31, stk. 1, 2. pkt., og stk. 2, 2. pkt., eller § 34, stk. 4, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id63a130aa-2f95-4bf0-ab96-bba9ec05c4a1" formaInd="Nummer">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>nægter repræsentanter for tilsynsmyndigheden adgang i medfør af § 20, stk. 1, eller § 31, stk. 3.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id4fb312e0-120d-4f19-8eec-aed1f8914714" localId="12">
+          <Explicatus>Kapitel 12</Explicatus>
+          <Rubrica id="id45b790ef-d5c2-4f67-bbda-777136a79180">
+            <Linea>
+              <Char>Ikrafttræden m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idb61b7ec8-6ce2-4a22-9c7a-e4c3cb091a0a" localId="36">
+              <Explicatus>§ 36.</Explicatus>
+              <Stk id="id6dcc78de-09a0-46cb-be12-a8f85441cc84">
+                <Exitus>
+                  <Linea>
+                    <Char>Sundheds- og ældreministeren fastsætter tidspunktet for lovens ikrafttræden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan herunder bestemme, at forskellige dele af loven træder i kraft på forskellige tidspunkter, jf. dog stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc93bead8-63af-491a-99e5-9b8d93359768">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>§ 37, nr. 1, 6-10, 13, 14 og 16, § 38, nr. 1 og 2, og § 40 træder i kraft den 1. juli 2016.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2f17b98d-39fa-4e14-a3a9-13d05b4c1345">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven finder i indtil 3 år efter lovens ikrafttræden ikke anvendelse på ansøgninger, som er anmeldt før lovens ikrafttræden, eller på ansøgninger, som i indtil 1 år efter lovens ikrafttræden anmeldes efter de hidtil gældende regler, jf. forordningens artikel 98.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For sådanne ansøgninger finder de hidtil gældende regler anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idf58dfb19-925e-4c92-b9d6-62e9a7f516e0" localId="13">
+          <Explicatus>Kapitel 13</Explicatus>
+          <Rubrica id="id3879dcf0-94cf-4992-8d00-4e774bef2035">
+            <Linea>
+              <Char>Ændringer i anden lovgivning</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <AendringCentreretParagraf id="id9bcfccda-6ec1-4279-82f2-bb0b2c4f4ab8">
+              <Explicatus>§ 37.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>I lov nr. 593 af 14. juni 2011 om videnskabsetisk behandling af sundhedsvidenskabelige forskningsprojekter, som ændret ved lov nr. 604 af 18. juni 2012 og § 6 i lov nr. 310 af 29. marts 2014, foretages følgende ændringer:</Char>
+                </Linea>
+              </Exitus>
+              <AendringsNummer id="id2ea1141b-816c-4f25-8f0b-a7347a389db2">
+                <Explicatus>1.</Explicatus>
+                <Aendring id="idcc439fc2-d824-47e1-9153-eb17ce2eb356">
+                  <AendringDefinition id="id83bcc018-76b7-4faa-81d2-342077634a9a">
+                    <Exitus>
+                      <Linea>
+                        <Char>Overalt i loven</Char>
+                        <Char formaChar="Italic">
+                        </Char>
+                        <Char>ændres »Den Nationale Videnskabsetiske Komité« til: »National Videnskabsetisk Komité«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id2f0c03ca-20d8-4249-b485-ef2210fea743">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id3d9ac11f-dfc1-414c-9f7d-77475837c516">
+                <Explicatus>2.</Explicatus>
+                <Aendring id="id7f50ef13-9e93-4192-b0a4-3fb3061861ff">
+                  <AendringDefinition id="idb8992f7b-017e-476b-9550-f60c8c1f2d02">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 2,</Char>
+                        <Char> affattes således:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="ida754806b-9506-469e-8d04-b152de926e2f">
+                    <AendringNyTekst>
+                      <Stk id="id47f0d68e-3024-4ce3-a676-d5122993742c">
+                        <Explicatus>Stk. 2.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Det videnskabsetiske komitésystem består af regionale komiteer, videnskabsetiske lægemiddelkomiteer og en national komité, jf. kapitel 7 og lov om kliniske forsøg med lægemidler.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="idc0b779da-ae0c-4801-9e9c-4a1dec6daedf">
+                <Explicatus>3.</Explicatus>
+                <Aendring id="id96dde717-928e-43b0-85c2-f2180974983f">
+                  <AendringDefinition id="idd25589df-332a-490a-89b5-d363cba4c657">
+                    <Exitus>
+                      <Linea>
+                        <Char>I</Char>
+                        <Char formaChar="Bold">
+                        </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 1</Char>
+                        <Char> indsættes som </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">stk. 5:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idcb9cfee0-e076-4280-add2-afcead0f6c29">
+                    <AendringNyTekst>
+                      <Stk id="idce053a7a-e9c1-419b-b7cb-520841f51126">
+                        <Explicatus>Stk. 5.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Loven gælder ikke sundhedsvidenskabelige forskningsprojekter, der angår kliniske forsøg med lægemidler, som anmeldes i medfør af Europa-Parlamentets og Rådets forordning (EU) nr. 536/2014 af 16. april 2014 om kliniske forsøg med humanmedicinske lægemidler og om ophævelse af direktiv 2001/20/EF.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="iddf78cb55-f544-4470-9b2c-fe62460272b0">
+                <Explicatus>4.</Explicatus>
+                <Aendring id="id1683776f-93fb-49ee-8b34-25cb95c6e0e2">
+                  <AendringDefinition id="id16923e48-5ed5-427d-8912-abc4f251a86d">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 2, nr. 1, 2. pkt.,</Char>
+                        <Char> affattes således:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id19acb5b5-4d46-4981-a0c9-163ffb1534a8">
+                    <AendringNyTekst>
+                      <Exitus formaEx="Left">
+                        <Linea>
+                          <Char>Herunder omfattes klinisk afprøvning af medicinsk udstyr, jf. nr. 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id3ccf61c4-1db0-49bd-b676-ff706418cfca">
+                <Explicatus>5.</Explicatus>
+                <Aendring id="id22457b91-524a-4758-a3e8-d076c1fd878f">
+                  <AendringDefinition id="id2eadd6c3-ee05-45ee-ba44-6a509fb955ce">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 2, nr. 2,</Char>
+                        <Char> ophæves.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idf00e7c54-48f3-451d-a707-18fac011d9af">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+                <Rykningsklausul id="id21fba242-8878-429e-bf10-2df292434fa1">
+                  <Exitus>
+                    <Linea>
+                      <Char>Nr. 3-17 bliver herefter nr. 2-16.</Char>
+                    </Linea>
+                  </Exitus>
+                </Rykningsklausul>
+              </AendringsNummer>
+              <AendringsNummer id="id1185d3ed-6f4f-46ac-9fa7-4f0e9a2fd9ca">
+                <Explicatus>6.</Explicatus>
+                <Aendring id="id8f83e976-ecd1-4b7c-acd3-314ae1864e04">
+                  <AendringDefinition id="idbb8b162e-701d-47c4-88e6-c55df5b09f8e">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 2, nr. 9,</Char>
+                        <Char> der bliver nr. 8, ændres »inhabil« til: »uden handleevne«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id29bac5bf-5ff6-4724-8794-404491511060">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="idf92d0038-8b2e-479f-a633-9c1fe1c64338">
+                <Explicatus>7.</Explicatus>
+                <Aendring id="id308d40c8-d7d2-42c4-b33b-dd9587b27e21">
+                  <AendringDefinition id="id27fa526b-14e2-4824-8cc6-f5f77d4b88ba">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 2, nr. 11,</Char>
+                        <Char> der bliver nr. 10, udgår »og den praktiserende læge eller i tilfælde af den praktiserende læges forfald Sundhedsstyrelsen«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id9c36c5b0-4855-416f-a0bb-739b385cecfe">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id48752379-5b0d-4af9-90ce-79baf8894eb6">
+                <Explicatus>8.</Explicatus>
+                <Aendring id="id4991358a-9d4d-4b81-99fd-42f454acc1c5">
+                  <AendringDefinition id="ida4589419-5d11-46ae-89b1-fcabe4bce791">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 2, nr. 12,</Char>
+                        <Char> der bliver nr. 11, affattes således:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="ida5f9da4e-5065-40c0-b4ed-ff7dc4b118c9">
+                    <AendringNyTekst>
+                      <Indentatio id="idf07be9fb-1333-445f-aeab-1f83391f15f7" formaInd="Nummer">
+                        <Explicatus>11)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Forsøgsværge: En læge, som er uafhængig af den forsøgsansvarliges interesser og af interesser i forsøgsprojekter i øvrigt, kan give stedfortrædende samtykke på forsøgspersonens vegne til deltagelse i et sundhedsvidenskabeligt forskningsprojekt.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Forsøgsværgen skal varetage forsøgspersonens interesser.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id876ebffc-cbc0-475a-bc88-69b078cb7bfc">
+                <Explicatus>9.</Explicatus>
+                <Aendring id="idbb158e04-a847-408e-99b5-5aa3bd9ad5bd">
+                  <AendringDefinition id="ida96a626d-9976-4ff3-986d-3c980a6f4d6f">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 3, stk. 2, nr. 3,</Char>
+                        <Char> ændres »inhabil« til: »uden handleevne«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id9064c1c2-9fc7-4bed-8a5d-4624ec324694">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id6ee6cc0c-91be-4f83-b294-42b2fc14b6fd">
+                <Explicatus>10.</Explicatus>
+                <Aendring id="idf9b65f7a-7ccc-425c-84bf-a7ec87eaf560">
+                  <AendringDefinition id="id451bdb61-dcea-43e6-9889-92089517c9ca">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 3, stk. 3,</Char>
+                        <Char formaChar="Bold">
+                        </Char>
+                        <Char>affattes således:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="ida939fe63-d4a3-41f2-9b40-1996cb890d82">
+                    <AendringNyTekst>
+                      <Stk id="idd548595e-8106-41ef-a854-f8a767e768e5">
+                        <Explicatus>Stk. 3.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Samtykket giver sponsor og sponsors repræsentanter og investigator direkte adgang til at indhente oplysninger i patientjournaler m.v., herunder elektroniske journaler, med henblik på at se oplysninger om forsøgspersonens helbredsforhold, som er nødvendige som led i egenkontrol med forskningsprojektet, herunder kvalitetskontrol og monitorering, som disse er forpligtet til at udføre.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id2adde239-c173-41b3-b4d0-80a7be91ad58">
+                <Explicatus>11.</Explicatus>
+                <Aendring id="id3555e3d4-813c-4005-a154-28025ec53f96">
+                  <AendringDefinition id="id8fd8171e-b078-4e4a-8b90-e6972810d8d0">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 3, stk. 5,</Char>
+                        <Char> ændres »§§ 8-12« til: »§§ 8-11«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id8db4afc3-890f-4c8c-b634-442d250968ef">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id1d1e87c3-9ce9-4a67-85f0-f014947385ce">
+                <Explicatus>12.</Explicatus>
+                <Aendring id="id172ee175-3cb7-464c-9966-3b9276719292">
+                  <AendringDefinition id="id49c61678-4a44-451d-8540-4261dc52a4a6">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 4, stk. 1,</Char>
+                        <Char> indsættes efter »indehaver«: », jf. dog § 4 a«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id882566fa-9458-40db-bd56-9177002514af">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id36e8497a-929f-4e23-a236-db7d013ef467">
+                <Explicatus>13.</Explicatus>
+                <Aendring id="id6c3a4500-65b1-4399-a0fc-e81ceca2c82a">
+                  <AendringDefinition id="id06124130-78b5-46e9-b0a0-a1f11a21bd4b">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 4, stk. 3,</Char>
+                        <Char> affattes således:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idbf685e0a-8860-44f6-8ae2-114f337b5eac">
+                    <AendringNyTekst>
+                      <Stk id="id5476be8c-50b1-4893-842d-ed118c9a352c">
+                        <Explicatus>Stk. 3.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Stedfortrædende samtykke på vegne af øvrige forsøgspersoner uden handleevne skal gives af den nærmeste pårørende og forsøgsværgen.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="idfab0c688-428c-46fc-919b-00f481d4c235">
+                <Explicatus>14.</Explicatus>
+                <Aendring id="idb453363f-7b90-4ffb-b81e-6ba7802ccecd">
+                  <AendringDefinition id="id3a842606-d4cc-48a4-ae39-09fff16dd414">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 4, stk. 5,</Char>
+                        <Char> ændres »En praktiserende læges« til: »Forsøgsværgens«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id59677cd3-c205-46af-8f33-2a3f3d65cdbc">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="idfa66f28a-5941-425e-9207-b5bff79fd6f4">
+                <Explicatus>15.</Explicatus>
+                <Aendring id="id4f720b9f-1a26-48e0-b20e-4bf64b397c33">
+                  <AendringDefinition id="id7de8ca13-8062-454c-8839-f40352fe52d6">
+                    <Exitus>
+                      <Linea>
+                        <Char>Efter § 4 indsættes:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id4f2ce3cf-ac3a-413f-98d4-58f73d00c371">
+                    <AendringNyTekst>
+                      <Paragraf id="idf1c86e9c-f63a-4602-ab36-3e2fe390798c" localId="4a">
+                        <Explicatus>§ 4 a.</Explicatus>
+                        <Stk id="idd48e9151-7d5a-44f8-a05c-25a6b9154083">
+                          <Exitus>
+                            <Linea>
+                              <Char>Et klinisk forsøg må kun gennemføres på en forsøgsperson, der er fyldt 15 år, men endnu ikke er myndig, såfremt forsøgspersonen og forældremyndighedens indehaver giver samtykke hertil, jf. § 4, stk. 1.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Stk>
+                      </Paragraf>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id1562803a-e5d6-4e89-90ef-999f2f064ff0">
+                <Explicatus>16.</Explicatus>
+                <Aendring id="id21dc25b3-6119-4984-a0f4-3234a0fa0032">
+                  <AendringDefinition id="id33b4c000-41fa-4feb-95f3-d6055d7bf4e4">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 5, stk. 2, 1. pkt.,</Char>
+                        <Char> ændres »inhabil« til: »uden handleevne«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id3c81071b-061e-49af-964b-2cdb7de8d5ae">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="ide171fc88-07f4-4db7-8fd6-2d542761773a">
+                <Explicatus>17.</Explicatus>
+                <Aendring id="id083fe032-90b5-4656-8408-290ab08417cb">
+                  <AendringDefinition id="idffc32757-9050-402c-b795-2af735fde3f7">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 9, stk. 1, 1. pkt.,</Char>
+                        <Char> indsættes efter »informeret samtykke«: », jf. § 4 a«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idd8e10c6d-7b9b-45a4-bfc1-ceec1033727b">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="idf0e19f46-3e09-4acc-8c86-d03aa4085ae1">
+                <Explicatus>18.</Explicatus>
+                <Aendring id="id632237da-003c-4621-9a97-e37d0e757f04">
+                  <AendringDefinition id="id5895e163-a8b7-451f-9985-18b1df2bb46e">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 11, stk. 1,</Char>
+                        <Char> udgår », der ikke angår kliniske forøg med lægemidler,«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idf01fcb79-76b7-4d77-9f13-48ef171d4764">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id31064634-951d-4d93-b5f5-18e08da57839">
+                <Explicatus>19.</Explicatus>
+                <Aendring id="id7b2495dd-645d-45c8-ae1b-e211ef3209ac">
+                  <AendringDefinition id="id295e0dcd-a876-46f3-9849-0a4e8478d7c2">
+                    <Exitus>
+                      <Linea>
+                        <Char formaChar="Italic">§ 12</Char>
+                        <Char> ophæves.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id918612af-fd8f-47e8-be09-ec93689534d6">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="idf67b8e51-7917-4af7-be9f-f6a533f1ea3c">
+                <Explicatus>20.</Explicatus>
+                <Aendring id="id7bb946fa-3b10-4163-ad50-fa4fc4a9e5da">
+                  <AendringDefinition id="id8fa5da6b-81b9-4f79-95a2-15489b2ebe49">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 13, stk. 2,</Char>
+                        <Char> affattes således:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id6fabeafd-4576-46e9-8dc7-4e5787f9b163">
+                    <AendringNyTekst>
+                      <Stk id="id49e96724-d656-4202-95ae-97d1db0ea8ae">
+                        <Explicatus>Stk. 2.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Indebærer et forskningsprojekt klinisk afprøvning af medicinsk udstyr, der skal godkendes af Lægemiddelstyrelsen, er komitésystemets tilladelse til gennemførelse af projektet betinget af den fornødne tilladelse efter lov om medicinsk udstyr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id1786494b-f629-42fc-a85e-c6d3e379b950">
+                <Explicatus>21.</Explicatus>
+                <Aendring id="idcff80d41-2eb5-484b-988f-7e86691ae10a">
+                  <AendringDefinition id="id49424f28-1a44-4470-bb2c-7881e19e9a5a">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 15, stk. 1, 1. pkt.,</Char>
+                        <Char> indsættes efter »virke«: », jf. dog stk. 3«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id60902588-f03c-404c-a7b7-e18c5b90d39c">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id7fc44497-506e-4bf1-90ae-ef73125c2df6">
+                <Explicatus>22.</Explicatus>
+                <Aendring id="idb34b08b6-4b0a-41b4-aa7e-d1386900662b">
+                  <AendringDefinition id="idfb498137-1794-4196-8240-2da23c38c16b">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 15, stk. 2, 2. pkt.,</Char>
+                        <Char> indsættes</Char>
+                        <Char formaChar="Bold">
+                        </Char>
+                        <Char>efter »virke«: », jf. dog stk. 3«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id48dfdc39-9b07-46ca-b7ce-c33f716d4b5c">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="idb2dd2638-a814-40d6-ac07-b7b06db096ae">
+                <Explicatus>23.</Explicatus>
+                <Aendring id="id0bb7cd0d-4571-4529-ab73-41417e170ef4">
+                  <AendringDefinition id="id6920ba0e-31b9-4f33-94b8-6c5499f83e72">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 15</Char>
+                        <Char> indsættes efter stk. 2 som nyt stykke:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idb7cf435e-e111-41e9-b760-90b547e65cec">
+                    <AendringNyTekst>
+                      <Stk id="id8f1585b8-10ae-407d-9aab-0f3b877070a0">
+                        <Explicatus>Stk. 3.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Kliniske forsøg med lægemidler anmeldes til de videnskabsetiske lægemiddelkomiteer.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+                <Rykningsklausul id="ide8156a7c-143c-4868-af2c-ba9444821924">
+                  <Exitus>
+                    <Linea>
+                      <Char>Stk. 3 bliver herefter stk. 4.</Char>
+                    </Linea>
+                  </Exitus>
+                </Rykningsklausul>
+              </AendringsNummer>
+              <AendringsNummer id="id61e5fac5-0d60-4137-810c-86b0da87fabe">
+                <Explicatus>24.</Explicatus>
+                <Aendring id="ida16f8517-c88d-4b24-85fd-6ab09bc86b15">
+                  <AendringDefinition id="id918d41fc-1fc6-4655-809b-828db3f0dfb8">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 19, stk. 2</Char>
+                        <Char> og </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">3,</Char>
+                        <Char> udgår »og angår det anmeldte sundhedsvidenskabelige forskningsprojekt ikke kliniske forsøg med lægemidler,«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id0e63a5ff-8bbb-4aa1-8d74-80bedb719e7c">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="ideba49fda-ff71-44f1-842c-6a18b100577c">
+                <Explicatus>25.</Explicatus>
+                <Aendring id="idfdf0776c-060e-43fe-9094-1fa893721432">
+                  <AendringDefinition id="id69826b47-4f04-4db6-87c9-b634f4d4aa7e">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 21, stk. 1,</Char>
+                        <Char> udgår », som angår kliniske forsøg med lægemidler, der er omfattet af lov om lægemidler,«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id59c39542-ca51-4722-bf91-a60a338b807a">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id7f532639-c9be-43b8-9e98-3315b24aaab5">
+                <Explicatus>26.</Explicatus>
+                <Aendring id="idfd10509c-cae1-4a3d-af13-773286840ef4">
+                  <AendringDefinition id="id08a6cca5-e547-4fee-b372-86eaf1c4ea7c">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 23, stk. 2,</Char>
+                        <Char> ændres »genterapi, somatisk celleterapi eller lægemidler« til: »genterapi eller somatisk celleterapi«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id021ea6b3-eedc-4bec-aef4-00e804aebd29">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="idadcde6cd-caa2-43e4-b646-7b015a841800">
+                <Explicatus>27.</Explicatus>
+                <Aendring id="idb15f6637-cd07-486e-8da0-840009787638">
+                  <AendringDefinition id="idfc3f6078-79f6-4a69-8e9e-0a0bf2b56b1b">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 23, stk. 5,</Char>
+                        <Char> udgår », hvori der ikke indgår kliniske forsøg med lægemidler,«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id19d615b9-d20a-4f94-8c02-c4712f047552">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id1a290079-5800-4273-8e61-b34f09dee600">
+                <Explicatus>28.</Explicatus>
+                <Aendring id="id49918aea-292e-4a4e-a01d-6669d657b72d">
+                  <AendringDefinition id="id9a13bf69-71e5-4979-b95d-e93288b3a9d9">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 26, stk. 1, 1. pkt.,</Char>
+                        <Char> indsættes efter »regional komités«: »eller en videnskabsetisk lægemiddelkomités«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id8239d0c9-9103-49ab-8931-0f7ef06326f2">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="iddd04fdde-31fa-4148-821b-41c01af5a16a">
+                <Explicatus>29.</Explicatus>
+                <Aendring id="id431c7140-46e5-4270-85b4-17ec73488f00">
+                  <AendringDefinition id="id17ff4154-3504-49c8-abf0-f4a58756370d">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 26, stk. 1, 2. pkt.,</Char>
+                        <Char> indsættes efter »regional komité«: »eller en videnskabsetisk lægemiddelkomité«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idc6744747-f88f-402a-8af7-afce6e23f358">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="idca84eb6d-02ec-4672-b27e-2a2f6e11ec56">
+                <Explicatus>30.</Explicatus>
+                <Aendring id="id9e306801-91fa-492b-97e4-429f3e2553ef">
+                  <AendringDefinition id="id49656d96-0c2e-49b8-ab2d-16352ab5feb2">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 27, stk. 1, 2. pkt.,</Char>
+                        <Char> udgår »kliniske forsøg med lægemidler eller« og »lov om lægemidler henholdsvis«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idb6c17a8c-164c-4575-a3f9-e6bfab59da2d">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id8d298e0b-ceba-4ac0-a143-d828d0c5443c">
+                <Explicatus>31.</Explicatus>
+                <Aendring id="id16d05c7f-aab2-4e29-8350-f48f4c431967">
+                  <AendringDefinition id="id1a414846-62e1-4690-975e-daefe5002405">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 28, stk. 1, 1. pkt., </Char>
+                        <Char>udgår », der ikke angår kliniske forsøg med lægemidler,«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id7705d8f4-1995-4f19-9881-eb00cb0871eb">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id81dcfb30-b9e8-47e1-98cc-9680db41a4d8">
+                <Explicatus>32.</Explicatus>
+                <Aendring id="id95fc23f3-2b6f-4929-ba3e-b7db2f8756f1">
+                  <AendringDefinition id="idc46eb432-22f9-4d17-869c-edc72e3ea6c6">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 28, stk. 1, 2. pkt., </Char>
+                        <Char>ophæves, og i stedet indsættes:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id9b9aa834-5fac-454f-93ed-0e3938a04c6c">
+                    <AendringNyTekst>
+                      <Stk id="ida95e4aaa-945e-4eac-bfa4-fd89d812cd54">
+                        <Exitus>
+                          <Linea>
+                            <Char>Den regionale komité eller videnskabsetiske lægemiddelkomité, der har meddelt tilladelse til gennemførelse af et forskningsprojekt, fører tilsyn med, at et godkendt sundhedsvidenskabeligt forskningsprojekt udføres i overensstemmelse med denne lov.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Er tilladelsen meddelt af den nationale komité, udøves tilsynet af den nationale komité.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="idb3e89407-9385-4c91-8448-c32ae104acd4">
+                <Explicatus>33.</Explicatus>
+                <Aendring id="id4fff177a-3bbf-4d18-a913-3f6b08a61915">
+                  <AendringDefinition id="ida48f1a23-ba0c-4a8a-97b8-b66e656195a5">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 28, stk. 3,</Char>
+                        <Char> udgår », der ikke angår kliniske forsøg med lægemidler omfattet af lov om lægemidler,«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idc300f990-8449-433a-a09d-01385e4e2e36">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id99120bf4-7b16-4d84-9c13-846996edb891">
+                <Explicatus>34.</Explicatus>
+                <Aendring id="idbb7b6157-611b-487a-96de-352dc7de7623">
+                  <AendringDefinition id="id01db7922-8b93-453d-9bea-d7df80f794a2">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 30, stk. 1, 2. pkt.,</Char>
+                        <Char> affattes således:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="ide481bf86-e131-4ffe-a6a7-9d283ab8973f">
+                    <AendringNyTekst>
+                      <Stk id="id08ced866-4529-4372-9fe4-e4caa0e25d28">
+                        <Exitus>
+                          <Linea>
+                            <Char>Underretningspligten omfatter endvidere alvorlige hændelser.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id9850d475-d86a-48d0-b972-6972c563e505">
+                <Explicatus>35.</Explicatus>
+                <Aendring id="ideb7bb92f-a820-4ae5-90ae-c270920b0d24">
+                  <AendringDefinition id="ida9cb97bc-d5ad-4706-9dfc-c2af0a08893f">
+                    <Exitus>
+                      <Linea>
+                        <Char>I</Char>
+                        <Char formaChar="Bold">
+                        </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 30, stk. 2, 1. pkt.,</Char>
+                        <Char> ændres »alvorlige uventede bivirkninger« til: »alvorlige bivirkninger«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id386496ce-76bc-4792-b21e-b81b3e025326">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id2d09dd0f-c13a-4f00-a78c-470bd565543e">
+                <Explicatus>36.</Explicatus>
+                <Aendring id="id79e39d52-f422-47c4-a18e-8dcfee4df1f2">
+                  <AendringDefinition id="idfdabf9f8-4a40-4484-a065-812fb1637a3c">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 30, stk. 2, 2. pkt.,</Char>
+                        <Char> affattes således:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="iddcfe62c3-c032-4f8b-89d8-672270f7127a">
+                    <AendringNyTekst>
+                      <Stk id="ided49c315-457f-4b8f-88a1-77ed22301ba3">
+                        <Exitus>
+                          <Linea>
+                            <Char>Underretnings- og oplysningspligten omfatter endvidere alvorlige hændelser.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id0f258b02-85a6-45c7-9c10-2758e688cf30">
+                <Explicatus>37.</Explicatus>
+                <Aendring id="id46303ef1-afba-46ad-bf26-98f50d9416dc">
+                  <AendringDefinition id="idb0f557db-9d0a-4ca1-83f6-2b435246f1b4">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 32, stk. 1,</Char>
+                        <Char> indsættes efter »de regionale komiteer«: »og de videnskabsetiske lægemiddelkomiteer«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id6e2c6cd1-8cb0-43e5-9da7-fc6a103faff5">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id01327d1e-fcd4-429f-9b54-379f50c1930c">
+                <Explicatus>38.</Explicatus>
+                <Aendring id="idce1a0e15-7a1c-4784-9ed4-494f6936b169">
+                  <AendringDefinition id="ide7337094-8498-47d6-bfff-4d770a88f667">
+                    <Exitus>
+                      <Linea>
+                        <Char>I</Char>
+                        <Char formaChar="Bold">
+                        </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 34</Char>
+                        <Char> indsættes efter »de regionale komiteer«: », de videnskabsetiske lægemiddelkomiteer«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idd9dd121b-8bd5-4fd6-b70c-143e949d2047">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="idfcb49672-7cbf-4c26-aca4-c1259110e38c">
+                <Explicatus>39.</Explicatus>
+                <Aendring id="id447daa4b-4c48-471b-8a5b-363a64891b9f">
+                  <AendringDefinition id="id549f4e6d-0dd9-41f3-a53a-b8aca4f9e56a">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 41, stk. 1, nr. 4,</Char>
+                        <Char> udgår »eller«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id6de9290e-5f64-4c5a-98d4-3482220a01d8">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="ida8d9ca0c-05ff-4b17-aa6f-2317a1d6e2c9">
+                <Explicatus>40.</Explicatus>
+                <Aendring id="id95d994a3-e4c9-4827-b3ab-8f336e5025cd">
+                  <AendringDefinition id="id2ced8d22-86df-48cd-a1b1-69bc4ea5bdb9">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 41, stk. 1, nr. 5,</Char>
+                        <Char> ændres ».« til: », eller«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idacb9876b-70cf-4ce0-bf6b-df7db85831b1">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id4b270e6b-1227-4d60-8a40-cb3f65e341a3">
+                <Explicatus>41.</Explicatus>
+                <Aendring id="id8b17bf1f-4067-41fd-a284-1682db11450c">
+                  <AendringDefinition id="id6233c8b3-1ad2-45eb-860c-47f36e5cdb6f">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 41, stk. 1, </Char>
+                        <Char>indsættes som </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">nr. 6:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id02b6ae6b-8839-4eff-9897-88ed3f9d8178">
+                    <AendringNyTekst>
+                      <Exitus id="id8dcfba24-b1a1-491b-8b05-76bc54b01455">
+                        <Index>
+                          <Indentatio id="id0326709d-033e-4ccf-a47a-4aa5b6b2f6f7" formaInd="Nummer">
+                            <Explicatus>6)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>undlader at efterkomme et påbud efter § 42, stk. 2.</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="idbfd31fb6-0aba-4de6-b77e-4ac8c8b8e414">
+                <Explicatus>42.</Explicatus>
+                <Aendring id="id8f248b08-92ee-4ca6-8d52-b9bd26abca79">
+                  <AendringDefinition id="id6702b833-8044-4220-ba7e-bf4e240af0ae">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 42, stk. 1,</Char>
+                        <Char> udgår »og § 12«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idc4688ed0-be2d-4b89-a086-62537f8daa62">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="idf98c341e-85d7-4546-9d5f-6f52b80ef022">
+                <Explicatus>43.</Explicatus>
+                <Aendring id="idd65a88f2-9012-467c-91b7-d4cdbc161278">
+                  <AendringDefinition id="id52fe1fb7-5c6e-49f5-b302-e7ea6549d540">
+                    <Exitus>
+                      <Linea>
+                        <Char>I</Char>
+                        <Char formaChar="Bold">
+                        </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 42</Char>
+                        <Char> indsættes efter stk. 1 som nyt stykke:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id6dd25c13-2d4d-4058-8600-ea77ffdc4e8a">
+                    <AendringNyTekst>
+                      <Stk id="idc9f30ff4-d6e2-4168-88fa-f3fb498f0a6f">
+                        <Explicatus>Stk. 2.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>En videnskabsetisk komité, som bliver opmærksom på, at en forsøgsperson kan have et krav på godtgørelse i henhold til stk. 1, kan påbyde sponsor eller, hvis denne ikke har værneting i Danmark, den forsøgsansvarlige at informere de berørte personer.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Komiteen kan stille krav om form og indhold af informationen.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Komiteen kan endvidere sætte en frist for udsendelse af informationen.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+                <Rykningsklausul id="id406ad675-5c8f-4d64-98f8-10d69202c283">
+                  <Exitus>
+                    <Linea>
+                      <Char>Stk. 2-4 bliver herefter stk. 3-5.</Char>
+                    </Linea>
+                  </Exitus>
+                </Rykningsklausul>
+              </AendringsNummer>
+            </AendringCentreretParagraf>
+            <AendringCentreretParagraf id="id4441fc92-0a82-4f40-9ffa-e862db710524">
+              <Explicatus>§ 38.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>I lov om lægemidler, jf. lovbekendtgørelse nr. 506 af 20. april 2013, som ændret ved § 1 i lov nr. 518 af 26. maj 2014 og § 2 i lov nr. 542 af 29. april 2015, foretages følgende ændringer:</Char>
+                </Linea>
+              </Exitus>
+              <AendringsNummer id="iddee0d7e5-596d-491d-a1fc-f213ab2def0d">
+                <Explicatus>1.</Explicatus>
+                <Aendring id="id98655550-7ae1-4b2d-b309-1f554abde533">
+                  <AendringDefinition id="id9da7fd38-27e7-4499-935c-b920a8b4f391">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 89 </Char>
+                        <Char>indsættes efter stk. 2 som nyt stykke:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idd1db4ad7-7d08-4a5e-a0d2-6288528fdc7c">
+                    <AendringNyTekst>
+                      <Stk id="ide9aaabd3-dd2e-4b3f-8243-4fac124e96e9">
+                        <Explicatus>Stk. 3.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Et samtykke afgivet efter persondataloven giver sponsor og sponsors repræsentanter og investigator direkte adgang til at indhente oplysninger i patientjournaler m.v., herunder i elektroniske journaler, med henblik på at se oplysninger om forsøgspersonens helbredsforhold, som er nødvendige som led i gennemførelsen af forskningsprojektet, herunder kvalitetskontrol og monitorering, som disse er forpligtet til at udføre.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+                <Rykningsklausul id="id3f8573fd-553f-4052-8320-c0f8c38e1f2c">
+                  <Exitus>
+                    <Linea>
+                      <Char>Stk. 3 og 4 bliver herefter stk. 4 og 5.</Char>
+                    </Linea>
+                  </Exitus>
+                </Rykningsklausul>
+              </AendringsNummer>
+              <AendringsNummer id="id1f277b8f-c2e3-49f1-a6e9-8e1cefcc5365">
+                <Explicatus>2.</Explicatus>
+                <Aendring id="idd585a3f9-4ea0-4f92-ab7f-1e7c67e055f4">
+                  <AendringDefinition id="idc36d35c7-39e1-47a7-b5ef-34920bfcc6fc">
+                    <Exitus>
+                      <Linea>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 90, stk. 5,</Char>
+                        <Char> affattes således:</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id26a31a05-9d71-466c-b98f-669a247cec0b">
+                    <AendringNyTekst>
+                      <Stk id="idb3fe5f64-2318-4295-84ef-53298d82b62b">
+                        <Explicatus>Stk. 5.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Lægemiddelstyrelsen har direkte adgang til at indhente oplysninger i patientjournaler m.v., herunder elektroniske journaler, med henblik på at se oplysninger om forsøgspersoners helbredsforhold, som er nødvendige som led i Lægemiddelstyrelsens inspektion efter stk. 2-4.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </AendringNyTekst>
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+              <AendringsNummer id="id10faeb47-9e51-407b-992e-c2ac5ce3d03e">
+                <Explicatus>3.</Explicatus>
+                <Aendring id="idfc5ed87b-b681-478e-97b0-089156d4f5d1">
+                  <AendringDefinition id="iddc38be6d-d1a8-412d-9b48-871fd43726fd">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 104, stk. 1, nr. 4,</Char>
+                        <Char> indsættes efter »§ 89, stk. 2«: »eller 3«, og efter »§ 90, stk. 2, 2. pkt., stk. 3, 2. pkt.,« indsættes: »stk. 5«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id146dbe30-c7f7-4017-baf6-8723976c02d1">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+            </AendringCentreretParagraf>
+            <AendringCentreretParagraf id="idbd879c0b-c9c6-45a9-b62b-34df5945de14">
+              <Explicatus>§ 39.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>I sundhedsloven, jf. lovbekendtgørelse nr. 1202 af 14. november 2014, som ændret senest ved § 1 i lov nr. 383 af 27. april 2016, foretages følgende ændring:</Char>
+                </Linea>
+              </Exitus>
+              <AendringsNummer id="id975b05e9-af28-48e6-be8c-e5f1e105e10f">
+                <Explicatus>1.</Explicatus>
+                <Aendring id="id90f6145f-5150-447d-a2b6-30f48aa23996">
+                  <AendringDefinition id="id89f60d45-43eb-46fd-a692-fa6a7ecb78de">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 46, stk. 1,</Char>
+                        <Char> ændres »lov om et videnskabsetisk komitésystem og behandling af biomedicinske forskningsprojekter« til: »lov om videnskabsetisk behandling af sundhedsvidenskabelige forskningsprojekter og lov om kliniske forsøg med lægemidler«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="id45aba814-9790-4c85-bded-677923a07b42">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+            </AendringCentreretParagraf>
+            <AendringCentreretParagraf id="id6b0700e5-7a29-4e59-8aba-d88a508cb066">
+              <Explicatus>§ 40.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>I lov nr. 440 af 9. juni 2004 om Det Etiske Råd, som ændret ved § 16 i lov nr. 545 af 24. juni 2005, § 45 i lov nr. 593 af 14. juni 2011, § 2 i lov nr. 559 af 18. juni 2012 og § 2 i lov nr. 601 af 18. juni 2012, foretages følgende ændring:</Char>
+                </Linea>
+              </Exitus>
+              <AendringsNummer id="id433044c0-b5e6-435d-9817-f58b5cf04981">
+                <Explicatus>1.</Explicatus>
+                <Aendring id="id1b7d830f-1498-4b08-a5b9-8689f57824ed">
+                  <AendringDefinition id="idb6ac22cd-1e6a-4325-a67c-0da196b37f36">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 9, stk. 1,</Char>
+                        <Char> ændres »Den Nationale Videnskabsetiske Komité« til: »National Videnskabsetisk Komité«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="ide121e6d3-5a07-4b18-8f03-9955243b9fb5">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+            </AendringCentreretParagraf>
+            <AendringCentreretParagraf id="idd67eb8a9-024f-4a00-8017-e895b0099a92">
+              <Explicatus>§ 41.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>I lov om klage- og erstatningsadgang inden for sundhedsvæsenet, jf. lovbekendtgørelse nr. 1113 af 7. november 2011, som ændret senest ved § 18 i lov nr. 395 af 2. maj 2016, foretages følgende ændring:</Char>
+                </Linea>
+              </Exitus>
+              <AendringsNummer id="id60f6616d-0d11-4b9f-b7ac-9d707e54244f">
+                <Explicatus>1.</Explicatus>
+                <Aendring id="idc453f3b6-2c3a-40e1-9d1e-16a0febe30d0">
+                  <AendringDefinition id="id7e194e9a-6926-4ef9-869d-97c1b37dc0b3">
+                    <Exitus>
+                      <Linea>
+                        <Char>I </Char>
+                        <Char signiChar="AendringURN" formaChar="Italic">§ 19, stk. 2, 1. pkt.,</Char>
+                        <Char> indsættes efter »forsøg«: », herunder kliniske forsøg med lægemidler«.</Char>
+                      </Linea>
+                    </Exitus>
+                  </AendringDefinition>
+                  <AendringAktion id="idde2fc360-bef9-4188-80b2-37f1cd8579a6">
+                    <AendringNyTekst />
+                  </AendringAktion>
+                </Aendring>
+              </AendringsNummer>
+            </AendringCentreretParagraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id801e0b2e-4434-4a66-ab43-01e3a52d422c" localId="14">
+          <Explicatus>Kapitel 14</Explicatus>
+          <Rubrica id="idf690bfa0-1244-4b40-aa50-21a0a36ad5f3">
+            <Linea>
+              <Char>Færøerne og Grønland</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="ide931341e-189b-4682-941a-2782ec9cdc88" localId="42">
+              <Explicatus>§ 42.</Explicatus>
+              <Stk id="id15f7db34-b708-4b84-9aa2-484ac743b519">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="ide2c8cdeb-5ac9-4f36-95ce-8862564f5181">
+    <UnderskriftStedDato id="id6495dfd9-b2e3-4815-ba50-95f08c7a0347" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="idc37cd0e7-7128-4c5c-a5a9-34b8d531f613" />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,1050 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idaf57497c-fd49-42fa-9b91-989a079758e7" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id691ea0b3-7d39-49cb-8731-b3509f93c1cb">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150058030</AccessionNumber>
+    <DocumentId>BK001770</DocumentId>
+    <UniqueDocumentId>169966</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om apoteksvirksomhed og lov om tinglysning (Friere adgang til oprettelse m.v. af apoteksfilialer, veterinærafdelinger og apoteksudsalg, ændret procedure for Sundhedsstyrelsens meddelelse af apotekerbevilling og bidrag ved ansættelse af sygehusapotekere, ophævelse af apotekeres adgang til statsgaranti ved lånoptagelse m.v.)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-05-04</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-08</EndDate>
+    <Status>Valid</Status>
+    <Number>580</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LOV nr 628 af 08/06/2016 </KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 580 af 04/05/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20160062830</Ref_Accn>
+    <Ref_Af REFid="change_1">2016-06-08</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om ændring af lov om Udbetaling Danmark og forskellige andre love (Overførsel af opgaver fra Statens Administrations Finansservicecenter m.fl. til Udbetaling Danmark m.v.)</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Nick Hækkerup</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Ministeriet for Sundhed og Forebyggelse, j.nr. 1401990</JournalNumber>
+    <Ministry>Sundheds- og Ældreministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="idce662968-51a0-4cd8-962f-2dc5edf05928">
+    <Titel id="idcc6de991-6ee3-4ce2-bab9-bcae2978ffbf">
+      <Linea>
+        <Char>Lov om ændring af lov om apoteksvirksomhed og lov om tinglysning</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id6ab8c861-c566-4f91-a502-620b49c3ce5c">
+      <Linea>
+        <Char>(Friere adgang til oprettelse m.v. af apoteksfilialer, veterinærafdelinger og apoteksudsalg, ændret procedure for Sundhedsstyrelsens meddelelse af apotekerbevilling og bidrag ved ansættelse af sygehusapotekere, ophævelse af apotekeres adgang til statsgaranti ved lånoptagelse m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id890ccb7e-199e-4dbd-8654-c4d6f82f3f44">
+    <Hymne id="id586d58d2-1392-4f25-8249-c2e0aeb22650">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id90a6ff15-bb79-4a2d-88c3-fcc0b3401a25">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om apoteksvirksomhed, jf. lovbekendtgørelse nr. 1040 af 3. september 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="ide1f0a6d9-cd58-499a-ab36-f92de830e159">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id82eff6ac-c443-4f8f-b12b-ee6e1abb26a2">
+          <AendringDefinition id="id439767bf-18fe-446d-91cc-c93027e42b89">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4, stk. 1,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfadf12c8-3c04-42a4-b421-28c238f7925c" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Sundhedsstyrelsen træffer bestemmelse om oprettelse, nedlæggelse og flytning af apoteker, herunder apoteker, der alene driver apoteksvirksomhed online, under inddragelse af hensyn til, at der bør opnås en rimelig let og sikkerhedsmæssigt forsvarlig adgang til lægemidler til rimelige priser og samfundsmæssige omkostninger, og at det enkelte apotek bør få mulighed for at opnå et rimelig tilfredsstillende driftsøkonomisk resultat.</Char>
+                </Linea>
+              </Exitus>
+              <Stk id="idc9ebf29a-4302-4602-888d-d87532bf1678">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Apotekeren skal i forbindelse med oprettelsen underrette Sundhedsstyrelsen om beliggenheden af lokaler, hvorfra der drives apoteksvirksomhed, inden for en af Sundhedsstyrelsen fastsat frist.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idfdf2d6c9-c772-4cfa-ae96-efa9653c502c">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2-4 bliver herefter stk. 3-5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id60ec8d13-cfef-43b7-b9eb-78de866939ce">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id99cbef86-0ebb-4427-a961-ce8e7e7f06bc">
+          <AendringDefinition id="id8242cacc-666e-472d-bcc2-7bbaeb5f26d4">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§§ 5-7 b</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id18a46f65-a9f4-4a95-ab95-e51cb84b9a4b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id5728f107-5422-4eeb-9bdf-635b15f1330c" localId="1">
+                <Explicatus>§ 5.</Explicatus>
+                <Stk id="idaa7fe3e9-dbf5-406f-b925-714a0c37996e">
+                  <Exitus>
+                    <Linea>
+                      <Char>En apoteker kan inden for en radius af 75 km fra apoteket frit oprette, flytte eller nedlægge apoteksfilialer og veterinærafdelinger, jf. dog stk. 2 og 3 og § 20 a, stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idc320d088-dce7-441c-92a5-10fe35ded968">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En apoteker kan højst drive otte receptekspederende enheder, idet veterinærafdelinger af apoteket ikke indgår i opgørelsen heraf.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id420f3c51-2f2b-4b7a-ae2f-ff9c5b748a45">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En apoteker, der nedlægger en apoteksfilial ved salg, må kun sælge apoteksfilialens indretning, inventar og varelager til en pris, der ikke overstiger den bogførte værdi heraf.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id141da355-665d-4ab1-831c-d484d2583b5b">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Stk. 1 finder ikke anvendelse for apotekere, der alene driver apoteksvirksomhed online.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id726d5a2d-e63e-4af2-8719-78c2dbebe328">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Sundhedsstyrelsen kan fastsætte regler om, at apotekeren skal underrette Sundhedsstyrelsen om oprettelse, flytning og nedlæggelse af de i stk. 1 nævnte enheder.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="idb9a10955-d3f3-4aa6-8636-52317bbfd279" localId="2">
+                <Explicatus>§ 6.</Explicatus>
+                <Stk id="id67ccc2f7-ba0b-49f8-80cf-7ddfa18c5a82">
+                  <Exitus>
+                    <Linea>
+                      <Char>En apoteker kan frit oprette, flytte og nedlægge apoteksudsalg, håndkøbsudsalg og medicinudleveringssteder, idet apoteksudsalg dog skal placeres inden for en radius af 75 km fra apoteket, jf. dog stk. 2 og § 20 a, stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id719f1d9c-35cc-4490-ad78-3c717ed5b831">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En apoteker, der nedlægger et apoteksudsalg ved salg, må kun sælge apoteksudsalgets indretning, inventar og varelager til en pris, der ikke overstiger den bogførte værdi heraf.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="ide762faa1-0edf-4486-b712-118e163a3318">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Stk. 1 finder ikke anvendelse for apotekere, der alene driver apoteksvirksomhed online.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id4c73f4a6-8788-4e16-bc5f-ecfb698072d3">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Sundhedsstyrelsen kan fastsætte regler om, at apotekeren skal underrette Sundhedsstyrelsen om oprettelse, flytning og nedlæggelse af de i stk. 1 nævnte enheder.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="idac571b4b-0c81-484f-a493-d31a948dc503" localId="3">
+                <Explicatus>§ 7.</Explicatus>
+                <Stk id="ida8cae3b7-f87b-4481-b6b9-ff36c1814f09">
+                  <Exitus>
+                    <Linea>
+                      <Char>Sundhedsstyrelsen kan give en apoteker påbud om at oprette eller opretholde en apoteksfilial eller et apoteksudsalg, hvis særlige lægemiddelforsyningsmæssige hensyn taler for det, mod at yde apotekeren økonomisk støtte hertil efter regler fastsat i medfør af § 53, stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id9fdb2d43-27a2-4646-a8d9-fc98f648c0ce">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Sundhedsstyrelsen kan give en apoteker påbud om at oprette, opretholde eller flytte et medicinudleveringssted, hvis særlige lægemiddelforsyningsmæssige hensyn taler for det.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id0cbe1251-4ab3-4147-813b-560553959d27">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Sundhedsstyrelsen kan give en apoteker påbud om varetagelse af vagttjeneste, jf. § 40, hvis helt særlige lægemiddelforsyningsmæssige hensyn taler for det, mod at yde apotekeren økonomisk støtte hertil efter regler fastsat i medfør af § 49.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id3603bf73-abe2-43b8-9696-0e0fcec22337">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Sundhedsstyrelsen kan give en apoteker påbud om nedlæggelse af en apoteksfilial, et apoteksudsalg, et håndkøbsudsalg og et medicinudleveringssted, hvis enheden ikke indrettes og drives i overensstemmelse med de regler, der er udstedt i medfør af §§ 38 eller 43.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idd60e0f38-88c5-44f0-a9c0-aba12f221bd9">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Sundhedsstyrelsen kan give en apoteker påbud om straks at nedlægge et håndkøbsudsalg, hvis det forretningssted, hvor håndkøbsudsalget er beliggende, har eller opnår tilladelse til at forhandle lægemidler efter § 39, stk. 1, i lov om lægemidler.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id8ca6689d-ccf8-4df4-93b4-cf92d96700e5">
+                  <Explicatus>Stk. 6.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Sundhedsstyrelsen kan i forbindelse med en ledig apotekerbevilling nedlægge en apoteksfilial og et apoteksudsalg, hvis enheden er oprettet før den 1. juli 2015 eller på baggrund af et påbud meddelt efter stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id25ee7db3-85c3-4dab-8c09-9f74c3f08da5">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id68d10304-5ae7-47e0-9941-7bda78350427">
+          <AendringDefinition id="id2b14ced9-25c5-4295-b437-0fe51019cf85">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 10</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7653b578-3e6e-4e69-9c07-11315167c297" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf034a990-1934-4ac5-b87c-973fc01c70c2">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="ide64e9301-faf1-4346-b25a-7e4cd1141863">
+          <AendringDefinition id="id88152139-36bf-4c2a-a86b-0655cfb71f90">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 11, stk. 1,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">nr. 15:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id13f9860f-db40-4cbc-a1ed-a95552769591">
+            <AendringNyTekst>
+              <Exitus id="id7506e457-1e5d-4bb8-aafd-bfc097c9fb77">
+                <Index>
+                  <Indentatio id="idb16cbd0f-768b-423d-9f81-2c2fa25a7160" formaInd="Nummer">
+                    <Explicatus>15)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>At yde medicinsamtale til personer med kronisk sygdom efter nærmere regler fastsat af ministeren for sundhed og forebyggelse.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide793ccc3-763a-424d-ade3-46ccc496e1c7">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id2c09d33a-57f7-4e45-9890-0abc2d1e035f">
+          <AendringDefinition id="id5f7c3e1b-1cec-49f9-9c3e-bd152aff4988">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 1, nr. 4,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7730288a-4716-4d6f-9539-1b50899cf192" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus id="idfcd642be-7ed8-497d-8518-749af150f98c">
+                <Index>
+                  <Indentatio id="idb1f3d4ce-90eb-499a-bacb-a7cf002390f6" formaInd="Nummer">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Fremstilling og forhandling til forbrugerne af andre varer end lægemidler, som i henhold til regler fastsat af Sundhedsstyrelsen i medfør af stk. 4 er varer, som naturligt og hensigtsmæssigt knytter sig til et apoteks virksomhed.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idec764efd-9283-42b9-9e6b-e8f375f98306">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id238eb531-de28-497a-bc85-b34ab121c757">
+          <AendringDefinition id="ide68d2d15-45c7-4f36-ae9a-d1bd41aed3bb">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12</Char>
+                <Char> indsættes efter stk. 3 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9379c17d-6197-46ac-93fa-f12f616208e4" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id3b4bc96c-5c9c-41c0-99df-3b3848f6ef08">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen kan fastsætte regler om de af stk. 1, nr. 4, omfattede varer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id0313f396-6c42-4492-8e91-7f0e42bd3dd1">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 4 bliver herefter stk. 5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id368aa7c4-84ef-4f9a-8a22-0f2069fa9c5d">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id4959b6f7-9144-491f-9931-54ecdfc1fb8d">
+          <AendringDefinition id="ida33add3a-44c3-4a92-817b-31890d1c27ad">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id49f5cc2a-f9b1-4560-9318-8fe4ac59e2a3" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Apotekerbevillinger opslås ledige af Sundhedsstyrelsen på styrelsens hjemmeside med en ansøgningsfrist på mindst 4 uger og rettes mod ansøgere til apotekerbevilling efter § 15, stk. 1 og 2.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Apotekerbevillinger opslås med apotek og tilknyttede enheder, idet en tiltrædende apoteker dog kan vælge ikke at overtage apoteksfilialer og apoteksudsalg, som er oprettet i medfør af §§ 5 og 6 eller opretholdt, uden at Sundhedsstyrelsen har givet påbud herom i medfør af § 7, stk. 1.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idd12297a1-a931-4f9e-8efe-e1a496a66b3f">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="idb3ef7213-6074-46de-a397-948ff565c583">
+          <AendringDefinition id="id6f45386d-d65c-4f2e-85b8-a3692c9763ef">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18, stk. 3,</Char>
+                <Char> ændres »§ 4, stk. 3, nr. 3,« til: »§ 4, stk. 4, nr. 3,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8f9bba85-ce24-4218-b08b-7a355b9b4811">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7a514dbd-2363-4079-a2ad-babe4e8a2119">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="id489eb56c-1c97-4cee-af59-9d6dd9ad5f38">
+          <AendringDefinition id="ide0d85080-28a4-4458-8fe3-3c4746b792d5">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 19, stk. 1,</Char>
+                <Char> indsættes efter »apoteket«: »med tilknyttede enheder«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida79e6e27-943c-414a-b838-184c9e82bd48" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id59810dee-59eb-42f9-98f2-7602e100ed9b">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="id9b38902c-bb32-4a83-a303-07cc50f0fcb9">
+          <AendringDefinition id="id0e9dce9f-55cd-4a55-8c5e-052be3cd4c1f">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 20, stk. 1, 2. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida4ef7a8a-8143-48bd-b545-156da211a6c4" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id026710cb-93f0-41e6-92a4-9f8381d40b29">
+                <Exitus>
+                  <Linea>
+                    <Char>Inden apotekerbevilling meddeles efter § 15, stk. 1, rådfører Sundhedsstyrelsen sig med de konsulenter, der er nævnt i § 67, og Sundhedsstyrelsen udvælger på den baggrund et antal egnede ansøgere og tilbyder disse en samtale som et led i sagsbehandlingen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id65fa0740-b0c3-4607-97e7-be757ef6c079">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="idff4633f9-0bd4-44dc-b84e-f255ae79b958">
+          <AendringDefinition id="id9a599276-16bb-45d8-9beb-8c6c3ffba67b">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 20 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0fad5fd5-6ade-47d3-9ab8-3bcabc816677" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="ide9f8778c-3d0c-44e9-b2a5-58d00f532489" localId="4">
+                <Explicatus>§ 20 a.</Explicatus>
+                <Stk id="id2bc363fb-8a2b-42ff-9227-a2550419e6c5">
+                  <Exitus>
+                    <Linea>
+                      <Char>En apoteker, der har oprettet apoteksfilialer og apoteksudsalg i medfør af §§ 5 og 6, eller har opretholdt sådanne enheder, uden at Sundhedsstyrelsen har givet påbud herom i medfør af § 7, stk. 1, skal afhænde disse enheder, når apotekerens bevilling bortfalder, jf. § 22, hvis den tiltrædende apoteker ikke ønsker at overtage disse ved apoteksovertagelse.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Sker afhændelsen ved salg af de i 1. pkt. nævnte enheder, må apotekeren kun sælge den eller de pågældende enheders indretning, inventar og varelager til en pris, der ikke overstiger den bogførte værdi heraf.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id434d6d69-fc32-44c1-bd4c-da88eedaaa32">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for sundhed og forebyggelse fastsætter regler om, at Sundhedsstyrelsen uanset stk. 1 på den afgående apotekers vegne og for dennes regning kan afhænde de i stk. 1 nævnte apoteksenheder, hvis Sundhedsstyrelsen midlertidigt har overtaget driften i henhold til § 19, stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id06163a8c-0936-4df5-af35-661df86fbda9">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="id9bf21ecc-6ff9-47c4-ad9b-24bdd1db5067">
+          <AendringDefinition id="id8519d925-69ae-4623-a5f8-44cd66001a8c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 26</Char>
+                <Char> ændres »§ 6« til: »§ 4, stk. 2,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id614f97ac-9ff0-4866-a987-d084b3b9d0a7" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5f567821-5688-4a7a-a5dc-242c6589190f">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="ide3306e07-7a1d-4ae3-a40e-2a919d85adc4">
+          <AendringDefinition id="id68e17422-11bd-429f-a75b-28ac6dfa79b7">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 29, stk. 1,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idaf2516a4-ff5c-409d-856e-d98f400485d7" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Ved apoteksovertagelse er den tiltrædende apoteker forpligtet til at overtage indretningen, inventaret og varelageret på apoteket og dets enheder, herunder apoteksfilialer og apoteksudsalg, som ikke er oprettet i medfør af §§ 5 og 6 eller opretholdt på baggrund af et påbud givet af Sundhedsstyrelsen i medfør af § 7, stk. 1, i det omfang indretningen, inventaret og varebeholdningen er i brugbar og tidssvarende stand og er passende i forhold til den eller de pågældende apoteksenheders behov.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Ved apoteksovertagelse er den tiltrædende apoteker endvidere berettiget til at overtage indretningen, inventaret og varelageret på apoteksfilialer og apoteksudsalg, som er oprettet i medfør af §§ 5 og 6 eller opretholdt, uden at Sundhedsstyrelsen har givet påbud herom i medfør af § 7, stk. 1.</Char>
+                </Linea>
+              </Exitus>
+              <Stk id="idd5844458-e9dc-4afe-b681-3b8a6c2a74ef">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den afgående apoteker må kun sælge apotekets og de i stk. 1 nævnte enheders indretning, inventar og varelager til en pris, der ikke overstiger den bogførte værdi heraf.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I perioden fra den afgående apotekers meddelelse til Sundhedsstyrelsen om fritagelse for apotekerbevillingen, jf. § 22, stk. 2, til den tiltrædende apotekers stillingtagen til, om samtlige apoteksenheder ønskes overtaget, jf. stk. 1, 2. pkt., kan den afgående apoteker ikke afhænde de apoteksenheder, der er oprettet i medfør af §§ 5 og 6.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idadcaf2a6-7f9b-46e5-8259-1aada213fca7">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2 bliver herefter stk. 3.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id51839f22-7037-4365-a81d-f30ee357ea8e">
+        <Explicatus>14.</Explicatus>
+        <Aendring id="ided436dd3-716c-4879-abb2-7e0f34957f49">
+          <AendringDefinition id="id7e2b13d9-149b-4fd4-9980-e0cd43d66844">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 29, stk. 2,</Char>
+                <Char> der bliver stk. 3, ændres »varebeholdning« til: »varelager«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idaac73db3-69cc-4f77-af05-4279c20557c5" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id309a1150-1f05-43f2-9df3-b9460331a709">
+        <Explicatus>15.</Explicatus>
+        <Aendring id="id6884d998-2b7c-4584-a483-bda4f5131aa7">
+          <AendringDefinition id="id0d383f0e-6e41-4574-b9fc-244242056a64">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 40</Char>
+                <Char> indsættes efter »apotekers åbningstid«: »og etablering af vagttjeneste«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id227f156c-759f-4f51-8c91-93fc2ac65a05" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8d358622-6609-4bab-a9bc-1604804df333">
+        <Explicatus>16.</Explicatus>
+        <Aendring id="id865f9546-382d-49b9-8e0a-fda7f732d5aa">
+          <AendringDefinition id="idebc15dee-869a-43ce-8d24-9e790272e643">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 41 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8e3542fb-dc83-4c05-b163-84b78c78e8eb" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="idd06f53b4-5109-4904-a789-23196ba38b7f" localId="5">
+                <Explicatus>§ 41 a.</Explicatus>
+                <Stk id="idd815d66b-c70c-46f2-9f15-b6e6294a785d">
+                  <Exitus>
+                    <Linea>
+                      <Char>Apotekeren skal offentliggøre de oplysninger om sin virksomhed, der er relevante i forbindelse med borgernes valg af apotek.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idf802157b-792a-49d8-8a93-d172d90b47c7">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Sundhedsstyrelsen fastsætter nærmere regler om offentliggørelsen af oplysninger om apoteksvirksomhed efter stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id3963ff1c-e8af-43db-ae93-2f3dfadc94ce">
+        <Explicatus>17.</Explicatus>
+        <Aendring id="ide660c45f-f72c-4483-bc5c-8537326c7b73">
+          <AendringDefinition id="idfcde5793-a209-434e-a2fb-158f6dfba849">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 43 a, stk. 1,</Char>
+                <Char> indsættes efter »online til brugerne,«: »og den apoteker, der har opnået bevilling til alene at drive apoteksvirksomhed online,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id46124e8f-ca8b-4544-b30c-641e26549bc2" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id373547da-5100-4f93-9cb1-e34852d37f7e">
+        <Explicatus>18.</Explicatus>
+        <Aendring id="idbf495d2d-f387-420e-8cd3-cc97018b8713">
+          <AendringDefinition id="idb9c80228-3cd3-43ef-a0e0-4609b9e9d9c4">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 43 a, stk. 2,</Char>
+                <Char> ændres »har givet meddelelse efter« til: »er nævnt i«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id243310ba-179e-4a9a-bdcb-adcbb0c73ab6" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id0b316c80-ba53-480a-86fa-32f84e83b505">
+        <Explicatus>19.</Explicatus>
+        <Aendring id="idd9f4c94c-d7a9-4122-8c04-bbd19a9530b1">
+          <AendringDefinition id="idd7a29b52-c943-4bf9-a194-d748336a2b28">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 44, stk. 3,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id73b9065c-ab7c-462c-8b77-07e485a484e8" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="idc5bd14b9-1844-44a0-b813-fe42e6989bda">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Fastsættelse af regler efter stk. 1 og 2 sker efter høring af organisationer, der repræsenterer henholdsvis regionsrådene, apotekere, forbrugere, konkurrencemyndigheder, lægemiddelindustrien og erhvervslivet i øvrigt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idbdbc3968-1f54-45ca-a685-49e64cd6ac94">
+        <Explicatus>20.</Explicatus>
+        <Aendring id="idcb9fd785-074e-4772-a3e2-08c0339d124e">
+          <AendringDefinition id="idb195f369-4b7c-4b5a-8ad5-ceeaf9c8f95e">
+            <Exitus>
+              <Linea>
+                <Char>Overskriften til </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">kapitel 10</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idce628c92-5bab-4f7b-bb9f-8724f6edbc3b" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <Kapitel id="id6eef514a-1fa8-4839-9ef2-c8a3200a0c9c" localId="1">
+                <Explicatus>Kapitel 10</Explicatus>
+                <Rubrica id="id9b4da962-79d3-46b1-a2fa-10c10f380075">
+                  <Linea>
+                    <Char>Udligning, afgift og tilskud</Char>
+                  </Linea>
+                </Rubrica>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id60438d8c-04d2-4fb7-9134-eff37a24ce98">
+        <Explicatus>21.</Explicatus>
+        <Aendring id="idcefcc7bf-e2e0-45ab-a351-eda0ca88e847">
+          <AendringDefinition id="id1bccd3f4-ece5-42d7-a499-20460155e678">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 49, 1. pkt.,</Char>
+                <Char> udgår »efter forhandling med Danmarks Apotekerforening«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id89e29f48-9568-4ab5-bbe2-9f3b422695ce" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7d201075-1b76-4fb4-ba97-d1527e3c658f">
+        <Explicatus>22.</Explicatus>
+        <Aendring id="idea4383c4-d2d6-42ad-8571-af677574222a">
+          <AendringDefinition id="id89d257ca-af48-47ba-b4c2-b02a08d824d5">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 51, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc0ee3b7d-8d5a-45e7-b7f2-1c7e45f7f4d8" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id3bc3b52b-d351-471b-b6e8-59b4a32ce9e3">
+                <Exitus>
+                  <Linea>
+                    <Char>Når ganske særlige forhold taler derfor, kan Sundhedsstyrelsen bevilge en apoteker afgiftslempelse eller tilskud for 1 år ad gangen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idd08cf17a-c039-4d8e-b3e2-02b85723c6cb">
+        <Explicatus>23.</Explicatus>
+        <Aendring id="idce3cfbec-2f93-43dc-8de9-cfc600658436">
+          <AendringDefinition id="id45cdb27a-f0aa-4b2c-a677-de7a5cbc6df0">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 59, stk. 1,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd1322aeb-4f63-497c-a667-8256eb757070" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idc3b2d7d0-78ca-4620-8d6e-ceda9d829826">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2 bliver herefter stk. 1.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id6d427ffd-fde2-4d6c-a9fe-bdd2fd7f16ee">
+        <Explicatus>24.</Explicatus>
+        <Aendring id="ide7175bb4-0ff4-43e8-811f-94e699ec2f95">
+          <AendringDefinition id="id6d7de847-e07f-4df2-900a-5ded2759fff7">
+            <Exitus>
+              <Linea>
+                <Char>Overskriften til </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">kapitel 13</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id98cca2ec-97a1-453e-9bf2-f6099836fb53" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Kapitel id="id3277fdbf-74a1-40c7-9cd9-a0d171709335" localId="2">
+                <Explicatus>Kapitel 13</Explicatus>
+                <Rubrica id="id9c12229b-f0e6-40f3-ae44-1b5f2da15599">
+                  <Linea>
+                    <Char>Tilsyn, delegation af beføjelser, klage, konsulenter m.v.</Char>
+                  </Linea>
+                </Rubrica>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7a8114e0-0f4f-469e-89ea-0ef094dc556f">
+        <Explicatus>25.</Explicatus>
+        <Aendring id="id774bcc75-6dcd-46e6-8b5b-67a3c0d0f47f">
+          <AendringDefinition id="id39acbf90-c423-4134-9caf-ab2b2ad68061">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 66</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb463a737-d07e-410e-b399-32b6dad002f0" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id6f4101f4-c138-43dc-9660-8164026ca82c">
+        <Explicatus>26.</Explicatus>
+        <Aendring id="idfb60c744-c344-41ee-9c32-a591074de2c7">
+          <AendringDefinition id="id9bf4e971-f59f-4928-a319-3a934dfcc9eb">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 67, stk. 1, 2. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3c61ea83-7c19-46f9-936e-f74871056470" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id24303883-605c-46c7-b9ab-a249aa8b6b24">
+                <Exitus>
+                  <Linea>
+                    <Char>Konsulenterne beskikkes af ministeren for sundhed og forebyggelse efter indstilling fra organisationer, der repræsenterer henholdsvis farmaceuter, farmakonomer, apotekere, patienter og forbrugere, for 3 år ad gangen med mulighed for genbeskikkelse én gang.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id60b775ca-45b9-4ee0-8cae-b696385f6544">
+        <Explicatus>27.</Explicatus>
+        <Aendring id="ideefa8fe3-e005-4e91-848a-83b5e13c69b3">
+          <AendringDefinition id="id596ae029-4732-4b79-b83c-75eb30479a81">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 67, stk. 2,</Char>
+                <Char> ændres »sygehusapotekere« til: »private sygehusapotekere«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id036adf85-0b8a-47a6-8e17-eaf6785eb01c" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id109b953e-b204-408d-a70a-369bf54cd088">
+        <Explicatus>28.</Explicatus>
+        <Aendring id="idb2d6fdff-e5d3-455d-8d03-a69ede166b95">
+          <AendringDefinition id="idba5e3784-f303-41e7-ad1f-4cbeadea016f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 69, stk. 1, nr. 5,</Char>
+                <Char> udgår »§ 66 og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide588a39b-2613-4fa5-95b3-4fa928b3a607" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id16884cae-9d05-417f-9577-a89299abab8e">
+        <Explicatus>29.</Explicatus>
+        <Aendring id="idb8cb33ed-4fe2-4f3b-bee8-52c92b4da848">
+          <AendringDefinition id="id89440129-bb55-42e8-9177-51296f5bb26e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 70</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 6-8:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd39fd033-8714-4427-9816-bc0925cd472d" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="ide286270c-dfaa-4061-b22b-4bae2adf4f6c">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Har den afgående apoteker oprettet apoteksfilialen efter den 1. juli 2015, finder stk. 1, 2 og 4 ikke anvendelse på tab, der relaterer sig til nedlæggelse eller flytning af apoteksfilialen, medmindre apoteksfilialen er oprettet eller opretholdt på baggrund af et påbud fra Sundhedsstyrelsen efter § 7, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7d242396-e420-4352-97bb-6beb16f54fcb">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Har den afgående apoteker oprettet apoteksudsalget efter den 1. juli 2015, finder stk. 1 ikke anvendelse på tab, der relaterer sig til nedlæggelse eller flytning af apoteksudsalget, medmindre apoteksudsalget er oprettet eller opretholdt på baggrund af et påbud fra Sundhedsstyrelsen efter § 7, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf47aadb3-35a9-4d84-81cf-1f8965c656ae">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for sundhed og forebyggelse fastsætter regler om Sundhedsstyrelsens fastsættelse af erstatning efter stk. 1 og 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5c41b6d8-9fb7-42bd-aa97-67c2dc24ac4a">
+        <Explicatus>30.</Explicatus>
+        <Aendring id="id95202e97-8ad6-453b-8ebe-f91f88b5a0c8">
+          <AendringDefinition id="ida9c4f1e5-bbf3-44a9-823a-80661a313cc7">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 71</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7096a1af-314b-42e8-9e33-8c8c30200d88" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="iddd270cae-6d01-4dd5-9b7e-8b291a145ce7">
+        <Explicatus>31.</Explicatus>
+        <Aendring id="id4a69b2b3-16b8-4af4-83c4-97d4b034d984">
+          <AendringDefinition id="id1276c2af-64e4-4cd2-876c-58166bd3bc25">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 72, stk. 1, nr. 1,</Char>
+                <Char> affates således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4fe6792f-1377-491b-a271-1796cd726e44" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <Exitus id="idd9db7488-9e97-4371-8dd7-99340c4abdfe">
+                <Index>
+                  <Indentatio id="id6d51524b-a70a-42b4-b1cc-4227d26bc2c2" formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>overtræder §§ 1-3, § 3 a, stk. 1, § 5, stk. 3, § 6, stk. 2, § 11, § 12, stk. 1, nr. 1, 2. pkt., og stk. 2, § 12 a, stk. 1-4, § 13, § 14, § 20 a, stk. 1, § 29, stk. 2, § 31, stk. 1 og 2 og stk. 3, 1. pkt., § 41, stk. 1 og 2, § 41 a, stk. 1, § 43 a, stk. 1, § 55, stk. 1, § 56, § 56 a, stk. 1 og 2, § 61 a, stk. 1, § 61 b, § 61 c eller § 61 e, stk. 1,</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idef30f71a-9576-41e4-84da-c84de9231869">
+        <Explicatus>32.</Explicatus>
+        <Aendring id="id52e21be3-b47d-472b-b42e-d5bb347f1799">
+          <AendringDefinition id="id243e0786-837b-402e-8486-0a67d23d33f1">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 72, stk. 1, nr. 2,</Char>
+                <Char> ændres »§ 4, stk. 1, § 7, stk. 1 og 3, § 7 a, stk. 1, 2. pkt., og stk. 2, § 7 b, stk. 1, 2. pkt., og stk. 2,« til: »§ 4, stk. 2, § 7, stk. 1-5,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id46f970a9-d3dd-4d59-b5df-7407d203ba3f" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id0819e081-78fe-492c-b9c2-4d67968dd91f">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om tinglysning, jf. lovbekendtgørelse nr. 1075 af 30. september 2014, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id738e0132-cda0-49d9-9291-311ea7b85f3a">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idd528dfc9-982b-48f2-bca3-933f0d138190">
+          <AendringDefinition id="id89563039-9f1e-4db1-8af1-8016408b383b">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 47 c, stk. 4, nr. 3,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id84dad6e8-9596-4e00-9b95-3b4e7f971b79">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id94307cf4-0914-48aa-8d60-1d22edd50534">
+          <Exitus>
+            <Linea>
+              <Char>Nr. 4-6 bliver herefter nr. 3-5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id6abb3504-98a5-43b6-95d7-ffae102e57d7">
+      <Explicatus>§ 3</Explicatus>
+      <Stk id="idbe19fa3a-8258-48ae-860d-b6526c20eff4">
+        <Explicatus>Stk. 1. </Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="ide10d1561-ac58-4618-98a3-1e479969004d">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 4, træder i kraft den 1. januar 2016.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id9b6cc9cd-9008-43b8-87ae-104016b7d5cd">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>For lån ydet inden lovens ikrafttræden finder de hidtil gældende regler og vilkår anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id030a3894-a259-4184-a405-9352d39e1ea9">
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Personer, som inden den 1. juli 2015 indgiver ansøgning om bevilling efter § 15, stk. 1 eller 2, i lov om apoteksvirksomhed, og som den 1. juli 2015 eller senere meddeles bevilling, vil kunne ansøge om garanti for lån til overtagelse eller etablering af apotek, apoteksfilial og apoteksudsalg.</Char>
+          </Linea>
+          <Linea>
+            <Char>For sådanne lån finder de hidtil gældende regler og vilkår anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="idcb9fa29c-e962-4a2c-8b65-bd46e2ed0d17">
+      <Explicatus>§ 4</Explicatus>
+      <Stk id="iddd229367-3683-4f3b-bdd0-9a8ccefa5ed4">
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idb9f85a73-11a9-4674-817f-8ab904061495">
+    <UnderskriftStedDato id="idb9f85a73-11a9-4674-817f-8ab904061495" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="idb9f85a73-11a9-4674-817f-8ab904061495" />
+  </UnderskriftGruppe>
+</Dokument>

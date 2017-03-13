@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id95ec79b8-86d8-49d4-a394-713bf8360907" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id1ef80c6c-9919-4dbf-a89e-981c937fb1d4">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150157630</AccessionNumber>
+    <DocumentId>CG000100</DocumentId>
+    <UniqueDocumentId>176322</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om social service (Målrettet rådgivning til voksne, der er i risiko for radikalisering, eller som ønsker at forlade ekstremistiske miljøer)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-12-15</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-11-02</EndDate>
+    <Status>Historic</Status>
+    <Number>1576</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1270 af 24/10/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1576 af 15/12/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2016-10-31</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Inger Støjberg</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Udlændinge-, Integrations- og Boligmin., j.nr. 2015-7462</JournalNumber>
+    <Ministry>Udlændinge-, Integrations- og Boligministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id494df837-f4da-4294-865f-ae2e6d0f0dc0">
+    <Titel id="idfbe2acd5-63ab-437e-bb03-504688f1ad78">
+      <Linea>
+        <Char>Lov om ændring af lov om social service</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id0718f452-e0ee-4dbe-87c6-c5e1a8072123">
+      <Linea>
+        <Char>(Målrettet rådgivning til voksne, der er i risiko for radikalisering, eller som ønsker at forlade ekstremistiske miljøer)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id9c0706ae-17df-4960-861d-b5bf8b96ba43">
+    <Hymne id="id464e0ee6-383b-4125-886c-13528115d9a1">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="idacac9c2c-526d-4bac-9453-3628ba3e9ef7">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om social service, jf. lovbekendtgørelse nr. 1284 af 17. november 2015, som ændret ved § 1 i lov nr. 495 af 21. maj 2013 og § 1 i lov nr. 722 af 25. juni 2014, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id2e923837-9b02-429e-94cf-34b40b094217">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="ida1d20ec2-f049-4591-a279-a70407c1e613">
+          <AendringDefinition id="id4a503afb-6fff-4c75-8890-e6dacaaa9990">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 12 a indsættes i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">kapitel 3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idee1eb512-7fd8-493a-8ee3-69f9c87983d4" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <ParagrafGruppe>
+                <Rubrica id="id9b352578-ab72-4891-8964-53081531f809">
+                  <Linea>
+                    <Char>Voksne i risiko for radikalisering og ekstremisme</Char>
+                  </Linea>
+                </Rubrica>
+              </ParagrafGruppe>
+              <Paragraf id="id4f56cbd6-f1c1-42ca-814e-15670f76a78f" localId="1">
+                <Explicatus>§ 12 b.</Explicatus>
+                <Stk id="id399955de-e20e-4e82-ad29-41f3b969acab">
+                  <Exitus>
+                    <Linea>
+                      <Char>Kommunalbestyrelsen skal sørge for, at personer over 18 år har mulighed for at få gratis, målrettet rådgivning i henhold til § 10, hvis de henvender sig, fordi de er i risiko for at blive radikaliserede eller de ønsker hjælp til at forlade et ekstremistisk miljø.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Tilbuddet om rådgivning kan omfatte opsøgende arbejde.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id6da65d90-1c1b-4306-9bf8-c0ee14109403">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Kommunalbestyrelsen kan som led i tilrettelæggelse af den målrettede rådgivning efter stk. 1 etablere kontaktperson- eller mentorordninger.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id595b532c-0a12-4e9e-b981-4c286f257b2b">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>I forbindelse med den målrettede rådgivning efter stk. 1 skal kommunalbestyrelsen overveje, om den pågældende har behov for yderligere støtte efter denne lov eller anden lovgivning.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id650b67a3-1658-4b25-8a94-181c386745b5">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Rådgivningen efter stk. 1 skal ske i samarbejde med borgeren.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="idb2fc8336-e902-4720-8d63-456662a0c258">
+      <Explicatus>§ 2</Explicatus>
+      <Stk id="ide79e489a-226d-42f9-bd97-47855fd7f6fd">
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2016.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id44ee3936-b5ac-4cd9-82de-6f4689f93867">
+    <UnderskriftStedDato id="id44ee3936-b5ac-4cd9-82de-6f4689f93867" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id44ee3936-b5ac-4cd9-82de-6f4689f93867" />
+  </UnderskriftGruppe>
+</Dokument>

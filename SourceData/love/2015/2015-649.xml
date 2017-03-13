@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="ida9db43f6-d66b-49b4-99e9-0b66517a6e6a" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id677e2a7f-e3db-424a-aed9-9e7faf7afed8">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150064930</AccessionNumber>
+    <DocumentId>CF001638</DocumentId>
+    <UniqueDocumentId>170458</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om social service og lov om socialtilsyn (Tilbud om anonym, ambulant behandling af stofmisbrugere m.v.)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-05-18</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-11-26</EndDate>
+    <Status>Historic</Status>
+    <Number>649</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1053 af 08/09/2015</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1054 af 08/09/2015</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 649 af 18/05/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2015-09-09</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Manu Sareen</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold, j.nr. 2014-11230</JournalNumber>
+    <Ministry>Social- og Indenrigsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id54f43b7c-be5d-49a4-8eb1-87f415ecaa5e">
+    <Titel id="idcba32261-63f4-4afd-a058-b967f314d10f">
+      <Linea>
+        <Char>Lov om ændring af lov om social service og lov om socialtilsyn</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id0c063f76-680d-404d-af5b-00f8ff8f03cc">
+      <Linea>
+        <Char>(Tilbud om anonym, ambulant behandling af stofmisbrugere m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="idd3f3717a-6cfe-4130-a5c3-5201b0630833">
+    <Hymne id="id679b92fa-e69c-46b1-aea0-e6b14e4eb157">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id4d860872-2652-4820-b2ca-acd5036fed99">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om social service, jf. lovbekendtgørelse nr. 150 af 16. februar 2015, som ændret senest ved § 3 i lov nr. 527 af 29. april 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id0fb3b490-8b64-49dc-b6e1-bc4dd272d6e9">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id76f47247-7374-4fca-bf86-ed14ada391de">
+          <AendringDefinition id="id09ba9cac-2d8a-46de-9006-fe69e1b9521f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5, stk. 1, nr. 5,</Char>
+                <Char> ændres »§ 101« til: »§§ 101 og 101 a«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb5fae707-b6ff-4a05-a167-138e48da81ba" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idd04d130b-f38d-4fb6-b9fd-8f3069827838">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id81d910c9-09b0-4392-a65e-b528521a5780">
+          <AendringDefinition id="id1e05c4d9-13d9-47ce-bae3-e07d4a231479">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 101 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4a495929-a7f2-42e2-996e-c9cf41618e9e" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id2f56ad41-ee69-4dab-a17d-7e0e8a02bcc9" localId="1">
+                <Explicatus>§ 101 a.</Explicatus>
+                <Stk id="id56c647c0-5234-4ac7-83a5-af83490773e4">
+                  <Exitus>
+                    <Linea>
+                      <Char>Kommunalbestyrelsen skal tilbyde anonym, ambulant behandling af stofmisbrug til personer, der har et behandlingskrævende stofmisbrug, men som ikke har andre sociale problemer, hvortil der ydes hjælp efter afsnit V.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id147e2ffd-e347-455f-bad7-a4794f495529">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Kommunalbestyrelsen indgår aftale med to eller flere leverandører af tilbud om anonym, ambulant behandling af stofmisbrug, jf. stk. 1, hvoraf mindst ét tilbud skal være beliggende uden for kommunen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="ide18de27b-d37e-4abb-80ee-888d15105e1d">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Kommunalbestyrelsen skal sikre, at en person, der ønsker at modtage anonym, ambulant stofmisbrugsbehandling, jf. stk. 1, kan henvende sig til kommunen anonymt via hjemmeside eller telefonisk og indgå aftale om en afklarende samtale om behandlingsbehovet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Den afklarende samtale skal tilrettelægges på en sådan måde, at formålet med anonymitet opnås.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id98bfdf1a-7230-4e18-bbdf-c277cd3c8c9a">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Kommunalbestyrelsen træffer afgørelse om behandling efter stk. 1 på baggrund af en afklarende samtale, jf. stk. 3, hvorefter personen henvises til de behandlingstilbud, som kommunalbestyrelsen har indgået aftale med efter stk. 2.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idd7da110d-aff6-4b7e-8d8d-64a2516443f1">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Kommunalbestyrelsen kan beslutte, at de leverandører af tilbud, der er indgået aftale med, jf. stk. 2, skal behandle henvendelser, jf. stk. 3, og træffe afgørelse om behandling på baggrund af en afklarende samtale.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idf35b2d66-5d79-43f9-8386-3bd22569b83b">
+                  <Explicatus>Stk. 6.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Afgørelser om behandling efter stk. 4 og 5 kan ikke indbringes for anden administrativ myndighed.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idbe64a151-96f9-4ce7-9519-608e70324fb5">
+                  <Explicatus>Stk. 7.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Behandlingen efter stk. 1 skal foregå adskilt fra behandlingstilbud efter § 101 og på en sådan måde, at formålet med anonymitet opnås.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idfa14a4f6-3287-4bf0-bf2d-79e313f007c5">
+                  <Explicatus>Stk. 8.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Behandlingen efter stk. 1 skal udgøre et afgrænset behandlingsforløb af kortere varighed og indeholde gruppebehandling og mulighed for en individuel, afsluttende samtale.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id84e707c5-c34f-4da0-aac1-879523c10a3e">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id9fe01eb5-b329-4651-8ff3-de7423c5f7ae">
+          <AendringDefinition id="idc9a3d7a2-2f0a-4961-a329-274b7fd20ef9">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 141, stk. 1, 1. pkt.,</Char>
+                <Char> indsættes efter »jf. dog stk. 2«: »og 6«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7fca44bb-2509-414d-94cb-ea5cbaf9fbbc" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id3afcd415-f1fa-4610-8f38-02ca2217e6cc">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id42cf6d42-dbf2-4744-896f-bb30a78730cd">
+          <AendringDefinition id="iddceaaa62-5a7d-4f51-bec5-bef69a49e30b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 141</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 6:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5845791e-3753-4648-bd88-6bf5286a272d" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id11b26a0a-f07f-4e4e-a090-f09c8a99c706">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsens forpligtelser efter stk. 1-5 gælder ikke for personer, der tilbydes anonym, ambulant behandling af stofmisbrug efter § 101 a.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id12bb76e7-3615-4576-97af-ccf17bb48ae5">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 608 af 12. juni 2013 om socialtilsyn foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id9a093317-12b7-474d-8676-56b3888e2f03">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id4f40d4c3-3bc1-49c1-ae1c-bac3cbee5d25">
+          <AendringDefinition id="id4fdc0909-3ef3-4542-b1cf-2e7a280ba80b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 2, stk. 2,</Char>
+                <Char> ændres »opgaven med at godkende og føre driftsorienteret tilsyn med sociale tilbud, jf. § 4, som er beliggende inden for regionen, jf. dog stk. 4« til: »funktionen som socialtilsyn efter stk. 1, jf. dog stk. 3 og 4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id46a900dc-53b9-4559-bdc7-48ed0951f3ec" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="iddd2dbcf5-e02f-48de-8ef1-c4944e3ced40">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id8bbbe50e-7faa-455a-b983-23dddd6750b6">
+          <AendringDefinition id="id8faa8177-16a4-444d-9c81-e9cf96a43850">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 2, stk. 3,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2572df69-5e3f-492d-a1cc-b5830413bb2e" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="idbe1c6419-3c6a-42e9-a920-77b3558b85ec">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Fra reglen i stk. 2 gælder følgende undtagelser:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id0fcbdd17-4cc5-4b47-8224-7ad9f2388ff9">
+                  <Index>
+                    <Indentatio id="id6a976493-bf40-4302-9592-95904edb0c80" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Socialtilsynet i Region Syddanmark varetager opgaven i Frederiksberg Kommune og opgaven vedrørende tilbud beliggende i andre kommuner i Region Hovedstaden, hvor Frederiksberg Kommune enten er driftsherre eller har indgået aftale med tilbuddet om køb af samtlige pladser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id56f10def-20ec-4e11-8a41-e67d07b6b4b6" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Socialtilsynet i Region Hovedstaden varetager opgaven i Holbæk Kommune og opgaven vedrørende tilbud beliggende i andre kommuner i Region Sjælland, hvor Holbæk Kommune enten er driftsherre eller har indgået aftale med tilbuddet om køb af samtlige pladser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id370c6004-c424-4376-a19f-198907a77432" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Socialtilsynet i Region Sjælland varetager opgaven i Hjørring Kommune og opgaven vedrørende tilbud beliggende i andre kommuner i Region Nordjylland, hvor Hjørring Kommune enten er driftsherre eller har indgået aftale med tilbuddet om køb af samtlige pladser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id564d2b67-57b0-4e3f-a520-6fa0f2d2659f" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Socialtilsynet i Region Nordjylland varetager opgaven i Silkeborg Kommune og opgaven vedrørende tilbud beliggende i andre kommuner i Region Midtjylland, hvor Silkeborg Kommune enten er driftsherre eller har indgået aftale med tilbuddet om køb af samtlige pladser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id08642142-b246-4064-9ce2-35313f92b02c" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Socialtilsynet i Region Midtjylland varetager opgaven i Faaborg-Midtfyn Kommune og opgaven vedrørende tilbud beliggende i andre kommuner i Region Syddanmark, hvor Faaborg-Midtfyn Kommune enten er driftsherre eller har indgået aftale med tilbuddet om køb af samtlige pladser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id55487b24-8f85-4fc9-b538-242b0a9df262">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="idb164eef9-8e4f-4e35-9768-261bbe4d073a">
+          <AendringDefinition id="id006cb1f3-78af-4991-91ec-4bea28124216">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 3, stk. 1, nr. 2,</Char>
+                <Char> indsættes efter »delegation«: »fra det ansvarlige regionsråd, jf. § 5, stk. 7, i lov om social service, eller«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id88354987-4b00-467a-86bf-89c1faa21311" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id404d5608-9abb-48fa-b28e-5374adca1184">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id78150148-3eee-4d3f-87e3-1701cebb69f9">
+          <AendringDefinition id="idff8e83d4-2b99-4955-90d1-8df360e813c3">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4, stk. 1, nr. 2,</Char>
+                <Char> ændres »§ 101« til: »§§ 101 og 101 a«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id83c13987-50ba-4595-8435-4745c2132b9b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id460162d7-144e-41d5-b554-2a48c6d57c08">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id38b5221b-de85-4ec1-9806-9621d28f12c7">
+          <AendringDefinition id="ide57f01dd-a70f-4232-865c-2d6c019dc2ec">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 23, stk. 2,</Char>
+                <Char> ændres »kommunerne i hver region« til: »de kommuner, hvor det enkelte socialtilsyn godkender og fører tilsyn, jf. § 2, stk. 2 og 3,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idea0dea68-b4cb-4e13-9b29-015fd08d6ec4" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id281dd7de-0aae-4782-9f17-ac5d84b8f4fd">
+      <Explicatus>§ 3</Explicatus>
+      <Stk id="id0198ec12-673f-4ee7-a1bc-3dd2cf02e514">
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. juli 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id36058403-2257-4d7d-9a83-88b513721e8e">
+    <UnderskriftStedDato id="id36058403-2257-4d7d-9a83-88b513721e8e" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id36058403-2257-4d7d-9a83-88b513721e8e" />
+  </UnderskriftGruppe>
+</Dokument>

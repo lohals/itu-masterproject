@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id83ef8708-79d1-48e1-8a12-dab1fb88bd48" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="iddd680637-b22a-4188-a55b-a5fe2d80b74f">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150157030</AccessionNumber>
+    <DocumentId>BE006614</DocumentId>
+    <UniqueDocumentId>176316</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om Ligebehandlingsnævnet (Indførelse af krav om retlig interesse, formandsafgørelser samt mulighed for, at Institut for Menneskerettigheder – Danmarks Nationale Menneskerettighedsinstitution kan indbringe visse sager for Ligebehandlingsnævnet m.v.)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-12-15</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-10-06</EndDate>
+    <Status>Historic</Status>
+    <Number>1570</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1230 af 02/10/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1570 af 15/12/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2016-10-05</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Jørn Neergaard Larsen</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Beskæftigelsemin., j.nr. 2015-3191</JournalNumber>
+    <Ministry>Beskæftigelsesministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id53636084-5e94-462d-8db4-a23b56aa0545">
+    <Titel id="ide3d25b75-aa24-47eb-b105-9abe935f259d">
+      <Linea>
+        <Char>Lov om ændring af lov om Ligebehandlingsnævnet</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id0c2db9b8-a2a1-43e9-afda-1e3769d4c051">
+      <Linea>
+        <Char>(Indførelse af krav om retlig interesse, formandsafgørelser samt mulighed for, at Institut for Menneskerettigheder – Danmarks Nationale Menneskerettighedsinstitution kan indbringe visse sager for Ligebehandlingsnævnet m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="ide38c1456-b3e5-480b-958e-46d29da06858">
+    <Hymne id="id7311b609-9bb9-48c0-9e9b-61fc8a449812">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id40ae575f-66be-4375-a234-0e2e5b4e530d">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om Ligebehandlingsnævnet, jf. lovbekendtgørelse nr. 905 af 3. september 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="iddb2a7427-fe40-454a-9365-aa0cc25fdff9">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id5525ef29-48bc-4a8d-b3c3-9671769434b2">
+          <AendringDefinition id="id6d242830-daab-4262-a6ab-22f1fa21ae85">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 1 </Char>
+                <Char>indsættes som </Char>
+                <Char formaChar="Italic">stk.</Char>
+                <Char>
+                </Char>
+                <Char formaChar="Italic">6</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">7:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idebd8005d-5f85-4559-ba16-343228d5724a">
+            <AendringNyTekst>
+              <Stk id="id1b85c9b0-b8bf-420a-bd49-2dd9b8d7cfd3">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En klage kan indbringes for Ligebehandlingsnævnet af den, der har retlig interesse i sagen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id595589fe-093f-4745-a1e7-009aa25759ca">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Institut for Menneskerettigheder – Danmarks Na­ti‌onale Menneskerettighedsinstitution kan indbringe sager af principiel karakter eller sager af almindelig offentlig interesse for Ligebehandlingsnævnet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id0fe48d79-8ae8-4844-9d62-5b31719eab41">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id638b47ff-688d-41f1-97a3-4a232876515b">
+          <AendringDefinition id="id3cf18e8e-1a20-480d-ae17-de3a000adf5d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 2</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic">stk. 2:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id46e12507-999b-4f0e-a0e4-c5aaffa57c83">
+            <AendringNyTekst>
+              <Stk id="id3c53b66e-f8ca-4c0c-8301-3525aac4dddb">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I en sag, der er indbragt for nævnet af Institut for Menneskerettigheder – Danmarks Nationale Menneskerettighedsinstitution, kan nævnet træffe afgørelse om, at der er sket ulovlig forskelsbehandling, jf. § 1, stk. 2-4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc108360f-91f7-4e6e-a820-75ea71fb5d79">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="idfb7feb25-241a-420f-874b-3a0f8e412179">
+          <AendringDefinition id="ide0da8157-85e2-4c11-9051-d6bfc39ad855">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 6 </Char>
+                <Char>indsættes som </Char>
+                <Char formaChar="Italic">stk. 3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc9a120bb-e6ad-4c5a-9603-107af7f15193">
+            <AendringNyTekst>
+              <Stk id="id20cb6fe2-0ddc-4fed-8ee7-e2e000ab1faf">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skønnes en sag at kunne afgøres i overensstemmelse med fast rets- eller nævnspraksis, kan afgørelsen træffes af et medlem af formandskabet alene.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2e2e2471-c2d0-4f45-b54b-65a47189a129">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id97a5be6c-b56d-49bd-afd2-cb6088d57ba0">
+          <AendringDefinition id="idd9ba05b1-5b84-4c06-89f6-3d3f6445babb">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 8 </Char>
+                <Char>indsættes efter stk. 2 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id96d1b41e-9e79-4cbf-ad7a-87ddc88a217b">
+            <AendringNyTekst>
+              <Stk id="ida0d536c6-228b-42da-b210-8b4248726f38">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Nævnet kan afvise at behandle klagen, hvis klageren ikke har retlig interesse i sagen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id906f8b6c-c3a6-4341-b53b-23e27070a0af">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 bliver herefter stk. 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="idb11696c5-c287-4b53-b31f-6017f8c3532e">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="idcbea1a64-2bc1-4a62-b45c-55471b189858">
+          <AendringDefinition id="id1700a9f6-719c-4040-a05f-55e84bba1c7d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic">§ 8, stk. 3,</Char>
+                <Char> der bliver stk. 4, ændres »stk. 1 og stk. 2« til: »stk. 1-3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id03f64b0b-caaa-4814-9c40-31a0f58f3af9">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id522ea23d-5105-42c8-9076-c164e00f4b99">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id162ab398-9aee-4d99-992c-ba8538bcc297">
+          <AendringDefinition id="id9fe4b019-8e42-4c71-992f-0f40f08afd55">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 12 </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4ea3db49-7f1e-49ab-9052-cc6d6c1cf291">
+            <AendringNyTekst>
+              <Paragraf id="id256a3e4b-25bb-4628-a643-d29a9b49769e" localId="1">
+                <Explicatus>§ 12.</Explicatus>
+                <Stk id="id623e51dd-5591-4e6f-a8b3-7e2de666533b">
+                  <Exitus>
+                    <Linea>
+                      <Char>Når nævnet har truffet afgørelse i en sag, orienterer sekretariatet parterne om afgørelsen og om muligheden for at indbringe sagen for domstolene.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Stk id="ide42b0a50-77b6-4597-ab58-f74bd8e7643d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis nævnets afgørelser og forlig, som er indgået for nævnet, ikke efterleves, skal nævnet på vegne af klageren eller Institut for Menneskerettigheder – Danmarks Na­ti‌onale Menneskerettighedsinstitution indbringe sagen for domstolene, hvis klageren eller instituttet anmoder herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="ideddfd963-b160-41df-8e3b-942b95965c54">
+      <Explicatus>§ 2</Explicatus>
+      <Stk id="id9a3ac75b-c332-46cb-9b19-a0ab3293ab9c">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2016.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="ide38ceec9-5f94-47ab-873b-772349d8483e">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven finder ikke anvendelse på klager indgivet før lovens ikrafttræden.</Char>
+          </Linea>
+          <Linea>
+            <Char>For sådanne klager finder de hidtil gældende regler anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idac267315-e9dd-49d2-b24c-1de5e032736a">
+    <UnderskriftStedDato id="idac267315-e9dd-49d2-b24c-1de5e032736a" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="idac267315-e9dd-49d2-b24c-1de5e032736a" />
+  </UnderskriftGruppe>
+</Dokument>

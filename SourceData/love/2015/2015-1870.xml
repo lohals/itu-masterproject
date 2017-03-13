@@ -1,0 +1,660 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idc2594b31-02dc-4f26-9dc7-fef4f4e030aa" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id94fd6c06-f0f4-44f0-bd2d-616bf2934b1f">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150187030</AccessionNumber>
+    <DocumentId>CN000103</DocumentId>
+    <UniqueDocumentId>176785</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af sundhedsloven og lov om socialtilsyn (Øget kvalitet i alkoholbehandlingen)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-12-29</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-09-29</EndDate>
+    <Status>Historic</Status>
+    <Number>1870</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 124 af 12/02/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1188 af 24/09/2016</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1870 af 29/12/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2016-09-28</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Sophie Løhde</Signature>
+    <PlaceOfSignature>Givet på Marselisborg Slot</PlaceOfSignature>
+    <JournalNumber>Sundheds- og Ældreministeriet, j.nr. 1407030</JournalNumber>
+    <Ministry>Sundheds- og Ældreministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id8c97d70e-6407-4487-ad99-b55712cb7b1a">
+    <Titel id="id068307b5-b68a-448d-bca0-22108409b002">
+      <Linea>
+        <Char>Lov om ændring af sundhedsloven og lov om socialtilsyn</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id41cd6045-8904-46f2-a7f2-3ff91f7488e1">
+      <Linea>
+        <Char>(Øget kvalitet i alkoholbehandlingen)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id96195395-6c89-4556-bfc0-95931c5a8f46">
+    <Hymne id="id19d76165-0a73-4286-8e80-48d9f560f9b0">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="idec12751a-6d68-4ce9-9e7d-f743d792193e">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I sundhedsloven, jf. lovbekendtgørelse nr. 1202 af 14. november 2014, som ændret ved § 1 i lov nr. 1536 af 27. december 2014, lov nr. 1537 af 27. december 2014, § 6 i lov nr. 523 af 29. april 2015, § 1 i lov nr. 542 af 29. april 2015 og § 7 i lov nr. 742 af 1. juni 2015,</Char>
+          <Char formaChar="Bold">
+          </Char>
+          <Char>foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idcbc101b4-dc72-478d-a90c-ec2f99463918">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id39b4043a-ded0-4436-95db-980ec67459cb">
+          <AendringDefinition id="ide60a1f20-6abc-49ec-b1b9-8082e9a1d622">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 141</Char>
+                <Char> indsættes efter stk. 4 som nye stykker:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id68009818-bda2-463a-8f77-6c9804b4d166">
+            <AendringNyTekst>
+              <Stk id="ida9a509d0-8120-4258-80e8-da2e337eb69c">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynet, jf. lov om socialtilsyn, godkender og fører driftsorienteret tilsyn med alkoholbehandlingssteder, jf. stk. 3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Socialtilsynet skal ved godkendelse af og driftsorienteret tilsyn med alkoholbehandlingssteder benytte sig af den aktuelt bedste faglige viden om metoder og indsatser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id885e1abc-de35-4a2f-b883-808141874a36">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen kan alene tilvejebringe tilbud om alkoholbehandling, jf. stk. 1 og 3, på alkoholbehandlingssteder, som er godkendt efter § 5 i lov om socialtilsyn, jf. stk. 5.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For behandlingssteder, som en kommunalbestyrelse ikke selv har etableret, gælder endvidere, at behandlingsstedet skal have en aftale med minimum én kommune for at kunne indgå i kommunalbestyrelsens tilbud om alkoholbehandling.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id2079360a-0721-4073-be4f-4116a1ec6ae6">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 5 og 6 bliver herefter stk. 7 og 8.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idcedc36b1-4ab3-421e-a4ab-3823efd7577f">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om socialtilsyn, jf. lovbekendtgørelse nr. 1054 af 8. september 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id20d5d421-bb3a-4e75-bcd1-29260ec9cd02">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id5c477732-a8cb-4f1d-b62d-a835bd09b321">
+          <AendringDefinition id="id5b7d49c6-4897-4e1f-903e-b9ce6519235a">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, 1. pkt., </Char>
+                <Char>indsættes efter »lov om social service«: »og kapitel 40 i sundhedsloven«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6732c7de-7e6b-458c-8213-185f05250826">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb44e6f67-b960-431c-8c4d-ea5644e408ef">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id67d2cefb-5046-43e0-b7ab-fdf12c9ee697">
+          <AendringDefinition id="id4885f221-d5bf-4970-b2f9-b4e62288076d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 2, stk. 1, 1. pkt.,</Char>
+                <Char> ændres »sociale tilbud, jf. § 4« til: »tilbud, som er nævnt i § 4, stk. 1«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id49adcadc-f50e-4e62-82f3-0f87614e6721">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id80b89e1a-2b2c-46bf-b659-615599c85b9c">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id76bc2a93-0523-4e97-9bad-599200a8f94e">
+          <AendringDefinition id="ideab298cb-ba74-4dd6-b227-e3abd1963515">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Italic"> § 3, stk. 1, nr. 1,</Char>
+                <Char> ændres »eller socialfaglige« til: », socialfaglige eller sundhedsfaglige«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7b3bdae5-0045-405e-9622-68c186ef0cf0">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9e2e14c6-3c46-4c97-ac35-9b6a79cb9038">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id3c86f596-e7c7-4ff0-81a0-46953abc61ff">
+          <AendringDefinition id="id7e7f3ee9-eb7e-45ab-95e4-03b59df7980e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4, stk. 1, 1. pkt.,</Char>
+                <Char> udgår »sociale«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide7615e61-b339-44de-b3a9-bbf324c5f9fc">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idabd098c0-6956-4056-b2f3-b3c803db6a4d">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id1f473f0c-f1d6-4ec3-a728-09df40188a20">
+          <AendringDefinition id="id61b06f93-29ca-4010-8713-e8bd7ec77b29">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4, stk. 1, </Char>
+                <Char>indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">nr. 4:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id166624fb-ee56-4de5-8078-cca01b192164">
+            <AendringNyTekst>
+              <Exitus id="id7d68c6f2-ecf5-4933-84ab-5e01c3140e6f">
+                <Index>
+                  <Indentatio id="id5d2de24b-d6d2-46d7-8395-2bfd9ef6913b" formaInd="Nummer">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Alkoholbehandlingssteder efter sundhedslovens § 141.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1af0dae2-0d7c-442f-97ee-0bccc0402031">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id5059081a-2b5f-4266-978e-adb7c4edae7c">
+          <AendringDefinition id="idba31630b-72c0-44db-adf9-3b4c6aa052c8">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5, stk. 1,</Char>
+                <Char> ændres »sociale tilbud m.v., jf. § 4,« til: »tilbud, som er nævnt i § 4, stk. 1,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd0ff3e6e-eaad-48a3-986b-732dbfdf2ce8">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idaeb5713f-06e3-4550-a0b7-2a4a285e1180">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id3f0d4689-a0b6-4679-9379-7e4cb720cd25">
+          <AendringDefinition id="idbccb1709-d7fb-45f0-a898-ac2340e6ee58">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5, stk. 2, </Char>
+                <Char>ændres »tilbuddet« til: »tilbud, som er nævnt i § 4, stk. 1, nr. 1-3,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idec8de190-fbb5-4eeb-96e5-b053e19ec7cc">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idd8324127-12d9-4eca-bd6b-0038eee2377d">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="idd15fc0a2-8c37-4a1f-8f70-c3dcd77a5d5f">
+          <AendringDefinition id="id3ea272bc-eea3-4e24-a0ce-60608498320d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5 </Char>
+                <Char>indsættes efter stk. 2 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf2aa00ad-3a0f-48cc-8a6a-99b616a02e97">
+            <AendringNyTekst>
+              <Stk id="id0b6f4f13-ee0d-4330-a1e7-040c8d568792">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Socialtilsynets godkendelse efter stk. 1 er en betingelse for, at kommunalbestyrelsen kan tilvejebringe tilbud om alkoholbehandling på behandlingssteder, som er nævnt i § 4, stk. 1, nr. 4, jf. § 141, stk. 6, i sundhedsloven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id264420ea-5dd3-49e4-8869-3322930579c6">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3-8 bliver herefter stk. 4-9.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="idb3190c5c-ed54-41ba-aac6-6956a2d61af0">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="id48b71bd2-e3dd-4f38-9476-7a2f518e48e5">
+          <AendringDefinition id="id92df2af8-8fca-42bc-9230-17befb507897">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5, stk. 3,</Char>
+                <Char> der bliver stk. 4, ændres »tilbud, som« til: »tilbud, som er nævnt i § 4, stk. 1, nr. 1-3, og som«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide503bb8e-e60e-49a2-a5cc-3abdbd449d56">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id94d934ba-a62c-4c05-84e1-15f2a30abc83">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="id598a4206-ec89-4339-9e06-d5aa5de65ed2">
+          <AendringDefinition id="id4d26fe97-bfd0-4eb6-b809-571c60c74e88">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 6, stk. 1, </Char>
+                <Char>ændres »sociale tilbud« til: »tilbud, som er nævnt i § 4, stk. 1«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1fcfda2e-d27e-44f0-a8bc-eae3af757bf6">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf97f00a1-3030-4579-911c-0df0f9efa40d">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="id7510f3e8-91a4-4a2f-b589-1f2c346fa80d">
+          <AendringDefinition id="ida6971c16-aed7-4fbb-b88d-e865d2d82178">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 7, stk. 1, 1. pkt., </Char>
+                <Char>ændres »sociale tilbud« til: »tilbud, som er nævnt i § 4, stk. 1,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id45aefaee-bccd-41f6-bc9b-f35eca7f6ed5">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf048f9fc-2766-4b68-a43f-d83d87e1dcfa">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="id4fe9eb4f-1afc-40b7-9693-29e229bcb615">
+          <AendringDefinition id="id73e790d2-185f-41d2-b11a-49115ef905a2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 7, stk. 2, nr. 2, </Char>
+                <Char>ændres »§ 12, stk. 3,« til: »§ 12, stk. 4,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3ab2b919-0130-4d74-b876-56d325ba4a24">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5257cc90-8b95-44b0-8546-9bf4fe9fd829">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="idb75a91d4-ab55-41a2-bffb-913325f73f62">
+          <AendringDefinition id="id01e7cb53-bbe9-4127-9dab-e49c4eb619b6">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 7, stk. 2, nr. 3,</Char>
+                <Char> ændres »om tilbuddet« til: »om tilbud, som er nævnt i § 4, stk. 1, nr. 1-3,«, og »område, og« ændres til: »område,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd4be8d8f-c6cd-4921-ac82-e5d69940edd9">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id47e939d9-95b0-4280-ae04-a983d66cbe8e">
+        <Explicatus>14.</Explicatus>
+        <Aendring id="id96a85ab4-3189-4080-b37e-237857190993">
+          <AendringDefinition id="ide43c87e2-fe22-4005-9edf-96c90a2be7b2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 7, stk. 2,</Char>
+                <Char> indsættes efter nr. 3 som nyt nummer:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idef1382b9-4289-496d-8cdf-dbbb18f90919" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <Exitus id="id1ad49130-522b-4c93-b2dd-2bd393cc6d1a">
+                <Index>
+                  <Indentatio id="id08e8de8b-b563-4b00-8945-8b652cba420f" formaInd="Nummer">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>indhente oplysninger om tilbud, som er nævnt i § 4, stk. 1, nr. 4, fra de kommuner, som har visiteret borgere til behandlingsstedet i henhold til sundhedslovens § 141, stk. 1, og</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idbb3e2e6a-6f66-42c7-aee1-bdafbd72a1f2">
+          <Exitus>
+            <Linea>
+              <Char>Nr. 4 bliver herefter nr. 5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id83fc6544-44d4-499a-8e05-e98f6083790b">
+        <Explicatus>15.</Explicatus>
+        <Aendring id="id092bf933-1e18-4a10-903b-bec30130b653">
+          <AendringDefinition id="idcc8746f1-1b9d-4688-a977-b1e3fc70d63d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 10 </Char>
+                <Char>indsættes efter »tilbud,«: »som er nævnt i § 4, stk. 1, nr. 1-3,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0f1a2f2d-f344-4d71-a732-4cad330b3542">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida2087716-fa8c-41ff-9bb4-24819d1ec1e4">
+        <Explicatus>16.</Explicatus>
+        <Aendring id="idb51faf71-e9b7-446c-977f-7ce34baa27b6">
+          <AendringDefinition id="id15144fc7-e468-484a-a009-be3fc5a34df3">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 10</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id15c6f6e7-2605-473e-8195-c03ad7911807">
+            <AendringNyTekst>
+              <Stk id="id7ba1c154-269c-4df2-bed3-9bd3115d3250">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bliver socialtilsynet opmærksomt på bekymrende forhold på et behandlingssted, som er nævnt i § 4, stk. 1, nr. 4, skal socialtilsynet underrette de kommuner, som har visiteret borgere til behandlingsstedet i henhold til sundhedslovens § 141, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idaccb5579-4fb8-46d2-b391-a7a6273d0701">
+        <Explicatus>17.</Explicatus>
+        <Aendring id="id6624652b-c225-4f27-9d85-78a7d60c7a76">
+          <AendringDefinition id="id223f5df6-ddf6-4110-9eca-c7f9cd754020">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 2, nr. 2, </Char>
+                <Char>ændres »tilbuddet« til: »tilbud, som er nævnt i § 4, stk. 1, nr. 1-3«, og »område, og« ændres til: »område,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2ca9554f-3bf3-4e52-a2c6-e9275bc852ed">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ided80b818-f92b-4ff8-960c-c8c6b267bb54">
+        <Explicatus>18.</Explicatus>
+        <Aendring id="id6667e0d5-f00e-4bb0-9ab2-d80ad5ffb51e">
+          <AendringDefinition id="id3e142802-bf30-46ad-80ac-b2692d8c4c3b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 2, </Char>
+                <Char>indsættes efter nr. 2 som nyt nummer:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id84a68131-658c-493d-bb2f-085ae2c7ae83" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <Exitus id="id83f295e6-ad15-4b4a-ab99-2013e4ff9688">
+                <Index>
+                  <Indentatio id="id2061a99b-7eef-497a-b6a7-917d3e4bdfc6" formaInd="Nummer">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>efter anmodning give socialtilsynet oplysninger om, hvilke kommuner der i henhold til sundhedslovens § 141, stk. 1, har visiteret borgere til behandlingsstedet, og</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id3059dbb8-17a6-4c17-a7b9-de15c2873974">
+          <Exitus>
+            <Linea>
+              <Char>Nr. 3 bliver herefter nr. 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id5d6b4887-9797-404c-858c-73f3d914ccb3">
+        <Explicatus>19.</Explicatus>
+        <Aendring id="idf8955086-ac74-4a44-a957-e3a7f6f53c77">
+          <AendringDefinition id="id6708abc0-3046-4519-986b-d9de79daa147">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12</Char>
+                <Char> indsættes efter stk. 2 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc0429084-df01-4191-9a67-7ff3b5c4feae">
+            <AendringNyTekst>
+              <Stk id="id8f63ab65-f1df-4c39-8888-c10d38a4316b">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedspersoner, jf. sundhedslovens § 6, skal efter anmodning give socialtilsynet oplysninger om borgere i sundhedsfaglig behandling, jf. sundhedslovens § 5, på tilbud omfattet af § 4, stk. 1, i lov om socialtilsyn, når de er nødvendige, for at socialtilsynet kan udføre det driftsorienterede tilsyn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idc0c275b4-2303-42f4-b584-9b52ddcab764">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 og 4 bliver herefter stk. 4 og 5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id1f76c592-febf-4876-9a31-69e9bd4205ba">
+        <Explicatus>20.</Explicatus>
+        <Aendring id="idd79ed64d-d578-4c33-bce2-af22c7213c12">
+          <AendringDefinition id="idb8774434-9a32-478b-a529-94b74b8917ca">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 3, </Char>
+                <Char>der bliver stk. 4, ændres »§ 4, stk. 1, nr. 2 og 3,« til: »§ 4, stk. 1, nr. 2-4,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id90a881de-1839-441b-ad86-51aa7b3c556f">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb8294003-1a15-4315-9140-ded16e6fcf22">
+        <Explicatus>21.</Explicatus>
+        <Aendring id="id5e67fb7e-5d6c-487f-8152-7f2319f5d894">
+          <AendringDefinition id="idfdbbd5ba-3de9-464a-af61-30df846d61c6">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 4,</Char>
+                <Char> der bliver stk. 5, ændres »stk. 1-3« til: »stk. 1-4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb1b8176b-1d32-4913-abff-3cef29eb9902">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida710db31-af74-481d-ad1b-47c0efacfbcc">
+        <Explicatus>22.</Explicatus>
+        <Aendring id="idb0188af1-eb08-4ade-be5e-0d2a19e13257">
+          <AendringDefinition id="idaf942af5-02fb-4e51-a6cf-0f3aca16ad59">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 16, stk. 1, </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18, stk. 1, 1. pkt.,</Char>
+                <Char> ændres »§ 4, stk. 1, nr. 2 og 3,« til: »§ 4, stk. 1, nr. 2-4,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb5c4410e-3ad3-4c1a-a75d-8aed3f29e1fd">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id6b7f989a-536e-406a-a632-b8865c0a23d6">
+        <Explicatus>23.</Explicatus>
+        <Aendring id="idbe9c1182-cfa7-49dd-9f7c-40a12c00c7f9">
+          <AendringDefinition id="id9810eab3-2c8f-4c4a-8aef-5c15e16259d1">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 23, stk. 3, 1. pkt., </Char>
+                <Char>ændres »§ 4, stk. 1, nr. 2 og 3« til: »§ 4, stk. 1, nr. 2-4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1a14f910-b9eb-4c02-ae67-bbcc7b65272d">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id0feaa0ce-9d0d-4efa-9510-216812caf45a">
+      <Explicatus>§ 3</Explicatus>
+      <Stk id="idf51d2daf-2cbb-407d-9d18-aa765987c6e4">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2016.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idf7d3cae9-71d5-4846-88f4-7c3fec3909d5">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Alkoholbehandlingssteder som nævnt i § 4, stk. 1, nr. 4, i lov om socialtilsyn, som var optaget på Tilbudsportalen ved lovens ikrafttræden, skal godkendes efter reglerne i lov om socialtilsyn inden den 1. januar 2018.</Char>
+          </Linea>
+          <Linea>
+            <Char>Godkendelsen skal ske på socialtilsynets eget initiativ eller efter ansøgning fra det enkelte alkoholbehandlingssted.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idbfca4fdf-9b8c-4cee-8b5a-2354da847fde">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Alkoholbehandlingssteder, der er omfattet af § 4, stk. 1, nr. 4, i lov om socialtilsyn, er underlagt driftsorienteret tilsyn, jf. § 7 i lov om socialtilsyn, fra lovens ikrafttræden.</Char>
+          </Linea>
+          <Linea>
+            <Char>Den besigtigelse, der finder sted i forbindelse med godkendelse af behandlingssteder efter reglerne i lov om socialtilsyn i perioden fra lovens ikrafttræden indtil den 1. januar 2018, indebærer, at der ikke skal gennemføres et tilsynsbesøg i det pågældende år, jf. § 7, stk. 3, i lov om socialtilsyn.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id242854a2-131d-464f-b814-4549f7c67f68">
+    <UnderskriftStedDato id="id242854a2-131d-464f-b814-4549f7c67f68" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id242854a2-131d-464f-b814-4549f7c67f68" />
+  </UnderskriftGruppe>
+</Dokument>

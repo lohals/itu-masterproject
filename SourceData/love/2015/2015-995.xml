@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="ide925ca25-5836-47f3-b3cf-601a45313c6f" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idee30ecea-d5d1-464a-9eae-024df9954153">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150099530</AccessionNumber>
+    <DocumentId>BE006421</DocumentId>
+    <UniqueDocumentId>174050</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om social pension (Harmonisering af regler om opgørelse af bopælstid for folkepension)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-08-30</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-10-15</EndDate>
+    <Status>Historic</Status>
+    <Number>995</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1239 af 13/10/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 995 af 30/08/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2016-10-14</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Jørn Neergaard Larsen</Signature>
+    <PlaceOfSignature>Givet på Kongeskibet Dannebrog</PlaceOfSignature>
+    <JournalNumber>Beskæftigelsesmin., j.nr. 2015-3055</JournalNumber>
+    <Ministry>Beskæftigelsesministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id300dec9b-a430-4306-8f1c-f92be3533c08">
+    <Titel id="id543c8a4b-835b-4d73-bd03-9800faeb8961">
+      <Linea>
+        <Char>Lov om ændring af lov om social pension</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id21314869-c103-42bd-81fd-ebd74417aabf">
+      <Linea>
+        <Char>(Harmonisering af regler om opgørelse af bopælstid for folkepension)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id6a17fc56-c0f4-48e5-8f2a-3f1286468615">
+    <Hymne id="ida6b24ee8-e998-4538-8434-848ff819313f">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id44ef172e-8ec9-4caa-893f-282f9ebf32b1">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om social pension, jf. lovbekendtgørelse nr. 10 af 12. januar 2015, som ændret ved § 32 i lov nr. 174 af 24. februar 2015 og § 5 i lov nr. 742 af 1. juni 2015, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="ida95bdf44-d5a8-4d54-a064-6cf1ddca9196">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idb4662132-e8fd-44e5-88d8-410fd7293e74">
+          <AendringDefinition id="ide44998e3-52bb-45a4-9a2a-3972edc9918f">
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">§ 9 </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9c1fa685-993a-4d12-9227-b9d90a290e7f">
+            <AendringNyTekst>
+              <Paragraf id="id794961d1-171f-49e5-b817-fc196fbf5ffc" localId="1">
+                <Explicatus>§ 9.</Explicatus>
+                <Stk id="idfd58d778-14d2-46c4-bb8a-fa2d942c880b">
+                  <Exitus>
+                    <Linea>
+                      <Char>Ved opgørelse af bopælstid for personer, der tilkendes førtidspension, og som er omfattet af § 2, stk. 2, nr. 2, sidestilles bopæl i oprindelseslandet med bopæl her i riget.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Det samme gælder andre lande, hvori den pågældende har haft bopæl på et grundlag svarende til det, der er nævnt i § 7 i udlændingeloven.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id9ae96721-55dd-4a01-b4fa-0da83f98a06a">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Stk. 1 finder anvendelse, uanset om den pågældende opnår dansk indfødsret.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id38733e0b-50e2-432f-875b-3efe384919c8">
+                  <Explicatus>Stk. 3. </Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Stk. 1 anvendes kun, så længe den pågældende har fast bopæl her i riget.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="ida4e674a0-aff9-4c54-a217-4f12b82c361b">
+                  <Explicatus>Stk. 4. </Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Stk. 1 anvendes ikke for perioder, hvor der er ret til pension fra oprindelseslandet og andre lande, der er nævnt i stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idc2794aa4-1c99-4717-951d-c16c5de0e0c1">
+                  <Explicatus>Stk. 5. </Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Stk. 2-4 finder tilsvarende anvendelse, når en person er overgået fra førtidspension til folkepension ved folkepensionsalderen, jf. § 5, stk. 3, i denne lov og § 6 i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id054890f8-02b9-4e27-916f-e892f1799e09">
+      <Explicatus>§ 2</Explicatus>
+      <Stk id="id7294361e-f45f-4d1c-9a2d-b6926cfffa41">
+        <Explicatus>Stk. 1. </Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. september 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id5e39b474-8f5f-4ff8-a7fd-b12bda6dca51">
+        <Explicatus>Stk. 2. </Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven finder ikke anvendelse ved opgørelse af optjeningsgrundlaget for ret til folkepension for udlændinge, som er meddelt ophold i Danmark efter udlændingelovens §§ 7 eller 8, som er indrejst i Danmark før lovens ikrafttræden, og som når folkepensionsalderen før den 1. januar 2021.</Char>
+          </Linea>
+          <Linea>
+            <Char>For en sådan opgørelse finder de hidtil gældende regler anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id87f8e780-7c8a-44af-946b-18418ca43395">
+    <UnderskriftStedDato id="id87f8e780-7c8a-44af-946b-18418ca43395" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id87f8e780-7c8a-44af-946b-18418ca43395" />
+  </UnderskriftGruppe>
+</Dokument>

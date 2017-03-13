@@ -1,0 +1,1164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id8e1dc387-b07d-4288-839f-6fd2f1fb3084" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id40cc74f5-6ee4-4a31-be96-5d16ec3045a0">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150053530</AccessionNumber>
+    <DocumentId>BU000436</DocumentId>
+    <UniqueDocumentId>169514</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om anvendelse af Danmarks undergrund (Gennemførelse af offshoresikkerhedsdirektivet, subsidiært ansvar for afvikling af anlæg, plan for afvikling af anlæg, sikkerhedsstillelse, forlængelse af geotermitilladelser, beredskab for forsyningsmæssige forhold, forsikring, digital kommunikation m.v.)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-04-29</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-11-15</EndDate>
+    <Status>Valid</Status>
+    <Number>535</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 535 af 29/04/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <EuReferences>32013L0030</EuReferences>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Rasmus Helveg Petersen</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Klima-, Energi- og Bygningsmin.\nEnergistyrelsen,  j.nr. 1001/1021-0003</JournalNumber>
+    <Ministry>Energi-, Forsynings- og Klimaministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id5cfe3965-9399-403c-8910-ec853cbd7220">
+    <Titel id="id612468a1-6194-4291-9047-f46cd0d643fe">
+      <Linea>
+        <Char>Lov om ændring af lov om anvendelse af Danmarks undergrund</Char>
+      </Linea>
+      <Nota id="id45b218b6-bb5e-4255-a69d-8e40b5ab9f6e" formaNo="EU">
+        <Explicatus>1)</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2013/30/EU af 12. juni 2013 om sikkerheden i forbindelse med offshore olie- og gasaktiviteter og om ændring af direktiv 2004/35/EF, EU-Tidende 2013, nr. L 178, side 66.</Char>
+          </Linea>
+        </Exitus>
+      </Nota>
+    </Titel>
+    <UnderTitel id="id16dfc903-c521-44f9-a794-da075a7b608c">
+      <Linea>
+        <Char>(Gennemførelse af offshoresikkerhedsdirektivet, subsidiært ansvar for afvikling af anlæg, plan for afvikling af anlæg, sikkerhedsstillelse, forlængelse af geotermitilladelser, beredskab for forsyningsmæssige forhold, forsikring, digital kommunikation m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id95585f55-18ee-4886-944d-01ca136c0db8">
+    <Hymne id="idd2fbafb1-1e48-43cb-9e30-131c54f18306">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="ideca97c96-b5c2-40b4-9871-10bb582de16c">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om anvendelse af Danmarks undergrund, jf. lovbekendtgørelse nr. 960 af 13. september 2011, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id671a3b99-2826-4ef1-9df9-6b71a941700d">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id51fec3a9-6274-4eb8-ac50-8bf4a050cfd2">
+          <AendringDefinition id="id17f54d5d-eedb-4551-b59a-0ec092f9f05c">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">Fodnoten</Char>
+                <Char> til lovens titel affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id858896fb-eebe-48b8-a8bb-cab3d092d2bf" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <Nota id="id4aa839ac-3c47-49d5-8730-0d4ef7461959">
+                <Explicatus>1)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv 94/22/EF af 30. maj 1994 om betingelser for tildeling og udnyttelse af tilladelser til prospektering, efterforskning og produktion af kulbrinter, EF-Tidende 1994, nr. L 164, side 3, dele af Rådets direktiv 92/43/EØF af 21. maj 1992 om bevaring af naturtyper samt vilde dyr og planter, EF-Tidende 1992, nr. L 206, side 7, som ændret senest ved Rådets direktiv 2013/17/EU af 13. maj 2013 om tilpasning af visse direktiver vedrørende miljø på grund af Republikken Kroatiens tiltrædelse, EU-Tidende 2013, nr. L 158, side 193, dele af Europa-Parlamentets og Rådets direktiv 2008/99/EF af 19. november 2008 om strafferetlig beskyttelse af miljøet, EU-Tidende 2008, nr. L 328, side 28, dele af Europa-Parlamentets og Rådets direktiv 2009/28/EF af 23. april 2009 om fremme af anvendelsen af energi fra vedvarende energikilder og om ændring og senere ophævelse af direktiv 2001/77/EF og 2003/30/EF, EU-Tidende 2009, nr. L 140, side 16, som ændret ved Rådets direktiv 2013/18/EU af 13. maj 2013 om tilpasning af Europa-Parlamentets og Rådets direktiv 2009/28/EF om fremme af anvendelsen af energi fra vedvarende energikilder på grund af Republikken Kroatiens tiltrædelse, EU-Tidende 2013, nr. L 158, side 230, dele af Europa-Parlamentets og Rådets direktiv 2009/31/EF af 23. april 2009 om geologisk lagring af kuldioxid og om ændring af Rådets direktiv 85/337/EØF, Europa-Parlamentets og Rådets direktiv 2000/60/EF, 2001/80/EF, 2004/35/EF, 2006/12/EF, 2008/1/EF og forordning (EF) nr. 1013/2006, EU-Tidende 2009, nr. L 140, side 114, som ændret ved Europa-Parlamentets og Rådets direktiv 2011/92/EU af 13. december 2011 om vurdering af visse offentlige og private projekters indvirkning på miljøet, EU-Tidende 2012, nr. L 26, side 1, dele af Europa-Parlamentets og Rådets direktiv 2009/147/EF af 30. november 2009 om beskyttelse af vilde fugle, EU-Tidende 2010, nr. L 20, side 7, som ændret ved Rådets direktiv 2013/17/EU af 13. maj 2013 om tilpasning af visse direktiver vedrørende miljø på grund af Republikken Kroatiens tiltrædelse, EU-Tidende 2013, nr. L 158, side 193, dele af Europa-Parlamentets og Rådets direktiv 2011/92/EU af 13. december 2011 om vurdering af visse offentlige og private projekters indvirkning på miljøet, EU-Tidende 2011, nr. L 26, side 1, og dele af Europa-Parlamentets og Rådets direktiv 2013/30/EU af 12. juni 2013 om sikkerheden i forbindelse med offshore olie- og gasaktiviteter og om ændring af direktiv 2004/35/EF, EU-Tidende 2013, nr. L 178, side 66.</Char>
+                  </Linea>
+                </Exitus>
+              </Nota>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc5005fd2-d8a6-41e5-9847-64e041bb9d08">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id489cf0c8-9b1c-4fa4-ae16-7f9ce042de18">
+          <AendringDefinition id="idf956fd3d-878a-4dc0-bb33-b81b1a957d54">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 2, nr. 2</Char>
+                <Char>, ændres »råstoffer og« til: »råstoffer,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id64eea4bd-e81d-4288-837a-9676c7277c81" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida840f856-a093-4885-8401-4402c12929e2">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id3ab93769-2a1f-40de-9d96-7a3ca3fbc0f7">
+          <AendringDefinition id="iddd94656f-7529-4c9f-8b88-00963405f4c3">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 2, nr. 3,</Char>
+                <Char> ændres »virksomhed.« til: »virksomhed og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id65d180cf-ab25-48fb-af69-4d18954487b5" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id66d489a2-9732-4e2c-9c3c-fef274127ac6">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id0e213a43-a1eb-4831-9087-2452dacc65c1">
+          <AendringDefinition id="idc2534939-fd23-461c-93fb-2ede9eaf8a41">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 2,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">nr. 4:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3e6cab86-932b-48cd-b81c-b7dec6f7818e" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus id="id15b5a371-3758-4623-898c-8461f3e958ad">
+                <Index>
+                  <Indentatio id="id685a468e-5f8d-4157-9736-dd85f1926344" formaInd="Nummer">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>beredskab vedrørende tilstødende olie- og naturgasrørledningsanlæg, separationsfaciliteter og terminalanlæg for råolie til sikring af samfundets forsyning af kulbrinter.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idba197702-10b7-4616-92b8-8325728ad1e7">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="idb3774f1b-2c5f-48d4-8e01-acfa7ecaf661">
+          <AendringDefinition id="id55dc3663-52e7-40a5-8b9b-77e6b099370a">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 3,</Char>
+                <Char> indsættes efter »gælder også i«: »dansk territorialfarvand,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id33099a27-c0cf-433f-83e7-fc07a7fa97da" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4f2910f4-9d22-4709-bf00-2ae548022479">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="ide93d1d3b-fe2f-4def-891c-10a8c79ca4dd">
+          <AendringDefinition id="id9c45c77c-dc25-44ac-ae08-97c67b1575be">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 1 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb70950cc-d1ed-4ec2-b6a7-fd3a5adda76b">
+            <AendringNyTekst>
+              <Paragraf id="id21fda070-6458-4cb9-bc92-d9d3b75730e1" localId="1">
+                <Explicatus>§ 1 a.</Explicatus>
+                <Stk id="id690f1809-fb63-4f3e-a6ec-dcfce1ba2103">
+                  <Exitus>
+                    <Linea>
+                      <Char>I denne lov forstås ved følgende:</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus id="idd4569083-7070-43b1-9797-67cfa2cd19cd">
+                    <Index>
+                      <Indentatio id="idf1a8b384-7079-462a-a122-ed9209d38e10" formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Operatør: Den, som i henhold til en tilladelse udstedt i medfør af denne lov udfører aktiviteter på vegne af rettighedshaveren eller sole risk-aktiviteter på vegne af nogle af deltagerne i en tilladelse.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="id8486b92c-dc87-4082-8623-b723a95c601e" formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Havområdet: Dansk territorialfarvand, dansk eksklusiv økonomisk zone eller dansk kontinentalsokkel som defineret i De Forende Nationers Havretskonvention.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="ida39761be-ca19-4c93-b998-0373051fd43b" formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Rettighedshaver: Den eller de deltagere, som i henhold til denne lov har en tilladelse til forundersøgelse, til efterforskning og indvinding af råstoffer, til etablering og drift af rørledningsanlæg, til efterforskning og anvendelse af undergrunden til lagring eller andre formål end indvinding eller til videnskabelige undersøgelser.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>En rettighedshaver kan bestå af en eller flere fysiske eller juridiske personer i forening, herunder bevillingshavere og bistandsydere.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc8f44e45-339f-417f-9783-d5fbf099a51c">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id1817dc77-4ef5-429f-9fde-ee5b1841d6cb">
+          <AendringDefinition id="idadb92b1b-f6a2-461d-a8ae-8e7bc2114321">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5, stk. 3,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd3f54536-d58d-4e99-b088-b5a1ac0cdcea" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idfc3970b7-c325-40b2-a671-95581d61fee7">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 4 og 5 bliver herefter stk. 3 og 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id2e11c9ce-ba4b-41f9-911f-c54f98ea82c6">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id988e9b39-861b-491d-8fe6-2b9e78402bc0">
+          <AendringDefinition id="id8172318d-30fe-48e2-9894-b0557fd2e12a">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12 a, stk. 1, litra a,</Char>
+                <Char> ændres »ansøgerens sagkundskab og økonomiske baggrund« til: »ansøgerens tekniske og finansielle kapacitet«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idabf35dc3-0293-40bf-936d-12dd96477a9a" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id277a8c73-10ce-4ab4-ae4d-4305c21635b5">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="id9fd87ee1-5d4b-41c5-8de2-72c0d41cd8c5">
+          <AendringDefinition id="id064c88ce-3944-4ab7-bcce-54302c5209a4">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 17, stk. 2,</Char>
+                <Char> indsættes efter »dimensioner,«: »transportkapacitet,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4a5fec9a-3574-481a-91e2-6ca7a15dcf2c" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide5b5ec5e-f6b8-46e4-a746-685d643713a2">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="iddedb9cb2-7368-4c98-aed3-8369819f4dd9">
+          <AendringDefinition id="id9933cc92-f1f7-459e-8b26-1c2bf73c8bf7">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 17 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7b5e5c1f-e04f-4d6e-8ffc-89cac982029a">
+            <AendringNyTekst>
+              <Paragraf id="idf33732a4-d298-46cf-b21e-8dd8aad70224" localId="2">
+                <Explicatus>§ 17 a.</Explicatus>
+                <Stk id="idcb2b1b95-f5c6-44d4-8600-f648a913c181">
+                  <Exitus>
+                    <Linea>
+                      <Char>Rettighedshavere med tilladelse til efterforskning og indvinding af kulbrinter, jf. § 5, eller etablering og drift af rørledningsanlæg i forbindelse med indvinding af kulbrinter, jf. § 17, skal planlægge med hensyn til opretholdelse og videreførelse af forsyningen af kulbrinter til samfundet i tilfælde af krisesituationer, herunder udarbejde beredskabsplaner og gennemføre nødvendige foranstaltninger til sikring af egne anlæg, rørledninger, kritiske systemer og data m.v. Dette gælder også ejere af tilstødende olie- og naturgasrørledningsanlæg, separationsfaciliteter og terminalanlæg for råolie, jf. § 1 i lov om etablering og benyttelse af en rørledning til transport af råolie og kondensat og § 4 i lov om kontinentalsoklen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Rettighedshavere og ejere skal koordinere dette beredskab med beredskab efter anden lovgivning.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id10ae5aaa-b9a2-4817-886a-22d6824747c2">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis rettighedshaveren eller ejeren består af en eller flere fysiske eller juridiske personer i forening, gælder stk. 1 for hver enkelt af disse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id230c5388-7712-477c-8c7b-e63e5017f4e3">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Klima-, energi- og bygningsministeren kan fastsætte nærmere regler om varetagelse af de opgaver, som er anført i stk. 1, herunder om fremsendelse af oplysninger af relevans for dette arbejde til ministeren, og nærmere regler om gennemførelse af EU-regler.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8c04c103-93c6-4047-b254-668cf692e9ff">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="id5038107e-87bf-466b-b528-1167fa3720a5">
+          <AendringDefinition id="id0cf8e29d-40cd-4b6a-8901-6d79cfe67bf9">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18 b, stk. 1, litra a,</Char>
+                <Char> ændres »ansøgernes sagkundskab og økonomiske baggrund« til: »ansøgernes tekniske og finansielle kapacitet«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4df6e20a-c07f-4e4e-b9db-da2439abeebe" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide2d9f91c-0172-4467-9b80-b986d2fd8c17">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="id7053b6e8-5fc4-4193-9231-ed4cce5b8062">
+          <AendringDefinition id="idf73015e2-1600-42f0-9dea-56693d209c4c">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18 c, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id67b05d6c-0cb2-4aa5-81f9-8ae71b150153">
+            <AendringNyTekst>
+              <Stk id="idb6a02089-8684-4f08-936e-6f79ca762fc2">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelser efter § 5 til efterforskning og indvinding af geotermisk energi meddeles for et tidsrum af indtil 6 år, der, såfremt særlige omstændigheder foreligger, kan forlænges med henblik på efterforskning med indtil 2 år ad gangen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den samlede efterforskningsperiode kan kun undtagelsesvis overstige 10 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idfd80d8f0-b1c7-4109-b18c-6963e8078d14">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="id92220e74-c75a-4c3c-a0c3-4739d061f820">
+          <AendringDefinition id="id6bb2a8c8-ac97-45af-b457-3524a4aaa0b4">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18 c</Char>
+                <Char> indsættes efter stk. 2 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7456a280-07fa-4949-9121-2d7d21c46025">
+            <AendringNyTekst>
+              <Stk id="id6beb0ca5-f458-414e-a291-52c5b370f68a">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det tidsrum for indvinding, der er fastsat i medfør af stk. 2 eller i den pågældende tilladelse, kan forlænges, når særlige omstændigheder taler herfor.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Såfremt det samlede tidsrum for tilladelsen dermed vil overstige 50 år, finder reglerne i § 6 tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idf77db7c2-c946-4f83-8edd-f0be43150970">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 bliver herefter stk. 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id521cfd66-2ed2-41cf-a432-c54858109d1c">
+        <Explicatus>14.</Explicatus>
+        <Aendring id="id1d4a3628-00a2-4261-bcc5-00ca3ea5be6e">
+          <AendringDefinition id="idc05e3ed9-7a3e-4e6d-bf86-bed056ec70e1">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 23 c, stk. 1, litra a,</Char>
+                <Char> ændres »ansøgernes sagkundskab og økonomiske baggrund« til: »ansøgernes tekniske og finansielle kapacitet«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id548109a7-3166-4418-968e-75df81b2ea57" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id190fe021-c881-4bfa-853c-795e5a0d3d6a">
+        <Explicatus>15.</Explicatus>
+        <Aendring id="id56285279-a8fa-49c8-b636-f010b083b51c">
+          <AendringDefinition id="idc1e79d23-f5bb-48aa-820f-84c26885346e">
+            <Exitus>
+              <Linea>
+                <Char>Efter kapitel 7 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id40a65dfb-d03d-4093-bd0a-a18236ecd748">
+            <AendringNyTekst>
+              <Kapitel id="id2ec1d4e1-6a07-419e-bd9d-a57941cf039f" localId="1">
+                <Explicatus>Kapitel 7 a</Explicatus>
+                <Rubrica id="id416cc0fb-6730-440e-a4b4-57a53ed833da">
+                  <Linea>
+                    <Char>Krav til teknisk og finansiel kapacitet, udpegning og godkendelse af operatører, forsikring, sikkerhedsstillelse og opdeling af tilladelser m.v.</Char>
+                  </Linea>
+                </Rubrica>
+                <ParagrafGruppe>
+                  <Paragraf id="id4c0ed265-0565-4b18-9721-96d3bca5c8b9" localId="3">
+                    <Explicatus>§ 24 a.</Explicatus>
+                    <Stk id="id32fdd824-585d-4b1c-9936-6d89bfe38b0b">
+                      <Exitus>
+                        <Linea>
+                          <Char>Rettighedshaveren til en tilladelse efter §§ 3, 5, 17, 23 eller 24 skal have fornøden teknisk og finansiel kapacitet og kunne forventes at udøve virksomheden sådan, at samfundet har mest mulig indsigt i og gavn af denne.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idb26b2802-9969-4cf6-8abc-39edfeb69ab2">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Den tekniske kapacitet hos rettighedshaveren, jf. stk. 1, skal være tilstrækkelig til, at virksomheden kan drives på en ressourcemæssigt forsvarlig måde, og til, at uforudsete hændelser kan håndteres på sikker og betryggende vis.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Rettighedshaveren skal herved bl.a. have den fornødne tekniske kapacitet til at kunne sikre en forsvarlig forberedelse, øjeblikkelig iværksættelse og uafbrudt fortsættelse af alle de foranstaltninger, der er nødvendige for en effektiv beredskabsindsats og efterfølgende genopretning.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idd8d32622-abcb-43e0-b165-8360562f2c4a">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Den finansielle kapacitet hos rettighedshaveren, jf. stk. 1, skal være tilstrækkelig til, at rettighedshaveren kan udføre alle aktiviteter, som indgår i den forestående fase af virksomheden i henhold til tilladelsen, herunder med en reserve til uforudsete udgifter og finansiel sikkerhedsstillelse til at dække et muligt erstatningsansvar som følge af aktiviteterne.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Den finansielle kapacitet skal herved bl.a. omfatte midler til øjeblikkelig iværksættelse og uafbrudt fortsættelse af alle de foranstaltninger, der er nødvendige for en effektiv beredskabsindsats og efterfølgende genopretning, herunder fjernelse af anlæg, når produktionen er tilendebragt.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="idc6fd6ecd-37fa-4750-aae7-d455eec75fc6" localId="4">
+                    <Explicatus>§ 24 b.</Explicatus>
+                    <Stk id="idf43df829-997a-4f90-a875-4619be2f3419">
+                      <Exitus>
+                        <Linea>
+                          <Char>Rettighedshaveren til en tilladelse efter §§ 3, 5, 17, 23 eller 24 skal, hvis virksomheden i henhold til tilladelsen er opdelt i faser, forud for overgang til en ny fase i et program for arbejdsforpligtelserne, inden godkendelse af en efterforsknings- eller vurderingsboring, jf. § 28, eller en plan for indvindingsvirksomhed, jf. §§ 10 og 17, og inden iværksættelse af en plan for afvikling af anlæg til indvinding og transport, jf. § 32 a, dokumentere at have fornøden teknisk og finansiel kapacitet til at kunne udføre den virksomhed, der er omfattet af tilladelsen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idac8402bf-df53-4a92-84f7-6eb4a4aad1f4">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Såfremt en rettighedshaver til en tilladelse ikke dokumenterer den fornødne tekniske og finansielle kapacitet, jf. stk. 1, kan forundersøgelses-, efterforsknings-, indvindings- og afviklingsaktiviteter i henhold til tilladelsen ikke videreføres og godkendelser og tilladelser efter § 10, stk. 2 og 3, og §§ 17 og 28 ikke meddeles.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Rettighedshaveren kan i et sådant tilfælde efter ansøgning få fastsat en frist på op til 3 måneder med henblik på afhjælpning af forholdet.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Under særlige omstændigheder kan perioden yderligere forlænges.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Kan forholdet ikke afhjælpes inden for den fastsatte frist, tilbagekaldes tilladelsen, jf. § 30.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idc7641db7-e78b-454c-8b15-8f6864a9505a">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Såfremt rettighedshaveren meddeles en frist for indhentelse af fornøden dokumentation efter stk. 2, kan klima-, energi- og bygningsministeren tillade udførelse af visse aktiviteter.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Der kan fastsættes vilkår herfor.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="idba413789-b3cd-4d2c-80fa-9dc194d20c52" localId="5">
+                    <Explicatus>§ 24 c.</Explicatus>
+                    <Stk id="idcf468fe9-1322-46c8-b08f-b46a3e0b3e9b">
+                      <Exitus>
+                        <Linea>
+                          <Char>Klima-, energi- og bygningsministeren kan til en­hver tid anmode rettighedshaveren til en tilladelse meddelt efter §§ 3, 5, 17, 23 eller 24 om at dokumentere, at denne er i besiddelse af den fornødne tekniske og finansielle kapacitet til at kunne udføre de aktiviteter, der er omfattet af tilladelsen, jf. § 24 a.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id8d694c09-333c-47e9-9b03-f6b7eee9cb20">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Kan en eller flere af de deltagere, der i forening udgør en rettighedshaver til en tilladelse, jf. stk. 1, ikke dokumentere at have fornøden teknisk og finansiel kapacitet, kan klima-, energi- og bygningsministeren give påbud om, at forholdet afhjælpes inden en nærmere fastsat frist.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Der kan endvidere gives påbud om helt eller delvis at indstille virksomheden.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="id0d771858-5fd3-4414-bf46-5e83d9e913de" localId="6">
+                    <Explicatus>§ 24 d.</Explicatus>
+                    <Stk id="id10138a76-c622-4a41-b50d-1f5a4647d704">
+                      <Exitus>
+                        <Linea>
+                          <Char>Klima-, energi- og bygningsministeren udpeger en operatør i forbindelse med meddelelse af tilladelser efter §§ 3, 5, 17, 23 eller 24.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Alene operatører, der vurderes at besidde den nødvendige tekniske og finansielle kapacitet, kan udpeges som operatører.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Klima-, energi- og bygningsministeren kan fastsætte vilkår for udpegning.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Klima- energi- og bygningsministeren hører tilsynsmyndigheden i henhold til offshoresikkerhedsloven, inden der udpeges en operatør.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id402e5156-2ca4-410d-af1a-7a14025a550a">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Klima-, energi- og bygningsministeren godkender en efterfølgende udskiftning af operatøren.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Klima-, energi- og bygningsministeren kan fastsætte vilkår for godkendelse.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Klima- energi- og bygningsministeren hører tilsynsmyndigheden i henhold til offshoresikkerhedsloven, inden der godkendes en operatør.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="ide5ac97f2-73f9-472b-bbed-cdecfeb0348e">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Rettighedshaveren skal løbende sikre, at operatøren udpeget eller godkendt efter stk. 1 eller 2 har kapacitet til at opfylde kravene for specifik drift inden for rammerne af tilladelsen, herunder tage alle rimelige skridt for at sikre, at operatøren opfylder kravene, udfører sine funktioner og lever op til sine forpligtelser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idda5cab52-e2db-4492-a23a-6cee622a1bd3">
+                      <Explicatus>Stk. 4.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Træffer tilsynsmyndigheden i henhold til offshoresikkerhedsloven eller havmiljøloven afgørelse om, at en operatør ikke længere har kapacitet til at opfylde de relevante krav i henhold til direktiv 2013/30/EU af 12. juni 2013 om sikkerheden i forbindelse med offshore olie- og gasaktiviteter, underretter den klima-, energi- og bygningsministeren herom.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Klima-, energi- og bygningsministeren underretter rettighedshaveren til den pågældende tilladelse om afgørelsen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="ida5ca02cc-7455-4498-addb-d2e97a161ec6">
+                      <Explicatus>Stk. 5.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>I situationer, hvor der er truffet afgørelse om, at en operatør ikke har kapacitet til at opfylde kravene for specifik drift inden for rammerne af en tilladelse, jf. stk. 4, 1. pkt., overtager rettighedshaveren til den pågældende tilladelse ansvaret for operatørens forpligtelser fra det tidspunkt, hvor underretningen efter stk. 4, 2. pkt., er kommet frem.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Rettighedshaveren skal straks foreslå en anden operatør til klima-, energi- og bygningsministerens godkendelse i henhold til stk. 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id430cd117-d9f4-42e2-8a4c-52eb1689d040">
+                      <Explicatus>Stk. 6.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Rettighedshaveren til tilladelser efter §§ 3, 5, 17, 23 og 24, hvor der ikke er udpeget en operatør af klima-, energi- og bygningsministeren, skal inden 6 måneder efter lovens ikrafttræden indsende ansøgning om godkendelse af en operatør til klima-, energi- og bygningsministeren.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Operatøren skal opfylde kravene til teknisk og finansiel kapacitet, jf. stk. 1.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Kan klima-, energi- og bygningsministeren ikke godkende den operatør, der er indstillet af rettighedshaveren, skal rettighedshaveren inden en nærmere angivet frist foreslå klima-, energi- og bygningsministeren en anden operatør til ministerens godkendelse.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Klima- energi- og bygningsministeren hører tilsynsmyndigheden i henhold til offshoresikkerhedsloven, inden der godkendes en operatør.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Klima-, energi- og bygningsministeren kan fastsætte vilkår for godkendelsen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="idcee6e456-6548-4626-86d9-0e30c5b5f970" localId="7">
+                    <Explicatus>§ 24 e.</Explicatus>
+                    <Stk id="ida117b948-a77d-48af-9d13-8e1d60040c20">
+                      <Exitus>
+                        <Linea>
+                          <Char>En rettighedshavers erstatningsansvar i henhold til tilladelser efter denne lov skal være dækket af forsikring.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Forsikringen skal give en rimelig dækning ud fra hensynet til risikoen ved virksomhedens udøvelse og præmieomkostningerne.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idfc8df79c-df53-4a1b-a2a3-82f32c558289">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Klima-, energi- og bygningsministeren kan  stille krav om, at yderligere forsikringer tegnes.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Klima-, energi og bygningsministeren kan godkende, at der i stedet for forsikring stilles sikkerhed.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id33201104-4b0c-4a5a-8a9b-36a7fcea5261">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>En rettighedshaver til tilladelser efter §§ 3, 5, 17, 23 eller 24 skal etablere en procedure til sikring af omgående og passende behandling af erstatningskrav, herunder med hensyn til skadeserstatning for grænseoverskridende hændelser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idc92e7adb-5551-4253-b73e-02ae7a74bf9b">
+                      <Explicatus>Stk. 4.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Proceduren efter stk. 3 skal godkendes af klima-, energi- og bygningsministeren, som kan fastsætte vilkår for godkendelsen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idff13533b-aee1-40fd-96be-9fb88f460240">
+                      <Explicatus>Stk. 5.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Rettighedshaveren skal bekendtgøre proceduren efter stk. 3 for offentligheden.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id94d46d58-9996-4340-8f6b-7ef2b6e26320">
+                      <Explicatus>Stk. 6.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Klima-, energi- og bygningsministeren kan fastsætte regler om forsikring af og sikkerhedsstillelse for den virksomhed, der er omfattet af tilladelsen, om procedurer og bekendtgørelse heraf og om meddelelse af oplysninger om gældende forsikringer til brug for ministerens tilsyn med virksomheden.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="id0ab8844c-7586-4be8-8d41-8b323384f917" localId="8">
+                    <Explicatus>§ 24 f.</Explicatus>
+                    <Stk id="idece67ecf-80ad-434c-91fd-973027b0f597">
+                      <Exitus>
+                        <Linea>
+                          <Char>I tilladelser efter denne lov kan der fastsættes nærmere bestemmelser om, at rettighedshavere skal stille sikkerhed for opfyldelse af samtlige forpligtelser i henhold til tilladelsen.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Sikkerheden kan kræves ændret eller suppleret med et varsel.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Sikkerhedsstillelsen skal godkendes af klima-, energi- og bygningsministeren, som kan fastsætte vilkår for godkendelsen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="id2d7dc3f0-2cee-43f4-b019-defea2891ff8" localId="9">
+                    <Explicatus>§ 24 g.</Explicatus>
+                    <Stk id="idbdc5e75a-a5a3-47f0-ad02-5ad4e7627053">
+                      <Exitus>
+                        <Linea>
+                          <Char>Klima-, energi- og bygningsministeren kan efter ansøgning fra en rettighedshaver godkende, at en tilladelse meddelt i henhold til §§ 5 eller 23 opdeles i to eller flere tilladelser omfattende områder inden for den oprindelige tilladelses areal.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Tilladelsens vilkår og betingelser vil være gældende for de enkelte områder efter opdelingen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="ida6dc3335-81e0-4a6f-be49-5e7ef8627610">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Opdeling af området for en tilladelse meddelt i medfør af §§ 5 eller 23 må ikke føre til deling af en forekomst eller til deling af en geologisk struktur, der kan benyttes eller benyttes til lagring eller andre formål end indvinding af råstoffer, hvis opdelingen vanskeliggør en hensigtsmæssig udnyttelse af den pågældende forekomst eller en hensigtsmæssig anvendelse af den pågældende geologiske struktur.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id08ad9c9b-0aaa-4837-9dd4-cedc5a0dbfc4">
+        <Explicatus>16.</Explicatus>
+        <Aendring id="id8b87179d-68fd-49a9-8c84-54ddaba361e1">
+          <AendringDefinition id="id76815218-fb85-4781-96bd-538d3998e3ad">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 27, stk. 2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id639854b0-f3c7-42e2-b0c9-2183ce1bd453" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id44bd9450-9708-48ae-8e44-0b9f79df1578">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det kan i tilladelser efter denne lov bestemmes, at repræsentanter for tilsynet skal kunne overvære møder i rettighedshaverens besluttende organer og andre samarbejdsorganer, der oprettes i forbindelse med virksomhed, der er omfattet af tilladelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilsynet skal indkaldes med samme varsel og have samme materiale, herunder mødereferater, som de øvrige deltagere.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id03d65de8-e01a-48a8-96dd-89e6268734ad">
+        <Explicatus>17.</Explicatus>
+        <Aendring id="id471743da-6752-4d76-ba4b-cd7d75069e08">
+          <AendringDefinition id="id468f3002-29b5-499d-bb23-e44fb0846f43">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 28</Char>
+                <Char> indsættes efter »tilfælde«: », jf. dog stk. 2 og 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idbd3bf38c-3a0e-47b2-bff5-dc6c102d2c98" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide55d6763-a438-4dd4-b334-8b8bfd182348">
+        <Explicatus>18.</Explicatus>
+        <Aendring id="id5df04042-626c-4e80-8712-1442f464c2ba">
+          <AendringDefinition id="id587b5b3e-497e-4722-b052-6214295baf0d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 28</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2-4:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide288a14a-8cd9-4731-90d1-20af46e2c0a1" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id31ca5892-2fc9-4d25-b3f1-0d030cc64899">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Arbejder i forbindelse med udførelse eller ændring af boringer på havområdet med henblik på efterforskning og indvinding af kulbrinter i medfør af tilladelser udstedt efter § 5 er ikke omfattet af stk. 1, jf. dog stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd822b9ea-26af-4dd4-b0a5-7d974a26f147">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Arbejder i forbindelse med udførelse eller ændring af boringer på havområdet med henblik på efterforskning og indvinding af kulbrinter i medfør af tilladelser udstedt efter § 5 må kun iværksættes, såfremt klima-, energi- og bygningsministerens godkendelse af ressourcemæssige forhold vedrørende udstyr, program og udførelsesmåde er indhentet i hvert enkelt tilfælde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1f5e6525-2828-4831-ad59-25c85f46ae1f">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klima-, energi- og bygningsministeren kan fastsætte vilkår ved godkendelser efter stk. 1 og 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id889cdaed-c522-4a6e-a800-433c89db8f0c">
+        <Explicatus>19.</Explicatus>
+        <Aendring id="id0f2f152a-7fdb-4484-bbf7-f625da1193e3">
+          <AendringDefinition id="id426d33c9-112c-4e6f-b1e5-b0dd177548d3">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 28 c indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id772f0bfa-74bc-42dc-99a3-81cfc265870b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="iddcc8d57c-e554-454a-9e4b-e4b02ad89c13" localId="10">
+                <Explicatus>§ 28 d.</Explicatus>
+                <Stk id="id9a49127e-99e8-48b7-a7e1-eafc42d6e2da">
+                  <Exitus>
+                    <Linea>
+                      <Char>Udførelse af en efterforskningsboring på havområdet, hvor efterforskningsmålet er kulbrinter, fra anlæg, som ikke benyttes til indvinding, må kun iværksættes, hvis der forinden har været foretaget en tidlig og effektiv offentlig deltagelse vedrørende de eventuelle virkninger af de planlagte aktiviteter på miljøet i henhold til regler, som gennemfører andre EU-regler end direktiv 2013/30/EU af 12. juni 2013 om sikkerheden i forbindelse med offshore olie- og gasaktiviteter, herunder direktiv 2001/42/EF af 27. juni 2001 om vurdering af bestemte planers og programmers indvirkning på miljøet eller direktiv 2011/92/EU af 13. december 2011 om vurdering af visse offentlige og private projekters indvirkning på miljøet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id127ec82b-9aad-447f-8865-8bafcad1be13">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Er der ikke iværksat foranstaltninger som anført i stk. 1, sikrer klima-, energi- og bygningsministeren, at der sker offentlig deltagelse.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ministeren fastsætter regler om underretning og høring af offentligheden og de berørte myndigheder og organisationer, herunder om tidsrammer herfor.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4cd30cdb-361f-466d-b201-16a9ccf63cd0">
+        <Explicatus>20.</Explicatus>
+        <Aendring id="id809b8453-3687-48ca-aae7-4c0f128e2838">
+          <AendringDefinition id="id2bd55705-80bc-4ece-bc48-09aadd4cd815">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 29</Char>
+                <Char> indsættes efter stk. 1 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id61c61a84-39dd-447f-9642-91513731f732" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="iddd934fbf-b041-4f5f-a930-aeab9a928ac3">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klima-, energi- og bygningsministeren kan alene godkende overdragelser som nævnt i stk. 1, hvis rettighedshaveren også efter overdragelsen skønnes at have den fornødne tekniske og finansielle kapacitet og kan forventes at udøve virksomheden sådan, at samfundet har mest mulig indsigt i og gavn af denne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan stille vilkår for godkendelse af overdragelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id2a896156-5eaf-4b91-b7ee-1b25506558e4">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2 bliver herefter stk. 3.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id90dc6013-c638-4aa8-a19f-d89e9bab2da4">
+        <Explicatus>21.</Explicatus>
+        <Aendring id="id8343032c-7b21-41aa-a02b-2ae05655e06e">
+          <AendringDefinition id="idec1824fb-b702-4e81-96cb-9f5b2f2aec05">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 29 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8a62c33f-ca92-4e5f-bcfd-cb5742821224" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="idd4093873-33fc-4b3f-a942-4d2c39c36b5d" localId="11">
+                <Explicatus>§ 29 a.</Explicatus>
+                <Stk id="id8e7e3011-ae9c-4684-b238-7449e7146c68">
+                  <Exitus>
+                    <Linea>
+                      <Char>En deltager i en tilladelse efter §§ 5, 17 eller 23, som helt eller delvis overdrager tilladelsen, er subsidiært økonomisk ansvarlig over for de øvrige deltagere med andel i tilladelsen, for så vidt angår udgifter til afvikling af anlæg, herunder afvikling af påbegyndte anlæg m.v., jf. § 32 a, som eksisterer på tidspunktet for overdragelsen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Den overdragende deltager er subsidiært økonomisk ansvarlig over for staten, hvis de udgifter, der er nævnt i 1. pkt., ikke dækkes af en anden deltager i tilladelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id5189367f-af73-4457-b47a-ffdede1e12f4">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En overdragende deltager er ligeledes subsidiært økonomisk ansvarlig over for staten for de i stk. 1 omhandlede udgifter, såfremt staten har måttet påtage sig afvikling for rettighedshaverens regning.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id90bb9cce-6e88-4bfe-99f1-20b346a3eaa4">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Det økonomiske ansvar efter stk. 1 og 2 beregnes på grundlag af størrelsen af den overdragede andels del af omkostningerne til gennemførelse af afviklingen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idd9c84a7a-4735-47db-9a6c-c095b550a06a">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Den overdragende deltagers økonomiske ansvar gælder, uanset om andelen eller dele heraf senere overdrages, dog således at krav først rettes mod den deltager, som senest overdrog andelen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idac4d6f5c-0cf5-4d76-859b-95fa46f367a4">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Det er en forudsætning for godkendelse efter § 29 af en overdragelse af en tilladelse efter §§ 5, 17 eller 23 eller en andel af en sådan, at den overdragende deltager har afgivet en erklæring om subsidiært ansvar, jf. stk. 1-4, over for de deltagere, som til enhver tid udgør rettighedshaveren til tilladelsen, og over for staten.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idb012bc4b-b5b1-4ce5-9ddc-f3c0d7d09fcd">
+                  <Explicatus>Stk. 6.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Klima-, energi- og bygningsministeren skal godkende erklæringer efter stk. 5 og kan fastsætte vilkår herfor.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1ffba3a5-a09b-4137-b132-2ea1efd427c5">
+        <Explicatus>22.</Explicatus>
+        <Aendring id="id52c9e977-76b0-4ad0-8fe7-d36c6f156204">
+          <AendringDefinition id="idb537517f-7b20-4644-b1ce-e06bd8450124">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 32 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9ffc084e-33c5-45d0-9760-bd83c36a4ef1" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="idd104cbe2-03ac-4461-ae3e-4b41c741e7a3" localId="12">
+                <Explicatus>§ 32 a.</Explicatus>
+                <Stk id="idcf2f5443-8f14-4178-b7ef-4d44a963ed10">
+                  <Exitus>
+                    <Linea>
+                      <Char>Ansøgning om tilladelse eller godkendelse efter §§ 10, 17, 23 eller 28 skal ledsages af en plan for afvikling af samtlige anlæg og installationer m.v. omfattet af ansøgningen og alle eventuelt tidligere godkendte anlæg og installationer m.v. i forbindelse med den tilladelse efter §§ 5, 17 eller 23, som ansøgningen vedrører.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id6ecd5d49-ba7b-4237-ac6a-05ba8022f137">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>I afviklingsplanen skal indgå en opgørelse af de forventede udgifter til gennemførelse af afviklingsplanen og en beskrivelse af, hvorledes der etableres sikkerhed for, at midlerne til gennemførelse af afviklingsplanen er til rådighed.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Afviklingsplanen skal godkendes af klima-, energi- og bygningsministeren.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Der kan fastsættes vilkår for godkendelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id856ad215-f6ff-417e-9984-614ea4527dca">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Godkendelse efter § 28, stk. 1 eller 3, af et program for midlertidigt at efterlade en efterforsknings- eller vurderingsboring kan kun meddeles, hvis rettighedshaver har stillet sikkerhed for udgifterne til permanent lukning.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id5b85b5c3-a5d2-4157-b5d1-1221a55a4fc6">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Rettighedshavere til tilladelser omfattende anlæg og installationer m.v. til brug for virksomhed omfattet af loven, som er etableret inden den 19. juli 2015, og anlæg og installationer m.v., som er godkendt efter §§ 10, 17 eller 23, men som endnu ikke er etableret på dette tidspunkt, skal inden den 19. juli 2018 fremsende afviklingsplaner for deres anlæg til klima-, energi- og bygningsministerens godkendelse.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Afviklingsplaner skal dog fremsendes senest 2 år inden en tilladelses ophør eller senest 2 år før det tidspunkt, hvor et eller flere anlæg forventes at ville have udtjent deres formål.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Afviklingsplanerne skal godkendes af klima-, energi- og bygningsministeren, som kan fastsætte vilkår for godkendelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id417806e5-d4db-4c9e-8eba-7b3f09cfad3d">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Rettighedshavere og ejere af anlæg og installationer m.v. etableret i medfør af lov om etablering og benyttelse af en rørledning til transport af råolie og kondensat, jf. lovbekendtgørelse nr. 277 af 25. marts 2014, skal ligeledes fremsende afviklingsplaner, for så vidt angår anlæg fra Nordsøen og indtil første terminal på land.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Afviklingsplanerne skal godkendes af klima-, energi- og bygningsministeren, som kan fastsætte vilkår for godkendelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id1ecc5d00-410f-4a04-9b11-3338a4db6534">
+                  <Explicatus>Stk. 6.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Afviklingsplaner efter stk. 1 og 3 skal omfatte afvikling af samtlige anlæg og installationer m.v. og en opgørelse af forventede udgifter til gennemførelse af planen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>I afviklingsplanen skal indgå, hvordan og på hvilke tidspunkter der etableres sikkerhed for, at midlerne til gennemførelse af afviklingsplanerne er til rådighed.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id6581501e-4425-436b-ac1a-7869ca9bbf9c">
+                  <Explicatus>Stk. 7.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Klima-, energi- og bygningsministeren kan fastsætte nærmere regler om indholdet af en afviklingsplan, herunder om de forudsætninger, som skal anvendes for afvikling af anlæg og installationer m.v., opgørelse af udgifterne og krav til etablering af sikkerhed for midler til fjernelse.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ministeren kan endvidere fastsætte nærmere regler om opgørelse af udgifter og krav til etablering af sikkerhed for midler til permanent lukning af efterforsknings- og vurderingsboringer.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc3430517-5224-4e0f-8a84-ff029c4a267f">
+        <Explicatus>23.</Explicatus>
+        <Aendring id="id7b215dac-ce52-44d9-8f88-b7f7262ff670">
+          <AendringDefinition id="idcfee0583-4599-4ecf-a956-ff06c800c307">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 34 a indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id25280184-a980-442d-b21c-01621a5f0071" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id3df895f6-fe4a-4462-9650-dbe49968dd50" localId="13">
+                <Explicatus>§ 34 b.</Explicatus>
+                <Stk id="idc46a6a43-2e94-44f3-95a1-0d888b950b5b">
+                  <Exitus>
+                    <Linea>
+                      <Char>Klima-, energi- og bygningsministeren kan fastsætte regler om, at skriftlig kommunikation til og fra ministeren om forhold, som er omfattet af denne lov eller regler fastsat i medfør heraf, skal foregå digitalt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id7bc3f43d-6c88-43e1-8242-7a043c59a649">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren kan fastsætte nærmere regler om digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id295b4147-708b-4455-8e6e-0549097ee118">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En digital meddelelse anses efter denne lov for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id3e953a8a-1d2a-4181-b39e-a49b52d53bde">
+        <Explicatus>24.</Explicatus>
+        <Aendring id="id672c842c-22e1-412c-9506-a78cdc6a3777">
+          <AendringDefinition id="iddccee20b-ad40-483c-b366-2fdb22be21c9">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 37 a, stk. 3, 1. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 5,</Char>
+                <Char> ændres »§§ 28 a og 28 b« til: »§§ 28 a eller 28 b«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idebfcc881-a278-4623-953b-8610ef0cd767" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="ide7346fbf-bdbe-4e96-ac96-16fe3d5ac0f5">
+      <Explicatus>§ 2</Explicatus>
+      <Stk id="idfdb9357a-8a81-416f-a4c2-c703013f42bc">
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 19. juli 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="id52d4a3fe-1f8a-4d69-81d8-4ba915363409">
+      <Explicatus>§ 3</Explicatus>
+      <Stk id="id3660c9e7-1abf-4695-83b4-b8e7e0c23499">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 28, stk. 2 og 3, i lov om anvendelse af Danmarks undergrund som affattet ved denne lovs § 1, nr. 18, finder anvendelse for arbejder, som er under udførelse eller påbegyndes den 19. juli 2016 eller senere.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id5f462808-8810-4faf-89ae-5c627886fbee">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 28 d, stk. 1, i lov om anvendelse af Danmarks undergrund som affattet ved denne lovs § 1, nr. 19, finder ikke anvendelse på efterforskningsboringer, der udføres på baggrund af tilladelser meddelt inden den 18. juli 2013.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idcce0ca5a-2472-431d-8f43-06b3c82dd487">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 21, finder anvendelse på overdragelser godkendt efter § 29, stk. 1, i lov om anvendelse af Danmarks undergrund, hvis godkendelsen er givet efter lovens ikrafttræden.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idf725b1cb-178a-46f6-8bc8-38c8895bd84c">
+    <UnderskriftStedDato id="idf725b1cb-178a-46f6-8bc8-38c8895bd84c" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="idf725b1cb-178a-46f6-8bc8-38c8895bd84c" />
+  </UnderskriftGruppe>
+</Dokument>

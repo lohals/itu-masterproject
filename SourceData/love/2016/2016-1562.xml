@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idf5385b46-2d84-461b-a0c5-63214c5ce0d4" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2016/09/26/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id9b641c96-5bf5-431f-ad2a-2dd1982d8faa">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20160156230</AccessionNumber>
+    <DocumentId>CS000004</DocumentId>
+    <UniqueDocumentId>185611</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om dansk indfødsret (Krav om forældremyndighedsindehavers samtykke og vandel, når børn som bipersoner erhverver dansk indfødsret m.v.)</DocumentTitle>
+    <Year>2016</Year>
+    <DiesSigni>2016-12-13</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-14</EndDate>
+    <Status>Valid</Status>
+    <Number>1562</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1562 af 13/12/2016</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Inger Støjberg</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Udlændinge- og Integrationsmin., j.nr. 2016-3008</JournalNumber>
+    <Ministry>Udlændinge- og Integrationsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="ida8598697-41d7-4031-8408-2020129210f4">
+    <Titel id="id1e9f2117-8d4e-4d31-a261-0dea833dacc9">
+      <Linea>
+        <Char>Lov om ændring af lov om dansk indfødsret</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="ide468f020-f82a-4ee8-ba2d-f40a781330c7">
+      <Linea>
+        <Char>(Krav om forældremyndighedsindehavers samtykke og vandel, når børn som bipersoner erhverver dansk indfødsret m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="idd4518685-08d8-499f-bbac-241c0422ae4c">
+    <Hymne id="idae3e24b6-bdcf-49ea-bc2c-a8b20db015e3">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="idaa4c8699-a727-482e-942f-3f6be821898d">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om dansk indfødsret, jf. lovbekendtgørelse nr. 422 af 7. juni 2004, som ændret bl.a. ved lov nr. 730 af 25. juni 2014 og senest ved lov nr. 110 af 8. februar 2016, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id273ef31c-6dde-4a3f-9c45-e9ccb18376a4">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="ide72c5763-1bb6-4fde-b8cd-0360f62ab4b0">
+          <AendringDefinition id="id76648909-4199-4f39-9661-62d0c8ce6a67">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5 </Char>
+                <Char>indsættes efter 2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id783d612e-77c3-464e-8d79-b474a2a6bdfd">
+            <AendringNyTekst>
+              <Stk id="id146d3824-b62f-4ee0-820e-85fc88614723">
+                <Exitus>
+                  <Linea>
+                    <Char>Er barnet undergivet fælles forældremyndighed, skal den anden forældremyndighedsindehaver meddele samtykke til, at barnet erhverver indfødsret med den erklærende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id05245cb7-9326-4a4e-a011-f03f975b72aa">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id0b1edf5a-4264-4ca4-bb79-04a2fdd7f141">
+          <AendringDefinition id="id6cf5ba9e-2bd7-41fd-8c04-8a44939f54ed">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 6 </Char>
+                <Char>indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf3cd6184-ec62-4cca-8a30-4d8bbc5e76af">
+            <AendringNyTekst>
+              <Stk id="id6e4592d6-20f2-4314-9cd9-245660f9a923">
+                <Exitus>
+                  <Linea>
+                    <Char formaChar="Italic">Stk. 3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestemmelsen i stk. 2 finder ikke anvendelse, såfremt et barn, herunder adoptivbarn, ved lov undtages fra en forælders naturalisation.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf06261a7-9b7b-487b-bcfb-013b098586bf">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id753d31ae-efa5-4a59-b8e0-d271de25d522">
+          <AendringDefinition id="id092ee090-7ae0-4d0d-946b-2137db2be3f9">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">Bilag 1 </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idad9237c7-3e65-488a-9703-5ba389a57c75">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id97d30220-f8e8-4014-b4a9-1c46635a02a1">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 1496 af 23. december 2014 om ændring af lov om dansk indfødsret (Accept af dobbelt statsborgerskab og betaling af gebyr i sager om dansk indfødsret), som ændret ved lov nr. 111 af 8. februar 2016, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id7aad9044-a564-4514-a872-a06eafc81419">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id629ac20c-d9c3-4727-b428-d666bfa18ebd">
+          <AendringDefinition id="id80f057de-280b-4bef-925a-e88a50ed07e4">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 3, stk. 4, </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4, stk. 2, </Char>
+                <Char>indsættes efter 2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3fc7ce4f-b770-4bf1-a98e-b8287130bb47">
+            <AendringNyTekst>
+              <Stk id="id1deee819-d61f-475c-ba23-cf5de205704d">
+                <Exitus>
+                  <Linea>
+                    <Char>Er barnet undergivet fælles forældremyndighed, skal den anden forældremyndighedsindehaver meddele samtykke til, at barnet erhverver indfødsret med den erklærende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="idfaaeba1d-2a13-4f0a-9f69-00d1d94aac97">
+      <Explicatus>§ 3</Explicatus>
+      <Stk id="ided5f5254-54f8-4c28-9628-7b959f521d01">
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2017.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="idbf2d234c-35ad-464c-9e23-2e0d75270ad0">
+      <Explicatus>§ 4</Explicatus>
+      <Stk id="id8d6746b5-906c-481f-8600-8eb2796ccc28">
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som de færøske og grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id9a6ee923-9b68-4814-ae05-be9171772dd0">
+    <UnderskriftStedDato id="id7cf98b91-02d2-4b8e-bee5-ebf7a004b7fb" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="idd79d4fda-d280-4f39-8075-a92882d653ab" />
+  </UnderskriftGruppe>
+</Dokument>

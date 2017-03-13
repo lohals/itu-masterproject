@@ -1,0 +1,594 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id2da41cc2-f935-46e7-b238-5f8b423a9d84" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id1fa290cb-ded5-449a-87e1-ff71fe715593">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150165829</AccessionNumber>
+    <DocumentId>CK000134</DocumentId>
+    <UniqueDocumentId>174776</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om høstpant (Høstpantebrevsloven)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-12-14</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2015-12-18</EndDate>
+    <Status>Valid</Status>
+    <Number>1658</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 1658 af 14/12/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Eva Kjer Hansen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Jette Petersen</Signature>
+    <PlaceOfSignature>Miljø- og Fødevareministeriet</PlaceOfSignature>
+    <JournalNumber>Miljø- og Fødevaremin.,\nNaturErhvervstyrelsen, j.nr. 15-0122-000012</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id8578b659-417e-4683-9a9d-250a076bff5b">
+    <Titel id="idf72bd843-a09a-4c0a-90e6-3995cbccfc38">
+      <Linea>
+        <Char>Bekendtgørelse af lov om høstpant</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="iddcf7c0b3-797b-4f43-ba9b-6c73789f434d">
+      <Linea>
+        <Char>(Høstpantebrevsloven)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id70cb27f3-b719-4832-b886-6f4a3a278ff5">
+    <Indledning id="idcadfb265-fa16-432a-b16a-868cefc7c5f5">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov nr. 271 af 22. maj 1986 om høstpant med de ændringer, der følger af § 5 i lov nr. 560 af 24. juni 2005 og § 6 i lov nr. 539 af 8. juni 2006.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="ide2dad25d-1856-4676-a304-bea40bca10bf">
+      <Afsnit id="idde995386-800d-4bfb-9d6a-52ec3abbe88f" localId="1">
+        <Kapitel id="id88af59d4-3024-4bd6-8e9e-0055d8295e91" localId="1">
+          <ParagrafGruppe>
+            <Paragraf id="id155fd237-8262-47cf-af9e-ed968e6eaefd" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="id140144f0-119f-4b7e-b32d-6f8c71205c9a">
+                <Exitus>
+                  <Linea>
+                    <Char>Ejeren eller brugeren af en landbrugsejendom kan stifte pant i ejendommens afgrøder til sikkerhed for betalingen af gæld opstået i forbindelse med køb af de rå- og hjælpestoffer, der er nævnt i § 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3cd5b4ee-9af2-4fc8-a1c5-5eb89f590e2b">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Har ejeren bortforpagtet eller udlejet en del af landbrugsejendommen, finder lovens regler tilsvarende anvendelse på den del af ejendommen, som ejeren driver.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf03dd0cf-98f5-4757-9156-261498638719">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven finder endvidere tilsvarende anvendelse på den del af landbrugsejendommen, som brugeren driver.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc8de94c5-9b5a-4083-ae54-8393a7e65071">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ejeren eller brugeren af en landbrugsejendom kan ikke gyldigt fraskrive sig retten efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9ee71572-db23-479d-92cd-a89496ccdea1" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="idf3205a20-af2b-4dc4-8cc0-2c29abc5cdba">
+                <Exitus>
+                  <Linea>
+                    <Char>Pantsætning efter loven kan ske i forbindelse med indkøb af:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id67865d86-83af-4e1b-b2c7-5a62978418ff">
+                  <Index>
+                    <Indentatio id="idf265dcff-a4a3-4c97-af47-52ffc1ca1844" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>sædekorn,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id6a263831-bc3a-4d68-99bb-c4590b310dcb" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>læggekartofler,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd182a7df-944e-474c-8a5a-2ea8647bbbba" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>stikløg,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf972ce4d-b6b6-4693-8ec6-5429b6087b1e" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>markfrø og grønsagsfrø,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id74a7a7d3-f640-4ffd-a69b-1e5b9bf5f31c" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>småplanter af etårige grønsager til plantning,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idae49aa2d-f924-4f82-9893-33f19d5ddaf4" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>handelsgødning,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide16befb0-6055-410a-9f9f-ce071ca84293" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>voksemedier,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id5fe0e3e3-3a04-4f6b-90a6-f2766a78c6b3" formaInd="Nummer">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>bekæmpelsesmidler, hvis formål er beskyttelse eller fremme af høsten,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id4932aeab-4486-434c-8130-ec9451a8760b" formaInd="Nummer">
+                      <Explicatus>9)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>flydende og fast brændsel til opvarmning af væksthuse med etårige grønsager.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idb373b1de-872a-4af3-841a-0ad72fcb77c0">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I det beløb, der kan sikres ved pant efter § 1, kan ud over købesummen for rå- og hjælpestofferne indregnes alle afgifter samt sædvanlige leverings- og udbringningsomkostninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idc4114b50-773a-471f-8a61-25db41a8fa2a" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="idca45759a-9cd2-4f73-becc-92a9e1688d6e">
+                <Exitus>
+                  <Linea>
+                    <Char>Rå- og hjælpestoffer leveret efter denne lov må alene anvendes på den ejendom, hvis afgrøder er pantsat.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id5889e59e-c97d-466a-80a5-851da59560da" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id75c05169-a944-4da3-9e97-873cee0e641f">
+                <Exitus>
+                  <Linea>
+                    <Char>Rå- og hjælpestoffer leveret efter denne lov kan ikke gøres til genstand for arrest, udlæg eller anden retsforfølgning på grundlag af andre tilgodehavender.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2d253902-4901-44ac-b96a-960fc75266fc">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgrøder omfattet af et høstpantebrev må ikke overdrages uden kreditors forudgående samtykke.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Såfremt afgrøderne overdrages til kreditor, eller kreditor betinger sit samtykke af en modydelse, skal afregningsbeløbet eller modydelsen afskrives på gælden ifølge høstpantebrevet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id53bc572a-ef0b-4fc0-aae0-a5af1dd03723">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uanset bestemmelsen i stk. 2, 1. pkt., kan sukkerroer, der dyrkes i henhold til en kontrakt med en sukkerfabrik, leveres til sukkerfabrikken.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1b134455-4164-4398-a0d8-51b18378f0e9">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgrøder omfattet af et høstpantebrev må ikke uden kreditors forudgående samtykke anvendes til opfodring i større omfang, end at der er dækning for gælden ifølge høstpantebrevet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id0d09cc75-6e21-4c80-883c-df129a5575ec" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="idf659ee4e-b099-4f25-b0cd-e9dedb8d1e9c">
+                <Exitus>
+                  <Linea>
+                    <Char>Panteretten stiftes ved oprettelse af et digitalt høstpantebrev på en pantebrevsformular godkendt hertil af justitsministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd440a4f3-cfa9-456c-9661-c8f667ddcb00">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Pantebrevet skal angive, at det er udstedt efter denne lov, og skal indeholde en erklæring afgivet af udstederen om, at de indkøbte rå- og hjælpestoffer udelukkende vil blive anvendt på ejendommen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6ff12140-d44f-491d-9d69-34ba1e9a56c0">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Pantebrevet skal indeholde oplysning om:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id8389b141-02f9-4ecc-b2dd-9f21c677c52c">
+                  <Index>
+                    <Indentatio id="idf1a737a9-7e83-41e4-b163-e0edacf699f5" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ejendommens matr.nr.,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb5cbecf6-616a-41b7-8a0b-54fd4f999e2e" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>oplysning om person- eller cvr-nummer på de ifølge pantebrevet forpligtede og berettigede samt på anmelder,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id753d26dc-7076-4a91-872b-642d0bec2bac" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>oplysning om, til hvem meddelelser om tinglysningen med bindende virkning kan sendes,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id851c80ee-5e00-4134-8252-fc7fae656d2c" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>leverandørens navn og adresse,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb8034de4-f166-4371-af74-90afc84f2e9d" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>rå- og hjælpestoffernes art, mængde og pris,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id52b507a0-9360-433b-8fd0-12f78d178b8e" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>den aftalte leveringsperiode,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id434209a4-e0f6-4af4-a5fa-5283f9cdfde4" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>den aftalte dato for første leverance.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id93310040-96fc-41d6-a0f5-e34d43a39c9f" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id2794cfa6-b55d-4551-a3d5-9b1b824fd2fb">
+                <Exitus>
+                  <Linea>
+                    <Char>Høstpantebrevet skal anmeldes til tinglysning senest 2 uger efter den dato for første leverance, der er angivet i pantebrevet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Såfremt pantebrevet ved anmeldelsen til tinglysning lider af en mangel, der medfører afvisning, skal det efter berigtigelse af mangelen på ny anmeldes til tinglysning senest 2 uger fra datoen for afgørelsens meddelelse til anmelderen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id881ce4c3-0c40-4f77-b01a-32356dc7be0e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et høstpantebrev tinglyses efter reglerne for tinglysning af underpant i løsøre.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Såfremt pantsætteren er ejer af ejendommen, skal der tillige foretages notering om pantebrevet på ejendommens blad i tingbogen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idde2ff0f2-0437-4eb8-88a5-15517c01c632" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="ide0c08459-28c8-4f7c-8892-90fbfc0dfdd0">
+                <Exitus>
+                  <Linea>
+                    <Char>Leverancer af rå- og hjælpestoffer efter denne lov skal ske i tiden 1. august til 31. juli.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7aad1740-e0cc-46de-9992-79318678a11f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Panteretten efter et høstpantebrev, der vedrører leverancer i tiden 1. januar til 31. juli, omfatter alle afgrøder, der høstes på ejendommen det pågældende år.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Panteretten efter et pantebrev, der vedrører leverancer i tiden 1. august til 31. december, omfatter alle afgrøder, der høstes det følgende år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idba0194e7-c73e-4257-8eaf-4359fcfe4841">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Panteretten går forud for alle tidligere stiftede panterettigheder i den faste ejendom med tilbehør og for panterettigheder efter tinglysningslovens § 47 b, stk. 2, samt virksomhedspant, jf. tinglysningslovens § 47 c.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id95b04743-6f0a-4dc6-88f0-1df1648ec574">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Såfremt de pantsatte afgrøder omfatter sukkerroer dyrket i henhold til en kontrakt med en sukkerfabrik, går sukkerfabrikkens kontraktmæssige krav på dækning af udgiften til frø, handelsgødning, bekæmpelsesmidler, de i § 2, stk. 2, nævnte afgifter og sædvanlige leverings- og udbringningsomkostninger samt forskud og fragt forud for kreditors krav på fyldestgørelse i sukkerroerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idea8c157f-f984-4973-af92-20b82b7378af">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Såfremt flere høstpantebreve tinglyses med pant i den samme ejendoms afgrøder, er pantebrevene ligestillede.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id72354d52-ac90-40e1-b520-926a66771d43" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="id7a28a041-5154-45fc-87c4-a252ea029f1b">
+                <Exitus>
+                  <Linea>
+                    <Char>Et høstpantebrev, der vedrører leverancer i tiden 1. januar til 31. juli, forfalder til indfrielse den herefter førstkommende 1. oktober.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Et høstpantebrev, der vedrører leverancer i tiden 1. august til 31. december, forfalder til indfrielse den 1. oktober det følgende år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6142b058-4d6c-411c-a677-d74a443ce3b9">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Såfremt begæring om udlæg ikke er indgivet til fogden inden den førstkommende 1. januar efter forfaldsdagen, bortfalder fortrinsretten.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>En måned efter fortrinsrettens bortfald sletter dommeren pantebrevet af personbogen samt noteringen i tingbogen foretaget i medfør af § 6, stk. 2, sidste pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf4b7cae2-663b-4e38-a00d-548b095f3f14" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="idc83f823a-1fd2-4d63-8b01-d9303cb17e2c">
+                <Exitus>
+                  <Linea>
+                    <Char>Med bøde straffes den, som forsætligt overtræder bestemmelsen i § 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ideff70dcf-47dd-4e39-a53b-fe77751ee082" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id719cdba3-1b86-4c6e-9994-48bc71ee8d96">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. august 1986.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide725006a-fcaf-4aa1-b2e5-a825adc1d01a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lov nr. 50 af 14. februar 1951 om fortrinsret i høsten ophæves.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Loven finder dog fortsat anvendelse på pantegæld stiftet senest 1. juni 1986.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4770dfda-9e65-42eb-b09f-6f6bf8981e9d">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lov nr. 242 af 8. juni 1966 om belåning af salgsafgrøder ophæves.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id58a1fca1-1b61-4094-84d1-949fef54e31b" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="id257a0bc9-1bda-45b8-ae7e-5d37066421a3">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="id2af9e8de-9e69-48d3-8b32-d24125cac51b">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 560 af 24. juni 2005 om ændring af tinglysningsloven, konkursloven og andre love (Virksomhedspant)</Char>
+        </Linea>
+        <Nota id="idb0d7c593-27be-4388-8adc-f4bd0ee260c0">
+          <Explicatus>1)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører ændring af § 7, stk. 3.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id8901ad11-b6c4-4efa-bca7-9daa90e3363a">
+        <Explicatus>§ 6</Explicatus>
+        <Stk id="id06d035ac-49cb-404d-9b4b-4fb485d25665">
+          <Exitus>
+            <Linea>
+              <Char>Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.</Char>
+            </Linea>
+            <Nota id="idab733283-a0a6-41b8-839c-ed27f05beb5d">
+              <Explicatus>2)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Loven er trådt i kraft den 1. januar 2006, jf. bekendtgørelse nr. 1053 af 4. november 2005.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="ide20bd9b4-0983-45c5-ab29-0d080d6ed72a">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 539 af 8. juni 2006 om ændring af lov om tinglysning og forskellige andre love (Digital tinglysning)</Char>
+        </Linea>
+        <Nota id="ide388be8c-71d3-4f71-b647-7ec3e8e8a0b9">
+          <Explicatus>3)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører ændring af § 5, stk. 1, og indsættelse af § 5, stk. 3, nr. 2 og 3, hvorefter nr. 2-5 bliver nr. 4-7.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id42f4b47a-a439-4771-8399-f153a4153e47">
+        <Explicatus>§ 13</Explicatus>
+        <Stk id="ida430a9e5-8c40-48d0-ba1e-b2e9bc90396a">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Justitsministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 5 og 6.</Char>
+            </Linea>
+            <Nota id="id7153a2e5-6e74-4540-a03c-022febdf1835">
+              <Explicatus>4)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Loven er trådt i kraft den 8. september 2009 kl.</Char>
+                </Linea>
+                <Linea>
+                  <Char>9.00 for så vidt angår tingbogen, jf. bekendtgørelse nr. 762 af 20. juli 2009, kl.</Char>
+                </Linea>
+                <Linea>
+                  <Char>9.00, og den 21. marts 2011, kl.</Char>
+                </Linea>
+                <Linea>
+                  <Char>9.00 for så vidt angår personbogen, jf. bekendtgørelse nr. 209 af 15. marts 2011.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+          </Exitus>
+        </Stk>
+        <Stk id="id67261511-303a-4a09-b6ce-246e7f566b0e">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Justitsministeren kan bestemme, at loven træder i kraft på forskellige tidspunkter, for så vidt angår tingbogen, bilbogen, andelsboligbogen og personbogen.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idc310d0d7-85d9-43c5-9ffb-ee4bf24ecc7a">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven finder anvendelse i sager, der behandles af Tinglysningsretten.</Char>
+            </Linea>
+            <Linea>
+              <Char>I tinglysningssager, der behandles ved byret, anvendes de hidtil gældende regler.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id153b3db6-f01d-4c8f-8fbd-3f2d53fb16fa">
+          <Explicatus>Stk. 4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udeladt)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id29959c52-c964-4c57-8591-67a8e71a4fd3">
+          <Explicatus>Stk. 5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udeladt)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id6660f3ec-9fc5-4ff2-b0d9-dadf09371c9b">
+          <Explicatus>Stk. 6.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udeladt)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idc4f8afdf-165d-47f4-a033-8a76098e841f">
+    <UnderskriftStedDato id="idc4f8afdf-165d-47f4-a033-8a76098e841f" />
+    <Underskriver id="idc4f8afdf-165d-47f4-a033-8a76098e841f" />
+  </UnderskriftGruppe>
+</Dokument>

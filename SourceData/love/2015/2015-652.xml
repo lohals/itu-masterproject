@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id4c022255-20bc-42f5-a6f7-5a9661973c32" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id884b7e0a-f960-472d-b688-b9fc927e2436">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150065230</AccessionNumber>
+    <DocumentId>AK001113</DocumentId>
+    <UniqueDocumentId>170456</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af arkivloven (Særlig regulering i arkivloven af Dansk AlmenMedicinsk Database (DAMD)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-05-18</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-09-30</EndDate>
+    <Status>Historic</Status>
+    <Number>652</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1201 af 28/09/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 652 af 18/05/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2016-09-29</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Marianne Jelved</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Kulturmin., j.nr. 2015-005868</JournalNumber>
+    <Ministry>Kulturministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id8ac52bbc-2096-4cd3-a35f-94b00dbc26a0">
+    <Titel id="id010adf9b-7f58-4ee2-a2b7-348e4b2eca3a">
+      <Linea>
+        <Char>Lov om ændring af arkivloven</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id2513e23c-dcb5-459e-aa0c-27ccbe02a4f2">
+      <Linea>
+        <Char>(Særlig regulering i arkivloven af Dansk AlmenMedicinsk Database (DAMD)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="ide7e3a98d-ccd0-4ee0-9ef5-98ad90c2a3dd">
+    <Hymne id="id1af1b51d-5831-4b54-94eb-eca01bb91759">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="idb41b9f66-8a48-4a43-86d3-c1427c2749fd">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I arkivloven, jf. lovbekendtgørelse nr. 1035 af 21. august 2007, som ændret ved lov nr. 1170 af 10. december 2008, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id8969e4ce-f599-4c1e-9060-a3c977e1117d">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="ide820d812-c49d-4c74-b051-4c0d0adea231">
+          <AendringDefinition id="id05f26572-0b31-4779-b347-429f4b0fc9bf">
+            <Exitus>
+              <Linea>
+                <Char>Overalt i loven ændres »Statens Arkiver« til: »Rigsarkivet«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id40f6e72f-e08f-4a18-9f76-5c061757b627">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb18b1b33-cae0-4d7e-a29b-c19872c342f1">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id3ff3c071-21af-4209-903e-d223dd68f251">
+          <AendringDefinition id="id0b8fc5f1-452c-4273-8a27-c8c13a0b88a0">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 3, stk. 1,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb972fdee-aafd-447b-9d35-abbf5deed4dc">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idf211acf2-8b09-4659-afcc-a748b4b40be1">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2 bliver herefter stk. 1.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id00a46318-332b-481e-bbb9-a465ce3e7b93">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id219be96d-5147-4649-8748-a4175d369593">
+          <AendringDefinition id="iddc0a6905-75e4-4a1e-a6dd-2ef736887401">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 21 indsættes i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">kapitel 5:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id23b23b41-4309-4f69-86b6-5824ba1edd1d">
+            <AendringNyTekst>
+              <Paragraf id="ida1e569aa-7362-4ee0-b66d-9661c1c28f7f" localId="1">
+                <Explicatus>§ 21 a.</Explicatus>
+                <Stk id="idfd81dfc2-4414-4ada-8c7e-831873e3830d">
+                  <Exitus>
+                    <Linea>
+                      <Char>Oplysninger i Dansk AlmenMedicinsk Database (DAMD) om enkeltpersoners helbredsmæssige eller øvrige rent private forhold og andre fortrolige oplysninger, der ikke er opnået tilladelse til indsamling af, skal ikke afleveres til Rigsarkivet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="idc430cf62-1991-43cc-ba65-224dfe7d4944">
+      <Explicatus>§ 2</Explicatus>
+      <Stk id="idf456d8a6-9889-45ec-b4db-57b3744807d3">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id7ad6db7c-f4a2-4fd8-9d05-513897c57ee2">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven finder ikke anvendelse på arkivalier, som er afleveret før lovens ikrafttræden.</Char>
+          </Linea>
+          <Linea>
+            <Char>For sådanne arkivalier finder de hidtil gældende regler anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="id8e7ed94b-be6c-402f-9650-3cdc24ef5ea8">
+      <Explicatus>§ 3</Explicatus>
+      <Stk id="id0f974179-9dee-4b48-9695-e8b13b7374ca">
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id4d4f5561-a0b3-4944-92dc-40182f89de26">
+    <UnderskriftStedDato id="id4d4f5561-a0b3-4944-92dc-40182f89de26" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id4d4f5561-a0b3-4944-92dc-40182f89de26" />
+  </UnderskriftGruppe>
+</Dokument>

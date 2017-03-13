@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idcdde4588-5a5b-4004-b723-aa28682f5358" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id18ab1f0c-14d1-45f8-9838-c466f787ecc8">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150187430</AccessionNumber>
+    <DocumentId>BE006664</DocumentId>
+    <UniqueDocumentId>176808</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om Fonden for Forebyggelse og Fastholdelse (Ændring af organiseringen og administrationen af Fonden for Forebyggelse og Fastholdelse)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-12-29</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2015-12-30</EndDate>
+    <Status>Valid</Status>
+    <Number>1874</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1874 af 29/12/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Jørn Neergaard Larsen</Signature>
+    <PlaceOfSignature>Givet på Marselisborg Slot</PlaceOfSignature>
+    <JournalNumber>Beskæftigelsesmin.,\nStyrelsen for Arbejdsmarked og Rekruttering, j.nr. 15/07628</JournalNumber>
+    <Ministry>Beskæftigelsesministeriet</Ministry>
+    <AdministrativeAuthority>Styrelsen for Arbejdsmarked og Rekruttering</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id8b41bbc7-c374-4cb1-b8a9-8213a4e980be">
+    <Titel id="idc1efae3b-d0b8-470d-b539-47addd9ea41a">
+      <Linea>
+        <Char>Lov om ændring af lov om Fonden for Forebyggelse og Fastholdelse</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="idc70910c7-342c-4572-bf82-7b4c158a38e4">
+      <Linea>
+        <Char>(Ændring af organiseringen og administrationen af Fonden for Forebyggelse og Fastholdelse)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="ide48b72af-033f-4e63-9ef1-71c003cc899f">
+    <Hymne id="id149a4994-73d3-4cdd-9237-9335d12b29d2">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id5fe8d5cb-5a78-41c2-aef8-75b14ef7c54f">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om Fonden for Forebyggelse og Fastholdelse, jf. lovbekendtgørelse nr. 1022 af 23. september 2014, som ændret ved § 67 i lov nr. 1482 af 23. december 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id4af1b25e-68af-4976-b390-1e23bc8eb39b">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idb81f1600-1b1a-443a-8dce-c4957a65eba4">
+          <AendringDefinition id="id2ff4da55-fac5-4254-99db-137a3d81e4d6">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1 </Char>
+                <Char>ændres »et uafhængigt organ inden for« til: »en del af«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd9cdf849-c68c-43d3-8f5b-7a8452d58997">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idaffa556b-08b0-443c-a7c8-cc7f424a1385">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idcfcd8d90-20ba-4bc6-af78-1368dcfc2266">
+          <AendringDefinition id="id56917588-a0b9-4e55-8fdc-845a35ab5bb5">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 8 </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3d12615e-3ce5-4b24-8282-d8a8280a243a">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb90cfee9-96a0-4047-87a4-a4253e796d55">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id5c86d5a6-0520-4c39-898a-7d96dfec0983">
+          <AendringDefinition id="id5da4ef4a-bfc2-43c3-bee9-833a2b5ee477">
+            <Exitus>
+              <Linea>
+                <Char>Overskriften før § 10 affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idbcfeeb75-51d7-4456-9d17-3f0d4f0db70e" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <ParagrafGruppe>
+                <Rubrica id="id8c83db07-aa6a-4d13-a66f-83770679a85b">
+                  <Linea>
+                    <Char>Følgegruppen</Char>
+                  </Linea>
+                </Rubrica>
+              </ParagrafGruppe>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id32352fbe-ed02-48ba-a423-cd4a7483898b">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id61a36876-4b7e-410a-9d4e-6b1ac56a855f">
+          <AendringDefinition id="id56d8a245-3544-48a1-b0c2-699555471a69">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 10 </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0549bed2-ec84-4648-ba51-629e157252e7">
+            <AendringNyTekst>
+              <Paragraf id="idafd90155-57c5-4960-9d72-30b7b231fcfb" localId="1">
+                <Explicatus>§ 10.</Explicatus>
+                <Stk id="id85511ece-af53-4054-8d12-94440451b595">
+                  <Exitus>
+                    <Linea>
+                      <Char>Følgegruppen for Fonden for Forebyggelse og Fastholdelse udpeges af beskæftigelsesministeren og består af 1 formand og følgende andre medlemmer:</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus id="ide6fb649c-3a10-4718-bcec-160d82f55744">
+                    <Index>
+                      <Indentatio id="id56d26780-8611-424e-b391-29b60bf4d04d" formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>1 medlem indstillet af Landsorganisationen i Danmark.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="idab7e87e0-2c68-4a58-b1e8-f07504bc67e7" formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>1 medlem fra et medlemsforbund efter indstilling fra Landsorganisationen i Danmark.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="ida6e63f99-94d9-472f-b7ce-95f23d93311f" formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>1 medlem indstillet af FTF (Funktionærernes og Tjenestemændenes Fællesråd).</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="id0b0f4a03-d344-4e1b-88a8-392242d38838" formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>1 medlem indstillet af Akademikernes Centralorganisation.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="id97053cb0-5c50-47be-905f-78e2994fb8b7" formaInd="Nummer">
+                        <Explicatus>5)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>1 medlem indstillet af Dansk Arbejdsgiverforening.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="id0d1d1d6e-5901-4f3f-8796-f0ef0934ccfd" formaInd="Nummer">
+                        <Explicatus>6)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>1 medlem indstillet af Lederne.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="idfac8abd0-8486-46e7-b18f-2774b179ab73" formaInd="Nummer">
+                        <Explicatus>7)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>1 medlem indstillet af Danske Regioner.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="idd213b48d-2ca4-48fc-af10-81bab9f546ae" formaInd="Nummer">
+                        <Explicatus>8)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>1 medlem indstillet af KL.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="id05640d77-a77d-47b8-9ad2-44062ed75365" formaInd="Nummer">
+                        <Explicatus>9)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>1 medlem indstillet af Danske Handicaporganisationer.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk id="id4fcaf49c-7f8e-48d8-90cd-676320dca120">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Følgegruppen vejleder om anvendelsen af fondens midler.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf4895b2f-6709-4d66-aa5b-ba2dff8169ea">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="idbb5c1c5c-8991-460b-8e3e-b015f40d82a7">
+          <AendringDefinition id="idae27c2d2-1a60-4d03-b43f-2843140e58a4">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§§ 13, 14 </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">16 </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf09d8904-1836-4a0b-8bf7-97ae91f2ad11">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id743694bc-e381-4de6-9efb-96c0945b9b71">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="idd785aa1d-96d6-4d89-84b5-2b18019dba23">
+          <AendringDefinition id="id0c2b3d88-ea71-46d4-b98c-9130e46ca1a2">
+            <Exitus>
+              <Linea>
+                <Char>Overskriften før § 23 affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idff96ae51-3996-4edd-8bd6-b65ff35d07c4" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <ParagrafGruppe>
+                <Rubrica id="id71d2a871-c8ca-4d64-a761-bd74c6a1dff9">
+                  <Linea>
+                    <Char>Administrationen af initiativerne</Char>
+                  </Linea>
+                </Rubrica>
+              </ParagrafGruppe>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9cef5dc7-27d2-420b-967b-81ca1ef596cc">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="idb3bb7b7d-e476-48a7-bc76-016682169892">
+          <AendringDefinition id="idbd2c1ed1-ad8c-40af-a0a5-75523d9c761e">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 23 </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9a8cdc81-0bca-42b7-9007-502e75db08a6">
+            <AendringNyTekst>
+              <Paragraf id="id231d362b-6de6-49ce-b77a-c1611643568f" localId="2">
+                <Explicatus>§ 23.</Explicatus>
+                <Stk id="id1ff5603f-ef10-4097-a0b5-8b0cf3f576c4">
+                  <Exitus>
+                    <Linea>
+                      <Char>Administrationen af initiativerne i Fonden for Forebyggelse og Fastholdelse varetages af Styrelsen for Arbejdsmarked og Rekruttering.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id3173462a-9d64-42d1-86c8-246922f2dc33">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen fastsætter retningslinjer for ansøgningers indhold og form og retningslinjer for udbetalinger.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc78f32a8-2518-4ceb-b7ca-98f1623c2a8b">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="idba4daabe-c2e1-4b6b-a4be-a8271b8e65ae">
+          <AendringDefinition id="id482cc0f8-641c-4d98-b8c0-faf8e80d214d">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 24 </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2535e2d2-cf0e-4fc8-bbdd-55f47c9eaf13">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id3207384c-d77b-46d5-b962-a1e3c18b93a7">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="id1f9cec93-d8d7-4e29-9cfb-0623c6acb06a">
+          <AendringDefinition id="id8b30e4d1-de06-46ee-b7ed-39fa73e13f49">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 24 a, stk. 1 </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2, </Char>
+                <Char>ændres »Direktøren for Fonden for Forebyggelse og Fastholdelse« til: »Styrelsen for Arbejdsmarked og Rekruttering«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id92c92e24-fc7d-45a0-aebc-6e6522cfcb35">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idadf9bd3f-56ae-467f-999f-e3e664019886">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="id77d6d467-498a-4942-b7c8-2bdf849a94df">
+          <AendringDefinition id="id44586331-d648-43e7-aad5-b3e40f20863d">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§§ 31-34 </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf9e84721-e59f-49b0-a9f9-ebd86bfb266c">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id90533ccd-8faa-4082-9b7b-06bbd61fd0e7">
+      <Explicatus>§ 2</Explicatus>
+      <Stk id="id8382894d-487b-4d94-bf39-09a8422cdca0">
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2016.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id34c8ea36-f26a-4869-a056-a66f1d76c51a">
+    <UnderskriftStedDato id="id34c8ea36-f26a-4869-a056-a66f1d76c51a" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id34c8ea36-f26a-4869-a056-a66f1d76c51a" />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,1974 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/02/16/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150020230</AccessionNumber>
+    <DocumentId>AN011902</DocumentId>
+    <UniqueDocumentId>168591</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af kildeskatteloven, kursgevinstloven, selskabsskatteloven, virksomhedsskatteloven og forskellige andre love\n(Exitskat og henstand for fysiske personer, gennemførelse af ændring af moder-/datterselskabsdirektivet, justering af rentefradragsbegrænsningsreglerne og opgørelsesprincipper for fordringer og gæld m.v.)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-02-27</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-01-14</EndDate>
+    <Status>Valid</Status>
+    <Number>202</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 117 af 29/01/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 680 af 20/05/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 948 af 17/08/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1082 af 08/09/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1017 af 24/08/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1081 af 07/09/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1283 af 25/10/2016</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 202 af 27/02/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <EuReferences>32014L0084</EuReferences>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">I Dronningens Navn:\nJOACHIM\nPrins til Danmark\nRigsforstander</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Benny Engelbrecht</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Skattemin., j.nr. 14-0660343</JournalNumber>
+    <Ministry>Skatteministeriet</Ministry>
+    <AdministrativeAuthority>Skatteministeriet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af kildeskatteloven, kursgevinstloven, selskabsskatteloven, virksomhedsskatteloven og forskellige andre love</Char>
+      </Linea>
+      <Nota formaNo="EU" id="Not1">
+        <Explicatus>1)</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven indeholder bestemmelser, der gennemfører Rådets direktiv 2014/86/EU af 8. juli 2014 om ændring af direktiv 2011/96/EU om en fælles beskatningsordning for moder- og datterselskaber fra forskellige medlemsstater, EU-Tidende 2014, nr. L 219, side 40, som berigtiget i EU-Tidende 2014, nr. L 224, side 9.</Char>
+          </Linea>
+        </Exitus>
+      </Nota>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Exitskat og henstand for fysiske personer, gennemførelse af ændring af moder-/datterselskabsdirektivet, justering af rentefradragsbegrænsningsreglerne og opgørelsesprincipper for fordringer og gæld m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>I kildeskatteloven, jf. lovbekendtgørelse nr. 1403 af 7. december 2010, som ændret bl.a. ved § 5 i lov nr. 433 af 16. maj 2012 og senest ved § 3 i lov nr. 1522 af 27. december 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, stk. 7, § 65 C, stk. 1, 1. pkt.,</Char>
+                <Char> to steder i </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 65 C, stk. 2,</Char>
+                <Char> og i </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 65 D, stk. 1, 1. pkt.,</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 65 D, stk. 3, 1. pkt.,</Char>
+                <Char> ændres »25 pct.« til: »22 pct.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 8 A, stk. 2,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 10</Char>
+                <Char formaChar="Italic">
+                </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 10.</Explicatus>
+                <Stk>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Ophører en person med at være skattepligtig efter § 1, uden at der er tale om dødsfald, eller bliver en person efter bestemmelserne i en dobbeltbeskatningsoverenskomst hjemmehørende i en fremmed stat, på Færøerne eller i Grønland, anses aktiver, som ikke fortsat er omfattet af dansk beskatning, for afhændet på fraflytningstidspunktet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Aktiverne anses for afhændet til handelsværdien på fraflytningstidspunktet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Overfører en person, der er skattepligtig efter § 2, aktiver til en fremmed stat, Færøerne eller Grønland, således at aktiverne efter overførslen ikke længere er omfattet af dansk beskatning, anses aktiverne for afhændet på overførselstidspunktet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Aktiverne anses for afhændet til handelsværdien på overførselstidspunktet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Stk. 1 og 2 finder ikke anvendelse på aktiver, der er omfattet af aktieavancebeskatningslovens § 38, kursgevinstlovens § 37 eller ligningslovens § 28.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 65, stk. 8, 2. pkt.,</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 10, 1. pkt.,</Char>
+                <Char> ændres »aktieavancebeskatningslovens § 19« til: »selskabsskattelovens § 3, stk. 1, nr. 19«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>Efter § 73 A indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 73 B.</Explicatus>
+                <Stk>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Personer, der er skattemæssigt hjemmehørende i et land, der er medlem af EU/EØS, herunder efter en eventuel dobbeltbeskatningsoverenskomst, kan vælge henstand med betaling af den skat, der beregnes efter § 10, når skatten vedrører aktiver, der overføres til eller befinder sig i et land, der er medlem af EU/EØS.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Henstand efter stk. 1 er betinget af, at personen rettidigt indgiver selvangivelse til told- og skatteforvaltningen for det indkomstår, hvori aktivet udgår af dansk beskatning.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Valg af henstand skal meddeles sammen med selvangivelsen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Gives der udsættelse med indgivelse af selvangivelsen efter skattekontrollovens § 4, stk. 4, skal selvangivelse og meddelelse om henstand være indgivet inden denne frist.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Told- og skatteforvaltningen kan se bort fra overskridelse af fristen for indgivelse af selvangivelse og meddelelse, jf. stk. 2.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 73 C.</Explicatus>
+                <Stk>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Ved henstand efter § 73 B etableres der en henstandssaldo.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Henstandsbeløbet udgøres af den beregnede skat for de aktiver, der er udgået af dansk beskatning i indkomståret.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Henstandsbeløbet skal afdrages, i takt med at der af de aktiver, som henstandssaldoen vedrører, oppebæres indtægt, herunder realiserede gevinster ved en afståelse m.v., som skulle have været medregnet ved opgørelsen af den skattepligtige indkomst, hvis aktivet fortsat havde været omfattet af dansk beskatning.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Overførsler, der ville have været omfattet af § 73 B, stk. 1, hvis der var tale om en overførsel fra Danmark, medfører ikke, at aktiverne anses for afstået.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Afdrag efter 1. pkt. opgøres som skatteværdien af den opgjorte indtægt beregnet efter reglerne for begrænset skattepligtige med fast driftssted i Danmark.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Der skal dog pr. indkomstår mindst betales et afdrag opgjort som 1/7 af det henstandsbeløb, der udgjorde saldoen ved henstandssaldoens etablering.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Henstandssaldoen nedskrives med afdragsbeløbet, når det er betalt, idet saldoen dog ikke kan afdrages til et mindre beløb end 0 kr. Ved afståelse af et eller flere identiske aktiver, hvoraf ikke alle er omfattet af henstandsordningen, anses de aktiver, som er omfattet af henstandsordningen, for afstået først.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Bliver et aktiv, der er omfattet af en henstand efter § 73 B, på ny omfattet af dansk beskatning, og er der på dette tidspunkt fortsat en henstandssaldo, eller er alle de aktiver, som en henstandssaldo vedrører, afstået, og henstår der herefter fortsat en saldo, skal det resterende henstandsbeløb afdrages efter reglerne i stk. 2, idet stk. 4-8 finder tilsvarende anvendelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Bliver en person, der har fået henstand efter § 73 B, efterfølgende skattemæssigt hjemmehørende i et land, der ikke er medlem af EU/EØS, herunder efter en eventuel dobbeltbeskatningsoverenskomst, sidestilles dette med en afståelse til handelsværdien af de aktiver, der er omfattet af henstanden efter § 73 B, forudsat at aktiverne ikke befinder sig eller kommer til at befinde sig i et land, der er medlem af EU/EØS.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Bliver aktiver, der er omfattet af henstanden efter § 73 B, overført til et land, der ikke er medlem af EU/EØS, sidestilles dette med en afståelse til handelsværdien på overførselstidspunktet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Ved personens død forfalder det resterende beløb på henstandssaldoen til betaling.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 6.</Explicatus>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Personen skal indgive selvangivelse for hvert år, hvor der er en positiv henstandssaldo.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Samtidig med indsendelse af denne selvangivelse skal der gives oplysninger om, i hvilket land personen er skattemæssigt hjemmehørende ultimo indkomståret, og i hvilket land de aktiver, der er omfattet af en henstand efter § 73 B, befinder sig ultimo indkomståret.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Selvangivelsesfristen er den i skattekontrollovens § 4, stk. 1, jf. stk. 4, angivne frist, idet skattekontrollovens § 4, stk. 3, finder tilsvarende anvendelse.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Indgives selvangivelsen ikke rettidigt, bortfalder henstanden, og det beløb, der står på henstandssaldoen, forfalder til betaling.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Told- og skatteforvaltningen kan se bort fra overskridelse af fristen for indgivelse af selvangivelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 7.</Explicatus>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Fristen for betaling af beløb omfattet af stk. 2 og 5 er den 1. september i kalenderåret efter henholdsvis overførselsåret og dødsåret eller ved forskudt indkomstår den 1. september i kalenderåret efter det kalenderår, som det forskudte indkomstår træder i stedet for.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Betaling senest den 20. i den måned, hvori beløbet efter 1. pkt. forfalder til betaling, anses for rettidig.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Betales beløbet ikke rettidigt, finder § 63, 1. pkt., anvendelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 8.</Explicatus>
+                  <Exitus formaEx="Align">
+                    <Linea>
+                      <Char>Henstandsbeløbet forrentes med en rentesats på 1 procentpoint over Nationalbankens diskonto, dog mindst med 3 pct. p.a.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ved betaling af renten finder stk. 7 tilsvarende anvendelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 73 E, stk. 1,</Char>
+                <Char> udgår »skatter beregnet efter ejendomsavancebeskatningslovens § 6 B eller afskrivningslovens § 40 D samt«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 73 E, stk. 4, 1. pkt.,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 73 E, stk. 5,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>Betales henstandsbeløb ikke rettidigt, finder § 63, 1. pkt., anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 73 E, stk. 6, 2. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>Skatten forrentes efter § 63, 1. pkt., fra dette tidspunkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>10.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 73 E</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 8:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>For personer, som den 28. februar 2015 havde henstand efter kildeskattelovens § 73 E, stk. 1, jf. lovbekendtgørelse nr. 1403 af 7. december 2010 som ændret ved § 5, nr. 2 og 3, i lov nr. 254 af 30. marts 2011 og § 11, nr. 2, i lov nr. 118 af 7. februar 2012, vedrørende betaling af en skat beregnet efter ejendomsavancebeskatningslovens § 6 B, jf. lovbekendtgørelse nr. 1200 af 30. september 2013, finder stk. 2-6, dødsboskattelovens §§ 51 og 65 og ejendomsavancebeskatningslovens § 6 B, stk. 3 og 4, jf. lovbekendtgørelse nr. 1200 af 30. september 2013, anvendelse på henstanden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For personer, som den 28. februar 2015 havde henstand efter kildeskattelovens § 73 E, stk. 1, jf. lovbekendtgørelse nr. 1403 af 7. december 2010 som ændret ved § 5, nr. 2 og 3, i lov nr. 254 af 30. marts 2011 og § 11, nr. 2, i lov nr. 118 af 7. februar 2012, vedrørende betaling af en skat beregnet efter afskrivningslovens § 40 D, jf. lovbekendtgørelse nr. 1106 af 9. september 2014, finder stk. 2-6 tilsvarende anvendelse på henstanden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>I kursgevinstloven, jf. lovbekendtgørelse nr. 1113 af 18. september 2013, som ændret ved § 20 i lov nr. 268 af 25. marts 2014 og § 3 i lov nr. 1375 af 16. december 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 25, stk. 2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>Skattepligtige omfattet af § 12 kan vælge at anvende lagerprincippet, jf. § 33, stk. 1, ved opgørelsen af gevinst og tab på obligationer optaget til handel på et reguleret marked og på gevinst og tab som følge af valutakursændringer på fordringer og gæld i fremmed valuta.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Valget træffes samlet for henholdsvis obligationer optaget til handel på et reguleret marked og valutakursændringer på fordringer og gæld i fremmed valuta.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved anvendelse af lagerprincippet, jf. 1. pkt., opgøres gevinst og tab på obligationer optaget til handel på et reguleret marked på grundlag af valutakurserne på tidspunktet for obligationens erhvervelse uden hensyn til ændringer i valutakurserne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Når lagerprincippet er valgt, kan valget heraf kun ændres efter tilladelse fra told- og skatteforvaltningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 25, stk. 4,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skattepligtige omfattet af § 2 kan vælge at anvende lagerprincippet, jf. § 33, stk. 1, ved opgørelsen af gevinst og tab på følgende fordringer og gæld:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Fordringer, der ikke er omfattet af stk. 3, 1. pkt., stk. 5 eller stk. 7-10,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>gæld optaget til handel på et reguleret marked og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>gevinst og tab på fordringer og gæld som følge af valutakursændringer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>Valg af lagerprincippet, jf. nr. 1-3, træffes samlet for henholdsvis fordringer omfattet af § 4, fordringer, der er erhvervet som skattepligtigt vederlag for leverede varer og andre aktiver samt tjenesteydelser, øvrige fordringer, gæld optaget til handel på et reguleret marked og valutakursændringer på fordringer og gæld i fremmed valuta.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved anvendelse af lagerprincippet i de tilfælde, der er nævnt i nr. 1 og 2, opgøres gevinst og tab på grundlag af valutakurserne på tidspunktet for henholdsvis fordringens erhvervelse og gældens påtagelse uden hensyn til ændringer i valutakurserne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Når lagerprincippet er valgt, kan valget heraf kun ændres efter tilladelse fra told- og skatteforvaltningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 38, stk. 4, 2. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>Skatten forrentes efter kildeskattelovens § 63, 1. pkt., fra dette tidspunkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 38 A, stk. 2, 3. pkt.,</Char>
+                <Char> udgår », idet tab dog højst kan opgøres til forskellen mellem fordringens værdi på fraflytningstidspunktet og afståelses- eller indfrielsessummen m.v«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 38 A, stk. 3,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">5.-8. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>Hvis opgørelsen efter stk. 2 i stedet ville have resulteret i et tab, hvis opgørelsen var foretaget på grundlag af fordringens værdi på fraflytningstidspunktet og afståelsessummen, nedskrives henstandssaldoen yderligere med et beløb svarende til den negative værdi af det således opgjorte tab beregnet efter reglerne i personskattelovens § 8 a.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I det omfang personen efter udenlandske regler, som personen er omfattet af, har fradrag for det tab, som opgøres efter 5. pkt., beregnes en negativ skatteværdi heraf.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Et beløb svarende til den beregnede negative skatteværdi forfalder til betaling.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der skal dog højst betales et beløb, der svarer til den negative skatteværdi af det opgjorte tab beregnet på grundlag af reglerne i personskattelovens § 8 a.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 38 A, stk. 4, 1. pkt.,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>Det efter stk. 2 opgjorte tab nedsættes med et beløb svarende til forskellen mellem anskaffelsessummen og værdien på fraflytningstidspunktet, hvis der på fraflytningstidspunktet blev opgjort et tab på den pågældende fordring, idet tabet dog ikke kan nedsættes til mindre end 0 kr. Det tab, som er opgjort efter stk. 2, forhøjes med et beløb svarende til forskellen mellem fordringens værdi på fraflytningstidspunktet og anskaffelsessummen, hvis der på fraflytningstidspunktet blev opgjort en gevinst på den pågældende fordring.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>På grundlag af reglerne i personskattelovens § 8 a beregnes der en negativ skatteværdi af det opgjorte tab som reguleret efter 1. eller 2. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 38 A, stk. 9, 1. pkt.,</Char>
+                <Char> ændres »1. oktober« til: »1. september«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 38 A, stk. 9, 3. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>Betales beløbet ikke rettidigt, finder kildeskattelovens § 63, 1. pkt., anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>I selskabsskatteloven, jf. lovbekendtgørelse nr. 149 af 9. januar 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">Fodnoten</Char>
+                <Char> til lovens titel affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 2009/133/EF af 19. oktober 2009 om en fælles beskatningsordning ved fusion, spaltning, partiel spaltning, tilførsel af aktiver og ombytning af aktier vedrørende selskaber i forskellige medlemsstater og ved flytning af et SEʼs eller SCEʼs vedtægtsmæssige hjemsted mellem medlemsstater, EU-Tidende 2009, nr. L 310, side 34, med senere ændringer.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>Loven indeholder bestemmelser, der gennemfører Rådets direktiv 2011/96/EU af 30. november 2011 om en fælles beskatningsordning for moder- og datterselskaber fra forskellige medlemsstater, EU-Tidende 2011, nr. L 345, side 8, med senere ændringer.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>Loven indeholder bestemmelser, der gennemfører Rådets direktiv 2003/49/EF af 3. juni 2003 om en fælles ordning for beskatning af renter og royalties, der betales mellem associerede selskaber i forskellige medlemsstater, EU-Tidende 2003, nr. L 157, side 49, med senere ændringer.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, stk. 3, 8.</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">11. pkt.,</Char>
+                <Char> ændres »25 pct.« til: »22 pct.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 3, stk. 1, nr. 4, 2. pkt.,</Char>
+                <Char> ændres »eller lufthavn« til: », en lufthavn eller et gas- eller fjernvarmeværk«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 11 B, stk. 1, 3.-5. pkt.,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>Der sker dog ikke fradragsbeskæring, i det omfang nettofinansieringsudgifterne består af nettokurstab på fordringer, som overstiger indkomstårets nettorenteindtægter, jf. stk. 4.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Uanset 3. pkt. sker der fradragsbeskæring af kurstab på fordringer, i det omfang kurstabet skyldes, at anskaffelsessummen er højere end den aftalte indfrielsessum.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Nettokurstab, der ikke beskæres efter 3. pkt., fremføres til modregning i skattepligtige nettogevinster på fordringer og nettorenteindtægter ved efterfølgende indkomstårs opgørelse af nettofinansieringsudgifterne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Opgørelserne efter 3.-5. pkt. udfærdiges samlet for sambeskattede selskaber, jf. stk. 8.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 13, stk. 1, nr. 2, 3. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>1. pkt. omfatter ikke udbytter, i det omfang det udbyttegivende selskab har fradrag for udlodningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 26, stk. 1,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>Adgangen til at vælge henstand gælder dog ikke, i det omfang den beregnede skat vedrører aktiver og passiver, hvor gevinst og tab opgøres efter lagerprincippet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 27, stk. 4, 1. pkt.,</Char>
+                <Char> ændres »et selskab m.v.« til: »et selskab eller en forening m.v.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 27, stk. 6, 3. pkt.,</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 7, 4. pkt.,</Char>
+                <Char> ændres »opkrævningslovens § 7, stk. 2, med tillæg af 0,4 procentpoint« til: »opkrævningslovens § 7, stk. 1, jf. stk. 2,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 32, stk. 11, 1. pkt.,</Char>
+                <Char> ændres »§ 33, stk. 1 og 6« til: »§ 33, stk. 1 og 7«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 4</Explicatus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>I virksomhedsskatteloven, jf. lovbekendtgørelse nr. 1114 af 18. september 2013, som ændret ved § 9 i lov nr. 792 af 28. juni 2013 og § 1 i lov nr. 992 af 16. september 2014, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">Overskriften</Char>
+                <Char> til kapitel 6 ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Kapitel>
+                <Explicatus>Kapitel 6</Explicatus>
+                <Rubrica>
+                  <Linea>
+                    <Char formaChar="Italic">Henstand ved ophør af skattepligt</Char>
+                  </Linea>
+                </Rubrica>
+                <ParagrafGruppe>
+                  <Paragraf>
+                    <Explicatus>§ 17.</Explicatus>
+                    <Stk>
+                      <Exitus formaEx="Align">
+                        <Linea>
+                          <Char>Personer, der er skattemæssigt hjemmehørende i et land, der er medlem af EU/EØS, herunder efter en eventuel dobbeltbeskatningsoverenskomst, kan vælge henstand med betaling af den skat, der efter § 15 c beregnes af indeståendet på konto for opsparet overskud med tillæg af den hertil svarende virksomhedsskat, når virksomheden efter den indtrådte beskatning videreføres i et land, der er medlem af EU/EØS.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus formaEx="Align">
+                        <Linea>
+                          <Char>Henstand efter stk. 1 er betinget af, at personen rettidigt indgiver selvangivelse til told- og skatteforvaltningen for det indkomstår, hvori der indtræder beskatning af indeståendet på konto for opsparet overskud med tillæg af den hertil svarende virksomhedsskat.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Valg af henstand skal meddeles sammen med selvangivelsen.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Gives der udsættelse med indgivelse af selvangivelsen efter skattekontrollovens § 4, stk. 4, skal selvangivelse og meddelelse om valg af henstand være indgivet inden denne frist.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus formaEx="Align">
+                        <Linea>
+                          <Char>Told- og skatteforvaltningen kan se bort fra overskridelse af fristen for indgivelse af selvangivelse og meddelelse, jf. stk. 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf>
+                    <Explicatus>§ 18.</Explicatus>
+                    <Stk>
+                      <Exitus formaEx="Align">
+                        <Linea>
+                          <Char>Ved henstand efter § 17 etableres en henstandssaldo.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Henstandsbeløbet udgøres af den beregnede skat af indeståendet på konto for opsparet overskud med tillæg af den hertil svarende virksomhedsskat.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus formaEx="Align">
+                        <Linea>
+                          <Char>Henstandsbeløbet skal afdrages i takt med de faktiske hævninger fra virksomheden, idet de faktiske hævninger og skatteværdien heraf opgøres efter reglerne for begrænset skattepligtige med fast driftssted i Danmark, der anvender virksomhedsordningen.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Der skal dog pr. indkomstår mindst betales et afdrag på 1/7 af det henstandsbeløb, der udgjorde saldoen ved henstandssaldoens etablering.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Henstandssaldoen nedskrives med afdragsbeløbet, når det er betalt, idet saldoen dog ikke kan afdrages til et mindre beløb end 0 kr.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus formaEx="Align">
+                        <Linea>
+                          <Char>Bliver en person, der har fået henstand efter § 17, efterfølgende skattemæssigt hjemmehørende i et land, der ikke er medlem af EU/EØS, herunder efter en eventuel dobbeltbeskatningsoverenskomst, forfalder det resterende beløb på henstandssaldoen til betaling.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Endvidere forfalder det resterende beløb på henstandssaldoen til betaling ved personens død.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Overføres virksomheden til et land, der ikke er medlem af EU/EØS, eller ophører virksomheden, forfalder det resterende beløb på henstandssaldoen ligeledes til betaling.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 4.</Explicatus>
+                      <Exitus formaEx="Align">
+                        <Linea>
+                          <Char>Personen skal indgive selvangivelse for hvert år, hvor der er en positiv henstandssaldo.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Samtidig med indsendelse af denne selvangivelse skal der gives oplysninger om, i hvilket land eller lande virksomheden drives ultimo indkomståret, og i hvilket land personen er skattemæssigt hjemmehørende ultimo indkomståret.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Selvangivelsesfristen er den i skattekontrollovens § 4, stk. 1, jf. stk. 4, angivne frist, idet skattekontrollovens § 4, stk. 3, finder tilsvarende anvendelse.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Indgives selvangivelse ikke rettidigt, bortfalder henstanden, og det beløb, der står på henstandssaldoen, forfalder til betaling.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Told- og skatteforvaltningen kan se bort fra overskridelse af fristen for indgivelse af selvangivelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 5.</Explicatus>
+                      <Exitus formaEx="Align">
+                        <Linea>
+                          <Char>Fristen for betaling af beløb omfattet af stk. 2 og 4 er den 1. september i kalenderåret efter overførselsåret eller ved forskudt indkomstår den 1. september i kalenderåret efter det kalenderår, som det forskudte indkomstår træder i stedet for.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Betaling senest den 20. i den måned, hvori beløbet efter 1. pkt. forfalder til betaling, anses for rettidig.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Betales beløbet ikke rettidigt, finder kildeskattelovens § 63, 1. pkt., tilsvarende anvendelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 6.</Explicatus>
+                      <Exitus formaEx="Align">
+                        <Linea>
+                          <Char>Henstandsbeløbet forrentes med en rentesats på 1 procentpoint over Nationalbankens diskonto, dog mindst med 3 pct. p.a.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Fristen for betaling af renten er den 1. september i kalenderåret efter overførselsåret eller ved forskudt indkomstår den 1. september i kalenderåret efter det kalenderår, som det forskudte indkomstår træder i stedet for.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Betaling senest den 20. i den måned, hvori beløbet efter 1. pkt. forfalder til betaling, anses for rettidig.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Betales beløbet ikke rettidigt, finder kildeskattelovens § 63, 1. pkt., tilsvarende anvendelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 5</Explicatus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>I afskrivningsloven, jf. lovbekendtgørelse nr. 1106 af 9. september 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 40 D, stk. 2-5,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 44, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>Reglerne i denne bestemmelse gælder for anskaffelse af afskrivningsberettigede aktiver, når udgiften helt eller delvis er betalt ved et eller flere af følgende tilskud m.v.:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus formaEx="Align">
+                        <Linea>
+                          <Char>Projekt- og saneringsstøtte, der er ydet af Medienævnet til trykte nyhedsmedier og til skrevne internetbaserede nyhedsmedier.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Tilskud, der er ydet efter lov om Hav- og Fiskerifonden.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Det gælder dog ikke tilskud, der er ydet efter lovens bestemmelser om støtte til fiskerfartøjers endelige ophør i dansk erhvervsfiskeri.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Tilskud, der er ydet efter fiskeriudviklingsloven.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Det gælder dog ikke tilskud, der er ydet efter lovens bestemmelser om støtte til fiskerfartøjers endelige ophør i dansk erhvervsfiskeri.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Tilskud, der er ydet efter lov om statstilskud til energibesparelser m.v. i erhvervsvirksomheder.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Tilskud fra EU’s strukturfonde under målet om regional konkurrenceevne og beskæftigelse og under målet om europæisk territorialt samarbejde samt tilhørende national medfinansiering.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Tilskud, der er ydet efter lov om Landdistriktsfonden.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Tilskud, der er ydet efter landdistriktsloven.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Tilskud, der er ydet til forbedring af forarbejdningen og afsætningen af jordbrugs- og skovbrugsprodukter (strukturprojekter) efter lov om visse landdistriktsrelaterede tilskudsordninger m.v.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>9)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Tilskud, der er ydet til fremme af tilpasningen og udviklingen af landdistrikterne (artikel 33-ordningen) efter lov om visse landdistriktsrelaterede tilskudsordninger m.v.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 6</Explicatus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>I aktieavancebeskatningsloven, jf. lovbekendtgørelse nr. 92 af 17. januar 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">Fodnoten</Char>
+                <Char> til lovens titel affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 2009/133/EF af 19. oktober 2009 om en fælles beskatningsordning ved fusion, spaltning, partiel spaltning, tilførsel af aktiver og ombytning af aktier vedrørende selskaber i forskellige medlemsstater og ved flytning af et SEʼs eller SCEʼs vedtægtsmæssige hjemsted mellem medlemsstater, EU-Tidende 2009, nr. L 310, side 34, med senere ændringer.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 39 A, stk. 5, 1. pkt.,</Char>
+                <Char> ændres »afståelse af aktier til det udstedende selskab« til: »erhvervelse af afståelsessummer for aktier«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 39 A, stk. 12, 1. pkt.,</Char>
+                <Char> ændres »1. oktober« til: »1. september«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 39 A, stk. 12, 3. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>Betales beløbet ikke rettidigt, finder kildeskattelovens § 63, 1. pkt., anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 7</Explicatus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>I dødsboskatteloven, jf. lovbekendtgørelse nr. 333 af 2. april 2012, som ændret senest ved § 7 i lov nr. 1354 af 21. december 2012, § 4 i lov nr. 1394 af 23. december 2012, § 7 i lov nr. 1395 af 23. december 2012 og § 4 i lov nr. 792 af 28. juni 2013, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 51</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 65</Char>
+                <Char> udgår »og i tilfælde, hvor der efter kildeskattelovens § 73 E er ydet henstand med betaling af skatter efter ejendomsavancebeskatningslovens § 6 B,«, og efter »aktieavancebeskatningslovens § 38,« indsættes: »og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 8</Explicatus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>I ejendomsavancebeskatningsloven, jf. lovbekendtgørelse nr. 1200 af 30. september 2013, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4, stk. 5,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>En mælkekvote som nævnt i 1. pkt., der er udløbet, anses for afstået på tidspunktet for kvotens udløb med en afståelsessum på nul.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5, stk. 4, nr. 5,</Char>
+                <Char> udgår »og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5, stk. 4, nr. 6,</Char>
+                <Char> ændres »§ 40 C.« til: »§ 40 C, og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5, stk. 4,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">nr. 7:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>7)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>værdien nul for en udløbet mælkekvote, der ikke er omfattet af afskrivningslovens § 40 C, idet vederlag for en sådan kvote anses for modtaget på tidspunktet for kvotens udløb med et beløb på nul.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5, stk. 5, nr. 5,</Char>
+                <Char> ændres »nr. 6« til: »nr. 6 og 7«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 6 B</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 6 C, 2. pkt.,</Char>
+                <Char> ændres »Reglerne i §§ 6 A og 6 B« til: »§ 6 A«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 9</Explicatus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>I fusionsskatteloven, jf. lovbekendtgørelse nr. 1120 af 14. november 2012, som ændret senest ved § 1 i lov nr. 274 af 26. marts 2014, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">Fodnoten</Char>
+                <Char> til lovens titel affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 2009/133/EF af 19. oktober 2009 om en fælles beskatningsordning ved fusion, spaltning, partiel spaltning, tilførsel af aktiver og ombytning af aktier vedrørende selskaber i forskellige medlemsstater og ved flytning af et SEʼs eller SCEʼs vedtægtsmæssige hjemsted mellem medlemsstater, EU-Tidende 2009, nr. L 310, side 34, med senere ændringer.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 10</Explicatus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>I ligningsloven, jf. lovbekendtgørelse nr. 1041 af 15. september 2014, som ændret senest ved § 1 i lov nr. 1534 af 27. december 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">Fodnoten</Char>
+                <Char> til lovens titel affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 2009/133/EF af 19. oktober 2009 om en fælles beskatningsordning ved fusion, spaltning, partiel spaltning, tilførsel af aktiver og ombytning af aktier vedrørende selskaber i forskellige medlemsstater og ved flytning af et SEʼs eller SCEʼs vedtægtsmæssige hjemsted mellem medlemsstater, EU-Tidende 2009, nr. L 310, side 34, med senere ændringer.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 7 F, stk. 1, nr. 9,</Char>
+                <Char> udgår »og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 7 F, stk. 1, nr. 10,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>10)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>tilskud, som ydes for at sikre realisering af dokumenterbare energibesparelser, jf. § 22, stk. 1, nr. 7, i lov om elforsyning, § 14, stk. 1, nr. 4, i lov om naturgasforsyning og § 28 b, stk. 1, i lov om varmeforsyning, og</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 7 Y, stk. 2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>En forpagter, som har indgået forpagtningsaftale inden den 1. januar 2006, kan uden skattemæssige konsekvenser for parterne vederlagsfrit overdrage betalingsrettigheder, jf. afskrivningslovens § 40 C.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>1. pkt. finder anvendelse ved overdragelser fra forpagter til bortforpagter og ved videreforpagtning ved overdragelser fra sekundær forpagter til primær forpagter.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er ikke en betingelse, at de betalingsrettigheder, der overdrages, er dem, som oprindelig blev tildelt forpagteren.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>1. pkt. finder dog kun anvendelse ved overdragelse af betalingsrettigheder, hvis værdi på tidspunktet for førstegangstildelingen højst svarer til værdien af de betalingsrettigheder, som forpagteren oprindelig fik tildelt ved førstegangstildelingen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved videreforpagtning tillægges den oprindelige værdi af de rettigheder, videreforpagter har fået efter forpagterreglen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved en betalingsrettigheds værdi forstås basisværdi inklusive eventuelle tillæg.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 16 B, stk. 4,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>Stk. 1 omfatter ikke tegningsretter, der er omfattet af § 28.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 16 I, stk. 8, 1. pkt.,</Char>
+                <Char> ændres »§ 33, stk. 1 og 6« til: »§ 33, stk. 1 og 7«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 33</Char>
+                <Char> indsættes efter stk. 5 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>Hvis en person efter kildeskattelovens § 10, stk. 1, ved indkomstopgørelsen skal medregne fortjeneste på aktiver, nedsættes den danske skat efter stk. 1 og 2 eller efter reglerne i dobbeltbeskatningsoverenskomsten med den skat, som den pågældende stat, Grønland eller Færøerne kunne have pålignet overskud eller kapitalvinding i et fast driftssted eller en fast ejendom, såfremt det faste driftssted eller den faste ejendom var afstået på samme tidspunkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus formaEx="Align">
+            <Linea>
+              <Char>Stk. 6-8 bliver herefter stk. 7-9.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 11</Explicatus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>I lov nr. 170 af 26. februar 2014 om ændring af selskabsskatteloven (Henstand med exitskat ved selskabers overførsel af aktiver og passiver til et andet EU-/EØS-land) foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, stk. 2, 7. pkt.,</Char>
+                <Char> ændres »opkrævningslovens § 7, stk. 2, med tillæg af 0,4 procentpoint« til: »opkrævningslovens § 7, stk. 1, jf. stk. 2,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 12</Explicatus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>I lov nr. 528 af 28. maj 2014 om ændring af aktieavancebeskatningsloven, selskabsskatteloven og skattekontrolloven (Selskaber m.v.s registrering af fremførselsberettigede underskud, oplysningspligt om erhvervelse af visse aktier og investeringsbeviser m.v., selvangivelse af kildeartsbegrænsede tab m.v.) foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4, stk. 2,</Char>
+                <Char formaChar="Italic">
+                </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>§ 1, nr. 1, har virkning for tab, der opstår den 1. januar 2015 eller senere.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For aktier og investeringsbeviser m.v., der er erhvervet inden lovens ikrafttræden, anses betingelsen i aktieavancebeskatningslovens § 19 A og § 22, stk. 1, 3. pkt., som affattet ved denne lovs § 1, nr. 1 og 2, for opfyldt, såfremt det tabsgivende investeringsbevis indgår i oplysninger om beholdningen af investeringsbeviser pr. 31. december 2014, der er indberettet efter skattekontrollovens §§ 10 B, 10 E, 11 B eller 11 H.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For aktier og investeringsbeviser m.v., der er erhvervet inden lovens ikrafttræden, og som ikke omfattes af indberetningen efter 2. pkt., anses betingelsen i aktieavancebeskatningslovens § 19 A og § 22, stk. 1, 3. pkt., som affattet ved denne lovs § 1, nr. 1 og 2, for opfyldt, såfremt den skattepligtige har oplyst told- og skatteforvaltningen om erhvervelsen inden udløbet af selvangivelsesfristen for indkomståret 2015.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 13</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char>Loven træder i kraft den 1. marts 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char>§ 1, nr. 1, og § 3, nr. 2, har virkning for royalty og renter, der udbetales eller godskrives den 1. marts 2015 eller senere.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char>§ 1, nr. 5, har virkning for skattebetalinger vedrørende aktiver, der efter kildeskattelovens § 10 som affattet ved denne lovs § 1, nr. 3, anses for afhændet den 1. marts 2015 eller senere.</Char>
+          </Linea>
+          <Linea>
+            <Char>§ 4 har virkning for skattebetalinger vedrørende indestående på konto for opsparet overskud, der anses for overført efter virksomhedsskattelovens § 15 c den 1. marts 2015 eller senere.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char>§ 2, nr. 1 og 2, har virkning for indkomstår, der påbegyndes den 1. marts 2015 eller senere, jf. dog stk. 5-8.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 5.</Explicatus>
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char>For personer og dødsboer, som efter den hidtidige affattelse af kursgevinstlovens § 25, stk. 2, jf. lovbekendtgørelse nr. 1113 af 18. september 2013, har valgt at anvende lagerprincippet ved opgørelse af gevinst og tab på obligationer optaget til handel på et reguleret marked, men hvor der efter kursgevinstlovens § 25, stk. 2, som affattet ved denne lovs § 2, nr. 1, ikke er adgang til at vælge lagerprincippet, bevares det trufne valg for de obligationer, som personen eller dødsboet har erhvervet inden påbegyndelsen af det i stk. 4 nævnte indkomstår.</Char>
+          </Linea>
+          <Linea>
+            <Char>§ 22, stk. 14, i lov nr. 525 af 12. juni 2009 finder fortsat anvendelse på ikkebørsnoterede fordringer og gæld, som personen eller dødsboet har henholdsvis erhvervet og påtaget sig inden udløbet af indkomståret 2009.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 6.</Explicatus>
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char>For selskaber m.v., som efter den hidtidige affattelse af kursgevinstlovens § 25, stk. 4, jf. lovbekendtgørelse nr. 1113 af 18. september 2013, har valgt at anvende lagerprincippet ved opgørelse af gevinst og tab på fordringer omfattet af kursgevinstlovens § 4, kan selskabet m.v. i stedet for denne opgørelsesmetode vælge at anvende lagerprincippet på gevinst og tab, der følger af valutakursændringer, på sådanne fordringer i fremmed valuta fra indkomståret 2010, hvis der inden udløbet af selvangivelsesfristen for det første indkomstår, som lovændringen har virkning for, jf. stk. 4, er givet told- og skatteforvaltningen meddelelse herom.</Char>
+          </Linea>
+          <Linea>
+            <Char>Kursgevinstlovens § 41, stk. 10, finder tilsvarende anvendelse.</Char>
+          </Linea>
+          <Linea>
+            <Char>Vælges lagerprincippet, jf. 1. pkt., gælder dette valg samlet for fordringer omfattet af kursgevinstlovens § 4, som er erhvervet inden påbegyndelsen af det i stk. 4 nævnte indkomstår.</Char>
+          </Linea>
+          <Linea>
+            <Char>Valget medfører ikke, at denne opgørelsesmetode skal anses for valgt for alle valutakursændringer på fordringer og gæld efter kursgevinstlovens § 25, stk. 4, som affattet ved denne lovs § 2, nr. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 7.</Explicatus>
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char>For selskaber m.v., som efter den hidtidige affattelse af kursgevinstlovens § 25, stk. 4, jf. lovbekendtgørelse nr. 1113 af 18. september 2013, har valgt at anvende lagerprincippet ved opgørelse af gevinst og tab på gæld i fremmed valuta, der ikke er optaget til handel på et reguleret marked, bevares det trufne valg for den gæld, som selskabet har påtaget sig inden påbegyndelsen af det i stk. 4 nævnte indkomstår.</Char>
+          </Linea>
+          <Linea>
+            <Char>§ 22, stk. 15, i lov nr. 525 af 12. juni 2009 finder fortsat anvendelse på ikkebørsnoteret gæld, som selskabet m.v. har påtaget sig inden udløbet af indkomståret 2009.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 8.</Explicatus>
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char>For selskaber m.v., som efter den hidtidige affattelse af kursgevinstlovens § 25, stk. 4, jf. lovbekendtgørelse nr. 1113 af 18. september 2013, har valgt at anvende lagerprincippet ved opgørelsen af gevinst og tab på vederlagsfordringer eller gæld, der er optaget til handel på et reguleret marked, men hvor der efter den ændrede affattelse af kursgevinstlovens § 25, stk. 4, jf. denne lovs § 2, nr. 2, ikke er adgang til at vælge lagerprincippet, bevares det trufne valg for de fordringer og den gæld, som selskabet m.v. har henholdsvis erhvervet og påtaget sig inden påbegyndelsen af det i stk. 4 nævnte indkomstår.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 9.</Explicatus>
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char>§ 3, nr. 4, har virkning for indkomstår, der påbegyndes den 1. marts 2015 eller senere.</Char>
+          </Linea>
+          <Linea>
+            <Char>Selskaber kan dog vælge at anvende selskabsskattelovens § 11 B, stk. 1, 3.-6. pkt., som indsat ved denne lovs § 3, nr. 4, for indkomstår, der er påbegyndt i perioden fra den 1. januar 2013 til den 28. februar 2015.</Char>
+          </Linea>
+          <Linea>
+            <Char>Sambeskattede selskaber skal ved anvendelsen af 2. pkt. træffe samme valg.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 10.</Explicatus>
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char>§ 3, nr. 5, har virkning for udbytte, der udloddes den 1. marts 2015 eller senere.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 11.</Explicatus>
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char>En tidligere forpagter, der ejer betalingsrettigheder, som efter forpagtningsforholdets ophør kunne være overdraget til den tidligere bortforpagter uden skattemæssige konsekvenser, hvis reglerne i ligningslovens § 7 Y, stk. 2, som affattet ved denne lovs § 10, nr. 4, havde været gældende, kan overdrage de resterende betalingsrettigheder til den tidligere bortforpagter uden skattemæssige konsekvenser, hvis det sker vederlagsfrit og inden for rammerne af loftet i ligningslovens § 7 Y, stk. 2, som affattet ved denne lovs § 10, nr. 4.</Char>
+          </Linea>
+          <Linea>
+            <Char>Det er en betingelse, at forpagtningsaftalen er indgået inden den 1. januar 2006.</Char>
+          </Linea>
+          <Linea>
+            <Char>En tidligere forpagter, der den 1. januar 2006 eller senere har overdraget betalingsrettigheder til den tidligere bortforpagter, kan vælge at anvende reglerne i 1. og 2 pkt., hvis betingelserne i øvrigt er opfyldt.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 12.</Explicatus>
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char>Personer, som er skattemæssigt hjemmehørende i et land, der er medlem af EU/EØS, herunder efter en eventuel dobbeltbeskatningsoverenskomst, og som har fået beregnet skat efter kildeskattelovens § 8 A, stk. 2, ved en overførsel af aktiver i perioden fra den 1. januar 2009 til den 28. februar 2015 til et fast driftssted i et land, der er medlem af EU/EØS, kan vælge henstand efter reglerne i kildeskattelovens §§ 73 B og 73 C som indsat ved denne lovs § 1, nr. 5.</Char>
+          </Linea>
+          <Linea>
+            <Char>Tilsvarende kan personer, som er skattemæssigt hjemmehørende i et land, der er medlem af EU/EØS, herunder efter en eventuel dobbeltbeskatningsoverenskomst, som har fået beregnet skat efter kildeskattelovens § 10, jf. lovbekendtgørelse nr. 1403 af 7. december 2010, ved ophør af skattepligt efter kildeskattelovens § 1 i perioden fra den 1. januar 2009 til den 28. februar 2015, og som har af- og nedskrivningsberettigede aktiver, som Danmark efter fraflytningen ikke længere har beskatningsretten til, er placeret i et land, der er medlem af EU/EØS, vælge henstand efter reglerne i kildeskattelovens §§ 73 B og 73 C som indsat ved denne lovs § 1, nr. 5.</Char>
+          </Linea>
+          <Linea>
+            <Char>Henstand efter 1. og 2. pkt. kan dog kun opnås, i det omfang personen fortsat ejer de aktiver, som udløste den skattebetaling, der ønskes henstand med, og kun i det omfang de pågældende aktiver ikke senere må anses for afstået, hvis reglerne i kildeskattelovens § 73 C, stk. 4, som indsat ved denne lovs § 1, nr. 5, havde været gældende.</Char>
+          </Linea>
+          <Linea>
+            <Char>Henstand efter 1. og 2. pkt. omfatter den beregnede skat ved overførslen m.v. nedsat med de afdrag, der skulle have været betalt efter reglerne i kildeskattelovens § 73 B som indsat ved denne lovs § 1, nr. 5, hvis personen havde været omfattet af reglerne i kildeskattelovens §§ 73 B og 73 C som indsat ved denne lovs § 1, nr. 5, allerede på tidspunktet for overførsel m.v. Henstanden er betinget af, at personen udarbejder en opgørelse over de afdrag, der skulle have været betalt efter kildeskattelovens § 73 C som indsat ved denne lovs § 1, nr. 5, hvis personen havde været omfattet heraf allerede fra tidspunktet for overførslen m.v. Opgørelse og meddelelse om henstand skal indgives til told- og skatteforvaltningen senest den 30. juni 2015.</Char>
+          </Linea>
+          <Linea>
+            <Char>Ved valg af henstand tilbagebetales den del af den eventuelt betalte skat, der udgør forskellen mellem den eventuelt betalte skat og henstandssaldoen som opgjort efter 4. pkt. Tilbagebetalingen skal ske senest den 1. september 2015.</Char>
+          </Linea>
+          <Linea>
+            <Char>Der tilkommer personen en rente svarende til renten efter kildeskattelovens § 63, 1. pkt., opgjort pr. påbegyndt måned fra den 1. september 2015, hvis tilbagebetalingen sker efter denne dato.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 13.</Explicatus>
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char>Personer, som er skattemæssigt hjemmehørende i et land, der er medlem af EU/EØS, herunder efter en eventuel dobbeltbeskatningsoverenskomst, og som i perioden fra den 1. januar 2009 til den 28. februar 2015 har fået beregnet skat efter virksomhedsskattelovens § 15 c af indeståendet på konto for opsparet overskud med tillæg af den hertil svarende virksomhedsskat, kan, når den pågældende virksomhed videreføres i et land, der er medlem af EU/EØS, vælge henstand efter reglerne i virksomhedsskattelovens §§ 17 og 18 som indsat ved denne lovs § 4.</Char>
+          </Linea>
+          <Linea>
+            <Char>Henstand kan dog kun opnås, i det omfang personen fortsat driver den virksomhed, som udløste den skattebetaling, der ønskes henstand med, og kun i det omfang den pågældende virksomhed ikke må anses for ophørt, hvis reglerne i virksomhedsskattelovens § 18, stk. 3, som indsat ved denne lovs § 4, havde været gældende.</Char>
+          </Linea>
+          <Linea>
+            <Char>Henstand efter 1. pkt. omfatter den beregnede skat ved ophøret nedsat med de afdrag, der skulle have været betalt efter reglerne i virksomhedsskattelovens § 18 som indsat ved denne lovs § 4, hvis personen havde været omfattet af reglerne i virksomhedsskattelovens §§ 17 og 18 som indsat ved denne lovs § 4, allerede på ophørstidspunktet.</Char>
+          </Linea>
+          <Linea>
+            <Char>Henstanden er betinget af, at personen udarbejder en opgørelse over de afdrag, der skulle have været betalt efter virksomhedsskattelovens § 18 som indsat ved denne lovs § 4, hvis personen havde været omfattet heraf allerede fra ophørstidspunktet.</Char>
+          </Linea>
+          <Linea>
+            <Char>Opgørelse og meddelelse om henstand skal indgives til told- og skatteforvaltningen senest den 30. juni 2015.</Char>
+          </Linea>
+          <Linea>
+            <Char>Ved valg af henstand tilbagebetales den del af den eventuelt betalte skat, der udgør forskellen mellem den eventuelt betalte skat og henstandssaldoen som opgjort efter 3. pkt., idet tilbagebetalingen skal ske senest den 1. september 2015.</Char>
+          </Linea>
+          <Linea>
+            <Char>Der tilkommer personen en rente svarende til renten efter kildeskattelovens § 63, 1. pkt., opgjort pr. påbegyndt måned fra den 1. september 2015, hvis tilbagebetalingen sker efter denne dato.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

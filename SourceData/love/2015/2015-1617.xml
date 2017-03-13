@@ -1,0 +1,3532 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="ide35d6bfd-a97f-4773-9300-8894d25e6e7c" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idd9ea48c1-9d92-4fb9-aba4-bfd0c1028559">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150161729</AccessionNumber>
+    <DocumentId>CK000200</DocumentId>
+    <UniqueDocumentId>175262</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om jagt og vildtforvaltning</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-12-08</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-02-01</EndDate>
+    <Status>Historic</Status>
+    <Number>1617</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LOV nr 1715 af 27/12/2016 </KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 118 af 26/01/2017</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 1617 af 08/12/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2017-01-31</DateOfHistoricMark>
+    <EuReferences>31979L0409</EuReferences>
+    <EuReferences>31992L0043</EuReferences>
+    <EuReferences>32004L0035</EuReferences>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20160171530</Ref_Accn>
+    <Ref_Af REFid="change_1">2016-12-27</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om Miljø- og Fødevareklagenævnet</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Oluf Engberg</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Anne-Marie Vægter Rasmussen</Signature>
+    <PlaceOfSignature>Naturstyrelsen</PlaceOfSignature>
+    <JournalNumber>Miljø- og Fødevaremin.,\nNaturstyrelsen j.nr. 019-00522</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+    <AdministrativeAuthority>Naturstyrelsen</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="idee5e4732-5afa-40a1-ae93-61563f826ee4">
+    <Titel id="idd85ed393-4168-4a27-befa-08c26e6e4414">
+      <Linea>
+        <Char>Bekendtgørelse af lov om jagt og vildtforvaltning</Char>
+      </Linea>
+      <Nota id="ide9ed25e9-d61d-4bf3-acb5-d155cdf43725" formaNo="EU">
+        <Explicatus>1)</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 79/409/EØF af 2. april 1979 om beskyttelse af vilde fugle, (EF-Tidende 1979 nr. L 103, side 1), som ændret senest ved Rådets direktiv 2006/105/EF af 20. november 2006, (EU-Tidende 2006 nr. L 363, side 368), Rådets direktiv 92/43/EØF af 21. maj 1992 om bevaring af naturtyper samt vilde dyr og planter (EF-habitatdirektivet), (EF-Tidende 1992 nr. L 206, side 7), som ændret senest ved Rådets direktiv 2006/105/EF af 20. november 2006, (EU-Tidende 2006 nr. L 363, side 368) og dele af Europa-Parlamentets og Rådets direktiv 2004/35/EF af 21. april 2004 om miljøansvar for så vidt angår forebyggelse og afhjælpning af miljøskader, (EU-Tidende 2004 nr. L 143, side 56).</Char>
+          </Linea>
+        </Exitus>
+      </Nota>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id04c2193f-58a0-4e4f-a2a8-7e79719d14b6">
+    <Indledning id="id8ab845a5-5e78-48d4-bfe4-f9dd34bb35e9">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om jagt og vildtforvaltning, jf. lovbekendtgørelse nr. 735 af 14. juni 2013, med de ændringer, der følger af § 14 i lov nr. 86 af 28. januar 2014, § 10 i lov nr. 736 af 25. juni 2014 og lov nr. 1373 af 16. december 2014.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="idc5329a2a-0784-42bd-bc56-4e5dc29f4e10">
+      <Afsnit id="ida17e1ae3-80a0-4244-8809-3f9a7790eb75" localId="1">
+        <Kapitel id="idfb96bc12-e49d-4a46-85f9-f29e2faf5257" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="id3a3f351b-f40c-420f-8b32-133578ed1705">
+            <Linea>
+              <Char>Formål m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="ide912f548-6b69-4cf3-9c73-3dddd1d03638" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="idcc9a56c5-85b4-42a2-812f-db8a08ad8341">
+                <Exitus>
+                  <Linea>
+                    <Char>Lovens formål er at sikre arts- og individrige vildtbestande og skabe grundlag for en bæredygtig forvaltning heraf ved</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id6d7da770-923b-4000-9cde-1c040aa2674f">
+                  <Index>
+                    <Indentatio id="idbf5c130f-47df-4d73-8168-31ebb314b555" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>at beskytte vildtet, særlig i yngletiden,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1f661a11-8e55-4aae-899b-2a72167c8196" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>at sikre kvantiteten og kvaliteten af vildtets levesteder gennem oprettelse af vildtreservater og ved på anden måde at etablere, retablere og beskytte vildtets levesteder og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf9c48bff-a598-4255-9430-54051c0a26c1" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>at regulere jagten således, at den sker efter økologiske og etiske principper og under varetagelse af hensynet til beskyttelse af vildtet, især af sjældne og truede arter.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id6e3cd529-171c-4bc0-bbd8-7e5f4b152670">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved lovens administration skal hensynet til befolkningens rekreative behov afvejes over for hensynet til beskyttelse af vildtet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id5d8a78f5-e2ed-408c-af2a-cdca3caf823f" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="id19d8df82-870d-4578-bd10-1714dfd4c74f">
+                <Exitus>
+                  <Linea>
+                    <Char>Lovens regler om vildt gælder for pattedyr og fugle, herunder trækfugle, som er naturligt forekommende i den danske natur.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Reglerne gælder også for pattedyr og fugle, som er udsat eller er undsluppet menneskelig varetægt, og som har etableret vildtlevende, reproducerende bestande i naturen, medmindre de traditionelt betragtes som husdyr.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida89cc56f-037e-4c15-9562-99ac40b8b49b">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lovens regler om jagt gælder for alle handlinger, der med egnet middel har til formål at efterstræbe vildt, uanset om der i forbindelse med jagten fanges eller nedlægges vildt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="ided64ffc1-972b-4e07-89bb-3a48debd7ae5" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="id6bae5507-1198-4ae6-9965-5e1823c46a1d">
+            <Linea>
+              <Char>Generelle vildtforvaltningsbestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id086ef98e-ef66-4bd7-bcb5-30acbd012a9a" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="ida86fb21f-a84a-4ed5-9b5f-543b06f0530c">
+                <Exitus>
+                  <Linea>
+                    <Char>Jagt må kun drives på vildt, der er fastsat jagttid for, og kun inden for den jagttid, der er fastsat for arten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1c0b69b2-8a19-4ed6-b6ee-9c80f9df39c0">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte jagttid for de enkelte vildtarter ud fra følgende principper:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idf4216e91-d055-4899-9f7c-f3d8fc5a3fb3">
+                  <Index>
+                    <Indentatio id="id7fca1abf-51ba-4b15-a5c1-134200134d2d" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Jagt på fugle må ikke være i strid med de beskyttelsesforanstaltninger, der er truffet i disses udbredelsesområder.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf0d8f43d-427a-4ab4-86fa-bdb820f97f78" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Jagt på fugle skal tilgodese en fornuftig udnyttelse og være økologisk afbalanceret.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id332573cb-77a2-40c5-9975-bf7006077749" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Der må ikke drives jagt på fugle i yngletiden og på fugle under træk til redebygningsstedet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb967394e-7948-4353-92ab-bf2d312c3eba" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Der bør ikke drives jagt i perioden 1. februar - 31. august.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="iddc85d336-fdbd-4496-b0a5-5aa4c3c02f2a" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Der bør ikke fastsættes jagttid på sjældne eller truede arter.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd64eeb27-98b2-4a01-8063-3b50ff3bd73b" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Arter, der generelt eller lokalt har et utilfredsstillende lavt bestandsniveau, bør beskyttes.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id1c3e926d-03ca-4a87-baff-1751696093a1">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler, der udvider, begrænser eller ophæver jagttiden for de enkelte vildtarter inden for nærmere afgrænsede områder samt på fiskeriterritoriet eller dele heraf.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id84d881c0-aa29-4d9b-ad8e-18f2973b92f3" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id9e1063be-aa8e-48c4-9a0a-e74c0b1ef9f4">
+                <Exitus>
+                  <Linea>
+                    <Char>Jagt må kun finde sted i tiden fra solopgang til solnedgang.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbb6f99a9-88ba-48f2-8201-390b1be2a894">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan for visse bestemte vildtarter fastsætte regler, der udvider eller begrænser det tidsrum, der er nævnt i stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Reglerne kan omfatte hele landet, nærmere afgrænsede områder, fiskeriterritoriet eller dele heraf.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id7cac6d24-d500-4918-95bb-3d819ac54211" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="id2bb360b5-27f7-4607-9a8f-c0a925880db5">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om, at visse vildtarter i nærmere bestemte områder kun må jages efter tilladelse fra ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida3581a9d-3539-47c5-87da-4408602fbcb8" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id3383770e-6095-4d12-8858-d6506f08fa37">
+                <Exitus>
+                  <Linea>
+                    <Char>Med henblik på at beskytte vildtet eller regulere udnyttelsen heraf kan miljø- og fødevareministeren fastsætte regler om, herunder forbud mod</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idc6554a3b-0aef-48a0-99c7-803b4c089840">
+                  <Index>
+                    <Indentatio id="id34410419-f196-4a70-80d1-78a5e7135a46" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>udsætning, indfangning og hold af vildt,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7fe86d77-4b19-40c3-a0f0-811980e31ce9" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>handel med og besiddelse af vildt og dele heraf og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id829c7d1d-181b-4164-8a1c-9a6245111d17" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>indsamling af, handel med og besiddelse af æg fra fuglevildt.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id55c2d8c6-46f7-4c5c-bf78-2c2d0ef62862">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om kontrol med og registrering af hold af vildt, herunder regler om, at ministeren uden retskendelse kan lade udtage prøver af individer af bestemte vildtarter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idce35f330-c45a-46c1-9d62-860fc301af77">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om biotopplaner.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3f84fb14-ff63-4d01-b901-e39412be7d2c">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om, at kun personer, som har gennemgået et kursus, kan udsætte fuglevildt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan endvidere fastsætte regler om kursus i udsætning af fuglevildt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id496239bc-72bd-4785-afbd-153e18ed59ec">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om aflevering af vildt, der findes dødt i naturen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9b3e243d-9ced-423d-a623-114f0dd6c603">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om registrering af private ægsamlinger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfe594fde-30e4-4b72-8497-582b1cbd0b89">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om, at kun personer eller virksomheder, der af ministeren har fået autorisation hertil, må behandle og pleje tilskadekommet vildt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der kan tillige fastsættes regler om, at autorisation kan nægtes eller tilbagekaldes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id4458e5d4-d0be-453a-a4bd-dd1f0b1f9a0a" localId="7">
+              <Explicatus>§ 6 a.</Explicatus>
+              <Stk id="idc4190886-b0b4-472f-8b32-c3e65fe625f0">
+                <Exitus>
+                  <Linea>
+                    <Char>Yngle- eller rasteområder for de pattedyr, der er nævnt i bilag 1, må ikke ødelægges eller beskadiges.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6faacca3-aa4c-4456-a57e-a3003bfa10c6">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Fugles reder må ikke forsætligt ødelægges, beskadiges eller fjernes.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Æg må ikke forsætligt ødelægges eller beskadiges.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4db8a93d-cc47-44dc-b2c7-4c4e26081056">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om fældning af visse træer og forbud mod ødelæggelse eller beskadigelse af redesteder og yngle- eller rasteområder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd90045e7-afba-4e80-a25f-ccfa7d307d12" localId="8">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="id3bd9a1df-09bf-4b4f-9551-081a7b2174e5">
+                <Exitus>
+                  <Linea>
+                    <Char>De pattedyr, der er nævnt i bilag 1, må ikke forsætligt forstyrres med skadelig virkning for arten eller bestanden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Forbuddet gælder i forhold til alle livsstadier af de omfattede dyrearter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id243e51d2-b7c6-49cb-b0e4-bfea7dc3a2a1">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Fugle må ikke forsætligt forstyrres med skadelig virkning for arten eller bestanden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id4e905842-4fef-47bd-9ccd-0e4f6cb79203" localId="9">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="idb21a533c-2450-49f2-ade6-a35737f265d6">
+                <Exitus>
+                  <Linea>
+                    <Char>Billed- og lydoptagelser samt registrering og iagttagelse ved reder og ynglepladser må ikke ske på en sådan måde, at vildtet og dets yngel forulempes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id113d30ee-f98f-490e-9d15-649d5ec5ae9f" localId="10">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="id54920bb9-1bef-4db3-8bc0-d1f2d4f1b9ee">
+                <Exitus>
+                  <Linea>
+                    <Char>Mærkning af vildt må kun foretages efter tilladelse fra miljø- og fødevareministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb90ca9a7-a01c-4587-b96e-7e0f6c9b8297" localId="11">
+              <Explicatus>§ 9 a.</Explicatus>
+              <Stk id="id990de6d7-e273-447a-9d2a-3c5f7dc6f20e">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren iværksætter de bevaringsforanstaltninger, der er nødvendige for at sikre, at det ikke medfører en væsentlig negativ virkning for bevaringsstatus for de pattedyr, som er nævnt i bilag 1 til loven, når de utilsigtet indfanges eller slås ihjel.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bevaringsforanstaltninger iværksættes på grundlag af overvågning eller yderligere undersøgelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5a498cf3-1438-407d-a55a-6147398dc9ef">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren iværksætter de foranstaltninger, der er nødvendige for at sikre, at indsamling i naturen af enheder af de pattedyr, som er nævnt i bilag 2 til loven, og udnyttelsen heraf er forenelig med hensynet til at bevare disse arter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc52c8fe7-f4bc-424c-9270-2895e098408e">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter regler for at gennemføre foranstaltninger som nævnt i stk. 1 og 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1cd97438-9925-4f5c-8371-2292264e36c5">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan etablere en rådgivningsordning, der rådgiver om beskyttelse af de pattedyr, der er nævnt i lovens bilag 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida825ea90-c743-47cd-929d-9dcf77754b0f" localId="12">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id5abdd001-b351-47b3-9bba-ef257f78faf4">
+                <Exitus>
+                  <Linea>
+                    <Char>Vildtarter, der ikke er fastsat jagttid for, må kun konserveres af personer eller virksomheder, der af miljø- og fødevareministeren har fået autorisation til erhvervsmæssig konservatorvirksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9fc2ab2e-0bbe-4627-a306-6ae3f5a227de">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte nærmere regler om autorisationsordningen, herunder om digital registrering af visse arter m.v. og om, at autorisation kan nægtes eller tilbagekaldes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ide8f11809-f365-412a-809b-484c569030a9" localId="13">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="idb4d30bbb-e3c1-4ee1-b950-d457a45a5961">
+                <Exitus>
+                  <Linea>
+                    <Char>Personer, der af miljø- og fødevareministeren bemyndiges til at opspore og aflive nødstedt vildt, har mod behørig legitimation uden retskendelse adgang til privat område.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id142cc1b0-d3cb-41ed-b1b6-93706943a576">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om opsporing og aflivning af nødstedt vildt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id70c3b403-4af9-4365-92eb-797b81198084">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om udstedelse og tilbagekaldelse af den legitimation, der er nævnt i stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idcf64a7ca-0692-4606-86de-fe362651b3a1" localId="14">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="idd5cd5ae6-acf8-4954-8ff8-fa2d26e87c24">
+                <Exitus>
+                  <Linea>
+                    <Char>Til fremme af de interesser, som loven tilsigter at varetage, kan miljø- og fødevareministeren yde tilskud til</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="ida8541783-2584-46f2-b64a-d58b96f5d7f1">
+                  <Index>
+                    <Indentatio id="idba2987a4-c29a-4121-bb63-ed293b6c2d9e" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ophjælpning af vildtbestanden, herunder forbedring af vildtets levesteder,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id60a38430-aab5-4e27-9da1-e561e1adf193" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>oplysning om jagt og vildtpleje,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf93f2b4b-6773-4bd3-beb2-cdd96c6398a6" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>landsdækkende jagtforeninger,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd46815bf-6a2c-4daf-adc4-0bb2cea61458" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>gennemførelse af forvaltningsplaner for sjældne eller truede vildtarter,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc2cdf596-3b00-402b-bc9b-369409902df2" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>forskning, uddannelse og overvågning og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id6adcb7bd-4898-40b1-8c25-5d768e93680f" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>andre jagt- og vildtforvaltningsformål efter miljø- og fødevareministerens nærmere bestemmelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="ida56fcb71-c9bc-45ef-89d0-4fdb36775eaf" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="iddd4ff622-1649-45e1-b3af-ee3971b9decf">
+            <Linea>
+              <Char>Jagtretten</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id5046d94d-d82a-4c08-a51c-6432b17634e2" localId="15">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id8912d819-bd93-4168-8715-db62df16e2d3">
+                <Exitus>
+                  <Linea>
+                    <Char>Ingen må jage, hvor den pågældende ikke har jagtret, medmindre den jagtberettigedes samtykke foreligger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8cdbdf9a-caa2-4253-8368-248b4928d19b" localId="16">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="id3badbfb7-9222-4a28-a097-fd68cda4a102">
+                <Exitus>
+                  <Linea>
+                    <Char>Jagtretten på en ejendom tilkommer ejendommens ejer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id40ee1d13-7b9c-43a2-aa09-bfe3f1fa1db9">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>På ferske vande, der ikke er undergivet særlig ejendomsret, tilkommer jagtretten ejerne af de tilstødende ejendomme, således at en ejer har jagtret på den del af vandet, der ligger nærmere den pågældendes ejendom end nogen anden ejendom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb640a504-67d0-4ac4-9482-829922fc53b1">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Reglerne i stk. 1 og 2 finder ikke anvendelse i det omfang, jagtretten i medfør af de hidtil gældende regler tilkommer andre.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ide455da58-834f-408a-8401-a6fd44ee76a6" localId="17">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="id8efd05ae-8a91-41f0-8bb7-b2860c44a5c9">
+                <Exitus>
+                  <Linea>
+                    <Char>Enhver med fast bopæl i Danmark har ret til at drive ikkeerhvervsmæssig jagt på fiskeriterritoriet som fastlagt ved lov om Danmarks Riges fiskeriterritorium.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Jagtretten gælder fra højeste daglige vandstandslinje.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4086fbe5-c4f6-419c-815a-15fd923c1202">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Reglen i stk. 1 gælder dog ikke, hvis jagten fra ældre tid tilkommer den eller de jagtberettigede på de tilgrænsende landarealer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc8ed3ad9-8734-4a4b-ac91-f90c59ee58f8">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Betingelsen i stk. 1 om fast bopæl her i landet gælder ikke for personer, som er omfattet af Det Europæiske Fællesskabs og EØS´s regler om etablering, arbejdskraftens frie bevægelighed og udveksling af tjenesteydelser, og som derved har opnået en nærmere tilknytning til landet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id5d06becf-31bf-494d-b1d5-b1b37a147af0" localId="18">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="id568c45dc-00ae-4f4f-a4c2-ef90837c5685">
+                <Exitus>
+                  <Linea>
+                    <Char>Der må ikke drives jagt på eller fra offentlig vej eller sti.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida37b20b0-3482-459f-8e69-a55819b9ca8f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det er dog tilladt at tilegne sig vildt, der er beskudt på egen jagtgrund, når det falder på tilgrænsende offentlig vej eller sti.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id1e4f8a8b-8df8-4fd2-9096-cec1552ecec7" localId="19">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="idccadfe5e-1a06-45b5-9c5b-fd91aa3ca29d">
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der har beskudt vildt på sin egen jagtgrund, må ikke tilegne sig vildtet, når det falder på en anden persons jagtgrund.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ejeren eller den jagtberettigede skal snarest muligt underrettes om vildtet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb744088e-98e8-4c2e-9fb4-f559c96ece41" localId="20">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="id062c02db-4679-443e-baf8-48daad2844dd">
+                <Exitus>
+                  <Linea>
+                    <Char>Der må ikke drives jagt på eller fra et sammenhængende areal, der er mindre end 1 ha. Et areal anses for sammenhængende, uanset at det gennemskæres af vej eller jernbane, når disse lovligt kan krydses til fods.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5fe42f3f-018e-485e-bc81-5e0a470f3ed2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kun ejendommens ejer og dennes husstand må drive jagt på eller fra et sammenhængende areal, jf. stk. 1, 2. pkt., der er mindre end 5 ha. Hvis jagtretten er overdraget sammen med brugsretten til ejendommen, må jagten kun drives af den, der har brugsretten, og dennes husstand.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4bfa2141-50ce-46fd-9ae2-cf186936f6b4">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Begrænsningerne i stk. 1 og 2 gælder ikke, hvis der er indgået aftale om, at jagten på arealet udøves sammen med jagten på tilgrænsende arealer, således at det samlede areal overstiger de nævnte arealgrænser.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilstedeværelsen mellem arealerne af vej eller jernbane, der lovligt kan krydses til fods, medfører ingen begrænsninger i adgangen til at indgå aftale.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6dee863d-f6a3-4728-8ba8-188d8b366dc1">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Begrænsningen i stk. 1 gælder ikke for øer, der er mindre end 1 ha, når jagt er tilladt på det omkringliggende fiskeriterritorium eller dele heraf.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id99677387-8db9-4a4d-9954-e5dab5e2fef2">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>På arealer, der ejes af mindst 4 personer i fællesskab, må der ikke drives jagt, medmindre der er indgået en skriftlig aftale om jagtudøvelsen, som er tiltrådt af mindst 3/4 af ejerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idba9350ae-cf7c-47c5-9027-b34d8ee87ddb">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Reglen i stk. 5 gælder ikke, hvis der til en anpart er knyttet rådighed over en bestemt, afgrænset del af arealet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Jagt på sådanne delarealer er omfattet af reglerne i stk. 1-3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbac8fd75-2192-4cd6-8626-4db8602e2dcc">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om udøvelse af jagt i nærheden af indhegninger, bure og lignende, hvor der opdrættes eller har været opdrættet vildt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id0e7c037e-540f-4225-92c0-3aab086d5299" localId="21">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="idac9b6076-73aa-4285-a9cb-8c4a1f25a62c">
+                <Exitus>
+                  <Linea>
+                    <Char>Der må ikke under jagt afgives skud inden for en afstand af 50 m fra beboelsesbygninger, medmindre der foreligger samtykke fra beboeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2e5c1602-bd35-4844-a542-36b445136a33">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>På fiskeriterritoriet må der ikke drives jagt inden for en afstand af 100 m fra arealer, der har status som sommerhusområde, og 500 m fra arealer, der har status som byzone.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id056ff34f-b4c4-400c-866c-2b65be7a34cd" localId="22">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="id9a0dd0db-4c4b-4491-a2d3-c4cbb52fa9fa">
+                <Exitus>
+                  <Linea>
+                    <Char>Grundejerens jagtret må ikke afhændes særskilt eller på anden måde varigt adskilles fra ejendomsretten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id543ea8b2-d549-4bdc-8770-8252f3d90b76">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ejeren kan dog overdrage jagtretten til andre for et bestemt tidsrum, der ikke må overstige 30 år ad gangen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id06cc2be2-35a4-44fe-85c0-dfded61c8e50">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved overdragelse af brugsretten til en ejendom eller dele heraf skal jagtretten, for så vidt den tilkommer ejendommens ejer, anses for omfattet af brugsretten, medmindre andet er aftalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id08952ea5-b13e-48e6-98d7-608a2000fb99">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om, at overdragelse af retten til jagt på bestemte vildtarter kun kan ske for et nærmere fastsat tidsrum.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idba80d128-3fc9-4c36-b6b8-233f792e16fb" localId="23">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="id14713961-6acc-4d69-b17e-bdaeedbda538">
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis jagtretten i medfør af de hidtil gældende regler tilkommer en anden end ejendommens ejer, kan ejeren kræve jagtretten afløst ved betaling af et beløb, der svarer til den kapitaliserede værdi af jagtlejen på afløsningstidspunktet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id79ee1cfa-21d4-430b-abed-f8d8fe35f594">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis indehaveren af jagtretten ikke vil anerkende afløsningen, skal vedkommende anlægge sag ved de almindelige domstole inden 6 uger fra modtagelsen af kravet om afløsning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I modsat fald er afløsningen bindende fra udløbet af de 6 uger.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sagsanlæg inden for fristen har opsættende virkning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idd9b350c4-1daf-46e0-8145-ea4c9e2337a4" localId="4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="idf40d2ac9-b5fb-469e-927b-d65c61f17b95">
+            <Linea>
+              <Char>Jagtrettens udøvelse</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idaafa8a83-1602-4b29-9dc7-ccee9c39933e" localId="24">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="id6e5eac34-d98c-40d8-a4fd-55cf945f5df8">
+                <Exitus>
+                  <Linea>
+                    <Char>Ingen må jage på en måde, der</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id4a3541b0-3276-416f-ae44-fe844b14dfc9">
+                  <Index>
+                    <Indentatio id="id4a3bb966-b39e-4a7e-9c8b-2698d43b4ffa" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>udsætter vildtet for unødige lidelser,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id4828b4bf-5849-4f0e-807d-b9de21d8820b" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>skader personer, husdyr eller genstande eller udsætter personer for nærliggende fare for at blive skadet eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb7d3d4f9-0a3f-49c1-b044-fd6acbaabb68" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>medfører haglnedfald på anden persons bolig, have eller gårdsplads.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="ida51feb8f-830e-4fcb-bf39-d39f7a9f4223">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Personer under 18 år, der har gyldigt jagttegn, må kun udøve jagt i følge med en person over 18 år, der også har gyldigt jagttegn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id5d2e22fd-ff78-488e-8995-be715f07164a" localId="25">
+              <Explicatus>§ 23.</Explicatus>
+              <Stk id="idcb0c172a-6aea-4a13-98e5-058a3306adaa">
+                <Exitus>
+                  <Linea>
+                    <Char>Nedlæggelse eller ombringelse af vildt må kun finde sted med skydevåben.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4c98f080-ab59-4d7e-80cc-000519a904d4">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Rovfugle og ugler må ikke anvendes til jagt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida4e3a3d8-4eb7-4378-a311-4f9ed89f31ce">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Jagt må ikke finde sted ved anvendelse af levende lokkedyr.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2dacb562-dfa2-4150-bb9b-5a3adbf0d8f6">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter nærmere regler om, hvilke typer våben og ammunition der må anvendes, herunder regler om salg af visse typer ammunition og regler om, at visse typer ammunition ikke må medtages på jagt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id23ebed90-9dd5-48eb-b50b-8a8560f850f4">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om anvendelse af hjælpemidler, lokkemidler og lignende til jagt, herunder forbud mod at anvende visse midler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id988e7563-f25f-4528-b55e-b49da7f37e08" localId="26">
+              <Explicatus>§ 24.</Explicatus>
+              <Stk id="id9b37b799-96a3-465a-88ab-fac103ec87be">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved jagt med glatløbet haglgevær på ikkeklovbærende vildt på og fra landarealer og i rør- og sivbevoksninger skal egnet apporterende hund medbringes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id7c39ca4d-6840-49b4-b7ba-92dbc70fe9e4" localId="27">
+              <Explicatus>§ 25.</Explicatus>
+              <Stk id="idd1bc065c-c5e3-488f-a6ee-00295882c34b">
+                <Exitus>
+                  <Linea>
+                    <Char>Jagt må ikke finde sted fra motordrevet køretøj og luftfartøj.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida122a8d7-be9f-4642-88f2-aeb957401218" localId="28">
+              <Explicatus>§ 26.</Explicatus>
+              <Stk id="idfb6834e6-9707-4701-896a-2d787b96303b">
+                <Exitus>
+                  <Linea>
+                    <Char>Jagt fra motordrevet fartøj må ikke finde sted på søer og andre ferske vande.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id485e4005-b93b-4b13-9110-32ba670fc585" localId="29">
+              <Explicatus>§ 27.</Explicatus>
+              <Stk id="id99d0394c-74e5-47e9-8ead-a4c9d1dd47e6">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om jagt på fiskeriterritoriet, herunder forbyde særlige jagtformer inden for bestemte områder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id12a5ef8f-e1e2-4a5e-8048-e94952cfd909" localId="30">
+              <Explicatus>§ 28.</Explicatus>
+              <Stk id="idf496c64c-55a2-4fa6-b562-4170e122d94f">
+                <Exitus>
+                  <Linea>
+                    <Char>Udfodring af vildt med jagt for øje må ikke finde sted.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Vildt må ikke beskydes på jorden eller på vandet i umiddelbar nærhed af foderplads.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idfb996983-d08e-459f-803b-c06f64c0270c" localId="31">
+              <Explicatus>§ 29.</Explicatus>
+              <Stk id="id86e6826b-4678-444d-a6ab-fcc2c2cb23d9">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om jagt fra platforme og andre kunstige skjul, herunder regler om forbud mod at medtage jagtvåben på platforme og i andre kunstige skjul.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id66881808-1a79-41e0-b16c-ac3235da5d54" localId="32">
+              <Explicatus>§ 30.</Explicatus>
+              <Stk id="id808f848b-a798-484c-9168-1ef25f2aab87">
+                <Exitus>
+                  <Linea>
+                    <Char>Hegn, der tillader passage af vildt, skal indrettes således, at vildtets mulighed for passage er ens fra begge sider af hegnet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7c29adaa-a9a9-48c0-b3a0-4484a5519ef6">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undtaget fra reglen i stk. 1 er</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idea017b46-3b25-4af6-a1f9-73133de3e31e">
+                  <Index>
+                    <Indentatio id="idbeb5f8c1-0d15-4f55-8093-a58b0f82cc2a" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>hegn, der er etableret i forbindelse med udsætningspladser for vildt,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8813381b-e972-4df3-9e30-842820026a81" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>hegn, der har til formål at hindre vildtets adgang til skovkulturer, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id884434d4-818f-4030-9b85-8faa37fd510a" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>hegn langs veje og jernbaner.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf3174473-5318-471c-841b-7743f5a780df" localId="33">
+              <Explicatus>§ 31.</Explicatus>
+              <Stk id="ida21008b8-5448-42fb-86cf-e4aadeec70b5">
+                <Exitus>
+                  <Linea>
+                    <Char>Uvedkommende må ikke færdes med skydevåben eller fangstredskaber på en anden persons jagtgrund uden for de veje og stier, der er åbne for almindelig færdsel.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I skove er færdsel med skydevåben eller fangstredskaber dog kun tilladt på de offentlige veje, der fører gennem skoven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd381f5e1-d459-478b-9ba2-4a4de0bd21c1">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Reglerne i naturbeskyttelsesloven om offentlighedens adgang til naturen giver ikke adgang til at medbringe skydevåben eller fangstredskaber.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida0556e96-bb6d-4088-aa5d-1445de6b8282" localId="34">
+              <Explicatus>§ 32.</Explicatus>
+              <Stk id="idf13e8cca-5db2-485f-8240-3bcb6f14b74a">
+                <Exitus>
+                  <Linea>
+                    <Char>Den jagtberettigede er beføjet til selv eller ved sine folk at anholde enhver, der overtræder § 13, og føre den pågældende til politiet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Samme beføjelse tilkommer brugeren af arealet, selv om denne ikke har jagtret.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Brugeren skal underrette den jagtberettigede om den skete anholdelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id60f94768-8cbd-4747-9cb1-d841fe8be16a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den anholdte kan fratages skydevåben og andre jagtredskaber samt skudt eller fanget vildt, som den pågældende er i besiddelse af ved anholdelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De nævnte genstande skal straks afleveres til politiet, der foranlediger, at der træffes afgørelse om eventuel beslaglæggelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="ida0d67ba0-ee4a-4153-b1bb-46abca94e7c5" localId="5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica id="idd963567c-4b7e-4bdc-9cd4-79f3e2d7fa5a">
+            <Linea>
+              <Char>Vildtreservater</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="ide77f0b91-7f82-4887-91e7-8fb09e5f6563" localId="35">
+              <Explicatus>§ 33.</Explicatus>
+              <Stk id="id973b75b1-018f-4d54-bb34-85e8cb8acce8">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren opretter ved bekendtgørelse vildtreservater på landjorden, i ferske vande og på fiskeriterritoriet for at beskytte og ophjælpe landets vildtbestande og sikre raste- og fødesøgningsområder for trækkende fugle.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide5abfef8-6a8c-42b9-9839-7e8776de0aa3">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Reglerne for et vildtreservat skal indeholde bestemmelser om jagt, færdsel og ophold samt oplyse om reservatets beliggenhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id42d93ba8-7a8b-4be1-b47e-1f996558edf0">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Reglerne sendes til ejerne og brugerne af de ejendomme, som de omfatter.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren lader dem tinglyse på de pågældende ejendomme.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="iddfa0922a-5e10-44ea-bd64-2254966a41fc">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når der er sket offentliggørelse efter stk. 3, skal reglerne overholdes af alle og enhver.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id07274d46-4e2c-4bd1-ab3e-9c67d52ab88f" localId="36">
+              <Explicatus>§ 34.</Explicatus>
+              <Stk id="idbca3f3b4-812e-4bec-8bd8-7979d61229fe">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter erstatning til ejere og brugere af de ejendomme, der er omfattet af et vildtreservat, for det tab, som oprettelsen af reservatet påfører dem.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Erstatningen afholdes af staten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idec8cf736-f83e-43cb-8b31-fcd1ba2f1e26">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erstatningsbeløb forrentes fra datoen for ministerens afgørelse, og indtil erstatningen udbetales, med en årlig rente, der svarer til Danmarks Nationalbanks diskonto.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8999e564-f013-4a5d-86a5-bfe768bd2801" localId="37">
+              <Explicatus>§ 35.</Explicatus>
+              <Stk id="id446f24a9-4ef8-463b-a719-4d424aaf0137">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministerens afgørelse om erstatning kan påklages til den taksationskommission, der er nævnt i naturbeskyttelseslovens § 46.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id62c17cfa-e002-4037-90ba-9c5d5d1f60eb">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klagefristen er 4 uger fra den dag, afgørelsen er meddelt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis klagefristen udløber på en lørdag eller en helligdag, forlænges fristen til den følgende hverdag.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida662ee6a-eef6-4d1c-8220-b55acd1a6241" localId="38">
+              <Explicatus>§ 36.</Explicatus>
+              <Stk id="id3b249868-48d5-4c77-81dd-10d6356703d4">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan nedlægge et vildtreservat, når de omstændigheder, der begrundede oprettelsen, ikke længere er til stede.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Nedlæggelse af et reservat bekendtgøres i Statstidende og i et eller flere af de dagblade, der er mest udbredt på egnen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren lader reglerne aflyse af tingbogen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3f33d10a-058c-418c-b979-5c67df88c23d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis nedlæggelse sker efter begæring fra ejendommens ejer, kan det gøres betinget af, at ejeren betaler et beløb til staten.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beløbet, som fastsættes af miljø- og fødevareministeren under hensyntagen til den gevinst, der tilføres ejendommen ved nedlæggelse af vildtreservatet, kan ikke overstige den tidligere tilkendte erstatning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Reglerne i § 35 finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id1a5a30b8-ce16-4d3d-8af6-5be25978f8a3" localId="6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica id="id2e663e4b-42ca-49e0-87e8-24dd72b6535d">
+            <Linea>
+              <Char>Vildtskader</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id1212fd1e-9f33-4c5f-afbe-a8bdbe849c1e" localId="39">
+              <Explicatus>§ 37.</Explicatus>
+              <Stk id="id42b95c93-b539-483e-97bd-22e6596e7adc">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om regulering af vildt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis der ikke findes tilfredsstillende alternativer til reguleringen, kan regulering foretages for at</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id6fb42468-2f82-4222-b8b3-2449d1b2679e">
+                  <Index>
+                    <Indentatio id="idbe5bccce-773f-4de5-8b37-3a335b0f2376" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>imødegå fare for mennesker eller menneskers sundhed,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id599a6857-e777-4ea3-8c9a-73875af115cb" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>imødegå risiko for smitte af mennesker eller dyr,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id53f5bcd6-2eec-4962-9ba4-c3060d4fde4e" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>imødegå risiko for luftfartssikkerheden,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida7930c50-39ef-464e-8eeb-99d47a58bd93" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>beskytte flora og fauna og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idcdc9e7a3-f918-46fb-be05-f9a90fe420a4" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>hindre omfattende skader på bebyggelse, afgrøder, husdyr, skove, fiskeopdræt eller fiskeri- og vandområder.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idd90bc078-b2ce-4012-a544-68d2508c7c12">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For de arter, der er nævnt i bilag 1, må regler efter stk. 1 ikke hindre opretholdelse af den pågældende bestands bevaringsstatus i dens naturlige udbredelsesområde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4c6a5d9c-4159-426b-87e0-0b00e60bfb01">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan ved fastsættelse af regler efter stk. 1 fravige reglerne i kapitel 2, 3, 4 og 7.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id60c37c57-e06c-4753-9585-098dcd595328" localId="40">
+              <Explicatus>§ 38.</Explicatus>
+              <Stk id="idac1bfae1-70b0-408a-8661-8af7a239f53c">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan pålægge en grundejer at foretage nærmere angivne foranstaltninger til varetagelse af de hensyn, der er nævnt i § 37.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf2bf7099-90ea-46ed-ac84-ea902c04136c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis ejeren ikke udfører foranstaltningen, kan miljø- og fødevareministeren lade den foretage.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idd8a5dbda-2dbd-408c-8915-2d106f921c6d" localId="7">
+          <Explicatus>Kapitel 7</Explicatus>
+          <Rubrica id="id16b5c970-9b1c-446f-8dcd-b888e23d0bdc">
+            <Linea>
+              <Char>Jagttegn</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id02bba5e7-871a-449c-9528-5082470ae6ee" localId="41">
+              <Explicatus>§ 39.</Explicatus>
+              <Stk id="id60e9eab1-a078-4832-a6a3-9e12ff82d582">
+                <Exitus>
+                  <Linea>
+                    <Char>Vildt må kun beskydes af personer, der har jagttegn.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Jagttegn udstedes af miljø- og fødevareministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id86d6a5c8-f2a8-4105-8aaa-f2a0ae2bf9ec">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Jagttegn skal medbringes under jagt sammen med fotolegitimation og skal på forlangende vises til politiet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida462ba3e-cdb5-4bda-af01-65f4dcbbd6c2" localId="42">
+              <Explicatus>§ 40.</Explicatus>
+              <Stk id="idf56aa0fd-8e37-4b6e-a16c-1f694b20ed17">
+                <Exitus>
+                  <Linea>
+                    <Char>Jagttegn, der giver tilladelse til jagt med glatløbede skydevåben, kan udstedes til personer, som</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id7248afcb-9321-4784-b552-092fd2d90606">
+                  <Index>
+                    <Indentatio id="id28138508-2f09-49e7-8f1e-fc679f5e0e84" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>har fast bopæl i Danmark,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id07c1c1a7-7140-4da7-a72e-3a2013ac03d0" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>er fyldt 16 år,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id132f8cc0-808e-40db-ba56-41c5da3294e6" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>er i besiddelse af den nødvendige synsevne samt i øvrigt af den fornødne åndelige og legemlige førlighed,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1d0f0d60-8514-46bc-9e4f-22454fa143ad" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ved en prøve har godtgjort at have fornødent kendskab til almindeligt forekommende vildtarter, til reglerne om jagt og vildtforvaltning, herunder de jagtetiske principper, samt har vist at have færdighed i betjeningen af glatløbede skydevåben og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide6439089-00e2-437b-884c-e1994ba4f574" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>har fået samtykke hertil fra justitsministeren.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id601a753a-3cea-488c-b19f-d17bb65f6ff8">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Jagttegn til personer under 18 år må kun udstedes, hvis indehaveren af forældremyndigheden har givet tilladelse hertil.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id007c2322-a143-455e-b76b-56885634d1d6">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Jagttegn, der ved en påtegning desuden giver tilladelse til jagt med jagtriffel, kan udstedes til personer, som ud over at opfylde betingelserne i stk. 1 og 2 ved en prøve har godtgjort at have fornødent kendskab til og færdighed i brug af jagtriffel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idae2dbcc1-b589-4eed-9998-69d41711c425">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter nærmere regler om jagtprøven og riffelprøven.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der kan herunder fastsættes regler om udstedelse af jagttegn til personer, der ikke har fast bopæl i Danmark.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter endvidere regler om udstedelse af jagttegn og om jagttegnets udseende og indhold.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide16cdd58-24d0-4a67-9716-8075465531af">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Justitsministeren fastsætter nærmere regler om meddelelse af samtykke efter stk. 1, nr. 5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="iddaefb7c2-d7d8-4333-9621-7dbf97c5f895" localId="43">
+              <Explicatus>§ 41.</Explicatus>
+              <Stk id="id629ddc14-6cc0-49ab-b347-be17d47a21d0">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter regler om gyldighedstiden for jagttegn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb5a361d2-963d-4c86-9ee1-b0cc1a070f65">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Efter udløbet af gyldighedstiden kan jagttegnet fornys, hvis indehaveren stadig opfylder betingelserne for at erhverve jagttegn og har indberettet vildtudbytte i henhold til § 43.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8d9a330e-4f8a-4d87-88b1-5b3f585a9ffb">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Fornyelse af jagttegn kan gøres betinget af, at den pågældende aflægger ny jagt- eller riffelprøve.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8c896cff-dee2-4823-b1ad-166949dd36af" localId="44">
+              <Explicatus>§ 42.</Explicatus>
+              <Stk id="id7d25d073-0218-454e-91f4-0cee1b0d5a44">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan inddrage et jagttegn, hvis det skønnes, at den pågældende ikke længere opfylder betingelserne efter § 40, stk. 1, nr. 3, for at erhverve jagttegn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0db9149b-3264-43aa-9368-d47bc1b523c9">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Generhvervelse af jagttegn, der er inddraget efter stk. 1, kan gøres betinget af, at den pågældende aflægger ny jagt- eller riffelprøve.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samme gælder, hvis retten til at have eller erhverve jagttegn er frakendt ved dom i medfør af § 55, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id7a79c026-bf86-4990-8e31-7061beb7997d" localId="45">
+              <Explicatus>§ 43.</Explicatus>
+              <Stk id="id24032f99-7413-410d-8a9e-b777df5de546">
+                <Exitus>
+                  <Linea>
+                    <Char>Personer, der har jagttegn, skal årligt indberette deres vildtudbytte til miljø- og fødevareministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9a46c64c-77c1-46cd-88c0-f1d67206c242">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter nærmere regler om indholdet og formen af samt tidspunktet for indberetningen, herunder at indberetningen skal ske digitalt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om fravigelse af kravet i stk. 1 i det tilfælde, hvor en jagttegnsberettiget efter 1 eller flere år uden indløsning af jagttegn vil forny sit jagttegn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id59db3239-f598-43b9-990c-e727ec900605" localId="46">
+              <Explicatus>§ 44.</Explicatus>
+              <Stk id="id0c72cbe4-5dcc-4845-b82f-e6d11f854481">
+                <Exitus>
+                  <Linea>
+                    <Char>Personer, der har jagttegn, skal være dækket af en ansvarsforsikring i et forsikringsselskab, der lovligt kan udøve forsikringsvirksomhed her i landet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Forsikringen skal dække krav om erstatning og godtgørelse for skader, der forvoldes ved skudafgivelse under jagt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id479c4308-fe4b-4150-9706-b082ecac0e83">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter nærmere regler om forsikringsordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id98dc2311-f359-4066-bb86-f570cc0267eb" localId="47">
+              <Explicatus>§ 45.</Explicatus>
+              <Stk id="id83b3946c-756a-451c-97b8-1e6e0a6391a4">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren opkræver ved udstedelse og fornyelse af jagttegn en årlig afgift, hvis størrelse fastsættes af ministeren.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Samtidig hermed kan ministeren opkræve den årlige præmie for den ansvarsforsikring, der er nævnt i § 44.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfd9f8675-8294-4103-9ebd-bb858c845c19">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Midlerne fra jagttegnsafgiften anvendes til hel eller delvis dækning af udgifterne ved varetagelse af lovens formål, herunder til sikring af vildtet og vildtets levesteder, tilskud efter § 12, oprettelse og drift af vildtreservater efter § 33 og § 34, konsulentvirksomhed på jagt- og vildtforvaltningsområdet samt vildtbiologisk forskning og overvågning, herunder til bygningsmæssige rammer for vildtbiologisk forskning og overvågning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Desuden afholdes udgifter til lovens administration i det omfang, de ikke er dækket af gebyrer efter § 53.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idb98002dd-41b5-4b1f-bd34-5e90406ffbbb" localId="8">
+          <Explicatus>Kapitel 8</Explicatus>
+          <Rubrica id="idae3d808f-99f4-439d-b469-12c7276f2216">
+            <Linea>
+              <Char>Administration</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id3f8a483f-31eb-47ed-87d8-059008a78b15" localId="48">
+              <Explicatus>§ 46.</Explicatus>
+              <Stk id="id1d1bd7d5-471a-4264-8f33-423ce464ab12">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan i særlige tilfælde gøre undtagelse fra bestemmelserne i § 4, stk. 1, § 18, stk. 1 og 2, § 19, stk. 2, § 23, stk. 1 og 3, § 24, § 26, § 28 og § 30, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id604bf020-e498-4837-81e8-c4b194b4ffa5">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan, hvis der ikke findes et tilfredsstillende alternativ, gøre undtagelse fra bestemmelserne i § 6 a, stk. 1 og 2, § 7, stk. 1 og 2, § 8 og § 25 for at</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idc08c9192-ff4e-4a36-9c3d-7cdf7be9636b">
+                  <Index>
+                    <Indentatio id="idc1a3bf12-62de-4b3c-be2c-9d4f49028143" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>imødegå fare for mennesker eller menneskers sundhed,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide8bc9f26-cb86-480b-b373-b5fcb6541835" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>imødegå risiko for smitte af mennesker eller dyr,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1c39f6c4-be2b-4e96-8272-b3f8c0ee427d" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>imødegå risiko for luftfartssikkerheden,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id132b1ddb-48cf-478b-9c91-1c2a111685f3" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>beskytte flora og fauna,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id3562c248-b83a-4b78-a37f-816227475207" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>hindre omfattende skader på bebyggelse, afgrøder, husdyr, skove, fiskeopdræt eller fiskeri- og vandområder,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id9d259580-29e1-4316-ba65-7e8a60e971d6" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tillade, på strengt kontrollerede betingelser, at indfange, besidde eller anvende bestemte arter af fugle i mindre mængder,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id26c4dff8-b7f0-4c62-8d2a-0b7b593fbafc" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>fremme forskning og undervisning,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1fd1a0cc-6d76-47f0-a9b4-58732fd3d30e" formaInd="Nummer">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>genoprette en bestand, genudsætte eller opdrætte arter af fugle og de i bilag 1 til loven nævnte arter eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id97337055-e402-4bf2-9f1b-ee74194e43de" formaInd="Nummer">
+                      <Explicatus>9)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tillade indsamling eller opbevaring af enheder af de arter, der er nævnt i bilag 1 til loven, i et begrænset og specificeret antal og under strengt kontrollerede betingelser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idabb66c92-a370-4158-85af-dccdb780b5fc">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For de arter, der er nævnt i bilag 1, må fravigelse efter stk. 2 ikke hindre opretholdelse af den pågældende bestands bevaringsstatus i dens naturlige udbredelsesområde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id312bd079-0c65-48ca-adc5-4639b8a01698">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan, af andre årsager end nævnt i stk. 2, i ganske særlige tilfælde gøre undtagelse fra § 25.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ided2b673a-e7ff-4a8c-b05c-e09bdf62e1c1" localId="49">
+              <Explicatus>§ 47.</Explicatus>
+              <Stk id="idcccb1c72-df31-4a3e-993b-fca0e71a88b8">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren påser, at loven og de regler, der udstedes i medfør af loven, overholdes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida2bb4078-bf41-4558-834a-90b9fcd17bb2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren påser, at forbud og påbud efter loven efterkommes, og at vilkår, der er fastsat i tilladelser, overholdes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7810c4be-d208-4283-96f2-f1f1f8c0cdf1">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren skal foranledige et ulovligt forhold lovliggjort, medmindre forholdet har underordnet betydning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id0be638da-1a1c-4886-9ee5-74bb5e3f5087" localId="50">
+              <Explicatus>§ 48.</Explicatus>
+              <Stk id="id94a2a64b-eb9c-46ba-a4fd-478287aef741">
+                <Exitus>
+                  <Linea>
+                    <Char>Det påhviler den til enhver tid værende ejer eller bruger af en ejendom at berigtige et ulovligt forhold, medmindre andet følger af kapitel 8 a.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id762bbec0-264f-4959-9db9-67266e83bfcc">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan for ejerens regning lade et påbud om at berigtige et ulovligt forhold tinglyse på ejendommen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Når forholdet er berigtiget, skal ministeren lade påbudet aflyse af tingbogen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4ece1a22-c3c3-491c-8d34-435cd09bc0f1">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når et ved dom meddelt påbud om at berigtige et ulovligt forhold ikke efterkommes rettidigt og inddrivelse af tvangsbøder ikke kan antages at føre til, at påbudet efterkommes, kan miljø- og fødevareministeren foretage det nødvendige til forholdets berigtigelse for den forpligtedes regning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd32492ad-3989-42c2-8adf-fe5d71bd1f14" localId="51">
+              <Explicatus>§ 49.</Explicatus>
+              <Stk id="id6e1ad954-6f24-478a-91fe-4f03324a4f7e">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan bemyndige en under ministeriet oprettet statslig myndighed eller efter forhandling med vedkommende minister andre statslige myndigheder til at udøve de beføjelser, der i denne lov er tillagt ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd17996ba-63e3-45bb-8441-c32319e1f394">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan bemyndige private organisationer til at udføre visse opgaver, der efter loven og regler udstedt i medfør af loven påhviler ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id165742a6-559f-48dc-a838-a7822c6c13e4">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om adgangen til at påklage afgørelser, der er truffet i henhold til bemyndigelse efter stk. 1 og 2, herunder at afgørelserne ikke skal kunne påklages.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id928fe45a-8d99-4635-b86c-f7ade377002a">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan endvidere fastsætte regler om udøvelsen af de beføjelser, som en anden statslig myndighed efter forhandling med vedkommende minister bliver bemyndiget til at udøve efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9ff0459a-1f8e-4b81-922c-97d578612d48">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I regler, der er udstedt i medfør af § 11, stk. 2 og 3, kan det bestemmes, at afgørelser i henhold til reglerne ikke kan påklages.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id68e822e2-3dee-4dcf-8a58-7f02698b9297">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan efter forhandling med justitsministeren i forbindelse med henlæggelse af opgaver til politiet efter denne lov fastsætte regler om, hvilken myndighed inden for politiet der varetager de pågældende opgaver.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id41369637-98fa-4a5f-a169-8174cabb89a4" localId="52">
+              <Explicatus>§ 50.</Explicatus>
+              <Stk id="idbe49c603-cc73-4cfa-9c24-f67574e143be">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren eller personer, der af ministeren er bemyndiget hertil, har mod behørig legitimation uden retskendelse adgang til offentlige og private ejendomme for at udøve de beføjelser, der er tillagt dem i denne lov eller i regler udstedt efter loven.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der skal så vidt muligt ske forudgående meddelelse til ejeren eller brugeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id071a3a92-e027-4c4f-80ed-f7c7336aeb8d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1 finder ikke anvendelse på bygninger eller dele af bygninger, der udelukkende anvendes til privat beboelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id4a58810c-fe3f-4b89-8e30-72a30e5a89a4" localId="53">
+              <Explicatus>§ 51.</Explicatus>
+              <Stk id="id86770302-28d3-4641-b661-3208fe4be29e">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren nedsætter et vildtforvaltningsråd, der er rådgivende for ministeren i spørgsmål om jagt og vildtforvaltning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id499984d5-f228-4385-9e89-65593db92faa">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Rådets formand udpeges af miljø- og fødevareministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9f986eee-2973-474d-a904-0e52a6204d99">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Rådets medlemmer udpeges af miljø- og fødevareministeren efter indstilling fra de nærmeste interesserede organisationer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id598a206c-80dd-42f4-aace-d31bfe5d2f9f">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter en forretningsorden for rådet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id1e38dbe3-7808-4ecb-a420-8fca630ad481" localId="54">
+              <Explicatus>§ 52.</Explicatus>
+              <Stk id="idd993ee4a-06c2-454c-b549-2519bbdcbad1">
+                <Exitus>
+                  <Linea>
+                    <Char>Regeringen kan indgå overenskomster med fremmede stater om fælles foranstaltninger til opfyldelse af lovens formål.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id600b0014-1ee3-4840-a942-e54fa74ad50a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter regler til opfyldelse af internationale overenskomster, der indgås i henhold til stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2d8e9e02-ccd1-433d-87c8-60c6b10a5ae4">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler, der er nødvendige for anvendelsen her i landet af De Europæiske Fællesskabers forordninger vedrørende forhold, der er omfattet af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfd99a357-0e7d-402c-bfa9-60bcc72461de">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter med henblik på gennemførelse af Det Europæiske Fællesskabs direktiver og beslutninger på naturbeskyttelsesområdet regler om, i hvilke tilfælde og på hvilke vilkår</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idae36553a-e73c-4d26-b725-0356dc51110a">
+                  <Index>
+                    <Indentatio id="idd92aabb0-f47b-46c6-9c14-3f7428550935" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>dispensationer kan meddeles efter § 4, stk. 1, § 6 a, stk. 1 og 2, § 7, stk. 1 og 2, § 8, § 18, stk. 1 og 2, § 19, stk. 2, § 23, stk. 1 og 3, §§ 24-26, § 28 og § 30, stk. 1, jf. § 46,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id2961ec50-ec17-4369-9712-e47561a8c6fd" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>dispensationer kan meddeles fra regler om vildtreservater udstedt i medfør af § 33,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide5aa1ebb-7c6d-4001-8ea6-c113f5ed5579" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>oprettelse og nedlæggelse af vildtreservater kan finde sted efter § 33 og § 36 og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id2314f155-d5ba-4dc6-9f21-32aa088f7c6f" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>påbud efter § 38 kan meddeles.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id58531d18-3c16-4c78-b301-5eeaaee07af4">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren træffer passende foranstaltninger for at beskytte, opretholde eller genskabe tilstrækkelig forskelligartede og vidtstrakte levesteder for vilde fuglearter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9165df32-0fe0-4298-9cc6-c13e0eee6ec0" localId="55">
+              <Explicatus>§ 52 a.</Explicatus>
+              <Stk id="id30963cb5-03a2-4c3c-8be5-82439a7b1a31">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan til opfyldelse af Rådets direktiv 92/43/EØF af 21. maj 1992 om bevaring af naturtyper samt vilde dyr og planter (EF-habitatdirektivet) ændre lovens bilag 1 og 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb35eee59-bf0c-4247-9f0d-91728b667707" localId="56">
+              <Explicatus>§ 52 b.</Explicatus>
+              <Stk id="id71fffe51-2a70-40fd-b160-b7cbdab2f6f5">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren fastsætter, i det omfang det er nødvendigt for at opfylde Danmarks EU-retlige forpligtelser, regler om tjenesteyderes forpligtelse til at give oplysninger til tjenestemodtagere.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id852f8c75-5c70-44c7-9fea-ccb2efeb2946" localId="57">
+              <Explicatus>§ 52 c.</Explicatus>
+              <Stk id="id5527c4cb-d964-4a40-be56-758691f80fb7">
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at anmeldelser, registreringer, ansøgninger og efterfølgende indberetninger i medfør af lovens regler eller regler udstedt i medfør heraf skal indsendes digitalt, og at kommunikation i forbindelse hermed skal foregå digitalt mellem ministeren og ansøgerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd5f3801c-adef-4a67-9599-4be357e1c706">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at ministeren kan udstede afgørelser og andre dokumenter i forbindelse med forhold som nævnt i stk. 1 uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3d895ee8-9985-480a-8089-d9af7e17ad0b">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida26d5b0a-d0c0-44c2-b4f0-c94fbf5b0aa9">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at betalinger i medfør af lovens regler skal ske digitalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="iddd78e8e5-3dc0-4cfb-8388-fa62202fa024" localId="58">
+              <Explicatus>§ 53.</Explicatus>
+              <Stk id="id4050b8db-03e9-4b31-b5b9-72b09a266274">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om gebyrer til hel eller delvis dækning af myndighedernes omkostninger ved administrationen af loven, herunder den administration, der finder sted i henhold til bemyndigelse efter § 49, stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="ide503002d-8ecd-4992-8105-2d2955990936" localId="9">
+          <Explicatus>Kapitel 8 a</Explicatus>
+          <Rubrica id="idea364e4e-0813-474a-b6b8-2d6debcad638">
+            <Linea>
+              <Char>Miljøskade på beskyttede arter eller internationale naturbeskyttelsesområder</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idc159d2d4-131f-48f3-8cbf-9d89b778bcfb" localId="59">
+              <Explicatus>§ 53 a.</Explicatus>
+              <Stk id="idf7272532-cbb9-4a0e-bb6a-f2fe45f9d32b">
+                <Exitus>
+                  <Linea>
+                    <Char>En miljøskade eller en overhængende fare for en miljøskade forstås i overensstemmelse med §§ 7, 10 og 11 i miljøskadeloven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idbe19f09b-8571-4bb4-aa45-5667a2fa90ea" localId="60">
+              <Explicatus>§ 53 b.</Explicatus>
+              <Stk id="id4d67f001-166d-4670-bddd-63f98f75b3c2">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved den ansvarlige for driften forstås den, der driver eller kontrollerer den erhvervsmæssige aktivitet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2f8afeef-5000-416e-9a63-d91e38a6ce17">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved den ansvarlige for en miljøskade eller en overhængende fare for en miljøskade forstås den ansvarlige for driften, hvis skaden eller den overhængende fare for en skade skyldes uforsvarlig adfærd udvist af den pågældende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf4f87793-f80f-43f7-8718-9fe3298015be" localId="61">
+              <Explicatus>§ 53 c.</Explicatus>
+              <Stk id="ida2e20ae1-eb30-45bd-bb24-a23fbb15fe1d">
+                <Exitus>
+                  <Linea>
+                    <Char>Den ansvarlige for driften skal i tilfælde af en miljøskade eller en overhængende fare for en miljøskade straks underrette miljø- og fødevareministeren om alle relevante aspekter ved situationen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6746e168-51ae-4d28-9434-e12effcca8e6">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den ansvarlige for driften skal straks iværksætte de nødvendige forebyggende foranstaltninger, der kan afværge en overhængende fare for en miljøskade.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den ansvarlige for driften skal, hvis en miljøskade er indtrådt, straks iværksætte ethvert praktisk gennemførligt tiltag, der kan begrænse skadens omfang og forhindre yderligere skade.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7741f0ca-2245-40e9-a5d1-ebe2162129e3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren påser, at pligterne efter stk. 1 og 2 opfyldes, selv om der endnu ikke er truffet afgørelse efter § 53 f.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id71783eb8-05fa-4b73-8048-8b34c97ab0db" localId="62">
+              <Explicatus>§ 53 d.</Explicatus>
+              <Stk id="id36e273be-bf55-4787-8c16-28a35c71130e">
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan påbyde den ansvarlige for driften at give de oplysninger, som har betydning for vurderingen af, om der foreligger en miljøskade eller en overhængende fare for en miljøskade.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den ansvarlige for driften kan herunder påbydes for egen regning at foretage undersøgelser, analyser, måling af stoffer og lign.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>med henblik på at klarlægge årsagen til og virkningen af en stedfunden påvirkning af naturen eller miljøet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id2d53a031-0c33-46c5-9539-6e2e5a5dd236" localId="63">
+              <Explicatus>§ 53 e.</Explicatus>
+              <Stk id="id22d8d753-f63b-4357-8d1b-c29f03f17d84">
+                <Exitus>
+                  <Linea>
+                    <Char>Påbud efter § 53 d kan meddeles, uanset om den ansvarlige for driften har rådighed over den ejendom, hvor der er påvist en påvirkning af naturen eller miljøet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I påbuddet skal der fastsættes en pligt til retablering af ejendommen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9acda200-30cf-401e-9cf0-5b0c44c6a079">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis den ansvarlige for driften ikke har rådighed over ejendommen, kan miljø- og fødevareministeren meddele den, der har rådighed over ejendommen, påbud om at tåle, at undersøgelser m.v. gennemføres ved den ansvarlige for driften.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Påbuddet er bindende over for den, der til enhver tid har rådighed over ejendommen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id499fea40-e699-435c-ba6f-69369fe1dd57" localId="64">
+              <Explicatus>§ 53 f.</Explicatus>
+              <Stk id="id1273d96b-c713-457c-8315-20fe2dc221fa">
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis der foreligger en miljøskade eller en overhængende fare for en miljøskade, som skal behandles efter miljøskadeloven, træffer miljø- og fødevareministeren afgørelse herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf75a2500-67c5-4002-91f6-d6bf2e473562">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren offentliggør afgørelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Offentliggørelse kan ske udelukkende digitalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8ea04438-a3a2-4b78-bab1-395802ac4983">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljø- og fødevareministeren kan fastsætte regler om offentliggørelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id57692d74-5527-4c56-8e6d-2ace888b4139" localId="65">
+              <Explicatus>§ 53 g.</Explicatus>
+              <Stk id="idfb9f5a3d-3cfd-4584-b8ff-d8babe33904f">
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis der foreligger en miljøskade, som påvirker eller kan påvirke et andet EU-land, træffer miljø- og fødevareministeren afgørelse herom, uanset at der ikke efter § 53 f kan træffes afgørelse om, hvem der er ansvarlig for miljøskaden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id92c315ac-438b-4de5-b91f-4624e7a40ccc" localId="66">
+              <Explicatus>§ 53 h.</Explicatus>
+              <Stk id="id30ce72d7-9266-449a-899a-04ea76bec06f">
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelse om, at der foreligger en miljøskade eller en overhængende fare for en miljøskade, kan først påklages som led i en klage over en afgørelse efter miljøskadelovens kapitel 2 eller 3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Klagefristen løber i samme tidsrum som klagefristen for afgørelsen efter miljøskadeloven, og klagen skal indgives i overensstemmelse med miljøskadelovens § 52.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id7b0a6648-75c1-4ebd-a414-dd68ef6ad464" localId="67">
+              <Explicatus>§ 53 i.</Explicatus>
+              <Stk id="id673e6c4d-872a-4330-8ded-44c3fd9e838a">
+                <Exitus>
+                  <Linea>
+                    <Char>På anmodning fra en klageberettiget efter § 53 k, stk. 1, nr. 2-5, skal miljø- og fødevareministeren træffe afgørelse efter § 53 f eller § 53 g.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4102b71e-dd49-403c-a88d-26d62cf16adf">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Anmodningen skal være ledsaget af relevante oplysninger om den formodede miljøskade eller den overhængende fare for en miljøskade.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf6a7c03b-9964-4109-b08a-97363d9efc3d">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan afvise at træffe afgørelse om, hvorvidt der foreligger en miljøskade eller en overhængende fare for en miljøskade, hvis anmodningen ikke er ledsaget af oplysninger som nævnt i stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf3c062d2-42e8-4bee-be49-c045939d597a" localId="68">
+              <Explicatus>§ 53 j.</Explicatus>
+              <Stk id="id370a3a0f-cdba-4e5a-b393-b45360e01184">
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser efter dette kapitel kan påklages til Natur- og Miljøklagenævnet som sammensat efter § 5, stk. 1, nr. 1, i lov om Natur- og Miljøklagenævnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Klagefristen er 4 uger fra den dag, afgørelsen er meddelt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb7c4c38e-6108-4f92-8edb-56257a9477fe">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klage til Natur- og Miljøklagenævnet indgives skriftligt til den myndighed, der har truffet afgørelsen, ved anvendelse af digital selvbetjening, jf. dog § 18 b, stk. 2-4 i lov om Natur- og Miljøklagenævnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Endvidere skal efterfølgende kommunikation om klagesagen ske ved anvendelse af digital selvbetjening.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>En klage anses for indgivet, når den er tilgængelig for myndigheden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Myndigheden skal, hvis den vil fastholde afgørelsen, snarest og som udgangspunkt ikke senere end 3 uger efter klagefristens udløb videresende klagen til Natur- og Miljøklagenævnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Klagen skal ved videresendelsen være ledsaget af den påklagede afgørelse, de dokumenter, der er indgået i sagens bedømmelse, og en udtalelse fra myndigheden med myndighedens bemærkninger til sagen og de anførte klagepunkter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2cb32259-e950-4935-b584-0e1aead92501">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når myndigheden videresender klagen til Natur- og Miljøklagenævnet, sender den samtidig en kopi af sin udtalelse til de i klagesagen involverede med en frist for at afgive bemærkninger til Natur- og Miljøklagenævnet på 3 uger fra modtagelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idebed095c-c995-47a0-b1a8-63c7067e8f69">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Myndighedens videresendelse af klage til og efterfølgende kommunikation om klagesagen med Natur- og Miljøklagenævnet skal ske ved anvendelse af digital selvbetjening.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samme gælder sager, hvor klage ikke er indgivet ved anvendelse af digital selvbetjening, men hvor Natur- og Miljøklagenævnet har truffet afgørelse om, at klagen ikke afvises.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id77d45507-8ed9-4ee9-986e-4f8a2c07522b">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Indgives en klage ikke ved anvendelse af digital selvbetjening, skal myndigheden snarest videresende klagen til Natur- og Miljøklagenævnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I sådanne tilfælde finder stk. 2, 4. og 5. pkt., og stk. 3 ikke anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0effdb3b-d873-4ceb-9fa3-9ecd2fc79102">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klage har opsættende virkning, medmindre Natur- og Miljøklagenævnet beslutter andet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="iddc80171f-9340-4e58-be77-1a61600639fc" localId="69">
+              <Explicatus>§ 53 k.</Explicatus>
+              <Stk id="idd5d01fc1-3936-443b-a17e-80f6e1f87434">
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser efter dette kapitel kan påklages af</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id8605759e-97b1-4d07-8e07-b2f7150e22b8">
+                  <Index>
+                    <Indentatio id="id899068ed-3228-4bf1-b3fd-1e6b2d3fefd3" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>adressaten for afgørelsen,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id6785b2d2-891e-4332-a8c0-b828d9329bee" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>enhver, som har en væsentlig, individuel interesse i sagen,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc8425c9c-1ae2-404b-9aec-856874f65080" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>landsdækkende foreninger og organisationer, hvis hovedformål er beskyttelse af natur og miljø,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id25c5eae7-7777-41c7-9124-a1b2999958bd" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>landsdækkende foreninger og organisationer, som efter deres formål varetager væsentlige rekreative interesser, når afgørelsen berører sådanne interesser, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idec24418e-ea0b-410b-8d31-7c4a1dc54ba0" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>lokale foreninger og organisationer, der har beskyttelse af natur og miljø som hovedformål.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id843fc9a7-6149-4b36-9337-3b2f889add63">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved klage efter stk. 1, nr. 3 og 4, kan Natur- og Miljøklagenævnet kræve, at foreningerne eller organisationerne dokumenterer deres klageberettigelse ved at indsende vedtægter eller på anden måde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idc787479d-1383-43a0-a590-9122d361bff8" localId="10">
+          <Explicatus>Kapitel 9</Explicatus>
+          <Rubrica id="id08ec3a5e-ded0-4dfa-afab-a2537b598e13">
+            <Linea>
+              <Char>Straf m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id35124d5c-5791-4733-a106-4ee9a6bcad9a" localId="70">
+              <Explicatus>§ 54.</Explicatus>
+              <Stk id="id6f8c80d6-0bcc-43cb-92e5-3a2def9e1e3f">
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde den, der</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id8c6c45f3-ce5c-40ab-b01f-104cdfd1fc02">
+                  <Index>
+                    <Indentatio id="id52954a43-a569-4801-aca8-30c1fbcdfbfc" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>overtræder § 3, stk. 1, § 4, stk. 1, § 6 a, § 7, § 8, § 9, § 10, stk. 1, § 13, § 16, stk. 1, § 17, § 18, stk. 1, 2 og 6, 2. pkt., § 19, § 22, § 23, stk. 1-3, § 24, § 25, § 26, § 28, § 30, § 31, § 39, § 44, stk. 1, § 48, stk. 1, eller § 55, stk. 3,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide133aff3-b005-42a1-872a-0fe405b30dd7" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>modtager eller skaffer sig selv eller andre del i en vinding, der er erhvervet ved forsætlig overtrædelse af § 3, stk. 1, § 4, stk. 1, § 13 eller regler udstedt i medfør af § 6, stk. 1,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id33c6dba2-4ddd-4e6c-86b9-b48c23c614ec" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ved hjælp til transport, partering, afhændelse eller på lignende måde medvirker til at sikre en anden udbyttet af en forsætlig overtrædelse af § 3, stk. 1, § 4, stk. 1, § 13 eller regler udstedt i medfør af § 6, stk. 1,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id3d07dda2-c8d6-45f1-af90-b99e95387877" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>udøver jagt i strid med § 18, stk. 5,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf43d4440-3e52-4286-b275-78e4501fcd65" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>overtræder regler, som efter § 33 er fastsat for et vildtreservat,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id52ae9135-7a10-4008-8955-0f7363e879c5" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>i strid med § 11, stk. 1, eller § 50 modvirker adgangen til en ejendom,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id0279e8c1-6916-4c50-b947-f78ac5b97f6b" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilsidesætter vilkår, der er fastsat i en tilladelse eller godkendelse efter loven eller efter regler udstedt i medfør af loven,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idea7378f5-4011-47e0-8ee6-47f496dd7ef3" formaInd="Nummer">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at efterkomme forbud eller påbud, der er udstedt efter loven eller efter regler fastsat i medfør af loven, herunder påbud om at berigtige et ulovligt forhold, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf7785ffa-f176-4e10-a52b-9e59159d60e7" formaInd="Nummer">
+                      <Explicatus>9)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at give underretning eller træffe foranstaltninger som nævnt i § 53 c.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idde755153-90f7-4e6e-beb1-4a4bfd37dae3">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Straffen kan stige til fængsel i indtil 2 år, hvis overtrædelsen er begået forsætligt eller ved grov uagtsomhed, og hvis der ved overtrædelsen er</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id908c68d4-b993-4562-8f85-01a1e7baf4aa">
+                  <Index>
+                    <Indentatio id="iddde7428b-dde0-4206-aea8-d697bcf49251" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>voldt betydelig skade på de interesser, som loven tilsigter at beskytte, jf. § 1, stk. 1, eller fremkaldt fare derfor eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id4bf8b0fe-28b0-4f31-bc77-7cfc9ac73c7c" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>opnået eller tilsigtet en økonomisk fordel for den pågældende selv eller andre.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idf31bf0c8-d310-4967-8c48-a0a6fb011006">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I regler, der udstedes i medfør af loven, kan der fastsættes straf af bøde for overtrædelse af bestemmelser i reglerne eller for overtrædelse af bestemmelser i forordninger omfattet af § 52, stk. 3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det kan endvidere fastsættes, at straffen kan stige til fængsel i indtil 2 år under de omstændigheder, der er nævnt i stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6386a956-e9e4-4467-b5b3-b4a5d65b65fc">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id31b6da0a-14cb-4004-9f56-0a4863d12249">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sker der ikke konfiskation af udbytte, som er opnået ved overtrædelsen, skal der ved udmåling af bøde, herunder tillægsbøde, tages hensyn til størrelsen af en opnået eller tilsigtet økonomisk fordel, jf. stk. 2, nr. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd1bafbe5-1eeb-4540-90f6-0a0be8b61b33">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Jagt, som udøves i strid med loven eller regler udstedt i medfør af loven, straffes, selv om der ikke ved jagten er fældet eller fanget noget vildt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0794d67b-02ef-4dd8-9cf4-88a8ef2b1f43">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forældelsesfristen for strafansvaret er 5 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id72329ae4-b549-4e8e-95ce-b1e2bef5f404">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I sager om overtrædelse af loven og af regler udstedt i medfør af loven kan ransagning ske i overensstemmelse med retsplejelovens regler herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd610a387-a219-4a33-8b1c-d615f9bf5d29" localId="71">
+              <Explicatus>§ 55.</Explicatus>
+              <Stk id="id4828cd93-18fb-458f-acd2-a50db5f4318b">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved dom for forsætlig overtrædelse af de regler, der er nævnt i § 54, stk. 1 og 3, kan der ske frakendelse af retten til at have eller erhverve jagttegn, hvis det begåede forhold giver grund til at antage, at den pågældende ikke fremtidig vil udøve jagt på forsvarlig måde.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samme gælder ved dom for forsætligt under jagt at have forvoldt skade på anden person eller fare herfor samt ved dom for forsætligt dyrplageri efter dyreværnslovgivningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idef599b23-c39f-4c24-a697-170af7ac7300">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Frakendelse af retten til jagttegn sker på tid fra 1 til 5 år, regnet fra endelig dom, eller indtil videre.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis retten er frakendt indtil videre, kan sag om fortsat frakendelse efter 5 års forløb indbringes for retten efter reglerne i straffelovens § 78, stk. 3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Når særlige omstændigheder taler derfor, kan justitsministeren dog tillade, at indbringelse for retten sker, inden femårsfristen er udløbet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4d9c8527-d0be-4cf7-b6ab-2927bd8a50ac">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der er frakendt retten til jagttegn, eller den, hvis jagttegn er inddraget i medfør af § 42, stk. 1, skal aflevere jagttegnet til politiet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idc9109095-b68a-4675-984a-198a9ade658c" localId="72">
+              <Explicatus>§ 56.</Explicatus>
+              <Stk id="ide4429605-67f0-440d-a9eb-6e382f34af3c">
+                <Exitus>
+                  <Linea>
+                    <Char>Overtrædelse af § 13, § 17, § 19, stk. 1, og § 31 påtales kun efter den forurettedes begæring, medmindre almene hensyn kræver påtale.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id94000360-2eef-4f0d-9ac2-64af07cd36da" localId="73">
+              <Explicatus>§ 57.</Explicatus>
+              <Stk id="id02a8e3b2-779a-4895-a726-6e72afd0098c">
+                <Exitus>
+                  <Linea>
+                    <Char>Betales gebyrer efter § 53 og udgifter, som miljø- og fødevareministeren har krav på at få dækket efter § 48, stk. 2 og 3, ikke rettidigt, kan der opkræves morarenter på 1,3 pct. i månedlig rente for hver påbegyndt måned fra forfaldstidspunktet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id6947ea36-51b7-4a0a-bc2b-71e1bf1843e2">
+              <Linea>
+                <Char>Ikrafttrædelses- og overgangsbestemmelser</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id79979c6d-1d31-4f9d-ad71-05adcb88bdf1" localId="74">
+              <Explicatus>§ 58.</Explicatus>
+              <Stk id="idf7b810f8-9344-4919-ab46-906c3743f398">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. april 1994.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id496e15a2-43b1-4079-86c7-228ae34ce73a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Reglerne i § 18, stk. 1, 2 og 6, 2. pkt., træder dog først i kraft den 1. april 1997.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide8fb2a75-91ea-4f5a-87b1-1018afc10624">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Reglen i § 18, stk. 7, træder i kraft den 1. september 1993.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id23172c1f-f8f9-4d0d-a83f-d23e5188a7f7">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Følgende lovbestemmelser ophæves:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id306813dd-6366-48a1-ba58-8ce322dce812">
+                  <Index>
+                    <Indentatio id="id8292b79e-6ebf-4658-8e7e-ca1469414b52" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>lov om jagt og vildtforvaltning, jf. lovbekendtgørelse nr. 801 af 11. december 1987,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb68f9009-6ff5-4852-aad0-286a9274a72d" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>§ 9, stk. 2, i lov nr. 386 af 6. juni 1992, dyreværnslov.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8bdd617a-836b-44db-9375-15195010f391" localId="75">
+              <Explicatus>§ 59.</Explicatus>
+              <Stk id="id98526c83-3f3b-4d56-abb5-6fc29d0b40fa">
+                <Exitus>
+                  <Linea>
+                    <Char>Reglen i § 40, stk. 3, finder ikke anvendelse på jagttegnsindehavere, der ved lovens ikrafttræden har erhvervet tilladelse til at besidde jagtriffel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="iddcc6e209-2ccd-412b-9539-ccfeca7ac660" localId="76">
+              <Explicatus>§ 60.</Explicatus>
+              <Stk id="id1b314872-bc08-48e7-8aa8-ca13a4e5218c">
+                <Exitus>
+                  <Linea>
+                    <Char>Regler, der er udstedt i medfør af den hidtil gældende lov om jagt og vildtforvaltning, jf. § 58, stk. 4, nr. 1, forbliver i kraft, indtil de afløses af regler udstedt efter denne lov.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Overtrædelse af reglerne straffes efter de hidtil gældende regler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf59cd72a-a3f8-4491-b943-a02a4dc407ea" localId="77">
+              <Explicatus>§ 61.</Explicatus>
+              <Stk id="id8affd853-e66b-4211-832c-36f0e0d3279c">
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser efter den hidtil gældende lov om jagt og vildtforvaltning, jf. § 58, stk. 4, nr. 1, bevarer deres gyldighed, indtil der efter denne lov eller efter regler udstedt efter loven træffes nye afgørelser.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Overtrædelse af afgørelserne straffes efter de hidtil gældende regler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id569101e8-37b6-4729-9130-85c3c8db21c4" localId="78">
+              <Explicatus>§§ 62-63.</Explicatus>
+              <Stk id="idff39dd5d-75fe-4f6f-a111-302ff3e3b0db">
+                <Exitus>
+                  <Linea>
+                    <Char>(Udelades)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb94e8b30-bf8e-4a81-8af3-eb52ae5d484e" localId="79">
+              <Explicatus>§ 64.</Explicatus>
+              <Stk id="idace548dd-d656-4266-91ec-01d911e0ba50">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="id4220172e-6e4b-4f69-97d2-74dfb63b899c">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 12 af 12. januar 1997 om ændring af lov om jagt og vildtforvaltning (Jagt på små arealer), som ændrer § 18, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="idce411c99-116b-4a91-a108-118d50d008cc">
+        <Explicatus>§ 2</Explicatus>
+        <Stk id="idcdc0b72f-2fa4-4d10-abc6-7499f26087d9">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. april 1997.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id428fec91-1c92-45b0-9f8c-19e3f42dd629">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 442 af 9. juni 2004 om retssikkerhed ved forvaltningens anvendelse af tvangsindgreb og oplysningspligter, som ændrer § 50, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <Paragraf id="id4c062762-a3a2-4d5f-8fc4-2d884a70d516" localId="80">
+        <Explicatus>§ 24.</Explicatus>
+        <Stk id="id38375ee5-e7e5-4877-ace5-ceeccc1fefa1">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2005.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </Paragraf>
+    </Ikraft>
+    <Ikraft id="id0e7d4a4d-60a1-43f9-a4ad-51e393bc053a">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 431 af 6. juni 2005 om ændring af forskellige love (Forenkling, harmonisering og objektivering af reglerne for inddrivelse af gæld til det offentlige m.v. samt mulighed for anvendelse af digitale lønsedler), som ændrer § 57, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="idae03c394-f954-4df7-8cad-984c0d39dc0b">
+        <Explicatus>§ 85</Explicatus>
+        <Stk id="id7b5629bd-0ea5-428c-88e3-dfc596aae6e2">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. november 2005, jf. dog stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idbd51bd03-0674-4b0b-a79b-37ce04dda1cd">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="idd46d472a-b6a2-4914-9ecb-856cdfec4457">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 564 af 24. juni 2005 om ændring af lov om beskyttelse af havmiljøet, lov om vandløb, lov om sommerhuse og campering m.v. og forskellige andre love (Udmøntning af kommunalreformen i en række love på natur- og miljøområdet), som ændrer § 54, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id207624e9-0e65-48c0-b0e7-2f1c4ae67a7a">
+        <Explicatus>§ 16</Explicatus>
+        <Stk id="id9ab1028f-e6ca-41d8-8791-431f5ca3f0aa">
+          <Explicatus>Stk. </Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2007.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id7f3ec8f0-6846-45db-9bba-78b910418556">
+          <Explicatus>Stk. 2-8.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="idd24c608f-2dcf-4707-b986-e1b6cb0b9d6b">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov om beskyttelse af havmiljøet og forskellige andre love (Ophævelse af adgang til at overføre myndighedskompetence til kommunale fællesskaber og ændring af delegationsbestemmelser m.v. i en række love på natur- og miljøområdet), som ændrer § 49, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id4f1cea76-2ea5-4f29-8e74-a3e6f7e818ea">
+        <Explicatus>§ 23</Explicatus>
+        <Stk id="idbbcc5a4d-0528-46b5-a8c9-0a51764141c3">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id71f9446f-5f73-4154-adfa-4739e8ffc0f2">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id83f9b304-620d-40bd-9243-c479de391704">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af miljøansvarsdirektivet), som ændrer §§ 48 og 54 og indsætter nyt kapitel 8 a (§§ 53 a-53 k), indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="idc2539604-1dda-4aba-ad36-e41131355190">
+        <Explicatus>§ 15</Explicatus>
+        <Stk id="id1f2b21d7-529c-4c95-a4a6-316eee2ec1fa">
+          <Explicatus>Stk. </Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id8637b99b-908f-4e78-b0cc-a39231c3ed57">
+          <Explicatus>Stk. 2-4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id5a78766f-7e26-48b2-8ea1-a2a2dcb535ce">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Gennemførelse af direktiver om naturbeskyttelse), som ændrer §§ 3, 33, 37, 46, 52 og 54 og indsætter ny § 9 a og bilag 1 og 2, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="idc8f1b68f-acb2-4601-b84c-8cf24f25f129">
+        <Explicatus>§ 16</Explicatus>
+        <Stk id="idc5279744-664a-441f-8962-d87fe24df829">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. juli 2008.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id8679e420-7314-4bed-92af-2ea45a31aed7">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige), som ændrer § 57, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id64cd5c96-70ac-482e-8b51-a993ed53db8c">
+        <Explicatus>§ 167</Explicatus>
+        <Stk id="iddcae6dfb-a76b-405f-9646-66303dd9ee6d">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2009, jf. dog stk. 2.</Char>
+            </Linea>
+            <Linea>
+              <Char>§ 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id8ce7ed0c-87ca-458d-9640-85288ddd0c35">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id11bf4108-470b-4e37-982e-28285e1e0c5d">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 514 af 12. juni 2009 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Beskyttelse af visse dyrearter m.v.), som ophæver fodnote 1 og 2 til lovens titel, indsætter fodnote 1 til lovens titel, § 6, stk. 3-5, § 6 a, § 9 a, stk. 4, § 15, stk. 3, § 52, stk. 4, nr. 2, og § 52 a, og ændrer § 6, stk. 3 og 4, § 7, § 46, stk. 2, § 52, stk. 4, nr. 1, § 52, stk. 4, nr. 2 og 3, og § 54, stk. 1, nr. 1, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id9216e409-ee7b-4955-bbee-b90939fd0899">
+        <Explicatus>§ 13</Explicatus>
+        <Stk id="idc4ec398d-be50-4f03-a842-2b2dd68ac060">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. oktober 2009.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id0461e541-d325-421e-acec-8ac3fef0306c">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1383 af 21. december 2009 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af servicedirektivet og anerkendelsesdirektivet på Miljøministeriets område) som indsætter § 52 a, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id97971794-c568-4678-b456-fdbff1f3c5d4">
+        <Explicatus>§ 7</Explicatus>
+        <Stk id="id7f43138a-4c5e-4820-a038-ad76048d99fa">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 28. december 2009.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id4eef5720-0c0d-4d12-87b8-d17e26847a28">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 484 af 11. maj 2010 om ændring af lov om naturbeskyttelse, lov om miljøbeskyttelse og forskellige andre love (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.), som ændret ved § 2 i lov nr. 1608 af 22. december 2010</Char>
+        </Linea>
+        <Nota id="id70a4380e-1cd6-4915-b9cc-64ec206eaea8">
+          <Explicatus>2)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lov nr. 1608 af 22. december 2010 trådte i kraft den 1. januar 2011, jf. lovens § 3, stk. 1.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>, der ophæver § 53 j, stk. 4 og 5, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id289a5449-4ece-4e3c-883d-7aa1e1c6bfcb">
+        <Explicatus>§ 28</Explicatus>
+        <Stk id="id0e0c62ca-a895-4c4c-ae9a-4c4ddd809fa1">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id06a8f904-8a13-4ea6-865f-c6888a87237b">
+          <Explicatus>Stk. 2-4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id722d87b9-fd8a-45ee-aa4e-86f033050991">
+          <Explicatus>Stk. 5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Verserende sager i Naturklagenævnet, der ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles efter lov om Natur- og Miljøklagenævnet af Natur- og Miljøklagenævnet med den i § 5, stk. 1, nr. 2, i lov om Natur- og Miljøklagenævnet nævnte sammensætning.</Char>
+            </Linea>
+            <Linea>
+              <Char>I sager, hvor Naturklagenævnet har afholdt besigtigelse i en sag om fredning efter naturbeskyttelseslovens kapitel 6, sammensættes Natur- og Miljøklagenævnet med deltagelse af de nævnsmedlemmer, der deltog i besigtigelsen.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idb8525dcd-4806-4ea9-af19-a65a6fcb35d9">
+          <Explicatus>Stk. 6.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idc79e1e46-e572-43eb-b01c-e8eb0a350f4e">
+          <Explicatus>Stk. 7.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Miljøministeren kan i øvrigt fastsætte overgangsregler.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="ida2971ba0-f95b-42d0-acfa-b2163325f962">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1273 af 21. december 2011 om ændring af lov om miljøbeskyttelse, lov om planlægning og forskellige andre love (Digital annoncering, obligatorisk digital kommunikation, afskæring af klageadgang), der ændrer § 10, stk. 2, § 33, stk. 1 og stk. 3, § 43, stk. 2, indsætter § 52 c, og ændrer § 53 f, stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="idba757959-a72f-4b18-a5f6-681bce08e04d">
+        <Explicatus>§ 20</Explicatus>
+        <Stk id="id016b022a-d80e-4273-9ce9-69fa246f7b40">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2012.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="idc047c5dc-855c-40e4-8efb-4dd7820b29b6">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 580 af 18. juni 2012 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Reform af klagesystemet på natur- og miljøområdet m.v.), der ændrer § 53 j stk. 2, indsætter stk. 3, hvorved stk. 3 bliver til stk. 4, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="idf541b290-2e6e-415d-b545-9e12802ca665">
+        <Explicatus>§ 28</Explicatus>
+        <Stk id="id718e446d-8228-4f63-8386-f7f8394f722e">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. august 2012, jf. dog stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idafc5207b-7f06-44e1-b075-f35776a0a8ef">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id531830e6-123f-4831-80af-ae63e862814c">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven finder anvendelse på afgørelser truffet i 1. instans efter lovens ikrafttræden.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id55cc7f18-5eb4-465c-9cd7-de42c52c17b2">
+          <Explicatus>Stk. 4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id752e3f91-b67b-445d-a4b8-222d743d728b">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 86 af 28. januar 2014 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet), der ændrer § 53 j, stk. 2, 1.pkt., indsætter ny § 53 j, stk. 4 og 5, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="idbe8e6797-6820-4b8a-823b-a9873d3b594c">
+        <Explicatus>§ 26</Explicatus>
+        <Stk id="id8bc49928-ba15-4569-ae2c-bffdb59bae35">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id29ff3f72-9d1d-4cd7-b3cf-e660380f3d34">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr. 2 og 3, og §§ 8-25.</Char>
+            </Linea>
+            <Nota id="id297ed3f4-ec3d-451a-aed2-8afa39f05a07">
+              <Explicatus>3)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Ændringen af § 53 j, stk. 2, 1. pkt. og § 53 j, stk. 4 og 5, trådte i kraft den 28. januar 2015, jf. bekendtgørelse nr. 57 af 23. januar 2015 om ikrafttræden af lov om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.).</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+          </Exitus>
+        </Stk>
+        <Stk id="id3e98be5b-6b55-41c6-8bf4-4ef1b1004bf5">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft.</Char>
+            </Linea>
+            <Linea>
+              <Char>For sådanne klager finder de hidtidige regler anvendelse.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="ideda0ad07-d9fc-499a-9082-a7f719a0aef4">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 736 af 25. juni 2014 om ændring af lov om tv-overvågning, lov om sikkerhed ved bestemte idrætsbegivenheder, lov om restaurationsvirksomhed og alkoholbevilling m.v. og forskellige andre love (Samling af visse af politiets opgaver i opgavefællesskaber og bortsals af hittegods ved offentligt tilgængelig internetauktion m.v.), der indsætter ny § 49, stk. 6, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="ida8a67c47-8bf4-4236-b2ee-aac250707c30">
+        <Explicatus>§ 13</Explicatus>
+        <Stk id="id348dacef-ec10-4408-82db-8010eaf8916b">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idce63eff8-7302-40aa-b77e-410cef6dd79e">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§§ 1-4, § 5, nr. 1, og §§ 6-11 træder i kraft den 1. juli 2014.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="iddde0fd78-b97b-4e3e-8fcc-8c1631bee3c9">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1373 af 16. december 2014 om ændring af lov om jagt og vildtforvaltning (Styrkelse af vildtudbytteindberetning m.v.), der ændrer § 41, stk. 2, § 43, stk. 2, § 54, stk. 1, nr. 1 og § 55, stk. 2, 2. pkt., indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id5570fecd-ec6e-4c47-8a58-e3d7f7773a6d">
+        <Explicatus>§ 2</Explicatus>
+        <Stk id="id21faa5af-b388-47dd-bbb5-aaba9a5f9998">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2015.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id730c763b-aa9d-43a6-a0d7-d92f681add5e">
+    <UnderskriftStedDato id="id730c763b-aa9d-43a6-a0d7-d92f681add5e" />
+    <Underskriver id="id730c763b-aa9d-43a6-a0d7-d92f681add5e" />
+  </UnderskriftGruppe>
+  <Bilag id="id4dfeac1e-f140-4440-ae20-9790be43b280" localId="1">
+    <Explicatus>Bilag 1</Explicatus>
+    <BilagIndhold id="id81d0c013-baaf-4e40-b462-b8e5eee430c5">
+      <TekstGruppe id="id6140ab53-626d-4851-a27f-70da66786d9c">
+        <Exitus>
+          <Table width="680" cellpadding="0cm,0cm,0cm,0cm" formaMarginoTop="0.3cm" formaMarginoBottom="0.3cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" style="column-width: 283pt 227pt;border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+            <Rubrica formaForma="Overskriftstekst1" formaEx="Left">
+              <Linea>
+                <Char formaChar="Bold">Pattedyr omfattet af § 9 a, stk. 1:</Char>
+              </Linea>
+            </Rubrica>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>SMÅFLAGERMUS / </Char>
+                    <Char formaChar="Italic">MICROCHIROPTERA</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Alle arter, herunder</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Vandflagermus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Myotis daubentoni</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Damflagermus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Myotis dasycneme</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Skægflagermus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Myotis mystacinus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Brandts Flagermus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Myotis brandtii</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Frynseflagermus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Myotis nattereri</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Bechsteins Flagermus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Myotis bechsteini</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Skimmelflagermus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Vespertilio murinus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Sydflagermus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Eptesicus serotinus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Brunflagermus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Nyctalus noctula</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Bredøret Flagermus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Barbastella barbastellus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Langøret Flagermus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Plecotus auritus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Dværgflagermus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Pipistrellus pygmaeus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Troldflagermus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Pipistrellus nathusii</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Pipistrelflagermus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Pipistrellus pipistrellus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>GNAVERE / </Char>
+                    <Char formaChar="Italic">RODENTIA</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Hasselmus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Muscardinus avellanarius</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Birkemus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Sicista betulina</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>ROVDYR / </Char>
+                    <Char formaChar="Italic">CARNIVORA</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Odder</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Lutra lutra</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>HVALER / </Char>
+                    <Char formaChar="Italic">CETACEA</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Alle arter, herunder marsvin</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Phocoena phocoena</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            </Tr>
+          </Table>
+        </Exitus>
+        <Exitus formaForma="NormalInd" />
+      </TekstGruppe>
+    </BilagIndhold>
+  </Bilag>
+  <Bilag id="id062681a3-98e0-4624-9ad1-9682c37ba740" localId="2">
+    <Explicatus>Bilag 2</Explicatus>
+    <BilagIndhold id="idf11073b4-deae-45dd-a89b-4fdc1b6e0d0a">
+      <TekstGruppe id="ided856908-f02e-48b6-b889-4e19f321a10d">
+        <Exitus>
+          <Table width="680" cellpadding="0cm,0cm,0cm,0cm" formaMarginoTop="0.3cm" formaMarginoBottom="0.3cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" style="column-width: 283pt 227pt;border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+            <Rubrica formaForma="Overskriftstekst1" formaEx="Left">
+              <Linea>
+                <Char formaChar="Bold">Pattedyr omfattet af § 9 a, stk. 2:</Char>
+              </Linea>
+            </Rubrica>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>ROVDYR / </Char>
+                    <Char formaChar="Italic">CARNIVORA</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Skovmår</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Martes martes</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>SÆLER / </Char>
+                    <Char formaChar="Italic">PHOCIDAE</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Gråsæl</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Halichoerus gryphus</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Spættet sæl</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char formaChar="Italic">Phoca vitulina</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            </Tr>
+          </Table>
+        </Exitus>
+        <Exitus formaForma="NormalInd" />
+      </TekstGruppe>
+    </BilagIndhold>
+  </Bilag>
+</Dokument>

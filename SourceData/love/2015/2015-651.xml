@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id3b968b18-19a6-40f2-923e-56087172819f" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idd85a654e-5fe8-436f-b56c-9fc88db0848a">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150065130</AccessionNumber>
+    <DocumentId>AH005594</DocumentId>
+    <UniqueDocumentId>170455</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om udendørs hold af svin (Ophævelse af revisionsbestemmelse)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-05-18</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-06</EndDate>
+    <Status>Historic</Status>
+    <Number>651</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1148 af 12/09/2015</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 651 af 18/05/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2015-09-30</DateOfHistoricMark>
+    <Subject>vand</Subject>
+    <Subject>perioder</Subject>
+    <Subject>natten</Subject>
+    <Subject>frostvejr</Subject>
+    <Subject>revisionsbestemmelse</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Dan Jørgensen</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Fødevaremin.,\nFødevarestyrelsen, j.nr. 2014-15-30-00003</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id783f7b22-86a0-4f7f-b6db-314f7898ff09">
+    <Titel id="idf1e1118a-72b5-4b50-b60c-a10b2ff8af67">
+      <Linea>
+        <Char>Lov om ændring af lov om udendørs hold af svin</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="iddefb2902-1ab6-4f3d-b5e3-d532b8f9099c">
+      <Linea>
+        <Char>(Ophævelse af revisionsbestemmelse)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id61d85e3d-40c6-456f-9ecc-26a7a722f74b">
+    <Hymne id="id4103c672-f44d-4ef8-8930-2b6db7a46a20">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id650508a6-9cc4-43ae-b569-d9e702a44b64">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om udendørs hold af svin, jf. lovbekendtgørelse nr. 471 af 15. maj 2014, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id7415e9c2-f3d6-40a9-bd6c-03f5e71075b0">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="ida148fd95-12d3-40b8-b784-f5b1b1203c22">
+          <AendringDefinition id="idf5a3eb77-721d-47aa-80d8-55344aeebc6d">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18 a </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb07b763b-e9f1-41b4-aa62-5c7e22f494db" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="ided3e0d70-567d-4471-8548-62be425c9eef">
+      <Explicatus>§ 2</Explicatus>
+      <Stk id="id669db8ad-bc88-4668-ad52-09b6681edeb4">
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id0a7f9726-4f90-4a42-b40f-62c08842d243">
+    <UnderskriftStedDato id="id0a7f9726-4f90-4a42-b40f-62c08842d243" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id0a7f9726-4f90-4a42-b40f-62c08842d243" />
+  </UnderskriftGruppe>
+</Dokument>

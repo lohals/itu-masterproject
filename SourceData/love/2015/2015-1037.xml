@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id51dff9b7-312a-48e5-af92-479a663e2cb1" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id9b8bdc3a-9fde-47dd-97b5-f941539389d7">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150103729</AccessionNumber>
+    <DocumentId>AN011943</DocumentId>
+    <UniqueDocumentId>173302</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om skattemæssig opgørelse af varelagre m.v.</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-08-24</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2015-09-05</EndDate>
+    <Status>Valid</Status>
+    <Number>1037</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 1037 af 24/08/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">P.M.V.\nJens Brøchner</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Lise Bo Nielsen</Signature>
+    <PlaceOfSignature>Skatteministeriet</PlaceOfSignature>
+    <JournalNumber>Skattemin., j.nr. 14-3660197</JournalNumber>
+    <Ministry>Skatteministeriet</Ministry>
+    <AdministrativeAuthority>Skatteministeriet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="iddc5c17fc-445e-4fae-b450-508b7746e8bf">
+    <Titel id="ida1288b57-d54a-4bb5-a865-c793fde244b5">
+      <Linea>
+        <Char>Bekendtgørelse af lov om skattemæssig opgørelse af varelagre m.v.</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idbf609454-71d4-4df5-aaea-6ec5993dda59">
+    <Indledning id="idb8c81e65-efb7-4c6b-9dd5-10415460a099">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om skattemæssig opgørelse af varelagre m.v., jf. lovbekendtgørelse nr. 918 af 2. december 1993, med de ændringer,  der følger af § 7 i lov nr. 487 af.</Char>
+        </Linea>
+        <Linea>
+          <Char>12. juni 1996, § 21 i lov nr. 1219 af 27. december 1996, § 12 i lov nr. 434 af 26. juni 1998, § 14 i lov nr. 425 af 6. juni 2005 og § 75 i lov nr. 428 af 6. juni 2005.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="id993c2549-2c5c-4534-9920-d0f589741611">
+      <Afsnit id="id3713e35e-49d4-4722-99d5-44a4917b8e92" localId="1">
+        <Kapitel id="idf2835f8f-43de-47be-925d-21e589fd80f4" localId="1">
+          <Explicatus>Kapitel I</Explicatus>
+          <Rubrica id="idf6bd1017-2a28-4f94-a978-ed99f114ae52">
+            <Linea>
+              <Char>Varelagre</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idbcc143d5-4258-441c-9272-fb7dc209ba9b" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="id9ddf7e40-2a15-4e4c-8943-62fa8f51e783">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved opgørelsen af den skattepligtige indkomst kan næringsdrivende personer, dødsboer samt selskaber og foreninger vælge at opgøre deres varelagre på grundlag af:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="ideed5f63c-24ba-4f13-953c-c4ff9bdfb591">
+                  <Index>
+                    <Indentatio id="id1178e770-5891-462c-bb90-1ab4f6900ed4" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>dagsprisen ved regnskabsårets slutning eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc651c030-a0ee-4b07-8e14-8546ddd36a42" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>indkøbsprisen med tillæg af fragt, told og lignende (fakturaprisen) eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8d19fcd2-772c-415c-97b4-6919cbbe959e" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>fremstillingsprisen, såfremt varen er fremstillet i egen virksomhed.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idb958d3f8-a6bd-48e2-8ec8-0ac206c408ed">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved opgørelsen af varelagerets værdi i henhold til stk. 1 kan den skattepligtige ikke medregne afgift, der ved opgørelsen af hans afgiftstilsvar efter loven om almindelig omsætningsafgift kan fradrages som indgående afgift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id118b29b4-1658-4c74-b770-3e9b2289fd41">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den skattepligtige kan for hver enkelt varegruppe inden for varelageret vælge frit mellem de i stk. 1 nævnte opgørelsesmåder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2c46f150-e1c6-4371-bc5d-4bbf018a216e">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I det beløb, der er opgjort efter bestemmelserne i stk. 1-3, kan der i de enkelte indkomstår foretages et nedslag, som højst kan udgøre følgende procentdel af beløbet:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Table width="310" cellpadding="0cm,0cm,0cm,0cm" style="column-width: 116pt 116pt;">
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char formaChar="Bold">Indkomstår</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char formaChar="Bold">Pct.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>1993</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>23</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>1994</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>20</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>1995</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>16</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>1996</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>12</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>1997</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>8</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>1998 og derefter</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus>
+                          <Linea>
+                            <Char>0.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                  </Table>
+                </Exitus>
+                <Exitus />
+              </Stk>
+              <Stk id="idb0603628-aae9-4479-a801-066c6a67ccf7">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Nedskrivning efter stk. 4 kan foretages for de lagre af varer, råstoffer, hel- eller halvfærdige produkter, emballage samt hjælpevarer i produktionsvirksomheder, herunder brændsel, der hører til virksomheden ved regnskabsårets slutning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id91709b0c-3dcf-4254-b67b-9973bd077fd1" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="id3c928de7-5ccb-4c2a-8cbd-2b9ae94fa7fd">
+                <Exitus>
+                  <Linea>
+                    <Char>Det beløb, hvormed varelageret nedskrives efter § 1, stk. 4, skal oplyses i regnskabet eller i selvangivelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idccda2794-c7fd-4a02-b095-0cc09b27c987">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den værdiansættelse af varelageret, der er anvendt ved slutningen af et regnskabsår, skal benyttes ved værdiansættelsen af det samme varelager ved begyndelsen af det efterfølgende regnskabsår.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id8c6ba986-6aaa-42b6-b069-ef916ea8c800" localId="2">
+          <Explicatus>Kapitel II</Explicatus>
+          <Rubrica id="idf88da32f-c615-454e-9ad1-1c4064ca2865">
+            <Linea>
+              <Char>Udenlandske varelagre mv.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id9abbbf8b-fbbc-4476-ad47-a7970cbbc989" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id76bf4f9a-fe01-4aba-aa6a-1bdef8f273eb">
+                <Exitus>
+                  <Linea>
+                    <Char>Når skat eller indkomst af udenlandsk virksomhed er omfattet af en overenskomst, der er indgået med en fremmed stat, Færøerne eller Grønland, til undgåelse af dobbeltbeskatning eller er omfattet af ligningslovens § 33, begrænses adgangen til nedskrivning efter § 1, stk. 4.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Begrænsningen gælder, når der efter nedskrivning på udenlandske virksomheders varelagre eller varelagre tilknyttet virksomhed på Færøerne eller i Grønland er et underskud, der kan fradrages i den skattepligtige indkomst her i landet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Nedskrivningerne nedsættes med et beløb svarende til underskuddet, dog højst med det beløb,  hvormed nedskrivningerne overstiger virksomhedens tilsvarende nedskrivninger ved udgangen af det foregående indkomstår.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8f7070a2-deaf-4fde-b24c-52fc2669d6cd" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id15c44a9c-9060-42c1-a507-69b29e7d2fcc">
+                <Exitus>
+                  <Linea>
+                    <Char>Ophører en persons skattepligt efter kildeskattelovens § 1 som følge af fraflytning til udlandet, kan der ikke i ophørsåret foretages varelagernedskrivning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dette gælder dog ikke i det omfang, varelageret er tilknyttet virksomhed, af hvis indkomst den pågældende vil være skattepligtig her til landet efter kildeskattelovens § 2, stk. 1, nr. 4, 1. pkt. finder tilsvarende anvendelse ved ophør af skattepligt efter kildeskattelovens § 2, stk. 1, nr. 4, medmindre der i stedet indtræder skattepligt efter kildeskattelovens § 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Med ophør af fuld skattepligt her til landet sidestilles, at en person i medfør af en dobbeltbeskatningsoverenskomst med en fremmed stat, Færøerne eller Grønland bliver hjemmehørende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida7cc7cb1-adf2-4e73-b267-55decde2a8c6" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="ida778d755-69b0-4410-abf3-ea7bc49090fa">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idb881ab9c-2c44-4ebf-8143-47968d211f8a" localId="3">
+          <Explicatus>Kapitel III</Explicatus>
+          <Rubrica id="idfb44164a-4991-46de-8ddd-82e462e94da5">
+            <Linea>
+              <Char>Fællesbestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id8b0a6741-558b-4610-8915-cf0c9bd38e86" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id8a4e7e65-62ee-4931-ba50-0f753911f759">
+                <Exitus>
+                  <Linea>
+                    <Char>Det er en forudsætning for anvendelsen af reglerne i kapitel I og II, at den skattepligtiges regnskab er aflagt efter de regler, der gælder for ordentlig forretningsførelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id278b18f4-9446-4e6e-938f-cfa47841b019" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="id02cd22b6-679d-4a6a-83c6-bcc39e259ab1">
+                <Exitus>
+                  <Linea>
+                    <Char>En skattepligtig kan ændre den selvangivne opgørelsesmåde for varelagre m.v. efter § 1, stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den skattepligtige skal indgive meddelelse om ændringen til told- og skatteforvaltningen senest 3 måneder efter udløbet af selvangivelsesfristen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id90c6eba8-8f62-4872-b57e-3cffec804f58">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ændring af den selvangivne opgørelsesmåde efter udløbet af fristen i stk. 1 kræver tilladelse fra told- og skatteforvaltningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Skatterådet kan fastsætte nærmere regler for told- og skatteforvaltningens udøvelse af kompetencen efter 1. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf9ae3064-a655-4c7e-9bab-5c50c93e508e" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="id21387e36-7545-455f-bfdb-7b3ad24c8f78">
+                <Exitus>
+                  <Linea>
+                    <Char>§ 14, nr. 4, i lov nr. 149 af 10. april 1922 om indkomst- og formueskat til staten ophæves med virkning fra og med skatteåret 1968-69.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ide43da7ce-14d0-4576-b99a-e79d989bc2a6" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="idb7f702d7-01f8-4cd9-b7b7-2e7d94b45810">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="ida05142c4-23e8-49e8-bbe2-9ff1c8cf0330">
+    <UnderskriftStedDato id="ida05142c4-23e8-49e8-bbe2-9ff1c8cf0330" />
+    <Underskriver id="ida05142c4-23e8-49e8-bbe2-9ff1c8cf0330" />
+  </UnderskriftGruppe>
+</Dokument>

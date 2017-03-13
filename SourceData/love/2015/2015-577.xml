@@ -1,0 +1,1449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idfb3f71a2-fb8c-463d-a172-7c54d9f41ba7" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id32ca9cde-462c-476c-bfbe-60cfae9c7537">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150057730</AccessionNumber>
+    <DocumentId>BU000438</DocumentId>
+    <UniqueDocumentId>170017</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om elforsyning (Justering og udskydelse af engrosmodellen og udskydelse af leveringspligten)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-05-04</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-11-15</EndDate>
+    <Status>Historic</Status>
+    <Number>577</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 418 af 25/04/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LOV nr 1283 af 24/11/2015 </KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 577 af 04/05/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2016-05-13</DateOfHistoricMark>
+    <EuReferences>32009L0028</EuReferences>
+    <EuReferences>32009L0030</EuReferences>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Rasmus Helveg Petersen</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Klima-, Energi- og Bygningsmin.,\nEnergistyrelsen, j.nr. 2008/2015-0042</JournalNumber>
+    <Ministry>Energi-, Forsynings- og Klimaministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="idedc0ba54-8555-40f6-9ad2-3aa44dd0a9fc">
+    <Titel id="id77051893-8f64-49ce-a684-1978159e5aee">
+      <Linea>
+        <Char>Lov om ændring af lov om elforsyning</Char>
+      </Linea>
+      <Nota id="idd113ed22-17b7-4493-850a-4140d81c2b31" formaNo="EU">
+        <Explicatus>1)</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven gennemfører dele af Europa-Parlamentets og Rådets direktiv 2009/28/EF af 23. april 2009 om fremme af anvendelsen af energi fra vedvarende energikilder og om ændring og senere ophævelse af direktiv 2001/77/EF og 2003/30/EF, EU-Tidende 2009, nr. L 140, side 16, som ændret ved Rådets direktiv 2013/18/EU af 13. maj 2013 om  tilpasning af Europa-Parlamentets og Rådets direktiv 2009/28/EF om fremme af anvendelsen af energi fra vedvarende energikilder på grund af republikken Kroatiens tiltrædelse, EU-Tidende 2013, nr. L 158, side 230, og dele af Europa-Parlamentets og Rådets direktiv 2009/30/EF af 23. april 2009 om ændring af direktiv 98/70/EF for så vidt angår specifikationerne for benzin, diesel og gasolie og om indførelse af en mekanisme for overvågning og reduktion af emissionerne af drivhusgasser og om ændring af Rådets direktiv 1999/32/EF for så vidt angår specifikationerne for brændstof, der benyttes i fartøjer til sejlads på indre vandveje, og om ophævelse af direktiv 93/12/EØF, EU-Tidende 2009, nr. L 140, side 88.</Char>
+          </Linea>
+        </Exitus>
+      </Nota>
+    </Titel>
+    <UnderTitel id="idf234b61a-5c96-4b78-8e2f-84a540171e80">
+      <Linea>
+        <Char>(Justering og udskydelse af engrosmodellen og udskydelse af leveringspligten)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id740ada80-7173-4ef8-9cd1-038dab5905aa">
+    <Hymne id="idc42db17f-6d80-443e-8550-41817cf8df1a">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="idecfc8ec2-1352-4400-b083-31d5bc0ccaef">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om elforsyning, jf. lovbekendtgørelse nr. 1329 af 25. november 2013, som ændret bl.a. ved § 1 i lov nr. 466 af 18. maj 2011, § 2 i lov nr. 576 af 18. juni 2012 og § 1 i lov nr. 633 af 16. juni 2014 og senest ved § 1 i lov nr. 1498 af 23. december 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id3108f97b-1bc6-4140-9246-3b95a8c0b6d7">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id3f5ffdd5-4139-44d7-9292-4898fb4610fa">
+          <AendringDefinition id="id096e893a-b0c7-4469-b53c-07c1cdf5fc6d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5</Char>
+                <Char> indsættes før nr. 1 som nyt nummer:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id551195de-85d5-41dc-980f-1cf4dc5c3e59" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Indentatio id="idb9565ca8-8f58-4c8a-b8f9-4e13ac7e1c46" formaInd="Nummer">
+                <Explicatus>1)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char formaChar="Italic">Aftagenummer:</Char>
+                    <Char> Et nummer, der entydigt identificerer et målepunkt, som er omfattet af netvirksomhedens pligt til at måle levering og aftag af elektricitet i nettet, jf. § 20, stk. 1, nr. 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idbabaa739-fa1e-45b3-87cc-0e124a84a580">
+          <Exitus>
+            <Linea>
+              <Char>Nr. 1 bliver herefter nr. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="idf1675632-66f7-456a-b618-ea9f4d40eb4e">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idc00dd8f9-2397-4073-931c-45db1809d2b4">
+          <AendringDefinition id="idac031387-a737-4c2c-9e9d-7f61e0bedcb4">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5, nr. 1,</Char>
+                <Char> der bliver nr. 2, ændres »nr. 9.« til: »nr. 11.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb55f6b4a-c63f-47ab-9e1a-a08f326eb77a" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id995a0697-d324-44c1-9550-ff6816786e45">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="idefd7f5c0-05cf-4164-996e-eedc1170fed6">
+          <AendringDefinition id="idaf991f77-bc87-4dad-88e6-9eee30d9d1b4">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5</Char>
+                <Char> indsættes efter nr. 1, der bliver nr. 2, som nyt nummer:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3db058da-9901-441b-bda8-2cddb5628269" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus id="id107d1355-7bff-4c11-af19-0d41988051db">
+                <Index>
+                  <Indentatio id="id470672dc-d032-4844-a227-b191c88b340c" formaInd="Nummer">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char formaChar="Italic">Datahub:</Char>
+                        <Char> En it-platform, der ejes og drives af Energinet.dk, og som håndterer måledata, stamdata, nødvendige transaktioner og kommunikation mellem elmarkedets aktører i Danmark.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id45d69318-ec83-464f-89c1-aff731386137">
+          <Exitus>
+            <Linea>
+              <Char>Nr. 2-12 bliver herefter nr. 4-14.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id499a23ca-fc9e-49f9-baab-d992e561add3">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id2507d5ee-1dba-4e49-8273-15b0df2124f8">
+          <AendringDefinition id="id4240e310-de4f-4a65-8da6-1b94d2864853">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5, nr. 5,</Char>
+                <Char> der bliver nr. 7, udgår », herunder virksomhed med bevilling til forsyningspligtig virksomhed«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5fd222dd-1622-46a4-931b-a52cc1554be6" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2911636b-da21-4240-9713-9e3a3da16334">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id85925001-d59b-4e20-99cf-8fab6812921a">
+          <AendringDefinition id="id38a5366b-2e05-4a4c-b24b-6100941d4e1c">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5, nr. 8,</Char>
+                <Char> der bliver nr. 10, affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7f229257-94cb-4ad3-8c89-806242020ce9" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus id="id8dfdf31d-e9cc-4cc2-807d-2693b298fa87">
+                <Index>
+                  <Indentatio id="idf7417505-f5bf-4916-ad5b-e0091f03d0ba" formaInd="Nummer">
+                    <Explicatus>10)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char formaChar="Italic">Husholdningsforbruger:</Char>
+                        <Char> En elforbruger, der køber elektricitet til eget eller hovedsagelig til eget husholdningsforbrug.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf8c9444a-64be-4946-be3e-876087cbfe7d">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id9e8c4e27-b273-409e-85cc-e5dbfaf2df9d">
+          <AendringDefinition id="id28370e84-194e-41cd-baa3-5a8ef17a0489">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5</Char>
+                <Char> indsættes efter nr. 12, der bliver nr. 14, som nyt nummer:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idbea3b0f2-c16a-471d-9d32-a4fe705dd286" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus id="id32b4bbbf-15c1-4f5e-8b84-0f6334772ab0">
+                <Index>
+                  <Indentatio id="id81a63a6c-39c0-43db-b755-364130507156" formaInd="Nummer">
+                    <Explicatus>15)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char formaChar="Italic">Netområde:</Char>
+                        <Char> Et nærmere afgrænset område, hvortil der i medfør af § 19, stk. 2, er givet bevilling til at drive netvirksomhed.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id3301a985-271e-4525-885c-c24b23fff3ba">
+          <Exitus>
+            <Linea>
+              <Char>Nr. 13-20 bliver herefter nr. 16-23.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id73bd0fc8-bc1f-4767-93f5-71a0225de76a">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="ida0032c8c-e8c4-4fe9-a7c7-22e6fd56cd0e">
+          <AendringDefinition id="id8b6c59d2-e9b1-4c0a-906e-f1f3bf861e64">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 7, stk. 2,</Char>
+                <Char> ændres »1. oktober 2015« til: »1. april 2016«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9d1731f9-60d0-4814-8561-92fa04b5d7e8" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1e93669b-9107-4f2e-a5d8-0037db93a434">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id67706eec-4cc6-4c55-9f8a-8b7413cd35f9">
+          <AendringDefinition id="id72169525-e0cc-418e-a231-ae18c750a95d">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 22, stk. 3,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2218f0ac-e9a1-4be6-aa25-439ece469a2b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="idc9c91c8d-fb5d-4844-8789-e7a5014b249a">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Netvirksomheden indberetter oplysninger vedrørende virksomhedens aftagenumre til datahubben.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Indberetningen skal ske i henhold til forskrifter udstedt af Energinet.dk om forbrug af elektricitet, tarifoplysninger og andre oplysninger af betydning for elhandelsvirksomhedernes fakturering, jf. § 72 b, stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Netvirksomheden varsler ændringer i priser og vilkår via datahubben.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc99147f4-8dc2-4e76-8eb4-3af607670da0">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="idc5152c18-414a-413d-9d43-f3556c5f6477">
+          <AendringDefinition id="id8c65094e-b994-4cdc-a121-4b1e7a0f2899">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 22, stk. 4,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8057ccae-8f5b-4da1-bf02-618fab4bc37b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="idd2f9d1a2-6f86-4a16-9a58-fc210e4b3252">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klima-, energi- og bygningsministeren kan fastsætte regler om gennemførelsen af bestemmelserne i stk. 1-3, herunder om måling af elektricitet, om opgaver og mål for de energibesparelser, som virksomhederne samlet eller enkeltvis skal sikre bliver opnået, om dokumentation, indberetning og verifikation, om afholdelse af nærmere angivne fællesomkostninger og om varsling af ændringer i priser og vilkår via datahubben.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Klima-, energi- og bygningsministeren kan fastsætte regler om, at visse energibesparelsesaktiviteter, jf. stk. 1, nr. 5, skal ske efter udbud, og regler for udbuddets afholdelse og for virksomhedernes finansiering af de udbudte opgaver.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5536a59b-e0b0-49c2-ad80-a5fad3eb28e7">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="id2f331367-5395-4d70-85c7-58c366e8e159">
+          <AendringDefinition id="id360ed876-f297-4e82-8833-d8ee7f1a6aef">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 28, stk. 2, nr. 7-9,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id07b265ff-0010-4a5a-a54c-47b8b386cac5" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus id="idbb0a5967-5ada-450b-b6fe-625ae32d47b6">
+                <Index>
+                  <Indentatio id="id17e058ef-a1d4-474c-bb66-433893b60e94" formaInd="Nummer">
+                    <Explicatus>7)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Etablere og varetage driften af en datahub til håndtering af måledata m.v. og til varetagelse af nødvendige funktioner og kommunikation til brug for elhandels‌virksomhedernes fakturering, herunder formidling af information om elafgifter.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>Energinet.dk skal sikre, at datahubben understøtter overførsel af aftagenumre, jf. § 72 d, stk. 4 og 5.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="idd2aa44d5-7575-420c-a01b-d578060685a8" formaInd="Nummer">
+                    <Explicatus>8)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Indberette oplysninger til datahubben om tariffer og om omkostninger til offentlige forpligtelser, jf. § 8, og via datahubben varsle ændringer i priser og vilkår.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id0231a166-291d-4dc6-b526-e17f499b9623" formaInd="Nummer">
+                    <Explicatus>9)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Udarbejde en plan for det fremtidige behov for transmissionskapacitet i det sammenhængende elforsyningssystem og transmissionsforbindelser til andre net.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id180233c5-aa36-4bb2-a919-cdec469cb163" formaInd="Nummer">
+                    <Explicatus>10)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Sikre nødvendig om- og nybygning af transmissionsnet i overensstemmelse med transmissionsnetplanlægningen, jf. nr. 9.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id3b74e447-ae39-4b11-8231-8be653dcfa1e">
+          <Exitus>
+            <Linea>
+              <Char>Nr. 10-15 bliver herefter nr. 11-16.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="idd7c7af21-d280-44b7-bb58-f5a6311ae2d5">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="id66dfac9a-d736-4cc0-93cf-45e5fe9a9796">
+          <AendringDefinition id="id0ccc9a1c-d0ee-4f8d-90cb-1cf0753c169f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 28, stk. 2, nr. 14,</Char>
+                <Char> der bliver nr. 15, udgår »og 8«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6fc01a59-265a-489b-a222-9f1a9f87dcf1" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide8f6dd7d-a883-4e74-95a6-f958af2fa625">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="id19ca5581-5e15-457b-95b1-ae9e7834eea8">
+          <AendringDefinition id="id94cbbe73-d931-4c55-bb23-5fa8d8d72905">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 31, stk. 3, 1. pkt.,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9afef82c-214b-483e-a6a5-9550ad7315a6" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Energinet.dk kan meddele påbud til brugere, der groft eller gentagne gange tilsidesætter vilkår efter stk. 2.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Ved manglende opfyldelse af et påbud kan Energinet.dk træffe afgørelse om, at brugeren helt eller delvis udelukkes fra at gøre brug af Energinet.dk᾽s ydelser, indtil vilkåret opfyldes.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9f7dbb69-37d2-4a8f-90af-151b3f046914">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="ide1b1ff88-31d4-4e50-a9ea-db3358c7cd73">
+          <AendringDefinition id="id2e1cbdcd-d324-4cd3-b038-e7764fb5d3da">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 49</Char>
+                <Char> indsættes efter »denne lov,«: »herunder elafgifter og betaling af omkostninger til offentlige forpligtelser, jf. § 8, stk. 1, som faktureres efter § 72 b, stk. 1, 2. pkt., og § 72 d, stk. 1, 2. pkt.,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7eab25ca-21b6-40ab-8243-ca56246210e2" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idbfd9eb67-405f-40f5-8377-cac0584d9a0f">
+        <Explicatus>14.</Explicatus>
+        <Aendring id="id3f014ba3-488a-4ca5-a986-5a989b40fb74">
+          <AendringDefinition id="id4a6898ff-a3e9-4f82-8956-61628ff6eee5">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 70, stk. 1, 1. pkt.,</Char>
+                <Char> ændres »stk. 2« til: »stk. 2 og 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida5d1629e-135c-4d30-bc50-663faa23d313" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idfbe70f26-b7df-4667-987b-d5a19f13fed0">
+        <Explicatus>15.</Explicatus>
+        <Aendring id="id9a509aec-8705-410f-9363-0a849d433e49">
+          <AendringDefinition id="id049df158-8340-4a79-8651-aff737eeba13">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 70</Char>
+                <Char> indsættes efter stk. 2 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd4a97135-61af-45a2-bfc2-d9893cafd30b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id1b4d8fc5-5a9a-48fe-9cf3-3c948d7cf9b7">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved tab, som er en følge af en elhandelsvirksomheds manglende betaling af beløb, der er faktureret i henhold til § 72 d, stk. 1, 1. og 2. pkt., hæves netvirksomhedens indtægtsramme med et beløb svarende til tabet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Indtægtsrammen hæves i det reguleringsår, hvor tabet er regnskabsført.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Modtager netvirksomheden efterfølgende et beløb, der helt eller delvis dækker det skyldige beløb, fra elhandels‍virksomheden eller virksomhedens konkursbo, reduceres indtægtsrammen med det modtagede beløb i det reguleringsår, hvor beløbet regnskabsføres.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id44db6572-86ca-49d3-a0cf-f109fd7c7066">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3-13 bliver herefter stk. 4-14.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id23222c00-33d8-4e76-b7d4-58c791c42972">
+        <Explicatus>16.</Explicatus>
+        <Aendring id="idb696727d-6abd-465d-bb75-83de158c9237">
+          <AendringDefinition id="id442edf33-04fa-49dc-8724-07f6ac4549c2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 70, stk. 7, 2. pkt.,</Char>
+                <Char> der bliver stk. 8, 2. pkt., ændres »§ 70, stk. 3.« til: »§ 70, stk. 4.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9d841fa2-0083-4def-b110-e42dc86bee41" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id85961ce9-193f-4dd6-909f-95f01906437f">
+        <Explicatus>17.</Explicatus>
+        <Aendring id="idfc670155-ae82-4993-a791-b7a30720ea39">
+          <AendringDefinition id="idc5a3faf1-574c-4c2f-a45c-f96b1fbcfe27">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§§ 71 a-73</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id434d1980-3201-4bef-bbdd-4c2f5d0420a0" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="idd9025066-dabe-457a-94d8-d6e22e2c5737" localId="1">
+                <Explicatus>§ 72 a.</Explicatus>
+                <Stk id="idb52e13d1-510b-4ab0-995c-41190af558ea">
+                  <Exitus>
+                    <Linea>
+                      <Char>En elhandelsvirksomhed skal være registreret som bruger af datahubben i henhold til vilkår fastsat af Energinet.dk i medfør af § 31, stk. 2, for at kunne varetage sine opgaver efter stk. 2-5, § 8, stk. 5, og §§ 72 b-72 d.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Stk id="idf89b7299-1fea-415f-91bf-52804520b155">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Elhandelsvirksomheden skal udføre informationsaktiviteter for at sikre gennemsigtighed om markedsforholdene for alle forbrugergrupper, herunder informere om husholdningsforbrugernes rettigheder i henhold til leveringspligten efter § 6 b.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc8ababbb-d131-47b2-aa9f-5a298cde75f7">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Elhandelsvirksomheden skal give den enkelte forbruger informationer om elforbruget og udviklingen i dette.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For fjernaflæste aftagenumre skal oplysninger om faktisk målt forbrug og fakturering i medfør heraf som minimum fremsendes til elforbrugeren fire gange om året og senest 2 måneder efter udgangen af en 3-månedersperiode.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1e121432-efe6-44aa-a70a-8f69071c1217">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Elhandelsvirksomheden skal behandle klager fra forbrugere og sikre en døgnservice, der formidler kontakt til den relevante netvirksomhed og Energinet.dk om nettekniske forhold.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id92b459fa-746d-43af-8e9e-abaa3221e00c">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Elhandelsvirksomheden skal sikre, at der til enhver tid findes relevante og korrekte oplysninger om alle virksomhedens produkter, herunder priser og vilkår, på virksomhedens hjemmeside.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Elhandelsvirksomheden skal tillige indberette disse oplysninger til den i § 82 b nævnte prisportal, så længe prisportalen drives under Energitilsynets ansvar.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id701cbff7-350f-499b-a2ca-12d5021b9f4d">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klima-, energi- og bygningsministeren kan meddele påbud til en elhandelsvirksomhed, der groft eller gentagne gange misligholder forpligtelserne nævnt i stk. 2-5.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved manglende opfyldelse af et påbud kan klima-, energi- og bygningsministeren fratage elhandelsvirksomheden retten til at være registreret i datahubben.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Fratages elhandelsvirksomheden retten til at være registreret i datahubben, overføres elhandelsvirksomhedens aftagenumre uden forsinkelse af Energinet.dk til andre elhandelsvirksomheder efter § 72 e.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Elhandelsvirksomheden kan registreres på ny, hvis den på et senere tidspunkt kan godtgøre, at den opfylder kravene i stk. 2-5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id603979bd-09ef-4125-9fc8-2a40ea1f93e3">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klima-, energi- og bygningsministerens afgørelse efter stk. 6, 2. pkt., kan af den virksomhed, som afgørelsen vedrører, forlanges indbragt for domstolene.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anmodning herom skal fremsættes over for klima-, energi- og bygningsministeren, inden 4 uger efter at afgørelsen er meddelt virksomheden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Afgørelsen skal indeholde oplysninger herom.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Klima-, energi- og bygningsministeren anlægger sag mod den pågældende virksomhed efter retsplejelovens regler om borgerlige sager.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Domstolsprøvelsen har ikke opsættende virkning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3c1c94c6-68e8-4576-aaf9-db5cdb9f71e5">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Energitilsynet fører tilsyn med elhandelsvirksomhedernes overholdelse af stk. 5.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Overholder en elhandels‌virksomhed ikke stk. 5, kan Energitilsynet meddele pålæg om omgående berigtigelse af forholdet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Misligholder elhandelsvirksomheden groft eller gentagne gange sine forpligtelser efter stk. 5, orienterer Energitilsynet klima-, energi-, og bygningsministeren herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id45f790fa-506a-4f66-993e-156c7270505e">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klima-, energi- og bygningsministeren fastsætter nærmere regler om gennemførelsen af bestemmelserne i stk. 2-5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Paragraf id="idbc7bd539-7321-4b4f-b487-61f159dd02f1" localId="2">
+                <Explicatus>§ 72 b.</Explicatus>
+                <Stk id="id6939f037-b023-4737-ae8c-0980dac68b66">
+                  <Exitus>
+                    <Linea>
+                      <Char>Elhandelsvirksomheden køber net- og systemydelser af netvirksomhederne og Energinet.dk.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Elhandelsvirksomheden fakturerer forbrugerne for levering af elektricitet, herunder net- og systemydelser, jf. § 8, stk. 2-4, omkostninger til offentlige forpligtelser, jf. § 8, stk. 1, elafgifter i henhold til lov om afgift af elektricitet og moms i henhold til momsloven.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Elafgifter og betaling af omkostninger til offentlige forpligtelser, jf. § 8, stk. 1, viderefaktureres uændret til det relevante aftagenummer.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Endvidere viderefaktureres netvirksomheders bindende midlertidige prisnedsættelser uændret til de relevante aftagenumre.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id6fcb8e40-1297-4037-820d-2bdf50e11171">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Energinet.dk indberetter oplysninger om afgiftssatser for elafgifter efter lov om afgift af elektricitet til datahubben.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id9b5875ea-4103-40fb-a789-a3b53cff5153">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Elhandelsvirksomheden sikrer, at forbrugerne uden beregning kan indhente information i datahubben om forbruget på eget aftagenummer.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="idef5438b0-0c90-4173-bad2-20ee37aaebe8" localId="3">
+                <Explicatus>§ 72 c.</Explicatus>
+                <Stk id="idf4f358a9-2e3c-4832-a3ec-6ac9a0dc20b5">
+                  <Exitus>
+                    <Linea>
+                      <Char>Kommunikation mellem en elhandelsvirksomhed og netvirksomhederne og Energinet.dk om forhold, der ved‍rører et konkret aftagenummer, sker via datahubben i henhold til forskrifter udstedt af Energinet.dk i medfør af § 28, stk. 2, nr. 13.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>I særlige tilfælde, der fastlægges i Energinet.dk᾽s forskrifter i medfør af § 28, stk. 2, nr. 13, hvor elhandelsvirksomheden har behov for en dialog vedrørende konkrete problemstillinger om målinger, fakturering, af‍brydelser el.lign., vil der kunne ske direkte kommunikation om enkelte aftagenumre, der involverer både en elhandelsvirksomhed og en netvirksomhed.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id7d58db32-db63-4a09-8761-1b09438c6d34">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Elhandelsvirksomheden indberetter data til datahubben vedrørende identifikation af forbrugeren på et givent aftagenummer, som elhandelsvirksomheden har indgået aftale med.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id3012afc1-f63a-480d-a5a2-93c43970c612">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ophæver eller opsiger en elhandelsvirksomhed sit aftaleforhold med en forbruger, indberetter elhandelsvirksomheden ophævelsen eller opsigelsen af aftaleforholdet til datahubben.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id9390bc75-7f0c-40e0-8b86-0c05d838c387">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ophører et aftaleforhold mellem en elhandelsvirksomhed og en elforbruger, oplyses den relevante netvirksomhed via datahubben om dato for aftalens ophør.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Netvirksomheden skal herefter sikre, at der foretages slutmåling hos forbrugeren.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id00691adf-95e9-4c69-9e91-26ed9f0f1a67">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Elhandelsvirksomheden indhenter via datahubben oplysning om forbrug og tarifoplysninger m.v. på hvert enkelt aftagenummer, som er omfattet af en aftale med elhandelsvirksomheden.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Elhandelsvirksomheden kan endvidere indhente oplysning om det summerede forbrug og om den samlede betaling herfor til hver enkelt netvirksomhed og Energinet.dk.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Forbruget af elektricitet opgøres ud fra målte eller beregnede data.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="iddbb2ef5a-8cde-4fd3-88a7-e7678cd52580">
+                  <Explicatus>Stk. 6.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Årsafregning, periodisk slutafregning og slutafregning ved ophør af et aftaleforhold sker ud fra målte data.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Er det ved afregningen ikke muligt at foretage måleraflæsning, skal netvirksomheden indberette oplysning til datahubben om et skønnet forbrug i henhold til Energinet.dk’s forskrifter.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>For meget betalte acontobeløb tilbageføres til forbrugeren samtidig med årsafregningen eller slutafregningen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="id33cbad00-929d-49f2-beac-eacd6bf71281" localId="4">
+                <Explicatus>§ 72 d.</Explicatus>
+                <Stk id="idf768f522-eed8-4c57-a231-4e3b955a39b0">
+                  <Exitus>
+                    <Linea>
+                      <Char>Netvirksomheden og Energinet.dk fakturerer elhandelsvirksomheden for deres ydelser ud fra det samlede forbrug i en måned og betalingen på elhandelsvirksomhedens aftagenumre.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Netvirksomheden fakturerer ligeledes elhandelsvirksomheden for elafgift, som netvirksomheden skal svare efter lov om afgift af elektricitet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Energinet.dk fakturerer endvidere elhandelsvirksomheden for betaling for omkostninger i medfør af § 8, stk. 1, og for elafgift, som Energinet.dk skal svare efter lov om afgift af elektricitet, for elforbrugere, som er direkte tilsluttet transmissionsnettet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id5a99eadc-62c0-47f5-87b8-3bcafb5dfd68">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Faktureringerne efter stk. 1 skal ske med en betalingsfrist på mindst 14 dage fra datoen for fakturaens udstedelse, dog tidligst 25 dage regnet fra forbrugsmånedens udgang.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id77d1e9b4-cfc3-4505-8015-2d33a0eab138">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Netvirksomheden skal fakturere elhandelsvirksomheden, jf. stk. 1, 1. og 2. pkt., senest 5 hverdage efter at netvirksomheden har modtaget grundlaget for engrosafregningen herfor fra datahubben.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Energinet.dk skal sikre, at grundlaget for engrosafregningen er tilgængeligt for netvirksomhederne og elhandelsvirksomhederne i datahubben hurtigst muligt i måneden efter forbrugsmåneden og senest på et tidspunkt, som fastsættes i Energinet.dk᾽s forskrifter.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id8eb202cd-7e6e-4569-99f5-7f8d2dbc615f">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Afbryder en netvirksomhed eller Energinet.dk sin ydelse til en elhandels­virksomhed i henhold til betingelser for anvendelse af transmissions- og distributionsnet, der er fastsat efter offentliggjorte og af Energitilsynet godkendte metoder, jf. § 73 a, overføres elhandelsvirksomhedens aftagenumre, der i datahubben er knyttet til netvirksomheden eller til Energinet.dk, uden forsinkelse af Energinet.dk til andre elhandelsvirksomheder efter proceduren i § 72 e.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idd382211e-bb99-4d84-9e6a-c64c4702181c">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Tages en elhandelsvirksomhed under rekonstrukti‌ons- eller konkursbehandling, og har rekonstruktør eller kurator ikke inden for 1 uge derefter meddelt Energinet.dk, at elhandels­virksomheden videreføres, overfører Energinet.dk uden forsinkelse elhandelsvirksomhedens aftagenumre til andre elhandelsvirksomheder efter § 72 e.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Rekonstruktør eller kurator skal hurtigst muligt og senest inden for 1 uge efter insolvensbehandlingens indledning meddele Energinet.dk, om elhandelsvirksomheden videreføres.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="idfe13e78d-dea4-439a-b352-8bd9fe19dd94" localId="5">
+                <Explicatus>§ 72 e.</Explicatus>
+                <Stk id="id9fa8f95c-3a44-4197-90a7-7c3d551f5f18">
+                  <Exitus>
+                    <Linea>
+                      <Char>Energinet.dk indhenter en gang årligt i perioden den 1.-15. december tilkendegivelser fra elhandelsvirksomhederne om deres ønsker om at overtage et antal aftagenumre ved indtræden af en eller flere af de hændelser, der er nævnt i § 72 a, stk. 6, og § 72 d, stk. 4 og 5, med angivelse af eventuelle begrænsninger på det maksimale antal aftage‍numre og på elforbrugere med forbrug på op til 100.000 kWh om året eller på 100.000 kWh om året og derover.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Tilkendegivelsen er gældende for 1 kalenderår.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Elhandelsvirksomhederne kan dog trække deres tilkendegivelser tilbage, når der ikke er indtrådt en eller flere af de hændelser, der er nævnt i § 72 a, stk. 6, og § 72 d, stk. 4 og 5, eller er indgivet konkursbegæring mod en anden elhandelsvirksomhed.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id834a0700-bda3-4c43-8da8-a42d37894dbe">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Energinet.dk sikrer, at aftagenumre med forbrug på 100.000 kWh om året og derover kan identificeres i datahubben.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id9affe19a-fb4e-4f63-a80e-108677b04621">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ophører en elhandelsvirksomheds leverancer som følge af indtræden af en eller flere af de hændelser, der er nævnt i § 72 a, stk. 6, og § 72 d, stk. 4 og 5, identificerer Energinet.dk uden ugrundet ophold elhandelsvirksomhedens aftagenumre i datahubben og fordeler aftagenumrene via datahubben på de elhandelsvirksomheder, der er tilmeldt, jf. stk. 1.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Elhandelsvirksomhederne kan ikke afvise de tildelte aftagenumre.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idfa45e8d7-8b0c-4385-b679-6184bf10c424">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Energinet.dk giver uden ugrundet ophold via datahubben meddelelse til de overtagende elhandelsvirksomheder og berørte netvirksomheder om det gennemførte leverandørskift for de fordelte aftagenumre, jf. stk. 3.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id5ff0d1ba-ba34-49e7-99b3-b743a987dab2">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Elhandelsvirksomhederne giver uden ugrundet ophold meddelelse til hver enkelt af de elforbrugere, hvis aftagenumre elhandelsvirksomhederne har fået tildelt efter stk. 3.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Meddelelsen skal indeholde oplysninger om navnet på elhandelsvirksomheden, begrundelsen for, at elforbrugeren er overdraget til denne virksomhed, og en leveringsaftale i henhold til regler udstedt efter § 6 a.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Bindingsperiode og pris fastsættes efter stk. 6 og § 72 f.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id404313be-58cc-4590-8d68-7df77c545727">
+                  <Explicatus>Stk. 6.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Leveringsaftalen, jf. stk. 5, er bindende for elhandelsvirksomheden i 3 måneder fra overtagelsestidspunktet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Elforbrugeren kan opsige aftalen med 1 måneds varsel til udgangen af en måned, jf. dog stk. 7.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Leveringsaftalen er bindende uden elforbrugerens accept.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id07099aea-d092-4a26-803a-29a55a57096b">
+                  <Explicatus>Stk. 7.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Er der for et aftagenummer aftalt leverandørskift inden tidspunktet for fordelingen efter stk. 3, udløber leveringsaftalen efter stk. 6 senest på tidspunktet for det aftalte leverandørskift.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="ide4a27e08-7ac8-45dc-b110-10356c06a4fc">
+                  <Explicatus>Stk. 8.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Når meddelelse om leverandørskift, jf. stk. 4, er modtaget fra Energinet.dk, foretager netvirksomhederne uden ugrundet ophold slutmåling på de berørte aftagenumre, jf. § 72 c, stk. 4.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id7fae2e40-e9ce-441f-ad5c-b2b1fdaf6398">
+                  <Explicatus>Stk. 9.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Klima-, energi- og bygningsministeren kan pålægge den eller de største elhandels­virksomheder regnet efter antal aftagenumre at indtræde som leverandører, hvis der opstår et akut behov ved indtræden af en eller flere af de hændelser, der er nævnt i § 72 a, stk. 6, og § 72 d, stk. 4 og 5, og Energinet.dk ikke har modtaget tilstrækkelig mange tilkendegivelser efter stk. 1 til at dække behovet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Stk. 3-7 og § 72 f finder tilsvarende anvendelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id6d85eccc-13e9-4246-aafd-7af465da26ee">
+                  <Explicatus>Stk. 10.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Klima-, energi- og bygningsministeren fastsætter nærmere regler om fordelingen af aftagenumre, herunder fastlæggelse af en fordelingsnøgle, der ud fra et tilfældighedsprincip sikrer en ligelig fordeling af aftagenumrene mellem de tilmeldte elhandelsvirksomheder under hensyn til elhandelsvirksomhedernes tilkendegivelser efter stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="idccc666aa-50dd-4291-8f41-cf0c4839d641" localId="6">
+                <Explicatus>§ 72 f.</Explicatus>
+                <Stk id="id8af64675-05d4-4086-8b4d-6dbdcbc94c94">
+                  <Exitus>
+                    <Linea>
+                      <Char>For timemålte aftagenumre, der aftager elektricitet efter § 6 c, stk. 7, eller § 72 e, stk. 5, fastsættes en pris svarende til Nord Pool Spots timepris pr. kWh på elspot i det prisområde, hvor elforbrugeren aftager sin elektricitet, med et tillæg, der er fastsat af Energitilsynet efter stk. 3.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>For ikketimemålte aftagenumre, der aftager elektricitet efter § 6 c, stk. 7, eller § 72 e, stk. 5, fastsættes en pris svarende til Nord Pool Spots dagspris pr. kWh på elspot i det prisområde, hvor elforbrugeren aftager sin elektricitet, med et tillæg, der er fastsat af Energitilsynet efter stk. 3.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Elspotpriser tillægges endvidere net- og systemtariffer, betaling for omkostninger i medfør af § 8, stk. 1, elafgifter i henhold til lov om afgift af elektricitet og moms i henhold til momsloven.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="iddf22ff0e-12fa-4679-b9e7-cb7e5f6498ab">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Energitilsynet skal sikre, at priserne efter stk. 1 offentliggøres på den prisportal, der er nævnt i § 82 b.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id24cffdbc-6588-4543-8f38-93492ab461dd">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Energitilsynet fastlægger senest den 1. december hvert år de tillæg, der er nævnt i stk. 1, 1. og 2. pkt., for det følgende kalenderår.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Tillæggene skal være udtryk for niveauet for de tillæg, der anvendes på markedet i forhold til elspotprodukter for forbrug på op til 100.000 kWh om året</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Linea>
+                      <Char>eller på 100.000 kWh om året og derover.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="id16f5f504-2fe8-46c6-9014-06d9abf4b40b" localId="7">
+                <Explicatus>§ 73.</Explicatus>
+                <Stk id="idc25648eb-a8f7-4da1-8294-27b4679b58c1">
+                  <Exitus>
+                    <Linea>
+                      <Char>De kollektive elforsyningsvirksomheders prisfastsættelse af deres ydelser efter §§ 69-71 skal ske efter rimelige, objektive og ikkediskriminerende kriterier for, hvilke omkostninger de enkelte køberkategorier giver anledning til.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Prisdifferentiering af hensyn til effektiv udnyttelse af elnettet og til forsyningssikkerhed er tilladt.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Prisdifferentiering på baggrund af en geografisk afgrænsning er kun tilladt i særlige tilfælde.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id49f60b10-af5d-4970-b9fa-3030943ec9ba">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>De kollektive elforsyningsvirksomheder skal offentliggøre tariffer og betingelser for brug af elnettet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb8b2dba2-c294-40f2-b120-b62fd0361560">
+        <Explicatus>18.</Explicatus>
+        <Aendring id="idcd142ff2-3dac-4616-8767-11aa259e134a">
+          <AendringDefinition id="id2df572c5-2fda-4aef-bfe8-e2f2d281d2a0">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 82, stk. 6,</Char>
+                <Char> ophæves </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">1. pkt.,</Char>
+                <Char> og i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.,</Char>
+                <Char> der bliver 1. pkt., udgår »regler om, hvorledes sådanne forhold skal offentliggøres af virksomhederne, herunder også af elhandels‍virksomhederne, og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id387fe28a-46e6-4094-8659-68b680142d5b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idbf7eb7f2-cfa2-4f0f-bd4f-e5a50267cac0">
+        <Explicatus>19.</Explicatus>
+        <Aendring id="idcc5bcb30-f381-4ee9-b8e8-c05be5573ba6">
+          <AendringDefinition id="id401fee1f-04ae-428d-ae0e-c9f63f982a8b">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 82 a</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1b1dd1a0-668b-4dd7-93e2-481e9b50ff17" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id1f9bdc2d-c1fb-497f-9d78-e5234e568a3d" localId="8">
+                <Explicatus>§ 82 a.</Explicatus>
+                <Stk id="id44a10cdd-f9f8-4365-9398-099c264d1f61">
+                  <Exitus>
+                    <Linea>
+                      <Char>Energitilsynet foretager årlige undersøgelser af elpriser for elforbrugere med et forbrug på op til 100.000 kWh om året og vurderer, om priserne er rimelige, let og klart sammenlignelige, gennemsigtige og ikkediskriminerende.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Resultatet af undersøgelserne offentliggøres på Energitilsynets hjemmeside.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id2e307ff3-b0f8-47b8-b1d9-fffae0d3c3ed">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Til brug for undersøgelser af elpriser for elforbrugere efter stk. 1 kan Energitilsynet pålægge elhandelsvirksomhederne at markere bestemte produkter i forbindelse med indberetning af priserne i den prisportal, som er nævnt i § 82 b, stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id1bfe5400-bb29-4e7e-894d-222f4dc28291">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Træffes der beslutning om, at den i § 82 b, stk. 1, nævnte prisportal skal lukkes eller sælges, jf. § 82 b, stk. 3, kan Energitilsynet til brug for sine undersøgelser af forbrugerpriserne efter stk. 1 pålægge elhandelsvirksomhederne at indberette deres elpriser for forbrugere med et forbrug på op til 100.000 kWh om året til Energitilsynet og ved indberetningen at markere bestemte produkter.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id28ab4d81-c5c7-43ff-9cfe-55d620817b5c">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Energitilsynet kan fastsætte nærmere regler om indberetninger efter stk. 3.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="id5e5d9c6d-bb19-449c-9dc1-d0cc69675a2a" localId="9">
+                <Explicatus>§ 82 b.</Explicatus>
+                <Stk id="id80d4f4d5-0e8c-43d6-bde4-bf8f87ff71df">
+                  <Exitus>
+                    <Linea>
+                      <Char>Energitilsynet har ansvaret for etablering og drift af en prisportal for elpriser, rabatter og vilkår på det danske elmarked for forbrugere med et forbrug på op til 100.000 kWh om året.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Prisportalen skal være gratis og offentligt tilgængelig på internettet og sikre gennemsigtighed, hvad angår elpriser, rabatter og vilkår.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id6e81ef36-7b19-4a53-aa0e-68985a81fdab">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Energitilsynet kan udbyde opgaven nævnt i stk. 1 til en uvildig tredjepart, som har det fornødne markedskendskab.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id1d21c39c-4a5f-4dfb-9c13-a29f1003ee15">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Efter den 1. oktober 2018 kan klima-, energi- og bygningsministeren træffe beslutning om, at prisportalen skal lukkes eller sælges, hvis Energitilsynet vurderer, at der ikke længere er behov for prisportalen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idfffe54de-5327-4a66-a238-0ab3c922d24c">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Energitilsynet kan fastsætte nærmere regler om elhandelsvirksomhedernes indberetninger efter § 72 a, stk. 5, og § 82 a, stk. 2.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="idd9a912cb-039f-4ca9-9f0a-016604f36af9" localId="10">
+                <Explicatus>§ 82 c.</Explicatus>
+                <Stk id="id93b74dc0-2e9a-4c31-be59-bad87d796941">
+                  <Exitus>
+                    <Linea>
+                      <Char>Energitilsynet fører en årlig statistik over forsyningsafbrydelser og begrundelserne herfor.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Statistikken offentliggøres på Energitilsynets hjemmeside.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idde719695-d771-49b3-9596-5eafd4a5376e">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Energitilsynet kan fastsætte nærmere regler om elhandelsvirksomhedernes indberetninger af forsynings‍‍af‍brydelser og begrundelserne herfor efter § 20 c, stk. 2.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="ide6438448-07e1-48b0-8b89-39c63d131433">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 575 af 18. juni 2012 om ændring af lov om elforsyning, lov om naturgasforsyning og lov om Energinet.dk (Fremme af konkurrencen på elmarkedet m.v.), som ændret ved § 4 i lov nr. 641 af 12. juni 2013 og § 4 i lov nr. 633 af 16. juni 2014, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id98d35809-0b68-4409-9634-cd28460f789e">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="ida1cedbe0-4a7b-44fe-a380-d8f593034057">
+          <AendringDefinition id="id377490a0-9679-4fdf-b0b3-288c1ae96e4b">
+            <Exitus>
+              <Linea>
+                <Char>Tre steder i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4, stk. 3, 1. pkt.,</Char>
+                <Char> ændres »1. oktober 2015« til: »1. april 2016«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb592d6d5-1719-4322-afcf-df300de76d1a" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idf905a6e0-49ec-43a8-b0d3-dcf899045291">
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 633 af 16. juni 2014 om ændring af lov om elforsyning, lov om naturgasforsyning og lov om Energinet.dk (Ophævelse af forsyningspligten, indførelse af leveringspligt, udskydelse af engrosmodellen, naturgasselskabers anvendelse af økonomiske kompensationer, Energinet.dk’s fusion med datterselskaber m.v.) foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id51003bea-ecb0-445a-a42d-2f4eaab8197d">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id63519936-1df0-4976-9983-5458a5b71919">
+          <AendringDefinition id="id8f4628b9-4b56-49aa-8836-572137d987e9">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, nr. 2-6, 17, 19, 26, 44</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">50,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4ac27eaa-7de4-4bb4-b644-9577dd4e93e1" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idc5007d96-cc2e-42a5-94d2-4e802e5ad1b2">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id977233e3-a3a9-4699-bbd4-27aabe7048c4">
+          <AendringDefinition id="id2715d878-9f1e-4b6a-bfd4-0eeb6f7a9306">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5, stk. 4,</Char>
+                <Char> ændres »nr. 2-7« til: »nr. 7«, »15, 17, 19, 21, 26, 27, 32, 33, 35-37, 41, 43, 44, 47, 48 og 50-52« ændres til: »15, 21, 27, 32, 33, 35-37, 41, 43, 47, 48, 51 og 52«, og »1. oktober 2015« ændres til: »1. april 2016«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide2263247-95fd-4b85-bafc-8912e343d446" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf3a1aaa4-6d73-437e-ba90-68e64a5e487d">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id19ce9b84-268b-4afd-8b79-2c24c261ef3c">
+          <AendringDefinition id="id36a3e1c3-8cc7-4abe-8d59-21903069d293">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 7</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idbec49a8f-8359-4bca-bd04-eb5c35a521f5" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1c7d7b2a-0870-461d-ac21-930983197cc7">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="idd63b2951-f07a-496d-995e-2645ca9ecd35">
+          <AendringDefinition id="idf4a2a405-b5b5-40ea-be1d-2e76b4a895a4">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 8, stk. 1, 1. pkt., § 8, stk. 2, 1. pkt., § 8, stk. 4,</Char>
+                <Char> to steder i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 8, stk. 6, 1. pkt.,</Char>
+                <Char> og i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 10</Char>
+                <Char> ændres »1. oktober 2015« til: »1. april 2016«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf463fb0b-9e53-456e-a9d9-e23d48df170d" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida58cece1-bb6b-4869-980b-04199dcc8506">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id8dbdaf68-65cb-44c4-81bc-66595ae35326">
+          <AendringDefinition id="id64c0668b-0736-46e6-9fe0-d5b4b4acb3b1">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 8, stk. 1, 1. pkt.,</Char>
+                <Char> udgår »4, 5,«, og i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 8, stk. 2,</Char>
+                <Char> udgår »og § 72 c, stk. 3, i lov om elforsyning som affattet ved denne lovs § 1, nr. 44,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9baa7ec5-31a2-4909-a805-fa325f152c00" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id625d612f-8a3c-4ff3-9e62-17d8bff13c93">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id1d427d72-b290-4c39-9d3e-5a40e5eec608">
+          <AendringDefinition id="id13876e0b-cc46-48c8-876b-f7db704541d4">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 8, stk. 3, 5</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">7,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 9</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id88f4684a-62b2-43ff-b7d6-4bf3dfd4248b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id87b6fef4-6ced-4650-af76-adfd3e7292c9">
+      <Explicatus>§ 4</Explicatus>
+      <Stk id="idd60f06a6-e75b-431e-9169-f5f2acad8667">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 15. maj 2015, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id72c45859-3d56-402e-9d90-a2514c7ca96f">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1 træder i kraft den 1. april 2016.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="ida98283dc-4eea-4c8e-81a2-0e97ebb6c0b5">
+      <Explicatus>§ 5</Explicatus>
+      <Stk id="idb6306fdd-a2dd-4732-8ac3-32b5e0c32243">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Med virkning fra den 1. januar 2017 reducerer Energitilsynet netvirksomhedernes reguleringspriser varigt, således at beløb, som den enkelte netvirksomhed ved opgørelsen af reguleringsprisen for reguleringsåret 2004 har indtægtsført til tab på debitorer, ikke indgår.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id6f011aeb-4a5e-4e71-8957-185a67532e13">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Energitilsynet opgør reduktionen efter stk. 1 på grundlag af oplysninger fra virksomhederne med udgangspunkt i regnskabsmateriale for regnskabsåret 2004.</Char>
+          </Linea>
+          <Linea>
+            <Char>Oplysningerne indsendes efter Energitilsynets nærmere retningslinjer, herunder om fristen for indgivelse af oplysninger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idb4fea891-4005-40f7-bb42-62863defdeff">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Overholder en virksomhed ikke fristen for indsendelse af de nødvendige oplysninger, eller afgiver den mangelfulde oplysninger til brug for opgørelse af reduktionen, kan Energitilsynet skønsmæssigt fastsætte beløbet for reduktionen.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idbdad915e-e01b-431b-b104-23ba176de6f3">
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Energitilsynet korrigerer reduktionsbeløbet med virkning fra den 1. januar 2017, hvis en virksomhed senest den 31. august 2017 indsender de nødvendige oplysninger, som medfører en væsentlig ændring af det efter stk. 3 skønsmæssigt fastsatte reduktionsbeløb.</Char>
+          </Linea>
+          <Linea>
+            <Char>Ændringen er væsentlig, hvis de indsendte oplysninger vil medføre en ændring af reduktionsbeløbet på 10 pct. eller mere.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="idf078545f-317c-4d50-bd63-810791d6a2de">
+      <Explicatus>§ 6</Explicatus>
+      <Stk id="idf6af4c45-613d-4158-b9fb-3181a0d308b2">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>I perioden den 1.-15. marts 2016 indhenter Energinet.dk tilkendegivelser fra elhandelsvirksomheder, der svarer til tilkendegivelser i henhold til § 72 e, stk. 1, 1. pkt., i lov om elforsyning som affattet ved denne lovs § 1, nr. 17.</Char>
+          </Linea>
+          <Linea>
+            <Char>Tilkendegivelserne er gældende i perioden fra den 1. april til den 31. december 2016.</Char>
+          </Linea>
+          <Linea>
+            <Char>§ 72 e, stk. 1, 3. pkt., i lov om elforsyning som affattet ved denne lovs § 1, nr. 17, finder tilsvarende anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="ide0578c85-f3c3-496a-ba79-6c563d3f8e93">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>For perioden den 1. april til den 31. december 2016 fastlægger Energitilsynet senest den 1. marts 2016 tillæg, der svarer til tillæg fastsat i henhold til § 72 f, stk. 3, i lov om elforsyning som affattet ved denne lovs § 1, nr. 17.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="ide34e9240-9379-44c6-8392-d20aef188618">
+      <Explicatus>§ 7</Explicatus>
+      <Stk id="id42bdb918-e181-4880-9164-a1ad7e01d2a0">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 72 c, stk. 3, i lov om elforsyning som affattet ved denne lovs § 1, nr. 17, finder ikke anvendelse i områder, hvor der efter den 1. april 2016 fortsat findes en elhandels‍virksomhed med en gældende bevilling til forsyningspligtig virksomhed.</Char>
+          </Linea>
+          <Linea>
+            <Char>I disse områder finder § 72 c, stk. 3, jf. lovbekendtgørelse nr. 1329 af 25. november 2013, anvendelse, indtil bevillingens udløb.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id39201690-9504-4fa0-bd22-1a1a79c722c0">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>I områder, hvor der efter den 1. april 2016 fortsat findes en elhandelsvirksomhed med en gældende bevilling til forsyningspligtig virksomhed, omfatter elhandelsvirksomhedernes informationsforpligtelser efter § 72 a, stk. 2, i lov om elforsyning som affattet ved denne lovs § 1, nr. 17, tillige information om elforbrugerens rettigheder i relation til forsyningspligten i det pågældende område.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="ida26009a4-c503-4f43-b40d-62f85220e97b">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Får en elhandelsvirksomhed, der efter den 1. april 2016 fortsat har bevilling til forsyningspligtig virksomhed og tillige varetager elhandelsvirksomhed på markedsmæssige vilkår, efter den 1. april 2016 inddraget sin bevilling i medfør af § 54, stk. 1, nr. 1, i lov om elforsyning, jf. lovbekendtgørelse nr. 1329 af 25. november 2013, eller i medfør af § 54, stk. 1, nr. 2, i lov om elforsyning som ændret ved § 1, nr. 37, i lov nr. 633 af 16. juni 2014, skal virksomheden uden forsinkelse overføre elforbrugerne på de aftagenumre, hvortil virksomheden leverer elektricitet i sin egenskab af forsyningspligtig virksomhed, til et elprodukt, hvis bindingsperiode og pris svarer til § 72 e, stk. 6, og § 72 f i lov om elforsyning som affattet ved denne lovs § 1, nr. 17.</Char>
+          </Linea>
+          <Linea>
+            <Char>§ 72 e, stk. 5, i lov om elforsyning som affattet ved denne lovs § 1, nr. 17, finder tilsvarende anvendelse.</Char>
+          </Linea>
+          <Linea>
+            <Char>Varetager virksomheden ikke elhandelsvirksomhed på markedsmæssige vilkår, overfører Energinet.dk de pågældende aftagenumre uden forsinkelse til andre elhandelsvirksomheder efter § 72 e i lov om elforsyning som affattet ved denne lovs § 1, nr. 17, som finder tilsvarende anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id93c31205-0959-4b0e-af7e-b01ba8d32f4c">
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Elhandelsvirksomheder, hvis bevilling til forsyningspligtig virksomhed fortsat er gældende efter den 1. april 2016, skal inden bevillingens udløb underrette hver enkelt af de berørte elforbrugere om, at bevillingen udløber.</Char>
+          </Linea>
+          <Linea>
+            <Char>Underretningen skal ske senest 3 måneder før bevillingens udløb.</Char>
+          </Linea>
+          <Linea>
+            <Char>I underretningen skal elhandelsvirksomheden oplyse sine forsyningspligtkunder om leveringspligten, om elforbrugernes valgmuligheder og om mulighederne for at orientere sig om produkter og elhandelsvirksomheder på prisportalen nævnt i § 82 b i lov om elforsyning som affattet ved denne lovs § 1, nr. 19.</Char>
+          </Linea>
+          <Linea>
+            <Char>I underretningen skal elhandels‍virksomheden tilbyde de af forsyningspligtkunderne, der er husholdningsforbrugere, et elprodukt, der svarer til et elprodukt efter § 6 b, stk. 1-3, i lov om elforsyning som affattet ved § 1, nr. 8, i lov nr. 633 af 16. juni 2014.</Char>
+          </Linea>
+          <Linea>
+            <Char>Ønsker elhandelsvirksomheden at opretholde et kundeforhold til sine forsyningspligtkunder, der ikke er husholdningsforbrugere, efter bevillingens udløb, skal virksomheden i sin underretning tilbyde elforbrugeren fortsat levering af et elprodukt.</Char>
+          </Linea>
+          <Linea>
+            <Char>Produkter, der tilbydes elforbrugerne i medfør af 4. og 5. pkt., skal til enhver tid kunne opsiges af elforbrugeren med højst 1 måneds varsel til udgangen af en måned.</Char>
+          </Linea>
+          <Linea>
+            <Char>Elforbrugere, der ikke skifter til et andet produkt eller en anden elhandelsvirksomhed, forsynes fra tidspunktet for bevillingens udløb fra deres hidtidige elhandelsvirksomhed med et elprodukt på de vilkår, der er angivet i underretningen.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idf8a0c885-d0e3-409d-81bc-0af182496466">
+        <Explicatus>Stk. 5.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Elhandelsvirksomheder, hvis bevilling til forsyningspligtig virksomhed fortsat er gældende efter den 1. april 2016, kan ansøge klima-, energi og bygningsministeren om, at bevillingen bringes til ophør før bevillingens udløbsdato.</Char>
+          </Linea>
+          <Linea>
+            <Char>Imødekommes ansøgningen, finder stk. 4 tilsvarende anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="id9b12233e-5e0f-4ba4-985b-da88bdbdb682">
+      <Explicatus>§ 8</Explicatus>
+      <Stk id="ida6ee00da-2e56-4242-b73b-f5cae627675a">
+        <Exitus>
+          <Linea>
+            <Char>Elhandelsvirksomheder med en bevilling til forsyningspligtig virksomhed, som udløber inden den 1. april 2016, uden at der gennemføres et udbud for nyudstedelse af bevillingen i det pågældende bevillingsområde, skal inden bevillingens udløb underrette hver enkelt af de berørte elforbrugere om, at bevillingen udløber.</Char>
+          </Linea>
+          <Linea>
+            <Char>Underretningen skal ske senest 3 måneder før bevillingens udløb.</Char>
+          </Linea>
+          <Linea>
+            <Char>I underretningen skal elhandelsvirksomheden oplyse sine forsyningspligtkunder om leveringspligten, om elforbrugernes valgmuligheder og om mulighederne for at orientere sig om produkter og elhandelsvirksomheder på Elpristavlen eller på prisportalen nævnt i § 82 b i lov om elforsyning som affattet ved denne lovs § 1, nr. 19.</Char>
+          </Linea>
+          <Linea>
+            <Char>I underretningen skal elhandels‍virksomheden tilbyde de af forsyningspligtkunderne, der er husholdningsforbrugere, et elprodukt, der svarer til et elprodukt efter § 6 b, stk. 1-3, i lov om elforsyning som affattet ved § 1, nr. 8, i lov nr. 633 af 16. juni 2014.</Char>
+          </Linea>
+          <Linea>
+            <Char>Ønsker elhandelsvirksomheden at opretholde et kundeforhold til sine forsyningspligtkunder, der ikke er husholdningsforbrugere, efter bevillingens udløb, skal virksomheden i sin underretning tilbyde elforbrugeren fortsat levering af et elprodukt.</Char>
+          </Linea>
+          <Linea>
+            <Char>Produkter, der tilbydes elforbrugerne i medfør af 4. og 5. pkt., skal til en‍hver tid kunne opsiges af elforbrugeren med højst 1 måneds varsel til udgangen af en måned.</Char>
+          </Linea>
+          <Linea>
+            <Char>Elforbrugere, der ikke skifter til et andet produkt eller en anden elhandelsvirksomhed, forsynes fra tidspunktet for bevillingens udløb fra deres hidtidige elhandelsvirksomhed med et elprodukt på de vilkår, der er angivet i underretningen.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idc3475c73-fed4-43fa-ac5c-4593a7aebf25">
+    <UnderskriftStedDato id="idc3475c73-fed4-43fa-ac5c-4593a7aebf25" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="idc3475c73-fed4-43fa-ac5c-4593a7aebf25" />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,2703 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id5943a693-358e-47d9-80f6-dc14e9dd5c28" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id3a347ada-177c-48fd-a500-8383a50727c5">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150044729</AccessionNumber>
+    <DocumentId>BV000240</DocumentId>
+    <UniqueDocumentId>168962</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om andelsboligforeninger og andre boligfællesskaber</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-03-21</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-17</EndDate>
+    <Status>Valid</Status>
+    <Number>447</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 447 af 21/03/2015</DokumentKortNavn>
+    <PopularTitle>Andelsboligloven</PopularTitle>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Carsten Hansen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Frank Bundgaard</Signature>
+    <PlaceOfSignature>Ministeriet for By, Bolig og Landdistrikter</PlaceOfSignature>
+    <JournalNumber>Ministeriet for By, Bolig og Landdistrikter, j.nr. 2015-885</JournalNumber>
+    <Ministry>Erhvervs- og Vækstministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id8d5efba3-739b-41a9-94cc-3d651becb977">
+    <Titel id="id3e196b18-216f-4446-b552-ee8021380ed4">
+      <Linea>
+        <Char>Bekendtgørelse af lov om andelsboligforeninger og andre boligfællesskaber</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idd50762f3-8ad9-43c7-89b5-5753168de3b1">
+    <Indledning id="id5a57662d-4bbf-4728-a123-c62ad18c0184">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om andelsboligforeninger og andre boligfællesskaber, jf. lovbekendtgørelse nr. 1716 af 16. december 2010, med de ændringer, der følger af lov nr. 610 af 12. juni 2013, § 69 i lov nr. 526 af 28. maj 2014 og § 1 i lov nr. 1365 af 16. december 2014.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="id57f2ebfb-2dbd-4c9b-bd13-86392da80971">
+      <Afsnit id="idd173d0ef-29e1-4c7f-a838-3addf090260f" localId="1">
+        <Kapitel id="id04869da2-2001-4a18-bb7d-571464975d00" localId="1">
+          <Explicatus>Kapitel I</Explicatus>
+          <Rubrica id="id3a10d535-672e-4a93-b9c4-f855ff8791d8">
+            <Linea>
+              <Char>Lovens område</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id491770b8-ff67-4c80-a430-cbdcac623b15" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="ide4f7a196-95e4-4dc1-9c73-8cdf9e8b7cda">
+                <Exitus>
+                  <Linea>
+                    <Char>Denne lov finder anvendelse på ejendomme til helårsbeboelse med flere end 2 beboelseslejligheder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Lovens §§ 13 og 14 a finder endvidere anvendelse på ejendomme, hvorpå der alene findes 2 beboelseslejligheder i form af fritliggende eller sammenbyggede enfamilieshuse med eventuelt tilhørende småbygninger, såfremt udstykning er mulig.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb917d7b7-320c-46f3-8798-e82043bda741">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for ejendomme, som tilhører almene boligorganisationer, der er godkendt i medfør af lov om almene boliger samt støttede private andelsboliger m.v. eller tidligere love om boligbyggeri.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6f74ccb3-5186-4759-897b-183b4efc0237">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lovens regler om beboelseslejligheder finder også anvendelse, når en lejlighed delvis er udlejet til andet end beboelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id258dc9df-4214-466f-a5f3-8fa0af9d316f" localId="2">
+              <Explicatus>§ 1 a.</Explicatus>
+              <Stk id="ida73b4ca7-fe06-428d-95cd-ff343887d98c">
+                <Exitus>
+                  <Linea>
+                    <Char>Denne lov finder anvendelse på boligfællesskaber, hvorved forstås andelsboligforeninger, boligaktieselskaber, boliganpartsselskaber, boligsamejer, boliginteressentskaber, boligkommanditselskaber og andre selskaber, foreninger og fællesskaber, hvor der til deltagelse er knyttet brugsret til en beboelseslejlighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id14fcd8f2-ef37-480b-90dc-8053a23447fe" localId="2">
+          <Explicatus>Kapitel I A</Explicatus>
+          <Rubrica id="idb8da6e6d-f549-4c2a-b34a-7663f6dac120">
+            <Linea>
+              <Char>Oplysningspligt og fortrydelsesret ved salg af andele i andelsboligforeninger under stiftelse</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id13136cec-0ee0-4427-a63d-95e87fa1d6bb" localId="3">
+              <Explicatus>§ 1 b.</Explicatus>
+              <Stk id="id1e58d4c0-d0a3-4800-9270-f22d977e4f82">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved salg af en andel i en andelsboligforening, som er under stiftelse, skal sælgeren eller dennes repræsentant give erhververen fyldestgørende oplysninger om økonomi, hæftelsesforhold og øvrigt væsentlige forhold, som kan have betydning for erhververens beslutning om at købe en andel i den pågældende andelsboligforening under stiftelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sælgeren eller dennes repræsentant har endvidere pligt til i fornødent omfang at foretage undersøgelser samt indhente og kontrollere oplysninger efter 1. pkt. Oplysningerne skal gives, inden erhververen afgiver bindende købstilbud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2dfd3046-befa-47b1-b415-18cf583ff6b7">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhververen har ret til inden for en fortrydelsesfrist på 6 hverdage, der regnes fra det tidspunkt, hvor der foreligger et bindende købstilbud, at træde tilbage fra en aftale eller et bindende tilbud om køb af en andel i andelsboligforening, som er under stiftelse (fortrydelsesret).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbdf527f9-95ad-45a5-8f14-0544e885e6d8">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Fortrydelsesretten er betinget af,</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id4b4a93af-fd73-4fe6-8ba7-3cbe997cfc26">
+                  <Index>
+                    <Indentatio id="id40d0224b-954b-47e6-8503-f67be95b2b16" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>at erhververen har givet skriftlig underretning til sælgeren eller dennes repræsentant om, at erhververen ønsker at udnytte sin fortrydelsesret, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id270396ce-1297-43f0-9985-7d9dd75f776f" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>at denne underretning er kommet frem inden udløbet af fortrydelsesfristen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idb6b823d6-b2d6-466a-97b3-f62821276280">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhververen skal i et særskilt dokument have oplysning om fortrydelsesretten og om fortrydelsesfristens begyndelsestidspunkt og varighed.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Erhververen skal desuden have oplysning om, til hvilken adresse underretning om fortrydelse skal sendes.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Oplysningerne skal gives senest samtidig med de øvrige oplysninger, som skal gives efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4745e5f5-86ea-4e1a-9673-938efde9d112">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Har erhververen betalt en del af købesummen, skal sælgeren eller dennes repræsentant straks tilbagebetale det modtagne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6d2dd67f-4721-4406-8efc-255e3a39fd80">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1-5 gælder ikke ved lejerens overtagelse af en udlejningsejendom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id024fe0f7-9844-4ced-97c8-8c2e2e65b4af">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for by, bolig og landdistrikter fastsætter nærmere regler om indholdet af oplysnings- og undersøgelsespligten efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="ide3025e00-174b-4627-9fbe-33afa533a3e3" localId="3">
+          <Explicatus>Kapitel II</Explicatus>
+          <Rubrica id="id0d7748f2-79c5-42ea-a596-52084ab909df">
+            <Linea>
+              <Char>Andelsboligforeninger</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id924bc7d9-851d-4e7d-b5fd-a889b01ce628" localId="4">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="id3fa5101f-93cb-45a3-bfd5-821f74fa3058">
+                <Exitus>
+                  <Linea>
+                    <Char>En andelsboligforening kan kun gyldigt erhverve en udlejningsejendom, når mindst 60 pct. af ejendommens lejere af beboelseslejligheder er medlemmer af foreningen ved erhvervelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9e3c9f32-426c-4387-a2da-4e2675138897">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En andelsboligforening kan ikke gyldigt indgå aftale om erhvervelse af en ejendom, der inden for de seneste 5 år har været ejet af en andelsboligforening, et boligaktieselskab eller et boliganpartsselskab.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>En nystiftet andelsboligforening kan dog erhverve beboelseslejligheder i en bygnings uudnyttede tagetager eller i en eller flere nye etager, som er opdelt i ejerlejligheder i medfør af § 10, stk. 2, i lov om ejerlejligheder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>To eller flere andelsboligforeninger, hvis ejendomme er opført kontinuerligt som en samlet bebyggelse, eller som har fælles friarealer, kan uanset forbuddet i 1. pkt. sammenlægges.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Reglerne om tilbudspligt i kapitel XVI i lov om leje gælder ikke for ejendomme, der inden for de seneste 5 år har været ejet af en andelsboligforening, et boligaktieselskab eller et boliganpartsselskab.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1dad3b81-e741-48f4-bcca-80ccc30ae7c5">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når en andelsboligforening søges stiftet ved erhvervelse af en udlejningsejendom skal tilbud om medlemskab af foreningen gives til enhver lejer af beboelseslejligheder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Retten til medlemskab skal gøres gældende inden andelsboligforeningen indgår aftale om køb af ejendommen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Generalforsamlingen afgør, om lejere af lokaler, der udelukkende er udlejet til andet end beboelse, samt ejendomsfunktionærer kan blive optaget som medlemmer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id66569360-eb20-4533-b06d-015f90189927">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Som medlem af en andelsboligforening kan kun optages den, der har eller i forbindelse med optagelsen som medlem overtager brugsretten til lokaler i foreningens ejendom.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Medlemskabet kan kun vedrøre de lokaler, brugsretten omfatter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id84956356-c0a8-450e-966e-fbd934636b1a">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der overdrager en ejendom til en andelsboligforening, kan ikke indtræde som medlem af foreningen eller betinge sig nogen indflydelse på ejendommens eller foreningens drift.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>En overdrager, der selv bruger lokaler i ejendommen, kan dog indtræde som medlem for så vidt angår disse lokaler eller betinge sig fortsat brugsret som lejer af lokalerne samt de nærmere vilkår herfor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id84002102-7efd-4a79-8992-45678a486300">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der finansierer en andelshavers indskud i en andelsboligforening, kan ikke betinge sig nogen indflydelse på ejendommens eller foreningens drift.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samme gælder den, der har pant i en andel i andelsboligforeningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Panthaveren kan ikke forlange kapitalen indfriet som følge af, at foreningen har vedtaget, at prisen ved overdragelse af en andel ikke må overstige et beløb, som er lavere end den pris, der er tilladt efter § 5, eller vedtaget, at foreningen gennemfører arbejder eller optager lån.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="iddc633e97-bdcf-4a56-a71f-fbcc869d29c1">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uanset bestemmelsen i stk. 4 kan en kommune med foreningens samtykke indtræde som andelshaver til andele vedrørende beboelseslejligheder, hvor lejeren ikke ønsker at indtræde som medlem.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Udlejede lejligheder, der overtages af kommunen som andelshaver, skal ved ledighed søges overdraget til nye andelshavere.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kommunen kan ikke betinge sit medlemskab af indflydelse på ejendommens eller foreningens drift udover, hvad stemmeret for de af kommunen overtagne andele berettiger til.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kommunen kan heller ikke betinge sig særstilling i forhold til de andre medlemmer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De af kommunen tegnede andele medregnes ikke, når der i lovgivningen er stillet krav om, at et vist antal beboere skal være medlemmer af andelsboligforeningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6eae786b-9eda-4c1c-ad07-04f1d0994ecd">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i stk. 1, 3 og 7, gælder ikke for andelsboligforeninger, der er omfattet af kapitel 11 b i lov om almene boliger samt støttede private andelsboliger m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idfe544979-6c89-48a0-ba69-06a080b2f6b9" localId="5">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id7662a27b-e4fe-4c7f-9f61-1b7df48d835c">
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der overdrager en ejendom til en andelsboligforening skal inden aftalens indgåelse give sædvanlige oplysninger om ejendommen, herunder ejendommens driftsudgifter, lejeforhold og saldi på de forskellige konti, som ejeren skal føre i henhold til lov om leje og lov om midlertidig regulering af boligforholdene.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfe0dd69a-7cd9-48c8-9441-fb77cebe077a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sker overdragelsen efter reglerne om tilbudspligt i lov om leje, skal oplysningerne gives senest samtidig med tilbudet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den i lejelovens § 103, stk. 1, nævnte acceptfrist på mindst 10 uger løber fra det tidspunkt, hvor lejerne har modtaget oplysningerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id3a17f2b5-f228-4281-b9eb-00795c990843" localId="6">
+              <Explicatus>§ 3 a.</Explicatus>
+              <Stk id="id6da832ab-1b6c-48e6-b788-924a1356b7fa">
+                <Exitus>
+                  <Linea>
+                    <Char>Inden indgåelse af en aftale om en andelsboligforenings erhvervelse af en ejendom skal der foreligge et budget for andelsboligforeningen baseret på hvert af de finansieringsforslag, der overvejes til finansiering af købet, og et sammenligneligt budget baseret på finansiering af foreningens køb af ejendommen med et 30-årigt, konverterbart, fastforrentet realkreditlån med afdrag.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Budgetterne skal dække samtlige poster for andelsboligforeningens økonomi og dække en periode på mindst 10 år fra stiftelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der skal for den del af finansieringsperioden, der ikke er dækket af budgettet, foreligge en prognose, der tager højde for væsentlige økonomiske forhold i foreningens økonomi, der er kendskab til på tidspunktet for stiftelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7ae76ac3-0530-4edc-b8ae-61d5ba06048d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Budgetterne skal indeholde en post, der omfatter de årlige udgifter til vedligeholdelse af andelsboligforeningens ejendom.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beløbet skal opgøres for hele ejendommen og pr. kvadratmeter bruttoetageareal.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf13cef11-c621-41eb-a536-685c2c5e77d5">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Budgetterne må ikke indeholde indtægter fra fremtidige salg af ledige lejelejligheder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idab0431b4-175c-4904-bea4-fa5a50c8faf1" localId="7">
+              <Explicatus>§ 3 b.</Explicatus>
+              <Stk id="id6355d42d-596c-422f-aa86-abe2786ac97d">
+                <Exitus>
+                  <Linea>
+                    <Char>En andelsboligforening skal være registreret i Det Centrale Virksomhedsregister.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ide94f171f-ef18-4195-b6c0-12d44151ade7" localId="8">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id4518610c-31e6-42e9-99ae-be9a9222ae13">
+                <Exitus>
+                  <Linea>
+                    <Char>Erhverves en andelsboligforenings ejendom af en ny ejer, har andelshaverne ret til fortsat brugsret som lejere.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id13ddb238-e0cb-46fe-a52d-24de5daa3087">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved et frivilligt salg af foreningens ejendom kan bestemmelsen i stk. 1, kun fraviges, hvis den enkelte andelshaver i forbindelse med salget samtykker heri.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id38aca797-b630-45e9-bc75-25243035e087" localId="9">
+              <Explicatus>§ 4 a.</Explicatus>
+              <Stk id="id3fee4f80-1f58-47ff-9aa9-103bbd3f9cba">
+                <Exitus>
+                  <Linea>
+                    <Char>Til brug for tinglysning af et pantebrev eller retsforfølgning i en andel, jf. tinglysningslovens § 42 k, stk. 5, skal en andelsboligforening efter anmodning fra andelshaveren, långiveren eller udlægshaveren uden ugrundet ophold afgive erklæring om, hvorvidt den, som tinglysningsdokumentet vedrører, er den person, der er godkendt som andelshaver med brugsret til den pågældende lejlighed, medmindre erklæringen skal anvendes i forbindelse med en pantsætning, som er i strid med vedtægtsbestemmelser om en lånegrænse, jf. § 6 a, stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Foreningen har endvidere pligt til at oplyse, om foreningen har stillet garanti i forbindelse med købet af den pågældende andel og om størrelsen af det garanterede beløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide28aa530-3110-4451-8529-a3fe6069f94d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vedrører erklæringen erhververen af en andel, er andelsboligforeningen ikke forpligtet til at afgive erklæringen, før købesummen indbetales til foreningen uden andre betingelser, end at erklæringen afgives, og at provenuet anvendes til at indfri eventuelle foranstående pantehæftelser og udlæg forud for afregning til sælger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1e95145d-7b54-4e9b-8964-54a943f95146">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for by, bolig og landdistrikter kan fastsætte nærmere regler om form og indhold af anmodninger og erklæringer efter stk. 1, herunder bestemme, at der skal anvendes en særlig blanket.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id23095942-7c2d-42e4-85bc-ad54c0fe1cef" localId="10">
+              <Explicatus>§ 4 b.</Explicatus>
+              <Stk id="idc9ce0c61-cab5-4e20-858c-ba7ea5eaa6f3">
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 2-6 finder anvendelse for foreninger, der har frigjort sig fra tilskudsbestemmelser ved optagelse af et rente- og afdragsfrit lån efter § 3, stk. 2, i lov om frigørelse for visse tilskudsbestemmelser m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbeb8e585-d1f7-491c-af3e-89bda40aa55d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lån som nævnt i stk. 1 indgår ikke i opgørelsen af foreningens formue efter § 5, stk. 2-5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc1614903-6d3c-4899-bd3b-8b2ef6cc8b0b">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ud over de tilgodehavender, der er nævnt i § 6, stk. 10, kan foreningen hos den fraflyttede andelshaver til skade for den, der ved aftale har fået pant eller foretaget udlæg i andelen, fradrage den forholdsmæssige andel af lån som nævnt i stk. 1, jf. dog stk. 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idaea1a4c7-2207-41c5-bc90-d7389a77d2c2">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 3 gælder ikke i forhold til panthavere og udlægshavere, hvis ret er stiftet inden den 1. juli 2009.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5a19d84d-f4b3-47d9-b376-8c3220c0afbb">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der skal som note i andelsboligforeningens regnskab oplyses størrelsen af den del af frigørelsesbeløbet, der endnu ikke er betalt på statustidspunktet, og frigørelsesbeløbets fordeling på de enkelte andele.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id735a76a9-4b84-4b1a-a659-dd99fdbe3556">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved afgivelse af erklæring efter § 4 a, stk. 1, skal foreningen oplyse om lån som nævnt i stk. 1 og om den forholdsmæssige andel af frigørelsesbeløbet, der forfalder til betaling ved medlemmets overdragelse af den pågældende andel, jf. stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idff22f417-1f80-4fe2-a0ee-313f637e45f8" localId="11">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="id544099b7-767f-40c3-9824-20ea548401d1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved overdragelse af en andel i en andelsboligforening, hvor der til andelen er knyttet retten til en bolig, må prisen ikke overstige, hvad værdien af andelen i foreningens formue, forbedringer i lejligheden og dens vedligeholdelsesstand med rimelighed kan betinge.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2d980501-e44b-472b-9215-9ed59502baf3">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved opgørelsen af foreningens formue ansættes ejendommen til en af de i litra a-c nævnte værdier, der ikke må overskrides ved opgørelsen af værdien af andelen i foreningens formue, dog skal værdien af ejendommen i de første 2 år efter andelsboligforeningens stiftelse ansættes efter litra a, når en andelsboligforening er stiftet ved erhvervelse af en udlejningsejendom:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id77028e5f-c8ff-4128-b033-e232a969d69c">
+                  <Index>
+                    <Indentatio id="idc83e2f27-6fb3-4e0d-a5cc-b05a70f19e44" formaInd="Nummer">
+                      <Explicatus>a)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Anskaffelsesprisen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf6cf9f08-552c-4eb4-bb63-f81dd000163c" formaInd="Nummer">
+                      <Explicatus>b)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Den kontante handelsværdi som udlejningsejendom.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Vurderingen skal foretages af en ejendomsmægler, der er valuar.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Vurderingen må ikke være mere end 18 måneder gammel.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8f803c84-323a-40c2-b4e1-5d7b253f3cd7" formaInd="Nummer">
+                      <Explicatus>c)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Den senest ansatte ejendomsværdi med eventuelle reguleringer efter § 3 A i lov om vurdering af landets faste ejendomme.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id10382525-0789-4f0c-ad3e-a135cbd4e1c3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Til de i stk. 2 anførte værdier kan lægges værdien af forbedringer udført på ejendommen efter anskaffelsen eller vurderingen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idecf6c178-5ca4-452b-b9b1-bb7efebe0c20">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved opgørelse af foreningens formue efter stk. 2, litra a, fratrækkes prioritetsgæld i foreningens ejendom opgjort til pantebrevsrestgælden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved opgørelsen efter litra b og c fratrækkes prioritetsgælden opgjort til kursværdi, for realkreditlån kursværdien af obligationsrestgælden, for indekslån kursværdien af den indeksregulerede obligationsrestgæld.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id675b6963-ea8a-4a6d-9103-d12a8d29353f">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er der tinglyst deklaration på foreningens ejendom efter § 29 i lov om byfornyelse og udvikling af byer, fradrages der ved opgørelsen af foreningens formue et beløb, der svarer til den ydede støtte efter kapitel 4 i lov om byfornyelse og udvikling af byer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Fradrag efter 1. pkt. skal kun foretages i den periode, hvor det i den tinglyste deklaration er angivet, at tilbagebetaling af støtte skal finde sted ved afhændelse af foreningens ejendom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide303390c-8c25-4bc5-8f24-fb3bb27abc94">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den del af indekslån eller særskilt realkreditlån, hvortil der ydes enten afdragsbidrag, ydelsesstøtte eller ydelsesbidrag, der svarer til den samlede ydelse, i medfør af lov om sanering, lov om byfornyelse eller lov om byfornyelse eller boligforbedring, indgår ikke i opgørelsen af foreningens formue efter stk. 2-5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0dc4c53d-5804-409a-a57b-c65066e94676">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er der ydet støtte til foreningen efter lov om sanering, lov om byfornyelse bortset fra kapitel 5, lov om byfornyelse og boligforbedring eller lov om byfornyelse og udvikling af byer, kan en andelshaver uanset reglerne i stk. 2-4 ved overdragelse beregne sig samme pris for andelen i foreningens formue, som der lovligt kunne beregnes umiddelbart inden gennemførelsen af de foranstaltninger, hvortil der er ydet støtte.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbbd13875-06da-47ce-9bba-8ab8e6f4a846">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uanset reglerne i stk. 2-5 kan en andelshaver ved overdragelsen beregne sig samme pris for andelen i foreningens formue, som han selv lovligt har betalt, såfremt ejendommen er opført med støtte efter lov om boligbyggeri eller lov om almene boliger samt støttede private andelsboliger m.v. og finansieret med indekslån.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida34f890c-d0c0-4df3-8e86-4e73cc11dc2f">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Har ministeren for by, bolig og landdistrikter i henhold til § 56 a i lov om boligbyggeri, jf. lovbekendtgørelse nr. 144 af 26. februar 1998, eller § 179 a i lov om almene boliger samt støttede private andelsboliger m.v. påbudt en omprioritering af realkreditlån, hvortil der ydes rentesikring, kan en andelshaver beregne prisen for andelen i foreningens formue uden hensyntagen til den forøgelse af foreningens prioritetsgæld, der alene kan henføres til selv omprioriteringen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Foreningens prioritetsgæld opgøres efter stk. 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5142a52b-70cd-4c1a-80b6-306fbef626d5">
+                <Explicatus>Stk. 10.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er der ydet engangstilskud til etablering af private andelsboliger efter lov om almene boliger samt støttede private andelsboliger m.v. i perioden fra den 1. april 2002 til den 31. december 2004, skal tilskuddet ved beregning af foreningens formue optages som en passivpost, der nedtrappes med en tiendedel af tilskuddets størrelse, første gang et år efter udbetaling af tilskuddet, og indtil hele tilskuddet er medtaget i formueopgørelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id25f18568-af0a-449d-bd32-3f7e91754491">
+                <Explicatus>Stk. 11.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er der ydet støtte fra staten eller kommunen til etablering af en andelsboligforening, skal størrelsen af den udbetalte støtte, som efter § 160 k i lov om almene boliger m.v. kan kræves tilbagebetalt ved salg af andelsboligforeningens ejendom eller ved sammenlægning med en anden andelsboligforening, anføres i en note til årsregnskabet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id96637824-ad35-4a21-b7e4-75e7426fc803">
+                <Explicatus>Stk. 12.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Værdien af forbedringer i lejligheden ansættes til anskaffelsesprisen med fradrag af eventuel værdiforringelse på grund af alder eller slitage.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id659f16f2-fcfd-469d-9984-af282bd0ceb9">
+                <Explicatus>Stk. 13.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Overdragelsen må ikke betinges af, at erhververen indgår anden retshandel, bortset fra køb af inventar, der er særligt tilpasset eller installeret i lejligheden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Indgås i forbindelse med overdragelsen nogen anden retshandel, må erhververens vederlag ikke overstige, hvad overdragerens ydelse med rimelighed kan betinge.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5677d0ce-b866-4d8b-82fc-2f0551290b32">
+                <Explicatus>Stk. 14.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det kan ikke aftales, at erhververen skal bære overdragerens omkostninger i forbindelse med overdragelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf3ce8adb-3fe2-4b87-bcf0-fddf50d09c4f" localId="12">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id93b931c0-0238-41a9-a86d-085cafe84dfa">
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der overdrager en andel i en andelsboligforening, hvor der til andelen er knyttet retten til bolig, skal inden aftalens indgåelse udlevere dokumenter og nøgleoplysninger om andelsboligforeningen og andelsboligen til erhververen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Overdrageren skal endvidere inden aftalens indgåelse skriftligt gøre erhververen bekendt med indholdet af § 5, § 15, stk. 1, og § 16, stk. 1 og 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idef3d8115-b2d9-4abc-8eeb-d1a0a40d9a08">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for by, bolig og landdistrikter fastsætter nærmere regler om, hvilke dokumenter og nøgleoplysninger overdrageren skal udlevere til erhververen, formkrav til nøgleoplysningerne, hvilke nøgleoplysninger der skal optages som noter til årsregnskabet, samt proceduren for udarbejdelse af nøgleoplysningerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide3e54189-8df5-48ff-ac45-02236f754add">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Penge- og realkreditinstitutter og andre långivere, der har indgået aftale om lån og hertil knyttet finansiel aftale med en andelsboligforening, skal udlevere informationsmateriale til foreningen med finansielle nøgleoplysninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide6a57fa1-2e28-43df-9e10-fd9e1b398674">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for by, bolig og landdistrikter fastsætter nærmere regler om pligten til at udlevere informationsmateriale med finansielle nøgleoplysninger til foreningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Regler om pligt for virksomheder under tilsyn af Finanstilsynet til at udlevere informationsmateriale med finansielle nøgleoplysninger til foreningen fastsættes efter forhandling med erhvervs- og vækstministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4b8d8500-66be-4ab6-8196-f5dca4158b40">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhververen skal godkendes af bestyrelsen for andelsboligforeningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd29e1833-6576-4570-b06c-4a3a94f3ffd2">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Aftalen skal forelægges bestyrelsen til godkendelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestyrelsen kan forlange den aftalte pris nedsat og en eventuel overpris tilbagebetalt, såfremt prisen overstiger, hvad der er tilladt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbfcb231c-0477-4374-8eb5-913eddd2240c">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er der i forbindelse med overdragelsen indgået nogen anden retshandel, finder reglen i stk. 6 tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="iddb6ac9e6-614e-4860-b035-e2f56a64b9b2">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen skal som note til årsregnskabet oplyse andelens værdi på statusdagen, beregnet i overensstemmelse med § 5, samt eventuelle vedtægtsbestemmelser om prisfastsættelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2366eb50-729a-4659-952a-1578e5cb8b39">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Har foreningen optaget indekslån eller særskilt realkreditlån, hvortil der ydes enten afdragsbidrag, ydelsesstøtte eller ydelsesbidrag, der svarer til den samlede ydelse, i medfør af lov om sanering, lov om byfornyelse eller lov om byfornyelse og boligforbedring, skal bestyrelsen i en note til årsregnskabet oplyse størrelsen af lån, hvortil der ydes den nævnte støtte, samt at dette ikke indgår i opgørelsen efter § 5 af andelenes værdi.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2df178fc-f87d-4ec3-a5a7-2113d5f8d9dc">
+                <Explicatus>Stk. 10.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Overdragelsessummen indbetales til foreningen, som efter fradrag af sine tilgodehavender hos den fraflyttede andelshaver udbetaler resten til den fraflyttede andelshaver og eventuelle andre rettighedshavere.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Inden afregning efter 1. pkt. skal andelsboligforeningen undersøge, om der i andelsboligbogen er tinglyst rettigheder over andelen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dette gælder dog ikke, hvis foreningen ikke har afgivet erklæring efter § 4 a vedrørende den pågældende andel.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Til skade for den, der ved aftale har fået pant i andelen, kan foreningen kun fradrage sådanne tilgodehavender hos den fraflyttede andelshaver, der udspringer af dennes medlemskab af foreningen, og for så vidt angår løbende betalinger kun i indtil 1 år fra forfaldsdagen for de enkelte betalinger, medmindre foreningen inden fristens udløb har indledt og uden ugrundet ophold fremmet retsforfølgning eller eksklusion.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id15f968c4-483d-4c35-b77a-b4f567b56c8f">
+                <Explicatus>Stk. 11.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Selv om det er aftalt, at gælden i henhold til et pantebrev i andelen ikke kan forlanges betalt ved ejerskifte, kan foreningen i forbindelse med overdragelsen kræve, at overdragelsessummen helt eller delvis indbetales til foreningen, medmindre den krævede indbetaling er unødvendig, for at foreningen kan få dækket krav som anført i stk. 10.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idbb3cfa4d-be19-4740-9259-550d61ede264" localId="13">
+              <Explicatus>§ 6 a.</Explicatus>
+              <Stk id="idd3bc2b09-c892-4c1a-9561-4427ff735e4a">
+                <Exitus>
+                  <Linea>
+                    <Char>Uanset modstående vedtægtsbestemmelser kan der foretages arrest og udlæg i en andel i en andelsboligforening, og andelshaveren kan pantsætte sin andel.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Andelshaverens ret til at pantsætte sin andel kan ikke begrænses i vedtægterne, jf. dog stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida706880f-ee26-4c80-aea4-9d4d5fbcae98">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uanset bestemmelsen i stk. 1 kan andelsboligforeningen i vedtægterne begrænse retten til at pantsætte andelen gennem fastsættelsen af en grænse for lånets størrelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Retten kan alene begrænses på den måde, at andelshaveren ikke mod sikkerhed i andelen må optage lån, som overstiger 80 pct. af pantets værdi på lånetidspunktet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf734ca76-cf7e-48d8-809f-7abdd16e0968" localId="14">
+              <Explicatus>§ 6 b.</Explicatus>
+              <Stk id="id212c51c7-d862-4972-bfe5-b1536f5a924b">
+                <Exitus>
+                  <Linea>
+                    <Char>Salg af en andel i en andelsboligforening i henhold til fogedrettens beslutning, jf. retsplejelovens § 559 a, foretages af andelsboligforeningen i overensstemmelse med §§ 5 og 6 og foreningens vedtægter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ideffca0d7-7ec8-4b10-901e-271c2941b5c7">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Foreningen skal give andelshaveren mulighed for inden 2 uger, efter at underretning om fogedrettens salgsbeslutning er kommet frem til andelshaveren, at angive sit prisforlangende og oplyse, hvem denne ønsker at indstille som køber af andelen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id22708a1b-c6cc-43f9-898b-e7a7db308177">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Andelsboligforeningen skal underrette andelshaveren, udlægshaveren og de øvrige rettighedshavere om den af foreningen godkendte eller fastsatte pris for andelen samt om indsigelsesretten efter 2. pkt. De pågældende kan da inden 2 uger gøre en indsigelse med specificeret angivelse af yderligere priskrav.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Fremsættelse af sådan indsigelses hindrer ikke salg til den af foreningen godkendte eller fastsatte pris med forbehold om yderligere priskrav.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sker salg, selv om der er gjort indsigelse mod prisen som beskrevet i 3. pkt., underretter foreningen den, der har gjort indsigelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ønsker den pågældende at fastholde kravet, skal den pågældende indlede retsforfølgning mod køberen inden 4 uger, efter at underretningen er kommet frem til vedkommende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6a33f53a-9218-4e2b-9103-355204b00b17">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Andelshaveren skal give andelsboligforeningen og de i tvangssalget øvrige interesserede adgang til at besigtige den til andelen knyttede lejlighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id97d84f19-1145-47fc-aacf-5c76b6d69792">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uden andelshaverens tiltræden kan købers overtagelse af den til andelen knyttede brugsret ikke ske tidligere end den første i den måned, der følger 3 måneder efter det tidspunkt, da underretning om fogedrettens salgsbeslutning kom frem til foreningen og andelshaveren.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Andelsboligforeningen skal underrette andelshaveren om overtagelsesdagen senest 4 uger før den aftalte overtagelsesdag, og andelshaveren har da pligt til at fraflytte og ryddeliggøre lejligheden senest 2 uger før overtagelsesdagen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3b29c493-829c-4e37-bc99-0b13801969d7">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Andelsboligforeningen kan modregne sine rimelige udgifter ved salget i overdragelsessummen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>§ 6, stk. 10, finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id369f4c0d-83ca-43fd-aa29-755338827b2b">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er salget af andelen til den pris, der er den højst tilladte i henhold til § 5 og foreningens vedtægter, ikke sket inden 15 uger eller en af fogedretten fastsat længere frist fra det tidspunkt, da underretning om fogedrettens salgsbeslutning kom frem til foreningen og andelshaveren, kan udlægshaveren forlange andelen solgt gennem fogedretten på tvangsauktion, jf. retsplejelovens § 559 a.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf0bb8095-b0cb-4569-8f1e-ad6ef6a3a26b" localId="15">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="ida384065b-22ee-411a-a2f0-a34419e9ea70">
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for by, bolig og landdistrikter udarbejder en vejledende normalvedtægt for en andelsboligforening.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id1eb3c086-e9e1-41a0-89e8-55d12368705e" localId="16">
+              <Explicatus>§ 7 a.</Explicatus>
+              <Stk id="id92c50ccb-9a22-4834-bc4d-e702d8bf1448">
+                <Exitus>
+                  <Linea>
+                    <Char>Afholder andelsboligforeningen udgifter til eget fællesantenneanlæg til radio- og fjernsynsmodtagelse, til programforsyning udefra eller til forsyning med adgang til elektroniske kommunikationstjenester, kan disse udgifter ikke indeholdes i boligafgiften.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Af boligafgiftsopkrævningen eller -kvitteringen skal størrelsen af boligafgiften, antennebidraget og betaling for adgang til elektroniske kommunikationstjenester fremgå.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9d2b1404-a0d1-4b4e-9cbf-6198976c453f" localId="17">
+              <Explicatus>§ 7 b.</Explicatus>
+              <Stk id="idefa2b0eb-abbf-44b8-98bb-5021c7d06140">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id5e69ee18-a162-430d-bd8a-4a8f0dc2e87e" localId="18">
+              <Explicatus>§ 7 c.</Explicatus>
+              <Stk id="id9b97580f-9251-41d3-8763-df68e54e85c9">
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen kan med henblik på løsning af påtrængende boligsociale opgaver i kommunen, herunder at opnå en mere afbalanceret beboersammensætning, indgå aftale med en privat andelsboligforening om anvisningsret til boliger i foreningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id49c28856-b55e-4721-8c1c-573698a45e14">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Aftalt anvisningsret indebærer, at andelsboliger, der er omfattet af anvisningsretten, og som søges overdraget, uanset modstående vedtægtsbestemmelser om overdragelse skal tilbydes kommunalbestyrelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Andelsboliger, som kommunalbestyrelsen erhverver i henhold hertil, kan kommunalbestyrelsen videresælge eller udleje.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idee0b7ae0-ec82-472d-9844-f05c2d9e5180">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Andelsboligforeningen kan træffe beslutning om indgåelse af aftale efter stk. 1 efter de regler, som gælder for vedtagelse af vedtægtsændringer i foreningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Foreningen skal samtidig beslutte, hvor mange boliger der skal stilles til rådighed for kommunalbestyrelsen, og for hvilken periode anvisningsretten gælder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id12cecc49-ac87-422d-a24d-4380ec8b1f54" localId="19">
+              <Explicatus>§ 7 d.</Explicatus>
+              <Stk id="id929be7b7-ae8b-4429-a2d4-470208770f14">
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsens anvisningsret finder ikke anvendelse i de tilfælde, hvor en person før lovens ikrafttræden har opnået et retsbeskyttet krav på at erhverve den andel og bolig, som kommunalbestyrelsen ellers ville kunne erhverve.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Endvidere finder kommunalbestyrelsens anvisningsret ikke anvendelse, hvis et husstandsmedlem efter vedtægten har krav på at fortsætte sit medlemskab eller overtage en andel og bolig.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Endelig berøres andelshaverens adgang til at bytte bolig med en anden andelshaver eller en lejer af en beboelseslejlighed ikke af anvisningsretten.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved opgørelsen af det antal boliger, som skal tilbydes kommunalbestyrelsen, ses bort fra de boliger, som overdrages efter 1.-3. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id724135c6-6d7b-4319-a94b-ff0a718db5f7" localId="20">
+              <Explicatus>§ 7 e.</Explicatus>
+              <Stk id="idbaa517ea-b5e1-42f5-bcc1-eba539b5aa09">
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen kan erhverve andelen på de samme vilkår og til samme pris, som en andelshaver lovligt ville kunne opnå ved salg til anden side.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Købesummen kan fastsættes på grundlag af en vurdering fra en ejendomsmægler, der tillige er valuar.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Foreningen skal til brug herfor oplyse overdragelsessummerne i de seneste salg i foreningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen skal godtgøre andelshaveren de udgifter, andelshaveren med rimelighed har afholdt forgæves med henblik på salg af andelen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id2b2e3804-fb08-4812-bf15-ba47c59dedba" localId="21">
+              <Explicatus>§ 7 f.</Explicatus>
+              <Stk id="iddba8e17c-fedb-4825-87e9-f89391a0a609">
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen indtræder uanset eventuelle modstående vedtægtsbestemmelser som andelshaver med samme rettigheder og pligter som andre andelshavere, idet dog kommunalbestyrelsen er berettiget til at udleje andelsboligen til en lejer på betingelse af, at andelsboligforeningen ikke har vægtige grunde til at modsætte sig udlejning til den pågældende lejer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Endvidere kan kommunalbestyrelsen, når den erhverver en andelsbolig i henhold til aftale efter § 7 c eller i henhold til vilkår efter § 160 b i lov om almene boliger samt støttede private andelsboliger m.v., uanset modstående vedtægtsbestemmelser dog ikke forpligtes til at hæfte personligt og solidarisk for lån, som foreningen optager efter kommunalbestyrelsens erhvervelse af en andel, og som ligger ud over de lånegrænser, som gælder ved ydelse af lån til private andelsboligforeninger efter realkreditloven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id35433bc4-96d9-48d8-8998-172afd51290a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen kan ikke betinge sit medlemskab af andelsboligforeningen af indflydelse på ejendommens eller foreningens drift eller af særstilling i forhold til de andre medlemmer af andelsboligforeningen ud over det i stk. 1 nævnte.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id34639b37-4815-4353-9972-3f758e677058">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsens andele medregnes ikke, når der i lovgivningen stilles krav om, at et vist antal beboere skal være medlemmer af andelsboligforeningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id826d5260-efb7-4b22-b4de-1e9b3331ce3c" localId="22">
+              <Explicatus>§ 7 g.</Explicatus>
+              <Stk id="idd8ba4be9-26a1-4a35-80be-3e6059fda771">
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsens eventuelle videresalg af en andelsbolig skal ske i overensstemmelse med lovgivningens og vedtægternes almindelige regler.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen kan give tilsagn om at stille garanti for lån i et pengeinstitut til erhvervelse af andelen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id10598bb2-3a63-4896-b57d-d38fb4676b3b" localId="23">
+              <Explicatus>§ 7 h.</Explicatus>
+              <Stk id="idc413acc4-2da2-42b3-9549-b1300a7cdf08">
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen for andelsboligforeningen skal underrette kommunalbestyrelsen senest 2 uger efter, at bestyrelsen har modtaget en meddelelse om eller på et andet grundlag bliver bekendt med, at en andelsbolig, der er omfattet af den kommunale anvisningsret, skal afhændes.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Underretningen skal indeholde de oplysninger, som fremgår af § 6, stk. 1, og bestemmelser fastsat i medfør af § 6, stk. 2 og 4.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Trækkes tilbudet om salg tilbage, overføres kommunalbestyrelsens anvisningsret til den næste bolig i foreningen, som skal overdrages.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1029d810-9317-42b6-94bd-4778e11db3c1">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen skal inden 2 uger efter modtagelse af den i stk. 1 nævnte underretning fra bestyrelsen give meddelelse til andelsboligforeningen og andelshaveren om, at kommunalbestyrelsen ønsker at indtræde som medlem af andelsboligforeningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Gives sådan meddelelse ikke rettidigt, mister kommunalbestyrelsen retten til at overtage den pågældende bolig.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id4ee8c316-3d89-4ba2-bf64-8e64fa44eed9">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Såfremt kommunalbestyrelsen har givet meddelelse efter stk. 2 om erhvervelse af andelen, hæfter kommunalbestyrelsen for betaling af boligafgift m.v. med virkning fra den for overtagelsen fastsatte overtagelsesdag.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id17a4e671-1ebe-4721-a66a-2b8ae306f690" localId="4">
+          <Explicatus>Kapitel III</Explicatus>
+          <Rubrica id="id69699723-cc32-41de-a107-1c2002b0b48c">
+            <Linea>
+              <Char>Boligaktieselskaber o.</Char>
+            </Linea>
+            <Linea>
+              <Char>lign.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idfb5e7020-cec7-4dc6-91b5-9c6ad0cea05a" localId="24">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="id368aa2d9-bdd6-4fda-8119-fee99cfd89bc">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved et boligaktieselskab forstås i denne lov et aktieselskab, hvor der til en aktie er knyttet brugsret til en beboelseslejlighed i selskabets ejendom.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved et boliganpartsselskab, forstås et anpartsselskab, hvor der til en anpart er knyttet brugsret til en beboelseslejlighed i selskabets ejendom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idef4d8196-f83e-4c5e-af4e-6bd8f6e40c5c" localId="25">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="idca6e9ec3-f8d5-4ddf-97ac-59e15d06c9b9">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved overdragelse af en ejendom til et boligaktieselskab eller et boliganpartsselskab finder reglerne i § 2, stk. 2-4, samt § 3 tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idaf1e06c6-bf22-44c6-bb2f-286cefdb7057">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved finansiering af en aktionærs eller en anpartshavers indskud i selskabet finder reglen i § 2, stk. 5 og 6, tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8ed1b481-5e69-4c12-8746-fc130d1c1c50" localId="26">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="id1bffd1c6-6d60-4f81-8a29-9203a8605374">
+                <Exitus>
+                  <Linea>
+                    <Char>Ejere af aktier eller anparter i selskaber som nævnt i § 8 må kun overdrage dem samlet og kun til en enkelt erhverver.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idabc474c0-5725-4b78-87e9-afb74195ee70">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Reglen i stk. 1 omfatter ikke overdragelse af en aktie eller en anpart i et selskab, der enten</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id8521d290-3d50-4659-a80f-59457031865e">
+                  <Index>
+                    <Indentatio id="id20d09854-f3b7-4812-ae9e-35124f7fd9e6" formaInd="Nummer">
+                      <Explicatus>a)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>har mindst halvdelen af boligtagerne i ejendommen som aktionærer eller anpartshavere, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id2e1d7a60-c4d2-4881-9dfb-43c02b813f7f" formaInd="Nummer">
+                      <Explicatus>b)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>hvis erhvervelse af ejendommen er anmeldt til tinglysning inden den 13. februar 1976 og overdragelsen sker til en lejer af en beboelseslejlighed i ejendommen, som mindst 1 år forud for aftalen har opnået en varig lejeaftale om lejligheden, og som siden har boet i ejendommen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd9b8ba72-1c8b-4b2a-aa33-248cc1b59977" localId="27">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="id748727dc-e998-42e2-98c4-77e148c85947">
+                <Exitus>
+                  <Linea>
+                    <Char>Om overdragelse af en aktie i et boligaktieselskab eller en anpart i et boliganpartsselskab gælder reglerne i §§ 5 og 6 tilsvarende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id1eca6fb9-b154-4d27-8cf2-4bac9e7dc817" localId="28">
+              <Explicatus>§ 11 a.</Explicatus>
+              <Stk id="idc3f4409a-5702-45fc-a790-b09ea61f76cd">
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i §§ 4 a, 6 a, 6 b og 7 a finder tilsvarende anvendelse på de i dette kapitel nævnte boligaktieselskaber og lignende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idfb8d9072-756f-43a5-93c1-893adb1db17f" localId="5">
+          <Explicatus>Kapitel IV</Explicatus>
+          <Rubrica id="id772d5f8a-6c54-441f-bf53-45cfedb8f6c3">
+            <Linea>
+              <Char>Boligsamejer</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id72b310b8-65f4-4af7-b82d-6fb7c6940c41" localId="29">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="idbbf42aea-f777-4e8e-b8c6-1f3e00abb4ae">
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der overdrager en anpart af en ejendom, hvor der til anparten er knyttet brugsret til en beboelseslejlighed i ejendommen, skal inden aftalens indgåelse til erhververen udlevere et eksemplar af samejeaftalen eller -deklarationen og samejets seneste årsregnskab og budget.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis årsregnskab ikke forefindes, skal overdrageren give erhververen oplysning om ejendommens driftsudgifter og lejlighedens andel heri.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb094fe18-e4d4-45f6-bbea-272893eab197">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Overdrageren skal herudover særskilt skriftligt give erhververen oplysning om,</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idb91315ed-9d94-4827-851b-44379a2fee57">
+                  <Index>
+                    <Indentatio id="id8e851b2f-8764-45fe-a117-643694fd48bd" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>hvorvidt erhververens videreoverdragelse af anparten kræver godkendelse fra de øvrige ejere af anparter af ejendommen, kreditorer eller andre,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id02d8b2f8-cdb3-4646-b3ef-8c80161383a4" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>i hvilket omfang og for hvilke gældsposter erhververen hæfter over for kreditorer, og hvorledes frigørelse sker ved videresalg af anparten, samt</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc973f717-e879-4131-8f4a-5744c6af2192" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>indholdet af §§ 13, 14, 15, stk. 2, og 16, stk. 1 og 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id5fbcc22c-498f-4db5-9aa5-484d2a802679" localId="30">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="idb0221c81-3f7e-42e3-940b-05e69f650086">
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan ikke ske overdragelse af en anpart af en fast ejendom, såfremt der til anparten er knyttet brugsret til en beboelseslejlighed i ejendommen eller det er en forudsætning for aftalen, at erhververen opnår en sådan ret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7c2828cf-c4fa-41f7-add7-30806708beff">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan ikke ske overdragelse af en fast ejendom til flere erhververe, såfremt der til en eller flere anparter er knyttet brugsret til en beboelseslejlighed i ejendommen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8a3e8f03-b62f-4434-b825-53af3a8e94b9">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1 er ikke til hinder for, at en ejer, der kun ejer en anpart af en fast ejendom, overdrager hele sin anpart enten til en enkelt erhverver eller til flere erhververe, der alle er beslægtede eller besvogrede med overdrageren i op- eller nedstigende linje eller i sidelinje så nær som søskende eller disses børn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id34e3dd13-0284-4c5b-8b09-f8c6ba3e303a">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1 omfatter ikke overdragelse af en anpart i en ejendom, hvorfra en eller flere anpartsoverdragelser er anmeldt til tinglysning inden den 13. februar 1976, når overdragelse sker til en lejer af en beboelseslejlighed i ejendommen, som mindst et år forud for aftalen har opnået en varig lejeaftale om lejligheden, og som siden har boet i ejendommen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd479cc59-c5d8-4759-a036-186018ede39a" localId="31">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="id6432d4fe-b70f-4863-b345-e4c6cff21eac">
+                <Exitus>
+                  <Linea>
+                    <Char>Om overdragelse af en anpart af en ejendom, hvortil er knyttet brugsret til en beboelseslejlighed i ejendommen, gælder reglerne i § 16 a i lov om ejerlejligheder tilsvarende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idc7ef872c-6006-44c2-a73a-e840845575a8" localId="6">
+          <Explicatus>Kapitel IV A</Explicatus>
+          <Rubrica id="ide44f2f31-898c-4873-849f-a66b8b281349">
+            <Linea>
+              <Char>Andre boligfællesskaber</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id1fa88c44-4104-4b86-8f9a-c8cfe2941dab" localId="32">
+              <Explicatus>§ 14 a.</Explicatus>
+              <Stk id="id3f3438d5-ea22-4a78-9a0e-e08305bcd1fd">
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan ikke ske overdragelse af en fast ejendom til et boliginteressentskab, boligkommanditselskab eller andet boligfællesskab, der ikke er omfattet af kapitel II, III eller IV, og hvor der til en andel i boligfællesskabet er knyttet brugsret til en beboelseslejlighed i ejendommen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf905a927-2adb-4aa1-be38-bce5032d5cb3">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan ikke ske overdragelse af en andel i et boligfællesskab som nævnt i stk. 1, hvor der til andelen er knyttet brugsret til en beboelseslejlighed i ejendommen, eller hvor det er en forudsætning, at erhververen opnår en sådan ret.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Med overdragelse sidestilles optagelse af nye deltagere i boligfællesskabet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide63b271d-2c1b-4a62-bb08-24a3a78f8792">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 2 er ikke til hinder for, at en deltager i et boligfællesskab som nævnt i stk. 1 overdrager hele sin andel eller, hvis deltageren har flere andele, samtlige sine andele enten til en enkelt erhverver eller til flere erhververe, der alle er beslægtede eller besvogrede med overdrageren i op- eller nedstigende linje eller i sidelinje så nær som søskende eller disses børn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida57914ff-1dfa-447f-8c7b-b6b4db9ab9b0">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 2 er ikke til hinder for, at en ejer af flere andele i et boligfællesskab som nævnt i stk. 1 kan overdrage en andel, hvor der til andelen er knyttet brugsret til en beboelseslejlighed i ejendommen, som tidligere har været beboet af en deltager i boligfællesskabet eller været ejet af en boligfællesskabsdeltager, som kun har ejet den pågældende andel med brugsret til en beboelseslejlighed i boligfællesskabet, til en ny deltager i boligfællesskabet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Herunder kan et boligfællesskab overdrage en andel som nævnt i 1. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id547279a2-7a1c-4f19-ab5c-f7d8b14de623" localId="33">
+              <Explicatus>§ 14 b.</Explicatus>
+              <Stk id="iddac28db9-1c4b-406b-9065-05d32a14a4ff">
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der overdrager en eller flere andele i et boligfællesskab efter § 14 a, stk. 3 eller stk. 4, hvor der til andelen er knyttet brugsret til en beboelseslejlighed, skal inden aftalens indgåelse til erhververen udlevere et eksemplar af fællesskabsaftalen eller -vedtægterne og fællesskabets seneste årsregnskab og budget.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis årsregnskab ikke forefindes, skal overdrageren give erhververen oplysning om boligfællesskabets indtægter og udgifter, aktiver og passiver samt erhververens andel heri.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9f3e4106-aba7-4713-919f-1ff5f2beee86">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Overdrageren skal herudover særskilt skriftligt give erhververen oplysning om,</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id006db7e2-97b7-4228-9d5f-3ced06ab5823">
+                  <Index>
+                    <Indentatio id="id1a9be834-77d1-4242-be6c-23a206a665d9" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>hvorvidt boligfællesskabsdeltageres udtræden af boligfællesskabet sker ved opsigelse, udmeldelse, overdragelse eller på anden måde, herunder i hvilket omfang der kræves godkendelse fra de øvrige boligfællesskabsdeltagere, kreditorer eller andre,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id07680645-3ae6-4c18-b65d-5a923b5bb3e3" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>i hvilket omfang og for hvilke gældsposter erhververen hæfter over for kreditorer, og hvorledes frigørelse sker ved udtræden eller videresalg af andelen, samt</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc5941196-5f17-4a8d-aa1c-28fbe81c0473" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>indholdet af §§ 14 a, 14 c, 15, stk. 2, og 16, stk. 1 og 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id5ec42017-8fe6-48e7-961a-fe33605e245f" localId="34">
+              <Explicatus>§ 14 c.</Explicatus>
+              <Stk id="id5d86ca2a-751c-4e85-871d-07af099a3a2a">
+                <Exitus>
+                  <Linea>
+                    <Char>Om overdragelse af en andel i et boligfællesskab som nævnt i § 14 a, stk. 1, hvor der til andelen er knyttet brugsret til en beboelseslejlighed i ejendommen, gælder reglerne i § 16 a i lov om ejerlejligheder tilsvarende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id34b84e10-d05a-47ed-a712-acdbafb063d3" localId="7">
+          <Explicatus>Kapitel V</Explicatus>
+          <Rubrica id="id6607fdee-d9e9-4da4-88ce-8e89b4442914">
+            <Linea>
+              <Char>Straffebestemmelser m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id390586ab-e039-4abe-ab59-7bdf4a5da5cd" localId="35">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="id24ba92fc-f585-4fbe-aa9a-c09f5c0cf4b5">
+                <Exitus>
+                  <Linea>
+                    <Char>Overtrædelse af reglerne i § 2, stk. 4, 5 eller 6, 1. eller 2. pkt., straffes med bøde eller fængsel indtil 4 måneder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide00da6c6-697e-4b94-b00c-b54bef8e16dd">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det samme gælder den, der overdrager en aktie eller anpart i strid med reglerne i § 10, den, der overdrager en fast ejendom eller en anpart af en ejendom i strid med § 13, eller den, der overdrager en fast ejendom eller en andel i et boligfællesskab i strid med § 14 a.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id735e9b9c-1003-436a-a8f9-b48519f9be69">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der overdrager en andel i en andelsboligforening eller en aktie eller anpart omfattet af kapitel III i strid med § 5, straffes med bøde eller fængsel i indtil 4 måneder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idcb77be51-42e6-4fd0-a709-d7801ca0d7d8">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Med bøde eller fængsel indtil 4 måneder straffes endvidere den, der overdrager sin andel i strid med kommunalbestyrelsens anvisningsret i henhold til § 160 b i lov om almene boliger samt støttede private andelsboliger m.v. eller § 79, stk. 3, i lov om byfornyelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samme gælder den, der i en andelsboligforening omfattet af § 160 b i lov om almene boliger samt støttede private andelsboliger m.v. eller § 79, stk. 3, i lov om byfornyelse tilsidesætter den pligt, der gælder for andelsboligforeninger efter § 7 h.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id33902eb8-f717-4e58-a81c-82191e40a85f">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der som mægler eller rådgiver erhvervsmæssigt medvirker ved overdragelse i strid med §§ 5, 10, 11, 13 og 14 a, straffes med bøde eller fængsel indtil 4 måneder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbe83dc43-6773-48ec-8d34-1c2f23271247">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der erhvervsmæssigt sælger andele i andelsboligforeninger under stiftelse og undlader at give oplysning om fortrydelsesret efter § 1 b, stk. 4, straffes med bøde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id38885925-63d9-4b8b-acc9-c8b95e0bb031">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I forskrifter, der udstedes af ministeren for by, bolig og landdistrikter i medfør af § 1 b, stk. 7, kan der fastsættes straf af bøde for overtrædelse af bestemmelser i forskrifterne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7c449d7a-e0cd-43c3-9cb0-43f0e2afc30d">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der overdrager en ejendom til en andelsboligforening, et boligaktieselskab eller et boliganpartsselskab i strid med reglerne i § 2, stk. 2, jf. § 9, stk. 1, straffes med bøde eller fængsel indtil 4 måneder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilsvarende gælder den, der som tegningsberettiget foretager en sådan handling på vegne af en juridisk person.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7df54a94-73ea-4cd9-94c4-7c07a27e56b2">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idbe55cb9c-a02b-409d-aabc-36c95b0e9db3" localId="36">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="idc0342348-213d-4f0d-b8ea-814d1ea8e43c">
+                <Exitus>
+                  <Linea>
+                    <Char>Er en overdragelse sket i strid med reglerne i §§ 5, 10, 11, 13, 14, 14 a eller 14 c, kan erhververen hæve den indgåede aftale.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3881d247-1e4d-4975-aecb-33f4a00fa65a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er overdragelse sket i strid med reglen i § 13 eller § 14 a, og er erhververen indflyttet i lejligheden, kan han efter ophævelse af aftalen benytte den opnåede brugsret som lejer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id079bdfe6-e758-41ce-ab2f-1cbdf88dcd02">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er overdragelsen sket i strid med §§ 5 eller 11, kan erhververen kræve prisen nedsat og en eventuelt erlagt overpris tilbagebetalt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kravet om tilbagebetaling forældes 6 måneder fra det tidspunkt, hvor erhververen kendte eller burde have kendt sit krav.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Forældelse afbrydes ved sagsanlæg.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0266196d-3733-4f64-a834-e5d56102177f">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I det omfang en erlagt overpris ved salg efter § 6 b eller retsplejelovens § 559 a er anvendt til fyldestgørelse af en pant- eller udlægshaver, kan erhververen tillige rette sit tilbagebetalingskrav efter stk. 3 mod denne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Stk. 3, 2. og 3. pkt., finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idcfa1b677-46a3-4623-9f23-e76c36c185be">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Optages et medlem i foreningen i strid med reglen i § 2, stk. 4, kan han kræve et eventuelt erlagt beløb tilbagebetalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id556b90e8-85d5-4b80-924c-892d89194f9c">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Retssager vedrørende stk. 1-5 anlægges for boligretten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8b16738e-3133-4d31-995c-db57c481f931" localId="37">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="idc3a60010-06ed-4f8d-970e-cffb204a4818">
+                <Exitus>
+                  <Linea>
+                    <Char>Dokumenter om overdragelse af en anpart af en fast ejendom skal for at kunne tinglyses indeholde overdragerens erklæring om, at en af følgende betingelser er opfyldt:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idb4e7ebc4-9975-47d1-b69e-4ed8db14c29a">
+                  <Index>
+                    <Indentatio id="ide52723f8-911a-4e8a-a487-f01e305e590e" formaInd="Nummer">
+                      <Explicatus>a)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Ejendommen indeholder ikke mere end 2 beboelseslejligheder, som ikke er fritliggende eller sammenbyggede enfamilieshuse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id5edb51cc-d543-4f94-abfc-848f2e2849d7" formaInd="Nummer">
+                      <Explicatus>b)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Ejendommen indeholder alene 2 beboelseslejligheder i form af fritliggende eller sammenbyggede enfamilieshuse med eventuelt tilhørende småbygninger, og udstykning ikke er mulig ifølge en attest fra en beskikket landinspektør.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1b8a4bec-ffe9-4c3b-95ae-239d0f134649" formaInd="Nummer">
+                      <Explicatus>c)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Det er ikke en betingelse eller forudsætning for aftalen, at erhververen opnår brugsret til en beboelseslejlighed i ejendommen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida618092e-2b82-4723-8f3a-8fe67b161e3d" formaInd="Nummer">
+                      <Explicatus>d)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Overdragelsen omfatter overdragerens samlede ejendomsret og sker til en enkelt erhverver, med mindre erhververne er beslægtede eller besvogrede med overdrageren i op- eller nedadstigende linje eller i hans sidelinje så nær som søskende eller disses børn.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id02b5f24f-f768-4514-baee-5e69f70cf926">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Justitsministeren kan fastsætte nærmere bestemmelser om tinglysning af de nævnte dokumenter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb47e2331-625c-4166-b11f-d5942ebc2bb4" localId="38">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="id52aff1c1-df1f-4bfe-9c75-01a4ae876fa9">
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for by, bolig og landdistrikter kan bemyndige en under ministeriet oprettet styrelse til at udøve de beføjelser, der i denne lov er tillagt ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf3603db1-7a26-4921-95ba-91a993b110e8">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for by, bolig og landdistrikter kan fastsætte regler om adgang til at påklage afgørelser, der er truffet i henhold til bemyndigelse efter stk. 1, herunder at afgørelsen ikke skal kunne indbringes for ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida43b4e93-cf29-494e-9912-0588041e6d7c" localId="39">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="idfb2c2612-d465-4e02-9569-db8d5971c5f8">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. januar 1980.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8b13c1cd-f5ce-443c-bd82-3a12f2129733">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Samtidig ophæves lov nr. 58 af 25. februar 1976 om boligfællesskaber.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb5183a88-b2a2-45a3-9cc0-7852b551fe14" localId="40">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="id55f26aef-31b4-4ecc-a065-18e726606e2a">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="id4fec7cfb-872b-4253-a7c1-2c506bec8bcc">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 486 af 5. november 1980 (Lovændringen vedrører overdragelsesregler m.v.) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="idff28c30b-1c1c-482b-961e-63ac2fc9a29c">
+        <Explicatus>§ 2</Explicatus>
+        <Stk id="id2ca2b6f1-0240-48c2-a398-cae6d265c7b7">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="id2cef2da0-27c1-4f7d-acd4-b7d54e3432b3">
+              <Explicatus>1</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 1, stk. 3, §§ 2-4, § 5, stk. 1, 2 og 9, § 6, § 7, stk. (ophævet), § 9, § 11, § 13, § 15, stk. 1 og 3, samt §§ 16-18.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft den 1. januar 1981.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id0ac48c83-1566-4ade-9a57-2f393740fe60">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Andelsboligforeninger, der har erhvervet ejendommen efter reglerne om tilbudspligt i lov om leje eller i lov om ejerlejligheder, kan uanset den på erhvervelsestidspunktet gældende lovgivning ændre vedtægtsbestemmelser om overdragelse.</Char>
+            </Linea>
+            <Linea>
+              <Char>Det samme gælder andelsboligforeninger, der har erhvervet ejendommen efter 1. januar 1980.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id612ef23d-b445-4664-97bd-79e7bc3f851e">
+          <Explicatus>Stk. 3-5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id73b4fd3e-de70-47c3-a720-a6763ccf6b92">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 80 af 17. marts 1982 (Fastsættelse af værdien af andelsboligforeningernes faste ejendom ved opgørelse af foreningsformuen) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id565ac20b-45ff-419f-8e68-266b0bd412e8">
+        <Explicatus>§ 2</Explicatus>
+        <Stk id="id080124ba-4d72-45f7-90a1-abf70f3e1e67">
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="id2b82e000-814e-4d07-94a0-90e3a1c7ea38">
+              <Explicatus>2</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 5, stk. 2.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft ved bekendtgørelsen i Lovtidende.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="idbcce7e54-4c59-45d0-8ab9-ffacb4500bae">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 194 af 25. maj 1983 (Prisfastsættelsesbestemmelse for andele i andelsboligforeninger opført med offentlig støtte og finansieret med indekslån) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="idf79bbc4e-85c6-4d04-a21b-1a7a13678f8f">
+        <Explicatus>§ 2</Explicatus>
+        <Stk id="id21fedc56-dd19-42e6-b997-2c8019abc1c7">
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="id4129be2f-98a6-48aa-af54-2d31bc55d2ea">
+              <Explicatus>3</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 5, stk. 5.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft den 1. juni 1983.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id81304405-4544-4d38-91e3-aff1017fef33">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 206 af 22. maj 1985 (Ændring af prisfastsættelsesbestemmelserne for andele) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id6e559fab-9639-4854-8612-ecf41900dccf">
+        <Explicatus>§ 2</Explicatus>
+        <Stk id="id077dc98f-cf4c-4dbb-8af8-53e5de73b616">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="idb15cb357-669a-4ede-9ed4-07822f0de1b4">
+              <Explicatus>4</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 5, stk. 2, litra d.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft 1. januar 1986.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idbd969d86-a627-4d07-85f3-4685b2d8a165">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 1, nr. 2 og 3,</Char>
+            </Linea>
+            <Nota id="id085d330b-bff7-4aaf-aa61-bb19c1dfe196">
+              <Explicatus>5</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 5, stk. 3 og 4, samt § 6, stk. 6.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder dog i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id611c9e93-4425-4e51-8550-c4e0c4911691">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 138 af 7. marts 1990 (Konsekvensændringer som følge af lov om udstykning og anden registrering i matriklen) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="idb8480394-7b16-4b90-a19b-ea60adc8db7a">
+        <Explicatus>§ 20</Explicatus>
+        <Stk id="ide34aff6d-30e5-4b60-bcc3-3d388df8890e">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="ida682f03a-6bad-414f-9be7-9ea9839d6653">
+              <Explicatus>6</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 1, stk. 1, og § 13, stk. 1, 2. pkt.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft den 1. april 1991.</Char>
+            </Linea>
+            <Linea>
+              <Char>Dog træder § 18 i kraft den 1. juli 1990.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id5b50712b-bb9d-4061-96a4-dfec6f903d68">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="idea5e9928-ee0f-401a-9917-e276d6f5555e">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 379 af 20. maj 1992 (Ændring af prisfastsættelsesbestemmelserne for andele) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="ide36abd76-727c-46c8-b904-17fc80476e91">
+        <Explicatus>§ 2</Explicatus>
+        <Stk id="id438a2290-c4f7-46b2-8014-39723b5d2025">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="id01187b2a-12ce-4333-ada7-7b586597ffd1">
+              <Explicatus>7</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 5, stk. 2-5, 8 og 12, § 13, stk. 1, 2. pkt., og § 17, stk. 1, litra a og b.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft den 1. juni 1992.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id0b4f6379-3b1a-4316-9d23-90905c04fe22">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 1, nr. 6,</Char>
+            </Linea>
+            <Nota id="id2bbfe81c-fde6-40be-a67b-513e43c9836a">
+              <Explicatus>8</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 5, stk. 8.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>har virkning for konverteringer, der finder sted efter den 31. marts 1992.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id6a835a38-724a-4441-a647-2ffbd67c55a8">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 380 af 20. maj 1992 (Udgifter til fællesantenner m.v.) indeholder følgende ikrafttrædelsesbestemmelser:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id4cb9a8ca-9abe-4b22-adcc-dca2b7cdfb75">
+        <Explicatus>§ 7</Explicatus>
+        <Stk id="id8ef41de8-dbfe-4df5-b04b-8b43da36c511">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="id03759fa3-b305-447e-a533-ed06b8461b85">
+              <Explicatus>9</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører §§ 7 a, 7 b og 11 a.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft den 1. januar 1993.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idafbbdcb0-e336-47a5-bd32-1e91e0d8a3b3">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+      <IkraftCentreretParagraf id="id2f81edd7-3b91-44e8-8aa7-0471fa7a4d09">
+        <Explicatus>§ 9</Explicatus>
+        <Stk id="idb1103268-cc0f-4b5f-b3d3-bea77f869236">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 7 a i lov om andelsboligforeninger og andre boligfællesskaber, som affattet ved denne lovs § 5, nr. 1, gælder for ejendomme med egne fællesantenneanlæg, som er etableret eller forbedret dagen efter lovens bekendtgørelse i Lovtidende eller senere, samt for ejendomme med programforsyning udefra, som er etableret dagen efter lovens bekendtgørelse i Lovtidende eller senere.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id4a1053e9-a178-4600-9a50-8ce99b7affe2">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 7 a i lov om andelsboligforeninger og andre boligfællesskaber, som affattet ved denne lovs § 5, nr. 1, gælder endvidere for ejendomme med egne fællesantenneanlæg, der er etableret tidligere end dagen efter lovens bekendtgørelse i Lovtidende, dog således, at det alene er udgifterne som nævnt i stk. 1, nr. 2-9, som ikke kan indeholdes i boligafgiften.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id0dfa21a6-5624-4414-a6da-a1128f3c506a">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 7 a i lov om andelsboligforeninger og andre boligfællesskaber, som affattet ved denne lovs § 5, nr. 1, gælder endvidere for ejendomme med programforsyning udefra, som er etableret tidligere end dagen efter lovens bekendtgørelse i Lovtidende, dog således, at det indtil 1. januar 1998 alene er udgifter som nævnt i stk. 1, nr. 6-9, og 50 pct. af udgifter til signalleverandøren som nævnt i stk. 1, nr. 1-5, der ikke kan indeholdes i boligafgiften.</Char>
+            </Linea>
+            <Linea>
+              <Char>Såfremt programforsyningen som anført i 1. pkt. forbedres, kan der heller ikke i boligafgiften indeholdes udgiftsstigning som følge af forbedringen.</Char>
+            </Linea>
+            <Linea>
+              <Char>Fra og med 1. januar 1998 kan samtlige udgifter til signalleverandøren efter stk. 1, nr. 1-5, ikke indeholdes i boligafgiften, og denne nedsættes tilsvarende.</Char>
+            </Linea>
+            <Linea>
+              <Char>Stk. 4 finder tilsvarende anvendelse.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id7d9d035f-fd86-414e-a78b-6d45fe40d58a">
+          <Explicatus>Stk. 4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Andelsboligforeningen skal med virkning fra 1. januar 1993 foretage en nedsættelse af boligafgiften for hver enkelt andelshaver svarende til de hidtil betalte udgifter eller for ejendomme omfattet af § 9, stk. 3, det efter denne bestemmelse beregnede beløb bortset fra udgifter til administration.</Char>
+            </Linea>
+            <Linea>
+              <Char>Andelsboligforeningen skal inden den 1. oktober 1992 give andelshaveren specificerede oplysninger om størrelsen af nedsættelsen af boligafgiften og skal samtidig give kommunen meddelelse om størrelsen af boligafgiften pr. 1. januar 1993 for de enkelte andelshavere i ejendommen.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idc03aedbb-8c90-4d0f-a27a-18602f1e61e9">
+          <Explicatus>Stk. 5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 7 b, stk. 2, i lov om andelsboligforeninger og andre boligfællesskaber, som affattet ved denne lovs § 5, nr. 1, har virkning for egne fællesantenneanlæg og programforsyning udefra, som etableres efter 1. januar 1998.</Char>
+            </Linea>
+            <Nota id="id670b4522-96fc-45cd-b7f4-aec6ba07293f">
+              <Explicatus>10</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Ved en fejl står der i § 9, stk. 5, 1. pkt., i lov nr. 380 af 20. maj 1992 ”1. januar 1998” i stedet for som rigtigt ”1. januar 1993”.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Bestemmelsen svarer til § 8, stk. 5, i loven.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>For anlæg og programforsyning, som er etableret inden 1. januar 1993, og som er indrettet til modtagelse af betalingsprogrammer, skal andelsboligforeningen hurtigst muligt, dog inden 1. januar 1998, skabe mulighed for individuelt valg af programudbud i ejendommen, såfremt andelshaveren ønsker det.</Char>
+            </Linea>
+            <Linea>
+              <Char>Ved betalingsprogrammer forstås alle programmer, hvis modtagelse og udsendelse i anlægget er betinget af andelsboligforeningens betaling herfor til programleverandøren.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id4517737f-cccb-4a97-a218-9ac1c7de9fc6">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1072 af 22. december 1993 (Ændrede reguleringsbestemmelser) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="idb141f42e-cf6d-45b1-b96f-18dae2237e3b">
+        <Explicatus>§ 5</Explicatus>
+        <Stk id="idc51ecd8a-282b-46cc-92cc-6ef6734e1583">
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="id36d4f92b-12b9-4c6b-a613-56b96d90813b">
+              <Explicatus>11</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 7 a, stk. 1, nr. 9, og stk. 2.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft den 1. januar 1994.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id4aa1d33e-b1df-4a2e-91ed-999a295bd82f">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 335 af 10. maj 1994 (Forbud mod etablering af visse boligfællesskaber m.v.) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id34477dbf-027c-4bb5-9cbc-8c62f0d124b7">
+        <Explicatus>§ 2</Explicatus>
+        <Stk id="id36834b89-85a0-433c-a4cb-f040f88e59d9">
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="idbc77a107-246d-470a-aaca-f3f9414dff13">
+              <Explicatus>12</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 1, stk. 1, kap.</Char>
+                </Linea>
+                <Linea>
+                  <Char>I, kap IV, §§ 12-14, kap.</Char>
+                </Linea>
+                <Linea>
+                  <Char>IV A, § 15, stk. 2 og 3, og § 16, stk. 1 og 2.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft dagen efter bekendtgørelsen i Lovtidende</Char>
+            </Linea>
+            <Nota id="ida060c394-6736-41cc-be72-427b8600881a">
+              <Explicatus>13</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Bekendtgørelsen i Lovtidende fandt sted den 11. maj 1994.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>og har virkning for aftaler om overdragelse, der indgås efter lovens ikrafttræden.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id0894cb16-41c2-470b-9056-71accee01b1d">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 445 af 1. juni 1994 (Standardiseret lejeværdiberegning for mindre udlejningsejendomme og visse boligfællesskaber, genoptagelse af visse skatteansættelser for 1990 samt undtagelse fra forbud mod overdragelse af visse andele i boligfællesskaber) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id7572a2af-79d4-4656-965d-8b957a96ea51">
+        <Explicatus>§ 7</Explicatus>
+        <Stk id="id63255dbd-e7cb-4aa0-b17b-5318e0c8205b">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="id695b35c1-9f23-48f5-b76c-01a748eb8cd6">
+              <Explicatus>14</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 14 a, stk. 3, og § 14 b, stk. 1, 1. pkt.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+            </Linea>
+            <Nota id="ida6b72454-e77f-4fe2-868d-5e509960b7d8">
+              <Explicatus>15</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Bekendtgørelsen i Lovtidende fandt sted den 2. juni 1994.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+          </Exitus>
+        </Stk>
+        <Stk id="id08f57f00-b00d-48f6-911a-93f06eb6e5a0">
+          <Explicatus>Stk. 2-3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id551be584-a207-4d3a-8f7f-e505e0373edb">
+          <Explicatus>Stk. 4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 6 har virkning for aftaler om overdragelse, der indgås efter 11. maj 1994.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="idea83436f-41e4-4bc4-a83a-a893a2be59b4">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 306 af 17. maj 1995 (Revision af reglerne om udgifter til fællesantenner m.v.) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="idfacc855a-e0dc-481f-bdbd-99127cabf186">
+        <Explicatus>§ 5</Explicatus>
+        <Stk id="id3f691253-8c5c-4c78-98c1-b8a076632c8c">
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="id4f842696-2b35-434f-8cfa-acb4de36f243">
+              <Explicatus>16</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 7 a og § 7 b, stk. 2-4.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+            </Linea>
+            <Nota id="idca298574-eeab-45d7-9309-44a0efe38a35">
+              <Explicatus>17</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Bekendtgørelsen i Lovtidende fandt sted den 18. maj 1995.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="idd0158293-e341-4995-ae87-d2331c78604b">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 220 af 27. marts 1996 (Ændring af vilkårene for private andelsboliger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id33e63b3c-84cd-4b24-88fd-58df1d7181c3">
+        <Explicatus>§ 4</Explicatus>
+        <Stk id="id986474d3-0fd5-4a5d-9662-7b14282914a3">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="id6210cfc8-44e4-4ad8-8d39-b96c8cb64fee">
+              <Explicatus>18</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 5, stk. 8 og 12.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft den 1. april 1996, jf. dog stk. 2.</Char>
+            </Linea>
+            <Nota id="idb53f0392-e4e6-402d-8ffe-509675b32d74">
+              <Explicatus>19</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Stk. 2 vedrører ændring af lov om boligbyggeri.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+          </Exitus>
+        </Stk>
+        <Stk id="id27a4e487-9a38-48d9-a39b-6fe57fa8fd8f">
+          <Explicatus>Stk. 2-3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id5ac35b3a-cf68-4789-9cfb-4a86b907fef0">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 382 af 10. juni 1997 (Ændringer som konsekvens af lov om byfornyelse) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id61a7e68f-f9f3-4e57-9c19-100df922c0f2">
+        <Explicatus>§ 10</Explicatus>
+        <Stk id="id1889872a-6643-4342-bd9f-48bec896e2fd">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="id0bbe5e9a-0dbb-4142-b1a8-bcfc851711c5">
+              <Explicatus>20</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 5, stk. 5 og 6, og § 6, stk. 6.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft den 1. januar 1998.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idddcfbe40-0e13-4676-92f1-f2ecc6a53041">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id7f961997-a2ed-49df-b42c-aa0a60b493a5">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 383 af 10. juni 1997 (Stop for arrest og udlæg i en andel i en andelsboligforening) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id3562ee5c-e885-4ef8-b564-a3e235f910ff">
+        <Explicatus>§ 2</Explicatus>
+        <Stk id="id7940f87c-1bc2-4f1f-8b2a-700097bc3a71">
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="iddadceb58-1b7b-453a-b80b-660be69cdc0d">
+              <Explicatus>21</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 6 a og § 11 a.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+            </Linea>
+            <Nota id="idd48563bc-ef89-4728-8cde-cc9896a20603">
+              <Explicatus>22</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Bekendtgørelsen i Lovtidende fandt sted den 11. juni 1997.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id1461129d-9743-4500-a5ef-cc8085e7ee7b">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1086 af 29. december 1999 (Rentetilpasningslån, konvertering, betaling af realkreditbidrag, alternative boliger til unge, styrket indsats i socialt svage byområder) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id3bde7551-d547-426e-89a6-1811d597eba0">
+        <Explicatus>§ 5</Explicatus>
+        <Stk id="idca94ceab-9b96-430d-ab2a-57690f2d988d">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="iddf6d1dc4-7348-402d-97e4-f1366f466974">
+              <Explicatus>23</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 5, stk. 8.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft den 1. januar 2000.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idc48c291a-b66f-46ce-90df-6cabdd966e2d">
+          <Explicatus>Stk. 2-3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id62ed6c15-bacd-4068-9e94-a2b0d32b0510">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 404 af 31. maj 2000 (Fleksible udlejningsregler, særlig støtte til visse almene boligafdelinger og kommunal anvisning til private andelsboliger) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="idd5650e40-f676-47bc-a3bc-58fae78e24ab">
+        <Explicatus>§ 6</Explicatus>
+        <Stk id="id5b461797-1cd2-42b4-82b9-bbdd842082cd">
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="id01d59f5b-187c-447d-8a32-cb749ca28590">
+              <Explicatus>24</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 5, stk. 12, 1. pkt., §§ 7 c-7 h og § 15, stk. 3.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+            </Linea>
+            <Nota id="idfaf747ab-a5d0-45e0-bb6d-c413d66eb487">
+              <Explicatus>25</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Bekendtgørelsen i Lovtidende fandt sted den 2. juni 2000.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="idf3470fdf-c734-4ab2-98f1-97a636ce4792">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 406 af 31. maj 2000 (Gennemgribende forbedrede lejemål, landsdækkende huslejenævn, fællesantenner og Grundejernes Investeringsfond) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id0eb7eb1a-4f53-4278-8ef2-7dbb72b8fbdc">
+        <Explicatus>§ 11</Explicatus>
+        <Stk id="id10654507-0506-4041-a88f-c6a89d6d5970">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="id4f7d33cb-76c6-49a6-bec6-aabefd61e3ec">
+              <Explicatus>26</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 1, stk. 2, § 2, stk. 7, § 5, stk. 5 og 7, § 6, stk. 6, § 7 a og § 7 b.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft den 1. januar 2001.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id1cedf0f8-e6d6-4ac3-b835-6016619ec360">
+          <Explicatus>Stk. 2-8.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id76dd5a3c-373f-42bd-80ba-6ec36d8cb3bc">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 137 af 20. marts 2002 (Forøgelse af andelsboligkvoten og ændret finansiering af støttede andelsboliger) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id5944b35e-be8a-4fbc-918e-ca520e71f71f">
+        <Explicatus>§ 3</Explicatus>
+        <Stk id="id9cfa0125-aa60-420e-bcc2-38f13ddb8da2">
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="id8f01c583-ede8-4f81-a90a-94490cdaa09d">
+              <Explicatus>27</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 5, stk. 9, og § 7 g.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft den 1. april 2002.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id034b6519-dc91-4fe6-a2d8-d816cbae1e04">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1235 af 27. december 2003 (Konsekvensændringer som følge af lov om byfornyelse og udvikling af byer) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id2ecdac57-008a-4d4c-98ba-ca7ce2bd3a56">
+        <Explicatus>§ 9</Explicatus>
+        <Stk id="id90cd37cb-a4d4-4066-bff0-215f16102593">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="idcc282e85-bca1-4f16-8400-45f95f558424">
+              <Explicatus>28</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 5, stk. 5-7, og § 7 g.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft den 1. januar 2004.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id0c7eee19-41cc-4431-9d1a-1c56b6ed1848">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 5 gælder ikke for husstande i ejendomme, hvortil kommunen har hjemtaget bindende tilsagn til en byfornyelsesbeslutning inden den 1. januar 2004 eller inden denne dato har meddelt påbud efter kapitel 9 i lov m byfornyelse, jf. lovbekendtgørelse nr. 260 af 7. april 2003.</Char>
+            </Linea>
+            <Linea>
+              <Char>Det samme gælder for husstande i kvarterløftsområder i ejendomme omfattet af en beslutning om byfornyelse i henhold til lov om byfornyelse, hvortil der er afsat midler på finanslov 2000 og hjemtaget bindende tilsagn om offentlig støtte inden den 1. januar 2009.</Char>
+            </Linea>
+            <Linea>
+              <Char>Disse husstande er fortsat efter udgangen af 2003 berettiget til sanerings- og byfornyelsesboligsikring samt huslejetilskud efter de tidligere gældende regler.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id07ed0d90-bd9b-4dbe-bd7b-44c38fff7fbd">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1219 af 27. december 2003 (Betaling for adgang til elektroniske kommunikationstjenester) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id69f3f0c2-9887-4977-9c56-bf8e0d3318ba">
+        <Explicatus>§ 6</Explicatus>
+        <Stk id="idc25040f4-942a-4395-b1d4-8c6fdf02a0c6">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="id6af6f175-9d58-47e9-a4c9-a200f156da77">
+              <Explicatus>29</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 7a, stk. 1, 1. og 2. pkt.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft den 1. januar 2004.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id576514e5-5931-4d1b-a7f4-8d374e3425da">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lejere, som på tidspunktet for lovens ikrafttræden er forpligtet til at betale bidrag til ejendommens forsyning med adgang til elektroniske kommunikationstjenester, vil fortsat være forpligtet til at betale dette bidrag.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idac253327-d8ee-4a43-9d04-8638a6f70ab4">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>I lejeforhold, hvor betalingen for lejerens adgang til elektroniske kommunikationstjenester er indeholdt i lejen, skal lejen nedsættes med det beløb, som efter § 1, nr. 4, og § 2, nr. 4, overføres til betaling efter reglerne i henholdsvis kapitel VII A i lov om leje og kapitel 11 i lov om leje af almene boliger om lejerens betaling til fællesantenne og adgang til elektroniske kommunikationstjenester m.v.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="idfc4d04b8-3425-49e7-b4e2-b6b8b9780449">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 204 af 29. marts 2004 (Pant og udlæg i andelsboliger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id7f6501e3-a14a-4da9-98aa-8503a38852e9">
+        <Explicatus>§ 2</Explicatus>
+        <Stk id="id93baf88c-1b2a-4877-8122-42d18541524a">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Økonomi- og erhvervsministeren fastsætter tidspunktet for lovens ikrafttræden.</Char>
+            </Linea>
+            <Nota id="idb2a31ac2-7937-4f0b-9fa0-14d763e52afe">
+              <Explicatus>30</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 2, stk. 5, § 4 a, § 5, stk. 14, § 6, stk. 7 og 8, §§ 6 a, 6 b, 7 g og 11 a, § 15, stk. 1 og 5, og § 16, stk. 4 og 5, og trådte i kraft den 1. februar 2005, jf. bekendtgørelse nr. 1396 af 17. december 2004.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+          </Exitus>
+        </Stk>
+        <Stk id="id9b37dd77-ff94-4470-8fb5-2b117e8bd8e1">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 5, stk. 14, 4. pkt., i lov om andelsboligforeninger og andre bofællesskaber, finder dog fortsat anvendelse for garantier, som er stillet før lovens ikrafttræden.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="ided2492b4-efa9-4998-a99d-a153e9effda2">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 412 af 1. juni 2005 (Oplysningspligt m.v. ved salg af andele i andelsboligforeninger under stiftelse og straf for salg af andelsboliger til overpris m.v.) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id96c53a4c-1972-4a64-917a-ebd439288c15">
+        <Explicatus>§ 4</Explicatus>
+        <Stk id="idb0d3270c-bcac-4a01-ae7c-d675f2e92765">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="idea5f2cda-47d4-49bd-952b-fd95c195d35f">
+              <Explicatus>31</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 1 b, § 2, stk. 7, § 3, stk. 2, § 5, stk. 2 og 4, og § 15.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft den 1. september 2005.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id9c2aaa0d-7240-4164-8c9b-8be4d4d8a0e0">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 5, stk. 2, litra d, i lov om andelsboligforeninger og andre boligfællesskaber finder fortsat anvendelse for andelsboligforeninger, hvor det fremgår af det før den 1. september 2005 senest aflagte årsregnskab, at andelens værdi er opgjort efter denne prisfastsættelsesmetode.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id5ad366d8-937b-4b0c-8fc6-6af221660408">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 521 af 21. juni 2005 (Salg af private andelsboligforeningsejendomme) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id19cea12c-9646-415f-8aa1-a2116dcec6b1">
+        <Explicatus>§ 2</Explicatus>
+        <Stk id="ide55fd529-06e0-47d7-9449-d2ffb3d8e6bd">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="ide9eb7975-acd7-4e5e-aa87-8c8e8af85c7d">
+              <Explicatus>32</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 2, § 9, § 15, stk. 1 og 7, og § 16.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+            </Linea>
+            <Nota id="id5d238013-1c6a-4abd-9f64-d28185e850b0">
+              <Explicatus>33</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Bekendtgørelsen i Lovtidende fandt sted den 22. juni 2005.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+          </Exitus>
+        </Stk>
+        <Stk id="id2e56017c-b90a-44fe-8ed2-8838d9cfce9e">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 2, stk. 2, 1. pkt., jf. § 9, stk. 1, i lov om andelsboligforeninger og andre boligfællesskaber som affattet ved denne lovs § 1, nr. 1 og 4, finder anvendelse på aftaler, der er indgået efter lovens ikrafttræden, om erhvervelse af ejendomme, der efter lovens ikrafttræden er eller har været ejet af en andelsboligforening, et boligaktieselskab eller et boliganpartsselskab.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id969be136-d01d-4d85-b908-e9b668d273ed">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 2, stk. 2, 4. pkt., i lov om andelsboligforeninger og andre boligfællesskaber som affattet ved denne lovs § 1, nr. 1, finder anvendelse på ejendomme, der efter lovens ikrafttræden er eller har været ejet af en andelsboligforening, et boligaktieselskab eller et boliganpartsselskab.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id51074974-52d3-4a05-841a-6f4d624e173c">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 489 af 12. juni 2009 (Rykningstilsagn til vedligeholdelsesarbejder og lånetilbud til frigørelse) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="ide41310a3-dccd-4122-bfd5-d2cc199725b6">
+        <Explicatus>§ 3</Explicatus>
+        <Stk id="idce0568a1-b1df-40f9-9640-122654ffcc54">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. juli 2009.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="ida3f3a877-30bd-4ad8-b77a-873b3536c6cb">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 610 af 12. juni 2013 (Udvidelse af sælgerens oplysningsforpligtelse ved salg af andelsboliger og indførelse af karensperiode for anvendelse af valuarvurdering og offentlig vurdering ved værdiansættelse af foreningens ejendom m.v.) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="idaa650e1a-71c1-4c84-a999-a2d48ee7721e">
+        <Explicatus>§ 2</Explicatus>
+        <Stk id="id8a2f2207-4d22-4b0b-ba03-e65999838810">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="idc87ec4ff-3314-497b-bc65-3a124b90e6af">
+              <Explicatus>34</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 4 b, stk. 3, § 5, stk. 2, 10 og 11, § 6, stk. 1, 4 og 8, § 6 b, stk. 6, og § 7 h, stk. 1.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft den 1. januar 2014, jf. dog stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id176bfe6c-2b3d-4c8a-94e2-5491705382f2">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 1, nr. 2, træder i kraft den 1. juli 2013 og har virkning for andelsboligforeninger, der stiftes efter denne bestemmelses ikrafttræden.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id7b0206c7-ca81-4ea4-906a-eb3a6c1b2fc5">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 1, nr. 4, finder anvendelse på årsregnskaber for regnskabsår, der begynder den 1. januar 2013 eller senere.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id4af5d752-0843-4ce0-97ef-7bdaf0725a61">
+          <Explicatus>Stk. 4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 6, stk. 1, i lov om andelsboligforeninger og andre boligfællesskaber som affattet ved denne lovs § 1, nr. 5, finder alene anvendelse på aftaler om overdragelse af andelsboliger, der indgås efter andelsboligforeningens godkendelse af årsregnskabet vedrørende det regnskabsår, der begynder den 1. januar 2013 eller senere.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id1e4daeed-7b9d-4baa-bf00-a663820bdccc">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 526 af 28. maj 2014 (Lov om formidling af fast ejendom m.v.) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <Paragraf id="id834fa15f-7d59-4a0e-8b9e-51dc62623ca6" localId="41">
+        <Explicatus>§ 66.</Explicatus>
+        <Stk id="idf8d437f6-d225-43fc-9ec5-2a803c03bfa8">
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="id68abffc5-e4c2-455b-a646-9df11f069dbe">
+              <Explicatus>35</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 5, stk. 2.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft den 1. januar 2015.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id67e34570-869c-482d-82d3-dc2c889b8457">
+          <Explicatus>Stk. 2-3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </Paragraf>
+    </Ikraft>
+    <Ikraft id="iddf7225a3-0031-49dc-8365-0e05ffba5b2d">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1365 af 16. december 2014 (Skærpede krav til stiftelse af andelsboligforeninger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id431f4d39-ae9e-461d-ba71-6c4fe722359f">
+        <Explicatus>§ 3</Explicatus>
+        <Stk id="id4ae79d38-6626-4212-89e1-31bb8a71e93e">
+          <Exitus>
+            <Linea>
+              <Char>Loven</Char>
+            </Linea>
+            <Nota id="id13350f22-42e2-4f7f-be5e-0517d851af9d">
+              <Explicatus>36</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lovændringen vedrører § 2, stk. 1, § 3 a og b, § 6, stk. 3 og 4.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>træder i kraft den 1. januar 2015.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idcc22552a-2a1f-4a85-b9fb-75a964f685a7">
+    <UnderskriftStedDato id="idcc22552a-2a1f-4a85-b9fb-75a964f685a7" />
+    <Underskriver id="idcc22552a-2a1f-4a85-b9fb-75a964f685a7" />
+  </UnderskriftGruppe>
+</Dokument>

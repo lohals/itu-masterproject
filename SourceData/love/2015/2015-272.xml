@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id1f8c05e1-f2c5-4abe-a715-e01d92aa12f0" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/02/16/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idb40000a4-e12f-4aac-ad4b-b6df44dfa34b">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150027230</AccessionNumber>
+    <DocumentId>CD000026</DocumentId>
+    <UniqueDocumentId>169042</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om ændring af lov om folkekirkens økonomi (Ophævelse af revisionsklausul)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-03-25</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2015-03-28</EndDate>
+    <Status>Valid</Status>
+    <Number>272</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 272 af 25/03/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Marianne Jelved</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Kirkemin., j.nr. 137498/14</JournalNumber>
+    <Ministry>Kirkeministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="idbfe6293e-d254-4a87-bcf4-425fdff05adb">
+    <Titel id="ide08216f1-1f89-419f-8540-c9f9b96480e0">
+      <Linea>
+        <Char>Lov om ændring af lov om ændring af lov om folkekirkens økonomi</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id23a8eec7-6a06-44b3-92e9-d2ee9f536e46">
+      <Linea>
+        <Char>(Ophævelse af revisionsklausul)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="idb8c342cc-eec3-4d79-a094-88021ef9b66e">
+    <Hymne id="id8e06b8ea-7f1d-4790-b75f-8ace2d0888ea">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id6569ad8f-d9d8-47c8-9935-e75c012f5d21">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 506 af 12. juni 2009 om ændring af lov om folkekirkens økonomi (Etablering af permanente stiftsråd), som ændret ved lov nr. 1393 af 23. december 2012, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id666161a5-be11-46ef-9028-581bc6c2ddf5">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id4bc0a687-646b-4951-b913-2ce8f6ba7fd4">
+          <AendringDefinition id="id06ee9e60-26be-4a63-b585-fbb33162fdde">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 3</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfb6a7678-35dc-4ce9-ae57-9a34a56942a4" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id72bc03ec-fe65-44c4-b74a-e0117022788e">
+      <Explicatus>§ 2</Explicatus>
+      <Stk id="id0eecd090-868e-4907-9e07-1b8df5ef0345">
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. april 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id45df5b6e-bc4c-49d7-97be-79e5938d6a89">
+    <UnderskriftStedDato id="id45df5b6e-bc4c-49d7-97be-79e5938d6a89" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id45df5b6e-bc4c-49d7-97be-79e5938d6a89" />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,2726 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id6e5be749-3203-40a1-b0e6-fbe6700258b8" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="ide94957b6-76f4-4fa8-b0ab-5486585586d6">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150052330</AccessionNumber>
+    <DocumentId>CF001409</DocumentId>
+    <UniqueDocumentId>169835</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om Udbetaling Danmark og forskellige andre love (Overførsel af myndighedsområder til Udbetaling Danmark og indførelse af beføjelser til, at Udbetaling Danmark kan foretage registersamkøringer på bl.a. kommunale ydelsesområder m.v.)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-04-29</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-01-26</EndDate>
+    <Status>Historic</Status>
+    <Number>523</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1120 af 17/09/2015</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1121 af 17/09/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 806 af 01/07/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1052 af 08/09/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1188 af 24/09/2016</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 84 af 17/01/2017</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1507 af 06/12/2016</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 523 af 29/04/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2017-01-25</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Manu Sareen</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold, j.nr. 2014-5362</JournalNumber>
+    <Ministry>Beskæftigelsesministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="idc42553e1-d79b-4f1d-85f0-a656cf5e5619">
+    <Titel id="idd7fca796-be10-40e1-9b6e-9c542e3e86be">
+      <Linea>
+        <Char>Lov om ændring af lov om Udbetaling Danmark og forskellige andre love</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="ida27f076a-427e-40f7-85fa-289c2161b72c">
+      <Linea>
+        <Char>(Overførsel af myndighedsområder til Udbetaling Danmark og indførelse af beføjelser til, at Udbetaling Danmark kan foretage registersamkøringer på bl.a. kommunale ydelsesområder m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id2df9d5dc-e770-4255-b5d0-72d562d19151">
+    <Hymne id="ida45a4a51-7451-4400-8d61-8c02d0d20964">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id1a837f14-2a9f-437e-8e19-d85e7fb60b4d">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 324 af 11. april 2012 om Udbetaling Danmark, som ændret ved § 1 i lov nr. 494 af 21. maj 2013 og § 12 i lov nr. 552 af 2. juni 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id968d018f-68cb-4633-98b9-9850b6a09e03">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id3490a2cc-259b-434a-8e03-7814a4f87dc0">
+          <AendringDefinition id="idac83e678-7f88-4397-8ed6-c87d7865dc65">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 1,</Char>
+                <Char> indsættes efter »i henhold til«: »denne lov og til«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id08b5ad3c-e9d4-4040-952c-8b5a8c6d640a" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5b709746-db3b-4111-a03c-35b3be2bf73e">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id03cc176e-ba4b-4fe8-94a8-5a2efb239f4e">
+          <AendringDefinition id="id38caa3e3-9bbf-40a6-8ec1-b46bb990c9fb">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 1,</Char>
+                <Char> indsættes efter nr. 10 som nye numre:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id077d237a-27a0-46bd-89ff-88104b8adb94">
+            <AendringNyTekst>
+              <Exitus id="id0d0acdbb-2953-49b1-99ff-c8f44c6fb287">
+                <Index>
+                  <Indentatio id="id49f613e0-7477-48a2-baff-aa1cc07413ab" formaInd="Nummer">
+                    <Explicatus>11)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Lov om fleksydelse.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id1cf6ddba-a786-491d-80a9-36b2285d612a" formaInd="Nummer">
+                    <Explicatus>12)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Lov om delpension.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id71e6a415-578c-46ae-b948-f13167de6fc0" formaInd="Nummer">
+                    <Explicatus>13)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Sundhedsloven.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id3ff7392c-0669-4813-bd07-762fbd672174">
+          <Exitus>
+            <Linea>
+              <Char>Nr. 11 bliver herefter nr. 14.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="idf4093a67-a18a-46eb-99ae-9faded6b9e1e">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id9877c32a-7037-45ea-a5e4-7d6296f24bea">
+          <AendringDefinition id="id0caaaeda-cddd-4f5c-8662-ecf0cd14f6f9">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 9, 1. pkt.,</Char>
+                <Char> ændres »dennes ægtefælle eller samlever og andre husstandsmedlemmer« til: »dennes ægtefælle, samlever eller formodede samlever og andre husstandsmedlemmer eller formodede husstandsmedlemmer«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd2df033d-4171-4a20-b344-cc6f690bd624" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id41a0d54d-a453-46c4-8890-868b16ed107b">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id5577f60b-9da8-4d5e-bf7e-f7be308e5911">
+          <AendringDefinition id="id45d62cef-450b-4c00-a613-6998431a22d1">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 10, 1. pkt.,</Char>
+                <Char> ændres »dennes ægtefælle eller samlever og andre husstandsmedlemmer« til: »dennes ægtefælle, samlever eller formodede samlever og andre husstandsmedlemmer eller formodede husstandsmedlemmer«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id12bbe8da-8556-43a6-90c0-81f4b6687be2" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9259f6f8-1f3d-4364-bcfb-1c329f8f9d53">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="idf92198ff-98f1-425a-94d0-2b2b1d59cb88">
+          <AendringDefinition id="idd987b83c-0988-43c9-bafc-cca2ef2a6fdd">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 11, 3. pkt.,</Char>
+                <Char> ændres »dennes ægtefælle eller samlever og andre husstandsmedlemmer« til: »dennes ægtefælle, samlever eller formodede samlever og andre husstandsmedlemmer eller formodede husstandsmedlemmer«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0abf7453-5702-4aaa-abf9-7431f60a7b56" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide80631af-6ce2-46db-b78b-e0dc90edf34f">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id88b8c06e-2e15-49ee-91d1-bcdbcff2d173">
+          <AendringDefinition id="idd179fa41-1d8f-4148-897b-83b2acbe1344">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 11</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc56eb4fa-0a8f-42fe-93e7-560b449e8585" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id416ff7d2-1511-48d2-9d65-aef5e4756f55">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udbetaling Danmark skal i sager, som kommunen helt eller delvis har oplyst efter stk. 1, udarbejde statistik til den enkelte kommune om, hvor mange af sagerne der har ført til henlæggelse eller afgørelse om tilbagebetaling, frakendelse eller nedsættelse af ydelsen eller det økonomiske tilskud, og oplyse om tilbagebetalingskravets størrelse eller værdien af frakendelsen eller nedsættelsen af ydelsen eller det økonomiske tilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id0a15cef4-36de-4863-882f-83c4a1b78bf6">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id59a1159e-cc55-4fb3-ae59-562dfd195982">
+          <AendringDefinition id="id2e4ea937-6e79-4245-a71e-e5ad3f6a622f">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 11 indsættes før overskriften før § 12:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7e2cd318-6a7b-4de2-8059-de3aa31bb003" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="idce55daa1-d543-40a0-9e16-65fd9e6cf5c4" localId="1">
+                <Explicatus>§ 11 a.</Explicatus>
+                <Stk id="id4a9e959b-43be-4ca5-92b5-c4057dea4d64">
+                  <Exitus>
+                    <Linea>
+                      <Char>Udbetaling Danmark og kommunen har efter forudgående samtykke fra borgeren, i det omfang det er nødvendigt for oplysningen af en ansøgningssag om kontante ydelser og økonomiske tilskud, adgang til et it-system, hvoraf det fremgår,</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus id="id5ee55251-b235-4c2a-9b90-ce4d6a1a6ad5">
+                    <Index>
+                      <Indentatio id="id0c279270-a6e6-4ab4-a42d-202be66ecfc0" formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>om der i Udbetaling Danmark eller kommunen er oprettet en kontrolsag om andre kontante ydelser eller økonomiske tilskud vedrørende borgeren, og</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="id935aceed-d242-49ab-a90c-1ffb6fafd03b" formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>hvilket kontroltema der bliver undersøgt i sagen.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk id="id1fbe5e05-b1a1-4490-9f2e-db4cb7c4cc91">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Udbetaling Danmark og kommunen har til brug for udveksling af nødvendige oplysninger efter §§ 6, 7 og 9-11 uden samtykke fra borgeren terminaladgang til et it-system med oplysninger om,</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus id="iddf4e6942-33a8-4f95-8865-c689dd0efa92">
+                    <Index>
+                      <Indentatio id="id52429efd-3306-4fc9-957f-cfba4b200646" formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>at der i Udbetaling Danmark eller kommunen er oprettet en kontrolsag om andre kontante ydelser eller økonomiske tilskud vedrørende borgeren,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="id30f1cb68-8d92-472c-8c04-b5fc3053b457" formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>hvilket kontroltema der bliver undersøgt i sagen,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="idcb675e01-44c6-451d-800f-157ae5a27f97" formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>sagsskridt i kontrolsagen, og</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="id08860d99-416a-49e0-9a30-91bd1bdd918d" formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>hvorvidt der er blevet henlagt en kontrolsag inden for de seneste 6 måneder.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="id0f62fe0b-338d-4ee9-95a6-c2552febf9b9" localId="2">
+                <Explicatus>§ 11 b.</Explicatus>
+                <Stk id="ida4f43420-0c7e-43c3-883e-e7aaf7f6cb8a">
+                  <Exitus>
+                    <Linea>
+                      <Char>Kommunen og Udbetaling Danmark kan udveksle nødvendige oplysninger fra afgørelser i sager, hvor de samme faktiske forhold har betydning for en afgørelse, som kommunen og Udbetaling Danmark skal træffe på hvert sit myndighedsområde vedrørende den samme borger, hvor de faktuelle forhold og vurderinger i sagerne bygger på et ensartet retsgrundlag.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Oplysningerne efter 1. pkt. kan udveksles uden samtykke fra borgeren.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id78f640aa-697e-484e-81c7-3f6ad9e429fe">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id6deba9ca-975c-4be3-b4ff-6744627d1d0d">
+          <AendringDefinition id="id389d8e8f-6bd7-4fb6-9553-cba44ad8babd">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf6ce2ec2-9bc8-46ca-bc5b-dc302eb76a00" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Udbetaling Danmark kan ved administrationen af sine sagsområder efter § 1 forlange at få nødvendige ikkefølsomme personoplysninger fra andre offentlige myndigheder og arbejdsløshedskasser i elektronisk form og indhente nødvendige ikkefølsomme personoplysninger fra udenlandske myndigheder i elektronisk form med henblik på samkøring og sammenstilling i kontroløjemed uden samtykke fra borgeren eller arbejdsgiveren til brug for kontrol af en enkelt sag eller til brug for generel kontrol af ansøgere eller modtagere af kontante ydelser eller økonomiske tilskud.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide2d3a5e8-71da-4697-99fd-17bb71657b7b">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="idea89b5e9-5ed6-4167-8ced-7e5e96f0141a">
+          <AendringDefinition id="id70f07b1b-97f5-43a3-b318-ec85a96e4744">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">4:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfa6d1373-409b-4482-9528-2a2193abb5c6">
+            <AendringNyTekst>
+              <Stk id="id0ae69525-06b8-416d-83ee-6a7e4e0d17b5">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udbetaling Danmark kan samkøre resultatet af samkøringen efter stk. 2 uden samtykke fra borgeren med oplysninger om adresseforhold fra virksomheder, der er pålagt befordringspligt efter postloven, i sager, hvor oplysningerne er nødvendige for at belyse, om en modtager af en kontant ydelse eller et økonomisk tilskud har ophold i Danmark eller er enlig.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbed2c463-4798-4c61-a168-a13689afbe43">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Virksomheder, der er omfattet af stk. 3, har pligt til at stille de nødvendige oplysninger til rådighed for Udbetaling Danmark.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7bb17de6-38a7-4e61-9b42-bbd062bc5a1f">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="id04db5da6-225e-490b-9339-dcc119af46ed">
+          <AendringDefinition id="id7f3115f0-7bb0-4c4a-86b5-2902da4293c8">
+            <Exitus>
+              <Linea>
+                <Char>Efter kapitel 3 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5c6784c3-5d9d-4485-87cb-dc0f04b70491" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Kapitel id="id7f9f7e96-f601-4ca7-a0dd-11dbe224c683" localId="1">
+                <Explicatus>Kapitel 3 a</Explicatus>
+                <Rubrica id="id1ab0d036-0e3b-4ac4-ba11-0df9ec903224">
+                  <Linea>
+                    <Char formaChar="Italic">Registersamkøring og indhentning af oplysninger på andre myndigheders sagsområder</Char>
+                  </Linea>
+                </Rubrica>
+                <ParagrafGruppe>
+                  <Paragraf id="id1c65efb6-8db9-49cf-81d5-8083e3927082" localId="3">
+                    <Explicatus>§ 12 a.</Explicatus>
+                    <Stk id="id8d5da69f-282e-4578-a3a3-d4e87ee912ce">
+                      <Exitus>
+                        <Linea>
+                          <Char>Udbetaling Danmark kan indhente, samkøre og sammenstille oplysninger efter § 12, stk. 1 og 2, til brug for kommunens administration af kontante ydelser og økonomiske tilskud efter lov om aktiv socialpolitik, lov om en aktiv beskæftigelsesindsats, lov om sygedagpenge, lov om dag-, fritids- og klubtilbud m.v. til børn og unge, lov om folkeskole, lov om social pension, lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., repatrieringsloven og lov om social service.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Derudover kan Udbetaling Danmark indhente og samkøre oplysninger efter § 50, stk. 5, i integrationsloven til brug for kommunens administration af integrationsloven.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id83bccc0a-3c4a-4d6d-b979-d4df06db5f2e">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udbetaling Danmark kan indhente og samkøre ikkefølsomme personoplysninger efter § 54 i lov om organisering og understøttelse af beskæftigelsesindsatsen m.v. til brug for kommunens administration af lov om aktiv socialpolitik, lov om en aktiv beskæftigelsesindsats, lov om sygedagpenge og integrationsloven.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idd4eefe86-515c-41ee-980f-349af2724ddc">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udbetaling Danmark kan uden samtykke fra borgeren samkøre resultatet af samkøringen efter stk. 1 og 2, med</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus id="id7b327ab0-a30b-4f6a-a50c-16456eb3799e">
+                        <Index>
+                          <Indentatio id="ida6298011-ae46-4933-8fb0-4ff9cfea3e36" formaInd="Nummer">
+                            <Explicatus>1)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>oplysninger om adresseforhold fra virksomheder, der er pålagt befordringspligt efter postloven, i sager, hvor oplysningerne er nødvendige for at belyse, om en modtager af en kontant ydelse eller et økonomisk tilskud har ophold i Danmark eller er enlig, og</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio id="id249b172c-4d78-415c-b51f-d016d9e9704e" formaInd="Nummer">
+                            <Explicatus>2)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>oplysninger om, hvorvidt der er igangværende kontrolsager hos kommunen i de sager, som resultatet af samkøringen vedrører.</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id89877534-f10b-4914-a1d9-7fa536a19cef">
+                      <Explicatus>Stk. 4.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Kommunen har pligt til at videregive nødvendige oplysninger om ansøgere og modtagere af ydelser efter de love, der er nævnt i stk. 1 og 2, til Udbetaling Danmark.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Virksomheder, der er omfattet af stk. 3, nr. 1, har pligt til at stille de nødvendige oplysninger til rådighed for Udbetaling Danmark.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Oplysningerne efter 1. og 2. pkt. kan stilles til rådighed uden samtykke fra borgeren.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id79054f75-b0d6-4e6b-b413-9072b538ba30">
+                      <Explicatus>Stk. 5.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Ministeren for børn, ligestilling, integration og sociale forhold kan fastsætte nærmere regler om samarbejdet mellem kommunerne og Udbetaling Danmark til brug for Udbetaling Danmarks varetagelse af registersamkøringer på de kommunale ydelsesområder, jf. stk. 1-4, herunder om sagsgange og opgørelse af effekter af kontrolindsatsen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="ide2c34211-e5ac-499e-8b6b-af8bf9774b3a" localId="4">
+                    <Explicatus>§ 12 b.</Explicatus>
+                    <Stk id="idb9b2d8cd-60dc-49e8-b7e0-b4201410d298">
+                      <Exitus>
+                        <Linea>
+                          <Char>Udbetaling Danmark kan efter aftale med Styrelsen for Videregående Uddannelser indhente og samkøre oplysninger efter § 12, stk. 1 og 2, til brug for Styrelsen for Videregående Uddannelsers administration af ydelser efter lov om statens uddannelsesstøtte.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idb6dc86ea-f0da-4ee5-a43a-4e7fd89a5f69">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udbetaling Danmark kan uden samtykke fra borgeren samkøre resultatet af samkøringen efter stk. 1 med oplysninger om adresseforhold fra virksomheder, der er pålagt befordringspligt efter postloven, når oplysningerne er nødvendige for at belyse, om en modtager af statens uddannelsesstøtte er enlig eller udeboende.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Virksomheder, der er omfattet af 1. pkt., har pligt til at stille de nødvendige oplysninger til rådighed for Udbetaling Danmark.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Oplysningerne efter 2. pkt. kan stilles til rådighed uden samtykke fra borgeren.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="iddfe434f0-00d8-48d6-a6a9-d42436634dd6" localId="5">
+                    <Explicatus>§ 12 c.</Explicatus>
+                    <Stk id="idd6cea5be-a94a-44e9-83c5-3a5ad784491f">
+                      <Exitus>
+                        <Linea>
+                          <Char>Udbetaling Danmark kan efter aftale med Arbejdsmarkedets Tillægspension indhente og samkøre oplysninger efter § 30, stk. 3 og 4, i lov om Arbejdsmarkedets Tillægspension til brug for Arbejdsmarkedets Tillægspensions administration af lov om Arbejdsmarkedets Tillægspension.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id06829c38-12c9-4ba6-8d9b-0a16975f6c79">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udbetaling Danmark kan efter aftale med Beskæftigelsesministeriet indhente og samkøre oplysninger efter §§ 6 og 7 i lov om barselsudligning for selvstændigt erhvervsdrivende til brug for Beskæftigelsesministeriets administration af lov om barselsudligning for selvstændigt erhvervsdrivende.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idde0afc7b-b5b5-4922-b968-c9a6eb8b507b">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udbetaling Danmark kan efter aftale med Styrelsen for Arbejdsmarked og Rekruttering indhente og samkøre oplysninger efter § 43, stk. 1 og 2, i lov om ferie til brug for Styrelsen for Arbejdsmarked og Rekrutterings administra­ti‌on af lov om ferie.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idff2053df-6386-4768-b480-c4e89e813ce0">
+                      <Explicatus>Stk. 4.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udbetaling Danmark kan efter aftale med Lønmodtagernes Garantifond indhente og samkøre oplysninger efter § 5, stk. 2 og 3, i lov om Lønmodtagernes Garantifond til brug for Lønmodtagernes Garantifonds administration af lov om Lønmodtagernes Garantifond.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id0786539f-8026-4def-9c5e-eeb91f6bf067">
+                      <Explicatus>Stk. 5.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udbetaling Danmark kan efter aftale med Arbejdsgivernes Uddannelsesbidrag indhente og samkøre oplysninger efter § 26 a i lov om Arbejdsgivernes Uddannelsesbidrag til brug for Arbejdsgivernes Uddannelsesbidrags administration af lov om Arbejdsgivernes Uddannelsesbidrag.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="id6946a68b-7e49-42cb-b888-cda1f1b6310a" localId="6">
+                    <Explicatus>§ 12 d. </Explicatus>
+                    <Stk id="idfc25e400-2de8-4d71-bc0b-756c9ac1a734">
+                      <Exitus>
+                        <Linea>
+                          <Char>Styrelsen for Videregående Uddannelser, Arbejdsmarkedets Tillægspension, Beskæftigelsesministeriet, Styrelsen for Arbejdsmarked og Rekruttering, Lønmodtagernes Garantifond og Arbejdsgivernes Uddannelsesbidrag kan uden samtykke fra borgeren eller arbejdsgiveren stille de nødvendige oplysninger vedrørende ansøgere og modtagere af ydelser efter de love, der er nævnt i §§ 12 b og 12 c, til rådighed for Udbetaling Danmark.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id0447bb29-8907-4237-989c-f95a0ac8e79d">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Resultaterne af samkøringer efter §§ 12 a-12 c skal udleveres til de anførte myndigheder m.v., der administrerer de enkelte love.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Oplysningerne efter 1. pkt. kan udleveres uden samtykke fra borgeren eller arbejdsgiveren.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id7bd5651d-dda5-40a4-b425-65d4175aa74c">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udbetaling Danmark kan med kommunen og de myndigheder, der er nævnt i §§ 12 b og 12 c, udveksle nødvendige oplysninger om kontrolsager til brug for optimering af udsøgningskriterier ved samkøring af oplysninger efter § 12 a, stk. 1 og 2, og §§ 12 b og 12 c.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Oplysningerne kan udveksles uden samtykke fra borgeren eller arbejdsgiveren.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="id52e8a75d-8029-49fe-9464-1b7ad405e3ea" localId="7">
+                    <Explicatus>§ 12 e.</Explicatus>
+                    <Stk id="idf85e1a6d-5ff5-46ed-bd09-4a34d3d348a8">
+                      <Exitus>
+                        <Linea>
+                          <Char>Udbetaling Danmark kan fra udenlandske myndigheder efter anmodning fra kommunen indhente oplysninger, som er nødvendige til brug for kommunens behandling af en ansøgning om kontante ydelser og økonomiske tilskud eller til brug for behandling af en sag om kontrol af, om en borger har modtaget kontante ydelser eller økonomiske tilskud med urette og mod bedre vidende.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id7c5e2066-1533-43fd-af22-ec65abf1afb0">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udbetaling Danmark og kommunen kan i forbindelse med sagsoplysningen efter stk. 1 udveksle oplysninger, herunder oplysninger om rent private forhold om den, der søger om, får eller har fået hjælp, dennes ægtefælle, samlever eller formodede samlever og andre husstandsmedlemmer eller formodede hustandsmedlemmer.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Oplysningerne kan udveksles uden samtykke fra borgeren.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id61b6db26-5803-4967-8317-081502c6d9a0">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Ministeren for børn, ligestilling, integration og sociale forhold kan fastsætte nærmere regler om samarbejdet og om opgørelse af effekter af kontrollen efter stk. 1.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="idbfa44256-f429-4c38-8778-81c95b2c8bc8" localId="8">
+                    <Explicatus>§ 12 f.</Explicatus>
+                    <Stk id="iddb064008-6fbf-4994-b404-6d1ae546a553">
+                      <Exitus>
+                        <Linea>
+                          <Char>Ministeren for børn, ligestilling, integration og sociale forhold kan fastsætte regler for beregning og betaling af udgifter forbundet med udveksling af oplysninger og registersamkøringer efter § 12 a, stk. 1-3, og §§ 12 b-12 e.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+              </Kapitel>
+              <Kapitel id="ida7555901-ed63-4e29-aacd-76abde6fde9e" localId="2">
+                <Explicatus>Kapitel 3 b</Explicatus>
+                <Rubrica id="id076d7018-9e11-47d4-9f19-6069c62fc80b">
+                  <Linea>
+                    <Char formaChar="Italic">Orientering til førtidspensionister om rettigheder i henhold til forsikrings- og pensionsordninger</Char>
+                  </Linea>
+                </Rubrica>
+                <ParagrafGruppe>
+                  <Paragraf id="idbae3bed5-9ff3-4af9-885b-d952cdccfe63" localId="9">
+                    <Explicatus>§ 12 g.</Explicatus>
+                    <Stk id="idacfc4865-8549-421f-85dd-a249aea110a1">
+                      <Exitus>
+                        <Linea>
+                          <Char>Udbetaling Danmark kan samkøre oplysninger ved­rørende personer, der har fået tilkendt førtidspension efter lov om social pension, med oplysninger fra forsikringsselskaber og pensionskasser om, hvilke personer der er kunder eller medlemmer i forsikringsselskabet eller pensionskassen, for at orientere de pågældende personer om deres eventuelle rettigheder efter forsikrings- og pensionsordningen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+              </Kapitel>
+              <Kapitel id="idf05485ef-e990-40d0-b17e-834daf3833c4" localId="3">
+                <Explicatus>Kapitel 3 c</Explicatus>
+                <Rubrica id="idb573201f-2c94-4649-a830-d76221bb8333">
+                  <Linea>
+                    <Char formaChar="Italic">Udveksling af oplysninger om dansk eller udenlandsk social sikring</Char>
+                  </Linea>
+                </Rubrica>
+                <ParagrafGruppe>
+                  <Paragraf id="ida8786c4b-15c0-4437-8ec9-615ae6418468" localId="10">
+                    <Explicatus>§ 12 h.</Explicatus>
+                    <Stk id="id71a27d61-170e-43e7-b472-20ec21da57fe">
+                      <Exitus>
+                        <Linea>
+                          <Char>Kommuner, regioner og Patientombuddet har adgang til oplysninger fra Udbetaling Danmark om, hvorvidt en person er omfattet af dansk eller udenlandsk social sikring, jf. Europa-Parlamentets og Rådets forordning (EF) nr. 883/2004 om koordinering af de sociale sikringsordninger med senere ændringer eller afgørelse nr. 1/2012 vedtaget af Det Blandede Udvalg nedsat i henhold til aftalen mellem Det Europæiske Fællesskab og dets medlemsstater på den ene side og Det Schweiziske Forbund på den anden side om fri bevægelighed for personer af 31. marts 2012 om erstatning af bilag II til aftalen om koordinering af de sociale sikringsordninger eller Det Blandede EØS-udvalgs afgørelse nr. 76/2011 af 1. juli 2011 om ændring af bilag VI (social sikring) og protokol 37 til EØS-aftalen.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Myndighederne, som er nævnt i 1. pkt., har adgang til oplysninger om sikringsland og oplysninger til brug for mellemstatslig refusion af udgifter til pleje- og sundhedsydelser og sygeforsikring af personer, der bor eller opholder sig i et andet land end sikringslandet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide4bef7fa-2a3a-4b17-a28f-453cc8d8d0d0">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="idc443e2b3-5625-4a0f-a955-5acafeab1095">
+          <AendringDefinition id="id5dd550ce-ac00-45c1-a319-c41fb1bb9ca1">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13, stk. 4, 1. pkt.,</Char>
+                <Char> indsættes efter »stk. 3, 1. pkt.,«: »jf. dog stk. 5,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd04d2b60-7b14-406b-bda0-7fcd06d7fe20" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id301d7d05-74ec-4c51-900c-794d04f9a5cb">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="id27e41a08-7ac0-429d-9c61-0a140186597e">
+          <AendringDefinition id="id0789d114-4caa-47e6-8fd3-f3277d32ece9">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13</Char>
+                <Char> indsættes efter stk. 4 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0fe1a6e4-debf-4dd3-9974-bd4ee13e4d67">
+            <AendringNyTekst>
+              <Stk id="id50c1aebe-26d1-4cff-bf0b-b778c97cfe42">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsens afgørelser efter stk. 3, 1. pkt., kan påklages til Patientombuddet efter lov om klage- og erstatningsadgang inden for sundhedsvæsenet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id2ad0647f-7e95-44b5-b5d3-e8bf4addf748">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 5 og 6 bliver herefter stk. 6 og 7.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="ide3e35c56-b80a-4ed5-84f9-d03f3c19753e">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="idaa6bde4d-0fbe-4485-8109-25152d427631">
+          <AendringDefinition id="idedc0bda4-865c-4b46-a380-cfca96e25e0f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13, stk. 6, 1. pkt.,</Char>
+                <Char> der bliver stk. 7, 1. pkt., ændres »stk. 2-5« til: »stk. 2-6«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd0f609d8-bf67-48eb-a95c-700c717fda2b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id04597b59-e4e3-4eb7-9b12-599ffa677d7c">
+        <Explicatus>14.</Explicatus>
+        <Aendring id="idb9af8a66-be43-4d10-be22-81f1eed3d7e1">
+          <AendringDefinition id="iddf699e16-1b1c-43bb-8c96-2adc991d4cb7">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13</Char>
+                <Char> indsættes efter stk. 6, der bliver stk. 7, som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7b15f7aa-efba-4241-9a96-8f0431919de9">
+            <AendringNyTekst>
+              <Stk id="ida67d2169-79af-4681-ac1c-bbb78b64fff5">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udbetaling Danmark kan undlade at afvise en ansøgning eller meddelelse m.v., der ikke er indgivet ved digital selvbetjening, og som ikke er undtaget herfra efter stk. 2-6, hvis Udbetaling Danmark vurderer, at der foreligger særlige forhold, der gør, at borgeren ikke må forventes at kunne anvende digital selvbetjening.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idcc43b3e1-6633-468b-bcd8-e4d5851a645b">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 7 og 8 bliver herefter stk. 9 og 10.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id50cc0e9b-9770-4bbd-9a84-dfc4dd8ec0d0">
+        <Explicatus>15.</Explicatus>
+        <Aendring id="id6cc1ae85-a9a2-4da6-bd24-1d9982d281db">
+          <AendringDefinition id="idb63dee49-6f01-4fec-9409-2d76f0d027a4">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 19, stk. 1,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd205fc74-cc6f-467a-974c-eaa5d2d58566" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Tilsynet sker i samarbejde med Beskæftigelsesministeriet, Skatteministeriet og Ministeriet for Sundhed og Forebyggelse inden for deres ressort og i samarbejde med Økonomi- og Indenrigsministeriet, for så vidt angår momsafregning, jf. § 28, stk. 2, 1. pkt.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2a5212d3-eb95-4a6b-b9c5-1677b3db13bb">
+        <Explicatus>16.</Explicatus>
+        <Aendring id="idb5ed4c62-23bf-4d53-92fc-64b7b7cee169">
+          <AendringDefinition id="id65791029-0d0f-48dd-9e0c-b8af8e8cd700">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 19, stk. 4, 1.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide4b14dd5-6147-4bc4-a252-822808ee0ffb" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Ankestyrelsen og Patientombuddet skal inden for hver deres sagsområde en gang årligt udarbejde en redegørelse om sagsbehandlingen i Udbetaling Danmark på baggrund af de sager, der indbringes for henholdsvis Ankestyrelsen, Ankestyrelsens Beskæftigelsesudvalg og Patientombuddet.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Redegørelsen skal indeholde statistik over de ankede sager og angive årsagerne til, at Udbetaling Danmarks afgørelser ikke stadfæstes.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id913587e3-266f-42a7-94dc-745542886987">
+        <Explicatus>17.</Explicatus>
+        <Aendring id="id52610135-a0b1-4a8f-9fbc-64ce15c7aacd">
+          <AendringDefinition id="id78fcad45-cf8f-42c9-b754-18681ea99eea">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 26, stk. 1,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9cba66bd-12cc-47b9-b0b8-407e96e197c3" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Til brug for kommunens interne kontrol af Udbetaling Danmarks opkrævning direkte fra kommunerne efter 1. pkt. kan Udbetaling Danmark uden borgerens samtykke samkøre oplysninger over kommunens modtagere af kontante ydelser og økonomiske tilskud fra Udbetaling Danmark med henblik på at udfærdige og videregive lister til kommunen.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8fc88a10-db8e-4205-bb53-ba6f4c74a1f4">
+        <Explicatus>18.</Explicatus>
+        <Aendring id="id195ec85a-47ca-4df7-8d90-40486e9e731e">
+          <AendringDefinition id="idcca50575-01cc-4326-9b15-3dc4b15044e9">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 29, stk. 1,</Char>
+                <Char> indsættes efter »social- og integrationsministeren«: », ministeren for sundhed og forebyggelse og skatteministeren inden for deres ressort«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id449952c2-1d3a-45d3-9b51-5e0a8d11ce8d" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id16ecd9a4-d2bb-4fb1-8975-b1e8465c8a96">
+        <Explicatus>19.</Explicatus>
+        <Aendring id="id0f3487e4-7838-4df8-8f3c-d1699025f2c6">
+          <AendringDefinition id="id23956952-5e24-4579-bd24-7a127c173a30">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 29, stk. 2,</Char>
+                <Char> ændres: »Social- og integrationsministeren kan« til: »Ministeren for børn, ligestilling, integration og sociale forhold, ministeren for sundhed og forebyggelse og skatteministeren kan inden for deres ressort«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf649c9ad-e1ce-4056-9b2b-bcc8caa94c1e" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id63e2f2b8-a280-4b4c-853f-41797420de73">
+        <Explicatus>20.</Explicatus>
+        <Aendring id="id09df230e-7757-4499-8ab0-062eff38a2d1">
+          <AendringDefinition id="idade2f36a-2041-4bed-bdb4-50beb38fe511">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 32, stk. 2, 2. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3, 2. pkt.,</Char>
+                <Char> ændres »pengeinstitutter« til: »pengeinstitutter, KommuneKredit«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc0ff3f06-3288-449c-be42-462273581c6a" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5b972c9d-c755-486f-a751-956b4e030f2e">
+        <Explicatus>21.</Explicatus>
+        <Aendring id="id1ec020b0-325b-430b-965e-af8e820ec28a">
+          <AendringDefinition id="id3575f414-a8b1-4d8b-bcd1-e7fad8579afc">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 32, stk. 4,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf8ac7410-d4f9-44a6-8398-4af37f52a6b3" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Lånet kan optages i pengeinstitutter, KommuneKredit eller andre finansielle institutioner.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id9a217e79-383d-4664-a5c4-1394f5f24109">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om retssikkerhed og administration på det sociale område, jf. lovbekendtgørelse nr. 1019 af 23. september 2014, som ændret ved § 7 i lov nr. 1486 af 23. december 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="ida7c1a2ce-c623-4580-9ca1-3927a43c37fc">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id4e8ba730-a3c5-46c2-8bb3-d4789e254b75">
+          <AendringDefinition id="id2337a9e7-32b3-4a22-a7a1-4a3ef8fb6f28">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, nr. 2,</Char>
+                <Char> indsættes efter »kapitel 3«: »og 3 a«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6df11d8b-c5e8-4f59-a2d4-63c25d96e534" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id82e17db2-c6f3-4f03-b5c3-23ecb91b0e8a">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id1d12384c-8152-47ba-8e4d-b281ef616572">
+          <AendringDefinition id="ida5fe36a2-a489-43b3-819a-67dc885cef56">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 49</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf9cd3d58-2476-4c71-81b7-d5cfce602575" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id959c21e8-eece-4a04-b29f-1a285a5595d3">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="ide944fe73-e258-4a6e-a019-b4e78c706ab9">
+          <AendringDefinition id="idf187cda4-eb22-46f6-b113-fa89561dc3cb">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 59 b, stk. 7, 1. pkt.,</Char>
+                <Char> ændres »stk. 7, 2. pkt.« til: »stk. 6, 2. pkt.«, og »stk. 7« ændres til: »stk. 6«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7840f69c-dfff-4885-b4d5-01196eb5627d" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id0fa2e74b-863c-4d35-a51b-910e53d5e215">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id1b5ac2ab-1d62-48b6-8460-7c9bf954096e">
+          <AendringDefinition id="id2e854409-311d-4e75-a51d-cbe05178a3f3">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 59 b, stk. 8,</Char>
+                <Char> ændres »stk. 7, 2. pkt.« til: »stk. 6, 2. pkt.«, og »stk. 7« ændres til: »stk. 6«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id947bc009-36ee-4102-8027-ee62754d56dd" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida4e4bba9-8df9-4e0e-9801-01407b5a0797">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id8d7cfef5-0c8e-407b-b85a-7b08496a1003">
+          <AendringDefinition id="id8df9963b-f257-49cb-9ea6-93037eae519e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 59 b, stk. 9,</Char>
+                <Char> ændres »stk. 8 og 9« til: »stk. 7 og 8«, og »stk. 7, 2. pkt.« ændres til: »stk. 6, 2. pkt.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1646d23f-2adb-40d2-af01-81de97cb33b3" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id42c87984-2140-48bb-b5f4-be35b5f8a70a">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="idaafec36d-9a4b-4b8f-9fab-49445a095848">
+          <AendringDefinition id="id267d978f-3eef-49e1-97e3-730417baa915">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 64 a, stk. 2,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5ff5535b-a39a-4715-829f-22817906c2da">
+            <AendringNyTekst>
+              <Stk id="idef884660-37df-4172-9c08-0089172f2d5e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser, der træffes af Udbetaling Danmark, kan indbringes for Ankestyrelsens Beskæftigelsesudvalg, jf. § 59 a, af den person, som afgørelsen vedrører, i det omfang det er fastsat i de love, der er nævnt i § 1 i lov om Udbetaling Danmark.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc24339b4-f8d4-4d2f-bcab-22d9ba382df1">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1 gælder tilsvarende for afgørelser, som er truffet af Udbetaling Danmark i medfør af regler udstedt efter § 48, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idebc6983a-7449-4995-95f9-f62276bcccc1">
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om aktiv socialpolitik, jf. lovbekendtgørelse nr. 1193 af 13. november 2014, som ændret senest ved § 27 i lov nr. 174 af 24. februar 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="ided935dd3-d703-4075-bd44-11c99f4584a3">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="iddc3a38cd-d80b-4742-a3e9-d1c134c1fb2e">
+          <AendringDefinition id="id5b278f15-8d90-4ada-bde3-6be8387d0782">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 85 a, stk. 1,</Char>
+                <Char> ændres »Kommunen« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id37286768-5b77-4131-80d8-4d511b95cc75" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id3cdcb4fe-eb96-4c84-bc83-115f1f47fe20">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id19a99e28-e7d4-4501-89ec-0650fcdbaaf3">
+          <AendringDefinition id="idee2f8575-85b6-4a7e-a1b5-ba1e86035cb2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 98, stk. 2,</Char>
+                <Char> ændres »Afgørelser« til: »Kommunens afgørelser«, og », jf. § 52 a« ændres til: »efter kapitel 10«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfbfd3472-8a87-4446-b58b-16787a93b665" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide7ec7854-52d7-4ae7-aead-6f4a92059842">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id441fcd8e-ae7d-4a96-8273-0974d2d99a0d">
+          <AendringDefinition id="idd4fc9d90-a174-4dd2-8596-a852aebb69fe">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 98</Char>
+                <Char> indsættes efter stk. 2 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide4dd4533-bda6-47c4-9f40-e401f17f6b86" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id54ce4992-6f83-4c63-9bc9-5510d9e7804a">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udbetaling Danmarks afgørelser om hjælp efter §§ 6 og 85 a og tilbagebetaling af hjælpen efter § 95 kan indbringes for Ankestyrelsen, jf. § 64 a i lov om retssikkerhed og administration på det sociale område.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id6e7d0c00-b4bb-4e64-972c-ee2535dae800">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 og 4 bliver herefter stk. 4 og 5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id099d3ffd-7e9e-425d-8dd8-783afa7217e9">
+      <Explicatus>§ 4</Explicatus>
+      <Rubrica id="id89d31d3e-c833-4c66-b98e-8a82954c0d37">
+        <Linea>
+          <Char>Beskæftigelsesministeriet</Char>
+        </Linea>
+      </Rubrica>
+      <Exitus>
+        <Linea>
+          <Char>I lov om fleksydelse, jf. lovbekendtgørelse nr. 943 af 25. august 2014, som ændret ved § 65 i lov nr. 1482 af 23. december 2014 og § 5 i lov nr. 1531 af 27. december 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idb508150a-a4c4-4407-968d-c3720cb17df2">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id92c96be2-9ce7-4a8f-aa14-2a1aec334eef">
+          <AendringDefinition id="idddd82d0b-da69-47bd-8b68-28f1ca33f848">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 2 a, stk. 7, 1. pkt., § 7, stk. 1</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2, 1. pkt., § 13, stk. 2, § 18, stk. 7, 4. pkt., § 28, stk. 1, 1. pkt., § 34 a, stk. 1,</Char>
+                <Char> som bliver stk. 2, </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 34 b, stk. 1, stk. 2, 1. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3, 1. pkt.,</Char>
+                <Char> ændres »Kommunen« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id806c9f19-0f90-48bf-9714-a8468fdd6522" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb573f8aa-008f-42e1-a4f7-81069ea952f4">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idfdfc5c3e-c68c-4bfb-9933-0689ab1f09fb">
+          <AendringDefinition id="idf079d840-64f2-48f9-8ce0-98a84549b1a9">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7d218a38-dd94-4c48-85b3-4cf7d0f3d047" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="idee379a08-fd26-424b-a020-a37daac8892f" localId="11">
+                <Explicatus>§ 4.</Explicatus>
+                <Stk id="idbafc9a5e-f787-4667-9839-048e020b6c27">
+                  <Exitus>
+                    <Linea>
+                      <Char>Kommunen meddeler uden samtykke fra borgeren Udbetaling Danmark, at den har visiteret en borger til fleks­job.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Kommunen oplyser datoen for visitationen i meddelelsen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Meddelelsen skal ske inden 2 uger efter visitationen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idc08cc20e-ab06-4215-8247-fdc6ddfc1f8f">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Tilmelding til fleksydelsesordningen sker ved kommunens meddelelse til Udbetaling Danmark og har virkning fra den 1. i måneden efter visitationen til fleksjob.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Udbetaling Danmark orienterer borgeren om tilmeldingen og om muligheden for udmeldelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idde946377-6ad9-44dc-9d2d-fd3b99fc44f6">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En person, der er visiteret til fleksjob, og som ikke er tilmeldt fleksydelsesordningen, kan tilmelde sig ved skriftlig henvendelse til Udbetaling Danmark.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Tilmeldingen har virkning, fra den 1. i måneden efter at Udbetaling Danmark har modtaget henvendelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idc82e1d17-4c9b-480f-aeb0-0203b7df4869">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En person, som i 2012 har fået udbetalt fleksydelsesbidrag eller efterlønsbidrag kontant og skattefrit, kan ikke tilmeldes fleksydelsesordningen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idbeaf589f-e89f-4563-84cb-6caf4a274920">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Udbetaling Danmark skal registrere alle, der tilmeldes fleksydelsesordningen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5d772236-aa7e-4d63-84d0-e95f7a0be9ab">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="iddec5101c-5410-4a6b-95fa-0e4b1bf78d0c">
+          <AendringDefinition id="id04cffe1f-19c6-4e1c-acd9-e23a95a1d98c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5, § 7, stk. 2, 2. pkt., § 9, stk. 1, 1. pkt., § 15, stk. 2, § 18, stk. 4, 1.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">5. pkt., stk. 5, 2. pkt., stk. 8, 3. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 11, 2. pkt., § 22, stk. 7</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">8, § 28, stk. 1, 2. pkt., § 29, 2. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 31, stk. 1, 1. pkt.,</Char>
+                <Char> ændres »kommunen« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfdbceb01-eba5-40ed-94d8-57d8bbcb4dc2" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8d8eb448-bc52-46d9-8e8b-1dc4c592c7f7">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id2763bda3-47bc-4163-b58e-c48663eb886a">
+          <AendringDefinition id="id67c674b7-7c90-4e81-b786-07a251d4cfc0">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 5 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6f1adf12-20ec-4d33-a662-544eed48a6a2" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id8602a508-d17c-4f73-ac82-534a6051b572" localId="12">
+                <Explicatus>§ 5 a.</Explicatus>
+                <Stk id="ida7f36774-5546-480c-b2df-e37a6d21e1ec">
+                  <Exitus>
+                    <Linea>
+                      <Char>Kommunen skal uden samtykke fra borgeren underrette Udbetaling Danmark, hvis kommunen træffer afgørelse om, at en borger ikke længere er visiteret til fleksjob.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id040b7af3-5b5a-4fba-bcb3-8c2f79c23b0a">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id22ec0705-1ac5-4b3e-af01-530475ff07ff">
+          <AendringDefinition id="idb167c80f-5318-4d31-9512-98b9f4e67ff2">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 9, stk. 1, 2. pkt.,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ideb1092e5-07a8-45c1-96f2-d7ead0b07cec" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idafbcb594-5c56-4b3a-ab87-70be4f5235e4">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id2326a4ea-60b8-4b07-80bc-a85e8bf57334">
+          <AendringDefinition id="id148df63f-9ac8-41e8-a34c-6e00910fb992">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 9</Char>
+                <Char> indsættes efter stk. 1 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8cdacf56-8a05-4fe8-a4df-fc77025248ff" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id3420d2f2-f722-411d-a74c-f11d4657cd08">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udbetaling Danmark skal skriftligt underrette den tilmeldte, når den pågældende udmeldes.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Udbetaling Danmark skal kunne dokumentere, at udmeldelsen er afsendt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id9b3f2324-049a-4589-ad89-c906f6015be7">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2 og 3 bliver herefter stk. 3 og 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="idcff99a9a-9ddc-4ea2-8c66-0666d8f9c2c5">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id8b4c0a64-5fe5-4487-a37f-6d38ec7b4144">
+          <AendringDefinition id="id08e7f5da-529a-4af5-be22-f75907f42aa8">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 9, stk. 3,</Char>
+                <Char> der bliver stk. 4, ændres »kommunens« til: »Udbetaling Danmarks«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc609d000-f3f6-4a76-bb24-4a52b70e2478" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id007f854a-052b-4cf9-95be-6561f8d8ab3b">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id07b50859-0ee3-4002-a71b-542297a193d5">
+          <AendringDefinition id="id9d027163-4503-4780-a845-f9bd119b21f7">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 17, stk. 8, 1. pkt.,</Char>
+                <Char> ændres »stk. 11 og 12« til: »stk. 9 og 10«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida7ebd679-cc12-4c6e-8733-819fa130190c" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id51600832-087f-464d-88e3-c6df37663459">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="idb3b8e285-b383-4fff-8605-bd24e6fa5ac0">
+          <AendringDefinition id="idc839b835-1a16-4fd1-aa8c-9c191f2cff36">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 17, stk. 9,</Char>
+                <Char> ændres »stk. 10« til: »stk. 8«, og »stk. 12« ændres til: »stk. 10«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id920adf5e-4e61-468b-80d1-fe396ba170c3" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id00d764ab-4932-482b-aa8e-3c4568fa0c30">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="id1e11834f-fa6e-414d-8ae1-de384c07f30b">
+          <AendringDefinition id="id0373ddd6-42ca-4a41-a91e-e18eeb4fc990">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18, stk. 2, 6. pkt.,</Char>
+                <Char> ændres »kommunerne« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3e1c6583-e3c6-4efe-a225-e47a0e920ab3" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2784cf0c-ab45-4eb0-83af-178e11fdbe26">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="idadce13b3-f687-49f5-825e-d292fa9cf8f4">
+          <AendringDefinition id="id70f63f5e-d5aa-47e2-951b-5ab02dabf998">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18, stk. 5, 1. pkt.,</Char>
+                <Char> ændres »jf. stk. 3, 3. pkt., og stk. 2, 2. pkt.« til: »jf. stk. 2, 2. pkt., og stk. 4, 3. pkt.«, og i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18, stk. 11, 1. pkt.,</Char>
+                <Char> ændres »jf. stk. 4, 3. pkt., og stk. 2, 2. pkt.« til: »jf. stk. 2, 2. pkt., og stk. 4, 3. pkt.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id492b2da4-9b0f-47d1-b256-9d2a84418c1d" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id30136e82-9725-49be-92f3-b4a489e5d1c8">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="ida2d1637f-359a-426a-8cd5-511d0ea79959">
+          <AendringDefinition id="id3e02a4e2-da02-487c-981e-2f45b7fdbbc6">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 27</Char>
+                <Char> ændres »§ 11 i lov om retssikkerhed og administration på det sociale område« til: »§ 4 i lov om Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id16a09dee-2fd6-4b3b-a508-e22b9e4e2282" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8d2b0ad5-7349-4fac-a924-e4f49434d248">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="id5d7d634e-51cd-4ed0-9d93-19418c8def07">
+          <AendringDefinition id="idc2700d68-8ad2-406d-ab85-ec3bf6e9a2ce">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 28, stk. 2,</Char>
+                <Char> udgår »sygedagpenge,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id777f433d-fd92-4c67-8a04-d18c120cf2ed" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2ebb0018-3f91-4770-9864-c6c5eec300d8">
+        <Explicatus>14.</Explicatus>
+        <Aendring id="idf4e20d54-9504-4407-9951-b0367e618c69">
+          <AendringDefinition id="id61ae2dd0-f714-46d4-8516-6341b944e00b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 29, 1. pkt.,</Char>
+                <Char> ændres »en kommune« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc32f629e-6638-46f1-b2e2-9eb2cb068be3" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id211ec37f-7aaa-4d53-b85e-d5a9239148f6">
+        <Explicatus>15.</Explicatus>
+        <Aendring id="id22824308-c23e-4b6d-816a-254ee64072bc">
+          <AendringDefinition id="id36111d0f-7d4f-4b14-93ef-af4f1410b5cc">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 34 a</Char>
+                <Char> indsættes før stk. 1 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6ef48f52-319b-48b6-9bf7-3a6b42b80f0f" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>En arbejdsløshedskasse kan videregive oplysninger til Udbetaling Danmark om optjent anciennitet i efterlønsordningen.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id609fe2c0-c099-4187-822a-b46ee9d88d5d">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 1 og 2 bliver herefter stk. 2 og 3.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id505216b1-0257-46a7-aafc-3750572e85a5">
+        <Explicatus>16.</Explicatus>
+        <Aendring id="id3eeafe32-d728-46dc-8fdd-d992ad07f21d">
+          <AendringDefinition id="iddea01ecd-a027-4191-9698-db4187ae2d0b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 34 a, stk. 2, 1. pkt.,</Char>
+                <Char> der bliver stk. 3, 1. pkt., indsættes efter »stk. 1«: »og 2«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5c426d04-6998-47bd-a608-587e958488f6" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id322c1218-8514-4ce0-9cdb-48ce43f2a9d6">
+        <Explicatus>17.</Explicatus>
+        <Aendring id="id91919eed-5066-4d9a-bf76-98143c779d9b">
+          <AendringDefinition id="id499cbd34-5a69-44eb-8b56-a4fb93ba0f4e">
+            <Exitus>
+              <Linea>
+                <Char>Overskriften før § 34 b affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id02ba6fc4-b4a3-4540-a49f-d86b9693426d" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <ParagrafGruppe>
+                <Rubrica id="idf724412d-5c2b-465c-b60e-79604b02baca">
+                  <Linea>
+                    <Char formaChar="Italic">Udbetaling Danmarks kontrol</Char>
+                  </Linea>
+                </Rubrica>
+              </ParagrafGruppe>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2d37237c-85d8-43f9-bbe9-ea1ca5fd4711">
+        <Explicatus>18.</Explicatus>
+        <Aendring id="iddcf1876e-8cec-4fbc-b027-3b1ff08568a6">
+          <AendringDefinition id="id88b01172-9d02-4edb-b9a4-8217e5a24eb9">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 34 b, stk. 3, 1. pkt.,</Char>
+                <Char> indsættes efter »kræve andre«: »ikkefølsomme«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id59bac8f7-11e3-475d-9df4-9641e7b6253f" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5fe9c756-f9ad-4f8a-af87-ee62ed7ae0bc">
+        <Explicatus>19.</Explicatus>
+        <Aendring id="id46e60adb-786a-4e4b-99bb-1db47b4f6c8d">
+          <AendringDefinition id="id94c3c132-5531-4507-8610-ad379ed25651">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 34 b, stk. 4</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">5,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="iddbf1e0f7-a01c-4aa4-9687-73b09de2a041" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id2b585138-e661-4718-ab44-6db0a65f7cfb">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udbetaling Danmark kan få terminaladgang til de nødvendige oplysninger, som er nævnt i stk. 2 og 3, i indkomstregisteret, jf. § 7 i lov om et indkomstregister.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I det omfang oplysningerne, som er nævnt i stk. 2 og 3, findes i indkomstregisteret, skal Udbetaling Danmark indhente oplysningerne herfra.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9905f707-acd2-4ef0-a3c2-aa09367a9032">
+        <Explicatus>20.</Explicatus>
+        <Aendring id="id2fca6409-efab-4606-8b37-84a43e629518">
+          <AendringDefinition id="id71949f8a-67ed-4fc6-bc3e-6e1c71e18238">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 36</Char>
+                <Char> ændres »Kommunerne« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf6c95469-6cfb-4326-b773-de53d4f44d69" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id05c0a303-d984-4ac4-96af-89092c43790a">
+        <Explicatus>21.</Explicatus>
+        <Aendring id="id1c64dc88-26ca-42c4-8792-3e9dcc12c08b">
+          <AendringDefinition id="id7d062750-07f5-4ed1-817a-f1c332d5594f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 37, stk. 1,</Char>
+                <Char> ændres »Kommunens« til: »Udbetaling Danmarks«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idca1b825f-da65-4769-a621-9b4c166c51e6" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idfe3c8e65-cff2-4884-8b4f-4abc28600d07">
+        <Explicatus>22.</Explicatus>
+        <Aendring id="id9bf65f9a-502e-4033-b066-71ed00f2bd88">
+          <AendringDefinition id="id605cfd0c-463e-4fd1-be0c-8d74dcc7a4ee">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 38</Char>
+                <Char> ændres »kommunernes« til: »Udbetaling Danmarks«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id526e3b15-17a0-4805-a2bf-0105eeb473c8" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id91ab8389-44d1-449e-94e9-d11243a20bbd">
+        <Explicatus>23.</Explicatus>
+        <Aendring id="id8d2cc78a-8168-4f1c-a07a-485e81f85317">
+          <AendringDefinition id="id7a844f5c-bda7-4574-ab43-8da4c7f50f9d">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 38 a</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id92b42821-42bc-4ec6-b0c4-d03dd3f6e535" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="idd2f2b6d9-9da7-49ba-9d9d-de63dc9b03ef" localId="13">
+                <Explicatus>§ 38 a.</Explicatus>
+                <Stk id="id815ae2df-6e1e-40ff-ac9a-03e38ccb00eb">
+                  <Exitus>
+                    <Linea>
+                      <Char>Udbetaling Danmark afregner fleksydelsesbidrag, som opkræves efter § 7, direkte til staten.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id5cd75ae3-cfd0-4c33-b691-4aa51968d92d">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>§ 27 i lov om Udbetaling Danmark finder tilsvarende anvendelse ved afregning af fleksydelsesbidrag og ved tilbagebetaling af fleksydelsesbidrag.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idf842ceea-cb5d-4fd4-9b70-ee0290b65216">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for børn, ligestilling, integration og sociale forhold kan efter forhandling med beskæftigelsesministeren fastsætte nærmere regler om Udbetaling Danmarks afregning og om tilbagebetaling af fleksydelsesbidrag.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id8d02d929-ed8f-4554-afc4-f8e07960207d">
+      <Explicatus>§ 5</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om delpension, jf. lovbekendtgørelse nr. 940 af 25. august 2014, som ændret ved § 6 i lov nr. 1531 af 27. december 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idf7b5800c-df26-4ea2-b1fa-a1c12ce9daf6">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id0d8d3caf-c322-4588-a3de-27076d8d9851">
+          <AendringDefinition id="id2c5d6c4a-398d-4a58-90fd-1259f97c1d4b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4 a, stk. 4, 1.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">5. pkt., stk. 5, 3. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 9, 2. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 16 a, stk. 4, 1. pkt.,</Char>
+                <Char> ændres »kommunen« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9a7f174c-88a5-402b-b6a5-04b143adf385" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1eebe804-c1c4-4cf7-b9e8-bdfc686b8323">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id6c46a3f7-1b09-40f2-b7e1-26c2ba6dc7c6">
+          <AendringDefinition id="ide2d25859-3fb3-4b4d-a021-7090a98fc4f7">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4 a, stk. 5, 2. pkt.,</Char>
+                <Char> ændres »jf. stk. 4, 3. pkt., og stk. 2, 2. pkt.« til: »jf. stk. 2, 2. pkt., og stk. 4, 3. pkt.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idab21ff31-8fda-43e8-bd94-f230897717f9" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2096aae7-77b0-4b7e-9bcd-c0fb22998ea8">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id07c7616d-fb59-4a09-8d65-8c7da3e3e927">
+          <AendringDefinition id="idc3a12acd-f18f-4554-989a-08e8c5d8042b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4 a, stk. 6, 4. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 7, 1.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.,</Char>
+                <Char> ændres »Kommunalbestyrelsen« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf6ed5c58-4606-47ca-9084-dd953cb53361" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9e39c886-9bb0-4d97-a239-bda1b1eee769">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id2885cbcf-25f4-48a9-be77-be52573ba6b3">
+          <AendringDefinition id="id12329710-560e-4d44-b501-00132dddb32b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4 a, stk. 7, 3. pkt.,</Char>
+                <Char> ændres »kommunalbestyrelsen« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id20a4ece9-b53c-4998-972e-52d794ece5cd" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id6ebb55bb-29ea-45f7-ada6-a1772e4667f1">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id533f25b1-2705-410f-827d-eda2371f12d3">
+          <AendringDefinition id="ida3ffc56c-b708-49d6-9600-a97121e139b2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4 a, stk. 12, 2. pkt.,</Char>
+                <Char> indsættes efter »kronebeløb«: », der kan deles med 100«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id06e4c45d-fe4d-4ff8-9eca-bf1ec7be5974" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idada3152a-ca77-4825-92e7-5bc07753e4d9">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="iddb3e5c4d-f5e4-4da1-b063-e7915dd30bb6">
+          <AendringDefinition id="id7c682e2c-3edf-4d75-a536-a64672a89fe0">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id383f0bb9-5ee3-4f56-bdb9-0def448b923d" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id8a55d903-838c-435b-84b1-fe4e34b11184" localId="14">
+                <Explicatus>§ 5.</Explicatus>
+                <Stk id="ida77861fb-af39-4702-8b24-c1ab13fcb8b1">
+                  <Exitus>
+                    <Linea>
+                      <Char>Ansøgning om delpension indgives til Udbetaling Danmark, som træffer afgørelse om ret til delpension.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id00c4c333-3ad7-479b-9cdc-972d4b616c8b">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id3691582c-df2d-42b7-aaee-6ba5ee0b11be">
+          <AendringDefinition id="id6610205e-5a50-4507-a505-696ad7e53669">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2348207e-e7ed-4567-89b4-e69b0f68384f" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id2e973d35-5c84-43d1-af1a-aa7a6b9a02dc" localId="15">
+                <Explicatus>§ 12.</Explicatus>
+                <Stk id="idcd6356ca-8e64-4bcf-b4a8-69709a29cc00">
+                  <Exitus>
+                    <Linea>
+                      <Char>Modtageren skal oplyse Udbetaling Danmark om ændringer, der kan have betydning for udbetalingen af delpensionen, jf. § 4 i lov om Udbetaling Danmark.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5951e63a-472b-475c-bb87-c52a711148ab">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="idacea9f7a-a74b-42d4-90e0-5078ab16da9a">
+          <AendringDefinition id="id12a3690a-70bc-4eb1-9060-4d7fbf8b2922">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13</Char>
+                <Char> ændres »§ 4 a, stk. 4, § 4 a, stk. 7, eller § 12, stk. 1,« til: »§ 4 a, stk. 4 eller 7, efter § 4 i lov om Udbetaling Danmark,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id1cf4f4ee-7ea5-4a62-9536-fa014e139627" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id50a1f23e-33f6-4474-9a14-468751b2b519">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="idb7ea71bd-ace4-4356-9c69-b4b4c1f32153">
+          <AendringDefinition id="id18026c19-959a-45a0-a38e-a95f22ea0dbf">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 14, stk. 2,</Char>
+                <Char> udgår », sygedagpenge«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6249afb4-dabd-4748-aef9-bb62c384919b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8d381bde-5f2a-43eb-bfd9-674fa910bae7">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="id1db3b1e7-7121-4063-b4c0-79aa31ad8b7c">
+          <AendringDefinition id="id4793f393-ad5c-479f-9979-2bae17344793">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 16 a, stk. 6,</Char>
+                <Char> ændres »kommunens« til: »Udbetaling Danmarks«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id344d13c5-96e3-432c-942a-7c51e33f3471" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id0840fffb-33e2-4336-a37a-bb7cfd3548c3">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="id74c06caf-8b98-422a-9713-553c0d8f6eb7">
+          <AendringDefinition id="id0ac43a69-46f9-46b1-bd79-29ea96663cfc">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 17</Char>
+                <Char> ændres »Kommunalbestyrelsens« til: »Udbetaling Danmarks«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id40ec76c8-ae32-4e21-82ed-04dfda5482af" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb77b9067-3f50-4498-a55d-7aa25fcfc047">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="id073d4fb2-77a4-4e72-b180-a0373068b301">
+          <AendringDefinition id="id75a20a77-0d58-421e-93ea-6d3586094b3b">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 19</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id20f60950-17f0-40b6-8cd0-f7dd59804041" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id3db717ba-73d3-482b-92a6-3f3829b81d44" localId="16">
+                <Explicatus>§ 19.</Explicatus>
+                <Stk id="id2dc87313-fe46-426b-b5ee-09d9684f3d01">
+                  <Exitus>
+                    <Linea>
+                      <Char>Udbetaling Danmark varetager administrationen af denne lov.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf0679e57-8710-4440-9484-7b410dcf733c">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="id17dc79b6-1eb7-4581-830d-9ed465ddca90">
+          <AendringDefinition id="iddbe2a768-f015-4c5e-9d98-eaad6b8ccaf1">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 20</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb8777a2a-4993-48a2-8a42-5ca909cdb64f" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="idedc1ec3b-4020-46b0-8dff-6658f469ac20" localId="17">
+                <Explicatus>§ 20.</Explicatus>
+                <Stk id="idca6dfea8-16ee-4d30-908b-67aaa03c9109">
+                  <Exitus>
+                    <Linea>
+                      <Char>Staten betaler Udbetaling Danmarks udgifter til delpension efter denne lov.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id87e405f0-ff60-46a7-ae25-334dda28e9ea">
+      <Explicatus>§ 6</Explicatus>
+      <Rubrica id="id5843c91a-50af-4a65-9609-1ab00a316395">
+        <Linea>
+          <Char>Ministeriet for Sundhed og Forebyggelse</Char>
+        </Linea>
+      </Rubrica>
+      <Exitus>
+        <Linea>
+          <Char>I sundhedsloven, jf. lovbekendtgørelse nr. 1202 af 14. november 2014, som ændret ved § 1 i lov nr. 1536 af 27. december 2014 og lov nr. 1537 af 27. december 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id9f6014e3-0ebd-48fa-ac59-121ed8d753ef">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idf98a3f5a-54fa-4b7d-80bb-b3c4a27ec558">
+          <AendringDefinition id="id50c8331c-77d4-430e-92bb-8de546579c85">
+            <Exitus>
+              <Linea>
+                <Char>Overskriften til </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">kapitel 3</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5fbef69c-f0ef-4ecd-ad09-ea83b89e942f" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <Kapitel id="id0d15dec1-d55e-46ec-aa2b-b0ac3e4d9104" localId="4">
+                <Explicatus>Kapitel 3</Explicatus>
+                <Rubrica id="idabf1a5f0-ca98-4deb-8ecc-3f16b8c3a50c">
+                  <Linea>
+                    <Char formaChar="Italic">Udstedelse af sundhedskort, EU-sygesikringskort og særligt sundhedskort</Char>
+                  </Linea>
+                </Rubrica>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5581d14b-9c37-44a8-be75-33abb41ee252">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idcb9f8c79-d628-421e-b247-72f1cfe9d2a3">
+          <AendringDefinition id="idcd400cd2-a2af-474e-9fb2-333e4b43c77f">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id78f8e3c1-5393-4828-8cf7-145c1afd4f4a" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Kommunalbestyrelsen udsteder sundhedskort som bevis til personer, der har ret til ydelser efter loven, jf. § 7, stk. 1.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Kortet gælder som dokumentation for retten til ydelser efter loven.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idca3e6332-6094-4c72-88f9-6235b6a0a66a">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id147a17e8-bfb5-4b63-abe1-257041072535">
+          <AendringDefinition id="ida339c13e-f3ac-42fc-bc81-e3f111bcf119">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 2, 2. pkt.,</Char>
+                <Char> ændres »stk. 5 og 6« til: »stk. 4 og 5«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idbfed17e0-6a1b-400e-9678-895007c1e774" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb556c33a-3d02-422d-afee-2a122cf79b48">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="idcd513d26-dfe0-4498-a743-6e168df7b5a1">
+          <AendringDefinition id="idb2f33349-8d03-4a7b-a253-9b02a7cbb7c8">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 3,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="iddb5239ba-f0d0-43a0-a347-f4243bbb4cd6" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id9ef58c65-6b4d-454c-bd9c-c86bcc0933cb">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 4-6 bliver herefter stk. 3-5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id8a8de610-5c33-43fa-9de2-15ce72c8f879">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id8b5bfd26-1c1a-4494-9607-d103829273c2">
+          <AendringDefinition id="id07c37db2-e2be-43ff-920e-56e162cc8337">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 6,</Char>
+                <Char> der bliver stk. 5, ændres »stk. 5« til: »stk. 4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id00592f90-556d-41d6-98c6-2bd223ff6e4f" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb1a55853-d056-461d-8cfe-155fa5d62ccc">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id26a1fdd8-053d-45d1-9125-040c85f57d4b">
+          <AendringDefinition id="id0f6be7eb-55a1-4e94-bb49-28db8bd5677d">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 7-9,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf5b03f75-3810-42f3-a6b9-87a79feb8712" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="idfc795cbf-36b4-4b1f-b6ee-2e27af40d47d">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En kommunalbestyrelse kan efter aftale helt eller delvis overlade opgaver vedrørende udstedelse af sundhedskort, jf. stk. 1, til personer, der tilflytter kommunen fra udlandet, til en anden kommunalbestyrelse i et International Citizen Service.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id98ca17e7-8a10-4a3b-a4d5-8c28d2fb4738">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for sundhed og forebyggelse fastsætter nærmere regler om udformning, anvendelse, indhold, udstedelse og inddragelse af sundhedskort efter stk. 1 og om opkrævning af gebyr for udstedelse og fornyelse deraf.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9d29e1e6-3dbb-49f5-b734-1d4b1de940f7">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id48e9fa9e-0dc5-4e92-8367-299ae4941b47">
+          <AendringDefinition id="id9be345fd-380e-4166-b037-03aaa024de71">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 12 indsættes i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">kapitel 3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idde7b90b9-57ac-4e87-9b37-0a1bad37b800" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="idec3441e4-b5b2-46da-baa6-e3f7bf6a874d" localId="18">
+                <Explicatus>§ 12 a.</Explicatus>
+                <Stk id="idfb4a631e-6a5d-4ec6-99a2-63c7afa3f76e">
+                  <Exitus>
+                    <Linea>
+                      <Char>Udbetaling Danmark træffer afgørelse om en persons ret til ydelser efter loven på baggrund af regler om, hvilket lands lovgivning om social sikring der skal anvendes.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Afgørelsen træffes i henhold til Europa-Parlamentets og Rådets forordning (EF) nr. 883/2004 om koordinering af de sociale sikringsordninger med senere ændringer eller afgørelse nr. 1/2012 vedtaget af Det Blandede Udvalg nedsat i henhold til aftalen mellem Det Europæiske Fællesskab og dets medlemsstater på den ene side og Det Schweiziske Forbund på den anden side om fri bevægelighed for personer af 31. marts 2012 om erstatning af bilag II til aftalen om koordinering af de sociale sikringsordninger eller Det Blandede EØS-udvalgs afgørelse nr. 76/2011 af 1. juli 2011 om ændring af bilag VI (social sikring) og protokol 37 til EØS-aftalen samt Socialsikringsoverenskomster med andre lande.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id7d2286cd-fcb9-48f3-b5f7-edbcf44c139a">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Udbetaling Danmark udsteder EU-sygesikringskort og dokumentation til brug for en persons optagelse i andre landes offentlige sygeforsikringer til udgift for Danmark efter Europa-Parlamentets og Rådets forordning (EF) nr. 883/2004 om koordinering af de sociale sikringsordninger med senere ændringer eller afgørelse nr. 1/2012 vedtaget af Det Blandede Udvalg nedsat i henhold til aftalen mellem Det Europæiske Fællesskab og dets medlemsstater på den ene side og Det Schweiziske Forbund på den anden side om fri bevægelighed for personer af 31. marts 2012 om erstatning af bilag II til aftalen om koordinering af de sociale sikringsordninger eller Det Blandede EØS-udvalgs afgørelse nr. 76/2011 af 1. juli 2011 om ændring af bilag VI (social sikring) og protokol 37 til EØS-aftalen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id0d5d12ff-4a8b-457f-b823-60fea1fd8532">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Udbetaling Danmark udsteder et særligt sundhedskort som dokumentation for en persons ret til ydelser efter loven til personer, der efter stk. 1 har ret til lovens ydelser, uanset at den pågældende ikke har bopæl her i landet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id8c01c8b6-d727-4efc-b8cf-fdf3466cef29">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Kommunalbestyrelsen skal i forbindelse med de i stk. 1 nævnte afgørelser ved en persons indrejse og den de‌raf følgende ret til sundhedsydelser vejlede personen om, at personen skal afgive de nødvendige oplysninger til brug for Udbetaling Danmarks afgørelse efter stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id7ca4318b-9ae7-4599-9d02-00af6f99dc78">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for sundhed og forebyggelse fastsætter nærmere regler om de afgørelser, der er nævnt i stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id0d4295a9-5535-49b9-b9c5-d4f35e2268dd">
+                  <Explicatus>Stk. 6.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for sundhed og forebyggelse fastsætter nærmere regler om udstedelse og inddragelse af EU-sygesikringskort efter stk. 2.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id87e0c548-fe8c-495b-acae-c9446c10d112">
+                  <Explicatus>Stk. 7.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for sundhed og forebyggelse fastsætter nærmere regler om udformning, anvendelse, indhold, udstedelse og inddragelse af de i stk. 3 nævnte særlige sundhedskort og om opkrævning af gebyr for udstedelse og fornyelse deraf og om, i hvilket omfang Udbetaling Danmark udfærdiger det særlige sundhedskort til personer omfattet af § 8, stk. 2, og § 10, og i hvilket omfang kortet anvendes til dokumentation for ret til ydelser efter loven.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf71becd5-f71c-4d8d-9e2d-e7cf30052e65">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id37f14e9a-82f9-4f7d-a1bb-9b1227467829">
+          <AendringDefinition id="idbf46d006-cc63-4e7a-a520-22dd3995df13">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 58, stk. 1,</Char>
+                <Char> ændres »bevis efter § 12«: til »sundhedskort efter § 12, stk. 1,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8e808416-146c-46b7-ab3a-85bde51ef048" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb9fc122a-83f6-465e-adc6-80a6b150d53d">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="id571d1c56-d3ee-42ed-b91d-0735a0de6b28">
+          <AendringDefinition id="id69de04fb-5443-4910-9cc4-f06a9d63a02d">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 58, stk. 1,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8b9f0a41-1dfd-4374-a898-063c5dc08d76" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Ved udstedelse af særligt sundhedskort efter § 12 a, stk. 3, skal en person foretage et valg mellem sikringsgruppe 1 og 2 og meddele det til Udbetaling Danmark.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id694afdea-ec5d-4299-8228-baef728b8d04">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="id15082232-febe-4d46-8a11-ec35e967868e">
+          <AendringDefinition id="idf2cd1e76-9f8f-45db-88c2-4118eeee2457">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 58, stk. 4,</Char>
+                <Char> indsættes efter »kommunalbestyrelsen«: »efter udstedelse af sundhedskort efter § 12, stk. 1, eller Udbetaling Danmark efter udstedelse af særligt sundhedskort efter § 12 a, stk. 3,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9b032a06-d201-46c2-a8c6-23f52b0527ab" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idd82ec785-abb4-454f-98ab-c62ae9503767">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="idf6af46fc-74dc-4448-b452-34fba2431cdb">
+          <AendringDefinition id="ide7e3f66c-25d6-4f67-a306-feab1d325559">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 160, stk. 1, 1. pkt.,</Char>
+                <Char> ændres »Kommunalbestyrelsen yder« til: »Udbetaling Danmark behandler ansøgninger om«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id19fd6d91-4752-432a-934c-27f101acfb42" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1040ca80-1f86-43d0-90d6-b453ae06f7fb">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="id473adc45-dc4e-4108-9828-5851c2df146a">
+          <AendringDefinition id="id7fc514f7-3350-452e-b3b5-c54a86dc7ae8">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 160, stk. 1, 3. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idafa780c7-45af-48af-a8ac-ea40071c4f2f" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Ministeren for sundhed og forebyggelse fastsætter nærmere regler om modtagelse, beregning og udbetaling af begravelseshjælpen.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id68597392-870f-4efa-98af-315372ec1656">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="id86233356-c856-4e11-b500-d626cb3d94e0">
+          <AendringDefinition id="id391750c7-de17-415c-b628-fa6d529b9875">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 160, stk. 2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2c527ec2-62e1-487d-a138-9d0366f25734" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="ide3d6b17b-0960-41cf-807a-66d052ce5e05">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udbetaling Danmark behandler ansøgninger om begravelseshjælp efter personer, der ikke havde bopæl i Danmark, men i medfør af Europa-Parlamentets og Rådets forordning (EF) nr. 883/2004 om koordinering af de sociale sikringsordninger med senere ændringer eller afgørelse nr. 1/2012 vedtaget af Det Blandede Udvalg nedsat i henhold til aftalen mellem Det Europæiske Fællesskab og dets medlemsstater på den ene side og Det Schweiziske Forbund på den anden side om fri bevægelighed for personer af 31. marts 2012 om erstatning af bilag II til aftalen om koordinering af de sociale sikringsordninger eller Det Blandede EØS-udvalgs afgørelse nr. 76/2011 af 1. juli 2011 om ændring af bilag VI (social sikring) og protokol 37 til EØS-aftalen samt socialsikringsoverenskomster med andre lande havde ret til begravelseshjælp fra Danmark.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idd5110dd5-88fa-45fb-b154-b6a3c1ed3f0b">
+        <Explicatus>14.</Explicatus>
+        <Aendring id="id6f642262-42c1-4e3f-b184-e4bb8abe3988">
+          <AendringDefinition id="id5f7b7e36-33de-4059-9b1e-3129752aea26">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 160, stk. 3,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf8ea1e01-5e97-495f-80a4-3ea171ba4084" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id53c7c261-695b-4a66-9084-39da63dc944d">
+        <Explicatus>15.</Explicatus>
+        <Aendring id="idffac5444-5fc0-4f46-951a-1c240e7f0025">
+          <AendringDefinition id="ida0005ae5-fedb-4b80-acc5-0eb27a9e8ba4">
+            <Exitus>
+              <Linea>
+                <Char>I overskriften før § 255 ændres »bevis« til: »kort«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idba7ab563-6dd2-445f-8979-5bcbbc3bf50a" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4548658b-0a84-439d-9ded-aeef874ece60">
+        <Explicatus>16.</Explicatus>
+        <Aendring id="id607af869-e3e2-4ca5-9aa9-47861b646257">
+          <AendringDefinition id="id41e2fa22-df50-4686-af45-b9a8c4339ffb">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 255</Char>
+                <Char> ændres »§ 12, stk. 1 og 2« til: »§ 12, stk. 1, og § 12 a, stk. 2 og 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf74e2037-5f0d-4577-a0ad-7cc52c139745" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idae5760ca-a61c-4fa4-9c50-c654f7d46c4b">
+      <Explicatus>§ 7</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om klage- og erstatningsadgang inden for sundhedsvæsenet, jf. lovbekendtgørelse nr. 1113 af 7. november 2011, som ændret bl.a. ved lov nr. 1257 af 18. december 2012 og senest ved § 2 i lov nr. 743 af 25. juni 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id85342a1c-474b-4471-bc9a-56ae630c4919">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="ide587f858-bb96-425e-981e-42108e982876">
+          <AendringDefinition id="id350be972-f5b2-4c6b-a970-77c1a34cafe3">
+            <Exitus>
+              <Linea>
+                <Char>I overskriften før § 5 indsættes efter »kommunalbestyrelsers,«: »Udbetaling Danmarks,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc26b1174-ec25-4032-9a91-9de565d34184" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1e0fe10e-1082-4ba2-9ecf-1832fb1ed47d">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idaa803ad8-f3e4-49af-a07d-1449d44d117c">
+          <AendringDefinition id="idbdd4cbd9-2b91-4c21-b2ea-2458833bd639">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5, nr. 7,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8a364187-5e16-4b2b-bce5-951d271ef134" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <Indentatio id="id7e517cab-03d9-4142-93c3-326a1c516f33" formaInd="Nummer">
+                <Explicatus>7)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>undtagelse fra obligatorisk digital selvbetjening i forbindelse med ansøgning om begravelseshjælp efter § 160, stk. 1, i sundhedsloven,</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id81497443-7dce-41d8-b725-8b1a9dcbef7f">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="idc16fb555-c4fc-4b98-843f-5525f79e5407">
+          <AendringDefinition id="id8dc6ca13-700f-41cc-a085-e96b941d1b77">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 5 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id57b15b5e-e05f-4deb-8a5e-e48eb667f345" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="idddd11618-3a9d-4433-ab76-43a19fb049fe" localId="19">
+                <Explicatus>§ 5 a.</Explicatus>
+                <Stk id="id6a6ac16c-5001-46f0-ada9-9863389fca1e">
+                  <Exitus>
+                    <Linea>
+                      <Char>Udbetaling Danmarks afgørelser kan påklages til Patientombuddet, når de vedrører</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus id="ide497b8ad-f96c-4b09-b4d7-79d661722370">
+                    <Index>
+                      <Indentatio id="id20424fa6-c000-44c9-b1ab-a83e64f017fa" formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>udstedelse af et særligt sundhedskort efter § 12 a, stk. 3, i sundhedsloven og regler fastsat i medfør heraf,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="id87dd50c0-cd81-4c24-b715-e5e7c055bbe2" formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>indplacering i sikringsgruppe 1 og 2 og overførsel til gruppe 1-sikring efter § 58 i sundhedsloven og regler fastsat i medfør heraf eller</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio id="idcb851671-4962-44e4-98cf-0ef5e9102b33" formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>begravelseshjælp efter § 160, stk. 1 og 2, i sundhedsloven og regler fastsat i medfør heraf.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id40d25c4b-5e9c-46c1-b65e-38105c7c22ac">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id6faa30b7-2e5d-4b07-9e77-1a87a6e66a86">
+          <AendringDefinition id="id9d316916-adfd-4f3b-b837-8ce9831ca0a6">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18</Char>
+                <Char> indsættes efter stk. 2 som nye stykker:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id223f21b0-d56d-4ac6-a210-b67881fbaa46" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id1c4f0388-deec-4706-97b2-9e6a38a37f69">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen afholder udgifter til driften af Patientombuddet, jf. stk. 1, for de sagsområder, hvor Udbetaling Danmark træffer afgørelse efter § 12 a, stk. 3, og efter § 160, stk. 1, i sundhedsloven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id96fc812c-e1e2-48cf-b8c2-879468f4b5d7">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Staten afholder udgifter til driften af Patientombuddet, jf. stk. 1, for de sagsområder, hvor Udbetaling Danmark træffer afgørelse efter § 160, stk. 2, i sundhedsloven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idba8eec8e-2c51-45b6-80e3-980da952c1f3">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 bliver herefter stk. 5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id0b6d47e3-988c-4648-9c8d-51de9aec6149">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id07cfdb2e-b610-4ecc-af4d-d2af844061af">
+          <AendringDefinition id="idc5cd175a-617a-4c8c-a89b-e6f7dda222e8">
+            <Exitus>
+              <Linea>
+                <Char>To steder i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 18, stk. 3,</Char>
+                <Char> der bliver stk. 5, ændres »stk. 1 og 2« til: »stk. 1-4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="iddcd8feed-f050-4b6b-bfb1-d217d903e7b1" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id8a00531c-b05a-486a-94b8-c5330e56dfdc">
+      <Explicatus>§ 8</Explicatus>
+      <Rubrica id="id747a1c1e-31b8-40b3-8cfa-34310256f71d">
+        <Linea>
+          <Char>Ikrafttrædelses- og overgangsbestemmelser</Char>
+        </Linea>
+      </Rubrica>
+      <Stk id="id26b50447-0185-46e5-bad2-35df3149a69c">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. maj 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idc7b88839-3c60-4729-b588-98dda71e4d99">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 17, finder også anvendelse for registersamkøring af oplysninger til at udfærdige lister over personer, der har modtaget kontante ydelser og økonomiske tilskud hos Udbetaling Danmark i 2013 og 2014.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="ide93be883-eb80-4cad-95aa-bf7dd84277c5">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 2, nr. 3-5, har virkning fra den 1. januar 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="id2a1092d7-2e1a-447c-b096-a0eda3c5f04d">
+      <Explicatus>§ 9</Explicatus>
+      <Stk id="idb80a0de3-8066-49fb-bd4a-62cb098f074e">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Sager, hvor myndighedsansvaret overgår til Udbetaling Danmark efter denne lovs §§ 3-5 og § 6, nr. 1-12, og som ikke er afgjort eller afsluttet i kommunen ved lovens ikrafttræden, behandles færdig i Udbetaling Danmark.</Char>
+          </Linea>
+          <Linea>
+            <Char>Tilsvarende gælder for sager, hvor myndighedsansvaret overgår fra Patientombuddet til Udbetaling Danmark efter § 6, nr. 13.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id53d11af0-6c20-45d0-82cd-46fef7f8499a">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Hvis borgeren har givet samtykke til kommunen efter § 11 a, stk. 1, i lov om retssikkerhed og administration på det sociale område på sagsområder, der efter §§ 3-5 overføres til behandling i Udbetaling Danmark, kan Udbetaling Danmark behandle sagen uden fornyet samtykke.</Char>
+          </Linea>
+          <Linea>
+            <Char>Ankestyrelsen og Ankestyrelsens Beskæftigelsesudvalg kan tilsvarende behandle sagen uden fornyet samtykke.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="iddf9ffc7b-2766-474c-9ca7-a0d1b05cbd7a">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Afgørelser, der er truffet af kommunen inden lovens ikrafttræden på sagsområder, der efter denne lovs § 3 overgår til Udbetaling Danmark, og som påklages efter lovens ikrafttræden, kan indbringes for Ankestyrelsen som første og eneste administrative klageinstans, jf. § 2, nr. 6, og § 3, nr. 3.</Char>
+          </Linea>
+          <Linea>
+            <Char>§ 66 i lov om retssikkerhed og administration på det sociale område om pligt til at genvurdere sagen finder ikke anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id96416032-795d-452b-83a2-ae386323ed79">
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Afgørelser, der er truffet af kommunen inden lovens ikrafttræden på sagsområder, der efter §§ 4 og 5 overgår til Udbetaling Danmark, og som påklages efter lovens ikrafttræden, kan indbringes for Ankestyrelsens Beskæftigelsesudvalg som første og eneste administrative klageinstans, jf. § 2, nr. 6.</Char>
+          </Linea>
+          <Linea>
+            <Char>§ 66 i lov om retssikkerhed og administration på det sociale område om pligt til at genvurdere sagen finder ikke anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id18c1aefa-62b4-4083-842c-a03bea162fa0">
+        <Explicatus>Stk. 5.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Afgørelser, der er truffet af kommunen inden lovens ikrafttræden på sagsområder, der efter § 6, nr. 11, overgår til Udbetaling Danmark, og som påklages efter lovens ikrafttræden, kan påklages til Patientombuddet efter lov om klage- og erstatningsadgangen inden for sundhedsvæsenet.</Char>
+          </Linea>
+          <Linea>
+            <Char>Afgørelser, der er truffet af Patientombuddet inden lovens ikrafttræden på sagsområdet efter § 6, nr. 13, og som påklages efter lovens ikrafttræden, kan påklages til Ministeriet for Sundhed og Forebyggelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idf72465dc-5d12-4cb5-8b3b-1bae141a0ce4">
+        <Explicatus>Stk. 6.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Krav, som en kommune måtte have mod en borger, eller krav, som en borger måtte have mod en kommune efter §§ 3-5 og § 6, nr. 11, ved lovens ikrafttræden, overgår til Udbetaling Danmark.</Char>
+          </Linea>
+          <Linea>
+            <Char>Fordringer, for hvilke kommunen har påbegyndt opkrævning af tilbagebetalingskrav, forbliver dog i kommunen, medmindre fordringen opkræves ved modregning eller fradrages i en ydelse, der ved lovens ikrafttræden udbetales af Udbetaling Danmark, eller i tilfælde, hvor Udbetaling Danmark træffer en ny afgørelse, som vedrører samme fordring.</Char>
+          </Linea>
+          <Linea>
+            <Char>Tilsvarende gælder for sager, hvor myndighedsansvaret overgår fra Patientombuddet til Udbetaling Danmark efter § 6, nr. 13.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="ida19cd1ae-04e2-4668-b766-2c872fbf1fe4">
+      <Explicatus>§ 10</Explicatus>
+      <Stk id="idecb0579e-2b46-45b1-9d7a-b3a1e8d81ebc">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Efter lovens ikrafttræden påhviler ansvaret for opbevaring af arkivalier og varetagelse af de arkivmæssige hensyn i sager vedrørende Udbetaling Danmarks sagsområde:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus id="id1e9fbcbb-a46c-4c08-aac7-590711d5c174">
+          <Index>
+            <Indentatio id="idb9274882-8869-4fce-bff2-341ec13c8c77" formaInd="Nummer">
+              <Explicatus>1)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Kommunalbestyrelsen i afsluttede og passivførte sager på sagsområder, hvor myndighedsansvaret efter §§ 3-5 og § 6, nr. 1-11, overføres til Udbetaling Danmark.</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio id="id73d2a979-486a-4125-aa4c-31dca2ac80a8" formaInd="Nummer">
+              <Explicatus>2)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Kommunalbestyrelsen i sager, hvor der fortsat sker udbetaling på sagsområder, der efter §§ 3-5 skal overføres til Udbetaling Danmark, og hvor kommunalbestyrelsen har truffet afgørelse om tilkendelse af en ydelse forud for det tidspunkt, hvor sagsområdet overgår til Udbetaling Danmark.</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio id="id313b474a-b9be-49b3-a091-b6cf16bebde8" formaInd="Nummer">
+              <Explicatus>3)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Patientombuddet i afsluttede og passivførte sager på sagsområdet, hvor myndighedsansvaret efter lovens § 6, nr. 13, overgår til Udbetaling Danmark.</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio id="idf374fde1-e661-471b-aaec-6ed42e9747c4" formaInd="Nummer">
+              <Explicatus>4)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Udbetaling Danmark i alle øvrige sager på sagsområder, hvor myndighedsansvaret efter §§ 3-6 overføres til Udbetaling Danmark, og som ikke er omfattet af nr. 1-3.</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+          </Index>
+        </Exitus>
+      </Stk>
+      <Stk id="idaff7858c-b386-4a87-8add-97ca38fcef23">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Kommunen skal efter anmodning fra Udbetaling Danmark sende en kopi af de ønskede akter fra sager, der efter stk. 1, nr. 1 og 2, opbevares i kommunen.</Char>
+          </Linea>
+          <Linea>
+            <Char>Kommunen har i forbindelse med anmodninger om kopi af akter fra Udbetaling Danmark uden samtykke fra borgeren ret til at gennemgå og sortere en sag, som kommunen opbevarer for Udbetaling Danmark, med henblik på at kunne imødekomme Udbetaling Danmarks anmodning.</Char>
+          </Linea>
+          <Linea>
+            <Char>Kommunen har desuden ret til at gennemgå og sortere en sag, som kommunen opbevarer for Udbetaling Danmark, hvis sagen indeholder oplysninger, der vedrører kommunens sagsområde, og hvis kommunen har et sagligt behov for oplysningerne.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="iddcc117e6-9a9c-4aff-928c-bafae01e57a2">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Ministeren for børn, ligestilling, integration og sociale forhold kan efter indstilling fra bestyrelsen for Udbetaling Danmark fastsætte regler om, at Udbetaling Danmark skal betale et gebyr til kommunen for at varetage opgaven efter stk. 2, 1. pkt., og regler om udfasning af kommunernes arkivforpligtelse over for Udbetaling Danmark fra 2018.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="id26b08a85-2ba8-478e-bf0e-2bcea0af5c1b">
+      <Explicatus>§ 11</Explicatus>
+      <Stk id="idd0b5d39c-7c5a-4ecb-ba2a-56a780f01414">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idd67998bd-67b1-4f2c-a855-9b3e5e0f66b2">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Lovens § 7 kan for Færøerne sættes i kraft ved kongelig anordning med de afvigelser, som de særlige færøske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idc6169ec1-d2e8-4b8f-87a3-1c1e6d2f0229">
+    <UnderskriftStedDato id="idc6169ec1-d2e8-4b8f-87a3-1c1e6d2f0229" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="idc6169ec1-d2e8-4b8f-87a3-1c1e6d2f0229" />
+  </UnderskriftGruppe>
+</Dokument>

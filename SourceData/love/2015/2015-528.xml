@@ -1,0 +1,556 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id9be50d03-c6c9-4713-962a-5ccffbce8832" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idfbd1bf63-7923-47a4-b3ff-8eef956ab051">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150052830</AccessionNumber>
+    <DocumentId>BV000251</DocumentId>
+    <UniqueDocumentId>169839</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om almene boliger m.v. og lov om individuel boligstøtte (Kollektive bofællesskaber)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-04-29</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-11-10</EndDate>
+    <Status>Historic</Status>
+    <Number>528</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1278 af 18/11/2015</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 174 af 24/02/2016</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 528 af 29/04/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2016-02-29</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Carsten Hansen</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Ministeriet for By, Bolig og Landdistrikter, j.nr. 2015-34</JournalNumber>
+    <Ministry>Udlændinge-, Integrations- og Boligministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id5ed62d3e-f781-48e5-b1dc-fe797bec93c7">
+    <Titel id="id27ca4bfc-3ae7-4b43-924f-dc2d61a198a8">
+      <Linea>
+        <Char>Lov om ændring af lov om almene boliger m.v. og lov om individuel boligstøtte</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="id514e0d81-7bd4-424f-b568-e3e5999ac2af">
+      <Linea>
+        <Char>(Kollektive bofællesskaber)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="id61d40d13-263b-43df-b261-af3c2da13cde">
+    <Hymne id="id531670ea-16a1-487c-951d-f12a92f144b4">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id9481ea91-752a-449f-b8a8-6e51d0816081">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om almene boliger m.v., jf. lovbekendtgørelse nr. 1023 af 21. august 2013, som ændret senest ved lov nr. 224 af 3. marts 2015, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id3d3ba818-f9a2-4b00-b8d2-c780a437e7eb">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id50d373b7-aed9-452d-975b-d259e2fa1c73">
+          <AendringDefinition id="id7e0c4b9e-331b-425f-9327-dff5fcb3909c">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 3, stk. 2, 2.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3. pkt.,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida9dba212-366a-4849-bea0-836fa5e6973c" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ideecf7f98-fe50-4d79-a425-86b6ee911e4b">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idb73be630-4006-4a18-bc5a-15521df59d52">
+          <AendringDefinition id="idedd5dbdc-aab4-42b2-8e15-223f8acdcfb2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 3</Char>
+                <Char> indsættes efter stk. 2 som nye stykker:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0004ce5f-2749-4dea-87c0-e8696dc47830" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="id10b743d7-38a1-4a4b-9b84-eabccaedec7d">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et individuelt bofællesskab skal bestå af mindst fem boliger.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Herudover skal bofællesskabet indeholde et fællesareal, som kan benyttes af lejerne i bofællesskabet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen kan i ganske særlige tilfælde godkende, at bofællesskabet består af mindst tre boliger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida03e1368-2645-4d68-bde1-04334f7e6ce1">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et kollektivt bofællesskab skal bestå af mindst tre værelser.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Herudover skal bofællesskabet indeholde et ekstra værelse, som kan benyttes af lejerne i bofællesskabet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen kan dog godkende, at bofællesskabet ikke indeholder det ekstra værelse, som er nævnt i 2. pkt., hvis bofællesskabet er indrettet med et køkken, hvor beboerne kan spise sammen m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id56c1f782-5fca-4f7f-bcf9-25e85ca0c342">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 og 4 bliver herefter stk. 5 og 6.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id96a345cf-4d87-499d-98e0-b73699a74a08">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id8ba978ba-a409-48ca-9a0f-9e90982ccaad">
+          <AendringDefinition id="idf84b3fbc-2a3f-4c1c-8bb6-edf4e98cdf13">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 51 a, stk. 2,</Char>
+                <Char> ændres »§ 3, stk. 3« til: »§ 3, stk. 5«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id8633c437-88ed-4789-bd80-02a11d2abc94" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4bda7d14-8332-431e-8fdb-6047776a8441">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="idbd3a00b1-df65-45b8-a333-503b6753067e">
+          <AendringDefinition id="id00af3c3a-3385-409d-ab4e-10c43ea900f5">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 51 a, stk. 3,</Char>
+                <Char> ændres »§ 3, stk. 4« til: »§ 3, stk. 6«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb9ccce22-609c-4cea-aa24-dae18b22b8be" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id8f341e86-7cd2-4488-a362-e0884254d809">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om individuel boligstøtte, jf. lovbekendtgørelse nr. 158 af 18. februar 2015, som ændret ved § 3 i lov nr. 574 af 10. juni 2014 og § 2 i lov nr. 1523 af 27. december 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id046702d3-4db1-475b-8142-47aa34e48db3">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idf50e4da1-9a6e-4f6e-8340-a8caff33c9b9">
+          <AendringDefinition id="id99180eae-335a-4355-a4c6-3426b838e57f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 24 a, stk. 1, nr. 5,</Char>
+                <Char> ændres »bofællesskab« til: »bofællesskab, der består af mindst fem personer,«, og »§ 3, stk. 2-4,« ændres til: »§ 3, stk. 2 og 4-6,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id57cf2010-9409-4e2a-8c15-e12748ad3a43" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9e5ba38a-7ca8-40fb-8854-6f373c6881aa">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id2320c7fb-5547-4e96-84b5-faf53d97df09">
+          <AendringDefinition id="idee53f587-0ec8-4fea-9c09-048d13180a5f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 24 a, stk. 1,</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">nr. 6:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4711f591-dcc0-45d1-8305-f32afdc92900" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus id="idcccd061f-aa69-4453-acd3-311ab34a0627">
+                <Index>
+                  <Indentatio id="id094efb3d-eea2-4728-a94c-7c1de4a273da" formaInd="Nummer">
+                    <Explicatus>6)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Personer, der bor i et kollektivt bofællesskab i medfør af § 3, stk. 4-6, i lov om almene boliger m.v., som består af tre eller fire personer, jf. § 24 h.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id142517c8-77b1-4cb7-bc34-a6a0a6575b26">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="idfe2477bf-3603-4902-a0f9-cae641e95753">
+          <AendringDefinition id="id818fa762-2fde-4140-8691-d42365c28c12">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 24 b, stk. 1,</Char>
+                <Char> ændres »boligstøtte efter § 24 a, stk. 1,« til: »boligstøtte efter § 24 a, stk. 1, nr. 1-5,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id33c4d84f-2c90-4293-a039-cc39757a8c29" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id4bf99df8-3493-4b1a-b8a8-e689d3fed691">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id4cea2c23-4143-45fa-ae7f-96f493e6e84b">
+          <AendringDefinition id="idd7a41105-1155-494a-90a0-a6bd1a7ede4f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 24 b, stk. 1, nr. 2,</Char>
+                <Char> ændres »§ 3, stk. 2-4,« til: »§ 3, stk. 2 og 4-6,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb5ac4ac8-d54e-4aa0-8c85-cb6526e0b226" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7f21ce8e-54e6-40a3-a7fa-d33b9ab82dad">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id4de9e4cd-e3e5-4a24-95aa-e8e01cdb5880">
+          <AendringDefinition id="idc7ede4c2-727e-4c22-8b79-f50561363f55">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 24 b</Char>
+                <Char> indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 7:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id95a52ab2-6ed3-48ad-a5a1-b9dd37bfc16a" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk id="idc1f76d9e-af0f-4a90-a392-fd3e52dcefad">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen kan uanset stk. 1 ikke godkende, at kollektive bofællesskaber i medfør af § 3, stk. 4-6, i lov om almene boliger m.v., der er omfattet af § 24 a, stk. 1, nr. 5, består af mindst tre personer, jf. dog stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id180bc3be-2309-44ec-ae86-8d89e6dc4b13">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id80497008-9682-4230-b9fe-793e376a155c">
+          <AendringDefinition id="id6fa45b8d-b0c8-4293-8525-afd8f3822051">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 24 c, stk. 1,</Char>
+                <Char> ændres »for personer omfattet af § 24 a,« til: »for personer omfattet af § 24 a, stk. 1, nr. 1-5,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="iddc749f59-e4ee-4a18-9c83-44fd5f29602b" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9b80c5dd-1bdb-4895-af84-e7c4ab4f7d5e">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id921152f1-08c4-4b14-bb69-5a5cf0066473">
+          <AendringDefinition id="id9812d8be-85bb-444a-a0b7-8bde29b1e09b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 24 d, stk. 1, 1.</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3. pkt.,</Char>
+                <Char> indsættes efter »§ 24 a, stk. 1,«: »nr. 1-5,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id060e99c3-07ef-4dbf-8cee-15236549f9ee" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf905b7bf-ddbf-4a93-b625-6d8bfea1dde8">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id87617c8e-f358-4a86-8dda-10308ed565fa">
+          <AendringDefinition id="ida6b56508-65a1-4315-8bc4-31d5e83b6331">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 24 e, stk. 1, 1. pkt., stk. 2</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3, 1. pkt.,</Char>
+                <Char> ændres »§ 24 a« til: »§ 24 a, stk. 1, nr. 1-5,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idba87fa64-f4d2-4391-9312-5da1b037c687" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id35aa997b-9b19-4626-99ab-ddc7e7bfc224">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="ide6878a70-3608-46a9-9c39-c8c723e75b40">
+          <AendringDefinition id="idd130001c-3a47-40fe-bc34-8accc6348cfd">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 24 g, stk. 3, 1. pkt.,</Char>
+                <Char> ændres »efter dette kapitel.« til: »for personer i kollektivt bofællesskab efter § 24 a, stk. 1, nr. 1-5.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5e7e2db8-16e9-4398-a56d-d74d603ae072" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida36d3405-569b-437a-9e30-24d5735a677f">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="idda8d0807-c04f-4fdd-99d1-bb4caf142d14">
+          <AendringDefinition id="idd3cc8e64-22df-4201-8ab3-40ef8bede516">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 24 g indsættes i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">kapitel 4 a:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id0051caaa-be5c-4eca-b38a-afc1b532d5fe" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf id="id22e9a822-04c0-41bf-8376-deb53a03698a" localId="1">
+                <Explicatus>§ 24 h.</Explicatus>
+                <Stk id="id34fc8d4e-96f0-41e3-a191-36f920ecabe8">
+                  <Exitus>
+                    <Linea>
+                      <Char>Det er en betingelse for udbetaling af boligstøtte efter § 24 a, stk. 1, nr. 6, at det kollektive bofællesskab består af tre eller fire personer og er etableret i medfør af § 3, stk. 4-6, i lov om almene boliger m.v.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idd473cf6e-ff6b-49d4-810d-8da857f1652b">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Boligstøtte kan uanset stk. 1 fortsat ydes i indtil 3 måneder, såfremt antallet af beboere midlertidigt er mindre end tre som følge af en eller flere beboeres fraflytning eller død.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="iddaf0b509-8b15-4a11-b4d1-12315cc880e4">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Det er en betingelse for udbetaling af boligstøtte efter stk. 1 og 2, at den fælles bolig har mindst ét beboelsesrum mere end antallet af beboere.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Kommunalbestyrelsen kan dog godkende, at den fælles bolig har samme antal beboelsesrum som antal beboere, hvis bofællesskabet er indrettet med et køkken, hvor beboerne kan spise sammen m.v.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id194fa7e6-0c92-411f-9330-c4d6212f4909">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Det er en betingelse for udbetaling af boligstøtte efter stk. 1, at der foreligger en individuel lejekontrakt for hver beboer i bofællesskabet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="id05e57605-b151-49b6-b0cb-280da0e85f32" localId="2">
+                <Explicatus>§ 24 i.</Explicatus>
+                <Stk id="id9f28f3cb-4936-4d38-a346-8e37ef7a8dbc">
+                  <Exitus>
+                    <Linea>
+                      <Char>Den boligudgift, der lægges til grund ved boligstøtteberegningen for personer omfattet af § 24 a, stk. 1, nr. 6, er den enkelte beboers faktiske boligudgift for sin andel af boligen opgjort efter § 10.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ved opgørelsen medregnes for en person boligudgiften pr. kvadratmeter bruttoetageareal for 65 m².</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Bor en person omfattet af § 24 a, stk. 1, nr. 6, i et kollektivt bofællesskab sammen med et eller flere børn, jf. § 7, stk. 2, forøges det i 2. pkt. anførte areal med 20 m².</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Bor begge forældre i bofællesskabet, forøges arealet efter 3. pkt. hos den af forældrene, hos hvem barnet er medtaget ved opgørelse af husstandsindkomsten, jf. § 8, stk. 7.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id7d5429d9-7761-4318-b752-6bac326741c1">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ved beregning af boligudgiften efter stk. 1 finder § 14, stk. 1, anvendelse.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Bor begge forældre i bofællesskabet, forhøjes den maksimale boligudgift efter 1. pkt. hos den af forældrene, hos hvem barnet er medtaget ved opgørelse af husstandsindkomsten, jf. § 8, stk. 7.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id5365a5aa-f618-4a79-87ef-f7485306c16d">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>§ 15 finder tilsvarende anvendelse for den enkelte bofællesskabsdeltager.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="id92fc5aa0-fa19-467c-a0f6-48fb0bc953e6" localId="3">
+                <Explicatus>§ 24 j.</Explicatus>
+                <Stk id="id9988fe76-4fb7-46ca-aeab-228534b11dee">
+                  <Exitus>
+                    <Linea>
+                      <Char>For personer omfattet af § 24 a, stk. 1, nr. 6, beregnes boligydelse efter § 21 og boligsikring efter § 22, stk. 1 og 2 og stk. 3, nr. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="ideed02178-a0a8-427a-a9e3-5e86b794ee4d">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>§ 23, stk. 1, og § 33 finder tilsvarende anvendelse for personer i kollektive bofællesskaber omfattet af § 24 a, stk. 1, nr. 6.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="idfda2a4de-a7c0-48a0-9b13-7406902d92d9">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Boligstøtte til personer i kollektive bofællesskaber omfattet af § 24 a, stk. 1, nr. 6, udbetales som tilskud.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5d013381-47ec-4d12-8e9e-8cb1a00325db">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="idc1ff4ba7-18d0-4af5-97c7-c7cbc253209a">
+          <AendringDefinition id="ida7e54dc7-f9f0-431c-a439-bdcf3c414067">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 56 a, stk. 3,</Char>
+                <Char> ændres »§ 24 a.« til: »§ 24 a, stk. 1, nr. 1-5.«, og som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.</Char>
+                <Char> indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id857ccb52-d0ee-4f10-ad9c-26b3b872b55f" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Lån ydes til en forholdsmæssig del af beboerindskuddet til de personer, der bor i kollektive bofællesskaber, der er omfattet af § 24 a, stk. 1, nr. 6.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id6c282bd3-7a25-4826-b778-fa07361b24cb">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="idb7c54c13-4d40-46ed-9c85-3a9228946605">
+          <AendringDefinition id="ideff35a10-c8b0-4349-98b0-ffba12d71c25">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 56 a, stk. 4,</Char>
+                <Char> ændres »§ 24 b« til: »§§ 24 b og 24 h«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5b06ec87-4e5e-400b-a465-8cea609e7011" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id327d8bf1-d88a-4b7d-8628-574eb6b829dc">
+      <Explicatus>§ 3</Explicatus>
+      <Stk id="id750c1063-f8e1-4e89-90a7-5402d131ee84">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. maj 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id727cd78f-a885-4336-8b40-ae4a583629a9">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 2, nr. 5, finder ikke anvendelse for kollektive bofællesskaber i almene familieboliger efter § 3 i lov om almene boliger m.v., hvor kommunalbestyrelsen før lovens ikrafttræden har godkendt, at bofællesskabet kan bestå af tre personer.</Char>
+          </Linea>
+          <Linea>
+            <Char>For sådanne kollektive bofællesskaber finder de hidtil gældende regler anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idc58e6e8f-1ba1-45c5-adee-a76c92e29963">
+    <UnderskriftStedDato id="idc58e6e8f-1ba1-45c5-adee-a76c92e29963" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="idc58e6e8f-1ba1-45c5-adee-a76c92e29963" />
+  </UnderskriftGruppe>
+</Dokument>

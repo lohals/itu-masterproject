@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="ideef2bec5-7304-44db-885d-24522ed07206" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/04/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="ida35bd8f0-5adf-43d6-82b0-90355fee28eb">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150058130</AccessionNumber>
+    <DocumentId>BL001093</DocumentId>
+    <UniqueDocumentId>169995</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om Sund og Bælt Holding A/S, lov om projektering af fast forbindelse over Femern Bælt med tilhørende landanlæg i Danmark og selskabsskatteloven (Ophævelse af særbestemmelser vedrørende skat)</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-05-04</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-11-10</EndDate>
+    <Status>Valid</Status>
+    <Number>581</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 680 af 20/05/2015</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 581 af 04/05/2015</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Magnus Heunicke</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Transportmin., j.nr. 2012-1090</JournalNumber>
+    <Ministry>Transport- og Bygningsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id97d441c4-d5a2-4b19-9698-dc88e96e47e4">
+    <Titel id="idea5a68f9-8c94-4e53-92f5-080c675cd8e4">
+      <Linea>
+        <Char>Lov om ændring af lov om Sund og Bælt Holding A/S, lov om projektering af fast forbindelse over Femern Bælt med tilhørende landanlæg i Danmark og selskabsskatteloven</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="idee0189c4-422d-4b9b-9db8-16aa762070c8">
+      <Linea>
+        <Char>(Ophævelse af særbestemmelser vedrørende skat)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="idca778b3f-47da-4549-a446-0a6820cebb68">
+    <Hymne id="id5bf1aa41-f733-4cdb-a8f7-6e8f5c515f74">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="ida40b7c16-ba4d-4e66-b11a-ae95f4572561">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 588 af 24. juni 2005 om Sund og Bælt Holding A/S foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="ide7877d38-fd5a-45a5-a8b6-7efc6c53003f">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idac620e4a-e6a1-4744-a46e-591d5b127bf4">
+          <AendringDefinition id="id903e88a1-eec8-4ffc-bb27-c816bafbf041">
+            <Exitus>
+              <Linea>
+                <Char>Overskriften før § 10 affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id210c1f06-50bd-4a4d-8a8e-e82a75f5d884" punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <ParagrafGruppe>
+                <Rubrica id="id56e12eab-3208-4621-90b4-e1fa29a3d676">
+                  <Linea>
+                    <Char formaChar="Italic">Låneadgang og garantier</Char>
+                  </Linea>
+                </Rubrica>
+              </ParagrafGruppe>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id24a098ff-c370-4440-bf64-480750f9e1fd">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="ida7698fe6-ffbf-466a-aac1-e3f696ec8ee2">
+          <AendringDefinition id="idb730c3ee-4fdc-4cd9-b4c4-d67da83091ca">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§§ 12-14 </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id75aacd3d-7f3c-4b22-9847-50e1a4f9931c" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id649e6e7c-772b-4023-8b64-ba73ec942fe9">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 285 af 15. april 2009 om projektering af fast forbindelse over Femern Bælt med tilhørende landanlæg i Danmark foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id92ce756a-c4cb-4c52-bdf5-77791a896709">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="idd9432c2d-566d-4469-89a8-3b1a20e52dd9">
+          <AendringDefinition id="id41b9c1de-77c2-4750-b45d-00f5fe0ddbb5">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 8 </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id89ee20c7-37ed-4ed0-8212-32906255e3d0" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8da83259-fb1f-423a-89f5-a958f96b94dd">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="idd1ebfbf7-8214-4523-b509-e72a9cddbc85">
+          <AendringDefinition id="id4d52e29c-a50f-4457-a88c-c2fb20e6874d">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 9 </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id95e31e31-aac6-4fc3-bdbf-f1067bcd1478" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idcb537b10-6be5-4bd7-8a8a-3b11a161ef2f">
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I selskabsskatteloven, jf. lovbekendtgørelse nr. 149 af 9. januar 2015, som ændret ved § 3 i lov nr. 202 af 27. februar 2015, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idaf1b8a95-c406-4dc6-b4e4-683b84a15403">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id129048e0-6a47-4ca1-aded-289e86ea8cf5">
+          <AendringDefinition id="idd954b2ba-abe1-4938-961c-ba0e200dcea2">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 31, stk. 1, 3. pkt.,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id848b91bb-b0f5-4b01-bee2-0619b6019f46" punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id57f3370a-4e39-42e6-8228-d7497091028c">
+      <Explicatus>§ 4</Explicatus>
+      <Stk id="idc2cec191-9bdb-4ffd-ab8d-16795a8a5886">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2016.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="iddddaa709-2e2d-45a0-9755-3a4eda3a54bd">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, § 2, nr. 2, og § 3 har virkning fra og med indkomståret 2016.</Char>
+          </Linea>
+          <Linea>
+            <Char>Uudnyttede underskud den 1. januar 2016, herunder underskud fremført efter § 12, 2. pkt., i lov nr. 588 af 24. juni 2005 om Sund og Bælt Holding A/S, fremføres efter den nævnte dato efter selskabsskattelovens regler.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id10d0f943-e7b9-4882-81a0-75e00293b42d">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 2, nr. 1, har virkning for lån, der optages den 1. januar 2016 eller senere.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id6407d6a5-e978-4791-b19c-bc7026291a2e">
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Ved udgangen af indkomståret 2015 opgøres afskrivningsgrundlaget for A/S Storebæltsforbindelsen og A/S Øresundsforbindelsen.</Char>
+          </Linea>
+          <Linea>
+            <Char>Afskrivningsgrundlaget opgøres på grundlag af anskaffelsessummen opgjort efter § 13, stk. 3 og 4, i lov nr. 588 af 24. juni 2005 om Sund og Bælt Holding A/S.</Char>
+          </Linea>
+          <Linea>
+            <Char>Det opgjorte afskrivningsgrundlag fordeles herefter på bygninger, jf. afskrivningslovens § 14, installationer, jf. afskrivningslovens § 15, driftsmidler, jf. afskrivningslovens § 5, og fast jernbanemateriel, jf. afskrivningslovens § 5 C, stk. 2.</Char>
+          </Linea>
+          <Linea>
+            <Char>Afskrivningsgrundlaget for henholdsvis driftsmidler og fast jernbanebanemateriel reduceres med foretagne afskrivninger til og med indkomståret 2015 efter § 14 i lov nr. 588 af 24. juni 2005 om Sund og Bælt Holding A/S, i det omfang afskrivningerne kan henføres til de nævnte aktiver.</Char>
+          </Linea>
+          <Linea>
+            <Char>De således opgjorte og fordelte afskrivningsgrundlag danner grundlag for afskrivning efter afskrivningsloven fra og med indkomståret 2016.</Char>
+          </Linea>
+          <Linea>
+            <Char>Summen af de anvendte afskrivningsprocenter for bygninger og installationer efter § 14 i lov nr. 588 af 24. juni 2005 om Sund og Bælt Holding A/S og efter afskrivningslovens § 17 kan ikke overstige 100 pct.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="iddf5f467a-1c3f-44ca-8207-3b20146c8ec5">
+    <UnderskriftStedDato id="iddf5f467a-1c3f-44ca-8207-3b20146c8ec5" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="iddf5f467a-1c3f-44ca-8207-3b20146c8ec5" />
+  </UnderskriftGruppe>
+</Dokument>

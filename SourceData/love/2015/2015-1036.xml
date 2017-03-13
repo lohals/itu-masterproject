@@ -1,0 +1,2347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idd8320fc3-bb0f-4dfc-9d09-9b2b692f0f30" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idcb356331-c4ac-4569-bb2b-57522281aad4">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20150103629</AccessionNumber>
+    <DocumentId>CK000075</DocumentId>
+    <UniqueDocumentId>173951</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om aktindsigt i miljøoplysninger</DocumentTitle>
+    <Year>2015</Year>
+    <DiesSigni>2015-08-18</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-01-31</EndDate>
+    <Status>Historic</Status>
+    <Number>1036</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LOV nr 1715 af 27/12/2016 </KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 102 af 26/01/2017</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 1036 af 18/08/2015</DokumentKortNavn>
+    <PopularTitle>Miljøoplysningsloven</PopularTitle>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2017-01-30</DateOfHistoricMark>
+    <EuReferences>32003L0004</EuReferences>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20160171530</Ref_Accn>
+    <Ref_Af REFid="change_1">2016-12-27</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om Miljø- og Fødevareklagenævnet</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Michel Schilling</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Peter Østergård Have</Signature>
+    <PlaceOfSignature>Miljøstyrelsen</PlaceOfSignature>
+    <JournalNumber>Miljø- og Fødevaremin.,\nMiljøstyrelsen, j.nr. MST-103-00015</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+    <AdministrativeAuthority>Miljøstyrelsen</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id4cb5d1fc-fe5f-4156-bf60-8d857d3c0cee">
+    <Titel id="id1ecf6438-8a34-4230-a4ef-1ca5a9c4e162">
+      <Linea>
+        <Char>Bekendtgørelse af lov om aktindsigt i miljøoplysninger</Char>
+      </Linea>
+      <Nota id="id60855b7c-af0f-41ef-8937-fb664c03377e" formaNo="EU">
+        <Explicatus>1)</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv 2003/4/EF af 28. januar 2003 om offentlig adgang til miljøoplysninger og om ophævelse af Rådets direktiv 90/313/EØF, (EF-Tidende 2003 nr. L 41, side 26).</Char>
+          </Linea>
+        </Exitus>
+      </Nota>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id83b5fb8e-a370-429c-82c9-6f83a28ab933">
+    <Indledning id="id996ae052-16b4-494b-afcf-027f5d9fd4b7">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om aktindsigt i miljøoplysninger, jf. lovbekendtgørelse nr. 660 af 14. juni 2006, med de ændringer, der følger af § 8 i lov nr. 571 af 9. juni 2006, § 17 i lov nr. 484 af 11. maj 2010, § 25 i lov nr. 580 af 18. juni 2012, § 14 i lov nr. 639 af 12. juni 2013 og § 23 i lov nr. 86 af 28. januar 2014.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="id2c0e943d-5e2f-416f-91eb-50f1ec335dc4">
+      <Afsnit id="id76a48b87-59e7-48f6-ad66-ce411f3e41e9" localId="1">
+        <Kapitel id="id45cbd4ae-5b80-490a-b773-e3c4ee651491" localId="1">
+          <ParagrafGruppe>
+            <Paragraf id="idf61cc47d-5d51-419a-8da1-91e05432f836" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="idf76dfbc3-39fe-44ad-9ab2-bc121204d5f2">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder for alle myndigheder m.v., der er omfattet af § 1 i lov om offentlighed i forvaltningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1312073a-b143-4abe-91eb-258de3dc1b1f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder endvidere for organer, herunder fysiske og juridiske personer, der har offentligt ansvar for eller udøver offentlige funktioner eller tjenesteydelser i relation til miljøet, og som er underlagt offentlig kontrol.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id47968262-cee8-4f0e-93b5-bd1108e31e52">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lovens § 5 a gælder for domstolene.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9902d667-822a-477c-80c8-2f5e556ee1bf" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="idd3177b37-5189-415d-9fd4-135428b36f2f">
+                <Exitus>
+                  <Linea>
+                    <Char>Enhver har under de betingelser og med de undtagelser, der følger af lov om offentlighed i forvaltningen og forvaltningsloven, ret til at blive gjort bekendt med miljøoplysninger, jf. dog stk. 2-6 og § 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id619a685d-8e28-4962-8627-d32339dad8f2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ret til aktindsigt efter denne lov begrænses ikke af særlige bestemmelser om aktindsigt i anden lovgivning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dette gælder dog ikke bestemmelser fastsat til gennemførelse af Fællesskabsretlige forpligtelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idba441a81-56c9-4fc5-ae90-69ea4532a0bc">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I sager om aktindsigt i miljøoplysninger, der er omfattet af bestemmelserne i §§ 2, 7 og 10, § 12, stk. 1, og § 13, stk. 1, i lov om offentlighed i forvaltningen eller i § 12, stk. 1, § 14, stk. 1, og § 15, stk. 1, i forvaltningsloven, skal vedkommende myndighed foretage en konkret afvejning af offentlighedens interesser, der varetages ved udlevering af miljøoplysningerne, over for de interesser, der varetages ved at afslå udlevering.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestemmelserne i §§ 2, 7 og 10, § 12, stk. 1, og § 13, stk. 1, i lov om offentlighed i forvaltningen eller i § 12, stk. 1, § 14, stk. 1, og § 15, stk. 1, i forvaltningsloven skal anvendes restriktivt under hensyntagen til samfundets interesse i, at oplysningerne offentliggøres i det konkrete tilfælde.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestemmelserne i 1. og 2. pkt. gælder ikke for sager omfattet af § 2, stk. 1, 1. pkt., i lov om offentlighed i forvaltningen, som behandles af politiet og anklagemyndigheden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id662de752-5c24-4281-8ab5-217604543591">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>§ 10, stk. 1, nr. 5, i lov om offentlighed i forvaltningen gælder ikke for miljøoplysninger, jf. dog § 4 a.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf41d893b-cf3e-4179-92e6-426317297b87">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelsen i § 10, nr. 1-4, § 12, stk. 1, og § 13, stk. 1, nr. 6, i lov om offentlighed i forvaltningen eller § 12, stk. 1, i forvaltningsloven finder ikke anvendelse på oplysninger om emissioner til miljøet, i det omfang afslag på aktindsigt vil stride imod bestemmelserne i artikel 4, stk. 2, i Europa-Parlamentets og Rådets direktiv 2003/4/EF af 28. januar 2003 om offentlig adgang til miljøoplysninger og om ophævelse af Rådets direktiv 90/313/EØF.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2d4fa428-4e9a-411d-97ee-50c62579ad20">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i § 13, stk. 1, nr. 4-6, i lov om offentlighed i forvaltningen eller § 15, stk. 1, nr. 4 og 5, i forvaltningsloven finder ikke anvendelse på miljøoplysninger, i det omfang afslag på aktindsigt vil stride imod bestemmelserne i artikel 4, stk. 2, i det i stk. 5 nævnte direktiv.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id4dfb6610-12ff-44d4-be4a-8a5f077292b8" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id841dba56-d5ee-48b2-9d85-0b2b6da21379">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved miljøoplysninger forstås alle oplysninger, som er i myndighedens besiddelse, eller som opbevares for den, som foreligger i skriftlig form, i billed- eller lydform, eller i elektronisk eller en hvilken som helst anden form, uanset hvornår oplysningerne er tilvejebragt, og som vedrører</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id8456177a-505f-44ab-96e3-7fd1aa2d9393">
+                  <Index>
+                    <Indentatio id="idcc38d9ce-467a-4dea-b58f-90a746258250" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilstanden i miljøelementer som f.eks. luft og atmosfære, vand, jord, landskaber og naturområder, herunder vådområder, kyst- og havområder, biologisk mangfoldighed og dennes enkelte bestanddele, herunder genetisk modificerede organismer, og vekselvirkningen mellem disse elementer,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id123da82a-96de-4e36-9b5d-3d04c23181ca" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>faktorer som f.eks. stoffer, energi, støj, stråling eller affald, herunder radioaktivt affald, emissioner, udledninger og andre udslip i miljøet, der påvirker eller kan påvirke de miljøelementer, som er nævnt i nr. 1,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1a081fb1-41c2-4df0-96ce-08859ae721b3" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>foranstaltninger, herunder administrative foranstaltninger såsom politikker, lovgivning, planer, programmer, miljøaftaler og aktiviteter, der påvirker eller kan påvirke de enkelte miljøelementer, som er nævnt i nr. 1 og 2, og faktorer samt foranstaltninger og aktiviteter, der har til formål at beskytte disse miljøelementer,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ideebb2b81-2ac1-432d-998c-0f6ef90a8e5a" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>rapporter om gennemførelse af miljølovgivningen,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id314fc7bf-6044-4da9-8ec0-651f25926768" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>rentabilitetsberegninger og andre økonomiske analyser og forudsætninger, som er anvendt i forbindelse med de foranstaltninger og aktiviteter, som er nævnt i nr. 3, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idbb768244-ba09-4868-aeb8-3a986b30c0bf" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>menneskers sundheds- og sikkerhedstilstand, herunder, hvor det er relevant, forurening af fødekæden, menneskers levevilkår, kulturminder og bygningsværker, i det omfang de påvirkes af de enkelte miljøelementers tilstand, som er nævnt i nr. 1, eller via disse elementer af de i nr. 2 og 3 nævnte forhold.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id31ddf295-8b34-45ce-9dfe-20e3673ec777" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="idf4e4d9fd-5fc8-4656-b458-e6724f7c8d08">
+                <Exitus>
+                  <Linea>
+                    <Char>En anmodning om aktindsigt i miljøoplysninger behandles efter reglerne i § 16, stk. 1 og 2, i lov om offentlighed i forvaltningen og for anmodninger, der fremsættes af sagens parter, efter reglerne i § 16, stk. 2, i forvaltningsloven jf. dog stk. 2 og 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id402bf4d9-ded4-4ae1-b3f9-85242ddbc767">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Myndigheder og organer som nævnt i § 1, stk. 1 og 2, skal stille miljøoplysningerne til rådighed i den form eller det format, som den, der har fremsat anmodningen, ønsker, medmindre</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id4e5725fd-2edc-42bc-bbb0-e672fc669a8e">
+                  <Index>
+                    <Indentatio id="id6b69dd59-6498-4e08-8161-361b00b3f3db" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>oplysningerne allerede er offentligt tilgængelige i en anden form, som er let tilgængelig for den pågældende, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id9e8793cb-a37f-4b93-8f66-31aa2d93a958" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>der er rimelige grunde til at stille oplysningerne til rådighed i en anden form eller et andet format.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="idef5f03a8-d77f-4630-bbdc-d6ae3bd49173">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sager om aktindsigt skal under hensyntagen til en eventuel tidsfrist, som anføres af den, der har fremsat anmodningen, afgøres hurtigst muligt og senest 1 måned efter modtagelsen af anmodningen eller, hvis sagens omfang og komplekse karakter er af en sådan art, at fristen på 1 måned ikke kan overholdes, senest 2 måneder efter modtagelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sager efter stk. 2, hvor der gives afslag på at stille oplysningerne til rådighed i den form, som den, der fremsatte anmodningen, ønsker, skal dog afgøres senest 1 måned efter modtagelsen af anmodningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd4581dfe-9b61-4ffa-9807-5662d74b0635">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afslag i sager om aktindsigt skal begrundes og være ledsaget af en klagevejledning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Afslag, der begrundes med, at materialet er under udarbejdelse, skal oplyse navnet på den myndighed, der udarbejder materialet, samt hvornår materialet forventes at foreligge i endelig form.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Afslag meddeles skriftligt, hvis anmodningen er fremsat skriftligt, eller hvis den, der fremsatte anmodningen, ønsker det.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3e6a7991-72a6-4623-91ee-a4bcc944a483">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er en begæring om oplysninger ikke fremsat overfor rette myndighed eller organ, skal den, der fremsatte anmodningen, hurtigst muligt orienteres om, hvem der er rette myndighed eller anmodningen skal videresendes til myndigheden, og den, der fremsatte anmodningen, orienteres herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idde17b84d-f16f-453d-a3ea-d2bd34060585">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser om aktindsigt i miljøoplysninger kan påklages særskilt til den myndighed, der er klageinstans i forhold til afgørelsen eller behandlingen i øvrigt i den sag, begæringen om aktindsigt vedrører.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id445df7ae-3b55-4764-930a-e163f9e1a860" localId="5">
+              <Explicatus>§ 4 a.</Explicatus>
+              <Stk id="ida1998756-af7c-42f3-9e80-da9f8d5dfc80">
+                <Exitus>
+                  <Linea>
+                    <Char>Afslag på anmodning om aktindsigt, der er meddelt af et organ omfattet af § 1, stk. 2, og af forsyningsvirksomheder m.v. omfattet af § 1, stk. 1, kan påklages til Natur- og Miljøklagenævnet som sammensat efter § 5, stk. 1, nr. 1, i lov om Natur- og Miljøklagenævnet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida8cf5c6d-f56d-44c7-97c5-296be63a7775" localId="6">
+              <Explicatus>§ 4 b.</Explicatus>
+              <Stk id="id485cb0b7-154b-40fe-9071-a9b1e8842d7d">
+                <Exitus>
+                  <Linea>
+                    <Char>Klage indgives skriftligt til det organ eller den forsyningsvirksomhed, der har truffet afgørelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Organet eller forsyningsvirksomheden skal, hvis den vil fastholde afgørelsen, snarest og som udgangspunkt ikke senere end 3 uger efter modtagelsen af klagen videresende klagen til klageinstansen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Klagen skal ved videresendelsen være ledsaget af den påklagede afgørelse, de dokumenter, der er indgået i sagens bedømmelse, og en udtalelse fra organet eller forsyningsvirksomheden med organets eller forsyningsvirksomhedens bemærkninger til sagen og de anførte klagepunkter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idcd387910-9ce4-4dea-ae02-553650b15876">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klage til Natur- og Miljøklagenævnet indgives skriftligt til den myndighed, der har truffet afgørelsen, ved anvendelse af digital selvbetjening, jf. dog § 18 b, stk. 2-4, i lov om Natur- og Miljøklagenævnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Endvidere skal efterfølgende kommunikation om klagesagen ske ved anvendelse af digital selvbetjening.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>En klage anses for indgivet, når den er tilgængelig for myndigheden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9f001122-a059-4c56-9b43-ebb786aa7ce7">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Myndigheden skal, hvis den vil fastholde afgørelsen, snarest og som udgangspunkt ikke senere end 3 uger efter modtagelsen af klagen videresende klagen til klageinstansen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Klagen skal ved videresendelsen være ledsaget af den påklagede afgørelse, de dokumenter, der er indgået i sagens bedømmelse, og en udtalelse fra myndigheden med myndighedens bemærkninger til sagen og de anførte klagepunkter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6e0cd514-057d-48b9-8d1a-2cfab0684774">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Myndighedens videresendelse af klage til og efterfølgende kommunikation om klagesagen med Natur- og Miljøklagenævnet skal ske ved anvendelse af digital selvbetjening.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samme gælder sager, hvor klage ikke er indgivet ved anvendelse af digital selvbetjening, men hvor Natur- og Miljøklagenævnet har truffet afgørelse om, at klagen ikke afvises.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idaa34cf81-a654-41d8-ad39-8946cfc10c94">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Indgives en klage ikke ved anvendelse af digital selvbetjening, skal myndigheden snarest videresende klagen til Natur- og Miljøklagenævnet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I sådanne tilfælde finder stk. 3 ikke anvendelse</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf5f15212-159e-4622-af0f-5a2b8232f43f" localId="7">
+              <Explicatus>§ 4 c.</Explicatus>
+              <Stk id="id70ce9988-4a1e-49ff-b035-233fb8388bf1">
+                <Exitus>
+                  <Linea>
+                    <Char>Myndigheder og organer som nævnt i § 1, stk. 1 og 2, skal, når de anmoder om miljøoplysninger til brug for udarbejdelse af offentlig statistik eller videnskabelige undersøgelser, og når den, som anmodningen stiles til, ikke er forpligtet eller kan forpligtes til at give oplysningerne, gøre denne bekendt hermed og med adgangen til at tilkendegive, at oplysningerne ikke bør offentliggøres.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf598a090-9146-4c81-a0a0-69269df3b203" localId="8">
+              <Explicatus>§ 4 d.</Explicatus>
+              <Stk id="idb977696f-dfbe-4235-babf-b52dd4aefc57">
+                <Exitus>
+                  <Linea>
+                    <Char>Myndigheder og organer som nævnt i § 1, stk. 1 og 2, skal så vidt muligt sikre, at alle oplysninger, der indsamles af eller for dem, er ajourførte, nøjagtige og sammenlignelige.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id15e18e7f-af27-4399-82a3-67be894f4d1f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Myndigheder og organer som nævnt i § 1, stk. 1 og 2, skal i sager om aktindsigt i miljøoplysninger, der er omfattet af § 3, nr. 2, efter anmodning oplyse, hvis oplysningerne er til rådighed, hvor disse kan findes, om målingsmetoder, herunder fremgangsmåder for analyser, prøveudtagninger og forbehandling af prøver, der er anvendt ved tilvejebringelse af oplysningerne, eller henvise til en anvendt standardprocedure.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idc3ed32de-bb4f-4558-9ff0-2a8f649b2d4a" localId="9">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="idb1c0c8bc-d3ab-4fed-88aa-fe043113b785">
+                <Exitus>
+                  <Linea>
+                    <Char>Betaling for afskrifter eller kopier af miljøoplysninger i skriftlige dokumenter opkræves efter de af justitsministeren fastsatte regler i henhold til lov om offentlighed i forvaltningen, for så vidt angår sagens parter dog efter de regler, der er fastsat i medfør af forvaltningsloven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id36bb2e6a-a6e7-49ba-b4ec-2abfa5458a46">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vedkommende minister kan fastsætte regler om betaling for aktindsigt i miljøoplysninger, der er til rådighed i andet end skriftlig form.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ideb792b55-24e3-4f61-997f-ff9ba2135d71">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan ikke kræves betaling for adgang til registre eller oversigter over offentlige myndigheder eller miljøoplysninger, som myndigheder eller informationskontorer er i besiddelse af.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id85d15360-8926-4957-801d-31a4d52122a9" localId="10">
+              <Explicatus>§ 5 a.</Explicatus>
+              <Stk id="id5ce3f3f1-cd44-45e7-98cc-c98b1c3fc02a">
+                <Exitus>
+                  <Linea>
+                    <Char>Enhver kan hos retten forlange udskrift af domme, kendelser og andre retsafgørelser i civile retssager om</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idcf115704-3f9e-4226-9357-8b30ccfa9618">
+                  <Index>
+                    <Indentatio id="id8f3fbba4-27dd-4c78-a795-065f2fdc7456" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>aktindsigt i miljøoplysninger i medfør af denne lov,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id2a94b7f5-b4dd-453b-971f-3adeea2b1587" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>offentlig deltagelse i afgørelser vedrørende konkrete aktiviteter med indvirkning på miljøet eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7d72a702-ed8c-45b4-a133-4252b14d0031" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>foreneligheden med miljølovgivningen af privates eller offentlige myndigheders handlinger eller undladelser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id6cf726f7-de63-4a4e-9fb5-b558fbf471af">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Retsplejelovens § 41 b, stk. 2 og 3, og § 41 e finder i øvrigt tilsvarende anvendelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Retsplejelovens § 41 b, stk. 3, nr. 3, og § 41 e, stk. 4, finder dog ikke anvendelse på oplysninger om emissioner, der er relevante for beskyttelsen af miljøet, i det omfang afslag på aktindsigt vil stride imod bestemmelserne herom i konvention om adgang til oplysninger, offentlig deltagelse i beslutningsprocesser samt adgang til klage og domstolsprøvelse på miljøområdet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idba2085de-efdb-437d-b645-4b0e82523693" localId="11">
+              <Explicatus>§ 5 b.</Explicatus>
+              <Stk id="idabb4a8ca-26ce-45ba-a239-c12ae5f6fb50">
+                <Exitus>
+                  <Linea>
+                    <Char>Myndigheder og organer som nævnt i § 1, stk. 1 og 2, skal ordne de miljøoplysninger, som er relevante for deres funktioner, og som de er i besiddelse af, eller som opbevares for dem, på en sådan måde, at de aktivt og systematisk kan formidles, herunder navnlig elektronisk, til offentligheden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb02adb58-473f-4df4-83ad-2a33d8c1f1a1">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte nærmere regler om formidling af miljøoplysninger, herunder hvilke miljøoplysninger der skal formidles, om opdatering og om elektronisk formidling af miljøoplysninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id5d65fea0-2a03-4f73-a1ac-369ae2fcc8b1" localId="12">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id043e3e9d-9635-46e6-900d-c5bd8d77cc9c">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. juli 1994.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3fa6e4c2-cc48-475c-bb44-ce683183c23e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Henvisninger i denne lov til bestemmelser i lov om offentlighed i forvaltningen skal forstås som henvisninger til de pågældende bestemmelser i lov nr. 572 af 19. december 1985 om offentlighed i forvaltningen med senere ændringer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Henvisninger i denne lov til bestemmelser i forvaltningsloven skal forstås som henvisninger til de pågældende bestemmelser i lovbekendtgørelse nr. 988 af 9. oktober 2012.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Henvisninger i denne lov til bestemmelser i retsplejeloven skal forstås som henvisninger til de pågældende bestemmelser i lovbekendtgørelse nr. 1008 af 24. oktober 2012 som ændret ved § 1 i lov nr. 1242 af 18. december 2012 og § 1 i lov nr. 1387 af 23. december 2012.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id98623ec5-0e5b-41ef-9c6c-bcb46dcb120d" localId="13">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="id512a7389-8583-44ee-8a46-b71441ad2324">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft id="id93d4b04f-2e09-4989-9d77-9171d966aeb3">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 447 af 31. maj 2000 (Implementering af Århuskonventionen m.v.), hvis § 1 angår § 1, stk. 2 og 3, § 2, stk. 1 og 3-5, §§ 3, 4, 4 a og 5 a, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id4391bdd0-05da-4cb3-9539-27793c1c770f">
+        <Explicatus>§ 14</Explicatus>
+        <Stk id="iddce4b4bb-d41d-4a6e-90c8-09daa42a9543">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 15. september 2000, jf. dog stk. 2-4.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idd76c07e4-e1f5-4404-9c34-9feff05ec71c">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovens regler om adgang til at påklage afgørelser gælder for sager, der er afgjort i første instans efter lovens ikrafttræden.</Char>
+            </Linea>
+            <Linea>
+              <Char>Reglerne om klage over afslag på anmodning om aktindsigt efter § 4, stk. 5, i lov om aktindsigt i miljøoplysninger som ændret ved lovens § 1, nr. 10, gælder ligeledes for afslag, der meddeles efter lovens ikrafttræden.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id6d3e65f5-e95d-4930-8b2a-bdb0fafd4b94">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 2, stk. 3, i lov om adgang til aktindsigt i miljøoplysninger som affattet ved denne lovs § 1, nr. 4, har ikke virkning i forhold til materiale, der er indhentet før lovens ikrafttræden, såfremt den, der har indleveret materialet, ikke var eller kunne gøres forpligtet til at levere materialet og den pågældende ikke har meddelt, at han eller hun accepterer udleveringen.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idd2236fe6-7f96-4d99-abf9-cb112a5fa9ca">
+          <Explicatus>Stk. 4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 2, stk. 4, i lov om adgang til aktindsigt i miljøoplysninger som affattet ved denne lovs § 1, nr. 4, har ikke virkning for oplysninger om emissioner, som er kommet i myndighedernes besiddelse før lovens ikrafttræden.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="idc76b93f1-ce39-464c-82cd-5ec390c27de8">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 215 af 31. marts 2004 (Offentlighed i retsplejen), hvis § 7 angår § 5 a, stk. 2, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id0bfcc5ac-fb36-4602-9f86-3076a1e31d8e">
+        <Explicatus>§ 8</Explicatus>
+        <Stk id="id779c0b45-0fec-4cb3-9891-c1141a84d71e">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. juli 2004.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id6f43f0c9-9b5e-44f9-b388-e620b8ff5010">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Retsplejelovens § 41 b som affattet ved denne lovs § 1, nr. 15, og retsplejelovens § 1017 d som affattet ved denne lovs § 1, nr. 42, finder anvendelse på domme og kendelser, der er afsagt efter lovens ikrafttræden.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id97ba23d9-6db1-4c88-ac34-06648883e37a">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Retsplejelovens § 41 f, stk. 6, 1. og 3. pkt., som affattet ved denne lovs § 1, nr. 15, finder også anvendelse på dokumenter og udskrifter, der før lovens ikrafttræden er udleveret i medfør af den hidtil gældende bestemmelse i retsplejelovens § 41 a.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="ideb855ec8-d35a-4911-9b4a-f7870299a8c5">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 310 af 2. maj 2005 (Gennemførelse af direktiv om Århuskonventionen), der angår lovens titelnote, § 2, stk. 1, 3, 5 og 6, § 3, § 4, stk. 1-4, § 4 a, § 4 b, § 5, stk. 3, § 5 b og bilag 1, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id7e301169-d57a-498a-980a-35260b60ed98">
+        <Explicatus>§ 2</Explicatus>
+        <Stk id="id3c5dd071-b5ca-4dd3-9cd7-01b5307356c7">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+            </Linea>
+            <Nota id="idfe2dcc5d-90ef-44b1-97a0-61cd6ddf5d9e">
+              <Explicatus>2)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lov nr. 310 af 2. maj 2005 blev offentliggjort den 2. maj 2005.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id8807f613-4278-4464-871d-c27e68e3ec73">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 571 af 9. juni 2006 (Ændring af klagenævn og klagebestemmelser i en række love på miljøområdet), hvis § 8 angår § 4, stk. 6, og §§ 4 a-4 c, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="ida40ecbde-9167-4216-a03c-3835c263f7d6">
+        <Explicatus>§ 12</Explicatus>
+        <Stk id="idf3e0febb-8e60-4eb7-8445-f75551c13d46">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id7026b587-fb2f-4d08-ac08-474cec83b0b5">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id4386012f-1edd-410e-b62d-77e74b622ea6">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Sager, der pr. 1. januar 2007 er indbragt for Miljøklagenævnet, færdigbehandles efter de hidtil gældende regler.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="idb27b1603-1444-492c-97fc-d37f22c7cb3f">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 484 af 11. maj 2010 (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.) som ændret ved § 2 i lov nr. 1608 af 22. december 2010,</Char>
+        </Linea>
+        <Nota id="id9b1543db-e662-4130-bc0e-079f172d03b6">
+          <Explicatus>3)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lov nr. 1608 af 22. december 2010, der i § 2 indeholder en ændring af ikrafttrædelsesbestemmelsen i lov nr. 484 af 11. maj 2010, trådte i kraft den 1. januar 2011, jf. lovens § 3, stk. 1.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>hvis § 17 angår § 4 a, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id9660c55d-f836-4a87-866d-12860949ac5c">
+        <Explicatus>§ 28</Explicatus>
+        <Stk id="id8e1d52f7-881b-4f5a-b206-5bd17dcd1adf">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id37f94d2f-ad1b-4610-a032-ccab3d852009">
+          <Explicatus>Stk. 2-4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id7b25b60d-6f1c-4136-9dd0-6ea2f821cb29">
+          <Explicatus>Stk. 5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Verserende sager i Naturklagenævnet, der ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles efter lov om Natur- og Miljøklagenævnet med den i § 5, stk. 1, nr. 2, i lov om Natur- og Miljøklagenævnet nævnte sammensætning.</Char>
+            </Linea>
+            <Linea>
+              <Char>I sager, hvor Naturklagenævnet har afholdt besigtigelse i en sag om fredning efter naturbeskyttelseslovens kapitel 6, sammensættes Natur- og Miljøklagenævnet med deltagelse af de nævnsmedlemmer, der deltog i besigtigelsen.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id9db565b6-d203-4ff0-b557-17f435cb2454">
+          <Explicatus>Stk. 6.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idf09949d1-eea8-4ec4-8033-ed102ba88d7a">
+          <Explicatus>Stk. 7.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Miljøministeren kan i øvrigt fastsætte overgangsregler.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id7df99418-a011-4104-8c5c-b038215b73d9">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 580 af 18. juni 2012 (Reform af klagesystemet på natur- og miljøområdet m.v.), hvis § 25 angår §§ 4 a-4 d, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id4f86fd13-70f1-46e9-9bab-43acdf5cddb0">
+        <Explicatus>§ 28</Explicatus>
+        <Stk id="id44eef18f-8b51-4ee3-8368-4912081d7a6c">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. august 2012, jf. dog stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id1540f614-8b43-4e00-82a1-db68193277f6">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="idf4a352fd-63c0-4b0f-b031-509e3eb6d6eb">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven finder anvendelse på afgørelser truffet i 1. instans efter lovens ikrafttræden.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id4bfb528c-e607-4970-a7be-5bf8efe0ba35">
+          <Explicatus>Stk. 4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Verserende klagesager over afgørelser påklaget af ministeren efter § 84, stk. 1, nr. 2, i lov om miljøgodkendelse m.v. af husdyrbrug færdigbehandles af Natur- og Miljøklagenævnet.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="id52efd682-8b4b-43ae-ad8a-92eedd35e960">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 639 af 12. juni 2013 (Konsekvensændringer i lyset af lov om offentlighed i forvaltningen og af ændringer i forvaltningsloven og retsplejeloven), hvis § 14 angår § 6, stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id2bf2f00c-a739-4a0d-86bd-f70d8d7e320c">
+        <Explicatus>§ 31</Explicatus>
+        <Stk id="id13bb06fb-569c-4d61-a0c8-53f9a33bd310">
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2014.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft id="ide1a5f3cb-268c-49af-bc98-9a8904f162f1">
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 86 (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.) af 28. januar 2014, hvis § 23 angår § 4 b, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf id="id5ebf109f-3c38-466c-96de-aad79fd3ebd6">
+        <Explicatus>§ 26</Explicatus>
+        <Stk id="id465d85d4-6c2c-484c-9767-143e77bd9fe3">
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. februar 2014, jf. dog stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk id="id00489a91-0fed-4034-9f92-cd6fea87a7f0">
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr. 2 og 3, og §§ 8-25.</Char>
+            </Linea>
+            <Nota id="id93f6ca3c-3f2b-4a59-b783-ef4202a481f2">
+              <Explicatus>4)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Ved bekendtgørelse nr. 57 af 23. januar 2015 blev bl.a. lovens § 23 sat i kraft den 28. januar 2015.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+          </Exitus>
+        </Stk>
+        <Stk id="ideda6bc7f-b9b9-4ae2-bdb1-223cb1a8197c">
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft.</Char>
+            </Linea>
+            <Linea>
+              <Char>For sådanne klager finder de hidtidige regler anvendelse.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idb83ed45d-8e10-458e-b5a9-bd92a4639909">
+    <UnderskriftStedDato id="idb83ed45d-8e10-458e-b5a9-bd92a4639909" />
+    <Underskriver id="idb83ed45d-8e10-458e-b5a9-bd92a4639909" />
+  </UnderskriftGruppe>
+  <Bilag id="id84fcbc5f-d3dc-45ba-92e8-eedde52618b7" localId="1">
+    <Explicatus>Bilag 1</Explicatus>
+    <Rubrica id="id25a8941f-bf4f-469a-983c-c5d3eb8e3df7">
+      <Linea>
+        <Char>EUROPA-PARLAMENTETS OG RÅDETS DIREKTIV 2003/4/EF</Char>
+      </Linea>
+    </Rubrica>
+    <BilagIndhold id="id84216aa6-efdc-426b-b30a-d119b39f6934">
+      <TekstGruppe id="id665a5c5e-64d2-49f7-ab4b-78155b938e10">
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>af 28. januar 2003</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>om offentlig adgang til miljøoplysninger og om ophævelse af Rådets direktiv 90/313/EØF</Char>
+            <Char formaChar="Superscript">1)</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>EUROPA-PARLAMENTET OG RÅDET FOR DEN EUROPÆISKE UNION HAR —</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>under henvisning til traktaten om oprettelse af Det Europæiske Fællesskab, særlig artikel 175, stk. 1,</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>under henvisning til forslag fra Kommissionen,</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>under henvisning til udtalelse fra Det Europæiske Økonomiske og Sociale Udvalg,</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>under henvisning til udtalelse fra Regionsudvalget,</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>efter proceduren i traktatens artikel 251, på grundlag af Forligsudvalgets fælles udkast af 8. november 2002, og</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>ud fra følgende betragtninger:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(1) Øget offentlig adgang til miljøoplysninger og formidling af sådanne oplysninger medvirker til at skabe større miljøbevidsthed, fri udveksling af synspunkter, mere effektiv inddragelse af offentligheden i beslutningsprocessen på miljøområdet og i sidste ende til et bedre miljø.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(2) Med Rådets direktiv 90/313/EØF af 7. juni 1990 om fri adgang til miljøoplysninger indledtes en udvikling hen imod en ændring af de offentlige myndigheders holdning til åbenhed og gennemsigtighed ved at fastsætte foranstaltninger til udøvelse af retten til offentlig adgang til miljøoplysninger, og denne udvikling bør fremmes og videreføres.</Char>
+          </Linea>
+          <Linea>
+            <Char>Dette direktiv udvider de adgangsmuligheder, der gælder i henhold til direktiv 90/313/EØF.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(3) Ifølge samme direktivs artikel 8 skal medlemsstaterne aflægge rapport til Kommissionen om deres erfaringer, og på baggrund heraf skal Kommissionen udarbejde en rapport til Europa-Parlamentet og Rådet ledsaget af eventuelle forslag om revision af direktivet, som den måtte finde hensigtsmæssige.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(4) Denne rapport, som er udarbejdet i henhold til artikel 8 i ovennævnte direktiv, påviser konkrete problemer i forbindelse med direktivets praktiske anvendelse.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(5) Den 25. juni 1998 undertegnede Det Europæiske Fællesskab FN/ ECE-konventionen om adgang til oplysninger, offentlig deltagelse i beslutningsprocesser samt adgang til klage og domstolsprøvelse på miljøområdet (» Århuskonventionen«).</Char>
+          </Linea>
+          <Linea>
+            <Char>Bestemmelserne i Fællesskabets lovgivning skal være i overensstemmelse med denne konvention med henblik på Det Europæiske Fællesskabs indgåelse af den.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(6) For at skabe større gennemsigtighed er det mere hensigtsmæssigt at erstatte direktiv 90/313/EØF med et andet direktiv end at ændre det, da de berørte parter således får én klar og sammenhængende lovtekst.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(7) Uoverensstemmelser mellem medlemsstaternes gældende lovgivning om adgang til miljøoplysninger, som er i de offentlige myndigheders besiddelse, kan skabe ulige vilkår for adgangen til sådanne oplysninger og for konkurrencen i Fællesskabet.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(8) Det må sikres, at fysiske og juridiske personer, uden at skulle gøre rede for deres motiver, har ret til at få adgang til miljøoplysninger, som er i de offentlige myndigheders besiddelse eller opbevares for dem.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(9) Det er også nødvendigt, at de offentlige myndigheder i videst muligt omfang stiller miljøoplysninger til rådighed for og formidler dem til offentligheden, navnlig ved hjælp af informations- og kommunikationsteknologi.</Char>
+          </Linea>
+          <Linea>
+            <Char>Der bør tages hensyn til den fremtidige udvikling i sådan teknologi ved rapporteringen om og revisionen af dette direktiv.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(10) Definitionen af miljøoplysninger bør præciseres, så den kommer til at omfatte oplysninger af enhver art om miljøets tilstand, om forhold, foranstaltninger eller aktiviteter, som påvirker eller kan påvirke miljøet eller planlægges for at beskytte det, om rentabilitetsberegninger og økonomiske analyser, der benyttes i forbindelse med sådanne foranstaltninger og aktiviteter samt information om menneskers sundheds- og sikkerhedstilstand, herunder forurening af fødekæden, om levevilkår samt kulturminder og bygningsværker i den udstrækning, de påvirkes eller kan påvirkes af disse forhold.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(11) Af hensyn til det i traktatens artikel 6 fastslåede princip om, at miljøbeskyttelseskrav skal integreres i udformningen og gennemførelsen af Fællesskabets politik og aktioner, bør definitionen af offentlig myndighed udvides til at omfatte især statslig eller anden offentlig forvaltning på nationalt, regionalt eller lokalt plan, uanset om den har særligt ansvar for miljøanliggender.</Char>
+          </Linea>
+          <Linea>
+            <Char>Definitionen bør ligeledes udvides til at omfatte andre personer eller organer, der udøver offentlige administrative funktioner i relation til miljøet i henhold til national ret, samt andre personer eller organer, der handler under deres kontrol, og som har et offentligt ansvar eller udøver offentlige funktioner i relation til miljøet.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(12) Miljøoplysninger, som fysisk opbevares for de offentlige myndigheder af andre organer, er også omfattet af dette direktiv.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(13) Miljøoplysninger bør stilles til rådighed for den informationssøgende så hurtigt som muligt og inden for en rimelig frist, og således at der tages hensyn til en eventuel tidshorisont, som er anført af den informationssøgende.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(14) De offentlige myndigheder bør udlevere miljøoplysningerne i den form eller det format, som den informationssøgende ønsker, medmindre de allerede er offentligt tilgængelige i en anden form eller et andet format, eller det er rimeligt at stille dem til rådighed i en anden form eller et andet format.</Char>
+          </Linea>
+          <Linea>
+            <Char>Derudover bør det pålægges de offentlige myndigheder at gøre sig alle rimelige bestræbelser for at bevare miljøoplysningerne, som er i myndighedernes besiddelse eller opbevares for dem, i en form eller et format, som er let gengivelig og tilgængelig via elektroniske midler.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(15) Medlemsstaterne bør fastsætte de konkrete ordninger, hvorefter sådanne oplysninger kan gøres tilgængelige i praksis.</Char>
+          </Linea>
+          <Linea>
+            <Char>Ordningerne skal sikre, at der er faktisk og let adgang til oplysningerne, at de gradvis gøres tilgængelige for offentligheden via offentlige telekommunikationsnet, og at de omfatter offentligt tilgængelige oversigter over offentlige myndigheder og registre eller oversigter over miljøoplysninger, som er i myndighedernes besiddelse eller opbevares for dem.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(16) Retten til information indebærer, at oplysninger som udgangspunkt skal udleveres, og at de offentlige myndigheder bør kunne afslå en anmodning om miljøoplysninger i ganske bestemte, klart afgrænsede tilfælde.</Char>
+          </Linea>
+          <Linea>
+            <Char>Grundene til at give afslag bør fortolkes restriktivt, idet de offentlige interesser, der varetages ved udlevering, bør afvejes over for de interesser, der varetages ved at afslå udlevering.</Char>
+          </Linea>
+          <Linea>
+            <Char>Begrundelsen for et afslag bør gives den informationssøgende inden for den i dette direktiv fastsatte frist.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(17) De offentlige myndigheder bør stille miljøoplysninger til rådighed i uddrag i de tilfælde, hvor oplysninger, der omfattes af undtagelserne, kan adskilles fra den øvrige del af de ønskede oplysninger.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(18) De offentlige myndigheder bør kunne kræve et gebyr for at udlevere miljøoplysninger, men et sådant gebyrs størrelse bør være rimelig.</Char>
+          </Linea>
+          <Linea>
+            <Char>Dette indebærer, at gebyret som hovedregel ikke må overstige de faktiske omkostninger ved tilvejebringelse af det pågældende materiale.</Char>
+          </Linea>
+          <Linea>
+            <Char>Krav om forudbetaling bør begrænses.</Char>
+          </Linea>
+          <Linea>
+            <Char>I konkrete tilfælde, hvor offentlige myndigheder udleverer miljøoplysninger på et kommercielt grundlag, og hvor det er nødvendigt for at kunne sikre den fortsatte indsamling og udgivelse af sådanne oplysninger, betragtes et markedsbaseret gebyr som rimeligt;</Char>
+          </Linea>
+          <Linea>
+            <Char>der kan kræves forudbetaling.</Char>
+          </Linea>
+          <Linea>
+            <Char>En liste over gebyrer bør offentliggøres og stilles til de informationssøgendes rådighed med oplysninger om, hvornår gebyrer kan opkræves eller frafaldes.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(19) De informationssøgende bør kunne anmode om en administrativ eller retslig efterprøvelse af de offentlige myndigheders afgørelser eller undladelser i forbindelse med en anmodning.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(20) De offentlige myndigheder bør, når miljøoplysninger indsamles af dem eller på deres vegne, bestræbe sig på at sikre, at oplysningerne er forståelige, nøjagtige og sammenlignelige.</Char>
+          </Linea>
+          <Linea>
+            <Char>Information om den fremgangsmåde, der er anvendt ved indsamlingen af oplysningerne, bør udleveres efter anmodning, da denne er en vigtig faktor ved vurdering af kvaliteten af de udleverede oplysninger.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(21) For at skabe større offentlig miljøbevidsthed og således forbedre miljøbeskyttelsen bør de offentlige myndigheder, hvor det er passende, stille miljøoplysninger, som er af betydning for deres funktioner, til rådighed og formidle disse, navnlig ved hjælp af computertelekommunikation og/eller elektronisk teknologi, når en sådan er til rådighed.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(22) Dette direktiv bør evalueres hvert fjerde år, efter at det er trådt i kraft, på grundlag af erfaringerne, og efter at medlemsstaterne har forelagt deres rapporter, og tages op til revision på dette grundlag.</Char>
+          </Linea>
+          <Linea>
+            <Char>Kommissionen bør forelægge evalueringsrapporten for Europa-Parlamentet og Rådet.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(23) Målene for dette direktiv kan ikke i tilstrækkelig grad opfyldes af medlemsstaterne og kan derfor på grund af handlingens omfang bedre gennemføres på fællesskabsplan.</Char>
+          </Linea>
+          <Linea>
+            <Char>Fællesskabet kan derfor træffe foranstaltninger i overensstemmelse med subsidiaritetsprincippet, jf. traktatens artikel 5.</Char>
+          </Linea>
+          <Linea>
+            <Char>I overensstemmelse med proportionalitetsprincippet, jf. nævnte artikel, går dette direktiv ikke ud over, hvad der er nødvendigt for at nå disse mål.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>(24) Bestemmelserne i dette direktiv berører ikke en medlemsstats ret til at opretholde eller indføre foranstaltninger, der giver bredere adgang til oplysninger, end direktivet kræver —</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>UDSTEDT FØLGENDE DIREKTIV:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Artikel 1</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Formål</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Formålet med dette direktiv er:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>a) at sikre retten til adgang til miljøoplysninger, som er i de offentlige myndigheders besiddelse, eller opbevares for dem, samt opstille de grundlæggende vilkår og betingelser samt konkrete ordninger for udøvelsen af denne ret, og</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>b) at sikre, at miljøoplysninger som en selvfølge gradvis stilles til rådighed for og formidles til offentligheden med henblik på at sikre den videst mulige grad af systematisk tilrådighedsstillelse og formidling af miljøoplysninger til offentligheden.</Char>
+          </Linea>
+          <Linea>
+            <Char>Med henblik herpå skal navnlig anvendelsen af telekommunikation og/eller elektronisk teknologi, når en sådan er til rådighed, fremmes</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Artikel 2</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Definitioner</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>I dette direktiv forstås ved:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>1) »miljøoplysninger«: alle oplysninger i skriftlig form, i billed- eller lydform eller i elektronisk eller en hvilken som helst anden fysisk form om:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab2">
+          <Linea>
+            <Char>a) tilstanden i miljøelementer som f.eks. luft og atmosfære, vand, jord, landskaber og naturområder, herunder vådområder, kyst- og havområder, biologisk mangfoldighed og dennes enkelte bestanddele, herunder genetisk modificerede organismer, og vekselvirkningen mellem disse elementer</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab2">
+          <Linea>
+            <Char>b) faktorer som f.eks. stoffer, energi, støj, stråling eller affald, herunder radioaktivt affald, emissioner, udledninger og andre udslip i miljøet, der påvirker eller kan påvirke de i litra a) nævnte miljøelementer</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab2">
+          <Linea>
+            <Char>c) foranstaltninger (herunder administrative foranstaltninger), lovgivning, planer, programmer, miljøaftaler og aktiviteter, der påvirker eller kan påvirke de enkelte i litra a) og b) nævnte elementer og faktorer samt foranstaltninger og aktiviteter, der har til formål at beskytte disse miljøelementer</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab2">
+          <Linea>
+            <Char>d) rapporter om gennemførelse af miljølovgivningen</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab2">
+          <Linea>
+            <Char>e) rentabilitetsberegninger og andre økonomiske analyser og forudsætninger, som er anvendt i forbindelse med de i litra c) nævnte foranstaltninger og aktiviteter, og</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab2">
+          <Linea>
+            <Char>f) menneskers sundheds- og sikkerhedstilstand, herunder, hvor det er relevant, forurening af fødekæden, menneskers levevilkår, kulturminder og bygningsværker, i det omfang de påvirkes af eller kan påvirkes af de enkelte i litra a) nævnte miljøelementers tilstand, eller via disse elementer af de i litra b) og c) nævnte forhold.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>2) »Offentlige myndigheder«:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab2">
+          <Linea>
+            <Char>a) statslig eller anden offentlig forvaltning, herunder offentlige rådgivende organer, på nationalt, regionalt eller lokalt plan</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab2">
+          <Linea>
+            <Char>b) enhver fysisk eller juridisk person, der udøver offentlige administrative funktioner i henhold til national ret, herunder konkrete opgaver, aktiviteter og tjenesteydelser i forbindelse med miljøet, og</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab2">
+          <Linea>
+            <Char>c) enhver fysisk eller juridisk person, der har offentligt ansvar for eller udøver offentlige funktioner eller tjenesteydelser i relation til miljøet, og som er underlagt kontrol af et organ eller en person, der falder ind under litra a) eller b).</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Medlemsstaterne kan bestemme, at denne definition ikke omfatter organer eller institutioner, når de udøver dømmende eller lovgivende myndighed.</Char>
+          </Linea>
+          <Linea>
+            <Char>Medlemsstaterne kan, hvis deres forfatningsmæssige bestemmelser på datoen for direktivets udstedelse ikke indeholder en adgang til klage og domstolsprøvelse som omhandlet i artikel 6, udelukke disse organer og institutioner fra denne definition.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>3) »Oplysninger i en offentlig myndigheds besiddelse«: miljøoplysninger myndigheden er i besiddelse af, som er tilvejebragt eller modtaget af den pågældende myndighed.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>4) »Oplysninger, der opbevares for en offentlig myndighed«: miljøoplysninger, som fysisk opbevares af en fysisk eller juridisk person på en offentlig myndigheds vegne.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>5) »Den informationssøgende«: enhver fysisk eller juridisk person, der anmoder om miljøoplysninger.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>6) »Offentligheden«: en eller flere fysiske eller juridiske personer og, i henhold til national lovgivning eller praksis, disses foreninger, organisationer eller grupper.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Artikel 3</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Adgang til miljøoplysninger efter anmodning</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>1.</Char>
+          </Linea>
+          <Linea>
+            <Char>Medlemsstaterne sikrer, at offentlige myndigheder er forpligtet til i overensstemmelse med dette direktivs bestemmelser at stille miljøoplysninger, som de er i besiddelse af eller som opbevares for dem, til rådighed for enhver informationssøgende, uden at denne skal gøre rede for en interesse heri.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>2.</Char>
+          </Linea>
+          <Linea>
+            <Char>Med forbehold af artikel 4 og under hensyn til en eventuel tidsfrist, som anføres af den informationssøgende, stilles miljøoplysningerne til rådighed for den informationssøgende:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>a) hurtigst muligt og senest en måned efter de i stk. 1 nævnte offentlige myndigheders modtagelse af den informationssøgendes anmodning, eller</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>b) senest to måneder efter de offentlige myndigheders modtagelse af anmodningen, hvis oplysningernes omfang og komplekse karakter er af en sådan art, at den i litra a) omhandlede fristpå en måned ikke kan overholdes.</Char>
+          </Linea>
+          <Linea>
+            <Char>I sådanne tilfælde underrettes den informationssøgende hurtigst muligt og under alle omstændigheder inden udløbet af den fastsatte frist på en måned om forlængelsen og grundene hertil.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>3.</Char>
+          </Linea>
+          <Linea>
+            <Char>Hvis en anmodning er udfærdiget i for generelle vendinger, anmoder den offentlige myndighed snarest muligt og senest inden for den frist, der er fastsat i stk. 2, litra a), den informationssøgende om at præcisere anmodningen og bistår denne hermed, f.eks. ved at oplyse om brugen af de offentlige registre, der er omhandlet i stk. 5, litra c).</Char>
+          </Linea>
+          <Linea>
+            <Char>De offentlige myndigheder kan, hvis de skønner det passende, afslå anmodningen i henhold til artikel 4, stk. 1, litra c).</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>4.</Char>
+          </Linea>
+          <Linea>
+            <Char>Hvis den informationssøgende anmoder de offentlige myndigheder om at stille oplysningerne til rådighed i en bestemt form eller et bestemt format (herunder i form af kopier), skal de offentlige myndigheder gøre det, medmindre:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>a) oplysningerne allerede er offentligt tilgængelige i en anden form eller et andet format, som er let tilgængeligt for den informationssøgende, navnlig i henhold til artikel 7, eller</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>b) de offentlige myndigheder har rimelige grunde til at stille oplysningerne til rådighed i en anden form eller et andet format, men de skal i så fald begrunde dette.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>For så vidt angår dette stykke, skal de offentlige myndigheder træffe alle rimelige foranstaltninger for at vedligeholde miljøoplysninger, som de er i besiddelse af, eller som opbevares for dem, i en form eller et format, som er let at reproducere og let tilgængelig via computertelekommunikation eller andre elektroniske medier.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Begrundelsen for et afslag på at stille oplysninger til rådighed, helt eller delvis, i den ønskede form eller det ønskede format skal gives den informationssøgende inden for den i stk. 2, litra a), nævnte frist.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>5.</Char>
+          </Linea>
+          <Linea>
+            <Char>For så vidt angår denne artikel, sikrer medlemsstaterne, at:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>a) embedsmænd er forpligtet til at yde offentligheden bistand med søgning af oplysninger</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>b) der forefindes offentligt tilgængelige oversigter over offentlige myndigheder</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>c) der udformes konkrete ordninger med henblik på at sikre, at retten til adgang til miljøoplysninger kan udøves effektivt, såsom</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab2">
+          <Linea>
+            <Char>– udpegelse af informationsmedarbejdere</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab2">
+          <Linea>
+            <Char>– etablering og vedligeholdelse af faciliteter, hvor de ønskede oplysninger kan konsulteres</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab2">
+          <Linea>
+            <Char>– registre eller oversigter over miljøoplysninger, som offentlige myndigheder eller informationskontorer er i besiddelse af, med klar angivelse af, hvor disse oplysninger kan findes.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Medlemsstaterne sikrer, at de offentlige myndigheder informerer offentligheden fyldestgørende om dens rettigheder i henhold til dette direktiv og i passende omfang giver oplysninger, råd og vejledning med henblik herpå.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Artikel 4</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Undtagelser</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>1.</Char>
+          </Linea>
+          <Linea>
+            <Char>Medlemsstaterne kan fastsætte, at en anmodning om adgang til miljøoplysninger kan afslås, såfremt:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>a) den offentlige myndighed, som anmodningen rettes til, ikke er i besiddelse af de ønskede oplysninger, eller de ikke opbevares for den.</Char>
+          </Linea>
+          <Linea>
+            <Char>Hvis den offentlige myndighed i et sådant tilfælde er klar over, at en anden offentlig myndighed er i besiddelse af oplysningerne, eller at de opbevares for denne, videresender den hurtigst muligt anmodningen til denne anden myndighed og underretter den informationssøgende herom eller orienterer om, hvilken offentlig myndighed den pågældende efter deres mening kan rette henvendelse til for at få adgang til oplysningerne</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>b) anmodningen er åbenlyst urimelig</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>c) anmodningen er udfærdiget i for generelle vendinger, jf. artikel 3, stk. 3</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>d) anmodningen vedrører materiale under udarbejdelse eller ufærdige dokumenter og data</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>e) anmodningen vedrører interne meddelelser, under hensyntagen til offentlighedens interesse i at blive gjort bekendt med oplysningerne.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Hvis anmodningen afslås med den begrundelse, at den vedrører materiale under udarbejdelse, skal den offentlige myndighed oplyse navnet på den myndighed, der udarbejder materialet, samt hvor længe det må forventes at vare, før materialet er færdigt.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>2.</Char>
+          </Linea>
+          <Linea>
+            <Char>Medlemsstaterne kan fastsætte, at en anmodning om adgang til miljøoplysninger kan afslås, hvis offentliggørelse kunne have en ugunstig indvirkning på:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>a) den fortrolige karakter af offentlige myndigheders forhandlinger, hvor en sådan fortrolighed har hjemmel i lovgivningen</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>b) internationale forbindelser, den offentlige sikkerhed eller det nationale forsvar</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>c) retssagers behandling ved domstolene, en persons mulighed for at få en retfærdig rettergang eller offentlige myndigheders mulighed for efterforskning af strafferetlig eller disciplinær art</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>d) beskyttelsen af forretnings- og fabrikshemmeligheder, hvis de skal beskyttes i henhold til national ret eller fællesskabsret med henblik på at beskytte en legitim økonomisk interesse, herunder offentlighedens interesser i at bevare statistisk fortrolighed og fortrolighed i skatteforhold</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>e) intellektuelle ejendomsrettigheder</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>f) beskyttelsen af personoplysninger og/eller sagsakter vedrørende fysiske personer, hvis den pågældende person ikke har givet samtykke til offentliggørelse heraf, og hvis en sådan fortrolighed har hjemmel i national ret eller fællesskabsret</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>g) andre personers interesser eller beskyttelse, når disse personer har givet de ønskede oplysninger frivilligt uden at være eller kunne gøres juridisk forpligtet hertil, medmindre de har givet deres samtykke til offentliggørelse af oplysningerne</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tab1">
+          <Linea>
+            <Char>h) beskyttelsen af det miljø, oplysningerne vedrører, som f.eks. sjældne arters levesteder.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>De i stk. 1 og 2 nævnte grunde til afslag på anmodning om oplysninger skal fortolkes restriktivt under hensyntagen til samfundets interesse i, at oplysningerne offentliggøres i det konkrete tilfælde.</Char>
+          </Linea>
+          <Linea>
+            <Char>I hver enkelt tilfælde skal de offentlige interesser, der varetages ved udlevering, afvejes over for de interesser, der varetages ved at afslå udlevering.</Char>
+          </Linea>
+          <Linea>
+            <Char>Medlemsstaterne kan ikke i henhold til stk. 2, litra a), d), f), g) og h), fastsætte, at en anmodning kan afslås, hvis anmodningen gælder oplysninger om emissioner til miljøet.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Inden for disse rammer og for så vidt angår anvendelsen af litra f) sikrer medlemsstaterne, at kravene i Europa-Parlamentets og Rådets direktiv 95/46/EF af 24. oktober 1995 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger7) overholdes.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>3.</Char>
+          </Linea>
+          <Linea>
+            <Char>Fastsætter en medlemsstat undtagelser, kan den udarbejde en offentligt tilgængelig liste over de kriterier, den kompetente myndighed kan inddrage, når den tager stilling til en anmodning.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>4.</Char>
+          </Linea>
+          <Linea>
+            <Char>Miljøoplysninger, som de offentlige myndigheder er i besiddelse af, eller som opbevares for dem, og som en informationssøgende har anmodet om, skal stilles til rådighed i uddrag, hvis det er muligt at adskille oplysninger omfattet af stk. 1, litra d) og e), eller stk. 2, fra resten af de ønskede oplysninger.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>5.</Char>
+          </Linea>
+          <Linea>
+            <Char>Et afslag på at give adgang til alle de ønskede oplysninger eller nogle af dem meddeles den informationssøgende skriftligt eller elektronisk, hvis anmodningen var skriftlig, eller hvis den informationssøgende anmoder om det, inden for de i artikel 3, stk. 2, litra a), eller, eventuelt, litra b), nævnte frister.</Char>
+          </Linea>
+          <Linea>
+            <Char>Afslaget skal være begrundet og indeholde oplysninger om den i artikel 6 omhandlede klageadgang.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Artikel 5</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Gebyrer</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>1.</Char>
+          </Linea>
+          <Linea>
+            <Char>Adgang til offentlige registre og oversigter, der oprettes og vedligeholdes som beskrevet i artikel 3, stk. 5, samt konsultation af oplysningerne på stedet skal være gebyrfri.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>2.</Char>
+          </Linea>
+          <Linea>
+            <Char>De offentlige myndigheder kan opkræve et gebyr for at udlevere miljøoplysninger, men gebyrets størrelse må ikke overskride et rimeligt beløb.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>3.</Char>
+          </Linea>
+          <Linea>
+            <Char>Hvis der opkræves gebyrer, skal de offentlige myndigheder offentliggøre en liste over disse gebyrer med oplysninger om, hvornår gebyrer kan opkræves eller frafaldes, og stille den til de informationssøgendes rådighed.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Artikel 6</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Adgang til klage og domstolsprøvelse</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>1.</Char>
+          </Linea>
+          <Linea>
+            <Char>Medlemsstaterne sikrer, at informationssøgende, som mener, at deres anmodning om adgang til oplysninger ikke er blevet besvaret, er blevet uretmæssigt afslået (enten helt eller delvis), er blevet utilstrækkeligt besvaret eller på anden måde ikke er blevet behandlet i overensstemmelse med artikel 3, 4 eller 5, har adgang til at få sagen prøvet ved en procedure, hvor den pågældende offentlige myndigheds handlinger eller undladelser kan revurderes af samme eller en anden offentlig myndighed eller efterprøves administrativt af et ved lov oprettet uafhængigt og upartisk organ.</Char>
+          </Linea>
+          <Linea>
+            <Char>En sådan procedure skal være hurtig og enten billig eller helt gratis.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>2.</Char>
+          </Linea>
+          <Linea>
+            <Char>Ud over den i stk. 1 omhandlede adgang til klage sikrer medlemsstaterne, at den informationssøgende har adgang til prøvelse af en afgørelse ved en domstol eller et andet ved lov oprettet uafhængigt og upartisk organ, som kan efterprøve den pågældende offentlige myndigheds handlinger eller undladelser, og hvis afgørelser kan gøres endelige.</Char>
+          </Linea>
+          <Linea>
+            <Char>Medlemsstaterne kan endvidere sikre, at tredjeparter, som belastes i forbindelse med offentliggørelse af oplysninger, også har adgang til retsmidler.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>3.</Char>
+          </Linea>
+          <Linea>
+            <Char>Endelige afgørelser efter stk. 2 er bindende for den offentlige myndighed, der er i besiddelse af oplysningerne.</Char>
+          </Linea>
+          <Linea>
+            <Char>Der skal gives skriftlig begrundelse, i hvert fald i de tilfælde, hvor adgang til oplysninger er blevet afslået i henhold til denne artikel.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Artikel 7</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Formidling af miljøoplysninger</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>1.</Char>
+          </Linea>
+          <Linea>
+            <Char>Medlemsstaterne træffer de nødvendige foranstaltninger til sikring af, at offentlige myndigheder ordner de miljøoplysninger, som er relevante for deres funktioner, og som de er i besiddelse af, eller som opbevares for dem, på en sådan måde, at de aktivt og systematisk kan formidles til offentligheden, navnlig ved hjælp af computertelekommunikation og/eller elektronisk teknologi, når en sådan er til rådighed.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>De oplysninger, der stilles til rådighed ved hjælp af computertelekommunikation og/eller elektronisk teknologi, omfatter ikke nødvendigvis oplysninger, der er indsamlet før dette direktivs ikrafttræden, medmindre de allerede er til rådighed i elektronisk form.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Medlemsstaterne sikrer, at miljøoplysninger i stigende grad findes på elektroniske databaser, som er let tilgængelige for offentligheden gennem offentlige telekommunikationsnet.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>2.</Char>
+          </Linea>
+          <Linea>
+            <Char>De oplysninger, som skal stilles til rådighed og formidles, skal, hvor det er passende, ajourføres og omfatter mindst:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>a) teksterne til internationale traktater, konventioner eller aftaler og til Fællesskabets og national, regional eller lokal lovgivning om eller vedrørende miljøet</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>b) politikker, planer og programmer, der vedrører miljøet</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>c) statusrapporter om implementering af de i litra a) og b) omhandlede forhold, når de er udarbejdet og opbevares i elektronisk form af offentlige myndigheder</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>d) rapporter om miljøets tilstand som omhandlet i stk. 3</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>e) data eller oversigter over data fra overvågning af aktiviteter, der påvirker eller kan påvirke miljøet</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>f) tilladelser, som kan have væsentlig indvirkning på miljøet, og miljøaftaler eller en henvisning til det sted, hvor oplysningerne kan rekvireres eller findes i overensstemmelse med artikel 3</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>g) miljøkonsekvens- og risikovurderinger vedrørende de miljøelementer, der er omhandlet i artikel 2, nr. 1, litra a), eller en henvisning til det sted, hvor oplysningerne kan rekvireres eller findes i overensstemmelse med artikel 3.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>3.</Char>
+          </Linea>
+          <Linea>
+            <Char>Med forbehold for eventuelle særlige rapporteringsforpligtelser i henhold til Fællesskabets lovgivning, træffer medlemsstaterne alle nødvendige foranstaltninger til sikring af, at der med jævne mellemrum, der ikke overstiger fire år, udgives nationale og alt efter omstændighederne regionale eller lokale rapporter om miljøets tilstand;</Char>
+          </Linea>
+          <Linea>
+            <Char>disse rapporter skal indeholde oplysninger om miljøkvaliteten og belastninger af miljøet.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>4.</Char>
+          </Linea>
+          <Linea>
+            <Char>Med forbehold for eventuelle særlige forpligtelser i henhold til Fællesskabets lovgivning, træffer medlemsstaterne alle nødvendige foranstaltninger til sikring af, at der i tilfælde af en overhængende trussel mod menneskers sundhed eller mod miljøet, hvad enten den skyldes menneskelige aktiviteter eller naturlige årsager, straks og uden ophold udsendes alle oplysninger, som de offentlige myndigheder er i besiddelse af, og som kunne sætte den del af offentligheden, der risikerer at blive berørt af truslen, i stand til at træffe forholdsregler, der kan forhindre eller begrænse følgerne af truslen.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>5.</Char>
+          </Linea>
+          <Linea>
+            <Char>Undtagelserne i artikel 4, stk. 1 og 2, kan finde anvendelse på de forpligtelser, som pålægges i denne artikel.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>6.</Char>
+          </Linea>
+          <Linea>
+            <Char>Medlemsstaterne kan opfylde kravene i denne artikel ved at oprette link til internetsider, hvor oplysningerne kan findes.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Artikel 8</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Miljøoplysningernes kvalitet</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>1.</Char>
+          </Linea>
+          <Linea>
+            <Char>Medlemsstaterne skal så vidt muligt sikre, at alle oplysninger, der indsamles af eller for dem, er ajourførte, nøjagtige og sammenlignelige.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>2.</Char>
+          </Linea>
+          <Linea>
+            <Char>Offentlige myndigheder skal, hvis der anmodes om det, i svar på anmodninger om oplysninger i henhold til artikel 2, nr. 1, litra b), nævne det sted, hvis det er til rådighed, hvor oplysninger kan findes om målingsmetoder, herunder fremgangsmåderne for analyser, prøveudtagninger og forbehandling af prøver, der er anvendt ved tilvejebringelse af oplysningerne, eller henvise til en anvendt standardprocedure.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Artikel 9</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Revisionsprocedure</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>1.</Char>
+          </Linea>
+          <Linea>
+            <Char>Senest den 14. februar 2009 aflægger medlemsstaterne rapport om deres erfaringer med anvendelsen af dette direktiv.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>De sender rapporterne til Kommissionen senest den 14. august 2009.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Senest den 14. februar 2004 sender Kommissionen medlemsstaterne en vejledning med klare angivelser af, hvordan den ønsker, at medlemsstaterne skal udarbejde deres rapport.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>2.</Char>
+          </Linea>
+          <Linea>
+            <Char>På baggrund af disse erfaringer og under hensyntagen til udviklingen i computertelekommunikation og/eller elektronisk teknologi, aflægger Kommissionen rapport til Europa-Parlamentet og Rådet sammen med eventuelle forslag til ændringer, som den måtte finde hensigtsmæssige.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Artikel 10</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Iværksættelse</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Medlemsstaterne sætter de nødvendige love og administrative bestemmelser i kraft for at efterkomme dette direktiv senest den 14. februar 2005.</Char>
+          </Linea>
+          <Linea>
+            <Char>De underretter straks Kommissionen herom.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Disse love og bestemmelser skal ved vedtagelsen indeholde en henvisning til dette direktiv eller skal ved offentliggørelsen ledsages af en sådan henvisning.</Char>
+          </Linea>
+          <Linea>
+            <Char>De nærmere regler for henvisningen fastsættes af medlemsstaterne.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Artikel 11</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Ophævelse</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Direktiv 90/313/EØF ophæves med virkning fra den 14. februar 2005.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Henvisninger til det ophævede direktiv skal betragtes som henvisninger til dette direktiv og læses efter sammenligningstabellen i bilaget.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Artikel 12</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Ikrafttræden</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Dette direktiv træder i kraft på dagen for offentliggørelsen i Den Europæiske Unions Tidende.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Artikel 13</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Adressater</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>Dette direktiv er rettet til medlemsstaterne.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>Udfærdiget i Bruxelles, den 28. januar 2003.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>På Europa-Parlamentets vegne</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>P.</Char>
+          </Linea>
+          <Linea>
+            <Char>COX</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Formand</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>På Rådets vegne</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>G.</Char>
+          </Linea>
+          <Linea>
+            <Char>PAPANDREOU</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>Formand</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>BILAG</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Overskriftsnummer2">
+          <Linea>
+            <Char>SAMMENLIGNINGSTABEL</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Table width="529" cellpadding="0.2cm,0.1cm,0.2cm,0.05cm" style="column-width: 170pt 226pt;border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+            <Tr>
+              <Td valign="top" style="border-top: 1pt none #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt none #000000;" />
+              <Td valign="top" style="border-top: 1pt none #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt none #000000;" />
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst" formaEx="Center">
+                  <Linea>
+                    <Char>Direktiv 90/313/EØF</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 0pt none #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst" formaEx="Center">
+                  <Linea>
+                    <Char>Dette direktiv</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 1</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 1, litra a)</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 1, litra b)</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 2, litra a)</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 2, nr. 1</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 2, litra b)</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 2, nr. 2</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>–</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 2, nr. 3</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>–</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 2, nr. 4</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>–</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 2, nr. 5</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>–</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 2, nr. 6</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 3, stk. 1</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 3, stk. 1 + artikel 3, stk. 5</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 3, stk. 2</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 4, stk. 2 + artikel 4, stk. 4</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 3, stk. 3</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 4, stk. 1, litra b), c), d) og e)</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 3, stk. 4</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 3, stk. 2 + artikel 4, stk. 5</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>–</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 4, stk. 1, litra a)</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>–</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 3, stk. 3</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>–</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 3, stk. 4</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 4</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 6, stk. 1 + artikel 6, stk. 2</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>–</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 6, stk. 3</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 5</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 5, stk. 1</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>–</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 5, stk. 2</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>–</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 5, stk. 3</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 6</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 2, nr. 2, litra c) + artikel 3, stk. 1</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 7</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 7, stk. 1, 2 og 3</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>–</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 7, stk. 4</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>–</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 7, stk. 5</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>–</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 7, stk. 6</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>–</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 8</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 8</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 10</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 10</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 13</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>–</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 11</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>–</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Artikel 12</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+          </Table>
+        </Exitus>
+        <Exitus formaEx="Right" />
+        <Exitus />
+      </TekstGruppe>
+    </BilagIndhold>
+  </Bilag>
+</Dokument>

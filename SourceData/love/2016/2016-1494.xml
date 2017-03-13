@@ -1,0 +1,2534 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id129950d7-f3d8-4319-adf7-cf72a8cf3bde" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2016/09/26/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id847ffc8b-0013-498c-8ac3-e0aaadbd103e">
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20160149429</AccessionNumber>
+    <DocumentId>AN012675</DocumentId>
+    <UniqueDocumentId>183646</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om spil</DocumentTitle>
+    <Year>2016</Year>
+    <DiesSigni>2016-12-06</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-08</EndDate>
+    <Status>Valid</Status>
+    <Number>1494</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 1494 af 06/12/2016</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">P.M.V.\nJens Brøchner</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Jeanette Rose Hansen</Signature>
+    <PlaceOfSignature>Skatteministeriet</PlaceOfSignature>
+    <JournalNumber>Skattemin., j.nr. 16-1060123</JournalNumber>
+    <Ministry>Skatteministeriet</Ministry>
+    <AdministrativeAuthority>SKAT</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id60033da7-1223-4e66-a870-498d0319fb83">
+    <Titel id="idf722b6b6-2ade-4099-b6b2-c15d06574461">
+      <Linea>
+        <Char>Bekendtgørelse af lov om spil</Char>
+      </Linea>
+      <Nota id="id0093fe64-19d6-4c4c-989a-eee6afc80b89">
+        <Explicatus>1)</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven har som udkast været notificeret i overensstemmelse med Europa-Parlamentets og Rådets direktiv 98/34/EF (informationsproceduredirektivet) som ændret ved direktiv 98/48/EF.</Char>
+          </Linea>
+        </Exitus>
+      </Nota>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idaccddbe9-9989-443d-a52e-a02b2ec398e2">
+    <Indledning id="id662fda0d-b9c7-41c2-a10a-3bcb753d0124">
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om spil, jf. lovbekendtgørelse nr. 119 af 22. januar 2016, med de ændringer, der følger af § 1 i lov nr. 1573 af 15. december 2015, § 1 i lov nr. 1574 af 15. december 2015 og § 4 i lov nr. 650 af 8. juni 2016.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Den ændring, der følger af § 4, nr. 7, i lov nr. 650 af 8. juni 2016 om ændring af registreringsafgiftsloven, brændstofforbrugsafgiftsloven, lov om registrering af køretøjer og lov om spil (Ændring af reglerne om forholdsmæssig registreringsafgift for leasingkøretøjer, ændring af reglerne om udbetaling af eksportgodtgørelse, fastsættelse af brændstofforbruget for særlig store biler, nedsættelse af pristillægget for ønskenummerplader m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af ændringen fastsættes af skatteministeren, jf. § 6, stk. 2, i lov nr. 650 af 8. juni 2016.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="ide654e83c-cc83-4090-804a-355717429810">
+      <Afsnit id="id09938ad2-d493-47cf-936c-d8893da7c3d4" localId="1">
+        <Kapitel id="idddea18c5-c083-41fd-be5a-d46aeba1cfe6" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="idf1893ec4-9151-46dc-a413-d96b28db0a9a">
+            <Linea>
+              <Char>Lovens formål og anvendelsesområde</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id97ce4b14-2f69-4885-8d76-a2f01beb63d1" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="idd6abb4d6-0673-462b-983e-4730bde6ecf5">
+                <Exitus>
+                  <Linea>
+                    <Char>Lovens formål er</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id8baaa635-46e4-49de-86b4-9ddf20cb425c">
+                  <Index>
+                    <Indentatio id="id5c6577de-28ed-499a-b267-46e7dbf858bc" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>at holde forbruget af spil om penge på et moderat niveau,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id66e02d32-0ee8-44d9-8a76-11e66297da8c" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>at beskytte unge eller andre udsatte personer mod at blive udnyttet gennem spil eller udvikle afhængighed af spil,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idbc5348cd-ce35-4208-a687-c34156fa677d" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>at beskytte spillere ved at sikre, at spil udbydes på en rimelig, ansvarlig og gennemsigtig måde, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id5b112858-d4d6-4441-8a9f-3cef9a9a1042" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>at sikre offentlig orden og forhindre, at spil tjener som støtte til kriminalitet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id75703b0c-d408-402c-b1eb-ab71665a33a7" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="id63f9af30-8ab2-49c7-940e-3fad69895a5e">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven finder anvendelse på spil, der udbydes eller arrangeres, jf. dog stk. 3, her i landet, herunder fartøjer, der befinder sig på dansk territorium.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Loven finder endvidere anvendelse på danske fartøjer og udenlandske fartøjer, der opereres i henhold til dansk driftstilladelse, uanset om fartøjet befinder sig uden for dansk territorium.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7bf97854-64e8-40a4-a66a-3f02153a2953">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uanset stk. 1 finder loven ikke anvendelse på fartøjer, der ikke anløber dansk havn eller ikke flyver til dansk lufthavn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id16d6a078-fe71-45a3-b458-fb58fc505feb">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven omfatter ikke landbaseret turneringsbackgammon, gevinstopsparinger, præmieobligationer, væddemål om den fremtidige værdi af finansielle aktiver eller spil under private former for mindre beløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb930bfb8-55a5-40a7-979d-6d4d406a239f" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id84626734-6df4-4778-baa1-2fd234fd3f3c">
+                <Exitus>
+                  <Linea>
+                    <Char>Udbud eller arrangering af spil kræver tilladelse, medmindre andet følger af denne lov eller anden lovgivning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7af44336-8a7b-4896-98f9-57945391603a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udbud eller arrangering af spil, hvor der for deltagelse ikke betales en indsats, kræver ikke tilladelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Betaling i en gættekonkurrence i en radio- eller en tv-udsendelse, hvor afholdelse af gættekonkurrencen ikke udgør hovedindholdet, anses ikke for indsats, såfremt betalingen sker via en informations- og indholdstjeneste med integreret taksering eller en mobil betalingstjeneste og ikke overstiger en tillægstaksering på 5 kr. pr. telefonnummer pr. døgn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id5171715b-693f-4922-9ebe-758c750a3fee" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id2f5b5b67-db3d-4377-a56d-ef9d91ffc0de">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelse efter denne lov gives af spillemyndigheden, medmindre andet fremgår af lovens enkelte bestemmelser.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Skatteministeren, eller den ministeren bemyndiger hertil, er spillemyndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id35d84bae-88fd-418a-992b-e44faccf47d7" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="id93e59d95-f28d-4b64-8172-f83037a8fe73">
+            <Linea>
+              <Char>Definitioner</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idbe929dc4-145d-4275-9c8e-c6484c242676" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="idb6b3ec33-f40b-4d10-874a-e72d045dd5ac">
+                <Exitus>
+                  <Linea>
+                    <Char>I denne lov forstås ved:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idada619d2-2302-44ab-aae9-cb1dc588020a">
+                  <Index>
+                    <Indentatio id="id64f0734f-18ec-4e39-b117-5da1510b6c29" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Spil: Lotteri, kombinationsspil og væddemål.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id08d5d2c8-e509-4b85-922d-ba4156c02eb8" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Lotteri: Aktiviteter, hvor en deltager har en chance for at vinde en gevinst, og hvor gevinstchancen udelukkende beror på tilfældighed.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idbdde86ba-25e5-4ff9-864e-0f00fadd2578" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Kombinationsspil: Aktiviteter, hvor en deltager har en chance for at vinde en gevinst, og hvor gevinstchancen beror på en kombination af færdighed og tilfældighed.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idedb15c6f-40c3-4bf2-ae70-846e0f71b096" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Væddemål: Aktiviteter, hvor en deltager har en chance for at vinde en gevinst, og hvor der væddes om resultatet af en fremtidig begivenhed eller indtræffelse af en fremtidig hændelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id834f35d9-eb65-4020-904d-a6f0f87aeba6" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Klasselotteri: Lotteri, der er opdelt i flere klasser med særskilte trækninger i hver klasse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida97ddc99-9c9c-41fc-a811-ebe9a7738dcf" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Puljevæddemål: Væddemål, hvor hele eller dele af gevinsten afhænger af størrelsen af den samlede pulje af indsatser eller bliver delt mellem vinderne.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id19f41ee3-597a-48c5-915f-e1bb3399287b" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Gevinstgivende spilleautomater: Mekaniske eller elektroniske maskiner, der kan anvendes til spil, hvor spilleren kan vinde en gevinst.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id195da52f-33d9-4eeb-8a92-ec650c5e5e32" formaInd="Nummer">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Onlinespil: Spil, der indgås mellem en spiller og en spiludbyder ved brug af fjernkommunikation.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf34ce4ec-54cd-41c1-b28b-66f2739ee1aa" formaInd="Nummer">
+                      <Explicatus>9)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Landbaserede spil: Spil, der indgås, ved at en spiller og en spiludbyder eller spiludbyderens forhandler mødes fysisk.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id336e2434-a5bf-4671-ba7e-8abf9d8460f7" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="idff9e9de8-f6f7-4512-99d9-56be0b001338">
+            <Linea>
+              <Char>Tilladelse til de enkelte former for spil</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Rubrica id="idc166080f-cca3-4bf5-b34b-fc49a192e6cd">
+              <Linea>
+                <Char>Lotteri</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id4d153a02-d835-4a88-b57a-a69f41073d3b" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id5a23c375-8220-49b2-8740-ecc52774d14c">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelse til udbud af lotteri kan gives til Danske Spil A/S.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id29b9586d-4a43-4887-880e-5ebda4f700b7">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelsen kan helt eller delvis med skatteministerens godkendelse overdrages til et af Danske Spil A/S helejet datterselskab.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id80fa41cd-9fb3-40a0-b414-bfd8f171b415" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="iddf022e20-4f38-49cf-abe6-c25d50bffc96">
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan ikke efter § 6 gives tilladelse til at udbyde klasselotteri, landbaseret lotteri, hvor der spilles på resultatet af elektronisk simulerede sportsbegivenheder, gevinstgivende spilleautomater og landbaseret bingo og spil som nævnt i § 14, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="idbdfa98c7-5442-4ffc-a259-0ab19e35de30">
+              <Linea>
+                <Char>Klasselotteri</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id57d5661d-6f29-41f1-a025-42b6410c2ca7" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="id825379ee-160a-48cc-a3f8-411ab1f05d6a">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelse til udbud af klasselotteri kan gives til Det Danske Klasselotteri A/S og af justitsministeren til Landbrugslotteriet og Almindeligt Dansk Vare- og Industrilotteri.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id438293a7-c9b7-419a-acf7-a8c45acb9c65">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelsen til Det Danske Klasselotteri A/S kan med skatteministerens godkendelse overdrages til et af Det Danske Klasselotteri A/S helejet datterselskab.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id8ca12bf5-45c9-4894-bab0-1e8bb8f1134d">
+              <Linea>
+                <Char>Danske Spil A/S' og Det Danske Klasselotteri A/S' udbud af andre spil</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id432d0e32-e6c0-41d2-8f9d-eeae9f6e3d18" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="id89459fc3-0b23-452c-91c4-41e44f269462">
+                <Exitus>
+                  <Linea>
+                    <Char>Danske Spil A/S og Det Danske Klasselotteri A/S kan søge om tilladelse til at udbyde andre spil i medfør af denne lov i selvstændige selskaber med begrænset ansvar på kommercielle vilkår.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8b4a808d-272a-48c4-b59b-0717cf69b17f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Spillemyndigheden kan fastsætte nærmere regler for selskaberne, som er nævnt i stk. 1, om konkurrence- og regnskabsmæssige forhold.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id996f02e7-d3dd-4b77-b8dd-31b5ba908130">
+              <Linea>
+                <Char>Almennyttigt lotteri</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idb3126f20-cc62-4feb-b38c-769b91e49083" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="ida4425283-157c-4314-9a74-b95a5466ec5f">
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan gives tilladelse til lotteri, der alene afholdes til fordel for velgørenhed eller andre almennyttige formål.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Almennyttige lotterier må ikke afholdes til fordel for politiske formål.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbcca5aa0-f5fd-4cd0-8e0b-b5f068f67dd6">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skatteministeren kan fastsætte regler om, hvilke kriterier almennyttige lotterier skal opfylde, for at de kan gives tilladelse, eller hvilke kriterier almennyttige lotterier skal opfylde for at være tilladte uden forudgående ansøgning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Skatteministeren kan endvidere fastsætte regler om, hvorledes lotterierne skal afvikles.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0c10f641-3829-4e21-8caa-e24a10e6e970">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan ikke efter stk. 1 og 2 gives tilladelse til at udbyde klasselotteri.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id4785eab2-4d7b-437d-b0b3-40df9b51c718">
+              <Linea>
+                <Char>Væddemål</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idc0a7dc94-b223-45d4-afd0-8fe50678c5aa" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="id07d092a1-9d0d-4204-a3cd-6977dde8c321">
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan gives tilladelse til udbud af væddemål.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd9d07a4a-866a-4fdd-866d-158fdf9bb266">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelse kan gives for indtil 5 år ad gangen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ided5d326f-94c0-4e3b-8500-f0793ca888fa">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan ikke med en tilladelse efter stk. 1 udbydes væddemål på heste- og hundevæddeløb, kapflyvning med duer og resultatet af lotterier eller andre tilfældigt frembragte hændelser bortset fra landbaserede væddemål på resultatet af elektronisk simulerede sportsbegivenheder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf981ddfe-7ff4-47b5-8d35-d342f20d7957">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Spillemyndigheden kan udveksle oplysninger om aftalt spil med andre danske og udenlandske myndigheder og enheder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0d8b2d3e-9852-4c59-b255-c09084aafbf0">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skatteministeren kan fastsætte regler om forebyggende foranstaltninger mod aftalt spil samt underretningspligt for tilladelsesindehavere til spillemyndigheden, herunder regler om, at underretningen skal være affattet på dansk eller engelsk, og at underretningen skal ske i elektronisk form (digital kommunikation).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id0ffcb050-3bd2-427c-b5b3-86b6970cc79d">
+              <Linea>
+                <Char>Heste- og hundevæddemål</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id59ff51e8-9706-4f3c-9713-38f8e1b7683e" localId="12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="id5815555f-f345-4a1e-8bdb-eba61739e9e3">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelse til udbud af væddemål på heste- og hundevæddeløb kan gives til Danske Spil A/S.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der kan ikke gives tilladelse til væddemål med faste odds på heste- og hundevæddeløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idcb79f71b-a9c4-4e7d-b2a6-0af9b3105fa8">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelsen kan helt eller delvis med skatteministerens godkendelse overdrages til et af Danske Spil A/S helejet datterselskab.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="ide68a5c4d-a7d3-45ff-9b73-75b867ee9df7">
+              <Linea>
+                <Char>Lokale puljevæddemål</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id7832c334-e9e0-49c9-9f1c-faac4a2f955a" localId="13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id459c5c58-8928-419b-a36f-1039a9cacd68">
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan gives tilladelse til afholdelse af lokale puljevæddemål på cykelløb på bane, hundevæddeløb på væddeløbsbane, kapflyvning med duer og hestevæddeløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id895d16e0-3a2a-49c3-9324-070ae592dc62">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelse kan gives for indtil 3 år og for et bestemt antal dage for de enkelte år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7ea90ba2-bb65-47c4-95a5-20ebb0baf1b1">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når begivenheden, der indgås væddemål på, finder sted på en afgrænset bane, må indsatsen i væddemålet kun ske inden for banens område og i direkte tilknytning til begivenheden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Når begivenheden, der indgås væddemål på, ikke foregår på en afgrænset bane, må indsatsen kun ske på et af politiet godkendt sted og kun på selve dagen for begivenheden og med politiets tilladelse den forudgående dag.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id1f4f32f7-07bd-4ca3-8589-e567df354dfd">
+              <Linea>
+                <Char>Landbaserede kasinoer</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id97d7e4d5-3532-4f77-a908-4f0c37a99c2a" localId="14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="id8c3e618c-b501-43dc-8a82-b16c29c08169">
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan gives tilladelse til oprettelse og drift af landbaserede kasinoer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Landbaserede kasinoer kan udbyde roulette, baccarat, punto banco, black jack, poker og spil på gevinstgivende spilleautomater.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5d7fd603-edae-4e8c-888a-9a7df303fc25">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelse kan gives for indtil 10 år ad gangen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide0f11b22-b610-4a1b-bf81-0ec3921be731">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan gives tilladelse til andre former for spil, ligesom den enkelte tilladelse kan begrænses til en eller flere spilleformer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id1a71d5ca-91b5-4ccf-9d8d-e9d23582c8d5" localId="15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="idfeec470e-1047-4ab2-9cd1-cda197a38d6f">
+                <Exitus>
+                  <Linea>
+                    <Char>Landbaserede kasinoer skal være offentligt tilgængelige, dog må kun personer over 18 år få adgang til kasinoerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="iddfc40c65-12ef-4c96-a445-bd198d90c0f4" localId="16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="id3da11c7c-6c26-4007-a424-fb2bc0833eeb">
+                <Exitus>
+                  <Linea>
+                    <Char>Gevinstgivende spilleautomater opstillet i landbaserede kasinoer skal udbetale penge eller værdibeviser, der kan kræves omvekslet til penge.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ide0ef25fa-7832-4e06-88d8-7218b63f7436" localId="17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="id7832a14d-bc8f-49f8-a11f-48e0def3bd07">
+                <Exitus>
+                  <Linea>
+                    <Char>Skatteministeren kan fastsætte nærmere regler for landbaserede kasinoers benyttelse af spillemærker, adgangskrav, entré og åbningstid, sikkerhedsmæssige forhold, personalet, årsregnskab og revision samt tilsyn med kasinoets spil.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id68b5a85a-abcc-4c55-a40d-aa35898c1d4c">
+              <Linea>
+                <Char>Onlinekasinoer</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id011052d4-feb0-4f0d-9a6a-7ce449caa44d" localId="18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="id0a2a6cc0-84b2-431b-bcf7-16cf02c0474e">
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan gives tilladelse til drift af onlinekasinoer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Onlinekasinoer kan udbyde roulette, baccarat, punto banco, black jack, poker og spil på gevinstgivende spilleautomater i et onlinekasino.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7c394c0f-6406-44b9-bc1a-9c11b44dd598">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelse kan gives for indtil 5 år ad gangen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd65f0ac1-9554-4e59-a3f6-1f1f830f7eb5">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan gives tilladelse til andre former for spil, ligesom den enkelte tilladelse kan begrænses til en eller flere spilleformer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id3d5386f6-c177-4c94-b50a-6694e087d6e2">
+              <Linea>
+                <Char>Gevinstgivende spilleautomater i spillehaller og restaurationer</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="idcb6033b4-a6fc-43fa-9f1c-2c6f61a3fe31" localId="19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="idc2a08f87-5570-477e-911d-bdfbc7e5f4e7">
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan gives tilladelse til opstilling og drift af gevinstgivende spilleautomater i spillehaller og i restaurationer med alkoholbevilling.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5f1558e4-6753-4f67-86db-243c5b1cd9d0">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I restaurationer kan der maksimalt gives tilladelse til opstilling af tre gevinstgivende spilleautomater.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id6532a3fa-7f30-4d21-a9f8-3d6eb2772705" localId="20">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="id97d0ebe1-16ac-4e93-a93a-e6d65fac974a">
+                <Exitus>
+                  <Linea>
+                    <Char>I en spillehal må der ikke udbydes andre spil eller finde anden erhvervsvirksomhed sted end spil på gevinstgivende spilleautomater.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Salg af slik, snacks og drikkevarer, bortset fra stærke drikke, kan dog finde sted, i det omfang en sådan virksomhed ikke omfattes af lov om restaurationsvirksomhed og alkoholbevilling m.v. I en spillehal må opstilling af ikkegevinstgivende spilleautomater ikke finde sted.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idde12c64f-e91b-4951-af52-2baa51798337" localId="21">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="id02016542-b0f0-4efa-a135-64a2cdb7893e">
+                <Exitus>
+                  <Linea>
+                    <Char>Gevinstgivende spilleautomater opstillet i spillehaller eller i restaurationer skal udbetale penge eller værdibeviser, der kan kræves omvekslet til penge.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ide2cd341e-9da9-4a91-b535-5ab333ab0062" localId="22">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="idd635e770-0e70-4a47-a334-e8de61dd6221">
+                <Exitus>
+                  <Linea>
+                    <Char>Personer under 18 år må ikke få adgang til spillehaller og må ikke spille på gevinstgivende spilleautomater i restaurationer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id361c5999-80a6-4bce-b86f-8ceed6b1cf3f" localId="23">
+              <Explicatus>§ 23.</Explicatus>
+              <Stk id="id33281831-8ee8-4066-b179-3742f4a2a92e">
+                <Exitus>
+                  <Linea>
+                    <Char>Spillehaller kan holde åbent dagligt mellem kl.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>07.00 og 24.00.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfb643f06-3c4b-4b49-8a42-0290ce51e273">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Spillehaller skal være bemandet i hele åbningstiden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb68c9b1f-be5f-4fa7-9355-456626370515">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bemandingen skal forestås af tilladelsesindehaveren, bestyreren eller en af tilladelsesindehaveren eller bestyreren ansat person, der er til stede i spillehallen eller i et tilstødende lokale, hvorfra der er direkte adgang til spillehallen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe>
+            <Rubrica id="id67f959f5-388f-49a8-ab9c-95b611c226f8">
+              <Linea>
+                <Char>Pyramidespil</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="id83e89f50-1fd8-4127-abb6-9d541a83ed48" localId="24">
+              <Explicatus>§ 24.</Explicatus>
+              <Stk id="id23c091e0-8168-4b38-8373-eddcff0cfba3">
+                <Exitus>
+                  <Linea>
+                    <Char>Pyramidespil er forbudt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved pyramidespil forstås et pyramidisk opbygget arrangement, hvor</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id7e447d98-0e40-4b31-b2c1-9fd59035ed56">
+                  <Index>
+                    <Indentatio id="id0f13920b-2563-48ed-acbf-6cb10242c83a" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>deltagelse kræver indsats af penge eller andre økonomiske værdier,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id5f167d1e-4dd9-44cc-aff9-5521721418a9" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>deltagerne stilles mulighed for økonomisk vinding i udsigt og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id4137a177-1aee-4e82-9b6c-f6f4cb01650f" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>en sådan vinding hovedsagelig hidrører fra indsats fra deltagere, der efterhånden indtræder i arrangementet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id63dcf097-a484-4d40-8ef8-38c7a8c4c801" localId="4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="ida4a59cef-6f83-423d-b602-a2bf24f75941">
+            <Linea>
+              <Char>Kriterier for udbud af spil</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id86c6515b-08f6-477d-ba71-9cc7bed03bae" localId="25">
+              <Explicatus>§ 25.</Explicatus>
+              <Stk id="idbe30b73c-02f7-4721-a446-37ebe5641567">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelse til udbud og arrangering af spil kan gives til personer og selskaber m.v. (juridiske personer), medmindre andet fremgår af denne lov, jf. dog stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfb4b9b7c-7ec7-47e2-82cf-8a44380c5fa4">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelse til udbud og arrangering af lokale puljevæddemål på cykelløb på bane, hundevæddeløb på væddeløbsbane og kapflyvning med duer, jf. § 13, kan kun gives til selskaber m.v. (juridiske personer), der er arrangør af cykelløb på bane, hundevæddeløb på væddeløbsbaner eller kapflyvning med duer, og som er tilsluttet den pågældende sportsgrens centralorganisation eller -forbund.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilladelse til lokale puljevæddemål på hestevæddeløb, jf. § 13, kan kun udstedes til foreninger, som i en årrække har haft en sådan tilladelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id21b5c5e5-5834-4a80-be33-e8d0f44af632" localId="26">
+              <Explicatus>§ 26.</Explicatus>
+              <Stk id="idba2efa0b-cc63-4e81-b7db-96815be3c21c">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelse til udbud og arrangering af spil kan kun gives til personer, der</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idf6c9a7ed-0fdd-4851-859f-b35219b3e4dc">
+                  <Index>
+                    <Indentatio id="idad955bea-8e65-4828-bc34-2075cfd4a4f1" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>er fyldt 21 år,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf5688ceb-fc12-4576-aea9-03f15c9c4137" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ikke er under værgemål efter værgemålslovens § 5 eller under samværgemål efter værgemålslovens § 7,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida0cdc449-31a2-4877-a89c-aabb3d41fe8a" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ikke har indgivet begæring om rekonstruktion, konkurs eller gældssanering eller er under rekonstruktionsbehandling, konkursbehandling eller gældssanering,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id01a6f3b2-b165-4529-acea-66f9e85b2cbc" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ikke er dømt for et strafbart forhold, der begrunder nærliggende fare for misbrug af adgangen til at arbejde med spil, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id68d5a0df-ea98-4951-bd13-75bae92d0705" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ikke har forfalden gæld til det offentlige.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id885cb08d-da97-45c7-a932-899282d392e5">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelse til udbud og arrangering af spil kan kun gives til personer, der ikke har bopæl her i landet eller et andet EU- eller EØS-land, såfremt ansøger har udpeget en godkendt repræsentant, jf. § 30.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id8e98d3c9-2f38-4d7c-bef2-3ae76032ea00" localId="27">
+              <Explicatus>§ 27.</Explicatus>
+              <Stk id="id73bb3a33-fd04-47df-9e19-741ca4afbfd1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelse til udbud og arrangering af spil kan kun gives til selskaber m.v. (juridiske personer), der er etableret her i landet eller i et andet EU- eller EØS-land, jf. dog stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3091c99a-59fd-4cf6-880c-06bb2484e3d7">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelse til udbud og arrangering af spil kan gives til selskaber m.v. (juridiske personer), der ikke er etableret her i landet eller i et andet EU- eller EØS-land, såfremt ansøger har udpeget en godkendt repræsentant, jf. § 30.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id69b0cb67-0933-4542-9852-ef662f2672dd" localId="28">
+              <Explicatus>§ 28.</Explicatus>
+              <Stk id="id48f0b380-17be-49b8-9051-77562729a346">
+                <Exitus>
+                  <Linea>
+                    <Char>Det er en betingelse for at opnå tilladelse, at selskaber m.v. (juridiske personer) opfylder betingelserne i § 26, stk. 1, nr. 3-5, og at medlemmer af direktionen og bestyrelsen opfylder betingelserne i § 26, stk. 1, nr. 1-5.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Indtræder der et nyt medlem i bestyrelsen, eller ansættes et nyt medlem i direktionen, skal dette inden 14 dage anmeldes til spillemyndigheden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id39f09e81-a49c-4bd4-b845-0385513e3f7d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Spillemyndigheden kan træffe afgørelse om, at et medlem af bestyrelsen eller direktionen i selskaber m.v. (juridiske personer) skal udtræde af bestyrelsen eller direktionen, hvis medlemmet er dømt for et strafbart forhold, der begrunder nærliggende fare for misbrug af adgangen til at arbejde med spil, eller har forfalden gæld til det offentlige, der overstiger 100.000 kr.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7911d865-f76c-46bf-9dd4-da9e317478b9">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Medlemmer af bestyrelsen eller direktionen i selskaber m.v. (juridiske personer) skal udtræde af bestyrelsen eller direktionen, hvis medlemmet ikke længere opfylder en af betingelserne i § 26, stk. 1, nr. 2 og 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id3c8f6587-dc3e-44b8-91bb-43b20bfe907f" localId="29">
+              <Explicatus>§ 29.</Explicatus>
+              <Stk id="id5a12af71-c809-4857-9ab9-f0df57f74df1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelse til udbud og arrangering af spil kan kun gives til ansøgere, der må antages at kunne udøve virksomhed med spil på økonomisk og faglig forsvarlig vis.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id89a72756-d9c2-4ce9-81ea-087780ff08fd">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelse kan ikke gives, hvis ansøgeren, medlemmer af direktion eller bestyrelse eller andre, der kan øve en bestemmende indflydelse på virksomhedens drift, har udvist en sådan adfærd, at der er grund til at antage, at virksomheden ikke vil blive drevet på forsvarlig måde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id47acfcee-123e-4353-8bac-a928d38de0e7" localId="30">
+              <Explicatus>§ 30.</Explicatus>
+              <Stk id="id06c53db8-6549-41a4-8fd1-86329effd4c9">
+                <Exitus>
+                  <Linea>
+                    <Char>En udpeget repræsentant, jf. § 26, stk. 2, og § 27, stk. 2, skal godkendes af spillemyndigheden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Repræsentanten skal opfylde betingelserne i § 26, stk. 1, og have bopæl her i landet, hvis repræsentanten er en person, eller § 26, stk. 1, nr. 3-5, og være etableret her i landet, hvis repræsentanten er et selskab m.v. (juridisk person).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id420ef8ac-3e67-49c6-9c27-beca638a5dfa">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Repræsentanten skal være bemyndiget til at repræsentere tilladelsesindehaveren over for myndighederne samt under søgsmål og i forbindelse med eventuelle straffesager.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id3e3cdaa8-f580-4ae9-8ed8-2fbb9af724e5">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Godkendelse af en repræsentant kan tilbagekaldes, hvis repræsentanten er dømt for et strafbart forhold, der begrunder nærliggende fare for misbrug af adgangen til at arbejde med spil, har forfalden gæld til det offentlige, der overstiger 100.000 kr., eller ikke længere har bopæl eller er etableret her i landet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id38a7b9f9-c550-4cdc-aeac-8c7f682f7e5b">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Godkendelse af en repræsentant bortfalder, hvis repræsentanten ikke længere opfylder betingelserne i § 26, stk. 1, nr. 2 eller 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf2b94166-dcfa-485e-9322-ce40643f210d" localId="31">
+              <Explicatus>§ 31.</Explicatus>
+              <Stk id="id04025eef-d282-45e8-a030-dc0afd24f4e3">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved afgørelsen af, om en tilladelse skal gives til oprettelse og drift af landbaserede kasinoer eller til opstilling af gevinstgivende spilleautomater i spillehaller, kan der lægges vægt på ordensmæssige forhold, spillestedets størrelse og placering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ide8d3db21-2176-4e1e-a3e0-225978c34f16" localId="32">
+              <Explicatus>§ 32.</Explicatus>
+              <Stk id="idfe2e424e-1b1f-4961-aab5-6a104e5a968c">
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan fastsættes vilkår for tilladelser udstedt efter denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id66d93c4b-2e41-465e-ba12-502d25dcc280" localId="5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica id="id24f30a64-bdc6-4fe2-9bf5-cad108b3f5fd">
+            <Linea>
+              <Char>Oplysningspligt, salg og markedsføring</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id8b9d027a-256b-4dd8-8deb-ac84d2157261" localId="33">
+              <Explicatus>§ 33.</Explicatus>
+              <Stk id="id57a4b812-df28-437c-93ea-96fa546308a5">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelsesindehaveren skal gøre alle relevante oplysninger om spillet, herunder spilleregler, lettilgængelige for spilleren og myndighederne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd04d431e-c016-47e5-8de1-14cd090a6297" localId="34">
+              <Explicatus>§ 34.</Explicatus>
+              <Stk id="id705dfa20-cc27-4708-aef2-ae3551713ef1">
+                <Exitus>
+                  <Linea>
+                    <Char>Modtagelse af indsatser til spil fra personer under 18 år og anden formidling af sådanne personers deltagelse i spil er ikke tilladt, jf. dog stk. 2 og 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="iddce4248b-4ab5-417d-9e64-2fa4bc91e38c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelsen i stk. 1 gælder ikke for udbud af et almennyttigt lotteri, jf. § 10.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id03784a17-a971-470d-8f03-26da45988804">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For landbaseret lotteri og klasselotteri, jf. § 6 og § 8, er modtagelse af indsats fra personer over 16 år og anden formidling af sådanne personers deltagelse i lotteriet tilladt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id0ac518fd-b0b5-441d-abbd-9963aaaa2065" localId="35">
+              <Explicatus>§ 35.</Explicatus>
+              <Stk id="id7e3720f4-7a37-4f76-bc98-09eb9fcdb497">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelsesindehaveren må ikke yde spilleren kredit for deltagelse i spil.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idfe659d37-7353-4b75-8b36-724ed7abd7f9" localId="36">
+              <Explicatus>§ 36.</Explicatus>
+              <Stk id="id43e87c12-fc1c-4b9b-b287-58f039134aa3">
+                <Exitus>
+                  <Linea>
+                    <Char>Markedsføring af spil</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idc2b6cf09-a581-4d5e-b629-e39392bcdbc0">
+                  <Index>
+                    <Indentatio id="id8fee0cbb-1db6-4d47-8758-90d1595f0837" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>skal fremstille gevinstchancen på en korrekt og balanceret måde således, at der ikke skabes et indtryk af, at gevinstchancen er større, end den i realiteten er,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide1100cb5-474b-4d0a-8bb9-934d5fd203b2" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>skal fremstille spil som et underholdningstilbud,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id2ac0f36f-a646-495e-ba2e-a87463dededa" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>må hverken i kommunikationsudformning eller medievalg målrettes mod børn og unge under 18 år,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id3638cefc-2cbb-40fd-b006-6ca2aff2716a" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>må ikke ved brug af kendte personligheder i strid med sandheden antyde, at deltagelse i spil har bidraget til den kendtes succes, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id1796fe26-c908-45fa-b35e-c347ec817542" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>må ikke have et indhold, der giver indtryk af, at deltagelse i spil fremmer en løsning på finansielle problemer eller giver spilleren social accept.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id5228763f-cb5b-4662-b25e-e62a037f73f6">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skatteministeren kan fastsætte nærmere regler om markedsføringen af spil.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="ide291198c-e639-46d2-9290-b9b9651d0e4f" localId="6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica id="ideaa0963f-2cdf-470e-9602-b063b0a8eb43">
+            <Linea>
+              <Char>Godkendelse af bestyrere og personale</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id313b43a0-2cee-40cf-b071-9e246f3ac6fd" localId="37">
+              <Explicatus>§ 37.</Explicatus>
+              <Stk id="id91ae4613-e343-4480-9d1b-6d57b2c06850">
+                <Exitus>
+                  <Linea>
+                    <Char>Den daglige drift af landbaserede kasinoer, spillehaller med gevinstgivende spilleautomater og butikker, hvor der sælges lotteri eller væddemål, jf. §§ 6, 11 og 12, skal forestås af tilladelsesindehaveren selv eller en bestyrer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id59c56c54-80dc-4547-bc44-14da04dc7e76" localId="38">
+              <Explicatus>§ 38.</Explicatus>
+              <Stk id="id11203e66-434f-4f84-a4fc-0ba38a7ab871">
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyreren, jf. § 37, skal forud for sin tiltrædelse godkendes af spillemyndigheden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er en betingelse for at opnå godkendelse, at bestyreren opfylder betingelserne i § 26, stk. 1, nr. 1, 2 og 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc91d1daf-2949-4fc4-9fb9-df3d19e63c3c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyreren kan ikke godkendes, hvis bestyreren eller andre, der kan øve en bestemmende indflydelse på bestyrerens arbejde, har udvist en sådan adfærd, at der er grund til at antage, at spillestedet ikke vil blive drevet på forsvarlig måde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idaa5cf3e6-f434-462a-89ea-ff42f0f98eb0">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En godkendt bestyrer skal give spillemyndigheden besked, hvis vedkommende ikke længere opfylder betingelsen i § 26, stk. 1, nr. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9d094ac2-f8ba-4b58-bc73-66102a87362d">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Godkendelsen af en bestyrer kan tilbagekaldes, hvis bestyreren ikke længere opfylder betingelsen i stk. 2 eller er dømt for et strafbart forhold, der begrunder nærliggende fare for misbrug af adgangen til at arbejde med spil.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id51ecd8af-72b1-4282-9a5b-0763ae5597f1">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En godkendelse af en bestyrer bortfalder, hvis bestyreren ikke længere opfylder betingelsen i § 26, stk. 1, nr. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idc6cefdab-2d4c-447b-88a4-fce8336463b6" localId="39">
+              <Explicatus>§ 39.</Explicatus>
+              <Stk id="idcd8d5336-6f0b-4f2a-9209-911704eeb60b">
+                <Exitus>
+                  <Linea>
+                    <Char>En ansat i landbaserede kasinoer skal forud for ansættelsen godkendes af spillemyndigheden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er en betingelse for at opnå godkendelse, at den ansatte er fyldt 18 år og opfylder betingelserne i § 26, stk. 1, nr. 2 og 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9ab18cf6-2814-4bf7-9968-9dbcb1723570">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En ansat kan ikke godkendes, hvis den ansatte eller andre, der kan øve en bestemmende indflydelse på den ansattes arbejde, har udvist en sådan adfærd, at der er grund til at antage, at den ansatte ikke vil udføre sit arbejde på forsvarlig måde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id62a46475-d6aa-4f1e-b9b5-bc297f302ab0">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En godkendt ansat skal give spillemyndigheden besked, hvis vedkommende ikke længere opfylder betingelsen i § 26, stk. 1, nr. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2721e365-e385-4fae-9748-a540a7803b91">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Godkendelsen af en ansat kan tilbagekaldes, hvis den ansatte ikke længere opfylder betingelsen i stk. 2 eller er dømt for et strafbart forhold, der begrunder nærliggende fare for misbrug af adgangen til at arbejde med spil.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf5c2b985-3cde-4e44-9176-9fc0642afc1a">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En godkendelse af en ansat bortfalder, hvis den ansatte ikke længere opfylder betingelsen i § 26, stk. 1, nr. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id562c3b39-1638-4723-8096-34918abd0b46" localId="40">
+              <Explicatus>§ 40.</Explicatus>
+              <Stk id="iddc19e5c6-ec5c-4915-ae30-2716a14fa1c2">
+                <Exitus>
+                  <Linea>
+                    <Char>Ansatte i butikker, hvor der hovedsagelig sælges lotteri og væddemål, og ansatte i spillehaller med gevinstgivende spilleautomater skal være fyldt 18 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="iddf7a6b8a-1257-4038-aec5-bde0f7547308" localId="7">
+          <Explicatus>Kapitel 7</Explicatus>
+          <Rubrica id="idcf2593d5-f936-4ec1-ac85-c63d817761be">
+            <Linea>
+              <Char>Administrative bestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idc727d0a7-0634-4749-94bf-6e1f00a03585" localId="41">
+              <Explicatus>§ 41.</Explicatus>
+              <Stk id="id7dd0f526-3296-4aec-abb2-23f858608549">
+                <Exitus>
+                  <Linea>
+                    <Char>Skatteministeren kan fastsætte regler om spillene og afviklingen af disse, herunder regler om indsatser og gevinst i spillene, tilbagebetalingsprocenter, kontrolforanstaltninger, der er nødvendige for lovens gennemførelse, godkendelse og placering af teknisk udstyr, der anvendes til afvikling af spil, informationsforpligtelser, registrering af spillere, opbevaring af data, foranstaltninger til beskyttelse af spillerne, krav til klagesagsbehandling, tilladelsesindehaverens personales deltagelse i spil, spillemyndighedens mærkningsordninger, herunder at de kan gøres obligatoriske, og betalingsformidling af indsatser og gevinster til og fra en ulovlig spiludbyder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id0844d58c-bb1b-4e2e-99c9-fa1f536406e4">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skatteministeren kan fastsætte regler med henblik på opfyldelse eller anvendelse af Det Europæiske Fællesskabs retsakter om forhold omfattet af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida410e888-f252-4d1d-b77a-8afdb3d3689c">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skatteministeren kan fastsætte regler om forebyggende foranstaltninger mod hvidvask af udbytte og finansiering af terrorisme.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan endvidere efter forhandling med justitsministeren fastsætte regler for tilladelsesindehavere om underretningspligt til Statsadvokaten for Særlig Økonomisk og International Kriminalitet om mistænkelige transaktioner, aktiviteter eller henvendelser, herunder regler om, at underretningen skal være affattet på dansk eller engelsk, og at underretningen skal ske i elektronisk form (digital kommunikation).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idbfac306d-1727-4881-bada-3350f05169ae" localId="42">
+              <Explicatus>§ 42.</Explicatus>
+              <Stk id="id5c341093-5c4b-4e46-8c48-07781fb7180c">
+                <Exitus>
+                  <Nota id="idd94fd15c-ceab-48eb-be73-a033e86c1cd1">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>I § 42 indsættes stk. 12-14, jf. § 4, nr. 7, i lov nr. 650 af 8. juni 2016.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>Loven sættes i kraft af skatteministeren.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>For indgivelse af ansøgning om tilladelse til udbud af væddemål, jf. § 11, eller onlinekasino, jf. § 18, skal ansøgeren betale et gebyr på 250.000 kr. (2010-niveau) til spillemyndigheden, jf. dog stk. 4 og 5.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For indgivelse af ansøgning om tilladelse til udbud af væddemål, jf. § 11, eller onlinekasino, jf. § 18, skal ansøgere, som på ansøgningstidspunktet har tilladelse fra spillemyndigheden, betale et gebyr på 100.000 kr. (2010-niveau) til spillemyndigheden, jf. dog stk. 4 og 5.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Gebyret skal betales senest samtidig med indgivelse af ansøgningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id5d45bc4b-6407-4313-adb5-8d011ca86567">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For indgivelse af ansøgning om tilladelse til at udbyde både væddemål og onlinekasino skal ansøgeren betale et samlet gebyr på 350.000 kr. (2010-niveau) til spillemyndigheden, jf. dog stk. 4 og 5.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For indgivelse af ansøgning om tilladelse til udbud af både væddemål, jf. § 11, og onlinekasino, jf. § 18, skal ansøgere, som på ansøgningstidspunktet har tilladelse fra spillemyndigheden, betale et gebyr på 125.000 kr. (2010-niveau) til spillemyndigheden, jf. dog stk. 4 og 5.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Gebyret skal betales samtidig med indgivelse af ansøgningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id417708df-5670-4120-a0b3-d2e0b01b3b76">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For tilladelser udstedt til udbud af væddemål eller onlinekasino betales et gebyr afhængigt af et kalenderårs afgiftspligtige spilleindtægt, jf. § 6 og § 11 i lov om afgifter af spil, til spillemyndigheden, jf. dog stk. 4 og 5.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Gebyret skal betales, senest 1 måned efter at tilladelsen træder i kraft, efter følgende skala:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Table width="309" cellpadding="0cm,0cm,0cm,0cm" formaMarginoTop="0.2cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" style="column-width: 161pt 71pt;">
+                    <Tr>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Left">
+                          <Linea>
+                            <Char>Spilleindtægtens størrelse</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Right">
+                          <Linea>
+                            <Char>Gebyr</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;" />
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Right">
+                          <Linea>
+                            <Char>(2010-niveau)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Left">
+                          <Linea>
+                            <Char>Under 5.000.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Right">
+                          <Linea>
+                            <Char>50.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Left">
+                          <Linea>
+                            <Char>5.000.000 kr. indtil 10.000.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Right">
+                          <Linea>
+                            <Char>125.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Left">
+                          <Linea>
+                            <Char>10.000.000 kr. indtil 25.000.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Right">
+                          <Linea>
+                            <Char>225.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Left">
+                          <Linea>
+                            <Char>25.000.000 kr. indtil 50.000.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Right">
+                          <Linea>
+                            <Char>450.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Left">
+                          <Linea>
+                            <Char>50.000.000 kr. indtil 100.000.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Right">
+                          <Linea>
+                            <Char>800.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Left">
+                          <Linea>
+                            <Char>100.000.000 kr. indtil 200.000.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Right">
+                          <Linea>
+                            <Char>1.500.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Left">
+                          <Linea>
+                            <Char>200.000.000 kr. indtil 500.000.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Right">
+                          <Linea>
+                            <Char>2.500.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Left">
+                          <Linea>
+                            <Char>500.000.000 kr. og derover</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Right">
+                          <Linea>
+                            <Char>4.500.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                  </Table>
+                </Exitus>
+                <Exitus />
+              </Stk>
+              <Stk id="ide0e9bc60-a64b-474d-a201-a9aefcd33156">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For tilladelser af maksimalt 1 års varighed udstedt til udbud af væddemål eller onlinekasino, hvor den afgiftspligtige spilleindtægt ikke må overstige 1.000.000 kr., betales et gebyr på 50.000 kr. (2010-niveau) til spillemyndigheden til dækning af de samlede omkostninger ved behandling af ansøgningen, udstedelse af tilladelse og tilsyn med tilladelsesindehaveren.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Gebyret skal indbetales senest samtidig med indgivelse af ansøgningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis ansøgningen afvises, tilbagebetales 25.000 kr. til ansøger.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beløbet reguleres efter § 20 i lov om indkomstskat for personer m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id678c1607-baeb-451c-9eaa-f406d502371c">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For tilladelser af maksimalt 1 års varighed udstedt til udbud af væddemål, hvor spilleomsætningen ikke må overstige 5.000.000 kr. og tilbagebetalingsprocenten ikke må overstige 20 pct., betales et gebyr på 50.000 kr. (2010-niveau) til spillemyndigheden til dækning af de samlede omkostninger ved behandling af ansøgningen, udstedelse af tilladelse og tilsyn med tilladelsesindehaveren.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Afvises ansøgningen, tilbagebetales 25.000 kr. (2010-niveau) til ansøger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1fcf99ca-dd5e-4799-aeeb-9aeb97ecae50">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For tilladelser udstedt til oprettelse og drift af landbaserede kasinoer betales et årligt gebyr afhængigt af kalenderårets afgiftspligtige spilleindtægt, jf. § 10 i lov om afgifter af spil, til spillemyndigheden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Gebyret skal betales, senest 1 måned efter at tilladelsen træder i kraft, efter følgende skala:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Table width="310" cellpadding="0cm,0cm,0cm,0cm" formaMarginoTop="0.2cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" style="column-width: 161pt 71pt;">
+                    <Tr>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Left">
+                          <Linea>
+                            <Char>Spilleindtægtens størrelse</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Right">
+                          <Linea>
+                            <Char>Gebyr</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;" />
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Right">
+                          <Linea>
+                            <Char>(2010-niveau)</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Left">
+                          <Linea>
+                            <Char>Under 10.000.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Right">
+                          <Linea>
+                            <Char>143.200 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Left">
+                          <Linea>
+                            <Char>10.000.000 kr. indtil 20.000.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Right">
+                          <Linea>
+                            <Char>286.500 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Left">
+                          <Linea>
+                            <Char>20.000.000 kr. indtil 50.000.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Right">
+                          <Linea>
+                            <Char>429.750 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Left">
+                          <Linea>
+                            <Char>50.000.000 kr. indtil 100.000.000 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Right">
+                          <Linea>
+                            <Char>716.300 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                    <Tr>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Left">
+                          <Linea>
+                            <Char>100.000.000 kr. og derover</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                      <Td colspan="1" rowspan="1" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+                        <Exitus formaEx="Right">
+                          <Linea>
+                            <Char>1.193.800 kr.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Td>
+                    </Tr>
+                  </Table>
+                </Exitus>
+                <Exitus />
+              </Stk>
+              <Stk id="id8a71589c-5c1f-4059-9f57-0468b4cbd28b">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Overstiger den realiserede spilleindtægt det grundlag, der er betalt gebyr for i henhold til stk. 3 og 6, opkræves et beløb svarende til forskellen mellem det betalte gebyr og det faktiske gebyr, der skal betales.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Gebyret skal betales senest 1 måned efter opkrævning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Er den realiserede spilleindtægt for et kalenderår lavere end grundlaget for det betalte gebyr i medfør af stk. 3 og 6, tilbagebetales et beløb svarende til forskellen mellem det betalte gebyr og det faktiske gebyr, der skal betales.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9cca96df-00d3-4b3f-b1ce-34f602a28661">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For tilladelser til opstilling og drift af gevinstgivende spilleautomater, jf. § 19, stk. 1, betales et gebyr på 573 kr. (2010-niveau) pr. spilleautomat for et kalenderår.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Gebyret skal angives og betales senest ved udgangen af januar måned i det pågældende kalenderår.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Skal en gevinstgivende spilleautomat synes som følge af foretagne ændringer af spilleautomaten, anses spilleautomaten for nyopstillet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id77bb9ebf-d975-42e8-b116-9b60750e68a8">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For en gevinstgivende spilleautomat, der opstilles og tages i drift i løbet af kalenderåret, skal tilladelsesindehaveren, jf. § 19, stk. 1, angive og betale gebyret, jf. stk. 8, senest ved udgangen af den følgende måned.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1197413e-cdea-4848-a5e3-ea6783f878df">
+                <Explicatus>Stk. 10.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skatteministeren kan fastsætte regler om betaling af gebyrer for behandling af ansøgninger og udstedelse af tilladelse og årlige gebyrer til dækning af omkostninger forbundet med administration af tilladelser, tilsyn med tilladelsesindehavere og overvågning af spillemarkedet med henblik på at forhindre, at der udbydes, arrangeres eller formidles deltagelse i spil her i landet uden tilladelse efter denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id14bf8f18-90b6-40e2-94db-d355a55be890">
+                <Explicatus>Stk. 11.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Gebyrerne i stk. 1-6 og 8 reguleres efter § 20 i lov om indkomstskat for personer m.v. Gebyret i stk. 8 afrundes opad til nærmeste kronebeløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id749c64c5-af52-439c-b488-a56dbe34c50a" localId="43">
+              <Explicatus>§ 43.</Explicatus>
+              <Stk id="idfb338a85-b2d8-481a-a689-724530d77878">
+                <Exitus>
+                  <Linea>
+                    <Char>Indehavere af tilladelse til udbud af væddemål, jf. § 11, eller onlinekasino, jf. § 18, skal, 1 år efter at tilladelsen er taget i brug, få udarbejdet en rapport, der redegør for, om tilladelsesindehaveren i det forgangne år har udbudt spil i overensstemmelse med betingelserne for tilladelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Rapporten skal udarbejdes af en af spillemyndigheden godkendt virksomhed.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Rapporten skal være spillemyndigheden i hænde senest 14 måneder efter den dato, hvor tilladelsen er taget i brug.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id2a7e9f92-5f07-4e26-9a31-c6fe2c4f9a66">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Indehavere af tilladelse til udbud af væddemål, jf. § 11, eller onlinekasino, jf. § 18, skal efter det første år, senest 5 måneder efter afslutningen af hvert regnskabsår, sende en årsredegørelse til spillemyndigheden med virksomhedens nøgletal og en beretning om, hvordan tilladelsesindehaveren har efterlevet lovens krav.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id5bc43a12-0613-4122-b5bb-a01d82c62c16" localId="8">
+          <Explicatus>Kapitel 8</Explicatus>
+          <Rubrica id="id55090cfe-9c08-4000-8958-96f00ea7ba5e">
+            <Linea>
+              <Char>Tilbagekaldelse og bortfald af tilladelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idda1ae1c7-40b3-421f-a52b-89cccdad2585" localId="44">
+              <Explicatus>§ 44.</Explicatus>
+              <Stk id="id147a3444-28e5-41d3-8418-9dbaad94c953">
+                <Exitus>
+                  <Linea>
+                    <Char>Spillemyndigheden kan tilbagekalde en tilladelse til udbud af spil, hvis tilladelsesindehaveren eller dennes repræsentant</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idc90c33cc-f139-4fca-954d-7e3e8425e99b">
+                  <Index>
+                    <Indentatio id="idcd967117-fb59-4c5b-a010-3e6391fb892e" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>groft eller gentagne gange har overtrådt denne lov, bestemmelser fastsat i henhold til denne lov eller vilkår for tilladelsen,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id47569f2d-0dc6-4069-93bb-c68276c7a563" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>er dømt for et strafbart forhold, der begrunder nærliggende fare for misbrug af adgangen til at arbejde med spil,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id57cb5d38-bcc1-4df3-8a18-ce866819e367" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ikke længere opfylder betingelsen i § 29,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id06f9b1ec-a7c7-4f35-bbf7-430859a0a400" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>groft eller gentagne gange ikke angiver afgifter efter lov om afgifter af spil, jf. §§ 21-25,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idda92b79f-ff68-49f9-80a9-48e619b7912e" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>groft eller gentagne gange ikke angiver gebyrer efter § 42, stk. 8 og 9,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7c3345d2-f5de-4611-89ab-0cb03999fe30" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>groft eller gentagne gange ikke betaler forfaldne afgifter eller ikke stiller sikkerhed, jf. lov om afgifter af spil og lov om opkrævning af skatter og afgifter m.v.,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id29c91391-446c-4a21-a261-1073aaee36db" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ikke betaler forfaldne gebyrer efter regler fastsat i medfør af § 42,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idc511472e-5d86-4993-b024-c72cba4c0a52" formaInd="Nummer">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>har forfalden gæld til det offentlige, der overstiger 100.000 kr., eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id26c7eec0-9139-4f59-8b9b-a73ec4e04637" formaInd="Nummer">
+                      <Explicatus>9)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ikke har anmeldt virksomheden til registrering hos told- og skatteforvaltningen, senest 4 uger efter at tilladelse er givet, jf. lov om afgifter af spil.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="iddfc6b229-2724-4ba5-9235-ed809d531f6a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En tilladelse til udbud af spil kan endvidere tilbagekaldes, hvis tilladelsesindehaverens udbud eller arrangering af spil udgør en væsentlig forstyrrelse af den offentlige orden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ida9a44a10-1f58-4fc2-87cb-a8357842c4d1" localId="45">
+              <Explicatus>§ 45.</Explicatus>
+              <Stk id="id24c246c9-7b20-46d8-9382-8dc20d75fa94">
+                <Exitus>
+                  <Linea>
+                    <Char>En tilladelse til udbud af spil bortfalder, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id649c4acd-79d0-4420-b45f-dccdb99a911e">
+                  <Index>
+                    <Indentatio id="idb44386d9-7a52-4a6e-9464-d1b44b5de4d0" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilladelsesindehaveren meddeler, at vedkommende ikke længere ønsker at udbyde spil,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8eb1eb89-3483-44e8-b98d-feca53273d57" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>udbud af spil ikke er påbegyndt, senest 12 måneder efter at spillemyndigheden har givet tilladelse,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id436fcec7-10d5-4f51-999e-e748948a8756" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>der ikke udbydes spil i en sammenhængende periode på over 6 måneder, medmindre der er tale om sæsonbaseret udbud,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf61f1a61-06f2-4c48-9924-551802000ebd" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilladelsesindehaveren afgår ved døden eller ophører med at opfylde en af betingelserne i § 26, stk. 1, nr. 2 eller 3, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide438ec1b-737e-4d86-88f5-3a11962f5104" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>skifteretten efter begæring fra Erhvervs- og Selskabsstyrelsen har truffet afgørelse om tvangsopløsning af virksomheden.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="id1d727b2c-196f-4d23-9b22-d949bd50226d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uanset stk. 1, nr. 4, kan tilladelsesindehaverens dødsbo eller ægtefælle, der sidder i uskiftet bo, en tilladelsesindehaver, der er under rekonstruktionsbehandling, en tilladelsesindehavers konkursbo eller en værge for en tilladelsesindehaver, der er under værgemål efter værgemålslovens § 5 eller § 7, fortsætte med at udbyde spil med henblik på afvikling, hvis der sker anmeldelse herom til spillemyndigheden inden 14 dage efter dødsfaldet, indledningen af rekonstruktionsbehandlingen, konkursdekretets afsigelse eller værgemålets iværksættelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Adgangen hertil gælder kun i 6 måneder efter den begivenhed, der medførte tilladelsens bortfald.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida70332a4-dcd3-4810-95c3-4d2865680845">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En tilladelse til udbud af spil på gevinstgivende spilleautomater i en restauration bortfalder, hvis restaurationens alkoholbevilling inddrages eller bortfalder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idc7992367-2f17-44da-be08-c07de82d0ed3" localId="9">
+          <Explicatus>Kapitel 9</Explicatus>
+          <Rubrica id="id7f90f40c-6cd1-4145-af58-4396c6221ed1">
+            <Linea>
+              <Char>Tilsyn og videregivelse af information</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="ided26764a-0121-455f-8853-dfa495c2f67b" localId="46">
+              <Explicatus>§ 46.</Explicatus>
+              <Stk id="id5e404d6f-4655-470e-8034-f60e189fc976">
+                <Exitus>
+                  <Linea>
+                    <Char>Spillemyndigheden fører tilsyn med overholdelse af denne lov, regler fastsat i medfør af loven og tilladelsesindehaveres overholdelse af vilkår for tilladelse, jf. dog stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf3d14268-f4d0-4964-8506-5b9580c8cf4f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Justitsministeren fører tilsyn med Landbrugslotteriets og Almindeligt Dansk Vare- og Industrilotteris overholdelse af denne lov, regler fastsat i medfør af loven og vilkår for tilladelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id4ab097c3-3f55-48d1-ae38-272af6acb92d" localId="47">
+              <Explicatus>§ 47.</Explicatus>
+              <Stk id="id5d411725-f431-4b8b-8513-1df90564f5ca">
+                <Exitus>
+                  <Linea>
+                    <Char>Spillemyndigheden har til enhver tid mod behørig legitimation uden retskendelse adgang til at foretage eftersyn i lokaler, der benyttes af den ansvarlige tilladelsesindehaver i forbindelse med udbud og arrangering af spil og til at efterse disses tekniske faciliteter til brug for spillene, forretningsbøger, øvrigt regnskabsmateriale og korrespondance og andre dokumenter, der kan have betydning for tilsynet, uanset om disse oplysninger er på papir eller på elektroniske medier.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7c7bb36a-9b8c-400f-8cbb-1fc453193259">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelsesindehaveren og dennes ansatte skal yde spillemyndigheden fornøden vejledning og hjælp ved foretagelsen af eftersynet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id209f0114-cd1b-4d9c-8769-960c8c5e948d">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Spillemyndigheden kan pålægge tilladelsesindehaverne at afgive oplysninger om spillevirksomheden og anmode om udlevering eller indsendelse af det i stk. 1 nævnte materiale.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8407818a-8117-409a-9c21-1b7261f90a7b">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Leverandører og udlejere af udstyr til udbud af spil skal på begæring give spillemyndigheden oplysninger om deres leverancer til tilladelsesindehavere omfattet af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf02d7712-f2ad-4d97-8d79-76825f33e470" localId="48">
+              <Explicatus>§ 48.</Explicatus>
+              <Stk id="idfc8f8dfa-fbcf-49d1-851c-796b22f77636">
+                <Exitus>
+                  <Linea>
+                    <Char>Politiet yder spillemyndigheden bistand til eftersyn efter § 47, stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Skatteministeren kan efter forhandling med justitsministeren fastsætte nærmere regler herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idc2082cba-f9ac-4a13-aeab-5c95ba6de8ad" localId="49">
+              <Explicatus>§ 49.</Explicatus>
+              <Stk id="id243e7918-384b-4c52-aa61-eb2eaf1c3470">
+                <Exitus>
+                  <Linea>
+                    <Char>Spillemyndigheden kan udveksle nødvendige oplysninger med told- og skatteforvaltningen, andre offentlige myndigheder og udenlandske myndigheder om virksomheder m.v. omfattet af loven til brug for de respektive myndigheders kontrol.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Oplysningerne kan leveres i elektronisk form og kan gøres til genstand for registersamkøring og sammenstilling af oplysninger i kontroløjemed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id9cd17610-b84f-47f8-9dc0-69f2a1c16f0c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skatteministeren kan fastsætte nærmere regler om udveksling af oplysningerne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er spillemyndigheden og told- og skatteforvaltningen, der kan foretage samkøring og samstilling.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="iddcd62086-d2b9-4b45-bc5d-ae094b6d1a14" localId="10">
+          <Explicatus>Kapitel 10</Explicatus>
+          <Rubrica id="id1e05c3d9-9578-4af1-bcd5-1f3b65f3f1dc">
+            <Linea>
+              <Char>Klager over afgørelser truffet af spillemyndigheden</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idcae39308-782a-4a7e-bfe7-8ec6c29a3379" localId="50">
+              <Explicatus>§ 50.</Explicatus>
+              <Stk id="idb4d2b635-f152-4b72-8314-691c40d0e86b">
+                <Exitus>
+                  <Linea>
+                    <Char>Klager over afgørelser truffet af spillemyndigheden afgøres af Landsskatteretten, medmindre andet følger af regler udstedt i medfør af skatteforvaltningslovens § 35 b, stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id57221c8c-dab0-4a77-94cf-2ec777421d58" localId="51">
+              <Explicatus>§ 51.</Explicatus>
+              <Stk id="ida600d1e3-33c3-41b6-855a-827e67f0b4eb">
+                <Exitus>
+                  <Linea>
+                    <Char>Klager over spillemyndighedens afgørelser om tilbagekaldelse af tilladelser til udbud af spil, jf. § 44, stk. 1, nr. 1-3, har opsættende virkning, medmindre Landsskatteretten eller skatteankeforvaltningen bestemmer andet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id30a13cda-47dd-45b9-9a1a-4c7659b3a185">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klager over spillemyndighedens afgørelser om tilbagekaldelse af tilladelser til udbud af spil, jf. § 44, stk. 1, nr. 4-9, og § 44, stk. 2, har ikke opsættende virkning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Landsskatteretten eller skatteankeforvaltningen kan dog tillægge en klage opsættende virkning, hvis særlige omstændigheder taler derfor.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Landsskatterettens afgørelse kan træffes af en retsformand eller en kontorchef i skatteankeforvaltningen efter bemyndigelse fra Landsskatterettens ledende retsformand.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idcedbf6b5-5502-415f-bf28-15988ce48fa6" localId="52">
+              <Explicatus>§ 52.</Explicatus>
+              <Stk id="id4bfa69e0-9cb0-4984-9104-d41239471874">
+                <Exitus>
+                  <Linea>
+                    <Char>Klager over spillemyndighedens afgørelser om tilbagekaldelse af godkendelser af en bestyrer eller ansat, jf. § 38, stk. 4, eller § 39, stk. 4, har opsættende virkning, medmindre Landsskatteretten eller skatteankeforvaltningen bestemmer andet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id547ac312-c61a-412d-80cd-03617bcc33c3" localId="53">
+              <Explicatus>§ 53.</Explicatus>
+              <Stk id="idca622faf-4ef8-4aa8-9be3-6f4663123648">
+                <Exitus>
+                  <Linea>
+                    <Char>Klager over spillemyndighedens afgørelser om tilbagekaldelse af godkendelse af en repræsentant, på grund af at repræsentanten er dømt for et strafbart forhold, der begrunder nærliggende fare for misbrug af adgangen til at arbejde med spil, eller ikke længere har bopæl eller er etableret her i landet, jf. § 30, stk. 3, har opsættende virkning, medmindre Landsskatteretten eller skatteankeforvaltningen bestemmer andet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ide185b18a-b469-4e7c-88d7-514353ef13f0">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klager over spillemyndighedens afgørelser om tilbagekaldelse af godkendelse af en repræsentant, på grund af at repræsentanten har forfalden gæld til det offentlige, der overstiger 100.000 kr., har ikke opsættende virkning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Landsskatteretten eller skatteankeforvaltningen kan dog tillægge en klage opsættende virkning, hvis særlige omstændigheder taler derfor.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Landsskatterettens afgørelse kan træffes af en retsformand eller en kontorchef i skatteankeforvaltningen efter bemyndigelse fra Landsskatterettens ledende retsformand.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd27e943b-803d-4bfc-9723-d2c154a1aa41" localId="54">
+              <Explicatus>§ 54.</Explicatus>
+              <Stk id="idd2574f70-ca6c-495b-97df-09e14e7dd84a">
+                <Exitus>
+                  <Linea>
+                    <Char>Klager over spillemyndighedens afgørelser om, at medlemmer af bestyrelsen eller direktionen skal udtræde, på grund af at medlemmet er dømt for et strafbart forhold, der begrunder nærliggende fare for misbrug af adgangen til at arbejde med spil, jf. § 28, stk. 2, har opsættende virkning, medmindre Landsskatteretten eller skatteankeforvaltningen bestemmer andet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc4af554c-fda2-414a-8a51-f6cb894a8d59">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klager over spillemyndighedens afgørelser om, at medlemmer af bestyrelsen eller direktionen skal udtræde, på grund af at medlemmet har forfalden gæld til det offentlige, der overstiger 100.000 kr., har ikke opsættende virkning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Landsskatteretten eller skatteankeforvaltningen kan dog tillægge en klage opsættende virkning, hvis særlige omstændigheder taler derfor.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Landsskatterettens afgørelse kan træffes af en retsformand eller en kontorchef i skatteankeforvaltningen efter bemyndigelse fra Landsskatterettens ledende retsformand.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="idbc5334b0-7b8a-411a-bb70-7601c1f62111" localId="11">
+          <Explicatus>Kapitel 11</Explicatus>
+          <Rubrica id="id4cbb87b0-8f93-4d42-aabb-ae640388dddc">
+            <Linea>
+              <Char>Domstolsprøvelse</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idab365838-465d-4a3a-b7a9-eb6273827afc" localId="55">
+              <Explicatus>§ 55.</Explicatus>
+              <Stk id="id9b6aa4d5-0f8a-4c20-b7a5-38a6cdecaeca">
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelser truffet af spillemyndigheden, skatteankeforvaltningen og Landsskatteretten kan indbringes for domstolene, senest 3 måneder efter at afgørelse er truffet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Finder indbringelse ikke sted inden for fristen, er den pågældende myndigheds afgørelse endelig.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id32dd721e-8d48-443f-8026-8c2b5d7f9442" localId="56">
+              <Explicatus>§ 56.</Explicatus>
+              <Stk id="ide6b613b4-6d19-426a-8daa-940dc584ae87">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved domstolsprøvelse af afgørelser om tilbagekaldelse af tilladelser til udbud af spil eller godkendelse som repræsentant, bestyrer eller ansat finder §§ 51-54 tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id26a5e032-c097-4945-98ec-7684bda2e747" localId="57">
+              <Explicatus>§ 57.</Explicatus>
+              <Stk id="idf4ce877b-fa21-4feb-b0e6-c5f5f2e2d6f7">
+                <Exitus>
+                  <Linea>
+                    <Char>Det kan i en dom om tilbagekaldelse af en tilladelse til udbud af spil eller godkendelse af en bestyrer eller ansat fastsættes, at anke ikke har opsættende virkning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf5a684ff-20a2-4643-a295-843392046181" localId="58">
+              <Explicatus>§ 58.</Explicatus>
+              <Stk id="idb4624a86-87e0-4d80-9401-4e8b2a8e8ba2">
+                <Exitus>
+                  <Linea>
+                    <Char>En afgørelse om tilbagekaldelse af en tilladelse til udbud af spil, jf. § 44, stk. 1, nr. 1-3, kan af den, afgørelsen vedrører, forlanges indbragt for domstolene.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dette gælder dog ikke tilladelse til almennyttigt lotteri og lokale puljevæddemål.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anmodning om domstolsprøvelse skal, inden 4 uger efter at afgørelsen er meddelt den pågældende, fremsættes over for spillemyndigheden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Spillemyndigheden anlægger sag mod tilladelsesindehaveren i den borgerlige retsplejes former.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id912ef86d-1113-4964-be1f-fa44c2d7d3c5" localId="12">
+          <Explicatus>Kapitel 12</Explicatus>
+          <Rubrica id="idbb6c9183-346e-490d-a600-0f975b4a696b">
+            <Linea>
+              <Char>Straffebestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idd4c8d75e-d37f-4894-8f80-ca8755c816ef" localId="59">
+              <Explicatus>§ 59.</Explicatus>
+              <Stk id="id5b88b032-c4f4-4a2a-b4e0-a4e51798aa3e">
+                <Exitus>
+                  <Linea>
+                    <Char>Med bøde eller fængsel indtil 6 måneder straffes den, der forsætligt eller groft uagtsomt udbyder eller arrangerer spil her i landet uden tilladelse efter denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id1661fcf8-5a63-4df5-afe5-57eb6e624f44">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Med bøde straffes den, der forsætligt eller groft uagtsomt formidler deltagelse i spil uden tilladelse, jf. stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idbf1666bb-2cad-40b6-b748-a027c9695a17">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Under skærpende omstændigheder, herunder navnlig i gentagelsestilfælde, eller når lovovertrædelsen har haft særlig omfattende karakter, kan straffen efter stk. 1 stige til fængsel i 1 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id81cfb1af-9d76-4aa5-82e1-8caef9c8cdad">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre højere straf er forskyldt efter anden lovgivning, straffes den, der udbyder pyramidespil, jf. § 24, med bøde, fængsel indtil 4 måneder eller under skærpende omstændigheder med fængsel indtil 2 år.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Strafansvaret efter 1. pkt. gælder også for udbud, der finder sted i udlandet, i det omfang udbyderen og de personer, spillet udbydes til, er bosat i Danmark.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id67e3d5c6-7709-4fc2-95c0-d31d96655e78">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde den, der forsætligt eller groft uagtsomt</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idbca08a09-efab-4892-b74d-0ced3e387bd9">
+                  <Index>
+                    <Indentatio id="id04172cc5-61bc-4da5-a7f5-ca5d8694de0b" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>overtræder § 13, stk. 3, § 15, § 16, § 20, § 21, § 22, § 23, § 28, stk. 1, 2. pkt., og stk. 3, § 30, § 34, stk. 1 og 3, § 35, § 36, stk. 1, § 37, § 38, stk. 1 og 3, § 39, stk. 1 og 3, § 40, § 43 og § 47, stk. 2-4,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd83774d0-d296-490c-bd9b-0ac6c67ff441" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>stiller lokaler til rådighed for afvikling af spil, der ikke har tilladelse efter denne lov,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb19c7293-0e28-48ff-ab0d-998dcd8b406a" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilsidesætter vilkår fastsat efter § 32,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idd1d95219-2270-4881-8d22-f44534e0545b" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>reklamerer for spiludbydere, der ikke har tilladelse efter denne lov,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id27ad8340-3f6e-4d9a-9df9-d88f6c2727bc" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>i erhvervsmæssigt øjemed formidler deltagelse i et spil, der har tilladelse efter denne lov, uden tilladelsesindehaverens godkendelse,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ided7de9c4-9375-4bbf-83dd-657c8b7e5f92" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>søger erhverv ved spil, der ikke har tilladelse eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id321e511a-3d05-4ed7-ae76-4161225cd1ab" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>varetager den daglige drift efter § 37 som bestyrer uden at være godkendt af spillemyndigheden.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id2fb4a279-fac4-4ba5-b475-64b821ce769e" localId="60">
+              <Explicatus>§ 60.</Explicatus>
+              <Stk id="id00670b59-59a1-47c6-ae94-0d8dde62935d">
+                <Exitus>
+                  <Linea>
+                    <Char>I forskrifter, der udstedes i medfør af loven, kan der fastsættes straf af bøde for den, der forsætligt eller groft uagtsomt overtræder bestemmelser i forskrifterne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb7c136db-3c6e-493a-84bf-f6a1fae93f32">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forsætlige eller groft uagtsomme overtrædelser af forskrifter om forebyggende foranstaltninger mod hvidvask af udbytte og finansiering af terrorisme, der er udstedt i medfør af loven, straffes med bøde, medmindre højere straf er forskyldt efter straffelovens regler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idca94f5b8-2317-433f-915a-6bb99576ee7f">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved særligt grove eller omfattende forsætlige overtrædelser af forskrifter om forebyggende foranstaltninger mod hvidvask af udbytte og finansiering af terrorisme, der er udstedt i medfør af loven, kan straffen stige til fængsel indtil 6 måneder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id7422037f-4981-4c40-a6d1-61ba5af2d679" localId="61">
+              <Explicatus>§ 61.</Explicatus>
+              <Stk id="idd42abe89-d59b-43bc-ac42-f635b7952027">
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idace4f8d7-fb3c-4e8a-a493-330be73302e8" localId="62">
+              <Explicatus>§ 62.</Explicatus>
+              <Stk id="idba5a6929-ee19-4fb7-9736-f04375fcd93b">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved udmåling af bødestraf i henhold til § 59, stk. 1, 2, 4 og 5, skal der ud over de almindelige principper i straffeloven tages hensyn til virksomhedens omsætning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved udmåling af bøde, herunder tillægsbøde, skal der tages særligt hensyn til størrelsen af en opnået eller tilsigtet økonomisk fordel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idd4da625e-0c4c-4bfc-b7e1-4c2ed93ec8a7" localId="63">
+              <Explicatus>§ 63.</Explicatus>
+              <Stk id="idff042a98-1125-4f70-8f57-d4a0483851bd">
+                <Exitus>
+                  <Linea>
+                    <Char>Skønnes en overtrædelse ikke at ville medføre en højere straf end bøde, kan skatteministeren eller den, som ministeren bemyndiger dertil, tilkendegive, at sagen kan afgøres uden retslig forfølgning, såfremt den pågældende erkender sig skyldig i overtrædelsen og erklærer sig rede til inden for en nærmere angivet frist, der efter begæring kan forlænges, at betale en i tilkendegivelsen angivet bøde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc5c96482-f03d-4328-a76c-2038f4656705">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Med hensyn til den i stk. 1 nævnte tilkendegivelse finder bestemmelserne i retsplejeloven om krav til indholdet af anklageskrifter og om ikke at have pligt til at udtale sig tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idb2934b86-256e-494f-ac3a-d3eb301db4bf" localId="64">
+              <Explicatus>§ 64.</Explicatus>
+              <Stk id="id6a0db73e-ad6f-488d-968d-9e0cf94e628c">
+                <Exitus>
+                  <Linea>
+                    <Char>Spillemyndigheden kan i umiddelbar forlængelse af en bødevedtagelse eller idømt straf for overtrædelse af denne lov eller bestemmelser fastsat i medfør af denne lov eller af vilkår for tilladelsen fastsætte nye vilkår eller ændre allerede fastsatte vilkår for tilladelsen, hvis dette er nødvendigt for at forebygge yderligere overtrædelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idde12fb45-b626-4988-8a42-1382de36fefd" localId="65">
+              <Explicatus>§ 65.</Explicatus>
+              <Stk id="idffde9062-b4dc-402d-b851-b1ebde47951e">
+                <Exitus>
+                  <Linea>
+                    <Char>Betalingsformidling af indsatser og gevinster til og fra en ulovlig spiludbyder samt transmission af information på et kommunikationsnet til et ulovligt spilsystem er ikke tilladt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="ida40f3ae0-29eb-40b7-a079-1d04000b50ee" localId="13">
+          <Explicatus>Kapitel 13</Explicatus>
+          <Rubrica id="id50391163-5754-46df-8ed6-4f73e3c99f09">
+            <Linea>
+              <Char>Ikrafttrædelses- og overgangsbestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id69c18413-46e2-44b4-914a-2ac7ca9c51a1" localId="66">
+              <Explicatus>§ 66.</Explicatus>
+              <Stk id="id2969225c-640b-4cf3-bb34-c333ed174811">
+                <Exitus>
+                  <Linea>
+                    <Char>Skatteministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 2 og 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6eddc0db-577f-462e-8863-966bf30ab98a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skatteministeren kan bestemme, at lovens bestemmelser træder i kraft på forskellige tidspunkter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id763ad8fe-7a4a-4f27-8cf0-8cf2a8ac25e3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Spillemyndigheden kan fra dagen efter lovens offentliggørelse i Lovtidende behandle ansøgninger og træffe afgørelse om udstedelse af tilladelser.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For indgivelse af ansøgning om tilladelse til udbud af væddemål, jf. § 11, eller onlinekasino, jf. § 18, skal ansøgeren betale et gebyr på 250.000 kr. (2010-niveau) til spillemyndigheden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For indgivelse af ansøgning om tilladelse til at udbyde både væddemål og onlinekasino skal ansøgeren betale et samlet gebyr på 350.000 kr. (2010-niveau) til spillemyndigheden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Gebyret skal betales senest samtidig med indgivelse af ansøgningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Udstedte tilladelser kan tidligst have virkning fra den 1. januar 2011.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idee8a03b5-1de1-4a34-a681-9b46ea2a5b61">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klager over afgørelser om udstedelse af tilladelser, jf. stk. 3, kan påklages til Landsskatteretten.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Lov om skatteforvaltning § 13, stk. 3, finder tilsvarende anvendelse på klager over afgørelser truffet af spillemyndigheden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ide902bafc-1a47-4bc4-831f-1bff2d02b466" localId="67">
+              <Explicatus>§ 67.</Explicatus>
+              <Stk id="id5a426ab4-4da0-4e24-992d-7ca4b8dda62d">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved lovens ikrafttræden ophæves følgende love:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id75c0ee0b-3656-473d-95fc-e38b27fa2e32">
+                  <Index>
+                    <Indentatio id="id34709e5f-b5ff-45c2-85b4-05bfda57fa33" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Lov om visse spil, lotterier og væddemål, jf. lovbekendtgørelse nr. 273 af 17. april 2008.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id16744bd3-3f55-43b4-be4e-54d5a3b94c81" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Lov om gevinstgivende spilleautomater, jf. lovbekendtgørelse nr. 820 af 26. juni 2006.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id883c9768-d187-4dd7-ab65-852b3a904a59" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Lov om lokale totalisatorspil, jf. lovbekendtgørelse nr. 22 af 16. januar 2006.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id44482748-26c8-4e2b-a394-21b2b3e65d35" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Lov om Det Danske Klasselotteri A/S, jf. lovbekendtgørelse nr. 901 af 12. november 2003.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb2030126-b41d-447d-98e1-3feb1e120d4a" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Lov af 6. marts 1869 om forbud mod lotteri m.m.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idb668cd20-026d-4c47-bcfa-e0e809a6e925" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Lov om spillekasinoer, jf. lovbekendtgørelse nr. 861 af 10. oktober 1994.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id3f05bbf7-92b3-447d-b535-bedcbe024380" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Lov nr. 63 af 1. april 1913 om Indskrænkning i Adgangen til Omsætning af Lotterisedler m.m.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idef3bf4c9-4a0e-4e5a-8886-d32e5d5f5f93" localId="68-70">
+              <Explicatus>§§ 68-70.</Explicatus>
+              <Stk id="id16315805-e8b5-41a9-b9b7-a2ee93363b0b">
+                <Exitus>
+                  <Linea>
+                    <Char>(Udelades)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9de77f24-3756-4338-bc94-69185776a94d" localId="71">
+              <Explicatus>§ 71.</Explicatus>
+              <Stk id="id3ef3ef30-2f74-459e-838e-ecfeb8f8bace">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilladelser til udbud og arrangering af spil udstedt før lovens ikrafttræden er fortsat gyldige efter lovens ikrafttræden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id54b81470-badb-4012-8212-dbabfc1f2f6b" localId="72">
+              <Explicatus>§ 72.</Explicatus>
+              <Stk id="idde4088d9-8ca7-43d7-bd27-5729d1bf790f">
+                <Exitus>
+                  <Linea>
+                    <Char>Personer, der inden lovens ikrafttræden er godkendt som ansat i et kasino, som bestyrer af en spillehal med gevinstgivende spilleautomater eller som medlem af direktionen eller bestyrelsen i et selskab, der har tilladelse til udbud af gevinstgivende spilleautomater, skal ikke på ny søge godkendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idfff23fe4-5d26-4a06-ab74-dca46e9b494d">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Personer, der inden lovens ikrafttræden er bestyrer af en butik, hvor der sælges lotteri eller væddemål, skal ikke søge om godkendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id429bddb6-83c0-4690-a0ce-a516d8e28749">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For personer, der inden lovens ikrafttræden er ansat i en butik, hvor der hovedsageligt sælges lotteri eller væddemål, finder lovens § 40 ikke anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="iddf4e53a2-eeba-439f-8b96-2e5f59343156" localId="73-75">
+              <Explicatus>§§ 73-75.</Explicatus>
+              <Stk id="id17852fe7-4544-4635-ae63-6ff4436f3ef8">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9ad84f6d-3617-49d0-8f4c-fb2faac08e67" localId="76">
+              <Explicatus>§ 76.</Explicatus>
+              <Stk id="idd93bf8f3-5154-4087-a764-3f5769fe728e">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id2dec4fd5-38ef-48d5-94bf-30a8b50a6b66">
+    <UnderskriftStedDato id="idc16de842-d495-4c28-89d8-256c4a881bb2" />
+    <Underskriver id="id2fd21680-a411-4772-b756-cf56d713efdd" />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,819 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id79817676-243d-4135-a56c-9bd28dc3497b" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2015/06/22/LOVH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="iddf3d22f2-be4b-436f-ac26-d88ea9ed7e64">
+    <DocumentType>LOV H#LOKDOK 01</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20160040930</AccessionNumber>
+    <DocumentId>CE000372</DocumentId>
+    <UniqueDocumentId>180047</UniqueDocumentId>
+    <DocumentTitle>Lov om aktiviteter i det ydre rum</DocumentTitle>
+    <Year>2016</Year>
+    <DiesSigni>2016-05-11</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-21</EndDate>
+    <Status>Valid</Status>
+    <Number>409</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 409 af 11/05/2016</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Subject>rum</Subject>
+    <Subject>rumaktivitet</Subject>
+    <Subject>rumgenstand</Subject>
+    <Subject>rummet</Subject>
+    <Subject>operatør</Subject>
+    <Subject>ydre rum</Subject>
+    <Subject>rumaffald</Subject>
+    <Subject>rumregister</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Ulla Tørnæs</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Uddannelses- og Forskningsmin.,\nStyrelsen for Forskning og Innovation, j.nr. 16010941</JournalNumber>
+    <Ministry>Uddannelses- og Forskningsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id1fc93b92-b2e8-4db6-b255-be359fcc6897">
+    <Titel id="idf3d5898d-886b-40c3-a7ad-f0c6b361788a">
+      <Linea>
+        <Char>Lov om aktiviteter i det ydre rum</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id1d14348d-7853-495e-ae64-2aca36a7f010">
+    <Hymne id="idd50ac18b-1da9-434c-9afb-d79c26b5ba4e">
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <Bog id="id37fc9333-b16a-4be9-a19d-aa19cca0b922">
+      <Afsnit id="iddf834d12-905d-4c2c-91e8-08ebc11427ce" localId="1">
+        <Kapitel id="id796049c5-8d24-40d0-9122-09abda01e795" localId="1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica id="id2b6c42dd-ffdc-4c2b-898c-8826ac4cf08d">
+            <Linea>
+              <Char>Formål og anvendelsesområde</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id36ef9250-0675-48ba-a0a9-1485101689ad" localId="1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="idf2179b55-d7a1-4db9-987d-cbd795700c75">
+                <Exitus>
+                  <Linea>
+                    <Char>Formålet med loven er at fastlægge rammerne for, at danske aktiviteter i det ydre rum finder sted på et reguleret og sikkerhedsmæssigt betryggende grundlag gennem</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id7199e09f-0cc5-438c-8177-c6740f4e574a">
+                  <Index>
+                    <Indentatio id="id6673a7d4-c03f-4eb4-b81d-3e7aa9205d56" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>godkendelse af og tilsyn med aktiviteter i det ydre rum,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ide42e5890-e4c9-4fa5-bb7d-2fbad38220ef" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>registrering af rumgenstande og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ideb92b247-21f2-4321-8079-2db2dc0131b8" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>sikring af klarhed om aktørernes ansvar for skader forvoldt af rumgenstande.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idf1cbb226-17b6-4221-8f33-2d9a0da35e97" localId="2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="idd6c7788c-00c6-44c4-93c9-ada31ca8419d">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven finder anvendelse på rumaktiviteter, som foretages i den danske stat.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idef8390a6-5ec0-46f6-8e01-ec7cbe3290fe">
+                <Explicatus>Stk. 2. </Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven finder endvidere anvendelse på rumaktiviteter, som uden for den danske stat foretages</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id35da7b6a-c480-44d8-90ef-4b622d7a5b3e">
+                  <Index>
+                    <Indentatio id="id4640196f-bf4b-46e9-acfb-eb4ed81587ef" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>på dansk fartøj eller indretning eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id6eb6f47a-df89-4044-a22b-486840330293" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>af danske operatører.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9bb5b8e1-b2f9-4f73-8e33-43f2e4612745" localId="3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="id50c03249-84a0-413a-bc6a-9c2d3d794dbb">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan efter forhandling med forsvarsministeren og transport- og bygningsministeren fastsætte regler om, at §§ 5-9 og 11-21 og regler udstedt i medfør heraf skal finde tilsvarende anvendelse, for så vidt angår civile aktiviteter i højder under det ydre rum, som ikke er omfattet af definitionerne i § 4, nr. 1 og 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id57be0bd0-d47a-4e7c-afd3-a9e1e7b7934d" localId="2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica id="idbad5da9e-c47c-43be-a09b-9749a85399bf">
+            <Linea>
+              <Char>Definitioner</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idc5f457a8-f0bf-4f4b-a932-681925e5e46c" localId="4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="id2b09ecd5-9975-4cdd-891f-0226682384d8">
+                <Exitus>
+                  <Linea>
+                    <Char>I denne lov forstås ved:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id5f2e014d-6ba1-4d73-a4ae-0463c4afa3de">
+                  <Index>
+                    <Indentatio id="idb9c92283-10e3-4db3-8ad8-441b49e23560" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Rumaktivitet: Opsendelse af rumgenstande til det ydre rum, drift, styring af og tilbagevenden af rumgenstande til jorden samt andre aktiviteter, som er væsentlige i forbindelse hermed.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="ida3d0865a-6fed-48b1-8270-6828e3815a43" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Rumgenstand: Enhver genstand, der er opsendt eller planlægges opsendt til det ydre rum, herunder dens enkelte dele, og enhver anordning, der er anvendt eller planlægges anvendt til at opsende en genstand til det ydre rum.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id31a0bdc8-bb09-4271-bb36-4842c9a36cda" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Operatør: En fysisk eller juridisk person, der udfører eller påtager sig at udføre rumaktiviteter.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id10d90ef0-f62a-4c89-9584-3a75b698b8b8" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Ydre rum: Den del af rummet, der ligger over 100 km over havets overflade.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id7bbaea39-8d8f-417e-b118-2312a44442c0" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Ejer: En fysisk eller juridisk person, der ejer en rumgenstand.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id99d3d6d9-65d5-483a-a010-540bd452e584" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Opsendende stat: En stat, som opsender eller udvirker opsendelse af en rumgenstand, eller fra hvis territorium eller indretning en rumgenstand opsendes.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id4a789831-8e65-4951-97b7-483dee04a449" localId="3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica id="id387d4bbf-e86e-4546-a65d-83147e627577">
+            <Linea>
+              <Char>Godkendelse af rumaktiviteter</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id75a29a3b-b9a7-4dca-a3ae-308a8b491542" localId="5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="idd38fba91-c1d2-4a3c-86c9-1a7f0779fc05">
+                <Exitus>
+                  <Linea>
+                    <Char>En rumaktivitet må alene udføres efter forudgående godkendelse fra uddannelses- og forskningsministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id9bfa7198-24d1-40a8-8846-b1a29c1a1bc1" localId="6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="id86dab86e-7947-49c2-9cb5-acca1e861b00">
+                <Exitus>
+                  <Linea>
+                    <Char>Godkendelse efter § 5 sker på baggrund af ansøgning fra operatøren og forudsætter dokumentation for følgende:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="id0b57a4df-99b2-4816-b6a8-8c957a6fea84">
+                  <Index>
+                    <Indentatio id="idfa6aa3b9-ceb3-4963-ae66-aba4bbbb0bdb" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Ejerforholdene for rumgenstanden.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id392c1c1b-a03d-4b32-9b28-4be947ce4c1d" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>At operatøren har de nødvendige kvalifikationer, herunder teknisk viden og finansiel formåen til at udføre den rumaktivitet, ansøgningen vedrører.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idcc822c52-6663-4f9c-830d-be926c431135" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>At den rumaktivitet, ansøgningen vedrører, udføres sikkerhedsmæssigt betryggende og lever op til relevante standarder og retningslinjer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf0130667-6843-4781-ab77-bf9de9ca69c6" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>At operatøren har truffet passende foranstaltninger i forhold til håndtering af rumaffald.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id9cc74d75-b2cd-4a2e-9797-4c3ec58be76b" formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>At den rumaktivitet, ansøgningen vedrører, udføres miljømæssigt betryggende.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id18fcb59b-fce3-49d9-a07e-d0d0e2a12c94" formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>At den rumaktivitet, ansøgningen vedrører, ikke strider mod nationale sikkerhedsinteresser, Danmarks internationale forpligtelser eller udenrigspolitiske interesser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf3eda085-de59-4ea3-8ebb-603e6720be07" formaInd="Nummer">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>At operatøren overholder krav om forsikring eller anden sikkerhed fastsat i medfør af § 13, stk. 1, 1. pkt.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="idf078a271-c118-4065-970b-60f55fc9c5b3" formaInd="Nummer">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>At operatøren overholder gældende regler under Den Internationale Telekommunikationsunion med hensyn til frekvensallokeringer og banepositioner.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="ida92737f0-a70f-41c4-b507-b7874c7b4d3f">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved ansøgning om godkendelse skal operatøren erklære, at gældende regler om eksportkontrol er overholdt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id7f5d1f8c-99f3-4bba-ba9b-2c5a7b6c3a4e">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Operatøren er ansvarlig for rigtigheden af de oplysninger, som operatøren har afgivet ved ansøgning om godkendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id324ea6dd-a29a-455d-be1b-55cac46224dd" localId="7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="idd62bca68-e486-4e85-ba4e-9077dfb80a37">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte nærmere regler om krav vedrørende de forhold, der fremgår af § 6, stk. 1, nr. 1-6, som forudsætning for, at en rumaktivitet kan godkendes efter § 5, og nærmere regler om procedurer for ansøgning efter § 6, stk. 1 og 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id466d3837-3321-4666-8c13-e7e4776bc28c" localId="4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica id="id9ad76c76-67d7-453f-b236-1774647d2318">
+            <Linea>
+              <Char>Oplysningspligt, ændring og tilbagekaldelse</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id3f700611-d763-4a1e-8b9e-10dfbdeeea4c" localId="8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="id397e7f65-7332-4c36-b800-29e70fefe597">
+                <Exitus>
+                  <Linea>
+                    <Char>Operatøren skal ved nye eller ændrede forhold af betydning for en godkendelse meddelt efter § 5 straks og af egen drift indberette alle oplysninger herom til uddannelses- og forskningsministeren, herunder oplysninger om ikke-planlagte hændelser og om rumaktivitetens afslutning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idbee48677-a13d-41ba-9f58-3f409dba7d45" localId="9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="id4d0c745e-359f-49c0-8921-eb6a54825a3f">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan ændre en godkendelse meddelt efter § 5, hvis betingelserne for godkendelsen tilsidesættes eller de faktiske forhold nødvendiggør ændringer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf8822c49-fd57-4c4c-bb93-5e9b980a0e19">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved tilsidesættelse af væsentlige betingelser for godkendelsen kan uddannelses- og forskningsministeren tilbagekalde godkendelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved tilbagekaldelsen kan ministeren påbyde operatøren at lade rumaktiviteten videreføre ved anden operatør eller at afslutte rumaktiviteten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id96affffe-26e8-427d-a618-0ba681902cc9" localId="5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica id="ida79ef635-8084-4f05-9cbe-9302bdf8c62f">
+            <Linea>
+              <Char>Registrering</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id169040e4-c295-479c-93aa-a45351c97c7e" localId="10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="idb2a10106-b79a-47aa-993c-d485e067c696">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren opretter og fører et offentligt register over rumgenstande.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Registeret skal indeholde oplysninger om rumgenstande, der sendes i kredsløb om jorden eller længere ud i det ydre rum, og for hvilke Danmark er opsendende stat.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb512db32-dcce-4af6-b928-23a249948d40">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis både Danmark og en eller flere stater, som er omfattet af konvention af 14. januar 1975 om registrering af genstande, der sendes ud i det ydre rum, betragtes som opsendende stater, registrerer uddannelses- og forskningsministeren rumgenstanden, når det er bestemt i en aftale mellem de berørte stater.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id231a6e85-b8a9-46e4-91a0-dea5aa650afa">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren videreformidler oplysninger til FN's generalsekretær som fastsat i konventionen, der er nævnt i stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd001344a-a654-4f8a-bdd5-f5caa312b296">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren fastsætter nærmere regler om det offentlige register over rumgenstande og hvilke oplysninger operatøren skal indberette til brug for registrering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id8997604a-3f26-4fbc-bbb3-f21330bae59a" localId="6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica id="id2fd81ab7-a212-4ed4-82be-d5a9e148496c">
+            <Linea>
+              <Char>Erstatning og forsikring</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id855458c4-2b12-4cda-b777-b0c1b088ee42" localId="11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="id0a041bed-3412-40e2-b559-302e915f426b">
+                <Exitus>
+                  <Linea>
+                    <Char>Operatøren er forpligtet til at erstatte skade, som en rumgenstand forvolder på personer eller ejendom på jorden såvel som på luftfartøjer under flyvning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idc2c38f29-9601-4b0f-a0ff-b6a9c91b6d42">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For skader forvoldt af en rumgenstand i situationer, der ikke er omfattet af stk. 1, er operatøren ansvarlig efter dansk rets almindelige erstatningsregler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idf1566b9e-7c2a-4c4a-8e4d-7752923ea37f">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Har skadelidte med forsæt eller grov uagtsomhed medvirket til skaden, kan erstatningen nedsættes eller bortfalde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ided616cdc-70d4-46b4-b90e-2ad6d72653c3">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte regler om begrænsning af operatørens erstatningspligt efter stk. 1 og 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idfea26eab-69da-44ae-8188-4d1974e6f4e7" localId="12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="id75698d8b-8297-477e-ac15-c6a2e2555579">
+                <Exitus>
+                  <Linea>
+                    <Char>Har staten betalt erstatning for en skade forvoldt af en rumgenstand, kan staten gøre krav gældende mod operatøren af rumgenstanden, i det omfang operatøren er ansvarlig efter § 11, stk. 1 og 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idd4ed0344-b3e7-4b7c-a1ac-0bcc06b8fc68">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Regler om begrænsning af erstatningspligten, jf. § 11, stk. 4, finder tilsvarende anvendelse på det krav, staten kan gøre gældende mod operatøren efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id4dfd0be0-c606-42ad-8e74-8f5e2b9d9d13" localId="13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="id63d47e28-d3bd-434e-8db6-c15479580d03">
+                <Exitus>
+                  <Linea>
+                    <Char>Som betingelse for at godkende en rumaktivitet, jf. § 5, kan uddannelses- og forskningsministeren stille krav om, at operatøren tegner forsikring eller stiller anden tilsvarende sikkerhed til dækning af ansvaret efter § 11, stk. 1 og 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis der er tegnet forsikring, hæfter forsikringsselskabet umiddelbart over for skadelidte for erstatning efter § 11, stk. 1 og 2, og over for staten, i det omfang staten har adgang til regres efter § 12, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida13a99e9-6580-4c1f-90b3-76e719df7d4e">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Institutioner omfattet af statens selvforsikringsordning er undtaget fra forsikringspligten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id36a8dad1-e2b0-4cbc-a585-7f1f6da864a6">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte nærmere regler om forsikringspligtens omfang og gennemførelse og om anden sikkerhed, jf. stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idfd5d8f1f-a36f-429a-bb27-7d58f23b615a" localId="14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="id9a00eb01-dff5-4711-b17d-4350513dd733">
+                <Exitus>
+                  <Linea>
+                    <Char>Anlægger skadelidte eller staten sag mod forsikringsselskabet, skal selskabet tilsige operatøren til ethvert retsmøde med det varsel, som efter retsplejeloven gælder for vidner i borgerlige sager.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilsigelsen skal indeholde oplysning om reglerne i stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id13f51afa-9364-4d69-91d0-88b5f37f6ae7">
+                <Explicatus>Stk. 2. </Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En operatør, der tilsiges efter stk. 1, kan ved at fremsætte begæring herom til retsbogen indtræde som part i sagen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Indtræder operatøren ikke, er afgørelsen af erstatningsspørgsmålet ved dom eller forlig bindende for operatøren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id9505a52e-5fba-4e88-843d-da5f4a14c3ea" localId="7">
+          <Explicatus>Kapitel 7</Explicatus>
+          <Rubrica id="idd8aed10c-1299-41fd-88e5-4c976cbc4c65">
+            <Linea>
+              <Char>Overførsel af rumgenstande eller rumaktiviteter</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id587df2ca-24c0-4127-8cf5-f910bba9183b" localId="15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="idca5c66a6-2b5f-49a0-aea1-996a3560088f">
+                <Exitus>
+                  <Linea>
+                    <Char>Overførsel af rumgenstande eller rumaktiviteter til anden ejer eller operatør må alene ske efter forudgående godkendelse fra uddannelses- og forskningsministeren i henhold til kapitel 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id95d307d9-af0f-4c50-9499-194aa31b844a">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I det omfang der ønskes overførsel til ejer eller operatør hjemmehørende i en anden stat, kan uddannelses- og forskningsministeren stille krav om forudgående aftale med denne stat om overtagelse af erstatningsansvaret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id0b3437d2-fe82-4393-b5b6-1b7889723bf4" localId="8">
+          <Explicatus>Kapitel 8</Explicatus>
+          <Rubrica id="id9b10c88c-0894-4eb7-ad9e-c1ab710b037c">
+            <Linea>
+              <Char>Tilsyn, dispensation og bemyndigelse</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="id926ca89e-9ff4-4afb-932c-0300239eb83d" localId="16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="id04169ce9-95f3-4dc4-985a-5d201861bd62">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren fører tilsyn med, at denne lov og regler fastsat i medfør heraf overholdes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id64691b66-a624-4f59-924c-e566f3ea4bb0">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ejere og operatører skal på anmodning fra uddannelses- og forskningsministeren afgive enhver oplysning, som er nødvendig for udøvelsen af tilsynsforpligtelsen efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id96bb45ff-d23c-450a-b885-ceb4cfc3bcaa" localId="17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="iddf5fa412-8d97-467a-bea7-eb4bd7181958">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren eller den, ministeren bemyndiger dertil, har til enhver tid mod behørig legitimation og uden retskendelse adgang til operatørens anlæg, virksomhed eller øvrige lokaliteter for at tilvejebringe oplysninger til brug for gennemførelse af tilsyn efter § 16.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idde5417b8-aff2-41af-8750-23e19eb4e0e4" localId="18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="ide24e626e-9a88-46b9-8fb8-98d31e1b2ab9">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan meddele dispensation til statslige ejere eller operatører fra kravet om godkendelse efter § 5 og kravet om tilsyn efter §§ 16 og 17.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="idee00dfa4-b45c-4a18-bcd7-c00abca666d2" localId="19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="id67da8738-0213-4194-b478-189e9af7deb4">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte regler om kommunikation på andre sprog end dansk og om digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater, digital signatur m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idcfaf76f5-2455-4877-8726-4d25de6d45bf">
+                <Explicatus>Stk. 2. </Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan endvidere fastsætte regler om dækning af Uddannelses- og Forskningsministeriets omkostninger ved</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus id="idb9d71714-f6e8-4aa4-9ebe-4288b433ce24">
+                  <Index>
+                    <Indentatio id="id6ce41722-9cf1-4108-93df-71a7dbf85f4f" formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ansøgningsbehandlingen, jf. kapitel 3,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id4b244ca9-e236-42fe-9052-fa661d3d9466" formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ændring og tilbagekaldelse, jf. kapitel 4,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id3b5048a4-edff-4fde-b889-bfa91266ce88" formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>overførsel af rumgenstande eller rumaktiviteter, jf. kapitel 7, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio id="id8a56bde8-04c5-4095-8c8a-c4ccb9f1898b" formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>gennemførelse af tilsyn, jf. §§ 16 og 17.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="ide22ca6f0-8d79-4b93-8f5d-5022a2093db4" localId="20">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="id5b80643d-1437-4ff8-b8a0-2ae95f6f6656">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan bemyndige en statslig myndighed under ministeriet eller andre statslige myndigheder efter forhandling med vedkommende minister til at udøve de beføjelser, der i denne lov er tillagt uddannelses- og forskningsministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida1f497ab-b350-42c2-8db5-48dc94cbd975">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte regler om adgangen til at påklage afgørelser, der er truffet i henhold til bemyndigelse efter stk. 1, herunder at afgørelserne ikke skal kunne påklages.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id22244111-c47a-4e3e-b907-200a25a52247">
+                <Explicatus>Stk. 3. </Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte nærmere regler om udøvelsen af de beføjelser, som en anden statslig myndighed efter forhandling med vedkommende minister bliver bemyndiget til at udøve efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id87e5b5b3-095f-4207-9ffd-0063323f8d65" localId="9">
+          <Explicatus>Kapitel 9</Explicatus>
+          <Rubrica id="idcb1f648f-e331-47e9-bee7-5e724a976184">
+            <Linea>
+              <Char>Straffebestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idd18ed7a2-490d-43c1-a8ac-d9b33f5e56eb" localId="21">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="idbda2f3cb-9351-4eae-8610-f2de1995d5b3">
+                <Exitus>
+                  <Linea>
+                    <Char>Overtrædelse af lovens § 5, § 8, § 9, stk. 2, 2. pkt., § 15, stk.1, eller § 16, stk. 2, og manglende overholdelse af krav om forsikringsdækning eller anden tilsvarende sikkerhedsstillelse, jf. § 13, stk. 1, 1. pkt., straffes med bøde eller fængsel indtil 4 måneder, medmindre højere straf er forskyldt efter den øvrige lovgivning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idccb9c92f-489a-42ab-a28f-d801639db3a4">
+                <Explicatus>Stk. 2. </Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved forsætlige overtrædelser og under særlig skærpende omstændigheder kan straffen stige til fængsel indtil 2 år.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Som særlig skærpende omstændigheder anses navnlig tilfælde, hvor andres liv eller legeme udsættes for fare, eller hvor der er tale om overtrædelser af mere systematisk karakter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id8d088397-a9ed-4c47-ad90-f55417217b74">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I forskrifter, der udstedes i medfør af § 10, stk. 4, kan der fastsættes straf af bøde eller fængsel i indtil 4 måneder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="idb7df546f-a295-4404-a9a0-1ba0fef3ee55">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="id869c1d05-fcf6-4bf9-a7fd-61af26f8da2a" localId="10">
+          <Explicatus>Kapitel 10</Explicatus>
+          <Rubrica id="ida3dd612e-0f54-4ebe-9879-76f81e7ebe6c">
+            <Linea>
+              <Char>Ikrafttræden og overgangsbestemmelser m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe>
+            <Paragraf id="idde9d0fd6-ec25-4fc6-a80b-2b49b0e241be" localId="22">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="id001d9141-eb28-4c37-bda0-026698f3a5ba">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. juli 2016.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="id6832f9aa-f6bb-4503-82e3-9bf5aeb299dc">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Rumgenstande, der er opsendt inden lovens ikrafttræden, skal efterregistreres i overensstemmelse med bestemmelserne i kapitel 5 senest den 31. december 2016.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="ida337aaf5-5579-491e-8e42-95d5f4660387">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kapitel 6 finder ikke anvendelse på rumgenstande, der opsendes senest den 30. juni 2017.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="id70ebee81-5d9b-473c-b188-5b61913dfe6f" localId="23">
+              <Explicatus>§ 23.</Explicatus>
+              <Stk id="id8d658f73-c352-491c-9476-3ff7c45da2fd">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne og Grønland med de ændringer, som de færøske og grønlandske forhold tilsiger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idfa7e8137-67ed-49cb-b877-c5919db2d0d3">
+    <UnderskriftStedDato id="ide6eeeb47-7191-4b22-a0f8-6f6e0ee53623" />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver id="id63616f51-53c8-4f92-a053-f606ad1843aa" />
+  </UnderskriftGruppe>
+</Dokument>

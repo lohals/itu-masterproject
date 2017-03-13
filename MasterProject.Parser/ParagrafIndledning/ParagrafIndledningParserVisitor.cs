@@ -11,7 +11,7 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.ParagrafIndledning
     {
         public override ParagrafIndledningModel VisitParagrafIndledning([NotNull] Grammar.ParagrafIndledningParser.ParagrafIndledningContext context)
         {
-            var dokumentPhraseContext = context.dokumentPhrase();
+            var dokumentPhraseContext = context.dokumentPhraseType1();
             var dokument = dokumentPhraseContext.Accept(new DocumentPhraseVisitor());
              return new ParagrafIndledningModel
             {
