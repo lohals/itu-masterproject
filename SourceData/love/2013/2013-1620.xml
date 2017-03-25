@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2013/08/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20130162030</AccessionNumber>
+    <DocumentId>AA007535</DocumentId>
+    <UniqueDocumentId>161080</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af straffeloven\n(Forhøjet strafferamme for grov dopingkriminalitet)</DocumentTitle>
+    <Year>2013</Year>
+    <DiesSigni>2013-12-26</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2014-07-29</EndDate>
+    <Status>Historic</Status>
+    <Number>1620</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 871 af 04/07/2014</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1620 af 26/12/2013</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2014-07-07</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Karen Hækkerup</Signature>
+    <PlaceOfSignature>Givet på Marselisborg Slot</PlaceOfSignature>
+    <JournalNumber>Justitsmin., j.nr. 2013-19203-0214</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af straffeloven</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Forhøjet strafferamme for grov dopingkriminalitet)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I straffeloven, jf. lovbekendtgørelse nr. 1028 af 22. august 2013, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 191 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 191 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Den, som i strid med lov om forbud mod visse dopingmidler til et større antal personer, mod betydeligt vederlag eller under andre særligt skærpende omstændigheder overdrager dopingmidler, straffes med fængsel indtil 6 år.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>På samme måde straffes den, der i strid med lov om forbud mod visse dopingmidler fremstiller, indfører, udfører, udleverer, fordeler eller besidder sådanne dopingmidler med forsæt til at overdrage dem som nævnt i stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2014.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

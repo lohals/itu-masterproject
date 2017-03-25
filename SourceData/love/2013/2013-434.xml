@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2012/09/21/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20130043430</AccessionNumber>
+    <DocumentId>AA007094</DocumentId>
+    <UniqueDocumentId>146543</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af straffeloven, udlændingeloven og lov om tilhold, opholdsforbud og bortvisning\n(Styrket indsats mod tvang i forbindelse med ægteskaber og religiøse vielser)</DocumentTitle>
+    <Year>2013</Year>
+    <DiesSigni>2013-05-01</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-11-08</EndDate>
+    <Status>Valid</Status>
+    <Number>434</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 863 af 25/06/2013</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1028 af 22/08/2013</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 434 af 01/05/2013</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Morten Bødskov</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Justitsmin., j.nr. 2012-731-0022</JournalNumber>
+    <Ministry>Udlændinge-, Integrations- og Boligministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af straffeloven, udlændingeloven og lov om tilhold, opholdsforbud og bortvisning</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Styrket indsats mod tvang i forbindelse med ægteskaber og religiøse vielser)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I straffeloven, jf. lovbekendtgørelse nr. 1007 af 24. oktober 2012, som ændret ved § 2 i lov nr. 1242 af 18. december 2012 og § 2 i lov nr. 1385 af 23. december 2012, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 260, stk. 2,</Char>
+                <Char> indsættes efter »ægteskab«: »eller til en religiøs vielse uden borgerlig gyldighed«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I udlændingeloven, jf. lovbekendtgørelse nr. 984 af 2. oktober 2012, som ændret bl.a. ved § 1 i lov nr. 571 af 18. juni 2012 og senest ved § 1 i lov nr. 572 af 18. juni 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 9 f</Char>
+                <Char> indsættes efter stk. 4 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis ansøgeren som led i sit virke foretager eller vil foretage vielser med eller uden borgerlig gyldighed, skal forlængelse af opholdstilladelse efter stk. 1 endvidere betinges af, at ansøgeren inden 6 måneder efter meddelelsen af opholdstilladelsen har gennemført et undervisningsforløb om dansk familieret.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det påhviler ansøgeren at fremlægge dokumentation herfor.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Fristen på 6 måneder kan efter ansøgning forlænges ved lovligt forfald.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 5-7 bliver herefter stk. 6-8.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 9 h, stk. 4,</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 33, stk. 5,</Char>
+                <Char> ændres »§ 9 f, stk. 7,« til: »§ 9 f, stk. 8,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 19, stk. 1, nr. 9,</Char>
+                <Char> ændres »§ 9 f, stk. 5,« til: »§ 9 f, stk. 6,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22, nr. 7,</Char>
+                <Char> indsættes efter »ægteskab«: »eller til en religiøs vielse uden borgerlig gyldighed«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 52 b, stk. 1, nr. 3,</Char>
+                <Char> indsættes efter »jf. nr. 1 og 2,«: »herunder afgørelser om lovligt forfald, jf. § 9 f, stk. 5,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 112 af 3. februar 2012 om tilhold, opholdsforbud og bortvisning foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilhold kan derudover gives, hvis en person med rimelig grund mistænkes for at have begået eller forsøgt at begå en overtrædelse af straffelovens bestemmelse om ulovlig tvang ved at tvinge en anden til ægteskab eller en religiøs vielse uden borgerlig gyldighed.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Politidirektøren kan uanset betingelserne i § 14 træffe afgørelse om tilhold efter 1. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4, nr. 1,</Char>
+                <Char> ændres »§ 2, stk. 2,« til: »§ 2, stk. 2 eller 3,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 4</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 2, nr. 1-3 og 5, træder i kraft den 1. oktober 2013.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 2, nr. 1, finder alene anvendelse for udlændinge, der meddeles opholdstilladelse efter lovens ikrafttræden.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 2, nr. 4, finder alene anvendelse, hvis det forhold, der begrunder udvisningen, er begået efter lovens ikrafttræden.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 5</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Fær­øerne, men § 2 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Grønland, men §§ 2 og 3 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

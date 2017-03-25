@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2014/09/26/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20140149330</AccessionNumber>
+    <DocumentId>AA008543</DocumentId>
+    <UniqueDocumentId>167196</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om erstatningsansvar\n(Ændring af beregningsprincipperne for erhvervsevnetabserstatning til unge under uddannelse)</DocumentTitle>
+    <Year>2014</Year>
+    <DiesSigni>2014-12-23</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2014-12-24</EndDate>
+    <Status>Valid</Status>
+    <Number>1493</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1493 af 23/12/2014</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Mette Frederiksen</Signature>
+    <PlaceOfSignature>Givet på Fredensborg Slot</PlaceOfSignature>
+    <JournalNumber>Justitsmin., j.nr. 2014-702-0052</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om erstatningsansvar</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Ændring af beregningsprincipperne for erhvervsevnetabserstatning til unge under uddannelse)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om erstatningsansvar, jf. lovbekendtgørelse nr. 266 af 21. marts 2014, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 7, stk. 2,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>For en skadelidt, som er optaget på en gymnasial uddannelse eller på den grundlæggende del af en erhvervsuddannelse, fastsættes årslønnen på baggrund af normalårslønnen i § 8, medmindre der konkret er grundlag for at foretage et skøn i medfør af 1. pkt.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven finder ikke anvendelse på skader, der er indtrådt inden lovens ikrafttræden.</Char>
+          </Linea>
+          <Linea>
+            <Char>For sådanne skader finder de hidtil gældende regler anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

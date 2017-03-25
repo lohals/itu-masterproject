@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2011/03/21/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20110029330</AccessionNumber>
+    <DocumentId>AL002425</DocumentId>
+    <UniqueDocumentId>136714</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om vandløb\n(Nedklassifikation af vandløb)</DocumentTitle>
+    <Year>2011</Year>
+    <DiesSigni>2011-04-11</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-02</EndDate>
+    <Status>Historic</Status>
+    <Number>293</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1208 af 30/09/2013</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 293 af 11/04/2011</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2013-10-18</DateOfHistoricMark>
+    <Subject>vandløb</Subject>
+    <Subject>Nedklassificering</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Karen Ellemann</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Miljømin.,  j.nr. NST-400-00034</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om vandløb</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Nedklassifikation af vandløb)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om vandløb, jf. lovbekendtgørelse nr. 927 af 24. september 2009, som ændret ved § 4 i lov nr. 1519 af 27. december 2009 og § 5 i lov nr. 484 af 11. maj 2010, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 10</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 10. </Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Vandløbsmyndigheden kan træffe afgørelse om at optage private vandløb som offentlige vandløb.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Vandløbsmyndigheden kan efter regler fastsat af miljøministeren træffe afgørelse om at nedklassificere offentlige vandløb til private vandløb.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>De offentlige vandløb, som vandløbsmyndigheden i tidsrummet fra den 15. december 2010 til lovens ikrafttræden beslutter at nedklassificere til private vandløb, optages som offentlige vandløb ved lovens ikrafttræden.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

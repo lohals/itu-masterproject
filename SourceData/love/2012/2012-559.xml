@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2012/03/12/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20120055930</AccessionNumber>
+    <DocumentId>BR000078</DocumentId>
+    <UniqueDocumentId>141972</UniqueDocumentId>
+    <DocumentTitle>Lov om ophævelse af lov om Teknologirådet og om ændring af lov om Det Etiske Råd\n(Ændring som følge af nedlæggelse af Teknologirådet)</DocumentTitle>
+    <Year>2012</Year>
+    <DiesSigni>2012-06-18</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2014-07-02</EndDate>
+    <Status>Valid</Status>
+    <Number>559</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 559 af 18/06/2012</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Subject>Teknologirådet</Subject>
+    <Subject>Det Etiske råd</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Morten Østergaard</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Ministeriet for Forskning, Innovation og Videregående Uddannelser,\nStyrelsen for Forskning og Innovation, j.nr. 11-120197</JournalNumber>
+    <Ministry>Uddannelses- og Forskningsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ophævelse af lov om Teknologirådet og om ændring af lov om Det Etiske Råd</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Ændring som følge af nedlæggelse af Teknologirådet)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 375 af 14. juni 1995 om Teknologirådet ophæves.</Char>
+        </Linea>
+      </Exitus>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 440 af 9. juni 2004 om Det Etiske Råd, som ændret ved § 16 i lov nr. 545 af 24. juni 2005 og § 45 i lov nr. 593 af 14. juni 2011, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 9, stk. 1,</Char>
+                <Char> udgår », Teknologirådet«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Ministeriet for Forskning, Innovation og Videregående Uddannelser overtager ved lovens ikrafttræden alle Teknologirådets aktiver og passiver og indtræder i alle rådets rettigheder og forpligtelser.</Char>
+          </Linea>
+          <Linea>
+            <Char>Ministeren for forskning, innovation og videregående uddannelser afbeskikker Teknologirådets hidtidige bestyrelse og repræsentantskab og forestår afviklingen af rådets aktiviteter.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 4</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+          </Linea>
+          <Linea>
+            <Char>§ 2 kan dog ved kongelig anordning sættes i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

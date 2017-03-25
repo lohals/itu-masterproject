@@ -1,0 +1,805 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2009/09/14/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20110015930</AccessionNumber>
+    <DocumentId>AL002400</DocumentId>
+    <UniqueDocumentId>136074</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om et testcenter for store vindmøller ved Østerild\n(Ekspropriation af eksisterende produktionsvindmøller m.v.)</DocumentTitle>
+    <Year>2011</Year>
+    <DiesSigni>2011-03-01</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-02</EndDate>
+    <Status>Historic</Status>
+    <Number>159</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1500 af 08/12/2015</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 159 af 01/03/2011</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2015-12-11</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">I Dronningens Navn:\nFREDERIK\nKronprins</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Karen Ellemann</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Miljømin.,\nNaturstyrelsen, j.nr. NST-100-00021</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om et testcenter for store vindmøller ved Østerild</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Ekspropriation af eksisterende produktionsvindmøller m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 647 af 15. juni 2010 om et testcenter for store vindmøller ved Østerild foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 1, stk. 3,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">3. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Området består endvidere af et støjkonsekvensområde, jf. bilag 2, jf. dog § 25, stk. 3.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 15, stk. 1,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Ministeren kan endvidere erhverve vindmøller, når det er nødvendigt for at begrænse støjbelastningen fra vindmøller omkring møllerne på testcenteret.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 15</Char>
+                <Char> indsættes efter stk. 2 som nye stykker:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøministeren kan endvidere ekspropriere fast ejendom inden for støjkonsekvensområdet, når det er nødvendigt for at begrænse støjbelastningen fra vindmøller omkring møllerne på testcenteret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøministeren, den driftsansvarlige, jf. § 2, stk. 1, og personer med bemyndigelse fra miljøministeren har mod behørig legitimation uden retskendelse adgang til den pågældende ejendom for at foretage de nødvendige tekniske forarbejder m.v. til brug for forberedelse og gennemførelse af beslutninger om opkøb af vindmøller med henblik på nedtagning efter stk. 1 eller ekspropriation med henblik på nedtagning efter stk. 3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Adgang sker efter forudgående underretning af ejeren eller brugeren af ejendommen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Stk. 3-10 bliver herefter stk. 5-12.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 15, stk. 6,</Char>
+                <Char> der bliver stk. 8, ændres »stk. 5« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»stk. 7«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 15, stk. 7-9,</Char>
+                <Char> der bliver stk. 9-11, ændres »stk. 4« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»stk. 6«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 22.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Kommunalbestyrelsen må ikke meddele tilladelse efter den øvrige lovgivning til opførelse eller ændring af vindmøller inden for støjkonsekvensområdet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen må kun meddele tilladelse efter den øvrige lovgivning til opførelse af vindmøller i den del af beskyttelseszonen, der ligger uden for støjkonsekvensområdet, hvis beskyttelseszonens funktion ikke derved ændres eller påvirkes negativt i forhold til testcenteret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når vindmøller ønskes opført eller ændret uden for støjkonsekvensområdet, skal det beregnede samlede støjbidrag fra testcenteret, som det fremgår af bilag 3, lægges til grund ved vurdering af, om kravene i reglerne om støj fra vindmøller er overholdt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samme gælder ved udførelse af tilsyn med de i 1. pkt. nævnte vindmøller efter reglerne om støj fra vindmøller.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved vurderingen af støj fra testcenteret efter reglerne om støj fra vindmøller skal det lægges til grund, at der ikke er områder inden for støjkonsekvensområdet, der er karakteriseret som støjfølsom arealanvendelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beboelse m.v., der etableres efter den 3. marts 2011, er uden betydning for vurdering af støj fra testcenteret efter reglerne om støj fra vindmøller.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen må kun meddele tilladelse efter den øvrige lovgivning til at opføre bygninger af mere end 12 meters højde i vindfeltet, hvis vindfeltets funktion ikke derved ændres eller påvirkes negativt i forhold til testcenteret.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilsvarende gælder for kommunalbestyrelsens adgang til at meddele tilladelse til at opføre tekniske anlæg i vindfeltet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Uanset bestemmelsen i 1. pkt. må der opføres bygninger, der opføres som tilbygninger eller bygninger i tilknytning til eksisterende byggeri.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der må ikke udlægges nye arealer til byzone, sommerhusområde, skovrejsning eller anden arealanvendelse i vindfeltet, hvis vindfeltets funktion derved ændres eller påvirkes negativt i forhold til testcenteret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der må ikke ved lokalplan udlægges arealer til støjfølsom arealanvendelse inden for støjkonsekvensområdet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samme gælder uden for støjkonsekvensområdet, hvis et område inden for støjkonsekvensområdet dermed bliver et område med støjfølsom arealanvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsens afgørelser, som er nævnt i stk. 1, 2 og 5, kan påklages efter reglerne i den lovgivning, som afgørelsen i øvrigt er truffet i henhold til.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 25</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøministeren kan udtage arealer af støjkonsekvensområdet, hvis der nedtages vindmøller ved Danopal (Frøstruplejren) og Hjardemål.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter bilag 1 indsættes </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">bilag 2</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">3,</Char>
+                <Char> der affattes som henholdsvis bilag 1 og bilag 2 til denne lov.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 3. marts 2011.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+  <Bilag id="Bil1">
+    <Explicatus>Bilag 1</Explicatus>
+    <BilagIndhold>
+      <TekstGruppe>
+        <Exitus formaForma="TekstoverskriftB" formaEx="Right">
+          <Linea>
+            <Char>»Bilag 2</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Image alt="nyt kort Size: (567 X 804)" border="no" height="804" name="nyt kort" src="AL2400_1_0.png" width="567" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" />
+          <Linea>
+            <Char>«</Char>
+          </Linea>
+        </Exitus>
+      </TekstGruppe>
+    </BilagIndhold>
+  </Bilag>
+  <Bilag id="Bil2">
+    <Explicatus>Bilag 2</Explicatus>
+    <BilagIndhold>
+      <TekstGruppe>
+        <Exitus formaForma="TekstoverskriftB" formaEx="Right">
+          <Linea>
+            <Char>»Bilag 3</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="TekstoverskriftVenstreN">
+          <Linea>
+            <Char>Det beregnede samlede støjbidrag fra det nationale testcenter, jf. § 22, stk. 3.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tekst">
+          <Linea>
+            <Char>Når vindmøller ønskes opført eller ændret uden for støjkonsekvensområdet, skal følgende oplysninger om støj fra testcenteret lægges til grund ved vurdering af, om kravene i Miljøministeriets regler om støj fra vindmøller er overholdt for de planlagte eller ændrede møller.</Char>
+          </Linea>
+          <Linea>
+            <Char>Det samme gælder ved udførelse af tilsyn efter Miljøministeriets regler om støj fra vindmøller for de pågældende møller.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tekst">
+          <Linea>
+            <Char>Tabellerne angiver den A-vægtede kildestyrke for hver af testcenterets vindmøller i dB re 1 pW i hvert oktavbånd.</Char>
+          </Linea>
+          <Linea>
+            <Char>Koordinaterne for møllerne er angivet i UTM32, ED50.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tekst">
+          <Linea>
+            <Char>For de seks sydligste af testcenterets syv møller ved henholdsvis 6 m/s og 8 m/s vindhastighed i 10 m's højde er kildestyrken:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Table width="643" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; SchultzColumns: 101 67 69 69 69 72 72 61 61;" cellspacing="0">
+            <Tr>
+              <Td width="101" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Oktavbånd</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="67" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>63 Hz</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="69" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>125 Hz</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="69" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>250 Hz</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="69" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>500 Hz</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="72" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>1000 Hz</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="72" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>2000 Hz</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="61" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>4000 Hz</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="61" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>8000 Hz</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td width="101" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>6 m/s</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="67" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>92,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="69" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>101,8</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="69" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>104,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="69" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>105,5</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="72" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>104,4</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="72" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>101,1</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="61" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>92,4</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="61" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>79,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td width="101" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>8 m/s</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="67" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>94,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="69" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>103,8</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="69" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>106,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="69" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>107,5</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="72" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>106,4</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="72" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>103,1</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="61" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>94,4</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="61" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>81,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+          </Table>
+        </Exitus>
+        <Exitus formaForma="Tekst">
+          <Linea>
+            <Char>Testpladserne har følgende koordinater:</Char>
+          </Linea>
+          <Linea>
+            <Char>(493050;</Char>
+          </Linea>
+          <Linea>
+            <Char>6323390) (493050;</Char>
+          </Linea>
+          <Linea>
+            <Char>6323990) (493050;</Char>
+          </Linea>
+          <Linea>
+            <Char>6324590) (493050;</Char>
+          </Linea>
+          <Linea>
+            <Char>6325190) (493050;</Char>
+          </Linea>
+          <Linea>
+            <Char>6325790) (493050;</Char>
+          </Linea>
+          <Linea>
+            <Char>6326390).</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tekst">
+          <Linea>
+            <Char>For den nordligste af møllerne er kildestyrken:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Table style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; SchultzColumns: 101 67 69 69 69 72 73 61 61;" cellspacing="0" width="642">
+            <Tr>
+              <Td width="101" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>Oktavbånd</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="67" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>63 Hz</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="69" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>125 Hz</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="69" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>250 Hz</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="69" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>500 Hz</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="72" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>1000 Hz</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="73" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>2000 Hz</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="61" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>4000 Hz</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="61" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>8000 Hz</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td width="101" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>6 og 8 m/s</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="67" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>86,4</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="69" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>95,3</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="69" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>98,4</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="69" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>99,0</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="72" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>97,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="73" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>94,6</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="61" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>85,9</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+              <Td width="61" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; ">
+                <Exitus formaForma="TabelTekst">
+                  <Linea>
+                    <Char>73,4</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+          </Table>
+        </Exitus>
+        <Exitus formaForma="Tekst">
+          <Linea>
+            <Char>Den nordligste testplads har følgende koordinater:</Char>
+          </Linea>
+          <Linea>
+            <Char>(493050;</Char>
+          </Linea>
+          <Linea>
+            <Char>6326990).</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tekst">
+          <Linea>
+            <Char>For samtlige testpladser skal der lægges en navhøjde på 150 m til grund.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="Tekst" formaEx="Right">
+          <Linea>
+            <Char>«</Char>
+          </Linea>
+        </Exitus>
+      </TekstGruppe>
+    </BilagIndhold>
+  </Bilag>
+</Dokument>

@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2009/09/14/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20100040630</AccessionNumber>
+    <DocumentId>AJ000453</DocumentId>
+    <UniqueDocumentId>131517</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om menighedsråd og lov om folkekirkens økonomi\n(Samarbejde mellem menighedsråd m.v.)</DocumentTitle>
+    <Year>2010</Year>
+    <DiesSigni>2010-04-21</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2014-07-02</EndDate>
+    <Status>Valid</Status>
+    <Number>406</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 583 af 31/05/2010</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 584 af 31/05/2010</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 406 af 21/04/2010</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Birthe Rønn Hornbech</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Kirkemin., dok. nr. 657833/09</JournalNumber>
+    <Ministry>Kirkeministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om menighedsråd og lov om folkekirkens økonomi</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Samarbejde mellem menighedsråd m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om menighedsråd, jf. lovbekendtgørelse nr. 79 af 2. februar 2009, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 1, stk. 3,</Char>
+                <Char> affattes således: </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>To eller flere menighedsråd i et pastorat kan oprette et fælles menighedsråd, når det besluttes på et menighedsmøde i hvert af sognene, jf. kapitel 7.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, stk. 3, 3.-5. pkt.,</Char>
+                <Char> ophæves. </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2</Char>
+                <Char> indsættes efter stk. 3 som nyt stykke: </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Har to eller flere sogne fælles menighedsråd, fastsætter det fælles menighedsråd antallet af valgte medlemmer i rådet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Rådet må dog højst bestå af summen af det antal valgte medlemmer, som de deltagende menighedsråd enkeltvis er berettiget til, jf. stk. 3, og skal mindst bestå af det antal valgte medlemmer, som det samlede antal folkekirkemedlemmer i de deltagende sogne ville berettige til, jf. stk. 3, hvis sognene udgjorde én samlet menighedsrådskreds.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvert sogn skal mindst have 1 valgt medlem.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Menighedsrådet skal meddele biskoppen antallet af medlemmer af det fælles menighedsråd og fordelingen af medlemmer mellem de deltagende sogne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Stk. 4 bliver herefter stk. 5.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 10, stk. 1,</Char>
+                <Char> indsættes som  </Char>
+                <Char formaChar="Italic">3. pkt.: </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Har to eller flere sogne fælles menighedsråd, kan der vælges en kirkeværge for hver kirke.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 43 a</Char>
+                <Char> ændres »§ 17 g, stk. 3« til: »§ 17 g, stk. 4«. </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 43 a indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 43 b.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>De i § 43, stk. 1-5, nævnte regler om samarbejde mellem menighedsråd finder tilsvarende anvendelse på samarbejde mellem stiftsøvrighed og provstiudvalg, mellem to eller flere stiftsøvrigheder, mellem to eller flere provstiudvalg og mellem menighedsråd og en eller flere stiftsøvrigheder eller provstiudvalg.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Den i § 43, stk. 6, nævnte regel om dispensation fra dele af den kirkelige lovgivning til et menighedsråd finder tilsvarende anvendelse på et provstiudvalg eller en stiftsøvrighed, hvis det er ønskeligt af hensyn til løsningen af folkekirkelige opgaver i henholdsvis provstiet eller stiftet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 44</Char>
+                <Char> affattes således: </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 44.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Til fremme af samarbejdsprojekter i henhold til dette kapitel kan kirkeministeren yde tilskud af fællesfonden for 1 år ad gangen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>De samlede tilskud kan ikke overstige 1 pct. af landskirkeskatten i det år, for hvilket tilskud ydes.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om folkekirkens økonomi, jf. lovbekendtgørelse nr. 560 af 17. juni 2009, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Overskriften til </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">kapitel 6</Char>
+                <Char> affattes således: </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst overskriftAfType="ParagrafGruppe">
+              <Rubrica>
+                <Linea>
+                  <Char>Udveksling af data mellem it-systemer</Char>
+                </Linea>
+              </Rubrica>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 24</Char>
+                <Char> ophæves. </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. oktober 2010.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 4</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

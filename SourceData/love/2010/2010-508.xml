@@ -1,0 +1,827 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2009/09/14/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20100050830</AccessionNumber>
+    <DocumentId>BE004182</DocumentId>
+    <UniqueDocumentId>131901</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om arbejdsmiljø\n(Samarbejde om sikkerhed og sundhed m.v.)</DocumentTitle>
+    <Year>2010</Year>
+    <DiesSigni>2010-05-19</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2015-01-20</EndDate>
+    <Status>Historic</Status>
+    <Number>508</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1072 af 07/09/2010</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 508 af 19/05/2010</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2010-09-17</DateOfHistoricMark>
+    <EuReferences>31989L0391</EuReferences>
+    <Subject>Arbejdsmiljø</Subject>
+    <Subject>Sikkerhedsorganisation</Subject>
+    <Subject>Sikkerhedsgrupper</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Inger Støjberg</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Beskæftigelsesmin.,\nArbejdstilsynet, j.nr. 20090054829</JournalNumber>
+    <Ministry>Beskæftigelsesministeriet</Ministry>
+    <AdministrativeAuthority>Arbejdstilsynet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om arbejdsmiljø</Char>
+      </Linea>
+      <Nota formaNo="EU" id="Not1">
+        <Explicatus>1)</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 89/391/EØF af 12. juni 1989 om iværksættelse af foranstaltninger til forbedring af arbejdstagernes sikkerhed og sundhed, (EF-Tidende 1989, L 183 s. 1).</Char>
+          </Linea>
+        </Exitus>
+      </Nota>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Samarbejde om sikkerhed og sundhed m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om arbejdsmiljø, jf. lovbekendtgørelse nr. 268 af 18. marts 2005, som ændret ved lov nr. 300 af 19. april 2006, lov nr. 175 af 27. februar 2007, § 29 i lov nr. 512 af 6. juni 2007, § 39 i lov nr. 106 af 26. februar 2008, lov nr. 559 af 17. juni 2008, lov nr. 1395 af 27. december 2008, § 7 i lov nr. 482 af 12. juni 2009 og § 2 i lov nr. 1272 af 16. december 2009, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Overskriften </Char>
+                <Char formaChar="Italic" signiChar="AendringURN" />
+                <Char> til </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">kapitel 2</Char>
+                <Char> affattes således: </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst overskriftAfType="ParagrafGruppe">
+              <Rubrica>
+                <Linea>
+                  <Char>Samarbejde om sikkerhed og sundhed</Char>
+                </Linea>
+              </Rubrica>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§§ 5-9</Char>
+                <Char> affattes således: </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst overskriftAfType="ParagrafGruppe">
+              <Rubrica>
+                <Linea>
+                  <Char>Samarbejde</Char>
+                </Linea>
+              </Rubrica>
+              <Paragraf>
+                <Explicatus>§ 5.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Sikkerheds- og sundhedsarbejdet i den enkelte virksomhed varetages gennem samarbejde mellem arbejdsgiveren, arbejdslederne og de øvrige ansatte.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <ParagrafGruppe>
+                <Rubrica>
+                  <Linea>
+                    <Char>Arbejdsmiljøorganisation</Char>
+                  </Linea>
+                </Rubrica>
+                <Paragraf>
+                  <Explicatus>§ 6.</Explicatus>
+                  <Stk>
+                    <Exitus>
+                      <Linea>
+                        <Char>I virksomheder med 1-9 ansatte skal samarbejdet om sikkerhed og sundhed ske ved løbende direkte kontakt og dialog mellem arbejdsgiveren, de ansatte og eventuelle arbejdsledere.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>Beskæftigelsesministeren kan fastsætte nærmere regler om opbygning af en arbejdsmiljøorganisation i visse brancher eller typer af virksomheder.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                </Paragraf>
+                <Paragraf>
+                  <Explicatus>§ 6 a.</Explicatus>
+                  <Stk>
+                    <Exitus>
+                      <Linea>
+                        <Char>I virksomheder med 10-34 ansatte skal samarbejdet om sikkerhed og sundhed organiseres i en arbejdsmiljøorganisation bestående af 1 eller flere arbejdsledere og 1 eller flere valgte arbejdsmiljørepræsentanter med arbejdsgiveren eller en repræsentant for denne som formand.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>Arbejdsmiljøorganisationen varetager både de daglige og de overordnede opgaver vedrørende sikkerhed og sundhed.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                </Paragraf>
+                <Paragraf>
+                  <Explicatus>§ 6 b.</Explicatus>
+                  <Stk>
+                    <Exitus>
+                      <Linea>
+                        <Char>I virksomheder med 35 eller flere ansatte skal samarbejdet organiseres således, at der oprettes en arbejdsmiljøorganisation med følgende to niveauer:</Char>
+                      </Linea>
+                    </Exitus>
+                    <Exitus>
+                      <Index>
+                        <Indentatio formaInd="Nummer">
+                          <Explicatus>1)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>En eller flere grupper varetager de daglige opgaver vedrørende sikkerhed og sundhed.</Char>
+                            </Linea>
+                            <Linea>
+                              <Char>En gruppe består af 1 udpeget arbejdsleder og 1 valgt arbejdsmiljørepræsentant.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio formaInd="Nummer">
+                          <Explicatus>2)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Et eller flere udvalg varetager de overordnede opgaver vedrørende sikkerhed og sundhed.</Char>
+                            </Linea>
+                            <Linea>
+                              <Char>Er der i virksomheden oprettet en eller to grupper efter nr. 1, består udvalget af gruppens eller gruppernes medlemmer.</Char>
+                            </Linea>
+                            <Linea>
+                              <Char>Er der oprettet mere end to grupper, vælger arbejdsmiljørepræsentanterne mellem sig 2 medlemmer og arbejdslederne i grupperne mellem sig 2 medlemmer til udvalget.</Char>
+                            </Linea>
+                            <Linea>
+                              <Char>Formandskabet i et udvalg varetages af arbejdsgiveren eller en repræsentant for denne.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                      </Index>
+                    </Exitus>
+                  </Stk>
+                </Paragraf>
+                <Paragraf>
+                  <Explicatus>§ 6 c.</Explicatus>
+                  <Stk>
+                    <Exitus>
+                      <Linea>
+                        <Char>Arbejdsgiveren fastsætter i samarbejde med de ansatte og arbejdslederne antallet af arbejdsmiljørepræsentanter og arbejdsledere i arbejdsmiljøorganisationen, som er oprettet efter § 6 a eller § 6 b, under hensyntagen til virksomheden og dens arbejdsmiljøforhold.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>Antallet skal endvidere fastsættes, sådan at de ansatte inden for deres arbejdstid har mulighed for at drøfte arbejdsmiljøforhold med arbejdsmiljørepræsentanter og arbejdsledere i arbejdsmiljøorganisationen.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>Der skal være mindst lige så mange arbejdsmiljørepræsentanter som arbejdsledere i arbejdsmiljøorganisationen.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                </Paragraf>
+                <Paragraf>
+                  <Explicatus>§ 6 d.</Explicatus>
+                  <Stk>
+                    <Exitus>
+                      <Linea>
+                        <Char>Arbejdsgiveren skal hvert år i samarbejde med de ansatte og arbejdslederne tilrettelægge indholdet af samarbejdet om sikkerhed og sundhed for det kommende år og fastlægge, hvordan dette skal foregå.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>I virksomheder med en arbejdsmiljøorganisation sker tilrettelæggelsen i samarbejde med denne.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 2.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Arbejdsgiveren i virksomheder med 1-9 ansatte, jf. § 6, skal hvert år drøfte med de ansatte og arbejdslederne, om der er den nødvendige sagkundskab om arbejdsmiljø til stede i virksomheden.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 3.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Arbejdsgiveren skal sørge for, at der udarbejdes en kompetenceudviklingsplan for medlemmerne af arbejdsmiljøorganisationen vedrørende den supplerende arbejdsmiljøuddannelse, jf. § 9.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 4.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Beskæftigelsesministeren kan fastsætte nærmere regler om arbejdsgiverens pligter efter stk. 1-3 og om dokumentation for opfyldelsen heraf.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                </Paragraf>
+                <Paragraf>
+                  <Explicatus>§ 6 e.</Explicatus>
+                  <Stk>
+                    <Exitus>
+                      <Linea>
+                        <Char>Beskæftigelsesministeren kan fastsætte nærmere regler om, hvordan virksomhedernes arbejdsmiljøorganisation skal opbygges og fungere, hvordan antallet af medlemmer i arbejdsmiljøorganisationen skal fastsættes, valg af arbejdsmiljørepræsentanter og valg og udpegning af arbejdsledere i arbejdsmiljøorganisationen samt om arbejdsmiljøorganisationens opgaver.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 2.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Beskæftigelsesministeren kan for fag, faglige områder eller arbejdssteder, hvor det skønnes upåkrævet eller uhensigtsmæssigt at opbygge samarbejdet om sikkerhed og sundhed efter reglerne i §§ 6 a-6 c, § 6 d, stk.1, og § 8, stk. 3, gøre undtagelse fra disse regler.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                </Paragraf>
+                <Paragraf>
+                  <Explicatus>§ 7.</Explicatus>
+                  <Stk>
+                    <Exitus>
+                      <Linea>
+                        <Char>Bestemmelserne i §§ 6 a-6 c og § 6 d, stk. 1, finder ikke anvendelse, i det omfang der for at styrke og effektivisere virksomhedernes samarbejde om sikkerhed og sundhed</Char>
+                      </Linea>
+                    </Exitus>
+                    <Exitus>
+                      <Index>
+                        <Indentatio formaInd="Nummer">
+                          <Explicatus>1)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>er indgået en aftale mellem en eller flere lønmodtagerorganisationer og den eller de modstående arbejdsgiverorganisationer eller arbejdsgivere eller dem, de bemyndiger hertil, og</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio formaInd="Nummer">
+                          <Explicatus>2)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>på virksomheder, der er omfattet af en aftale indgået efter nr. 1, er indgået en aftale mellem arbejdsgiveren og de ansatte i virksomheden eller de ansatte i en del af virksomheden.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                      </Index>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 2.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Arbejdsgiveren skal kunne dokumentere over for Arbejdstilsynet, at virksomheden er omfattet af en aftale i henhold til stk. 1.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 3.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Beskæftigelsesministeren kan fastsætte nærmere regler om, under hvilke vilkår §§ 6 a-6 c og § 6 d, stk. 1, kan fraviges gennem aftale indgået efter stk. 1.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>Beskæftigelsesministeren kan endvidere fastsætte nærmere regler om, hvordan aftaler efter stk. 1 indgås.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 4.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Spørgsmål om fortolkning af og brud på de indgåede aftaler efter stk. 1 afgøres efter de sædvanlige fagretlige regler for området.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>Brud på aftaler indgået efter stk. 1, nr. 2, kan dog ikke indbringes for Arbejdsretten, men afgøres ved faglig voldgift.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                </Paragraf>
+                <Paragraf>
+                  <Explicatus>§ 7 a.</Explicatus>
+                  <Stk>
+                    <Exitus>
+                      <Linea>
+                        <Char>En arbejdsmiljøorganisation kan omfatte</Char>
+                      </Linea>
+                    </Exitus>
+                    <Exitus>
+                      <Index>
+                        <Indentatio formaInd="Nummer">
+                          <Explicatus>1)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>flere driftsmæssigt forbundne virksomheder,</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio formaInd="Nummer">
+                          <Explicatus>2)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>flere arbejdsgivere på samme arbejdssted eller</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio formaInd="Nummer">
+                          <Explicatus>3)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>kommuner eller regioner og selvejende institutioner, der har indgået driftsoverenskomst.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                      </Index>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 2.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Organisering efter stk. 1 er betinget af,</Char>
+                      </Linea>
+                    </Exitus>
+                    <Exitus>
+                      <Index>
+                        <Indentatio formaInd="Nummer">
+                          <Explicatus>1)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>at der er indgået aftale i henhold til § 7, og</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio formaInd="Nummer">
+                          <Explicatus>2)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>at hver af de deltagende virksomheder er repræsenteret i arbejdsmiljøorganisationen.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                      </Index>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 3.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Beskæftigelsesministeren kan fastsætte nærmere regler om, hvordan og under hvilke vilkår aftaler efter stk. 1 og 2 kan indgås, og om de deltagende virksomheders repræsentation i en arbejdsmiljøorganisation for flere virksomheder.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                </Paragraf>
+                <Paragraf>
+                  <Explicatus>§ 7 b.</Explicatus>
+                  <Stk>
+                    <Exitus>
+                      <Linea>
+                        <Char>Arbejdsmiljøorganisationens opgaver kan efter aftale mellem virksomheden og de ansatte udvides til at omfatte miljøspørgsmål i direkte tilknytning til virksomheden.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>Beskæftigelsesministeren kan fastsætte nærmere regler, der sikrer løsningen af virksomhedens arbejdsmiljøspørgsmål.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                </Paragraf>
+                <Paragraf>
+                  <Explicatus>§ 8.</Explicatus>
+                  <Stk>
+                    <Exitus>
+                      <Linea>
+                        <Char>Arbejdsgiveren skal sørge for, at medlemmerne af arbejdsmiljøorganisationen får en efter forholdene rimelig tid til rådighed til at varetage deres pligter i arbejdsmiljøarbejdet.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 2.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Arbejdsgiveren skal give medlemmerne af arbejdsmiljøorganisationen lejlighed til at erhverve sig den fornødne viden om eller uddannelse i arbejdsmiljømæssige spørgsmål.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 3.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Arbejdsgiveren skal give medlemmerne af arbejdsmiljøorganisationen lejlighed til at deltage i planlægningen, for så vidt angår spørgsmål om arbejdsmiljø på arbejdspladsen.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 4.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Arbejdsgiveren skal give medlemmerne af arbejdsmiljøorganisationen mulighed for at koordinere deres samarbejde.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                </Paragraf>
+                <Paragraf>
+                  <Explicatus>§ 8 a.</Explicatus>
+                  <Stk>
+                    <Exitus>
+                      <Linea>
+                        <Char>Beskæftigelsesministeren kan fastsætte nærmere regler om rettigheder og pligter for medlemmer af arbejdsmiljøorganisationen.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                </Paragraf>
+                <Paragraf>
+                  <Explicatus>§ 9.</Explicatus>
+                  <Stk>
+                    <Exitus>
+                      <Linea>
+                        <Char>Arbejdsgiveren skal sørge for, at medlemmerne af arbejdsmiljøorganisationen har gennemført en obligatorisk arbejdsmiljøuddannelse af en varighed på 3 dage inden 3 måneder efter valget eller udpegningen af den pågældende.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>Arbejdsgiveren skal herefter tilbyde medlemmerne af arbejdsmiljøorganisationen supplerende arbejdsmiljøuddannelse i det første år svarende til 2 dages varighed og i hvert af de efterfølgende år i funktionsperioden svarende til 1 1/2 dags varighed.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>De første 2 dages supplerende arbejdsmiljøuddannelse skal kunne være gennemført inden for de første 12 måneder af funktionsperioden.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 2.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Beskæftigelsesministeren fastsætter nærmere regler om indhold, tilmelding, tilbud og gennemførelse af den obligatoriske arbejdsmiljøuddannelse, den supplerende arbejdsmiljøuddannelse og en særlig arbejdsmiljøuddannelse for koordinatorer af sikkerheds- og sundhedsarbejdet inden for bygge- og anlægsområdet og undervisernes kvalifikationer samt godkendelse og kvalitetssikring af udbydere af den obligatoriske arbejdsmiljøuddannelse og den særlige arbejdsmiljøuddannelse for koordinatorer.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                </Paragraf>
+              </ParagrafGruppe>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 10, stk. 1,</Char>
+                <Char> ændres »sikkerhedsrepræsentantens« til: »arbejdsmiljørepræsentantens«. </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 10, stk. 1</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2,</Char>
+                <Char> ændres »sikkerhedsrepræsentanten« til: »arbejdsmiljørepræsentanten«. </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 11</Char>
+                <Char> ændres »sikkerhedsgruppen« til: »arbejdsmiljøorganisationen«. </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 11 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 11 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Arbejdstilsynet skal ved besøg i virksomheden normalt tage kontakt til relevante arbejdsmiljørepræsentanter og arbejdsledere i arbejdsmiljøorganisationen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Disse har fri adgang til at forelægge spørgsmål af sikkerheds- og sundhedsmæssig art for Arbejdstilsynet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 15 a, stk. 3,</Char>
+                <Char> ændres »sikkerhedsorganisationen« til: »arbejdsmiljøorganisationen«. </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 15 a</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 5:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Beskæftigelsesministeren kan fastsætte nærmere regler om arbejdsgiverens pligt til at sikre, at læger, arbejdsmedicinske klinikker og sundhedsmyndigheder med ansvar for arbejdsmedicinske undersøgelser har adgang til virksomhedens arbejdspladsvurdering, når det er relevant for helbredskontrollen af de ansatte.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 18</Char>
+                <Char> ændres to steder »sikkerhedsrepræsentanter« til: »arbejdsmiljørepræsentanter« og to steder »tillidsmænd« til: »tillidsrepræsentanter«. </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>10.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 28, stk. 2,</Char>
+                <Char> ændres »sikkerhedsgruppen« til: »arbejdsmiljøorganisationen«. </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>11.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 72</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 2:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Arbejdstilsynet kan få terminaladgang til nødvendige oplysninger i indkomstregisteret, jf. § 7 i lov om et indkomstregister, og i told- og skatteforvaltningens registreringssystem for virksomheder med henblik på identifikation af virksomheder på baggrund af anmeldte erhvervssygdomme, jf. § 75.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>12.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 72 b, stk. 5,</Char>
+                <Char> ændres »§ 8, stk. 4,« til: »§ 7, stk. 1, § 7 a, stk. 2,«. </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>13.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 74, stk. 7, nr. 1, § 74, stk. 10,</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 81 a, stk. 5,</Char>
+                <Char> ændres: »§ 8, stk. 2« til: »§ 9, stk. 2«. </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>14.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 77</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 6:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Arbejdstilsynet kan påbyde den, der har leveret eller markedsført et teknisk hjælpemiddel, et personligt værnemiddel eller et stof eller materiale, at destruere dette på en forsvarlig måde, når det pågældende tekniske hjælpemiddel, personlige værnemiddel eller stof eller materiale udgør en alvorlig risiko for sikkerhed og sundhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>15.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 79, stk. 2,</Char>
+                <Char> affattes således: </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Arbejdstilsynet må ikke over for arbejdsgiveren eller andre oplyse, at Arbejdstilsynet har modtaget en klage.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>16.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 81, stk. 1,</Char>
+                <Char> indsættes efter »i henhold til«: »en EU-forordning eller i henhold til«. </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>17.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 83, stk. 2,</Char>
+                <Char> indsættes efter »Ved bødens udmåling finder § 82, stk.«: »2,«. </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. oktober 2010, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 15 a, stk. 5, § 72, stk. 2, § 77, stk. 6, § 79, stk. 2, § 81, stk. 1, og § 83, stk. 2, i lov om arbejdsmiljø som affattet henholdsvis ændret ved denne lovs § 1, nr. 8, 11 og 14-17, træder i kraft den 21. maj 2010.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Medlemmer af arbejdsmiljøorganisationen, som har gennemført en obligatorisk arbejdsmiljøuddannelse mellem den 1. april 1991 og den 1. oktober 2010, skal ikke gennemføre den obligatoriske arbejdsmiljøuddannelse efter § 9, stk. 1, 1. pkt., som affattet ved denne lovs § 1, nr. 2.</Char>
+          </Linea>
+          <Linea>
+            <Char>Arbejdsgiveren skal dog tilbyde disse medlemmer supplerende arbejdsmiljøuddannelse svarende til 1 1/2 dags varighed hvert år i funktionsperioden.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

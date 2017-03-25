@@ -1,0 +1,1871 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2014/09/26/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20140112929</AccessionNumber>
+    <DocumentId>BP000980</DocumentId>
+    <UniqueDocumentId>164188</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om stormflod og stormfald</DocumentTitle>
+    <Year>2014</Year>
+    <DiesSigni>2014-10-20</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-28</EndDate>
+    <Status>Valid</Status>
+    <Number>1129</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LOV nr 1730 af 27/12/2016 </KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 1129 af 20/10/2014</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20160173030</Ref_Accn>
+    <Ref_Af REFid="change_1">2016-12-27</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om ændring af lov om vandplanlægning og forskellige andre love (Inddragelse af kommuner og vandråd i afgrænsning af vandløb i vandområdeplaner og kvalificering af udpegning af kunstige og stærkt modificerede vandløb samt ny organisering i Miljø- og Fødevareministeriet)</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Henrik Sass Larsen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Agnete Gersing</Signature>
+    <PlaceOfSignature>Erhvervs- og Vækstministeriet</PlaceOfSignature>
+    <JournalNumber>Erhvervs- og Vækstmin.,\nKonkurrence- og Forbrugerstyrelsen, j.nr. 14/07183</JournalNumber>
+    <Ministry>Erhvervs- og Vækstministeriet</Ministry>
+    <AdministrativeAuthority>Konkurrence- og Forbrugerstyrelsen</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Bekendtgørelse af lov om stormflod og stormfald</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Indledning>
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om stormflod og stormfald, jf. lovbekendtgørelse nr. 1090 af 23. november 2012, med de ændringer, der følger af § 34 i lov nr. 1231 af 18. december 2012 og lov nr. 377 af 15. april 2014.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="Bog0">
+      <Afsnit id="Afs0">
+        <Kapitel id="Kap1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Lovens område m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap1_X1">
+            <Paragraf id="Par1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="Par1_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Efter reglerne i denne lov kan der ydes</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par1_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par1_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>erstatning for skader forårsaget af stormflod,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par1_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>erstatning for skader forårsaget af oversvømmelse fra vandløb og søer samt</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par1_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilskud til gentilplantning med robust skov på private fredskovsarealer, der er ramt af stormfald.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Robust skov indeholder en væsentlig andel hjemmehørende træarter.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="Par2_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved stormflod forstås oversvømmelse som følge af en ekstremt høj vandstand i havet, der statistisk indtræffer sjældnere end hvert 20. år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved oversvømmelse fra vandløb og søer forstås oversvømmelse som følge af en ekstremt høj vandstand i vandløb og søer, der forventes statistisk at ville indtræffe sjældnere end hvert 20. år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved stormfald forstås, at der i en eller flere landsdele som følge af kraftig vindpåvirkning er væltet eller knækket træer på store skovarealer svarende til mindst 1 års hugst i de ramte områder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelse af, om der har været stormflod, oversvømmelse fra vandløb og søer eller stormfald i et område på et givet tidspunkt, træffes af Stormrådet, jf. § 21, efter udtalelse fra Danmarks Meteorologiske Institut og Kystdirektoratet, for så vidt angår afgørelse af, om der har været stormflod, og Miljøministeriet, for så vidt angår afgørelse af, om der har været oversvømmelse fra vandløb og søer eller stormfald.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="Par3_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskud i henhold til § 1, nr. 3, kan alene ydes til private ejere.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En privat ejer kan være en person, et selskab, en fond, forening eller lignende.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den private ejer må ikke have indgået driftsoverenskomst med det offentlige.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Såfremt det areal, der ydes tilskud til, ejes af flere personer, udbetales tilskud til den, der over for Stormrådet kan godtgøre at repræsentere hele ejerkredsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I forbindelse med ejerskifte kan den nye ejer overtage rettigheder og forpligtelser ifølge tilsagnet om tilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Erstatning for skader forårsaget af stormflod og af oversvømmelse fra vandløb og søer</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap2_X1">
+            <Paragraf id="Par4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="Par4_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Der ydes erstatning for umiddelbart indtrådte skader forårsaget af stormflod eller af oversvømmelse fra vandløb og søer på her i landet værende fast ejendom og løsøre, som er dækket af en afgiftspligtig forsikring mod brand, jf. § 24 og § 26, stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erstatning ydes ikke for indirekte tab, jf. dog stk. 3 og 4, samt for skader på følgende typer fast ejendom og løsøre:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par4_Stk2_X1">
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Fast ejendom og løsøre, for hvilket det i almindelighed er muligt at tegne forsikring mod henholdsvis skader forårsaget af stormflod og af oversvømmelse fra vandløb og søer i et forsikringsselskab, der har ret til at udøve forsikringsvirksomhed her i landet, jf. lov om finansiel virksomhed.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Fast ejendom og løsøre, hvor anden forsikring dækker den pågældende skade.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Løsøre i kældre og rum under terræn.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Jord.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num5">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Saltskadede afgrøder.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num6">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Fast ejendom, der ligger uden for et dige.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num7">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Diger, kystbeskyttelse og anden form for værn mod vandet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num8">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Havne- og kajanlæg, bådebroer, badebroer og lign.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num9">
+                      <Explicatus>9)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Haveanlæg og løsøre placeret i haven.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num10">
+                      <Explicatus>10)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Både, joller og lign.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>beliggende i vand eller placeret på strand eller kystbeskyttelse eller anden form for værn mod vandet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num11">
+                      <Explicatus>11)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Trailere, campingvogne, campletter, containere, skurvogne og lign.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>samt løsøre placeret heri.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num12">
+                      <Explicatus>12)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Badehuse og lign.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>placeret på strand, kystbeskyttelse eller anden form for værn mod vandet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num13">
+                      <Explicatus>13)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Kiosker, butikker, udsalg og lignende erhverv placeret på strand, kystbeskyttelse eller anden form for værn mod vandet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num14">
+                      <Explicatus>14)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Løsøre placeret på havne- og kajanlæg, strand, kystbeskyttelse eller anden form for værn mod vandet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num15">
+                      <Explicatus>15)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Dyr, bortset fra dyr, der opdrættes i dambrug.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num16">
+                      <Explicatus>16)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Løsøre, der tilhører erhvervsvirksomheder, og som befinder sig i virksomhedens lagerbygninger eller lignende bygninger, medmindre det er placeret mindst 10 cm over gulvniveau eller terræn.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der ydes erstatning til privatpersoner for omkostninger i tilknytning til genhusning, herunder opmagasinering og flytning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der ydes kun erstatning for genhusning, som overstiger 1 måned.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Erstatning til genhusning kan maksimalt udgøre 12.000 kr. pr. måned.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der ydes erstatning til privatpersoner for omkostninger som følge af skimmelsvamp opstået i forbindelse med stormflod eller oversvømmelse, jf. § 2, stk. 1 og 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren kan fastsætte nærmere regler om erstatning efter stk. 1-4 og anvendelsen heraf.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="Par5_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Erstatning for skader forårsaget af stormflod eller af oversvømmelse fra vandløb og søer ydes til den, der er ejer, panthaver eller indehaver af anden rettighed, eller til den, der bærer risikoen for tingen, og som lider tab ved, at den forringes eller går til grunde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="Par6_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved udbetaling af erstatning for skader forårsaget af stormflod fratrækkes følgende selvrisiko, hvis der er tale om en hændelse, der statistisk indtræffer mindst hvert 50. år, men sjældnere end hvert 20. år:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par6_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par6_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>For så vidt angår skader på ejendomme til helårsbeboelse, er selvrisikoen 5 pct. ved første skadesbegivenhed, 10 pct. ved anden skadesbegivenhed og 15 pct. ved tredje og efterfølgende skadesbegivenheder.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Selvrisikoen udgør dog minimum 5.000 kr.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>For så vidt angår skader på fritids- og sommerhuse samt erhvervsejendomme, er selvrisikoen 10 pct. ved første skadesbegivenhed, 15 pct. ved anden skadesbegivenhed og 20 pct. ved tredje og efterfølgende skadesbegivenheder.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Selvrisikoen udgør dog minimum 10.000 kr.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>For så vidt angår skader på løsøre, er selvrisikoen 5 pct. Selvrisikoen udgør dog minimum 5.000 kr.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par6_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved udbetaling af erstatning for skader forårsaget af stormflod fratrækkes følgende selvrisiko, hvis der er tale om en hændelse, der statistisk indtræffer sjældnere end hvert 50. år:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par6_Stk2_X1">
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>For så vidt angår skader på ejendomme til helårsbeboelse, er selvrisikoen 5 pct. Selvrisikoen udgør dog minimum 5.000 kr.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>For så vidt angår skader på fritids- og sommerhuse samt erhvervsejendomme, er selvrisikoen 10 pct. Selvrisikoen udgør dog minimum 10.000 kr.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>For så vidt angår skader på løsøre, er selvrisikoen 5 pct. Selvrisikoen udgør dog minimum 5.000 kr.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par6_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den samlede selvrisiko for skader på ejendomme til helårsbeboelse og løsøre efter stk. 1 og 2 kan maksimalt udgøre 30.000 kr.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par6_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den samlede selvrisiko for skader på fritids- og sommerhuse og løsøre heri kan maksimalt udgøre 50.000 kr.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par6a">
+              <Explicatus>§ 6 a.</Explicatus>
+              <Stk id="Par6a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved udbetaling af erstatning for skader forårsaget af oversvømmelse fra vandløb og søer fratrækkes følgende selvrisiko:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par6a_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par6a_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>For så vidt angår skader på ejendomme til helårsbeboelse, er selvrisikoen 5 pct. ved første skadesbegivenhed, 10 pct. ved anden skadesbegivenhed og 15 pct. ved tredje og efterfølgende skadesbegivenheder.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Selvrisikoen udgør dog minimum 5.000 kr.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6a_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>For så vidt angår skader på fritids- og sommerhuse samt erhvervsejendomme, er selvrisikoen 10 pct. ved første skadesbegivenhed, 15 pct. ved anden skadesbegivenhed og 20 pct. ved tredje og efterfølgende skadesbegivenheder.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Selvrisikoen udgør dog minimum 10.000 kr.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6a_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>For så vidt angår skader på løsøre, er selvrisikoen 5 pct. Selvrisikoen udgør dog minimum 5.000 kr.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par6a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den samlede selvrisiko for skader på ejendomme til helårsbeboelse og løsøre efter stk. 1 kan maksimalt udgøre 30.000 kr.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par6a_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den samlede selvrisiko for skader på fritids- og sommerhuse og løsøre heri kan maksimalt udgøre 50.000 kr.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="Par7_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Erstatning for skader forårsaget af stormflod eller af oversvømmelse fra vandløb og søer kan ud over selvrisikoen nedsættes eller helt bortfalde, såfremt</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par7_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par7_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>bygningen er opført i strid med byggelovgivningen, servitutter eller lokalplaner, hvor dette er medvirkende årsag til, at skaden er indtruffet, eller hvor skaden af denne grund har fået et større omfang, end den ellers ville have fået,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par7_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>bygningens forkerte konstruktion eller udførelse, uegnede materialer, dårlige vedligeholdelse eller et manglende tilsyn er medvirkende årsag til, at skaden er indtruffet, eller hvor skaden af denne grund har fået et større omfang, end den ellers ville have fået,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par7_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>løsøre er anbragt i de under nr. 1 og 2 anførte bygninger eller på steder, hvor skadelidte i øvrigt burde påregne en særlig stor risiko for den skade, der er indtruffet,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par7_Stk1_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>skadelidte før eller efter skadens indtræden har forsømt at træffe foranstaltninger, som efter forholdene var rimelige, for at afværge eller begrænse den skade, der er indtruffet, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par7_Stk1_Num5">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>skadelidte har foretaget handlinger, som vedkommende vidste eller burde vide ville øge risikoen for den skade, som er indtruffet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="Par8_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>En skade forårsaget af stormflod skal af forsikringstageren anmeldes til forsikringsselskabet, hvor vedkommende er brandforsikret, senest 2 måneder efter skadens indtræden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der kan dispenseres fra anmeldelsesfristen på 2 måneder, såfremt skaderamte er uden skyld i fristoverskridelsen eller der i øvrigt foreligger berettigede, undskyldelige grunde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forsikringsselskabet foretager taksation af skader forårsaget af stormflod.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Taksationen skal foretages, senest 22 arbejdsdage efter at taksator har det fornødne grundlag for at foretage taksationen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Taksatorrapporten sendes til forsikringstageren, som indtil 14 dage efter modtagelsen kan afgive bemærkninger til forsikringsselskabet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forsikringsselskabet skal træffe afgørelse, senest 22 arbejdsdage efter at alle de nødvendige oplysninger til brug for udarbejdelsen af den endelige taksatorrapport foreligger.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Forsikringsselskabet foretager erstatningsudbetalingen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestemmelserne i §§ 57 og 58 i lov om forsikringsaftaler finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forsikringsselskabet kan, for så vidt angår stormflodssager, lade et andet forsikringsselskab, der tilbyder tegning af brandforsikring, varetage selskabets opgaver i henhold til denne lov.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Stormrådet skal godkende sådanne aftaler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stormrådet kan i særlige tilfælde dispensere fra fristerne i stk. 2, 2. pkt., og stk. 3, 1. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren kan fastsætte nærmere regler for forsikringsselskabernes sagsbehandling og for oprettelsen af en fælles it-baseret database m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par8a">
+              <Explicatus>§ 8 a.</Explicatus>
+              <Stk id="Par8a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>En skade forårsaget af oversvømmelse fra vandløb og søer skal af forsikringstageren anmeldes til forsikringsselskabet, hvor vedkommende er brandforsikret, senest 2 måneder efter skadens indtræden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der kan dispenseres fra anmeldelsesfristen på 2 måneder, såfremt skaderamte er uden skyld i fristoverskridelsen eller der i øvrigt foreligger berettigede, undskyldelige grunde.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Selskabet videresender uden ugrundet ophold en kopi af anmeldelsen med forsikringsselskabets eventuelle bemærkninger til Stormrådet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forsikringsselskaberne foretager efter anmodning fra Stormrådet taksation af skader forårsaget af oversvømmelse fra vandløb og søer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Taksationen skal foretages, senest 22 arbejdsdage efter at taksator har det fornødne grundlag for at foretage taksationen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Stormrådet kan i særlige tilfælde dispensere fra fristen i 2. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8a_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Taksatorrapporten sendes til forsikringstageren, som indtil 14 dage efter modtagelsen kan afgive bemærkninger til forsikringsselskabet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Selskabet indsender taksatorrapporten med forsikringstagerens eventuelle bemærkninger til Stormrådet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8a_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stormrådet træffer afgørelse i sager om skader forårsaget af oversvømmelse fra vandløb og søer og foretager erstatningsudbetalingen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestemmelserne i §§ 57 og 58 i lov om forsikringsaftaler finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8a_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren kan efter forhandling med miljøministeren fastsætte nærmere regler om behandlingen af sager om skader forårsaget af oversvømmelse fra vandløb og søer, herunder om vurderingen af, om oversvømmelser er omfattet af § 2, stk. 2, om ordningens administration og delegation af beføjelser i forbindelse hermed til miljøministeren samt om fristen for meddelelse af afgørelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="Par9_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Stormrådet fastsætter efter forhandling med Forsikring &amp; Pension regler om Stormrådets betaling for forsikringsselskabernes behandling af stormflodssager og om betaling for taksation i sager om oversvømmelse fra vandløb og søer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="Par10_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Stormrådet fører tilsyn med forsikringsselskabernes behandling af stormflodssager.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stormrådet kan meddele de påbud, som anses for nødvendige for forsikringsselskabernes overholdelse af loven eller regler fastsat i medfør af loven.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Stormrådet kan offentliggøre påbud efter 1. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De nærmere regler for tilsynet, herunder eventuelle sanktioner over for forsikringsselskaberne, og de nærmere regler for Stormrådets offentliggørelse af påbud fastsættes i Stormrådets forretningsorden, jf. § 21, stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par10a">
+              <Explicatus>§ 10 a.</Explicatus>
+              <Stk id="Par10a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Forvaltningsloven og lov om offentlighed i forvaltningen finder anvendelse på forsikringsselskabernes behandling af stormflodssager.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Tilskud til genopbygning af privat fredskov efter stormfald</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap3_X1">
+            <Paragraf id="Par11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="Par11_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskud ydes kun til skovarealer, som er dækket af en basisforsikring mod stormfald.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Arealet skal være dækket af basisforsikringen inden for en frist, som fastsættes af erhvervs- og vækstministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par11_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Efter fristens udløb kan et skovareal kun blive omfattet af lovens bestemmelser om tilskud ved ejerskifte, og hvis arealet dækkes af basisforsikringen inden for en frist efter ejerskiftet, som fastsættes af erhvervs- og vækstministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par11_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Opsiges forsikringen, kan arealet kun blive omfattet af lovens bestemmelser om tilskud igen i forbindelse med ejerskifte, og hvis arealet dækkes af basisforsikringen inden for en frist efter ejerskiftet, som fastsættes af erhvervs- og vækstministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par11_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren fastsætter regler om, hvornår arealer, som ønskes omfattet af loven, herunder ved ejerskifte, skal være omfattet af en basisforsikring.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par11_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved ejerskifte forstås ikke overdragelse til personer, der er knyttet til ejeren ved ægteskab, slægts- eller svogerskab i ret op- eller nedstigende linje eller som søskende, og til virksomheder, for hvilke sådanne personer er direktører.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par11_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren fastsætter efter drøftelse med miljøministeren nærmere regler til gennemførelse af forsikringsordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="Par12_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Stormrådet yder efter ansøgning tilskud til fredskov, der er ramt af fladefald.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Arealet skal senest være fredskov på tidspunktet for udbetaling af første rate af tilskuddet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par12_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved fladefald forstås, at der som følge af kraftig vindpåvirkning på et areal er væltet eller knækket træer i et omfang svarende til, hvad der i fredskov udløser pligt til at gentilplante arealet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="Par13_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Stormrådet yder tilskud til den del af det stormfaldsramte areal, som overstiger 1/60 af skovens bevoksede areal inklusive de midlertidigt ubevoksede arealer, dog kun til fladefald på mindst 0,5 ha for den enkelte skov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par13_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskud ydes til gentilplantning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Som led i gentilplantningen ydes tilskud til oprydning, hegn, omkostninger, som skyldes særlige hensyn til fortidsminder, udarbejdelse af tilplantningsplaner og lokalitetskortlægning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par13_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Til arealer, der som led i gentilplantningen udlægges til fri succession eller som ubevoksede, kan der kun ydes tilskud til oprydning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par13_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan ikke ydes tilskud til et areal, hvortil der allerede modtages tilskud fra det offentlige til de i stk. 2 nævnte foranstaltninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par13_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stormrådets afgørelse meddeles ansøgeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par13_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskud udbetales af Stormrådet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="Par14_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskuddet udbetales i to rater:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par14_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par14_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Første rate vedrører oprydning af arealet, og udbetaling sker samtidig med afgørelsen om tilskud.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par14_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Anden rate vedrører udgifter til gentilplantning, og udbetaling sker, når gentilplantningen er afsluttet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="Par15_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Stormrådet fastsætter efter udtalelse fra Miljøministeriet for hver stormfaldsbegivenhed, jf. § 2, stk. 3, tilskudssatsernes størrelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="Par16_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Stormfald på private arealer skal af forsikringstageren anmeldes til forsikringsselskabet inden en frist, som fastsættes af Stormrådet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Selskabet videresender en kopi af anmeldelsen med eventuelle bemærkninger til Stormrådet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par16_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ansøgning om tilskud sendes til Stormrådet inden for en frist, som fastsættes af Rådet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ansøgning om tilskud til fladefald på mindst 5 ha skal være vedlagt en tilplantningsplan.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilplantningsplanen skal godkendes af miljøministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par16_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren kan efter forhandling med miljøministeren og Stormrådet fastsætte nærmere regler om tilskudsordningens gennemførelse og administration samt delegation af beføjelser i forbindelse hermed til miljøministeren.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der kan herunder fastsættes regler om afgrænsning af de arbejder og de udgifter, hvortil der kan ydes tilskud, om ansøgningers form og indhold, tidsfrister, vilkår for tilskud, meddelelse om tilsagn om tilskud, ændring af meddelte tilsagn, udbetaling af tilskud, regnskaber, revision, afrapportering, kontrol og tilsyn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Kontrol, tilsyn, misligholdelse m.v. af stormfaldsordningen</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap4_X1">
+            <Paragraf id="Par17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="Par17_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsynsmyndigheden, jf. § 16, stk. 3, påser, at lovens regler om tilskud til fredskov og regler udarbejdet i henhold til § 16, stk. 3, overholdes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="Par18_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Med henblik på at kontrollere gennemførte foranstaltninger, hvortil der er givet tilskud efter loven, kan tilsynsmyndigheden eller den, som tilsynsmyndigheden bemyndiger dertil, til enhver tid besigtige ejendomme, hvortil der er ydet tilskud.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Besigtigelsen kan ske uden retskendelse, men mod behørig legitimation.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>På tilsvarende måde har tilsynsmyndigheden eller den, som er bemyndiget dertil, adgang til regnskaber, forretningsbøger, papirer m.v., herunder også materiale, der opbevares i elektronisk form, for så vidt angår oplysninger om tilskuddet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par18_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ejeren eller brugeren af en ejendom, hvortil der ydes tilskud efter loven, skal efter anmodning fra tilsynsmyndigheden</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par18_Stk2_X1">
+                    <Indentatio formaInd="Nummer" id="Par18_Stk2_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>udlevere oplysninger om forholdene på ejendommen, herunder om økonomiske og regnskabsmæssige forhold, der har betydning for lovens administration, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par18_Stk2_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>yde den fornødne vejledning og hjælp ved kontrollens gennemførelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par18_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Politiet yder om nødvendigt bistand til gennemførelse af den i stk. 1 nævnte kontrol.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren kan efter aftale med justitsministeren fastsætte nærmere regler herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par18_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Modtageren af tilskud skal, indtil sidste rate af tilskuddet er udbetalt, på forlangende afgive erklæring om, hvorvidt betingelserne for at modtage tilskud fortsat opfyldes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par18_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Modtageren af tilskud skal, indtil sidste rate af tilskuddet er udbetalt, underrette tilsynsmyndigheden, hvis betingelserne for at modtage tilskud ikke længere opfyldes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par18_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilsynsmyndigheden kan indhente oplysninger fra og samkøre offentlige og private registre, herunder i elektronisk form, med henblik på at kontrollere skovens omfang på den enkelte ejendom, om skoven er fredskovspligtig, og om ejeren har betalt basisforsikringen, jf. § 11.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="Par19_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Stormrådet kan efter udtalelse fra tilsynsmyndigheden bestemme, at tilsagnet om tilskud helt eller delvis bortfalder, og at beløb, der er udbetalt i tilskud efter loven eller efter regler, der er fastsat i henhold til loven, helt eller delvis skal tilbagebetales, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par19_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par19_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>modtageren af tilskud har afgivet urigtige eller vildledende oplysninger eller har fortiet oplysninger af betydning for sagens afgørelse,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par19_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>betingelserne for tilskud ikke længere opfyldes,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par19_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>modtageren af tilskud tilsidesætter sin pligt i medfør af regler udstedt efter § 16, stk. 3, eller pligter i medfør af § 18, stk. 2, 4 og 5, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par19_Stk1_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>forudsætningerne for støtte i øvrigt efter Stormrådets skøn er væsentligt ændrede.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par19_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Opsiges basisforsikringen for et areal, hvortil der er ydet tilskud efter loven, inden for 15 år efter udbetaling af sidste rate af tilskuddet, skal tilskuddet tilbagebetales efter Stormrådets nærmere bestemmelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par19_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stormrådet drager omsorg for, at ydelsen af tilskud efter loven og den deraf følgende tilbagebetalingsforpligtelse, såfremt basisforsikringen opsiges, registreres i matriklen på de berørte ejendomme ved første og sidste udbetaling af tilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par19_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren kan efter forhandling med miljøministeren fastsætte regler om tilbagebetaling i henhold til stk. 1 og 2, herunder om beregningen af renter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par20">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="Par20_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren kan efter forhandling med Stormrådet og Miljøministeriet fastsætte regler om, at en støtteansøger i en periode kan udelukkes fra støtte efter de af lovens støtteordninger, der er omfattet af Rådets forordning (EF) nr. 1257/99 om støtte til udvikling af landdistrikterne fra Den Europæiske Udviklings- og Garantifond for Landbruget (EUGFL) og om ændring og ophævelse af visse forordninger, hvis støttemodtageren med forsæt eller ved grov uagtsomhed har afgivet urigtige oplysninger af betydning for modtagelsen af støtte efter lovens støtteordninger eller andre støtteordninger i nævnte forordning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Stormrådet</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap5_X1">
+            <Paragraf id="Par21">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="Par21_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Der nedsættes et stormråd bestående af 1 formand og 8 andre medlemmer samt suppleanter for disse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren udnævner rådets formand, rådets næstformand, der repræsenterer Erhvervs- og Vækstministeriet, og 7 andre medlemmer af rådet, der repræsenterer følgende myndigheder og organisationer: Transportministeriet, Miljøministeriet, Klima-, Energi- og Bygningsministeriet, Justitsministeriet, KL, Forsikring &amp; Pension og Forbrugerrådet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Endvidere tilknyttes til Stormrådet 3 særligt sagkyndige med indsigt i stormflod og kystforhold, vandløb og søer samt stormfald.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Disse udpeges af henholdsvis Kystdirektoratet og Naturstyrelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De særligt sagkyndige har ikke stemmeret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par21_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Medlemmerne og disses suppleanter udnævnes for 4 år ad gangen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Finder udnævnelsen sted i løbet af en periode, foretages den kun med virkning til periodens udløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par21_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren fastsætter Stormrådets forretningsorden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par22">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="Par22_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren udpeger en statslig styrelse til at varetage sekretariatsfunktionen for Stormrådet.</Char>
+                  </Linea>
+                  <Nota id="Par22_Stk1_Not1">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Konkurrence- og Forbrugerstyrelsen er udpeget til at varetage sekretariatsfunktionen.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                </Exitus>
+              </Stk>
+              <Stk id="Par22_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren fastsætter nærmere regler om sekretariatets arbejde, herunder samarbejdet med forsikringsselskaberne og Miljøministeriet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par22_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis Stormrådet vurderer, at der er sandsynlighed for, at summen af erstatninger og tilskud, der skal udbetales efter denne lov, vil overstige statsgarantiernes maksimum, jf. § 27, stk. 2, retter rådet henvendelse til erhvervs- og vækstministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par22_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stormrådet kan efter behov anvende fremmed bistand.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par22_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stormrådet kan, i det omfang det er nødvendigt for bedømmelse af en skadesbegivenhed, indhente yderligere oplysninger om denne og foretage eller lade foretage inspektionsbesøg på stedet, hvor skaden er indtruffet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par22_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren fastsætter nærmere regler om betaling for sekretariatets arbejde og for fremmed bistand, herunder bistand fra Klima-, Energi- og Bygningsministeriet, Miljøministeriet og Transportministeriet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par22_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stormrådet afgiver en årlig beretning til erhvervs- og vækstministeren om sin virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par23">
+              <Explicatus>§ 23.</Explicatus>
+              <Stk id="Par23_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Stormflods- og oversvømmelsespuljens og stormfaldspuljens midler anbringes i Danmarks Nationalbank til forvaltning efter nærmere aftale mellem Stormrådet og Nationalbanken.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stormrådet aflægger et årligt regnskab, der revideres af en statsautoriseret revisor og indsendes til erhvervs- og vækstministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren har adgang til Stormrådets regnskabsmateriale, herunder revisionsprotokollater m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren kan fastsætte nærmere regler for regnskabsførelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Omkostningerne ved ordningens administration, herunder betaling for sekretariatets og forsikringsselskabernes arbejde, fremmed bistand, herunder bistand fra Miljøministeriet, og information af mulige ansøgere om tilskudsmulighederne ved stormfald og de tilknyttede regler, afholdes af henholdsvis stormflods- og oversvømmelsespuljen og stormfaldspuljen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Omkostninger i forbindelse med etablering af en basisforsikring, herunder en eventuel difference mellem den af forsikringsselskabet krævede årlige præmiesum og den af forsikringstagerne tegnede præmiesum, kan afholdes af stormfaldspuljen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Erstatningsudbetaling fra forsikringsselskabet, der vedrører den præmiesum, der er afholdt af stormfaldspuljen, tilfalder stormfaldspuljen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Omkostninger i forbindelse med ændring eller ophævelse af en eksisterende basisforsikring kan afholdes af stormfaldspuljen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Finansiering</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap6_X1">
+            <Paragraf id="Par24">
+              <Explicatus>§ 24.</Explicatus>
+              <Stk id="Par24_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Forsikringsselskaber, der tegner forsikringer mod brand på fast ejendom eller for løsøre, skal opkræve en afgift pr. police.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par24_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgift opkræves dog ikke af kaskoforsikringer for motorkøretøjer og både samt andre forsikringer, der dækker skader forårsaget af stormflod.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par24_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgiften udgør årligt 30 kr. pr. police til stormflods- og oversvømmelsesordningen og 10 kr. pr. police til stormfaldsordningen og opkræves sammen med den første præmieopkrævning i kalenderåret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par24_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Reglerne i § 60, stk. 3, i lov om finansiel virksomhed finder tilsvarende anvendelse på afgiften på bygningsbrandforsikringer i henhold til denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par25">
+              <Explicatus>§ 25.</Explicatus>
+              <Stk id="Par25_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Forsikringsselskaberne skal efter udgangen af hver måned eller hvert kvartal og senest den 15. i den følgende måned til Stormrådet anmelde størrelsen af det forfaldne afgiftsbeløb fordelt på de enkelte forsikringskategorier, jf. § 6.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anmeldelsen skal være underskrevet af selskabets ansvarlige ledelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par25_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det skyldige afgiftsbeløb for en måned omfatter de afgifter, der forfalder til betaling i den pågældende måned.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Afgifter, der afskrives som uerholdelige, fradrages i afgiftsbeløbet i den måned, hvor afskrivningen af præmieindtægt inkl.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>afgift finder sted.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par25_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forsikringstagere, der på eget initiativ tegner forsikringer mod brand i udlandet, skal selv foretage den i stk. 1 nævnte anmeldelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par26">
+              <Explicatus>§ 26.</Explicatus>
+              <Stk id="Par26_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Et selskabs eller de i § 25, stk. 3, nævnte forsikringstageres forfaldne afgiftsbeløb for en måned skal indbetales til Stormrådet inden udgangen af den følgende måned.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par26_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Betales afgiften ikke rettidigt, skal der betales 1,3 pct. i månedlig rente for hver påbegyndt måned fra sidste rettidige indbetalingsdag, dog mindst 20 kr.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par26_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan ikke ydes erstatning til en forsikringstager som nævnt i § 25, stk. 3, der ikke har foretaget anmeldelse og indbetaling efter reglerne i stk. 1 og § 25, stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par27">
+              <Explicatus>§ 27.</Explicatus>
+              <Stk id="Par27_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Staten garanterer for ordningens forpligtelser efter denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par27_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Dækker den til enhver tid værende formue i henholdsvis stormflods- og oversvømmelsespuljen og stormfaldspuljen ikke de administrationsomkostninger, erstatninger og tilskud, der skal udbetales i henhold til denne lov, bemyndiges erhvervs- og vækstministeren til i henhold til statsgarantien at udbetale indtil 200 mio. kr. til stormflods- og oversvømmelsespuljen og indtil 200 mio. kr. til stormfaldspuljen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Statsgarantien til stormflods- og oversvømmelsespuljen udgør 400 mio. kr. til og med 2017.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par27_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udbetalinger under statsgarantien skal tilbagebetales tillige med en forrentning svarende til den til enhver tid fastsatte officielle diskonto.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Renten tilskrives ved hvert kalenderårs udløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par27_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Statens tilgodehavende ved træk på statsgarantien tilknyttet stormflods- og oversvømmelsespuljen tilbagebetales af midler fra en midlertidig forhøjelse på 20 kr. af den årlige afgift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par27_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den midlertidige forhøjelse af afgiften træder i kraft ved udbetaling under statsgarantien og ophører med udgangen af det afgiftsår, hvori statens tilgodehavende er fuldt tilbagebetalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap7">
+          <Explicatus>Kapitel 7</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Lagring af træ samt stormflodsvarsling</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap7_X1">
+            <Paragraf id="Par28">
+              <Explicatus>§ 28.</Explicatus>
+              <Stk id="Par28_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Stormrådet beslutter, om der efter en stormfaldsbegivenhed, jf. § 2, stk. 3, dækkes omkostninger til lagring af stormfældet træ fra statens skove efter ansøgning fra Miljøministeriet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I givet fald afholdes omkostningerne hertil af stormfaldspuljen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par29">
+              <Explicatus>§ 29.</Explicatus>
+              <Stk id="Par29_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Kystdirektoratet og Danmarks Meteorologiske Institut forestår stormflodsvarsling og yder efter anmodning bistand til Stormrådet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par29_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kystdirektoratets og Danmarks Meteorologiske Instituts udgifter i forbindelse med stormflodsvarsling og bistand til Stormrådet afholdes af stormflods- og oversvømmelsespuljen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Stormrådet fastsætter betalingen af udgifterne efter forhandling med henholdsvis Kystdirektoratet og Danmarks Meteorologiske Institut.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par29_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Beslutning om ændringer i varslingsaktiviteternes tilrettelæggelse eller udførelse, som medfører væsentlige ændringer i den betaling, der skal ydes af stormflods- og oversvømmelsespuljen, træffes af Stormrådet efter indstilling fra Transportministeriet, Klima-, Energi- og Bygningsministeriet og Erhvervs- og Vækstministeriet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap7a">
+          <Explicatus>Kapitel 7 a</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Kommunikation</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap7a_X1">
+            <Paragraf id="Par29a">
+              <Explicatus>§ 29 a.</Explicatus>
+              <Stk id="Par29a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren kan fastsætte regler om, at skriftlig kommunikation til og fra Stormrådet, forsikringsselskaber og disses taksatorer om forhold, som er omfattet af denne lov eller af regler udstedt i medfør af denne lov, skal foregå digitalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par29a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren kan fastsætte nærmere regler om digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par29a_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par29b">
+              <Explicatus>§ 29 b.</Explicatus>
+              <Stk id="Par29b_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren kan fastsætte regler om, at Stormrådet, forsikringsselskaber og disses taksatorer kan udstede afgørelser og andre dokumenter efter denne lov eller efter regler udstedt i medfør af denne lov uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par29b_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af henholdsvis Stormrådet, forsikringsselskaber og disses taksatorer som afsender.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par29c">
+              <Explicatus>§ 29 c.</Explicatus>
+              <Stk id="Par29c_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Hvor det i denne lov eller i regler udstedt i medfør af denne lov er forudsat, at dokumenter, som er udstedt af andre end Stormrådet, forsikringsselskaber og disses taksatorer eller Naturstyrelsen, skal være underskrevet, kan dette krav opfyldes ved anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt de pågældende dokumenter.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sådanne dokumenter sidestilles med dokumenter med personlig underskrift.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren kan fastsætte nærmere regler herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap8">
+          <Explicatus>Kapitel 8</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Klageadgang og straffebestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap8_X1">
+            <Paragraf id="Par30">
+              <Explicatus>§ 30.</Explicatus>
+              <Stk id="Par30_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Klager over forsikringsselskabernes afgørelser i stormflodssager kan indbringes for Stormrådet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Stormrådets afgørelser kan ikke indbringes for anden administrativ myndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par30_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De nærmere regler for behandling af klager fastsættes i Stormrådets forretningsorden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par31">
+              <Explicatus>§ 31.</Explicatus>
+              <Stk id="Par31_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde den, der</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par31_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par31_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>forsætligt eller ved grov uagtsomhed overtræder § 25, stk. 1 og 3,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par31_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>afgiver urigtige eller vildledende oplysninger eller fortier oplysninger af betydning for afgørelsen om erstatning eller tilskud,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par31_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilsidesætter vilkår, der er fastsat i en afgørelse efter loven,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par31_Stk1_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>i strid med § 18, stk. 1, modvirker adgang til ejendommen og regnskabsmateriale m.v. eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par31_Stk1_Num5">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at give oplysninger efter § 18, stk. 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par31_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par31_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I regler, der er udstedt efter loven, kan der fastsættes straf af bøde for overtrædelse af bestemmelser i reglerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par31_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forældelsesfristen for strafansvaret er 5 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par31_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skønnes en overtrædelse ikke at ville medføre højere straf end bøde, kan miljøministeren tilkendegive, at sagen kan afgøres uden retslig forfølgning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er en betingelse herfor, at den, der har begået lovovertrædelsen, erklærer sig skyldig i overtrædelsen og erklærer sig rede til inden for en nærmere angivet frist, der efter begæring kan forlænges, at betale en i tilkendegivelsen angivet bøde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par31_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For så vidt angår den i stk. 5 nævnte tilkendegivelse, finder bestemmelsen om tiltalerejsning i retsplejelovens § 895, tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par31_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Betales bøden i rette tid, eller bliver den efter stedfunden vedtagelse inddrevet eller afsonet, bortfalder videre forfølgning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap9">
+          <Explicatus>Kapitel 9</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Ikrafttræden og overgangsbestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap9_X1">
+            <Paragraf id="Par32">
+              <Explicatus>§ 32.</Explicatus>
+              <Stk id="Par32_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren fastsætter tidspunktet for lovens ikrafttræden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Samtidig ophæves lov nr. 340 af 6. juni 1991 om erstatning for skader forårsaget af stormflod.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par32_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Dækning af Kystdirektoratets og Danmarks Meteorologiske Instituts udgifter, jf. § 29, stk. 2, sker med virkning fra den 1. januar 2000.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par33">
+              <Explicatus>§ 33.</Explicatus>
+              <Stk id="Par33_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par34">
+              <Explicatus>§ 34.</Explicatus>
+              <Stk id="Par34_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1231 af 18. december 2012 (Obligatorisk digital kommunikation og tilpasninger som følge af ressortoverførsel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 69</Explicatus>
+        <Stk>
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2013.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Administrative forskrifter, der er udstedt i medfør af de hidtidige bestemmelser, vedbliver at være i kraft, indtil de ændres eller ophæves.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 377 af 15. april 2014 (Dækning af udgifter til genhusning, opmagasinering og flytning samt udbedring af skimmelsvamp m.v.) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 2</Explicatus>
+        <Stk>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+            </Linea>
+            <Nota id="Not2">
+              <Explicatus>2)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Loven blev bekendtgjort i Lovtidende den 16. april 2014.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+            <Linea>
+              <Char>§ 1, nr. 1-7, har virkning for skader indtrådt fra den 6. december 2013.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

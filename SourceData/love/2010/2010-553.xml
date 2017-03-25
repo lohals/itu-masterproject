@@ -1,0 +1,761 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2009/09/14/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20100055330</AccessionNumber>
+    <DocumentId>BL000347</DocumentId>
+    <UniqueDocumentId>131996</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om jernbane og lov om offentlige veje og om ophævelse af lov om veteranbaner\n(Oprettelse af Jernbanenævnet, ophævelse af lov om veteranbaner m.v.)</DocumentTitle>
+    <Year>2010</Year>
+    <DiesSigni>2010-05-26</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-11-10</EndDate>
+    <Status>Historic</Status>
+    <Number>553</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1249 af 11/11/2010</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1048 af 03/11/2011</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 553 af 26/05/2010</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2011-11-16</DateOfHistoricMark>
+    <EuReferences>32001L0012</EuReferences>
+    <EuReferences>32001L0014</EuReferences>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Hans Christian Schmidt</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Transportmin., j.nr. 2010-486</JournalNumber>
+    <Ministry>Transport- og Bygningsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om jernbane og lov om offentlige veje og om ophævelse af lov om veteranbaner</Char>
+      </Linea>
+      <Nota formaNo="EU" id="Not1">
+        <Explicatus>1)</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2001/12/EF af 26. februar 2001 om ændring af Rådets direktiv 91/440/EØF om udvikling af Fællesskabets jernbaner (EF-Tidende 2001, nr. L 75, side 1 ff.</Char>
+          </Linea>
+          <Linea>
+            <Char>) og Europa-Parlamentets og Rådets direktiv 2001/14/EF af 26. februar 2001 om tildeling af jernbaneinfrastrukturkapacitet og opkrævning af afgifter for brug af jernbaneinfrastruktur (EF-Tidende 2001, nr. L 75, side 29 ff.</Char>
+          </Linea>
+          <Linea>
+            <Char>).</Char>
+          </Linea>
+        </Exitus>
+      </Nota>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Oprettelse af Jernbanenævnet, ophævelse af lov om veteranbaner m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om jernbane, jf. lovbekendtgørelse nr. 969 af 8. oktober 2009, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 3, stk. 1,</Char>
+                <Char> udgår »for Jernbane og Færger (Trafikstyrelsen)«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 5.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ikkeerhvervsmæssig jernbanedrift, der fortrinsvis gennem en begrænset personbefordring drives for at tilgodese jernbanehistoriske og turistmæssige formål og ikke tilsigter at dække noget egentligt trafikalt behov, kræver tilladelse fra Trafikstyrelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Transportministeren kan fastsætte regler om den jernbanedrift, der er nævnt i stk. 1, herunder om kriterier for udstedelse af tilladelser og sikkerhedsmæssige og forsikringsmæssige forhold.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Transportministeren kan udpege sagkyndige private virksomheder eller personer til at føre tilsyn med veteranbanerne.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ministeren kan fastsætte regler herom.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 8 a, stk. 2,</Char>
+                <Char> indsættes efter »forvalter«:</Char>
+              </Linea>
+              <Linea>
+                <Char>», herunder oplysninger om jernbanevirksomhedernes trafik på infrastrukturen«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 8 c</Char>
+                <Char> indsættes før stk. 1 som nye stykker:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Jernbaneinfrastrukturforvalterens krav til færdsel på de enkelte baneafsnit skal offentliggøres og være tilgængelige for alle jernbanevirksomheder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Jernbanevirksomhederne skal følge infrastrukturforvalterens krav til færdsel på de enkelte baneafsnit, jf. stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Stk. 1 bliver herefter stk. 3.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 8 d, stk. 5, 2. pkt.,</Char>
+                <Char> indsættes efter »fastsætte«:</Char>
+              </Linea>
+              <Linea>
+                <Char>»regler om udstedelse af påbud og forbud til jernbaneinfrastrukturforvaltere og jernbanevirksomheder og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 21 e, stk. 1,</Char>
+                <Char> indsættes efter »Infrastrukturforvalteren«:</Char>
+              </Linea>
+              <Linea>
+                <Char>», Metroselskabet I/S«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 21 i, stk. 3,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Trafikstyrelsen kan fastsætte regler om krav til den sagkyndige bistand, herunder assessorbistand.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 21 j, stk. 3,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Trafikstyrelsen kan fastsætte regler om krav til den sagkyndige bistand, herunder assessorbistand.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 21 k, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Køretøjer, der anvendes på jernbanenettet, skal godkendes af Trafikstyrelsen, inden de må tages i brug.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>10.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 21 k, stk. 2</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">5,</Char>
+                <Char> ændres »rullende materiel« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»køretøjer«, og i </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 2</Char>
+                <Char> ændres »det rullende materiel« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»køretøjerne«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>11.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 21 k, stk. 5,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Trafikstyrelsen kan fastsætte regler om krav til den sagkyndige bistand, herunder assessorbistand.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>12.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 21 k, stk. 6,</Char>
+                <Char> ændres »rullende materiel« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»køretøjer«, og efter »læsseenheder« indsættes:</Char>
+              </Linea>
+              <Linea>
+                <Char>», herunder regler om, at visse forhold kan undtages fra godkendelse«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>13.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Overskriften til </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">kapitel 10</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst overskriftAfType="Kapitel">
+              <Rubrica>
+                <Linea>
+                  <Char>Jernbanenævn, klageadgang, tilsyn m.v.</Char>
+                </Linea>
+              </Rubrica>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>14.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 24</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 24 a</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 24.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Transportministeren nedsætter et Jernbanenævn, der varetager tilsyns- og klagefunktioner på jernbaneområdet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Jernbanenævnet er uafhængigt og er ikke undergivet instruktionsbeføjelse fra transportministeren.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Nævnet kan undersøge sager på eget initiativ eller efter klage.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Jernbanenævnet består af en formand og et antal andre medlemmer.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Medlemmerne skal repræsentere jernbaneteknisk, jernbanesikkerhedsmæssig, samfundsøkonomisk og juridisk, herunder konkurrence- og forbrugerretlig, ekspertise.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Medlemmerne beskikkes af transportministeren for en periode af 4 år.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Transportministeren fastsætter regler om Jernbanenævnet, herunder regler om nævnets virksomhed, opgaver, sammensætning og sekretariatsbetjening.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Transportministeren kan fastsætte regler om gebyrer til dækning af Jernbanenævnets omkostninger ved varetagelse af opgaver i henhold til denne lov.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 24 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Jernbanenævnet overvåger konkurrencesituationen på markederne for jernbanetransportydelser, herunder markedet for jernbanegodstransport, med henblik på at undgå en uhensigtsmæssig udvikling på disse markeder.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Jernbanenævnet fører i den forbindelse tilsyn med overholdelsen af Rådets direktiv 91/440/EØF af 29. juli 1991 om udvikling af Fællesskabets jernbaner med senere ændringer, Europa-Parlamentets og Rådets direktiv 2001/14/EF af 26. februar 2001 om tildeling af jernbaneinfrastruktur og opkrævning af afgifter for brug af jernbaneinfrastruktur med senere ændringer samt reglerne til gennemførelse heraf.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>15.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 24 a indsættes i </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">kapitel 10:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 24 b.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Jernbanenævnet fører tilsyn med overholdelsen af Europa-Parlamentets og Rådets forordning (EF) nr. 1371/2007 af 23. oktober 2007 om jernbanepassagerers rettigheder og forpligtelser (passagerrettighedsforordningen).</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 24 c.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Afgørelser i medfør af § 6, § 8, stk. 1 og 5-7, og §§ 9-11 og regler fastsat i medfør heraf kan påklages til Jernbanenævnet, jf. dog stk. 2. Jernbanenævnets afgørelser kan ikke påklages til anden administrativ myndighed.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Transportministeren kan fastsætte regler om adgangen til at klage over afgørelser, der træffes i henhold til denne lov, herunder om klagefrister, eller om, at afgørelserne ikke kan påklages til Transportministeriet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Transportministeren kan fastsætte regler om, at afgørelserne kan påklages til Jernbanenævnet, herunder at de afgørelser, der kan påklages til Jernbanenævnet, ikke først kan påklages til anden administrativ myndighed.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Beslutning om valg af tilbudsgiver i forbindelse med udbud efter § 8, stk. 2, og afgørelser efter § 8, stk. 3 og 4, kan påklages til Klagenævnet for Udbud, jf. § 24 e, stk. 4.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Transportministeren fastsætter regler om passagerers klageadgang efter Europa-Parlamentets og Rådets forordning (EF) nr. 1371/2007 af 23. oktober 2007 om jernbanepassagerers rettigheder og forpligtelser (passagerrettighedsforordningen).</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 24 d.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Jernbanenævnet kan påbyde jernbanevirksomheder, infrastrukturforvaltere og andre virksomheder på jernbaneområdet at give de oplysninger, som har betydning for Jernbanenævnets virksomhed.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 24 e.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Klage til Jernbanenævnet skal indgives, senest 4 uger efter at den afgørelse, der klages over, er meddelt den pågældende.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Jernbanenævnet kan se bort fra fristen, når omstændighederne taler derfor.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Har Jernbanenævnet ikke truffet afgørelse i en klagesag senest 2 måneder efter modtagelsen af alle nødvendige oplysninger, skal Jernbanenævnet underrette klageren om grunden hertil og om, hvornår en afgørelse kan forventes at foreligge.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Søgsmål til prøvelse af afgørelser og beslutninger om forhold omfattet af denne lov, herunder Jernbanenævnets afgørelser, skal indbringes, senest 8 uger efter at afgørelsen eller beslutningen er meddelt.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Finder indbringelse for domstolene ikke sted inden for fristen, er den pågældende afgørelse eller beslutning endelig.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>For beslutninger og afgørelser efter § 24 c, stk. 2, der indbringes for Klagenævnet for Udbud, finder bestemmelserne i lov om Klagenævnet for Udbud om klagenævnets sammensætning, dets sagsbehandling, sanktioner og adgang til at klage over klagenævnets afgørelse, herunder indbringelse for domstolene, tilsvarende anvendelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 24 f.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Jernbanenævnet afgiver senest den 30. april hvert år en beretning om dets virksomhed i det forgangne kalenderår.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Beretningen offentliggøres på Jernbanenævnets hjemmeside.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 24 g.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Jernbanenævnet udveksler oplysninger om dets arbejde, principper for beslutningstagning og praksis med de tilsvarende tilsynsorganer, der er omfattet af EU-reglerne på jernbaneområdet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 24 h.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Transportministeren kan bemyndige Trafikstyrelsen, Banedanmark, Havarikommissionen for Civil Luftfart og Jernbane eller andre statslige myndigheder til at udøve ministerens beføjelser i denne lov.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Transportministeren kan bemyndige andre statslige myndigheder til at udøve de beføjelser, som Trafikstyrelsen, Banedanmark eller Havarikommissionen er tillagt efter denne lov.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Transportministeren kan bemyndige sagkyndige, private virksomheder eller offentlige institutioner til at udøve ministerens beføjelser efter denne lov til at foretage typegodkendelser, prøvninger og eftersyn af emballage til farligt gods m.v.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Transportministeren kan endvidere bemyndige sagkyndige, private virksomheder eller offentlige institutioner til at udøve ministerens beføjelser vedrørende godkendelse og afprøvning af specifikke sikkerhedsmæssige tekniske indretninger m.v.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>16.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 26</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 2:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Transportministeren kan endvidere fastsætte regler om en akkrediteringsordning for de organer, institutioner eller andre, der i henhold til retsakter fastsat af Det Europæiske Fællesskab skal varetage opgaver om forhold, der er omfattet af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om offentlige veje, jf. lovbekendtgørelse nr. 893 af 9. september 2009, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 86, stk. 1,</Char>
+                <Char> ændres »Jernbaneklagenævnet« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»Jernbanenævnet«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Lov nr. 76 af 13. marts 1969 om veteranbaner ophæves.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 4</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. juli 2010.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

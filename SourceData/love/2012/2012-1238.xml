@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2012/09/21/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20120123830</AccessionNumber>
+    <DocumentId>AH004769</DocumentId>
+    <UniqueDocumentId>144384</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om fødevarer og lov om hold af dyr\n(Nedlæggelse af Fødevarekontroludvalget og revisionsenheden, bistand til eksporterhverv og udlægning af administration af frivillig mærkningsordning til en privat forening m.v.)</DocumentTitle>
+    <Year>2012</Year>
+    <DiesSigni>2012-12-18</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-06</EndDate>
+    <Status>Historic</Status>
+    <Number>1238</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 250 af 08/03/2013</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 873 af 29/06/2013</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1238 af 18/12/2012</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2013-07-02</DateOfHistoricMark>
+    <Subject>nøglehulsmærke</Subject>
+    <Subject>eksport</Subject>
+    <Subject>Fødevarekontrol</Subject>
+    <Subject>Fødevarekontroludvalg</Subject>
+    <Subject>Revisionsenhed</Subject>
+    <Subject>Delegation</Subject>
+    <Subject>betaling</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Mette Gjerskov</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Fødevaremin., \nFødevarestyrelsen, j.nr. 2012-20-2301-00911</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om fødevarer og lov om hold af dyr</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Nedlæggelse af Fødevarekontroludvalget og revisionsenheden, bistand til eksporterhverv og udlægning af administration af frivillig mærkningsordning til en privat forening m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om fødevarer, jf. lovbekendtgørelse nr. 820 af 1. juli 2011, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, stk. 1, nr. 5, </Char>
+                <Char>ændres »Myndigheder« til: »Laboratorier«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 20 </Char>
+                <Char>indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 4:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler, hvorefter ministeren henlægger administrationen af de i stk. 1 nævnte mærkningsordninger til en privat forening, herunder  behandling af ansøgninger, certificering, kontrol og tilsyn og opkrævning af betaling.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan i forbindelse hermed fastsætte regler om adgangen til at klage over den private forenings afgørelser.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan ændre afgørelserne, uden at der foreligger klage.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren bevarer sin fulde instruktionsbeføjelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 44 </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 44.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for fødevarer, landbrug og fiskeri kan yde bistand på anmodning fra en fysisk eller juridisk person eller en sammenslutning af sådanne i forbindelse med eks­port af fødevarer.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ministeren kan endvidere yde bistand af mere generel art til eksporterhverv.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren kan fastsætte regler om bistand efter stk. 1 og om betaling til hel eller delvis dækning af de faktiske omkostninger forbundet hermed.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Afholdte udlæg i forbindelse med bistandsydelsen kan kræves refunderet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 45, stk. 7, 2. pkt., </Char>
+                <Char>ændres »stk. 9« til: »stk. 11«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Italic" signiChar="AendringURN"> § 45 </Char>
+                <Char>indsættes efter stk. 7 som nye stykker:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De virksomheder, der er omfattet af loven, betaler til delvis finansiering af Fødevarestyrelsens rejsehold med speciale i efterforskning og regnskabskontrol en årlig afgift på 570 kr. Beløbet pris- og lønreguleres årligt pr. 1. januar med den af Finansministeriet fastsatte sats for det generelle pris- og lønindeks.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det regulerede beløb afrundes til nærmeste hele kronebeløb og offentliggøres ved bekendtgørelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 8 finder ikke anvendelse for primærproducenter og virksomheder, for hvilke ministeren i henhold til stk. 1 har fastsat regler om eller bestemt, at de er helt eller delvis fritaget for at betale omkostningerne ved kontrollen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 8-10 bliver herefter stk. 10-12.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 45, stk. 8,</Char>
+                <Char> der bliver stk. 10, affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 10.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren fastsætter regler om opkrævning af de i stk. 6 og 8 nævnte beløb, herunder fastsættelse af skæringsdato for, hvornår der foretages en opgørelse af virksomheder omfattet af stk. 6 og 8 og af antal anmeldte produkter omfattet af stk. 6, og om termin for opkrævning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 55 </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om hold af dyr, jf. lovbekendtgørelse nr. 814 af 14. juli 2012, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 57</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 57.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for fødevarer, landbrug og fiskeri kan yde bistand på anmodning fra en fysisk eller juridisk person eller en sammenslutning af sådanne i forbindelse med eks­port af dyr eller produkter heraf.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ministeren kan endvidere yde bistand af mere generel art til eksporterhverv.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren kan fastsætte regler om bistand efter stk. 1 og  om betaling til hel eller delvis dækning af de faktiske omkostninger forbundet hermed.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Afholdte udlæg i forbindelse med bistandsydelsen kan kræves refunderet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2013.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 4</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven kan ved kongelig anordning sættes helt eller delvis i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

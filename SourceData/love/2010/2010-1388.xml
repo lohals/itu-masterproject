@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2009/09/14/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20100138830</AccessionNumber>
+    <DocumentId>AL002339</DocumentId>
+    <UniqueDocumentId>134901</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om miljøbeskyttelse\n(Affaldshierarki, nationale affaldshåndteringsplaner og nationale affaldsforebyggelsesplaner)</DocumentTitle>
+    <Year>2010</Year>
+    <DiesSigni>2010-12-14</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-02</EndDate>
+    <Status>Historic</Status>
+    <Number>1388</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1317 af 19/11/2015</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1388 af 14/12/2010</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2015-11-27</DateOfHistoricMark>
+    <EuReferences>31994L0062</EuReferences>
+    <EuReferences>32008L0098</EuReferences>
+    <EuReferences>32009R0219</EuReferences>
+    <Subject>affaldshierarkiet</Subject>
+    <Subject>affaldsplaner</Subject>
+    <Subject>affaldsstrategi</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Karen Ellemann</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Miljømin.,\nMiljøstyrelsen, j.nr. MST-771-00016</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om miljøbeskyttelse</Char>
+      </Linea>
+      <Nota formaNo="EU" id="Not1">
+        <Explicatus>1)</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 94/62/EF af 20. december 1994 om emballage og emballageaffald, EF-Tidende 1994, nr. L 365, side 10, som ændret senest ved Europa-Parlamentets og Rådets forordning (EF) nr. 219/2009 af 11. marts 2009, EU-Tidende 2009, nr. L 87, side 109, og dele af Europa-Parlamentets og Rådets direktiv 2008/98/EF af 19. november 2008 om affald og om ophævelse af visse direktiver, EU-Tidende 2008, nr. L 312, side 3.</Char>
+          </Linea>
+        </Exitus>
+      </Nota>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Affaldshierarki, nationale affaldshåndteringsplaner og nationale affaldsforebyggelsesplaner)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om miljøbeskyttelse, jf. lovbekendtgørelse nr. 879 af 26. juni 2010, som ændret ved § 2 i lov nr. 484 af 11. maj 2010 og lov nr. 653 af 15. juni 2010, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 6 a indsættes i </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">kapitel 1:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 6 b.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Udarbejdelse af politikker og udstedelse af regler om affaldsforebyggelse og -håndtering skal, jf. dog stk. 2, ske i overensstemmelse med følgende affaldshierarki:</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Affaldsforebyggelse.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Forberedelse med henblik på genbrug.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Genanvendelse.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Anden nyttiggørelse.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>5)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Bortskaffelse.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Affaldshierarkiet kan fraviges for særlige affaldsstrømme, hvis fravigelsen er begrundet i en livscyklusbetragtning.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Anvendelsen af affaldshierarkiet og fravigelser herfra skal ske med henblik på at opnå det bedste samlede miljømæssige resultat, jf. § 1 og § 3.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 46 b indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 46 c.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Miljøministeren udarbejder en 12-årig national plan for håndtering af affald.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Planen skal revideres mindst hvert sjette år.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Den nationale affaldshåndteringsplan skal indeholde:</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>En analyse af den aktuelle affaldshåndteringssituation.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>En beskrivelse af den nationale affaldspolitik.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>En beskrivelse af prioriteringen på affaldsområdet.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>En beskrivelse af EU-mål og nationale mål for håndteringen af de samlede affaldsmængder og de nødvendige tiltag for at nå disse mål, herunder en vurdering af behovet for nye indsamlingsordninger og for udbygning af den eksisterende affaldsanlægsinfrastruktur.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>5)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>En beskrivelse af kriterierne for placeringen af fremtidige anlæg til bortskaffelse af affald.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>6)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>En national kapacitetsplan for anlæg til bortskaffelse af affald og for anlæg, der nyttiggør blandet kommunalt affald indsamlet fra husholdninger.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ved udarbejdelsen af den nationale affaldshåndteringsplan finder § 6 b tilsvarende anvendelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Miljøministerens vedtagelse af den nationale affaldshåndteringsplan efter stk. 1 kan ikke påklages til anden administrativ myndighed.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Overskriften til </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">kapitel 7</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <ParagrafGruppe>
+                <Rubrica>
+                  <Linea>
+                    <Char>Affaldsforebyggelse, genanvendelse og renere teknologi</Char>
+                  </Linea>
+                </Rubrica>
+              </ParagrafGruppe>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 50 d indsættes i </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">kapitel 7:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 50 e.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Miljøministeren udarbejder en 12-årig national plan for forebyggelse af affald.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Planen skal revideres mindst hvert sjette år.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Den nationale affaldsforebyggelsesplan skal indeholde:</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>En beskrivelse af målene for affaldsforebyggelse.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>En beskrivelse af eksisterende affaldsforebyggelsesforanstaltninger.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>En beskrivelse af affaldsforebyggelsespolitikker.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>En beskrivelse og en vurdering af nye affaldsforebyggelsesforanstaltninger, som skal ledsages af relevante benchmarks.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>5)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>En beskrivelse af foranstaltningerne til forebyggelse af emballageaffald, herunder genbrug af emballage.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ved udarbejdelsen af den nationale affaldsforebyggelsesplan finder § 6 b tilsvarende anvendelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Den nationale affaldshåndteringsplan, jf. § 46 c i lov om miljøbeskyttelse som affattet ved denne lovs § 1, nr. 2, skal udarbejdes senest den 1. januar 2013.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Den nationale affaldsforebyggelsesplan, jf. § 50 e i lov om miljøbeskyttelse som affattet ved denne lovs § 1, nr. 4, skal udarbejdes senest den 12. december 2013.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,1006 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2013/08/13/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20140036629</AccessionNumber>
+    <DocumentId>CE000031</DocumentId>
+    <UniqueDocumentId>162533</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om teknologi og innovation</DocumentTitle>
+    <Year>2014</Year>
+    <DiesSigni>2014-04-10</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-21</EndDate>
+    <Status>Valid</Status>
+    <Number>366</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 366 af 10/04/2014</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Subject>Erhvervsliv</Subject>
+    <Subject>Innovationsmiljø</Subject>
+    <Subject>Innovation</Subject>
+    <Subject>Innnovationsnetværk</Subject>
+    <Subject>Innovationspolitik</Subject>
+    <Subject>Kapital</Subject>
+    <Subject>GTS</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Sofie Carsten Nielsen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Charlotte Elverdam</Signature>
+    <PlaceOfSignature>Uddannelses- og Forskningsministeriet</PlaceOfSignature>
+    <JournalNumber>Uddannelses- og Forskningsmin.,\nStyrelsen for Forskning og Innovation, j.nr. 14/006294</JournalNumber>
+    <Ministry>Uddannelses- og Forskningsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Bekendtgørelse af lov om teknologi og innovation</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Indledning>
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om teknologi og innovation, jf. lovbekendtgørelse nr. 835 af 13. august 2008, med de ændringer, der følger af § 72 i lov nr. 1336 af 19. december 2008 og § 1 i lov nr. 309 af 29. marts 2014.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="Bog0">
+      <Afsnit id="Afs0">
+        <Kapitel id="Kap0">
+          <ParagrafGruppe id="Kap0_X1">
+            <Rubrica>
+              <Linea>
+                <Char>Teknologi og innovationsaktiviteter</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="Par1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="Par1_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Formålet med loven er at styrke teknologiudvikling og innovation i erhvervslivet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par1_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven tilsigter navnlig at fremme teknologiudvikling og innovation, der udøves gennem godkendte teknologiske serviceinstitutter, innovationsmiljøer og innovationsnetværk m.v., samt ved</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par1_Stk2_X1">
+                    <Indentatio formaInd="Nummer" id="Par1_Stk2_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>samarbejde og formidling af viden mellem danske og udenlandske forskere, danske og udenlandske forsknings- og uddannelsesinstitutioner, teknologiske serviceinstitutter, videninstitutioner og virksomheder,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par1_Stk2_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>innovation, udvikling, spredning, udnyttelse og kommercialisering af forskningsresultater, ny teknologi, organisatorisk og markedsmæssig viden,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par1_Stk2_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilgang og udvikling af viden- og teknologibaserede virksomheder,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par1_Stk2_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>innovation og tilførsel af kapital og kompetence til viden- og teknologibaserede virksomheder,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par1_Stk2_Num5">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>internationalt samarbejde om udnyttelsen af viden og teknologi.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par1_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Inden for de rammer, der afsættes på de årlige finanslove, kan uddannelses- og forskningsministeren til opfyldelse af lovens formål iværksætte initiativer, herunder medfinansiering af udviklingsaktiviteter, analyser, evalueringer m.v., jf. stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="Par2_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Til opfyldelse af lovens formål kan anvendes et eller flere af følgende medfinansieringsinstrumenter:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par2_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Tilskud, herunder til deltagelse i internationalt samarbejde.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Kapitalindskud.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Lån.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Garantier.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num5">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Andre, lignende finansieringsinstrumenter.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte regler for medfinansiering efter stk. 1 og tilbagebetaling af ydet medfinansiering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="Par3_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Til bistand ved gennemførelsen af lovens formål kan uddannelses- og forskningsministeren indhente rådgivning fra Danmarks Forsknings- og Innovationspolitiske Råd.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par4-4a">
+              <Explicatus>§§ 4-4 a</Explicatus>
+              <Stk id="Par4-4a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe id="Kap0_X2">
+            <Rubrica>
+              <Linea>
+                <Char>Godkendte teknologiske serviceinstitutter</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="Par5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="Par5_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan efter ansøgning godkende almennyttige selvejende institutioner eller almennyttige aktieselskaber som godkendte teknologiske serviceinstitutter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Godkendte teknologiske serviceinstitutter skal inden for området teknologisk service arbejde på et økonomisk, fagligt og organisatorisk betryggende grundlag.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Institutternes vedtægter og ændringer heraf skal godkendes af ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Godkendelse indebærer, at ministeren skal have indseende med instituttets samlede virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et godkendt teknologisk serviceinstitut skal meddele uddannelses- og forskningsministeren, såfremt der sker ændringer i forhold, der ligger til grund for godkendelsen og medfinansieringen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Godkendelse efter stk. 1 kan meddeles for indtil 3 år.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan tilbagekalde godkendelsen med eller uden varsel, hvis de forudsætninger, der lå til grund for godkendelsen, ikke længere er til stede, jf. stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="Par6_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Betegnelsen »teknologisk institut« eller »teknologisk serviceinstitut« eller ordsammensætninger, hvori disse betegnelser indgår, må kun anvendes efter tilladelse fra uddannelses- og forskningsministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe id="Kap0_X3">
+            <Rubrica>
+              <Linea>
+                <Char>Innovationsmiljøer</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="Par7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="Par7_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan efter ansøgning godkende innovationsmiljøer med henblik på at fremme samspillet mellem det offentlige vidensystem, nye innovative virksomheder, etablerede virksomheder og kapitalkilder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par7_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et innovationsmiljø skal for at blive godkendt råde over faciliteter og kvalifikationer, der kan fremme nye innovative virksomheder med henblik på at udvikle og kommercialisere nye service- og produktideer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For at et innovationsmiljø kan godkendes, skal stifterne endvidere opfylde følgende krav:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par7_Stk2_X1">
+                    <Indentatio formaInd="Nummer" id="Par7_Stk2_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Såfremt stifterne har egne virksomheder, skal disse over en flerårig periode have udvist et tilfredsstillende resultat af den ordinære drift, ligesom virksomhederne skal have en soliditet og en egenkapital, der står i rimeligt forhold til virksomhedernes forretningsgrundlag.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par7_Stk2_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Stifterne må ikke have ubetalt forfalden gæld til det offentlige, der overstiger 100.000 kr.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par7_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et innovationsmiljø skal være et aktieselskab, hvis hovedformål er at beskæftige sig med aktiviteter, som knytter sig til udvikling af nye service- og produktideer frem mod en kommerciel udnyttelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par7_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan inden for en ramme, der fastsættes på de årlige finanslove, helt eller delvis medfinansiere etableringen og driften af godkendte innovationsmiljøer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par7_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et godkendt innovationsmiljø skal meddele uddannelses- og forskningsministeren, såfremt der sker ændringer i forhold, der ligger til grund for godkendelsen og medfinansieringen af innovationsmiljøet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par7_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan tilbagekalde godkendelsen af et innovationsmiljø, hvis de forudsætninger, der lå til grund for godkendelsen af innovationsmiljøet, ikke længere er til stede, eller i tilfælde af grov eller gentagen overtrædelse af reglerne i denne lov eller regler udstedt i medfør af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par7_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte nærmere bestemmelser om kravene for godkendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par7_Stk8">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forvaltningsloven finder anvendelse på den virksomhed, der udøves som godkendt innovationsmiljø.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="Par8_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren fastsætter nærmere regler for tilsynet med innovationsmiljøerne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren kan af innovationsmiljøerne kræve meddelt alle oplysninger, som er nødvendige for tilsynet med innovationsmiljøernes virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="Par9_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan inden for en ramme, der fastsættes på de årlige finanslove, tildele innovationsmiljøerne en ramme til at medfinansiere kommercialisering af nye ideer, opfindelser og forskningsresultater.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par9_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det kan i kontrakterne med innovationsmiljøerne fastsættes, at</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par9_Stk2_X1">
+                    <Indentatio formaInd="Nummer" id="Par9_Stk2_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>innovationsmiljøerne tildeler medfinansiering på vegne af Uddannelses- og Forskningsministeriet,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par9_Stk2_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>medfinansieringen tildeles innovationsmiljøerne med henblik på anvendelse som medfinansiering i form af lån eller kapitalindskud til kommercialisering af nye ideer, opfindelser og forskningsresultater i innovationsmiljøet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par9_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan i de tilfælde, hvor innovationsmiljøerne tildeler medfinansiering på vegne af Uddannelses- og Forskningsministeriet, jf. nr. 1, fastsættes, at en andel af tilbagebetalingerne på projekter tilfalder innovationsmiljøet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par9_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan i de tilfælde, hvor medfinansieringen tildeles innovationsmiljøerne med henblik på anvendelse som medfinansiering i form af lån eller kapitalindskud, jf. nr. 2, fastsættes, at en andel af tilbagebetalingerne på projekter tilfalder Uddannelses- og Forskningsministeriet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par9_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Innovationsmiljøernes afgørelser kan ikke indbringes for en administrativ myndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par9_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren fastsætter nærmere regler vedrørende innovationsmiljøernes sagsbehandling og medfinansiering, herunder betingelser for innovationsmiljøernes tilbagebetaling af medfinansiering ydet i medfør af stk. 1 og 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe id="Kap0_X4">
+            <Rubrica>
+              <Linea>
+                <Char>Innovationsnetværk</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="Par9a">
+              <Explicatus>§ 9 a.</Explicatus>
+              <Stk id="Par9a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan tildele medfinansiering af innovationsnetværk til fremme af samarbejde og formidling af viden mellem danske og udenlandske forsknings- og uddannelsesinstitutioner, godkendte teknologiske serviceinstitutter, videninstitutioner og virksomheder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par9a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Medfinansiering af innovationsnetværk tildeles efteransøgning og på baggrund af offentliggjorte kriterier for tildeling af medfinansiering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe id="Kap0_X5">
+            <Rubrica>
+              <Linea>
+                <Char>Administration, tilsyn og kontrol</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="Par10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="Par10_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren udsteder i nødvendigt omfang nærmere regler om gennemførelse af de af ministeren iværksatte aktiviteter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For initiativer, der iværksættes efter denne lov, kan uddannelses- og forskningsministeren fastsætte regler for administration, godkendelse, regnskabsaflæggelse, revision, kontrol og tilsyn samt regler om afgivelse af oplysninger og regnskaber.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For initiativer iværksat i henhold til denne lov kan uddannelses- og forskningsministeren eller en styrelse under ministeriet i nærmere bestemt omfang, når ministeriets eller styrelsens erfaring eller særlige forhold taler herfor, henlægge sagsforberedende opgaver ved administrationen af konkrete initiativer til anden offentlig myndighed eller privat institution.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="Par11_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fra personer og virksomheder, som der ydes medfinansiering til efter denne lov, kræve alle oplysninger og regnskaber, som skønnes nødvendige for administrationen m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par11_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan efter aftale med finansministeren bemyndige Statens Administration til at træffe afgørelser efter nærmere regler i forbindelse med administrationen af midler bevilget efter denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par12-12a">
+              <Explicatus>§ 12-12 a.</Explicatus>
+              <Stk id="Par12-12a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="Par13_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Op til 20 pct. af ydet medfinansiering til aktiviteter efter § 1, stk. 3, kan tilbageholdes og anvendes til modregning med virksomhedernes eventuelle restancer til det offentlige.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe id="Kap0_X6">
+            <Rubrica>
+              <Linea>
+                <Char>Delegationsbestemmelser</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="Par14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="Par14_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan bemyndige en statslig myndighed under ministeriet eller andre statslige myndigheder efter forhandling med vedkommende minister til at udøve de beføjelser, der i denne lov er tillagt uddannelses- og forskningsministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par14_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministen kan fastsætte regler om adgangen til at påklage afgørelser, der er truffet i henhold til bemyndigelse efter stk. 1, herunder at afgørelserne ikke skal kunne påklages.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par14_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte nærmere regler om udøvelsen af de beføjelser, som en anden statslig myndighed efter forhandling med vedkommende minister bliver bemyndiget til at udøve efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe id="Kap0_X7">
+            <Rubrica>
+              <Linea>
+                <Char>Straffebestemmelser</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="Par15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="Par15_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde den, der i forbindelse med en ansøgning og bevilget medfinansiering</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par15_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par15_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>afgiver urigtige eller vildledende oplysninger eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par15_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>fortier oplysninger af betydning for en sags afgørelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par15_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par15_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Overtrædelse af § 6 straffes med bøde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="Par16_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>I regler, der udstedes i medfør af denne lov, kan der fastsættes straf af bøde for overtrædelse af reglerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par16_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe id="Kap0_X8">
+            <Rubrica>
+              <Linea>
+                <Char>Ikrafttrædelses- og overgangsbestemmelser</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="Par17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="Par17_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. juli 2002.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ansøgninger i henhold til lov om teknologisk service eller lov om erhvervsfremme behandles efter de regler, der gælder på modtagelsestidspunktet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Administration, rapportering, regnskabsaflæggelse og eventuel tilbagebetaling af medfinansiering givet i henhold til lov om teknologisk service og lov om erhvervsfremme sker ligeledes efter hidtil gældende bestemmelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Godkendelser udstedt i henhold til lov om teknologisk service og lov om erhvervsfremme behandles efter hidtil gældende bestemmelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De i henhold til lov om teknologisk service udstedte bekendtgørelser og forskrifter har fortsat gyldighed, indtil de ændres eller ophæves i medfør af bestemmelser i denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De i henhold til lov om erhvervsfremme udstedte bekendtgørelser og forskrifter vedrørende innovationsmiljøerne, jf. stk. 8, nr. 2, har fortsat gyldighed, indtil de ændres eller ophæves i medfør af bestemmelser i denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De i henhold til lov om teknologisk service meddelte tilladelser og bemyndigelser har fortsat gyldighed, indtil de udløber, ændres eller tilbagekaldes i medfør af bestemmelser i denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De i henhold til lov om erhvervsfremme meddelte tilladelser og bemyndigelser, jf. stk. 8, nr. 2, har fortsat gyldighed, indtil de udløber, ændres eller tilbagekaldes i medfør af bestemmelser i denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17_Stk8">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved lovens ikrafttræden ophæves</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par17_Stk8_X1">
+                    <Indentatio formaInd="Nummer" id="Par17_Stk8_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>lov nr. 221 af 27. marts 1996 om teknologisk service,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par17_Stk8_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>§§ 9 a, 9 b og 9 c i lov om erhvervsfremme, jf. lovbekendtgørelse nr. 1088 af 29. november 2000.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="Par18_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="Par19_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Grønland og Færøerne, men kan ved kongelig anordning sættes i kraft for disse dele af riget med de afvigelser, som de særlige grønlandske og færøske forhold tilsiger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 430 af 6. juni 2005 om ændring af forskellige love og om ophævelse af lov om kommunalt samarbejde om opkrævning og inddrivelse (Konsekvensændringer som følge af lov om opkrævning og inddrivelse af visse fordringer – samlingen af inddrivelsen i Skatteministeriet) indeholder følgende ikrafttrædelsesbestemmelser:</Char>
+        </Linea>
+        <Nota id="Not1">
+          <Explicatus>1)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører § 12, stk. 2 og 3.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 70</Explicatus>
+        <Stk>
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+            </Linea>
+            <Nota id="Not2">
+              <Explicatus>2)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Loven blev bekendtgjort i Lovtidende den 7. juni 2005.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven har virkning fra den 1. november 2005, jf. dog stk. 3.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Afgørelser om inddrivelse, der inden den 1. oktober 2005 er påklaget til de hidtidige administrative klageinstanser, overgår til behandling i Landsskatteretten den 1. januar 2006, hvis de hidtidige klageinstanser ikke har færdigbehandlet klagen inden denne dato.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 431 af 6. juni 2005 om ændring af forskellige love (Forenkling, harmonisering og objektivering af reglerne for inddrivelse af gæld til det offentlige m.v. samt mulighed for anvendelse af digitale lønsedler) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+        <Nota id="Not3">
+          <Explicatus>3)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører § 12 a.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 85</Explicatus>
+        <Stk>
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. november 2005, jf. dog stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udeladt)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 569 af 6. juni 2007 om ændring af lov om teknologi og innovation</Char>
+        </Linea>
+        <Linea>
+          <Char>(Mulighed for at fordele bevillinger til internationale fora og forskellige andre ændringer) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+        <Nota id="Not4">
+          <Explicatus>4)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører § 1, stk. 2, nr. 1, § 2, stk. 1, nr. 1, og § 4 a.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 2</Explicatus>
+        <Stk>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. juli 2007.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+        <Nota id="Not5">
+          <Explicatus>5)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører overskriften efter § 11, § 12 og 12 a.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 167</Explicatus>
+        <Stk>
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2009, jf. dog stk. 2.</Char>
+            </Linea>
+            <Linea>
+              <Char>§ 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udeladt)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 309 af 29. marts 2014 om ændring af lov om teknologi og innovation og lov om offentlige forskningsinstitutioners kommercielle aktiviteter og samarbejde med fonde</Char>
+        </Linea>
+        <Linea>
+          <Char>(Ændringer som følge af lov om Danmarks Innovationsfond m.v.)</Char>
+        </Linea>
+        <Linea>
+          <Char>indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+        <Nota id="Not6">
+          <Explicatus>6)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører § 1, stk. 2, overskriften før § 3, §§ 3-4 a, § 5, stk. 1, 3 og 4, § 5, stk. 6., 2. pkt., § 7, stk. 2, nr. 2, § 7, stk. 4, § 9, stk. 1, § 9 a, § 11, stk. 2, overskriften før § 14, § 14 og § 18.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 3</Explicatus>
+        <Stk>
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. april 2014.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Danmarks Innovationsfond indtræder ved lovens ikrafttræden i de rettigheder og forpligtelser, som hidtil har tilkommet Rådet for Teknologi og Innovation, jf. dog stk. 3.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Uddannelses- og Forskningsministeriet indtræder ved lovens ikrafttræden i de rettigheder og forpligtelser, som hidtil har tilkommet Rådet for Teknologi og Innovation, i relation til godkendte teknologiske serviceinstitutter, innovationsmiljøer og innovationsnetværk.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 4</Explicatus>
+        <Stk>
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 1 kan ved kongelig anordning sættes i kraft for Færøerne og Grønland med de ændringer, som de færøske og grønlandske forhold tilsiger.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

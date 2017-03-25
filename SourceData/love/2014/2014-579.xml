@@ -1,0 +1,1054 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2013/08/13/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20140057929</AccessionNumber>
+    <DocumentId>CE000067</DocumentId>
+    <UniqueDocumentId>163397</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om vurdering af udenlandske uddannelseskvalifikationer m.v.</DocumentTitle>
+    <Year>2014</Year>
+    <DiesSigni>2014-06-01</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-21</EndDate>
+    <Status>Valid</Status>
+    <Number>579</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LOV nr 544 af 29/04/2015 </KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 579 af 01/06/2014</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20150054430</Ref_Accn>
+    <Ref_Af REFid="change_1">2015-04-29</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om ændring af lov om maritime uddannelser og lov om vurdering af udenlandske uddannelseskvalifikationer m.v. (Harmonisering af visse regler for de maritime uddannelser)</Ref_Text>
+    <Subject>Styrelsen for Videregående Uddannelser</Subject>
+    <Subject>uds</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Sofie Carsten Nielsen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Jesper Schaumburg-Müller</Signature>
+    <PlaceOfSignature>Uddannelses- og Forskningsministeriet</PlaceOfSignature>
+    <JournalNumber>Uddannelses- og Forskningsmin., j.nr. 14/006467</JournalNumber>
+    <Ministry>Uddannelses- og Forskningsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Bekendtgørelse af lov om vurdering af udenlandske uddannelseskvalifikationer m.v.</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Indledning>
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om vurdering af udenlandske uddannelseskvalifikationer m.v., jf. lovbekendtgørelse nr. 371 af 13. april 2007, med de ændringer, der følger af § 5 i lov nr. 561 af 6. juni 2007.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="Bog0">
+      <Afsnit id="Afs0">
+        <Kapitel id="Kap1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Formål</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap1_X1">
+            <Paragraf id="Par1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="Par1_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven har til formål at sikre adgang til at få udenlandske uddannelseskvalifikationer vurderet med henblik på at lette tilgangen til det danske arbejdsmarked og til det danske uddannelsessystem samt sikre bedre mulighed for at få godskrevet danske og udenlandske uddannelseskvalifikationer i en dansk uddannelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Adgangen til at få foretaget en vurdering af udenlandske uddannelseskvalifikationer m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap2_X1">
+            <Paragraf id="Par2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="Par2_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ret til at få foretaget en vurdering har</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par2_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>alle, der har udenlandske uddannelseskvalifikationer, jf. dog stk. 2 og 3,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par2_Stk1_X2">
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>myndigheder, der har behov for en vurdering i deres sagsbehandling,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par2_Stk1_X3">
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>arbejdsgivere, der har behov for en vurdering for at kunne tage stilling til spørgsmålet om ansættelse af en person, der har udenlandske uddannelseskvalifikationer,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par2_Stk1_X4">
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>uddannelsesinstitutioner, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par2_Stk1_X5">
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num5">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>arbejdsløshedskasser, der skal træffe afgørelse om optagelse af en person, der har udenlandske uddannelseskvalifikationer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Til brug for behandlingen af ansøgninger om adgang til at udøve et lovreguleret erhverv indhentes vurdering af den kompetente myndighed, jf. stk. 1, nr. 2, og § 2 a.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En person med udenlandske uddannelseskvalifikationer, der har ansøgt en uddannelsesinstitution om at lade disse kvalifikationer erstatte dele af en uddannelse ved institutionen, kan ikke få en vurdering efter kapitel 3 med henblik på denne afgørelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vurdering efter kapitel 3 kan kun kræves efter stk. 1, nr. 2-5, når der foreligger samtykke fra den person, hvis uddannelseskvalifikationer ønskes vurderet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dette gælder dog ikke, når en kommune eller anden myndighed, der er ansvarlig for integration af udlændinge, har behov for en vurdering med henblik på sagsbehandlingen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par2a">
+              <Explicatus>§ 2 a.</Explicatus>
+              <Stk id="Par2a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Pligt til at få foretaget en vurdering har</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par2a_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par2a_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>myndigheder, der træffer afgørelse om adgang til udøvelse af lovregulerede erhverv,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par2a_Stk1_X2">
+                    <Indentatio formaInd="Nummer" id="Par2a_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>faglige udvalg, der træffer afgørelser om afkortning af uddannelsestid.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1 gælder ikke i de tilfælde,</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par2a_Stk2_X1">
+                    <Indentatio formaInd="Nummer" id="Par2a_Stk2_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>hvor der foreligger en ansøgning, der på det foreliggende grundlag kan imødekommes fuldt ud, for så vidt angår anerkendelse af den pågældendes uddannelseskvalifikationer,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par2a_Stk2_X2">
+                    <Indentatio formaInd="Nummer" id="Par2a_Stk2_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>hvor udenlandske uddannelseskvalifikationer efter lovgivningen ikke kan danne grundlag for udøvelse af et lovreguleret erhverv, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par2a_Stk2_X3">
+                    <Indentatio formaInd="Nummer" id="Par2a_Stk2_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>hvor tilsvarende ufravigelige krav, navnlig vedrørende den pågældende uddannelseskvalifikations oprindelsesland eller ansøgerens nationalitet, ikke er opfyldt.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2a_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte regler om hel eller delvis fritagelse af en myndighed, der træffer afgørelse om adgang til udøvelse af lovregulerede erhverv, fra pligten til høring efter stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Regler om sådan fritagelse fastsættes på grundlag af en redegørelse fra myndigheden for procedurer, kriterier og praksis i forhold til vurdering og anerkendelse af udenlandske uddannelseskvalifikationer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2a_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En myndighed, der træffer afgørelse om adgang til udøvelse af lovregulerede erhverv, skal til brug for den beretning, som uddannelses- og forskningsministeren skal afgive én gang årligt, jf. § 11, indberette oplysninger om myndighedens afgørelser om adgang til udøvelse af lovregulerede erhverv på grundlag af udenlandske uddannelseskvalifikationer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte regler om oplysningernes indberetning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2a_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Regler om fritagelse efter stk. 3 kan ophæves, hvis myndigheden ikke længere lever op til den praksis m.v., som myndigheden har beskrevet i redegørelsen efter stk. 3, eller hvis den praksis m.v., som myndigheden anvender, ikke længere er tilstrækkelig med henblik på at sikre personer med udenlandske uddannelseskvalifikationer anerkendelse af disse kvalifikationer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2a_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Fastsættelse, jf. stk. 3, og ophævelse, jf. stk. 5, af regler om fritagelse for pligten til høring efter stk. 1, sker, i det omfang det drejer sig om en myndighed under en anden ministers område, efter forhandling med vedkommende minister.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par2b">
+              <Explicatus>§ 2 b.</Explicatus>
+              <Stk id="Par2b_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren eller den institution, uddannelses- og forskningsministeren har bemyndiget hertil efter § 7, skal rådgive kommuner og andre myndigheder, der er ansvarlige for integration af udlændinge, om, hvilken form for afklaring af uddannelseskvalifikationer m.v. det vil være relevant at gennemføre i forhold til den enkelte udlænding.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Vurderingens karakter</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap3_X1">
+            <Paragraf id="Par3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="Par3_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Vurderingen tager udgangspunkt i en sammenligning af de slutkompetencer, som henholdsvis de udenlandske og de danske uddannelseskvalifikationer er udtryk for.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vurderingen efter stk. 1 omfatter</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par3_Stk2_X1">
+                    <Indentatio formaInd="Nummer" id="Par3_Stk2_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>en vurdering af afsluttede udenlandske uddannelsers niveau i forhold til niveauer i den danske uddannelsesstruktur eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par3_Stk2_X2">
+                    <Indentatio formaInd="Nummer" id="Par3_Stk2_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>en vurdering af udenlandske uddannelseskvalifikationer i forhold til en bestemt dansk uddannelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I vurderingen efter stk. 2, nr. 2, indgår normalt, hvilken supplering der skal til, for at en persons udenlandske uddannelseskvalifikationer kan sidestilles med en bestemt dansk uddannelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ansøgere med udenlandske uddannelseskvalifikationer, jf. § 2, stk. 1, nr. 1, kan henvises til en vurdering efter stk. 2, nr. 1, i stedet for en vurdering efter stk. 2, nr. 2, hvis det er mere relevant set i forhold til de kvalifikationer, ansøgeren ønsker vurderet, eller i forhold til formålet med vurderingen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vurderingen skal lægges til grund for følgende afgørelser:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par3_Stk4_X1">
+                    <Indentatio formaInd="Nummer" id="Par3_Stk4_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>En offentligt anerkendt uddannelsesinstitutions afgørelse om optagelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par3_Stk4_X2">
+                    <Indentatio formaInd="Nummer" id="Par3_Stk4_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>En arbejdsløshedskasses afgørelse om optagelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par3_Stk4_X3">
+                    <Indentatio formaInd="Nummer" id="Par3_Stk4_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>En myndigheds afgørelse om ansættelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par3_Stk4_X4">
+                    <Indentatio formaInd="Nummer" id="Par3_Stk4_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>En myndigheds afgørelse om adgang til udøvelse af et lovreguleret erhverv, jf. dog stk. 5.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par3_Stk4_X5">
+                    <Indentatio formaInd="Nummer" id="Par3_Stk4_Num5">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Et fagligt udvalgs afgørelse om afkortning af uddannelsestid.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En vurdering skal alene lægges til grund for en afgørelse om adgang til udøvelse af et lovreguleret erhverv, jf. stk. 4, nr. 4, hvis den er indhentet til dette formål, jf. § 2, stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vurderingen er vejledende i forhold til en uddannelsesinstitutions afgørelse om, hvorvidt en persons udenlandske uddannelseskvalifikationer kan erstatte dele af en uddannelse ved institutionen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte nærmere regler om vurderingerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="Par4_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte regler om, i hvilket omfang det kan pålægges uddannelsesinstitutioner at medvirke ved vurderingen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I det omfang det drejer sig om en uddannelsesinstitution under en anden ministers område, fastsættes reglerne efter forhandling med vedkommende minister.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="Par5_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap3a">
+          <Explicatus>Kapitel 3 a</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Klage</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap3a_X1">
+            <Paragraf id="Par5a">
+              <Explicatus>§ 5 a.</Explicatus>
+              <Stk id="Par5a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren nedsætter et klagenævn, Kvalifikationsnævnet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Personer med udenlandske uddannelseskvalifikationer, der har søgt optagelse på, er optaget på eller er indskrevet ved en uddannelse, der udbydes efter regler fastsat af undervisningsministeren, uddannelses- og forskningsministeren</Char>
+                  </Linea>
+                  <Nota id="Par5a_Stk2_Not1">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>De maritime uddannelser på uddannelses- og forskningsministerens område er ikke omfattet af Kvalifikationsnævnets kompetence.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>eller kulturministeren, kan indbringe en institutions afgørelse af, om kvalifikationerne kan erstatte dele af den pågældende uddannelse, for Kvalifikationsnævnet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5a_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Personer med danske uddannelseskvalifikationer, der har søgt optagelse på, er optaget på eller er indskrevet ved en uddannelse, der udbydes efter regler fastsat af undervisningsministeren</Char>
+                  </Linea>
+                  <Nota id="Par5a_Stk3_Not2">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Uddannelses- og forskningsministeren for så vidt angår erhvervsakademiuddannelser og professionsbacheloruddannelser.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>eller kulturministeren</Char>
+                  </Linea>
+                  <Nota id="Par5a_Stk3_Not3">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Uddannelses- og forskningsministeren for så vidt angår arkitekt-, design-, konservator- og kunsthåndværkeruddannelserne.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>, kan indbringe en institutions afgørelse af, om kvalifikationerne kan erstatte dele af den pågældende uddannelse, for Kvalifikationsnævnet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5a_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Personer, der er optaget på eller indskrevet ved en uddannelse, der udbydes efter regler fastsat af undervisningsministeren</Char>
+                  </Linea>
+                  <Nota id="Par5a_Stk4_Not4">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Uddannelses- og forskningsministeren for så vidt angår erhvervsakademiuddannelser og professionsbacheloruddannelser.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>eller kulturministeren</Char>
+                  </Linea>
+                  <Nota id="Par5a_Stk4_Not5">
+                    <Explicatus>5)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Uddannelses- og forskningsministeren for så vidt angår arkitekt-, design-, konservator- og kunsthåndværkeruddannelserne.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                  <Linea>
+                    <Char>, kan indbringe en institutions afgørelse af, om et kommende studieophold i udlandet eller ophold ved en anden dansk uddannelsesinstitution kan erstatte dele af den pågældende uddannelse, for Kvalifikationsnævnet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5a_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klage over en uddannelsesinstitutions afgørelse, jf. stk. 2-4, kan af den, afgørelsen vedrører, indbringes for Kvalifikationsnævnet inden 4 uger efter, at klageren har fået meddelelse om afgørelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Klagen skal være skriftlig og begrundet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5a_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kvalifikationsnævnet kan i særlige tilfælde se bort fra overskridelse af fristen i stk. 5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5a_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klagen stiles til Kvalifikationsnævnet og sendes til den uddannelsesinstitution, der har truffet afgørelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis institutionen fastholder afgørelsen, sender institutionen klagen til Kvalifikationsnævnet med en udtalelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kvalifikationsnævnet træffer den endelige administrative afgørelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5a_Stk8">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren fastsætter regler om nævnets sammensætning, virksomhed, sagsbehandling af klager og forretningsorden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Faglige råd</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap4_X1">
+            <Paragraf id="Par6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="Par6_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Efter regler fastsat af uddannelses- og forskningsministeren kan der nedsættes faglige råd, som efter anmodning</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par6_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par6_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>bistår ved udarbejdelse af rammer og standarder for vurdering og anerkendelse af udenlandske kvalifikationer og kompetencer, herunder kvalifikationer og kompetencer, der er opnået på anden måde end ved formel uddannelse, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par6_Stk1_X2">
+                    <Indentatio formaInd="Nummer" id="Par6_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>udtaler sig om vurderingen af personers udenlandske uddannelseskvalifikationer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par6_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Rådenes formand og medlemmer i øvrigt udpeges blandt særligt sagkyndige.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par6_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Rådene kan i særlige tilfælde indkalde andre sagkyndige til at bistå med opgaverne efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Administration m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap5_X1">
+            <Paragraf id="Par7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="Par7_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan bemyndige en offentlig institution til at udøve beføjelserne efter denne lov, bortset fra beføjelserne til regeludstedelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par7_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan ikke klages til uddannelses- og forskningsministeren over udøvelsen af beføjelser efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="Par8_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren eller den institution, uddannelses- og forskningsministeren har bemyndiget hertil, kan hos offentlige myndigheder, private institutioner, faglige organisationer og arbejdsløshedskasser indhente oplysninger til brug for vurderingen af udenlandske uddannelseskvalifikationer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren eller den institution, uddannelses- og forskningsministeren har bemyndiget hertil, kan fra de personer, myndigheder m.fl., der ansøger om en vurdering af udenlandske uddannelseskvalifikationer, indhente de oplysninger, som er nødvendige for varetagelsen af opgaver efter § 10.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren eller den institution, uddannelses- og forskningsministeren har bemyndiget hertil, kan til uddannelsesinstitutioner, der medvirker ved vurderingen, jf. § 4, videregive de oplysninger om uddannelsesforløb m.v. for den person, hvis uddannelseskvalifikationer skal vurderes, som er nødvendige for vurderingen af uddannelseskvalifikationerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte regler om</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par8_Stk4_X1">
+                    <Indentatio formaInd="Nummer" id="Par8_Stk4_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>adgangen til at indhente oplysninger efter stk. 1 og 2,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par8_Stk4_X2">
+                    <Indentatio formaInd="Nummer" id="Par8_Stk4_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>indhold og udformning af ansøgninger, herunder om ansøgninger i elektronisk form,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par8_Stk4_X3">
+                    <Indentatio formaInd="Nummer" id="Par8_Stk4_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>at der ved anmodning om at få foretaget en vurdering skal gives oplysning om navn, adresse og personnummer eller fødselsdato for den person, hvis uddannelseskvalifikationer ønskes vurderet,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par8_Stk4_X4">
+                    <Indentatio formaInd="Nummer" id="Par8_Stk4_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>dokumentation for tidligere uddannelsesforløb m.v., herunder om dokumentation i elektronisk form,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par8_Stk4_X5">
+                    <Indentatio formaInd="Nummer" id="Par8_Stk4_Num5">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>krav med hensyn til oversættelse af eksamensbeviser m.v.,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par8_Stk4_X6">
+                    <Indentatio formaInd="Nummer" id="Par8_Stk4_Num6">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>frister for besvarelse af høringer, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par8_Stk4_X7">
+                    <Indentatio formaInd="Nummer" id="Par8_Stk4_Num7">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>uddannelsesinstitutioners medvirken ved vurderinger.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="Par9_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren kan fastsætte regler om</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par9_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par9_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>elektronisk kommunikation mellem på den ene side personer, myndigheder m.fl., der har adgang til en vurdering, jf. §§ 2-2 b, uddannelsesinstitutioner, der medvirker ved vurderinger, jf. § 4, myndigheder, institutioner m.fl., der kan indhentes oplysninger hos efter § 8, stk. 1, og på den anden side uddannelses- og forskningsministeren eller den institution, som efter § 7, stk. 1, er bemyndiget til at udøve beføjelserne efter denne lov, bortset fra beføjelserne til regeludstedelse, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par9_Stk1_X2">
+                    <Indentatio formaInd="Nummer" id="Par9_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>anvendelse af digital signatur ved kommunikation efter nr. 1, bl.a. i forbindelse med ansøgning om vurdering og dokumentation for tidligere uddannelsesforløb m.v., jf. § 8, stk. 4, nr. 2 og 4.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="Par10_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren eller den institution, uddannelses- og forskningsministeren har bemyndiget hertil,</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par10_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par10_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>formidler viden om det danske uddannelsessystem og om udenlandske uddannelsessystemer med henblik på at fremme gensidig anerkendelse af udenlandske uddannelseskvalifikationer,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par10_Stk1_X2">
+                    <Indentatio formaInd="Nummer" id="Par10_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>formidler viden om og vejleder om vurdering og anerkendelse af udenlandske kvalifikationer og kompetencer, herunder kvalifikationer og kompetencer, der er opnået på anden måde end ved formel uddannelse, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par10_Stk1_X3">
+                    <Indentatio formaInd="Nummer" id="Par10_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>medvirker til særlige initiativer til målrettet kvalifikations- og kompetenceafklaring.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="Par11_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelses- og forskningsministeren afgiver én gang årligt en beretning til Folketinget om vurdering og anerkendelse af udenlandske uddannelseskvalifikationer m.v. Beretningen indeholder bl.a. en redegørelse for aktiviteter efter § 2 a og Kvalifikationsnævnets virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Ikrafttræden m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap6_X1">
+            <Paragraf id="Par12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="Par12_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. juli 2001.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="Par13_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="Par14_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 415 af 6. juni 2002 om ændring af lov om vurdering af udenlandske uddannelseskvalifikationer (Overførelse af kompetencer vedrørende afgørelser om anerkendelse af udenlandske uddannelseskvalifikationer, etablering af adgang til klage over visse afgørelser) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+        <Nota id="Not6">
+          <Explicatus>6)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører lovens titel, overskriften til kapitel 2, § 2, stk. 1, nr. 1, § 2, stk. 2-4, §§ 2 a og 2 b, § 3, stk. 1, § 3, stk. 2, nr. 1, § 3, stk. 3-7, §§ 4 og 5, kapitel 3 a, § 6, stk. 1, § 8, stk. 3, § 8, stk. 4, nr. 3, 6 og 7, § 9, nr. 1, § 10, nr. 1-3, § 11 og § 13.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 2</Explicatus>
+        <Stk>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. juli 2002.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 315 af 30. marts 2007 om ændring af lov om vurdering af udenlandske uddannelseskvalifikationer m.v. (Udvidelse af Kvalifikationsnævnets kompetence) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+        <Nota id="Not7">
+          <Explicatus>7)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører § 1, § 2, stk. 1, nr. 3-5, § 2, stk. 4, 1. pkt., § 2 a, stk. 4, 1. pkt., § 5 a, stk. 2-8, § 8, stk. 4, nr. 6 og 7, og § 11.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 2</Explicatus>
+        <Stk>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. april 2007.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 561 af 6. juni 2007 om ændring af lov om erhvervsuddannelser og forskellige andre love og om ophævelse af lov om grundlæggende social- og sundhedsuddannelser og lov om landbrugsuddannelser (Ungdomsuddannelse til alle) indeholder følgende ikrafttrædelsesbestemmelse:</Char>
+        </Linea>
+        <Nota id="Not8">
+          <Explicatus>8)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lovændringen vedrører § 2 a, stk. 1, nr. 2, og § 3, stk. 4, nr. 5.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 16</Explicatus>
+        <Stk>
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. august 2007, jf. dog stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2012/09/21/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20130089630</AccessionNumber>
+    <DocumentId>BP000574</DocumentId>
+    <UniqueDocumentId>152749</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om elektroniske kommunikationsnet og -tjenester\n(Kommunal udlejning af arealer m.v.)</DocumentTitle>
+    <Year>2013</Year>
+    <DiesSigni>2013-07-04</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-11-26</EndDate>
+    <Status>Historic</Status>
+    <Number>896</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 128 af 07/02/2014</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 896 af 04/07/2013</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2014-02-11</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Annette Vilhelmsen</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Erhvervs- og Vækstmin.,\nErhvervsstyrelsen, j.nr. 13/03374</JournalNumber>
+    <Ministry>Energi-, Forsynings- og Klimaministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om elektroniske kommunikationsnet og -tjenester</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Kommunal udlejning af arealer m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 169 af 3. marts 2011 om elektroniske kommunikationsnet og -tjenester, som ændret ved lov nr. 250 af 21. marts 2012, § 22 i lov nr. 1231 af 18. december 2012 og § 3 i lov nr. 1242 af 18. december 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Overskriften til </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">afsnit V</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst overskriftAfType="Afsnit">
+              <Rubrica>
+                <Linea>
+                  <Char>Samhusning, fælles udnyttelse af faciliteter og kommunal udlejning af arealer m.v.</Char>
+                </Linea>
+              </Rubrica>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 60 indsættes i </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">afsnit V:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Kapitel>
+                <Explicatus>Kapitel 21 a</Explicatus>
+                <Rubrica>
+                  <Linea>
+                    <Char>Kommunal udlejning af arealer m.v.</Char>
+                  </Linea>
+                </Rubrica>
+                <ParagrafGruppe>
+                  <Paragraf>
+                    <Explicatus>§ 60 a.</Explicatus>
+                    <Stk>
+                      <Exitus>
+                        <Linea>
+                          <Char>Kommunalbestyrelsen henholdsvis regionsrådet kan indgå aftaler på markedsvilkår med udbydere af elektroniske kommunikationsnet om udlejning af arealer, bygninger, høje konstruktioner, master m.v. med henblik på udbygning af radiokommunikationsnettet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. oktober 2013.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

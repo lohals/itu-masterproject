@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2009/09/14/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20100015830</AccessionNumber>
+    <DocumentId>AU003913</DocumentId>
+    <UniqueDocumentId>130340</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af byggeloven\n(Energikrav til bygningsdele, bygherreansvar m.v.)</DocumentTitle>
+    <Year>2010</Year>
+    <DiesSigni>2010-02-16</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-11-15</EndDate>
+    <Status>Historic</Status>
+    <Number>158</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1185 af 14/10/2010</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 158 af 16/02/2010</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2010-10-18</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Lene Espersen</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Økonomi- og Erhvervsmin.,\nErhvervs- og Byggestyrelsen, j.nr. 09/03406</JournalNumber>
+    <Ministry>Transport- og Bygningsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af byggeloven</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Energikrav til bygningsdele, bygherreansvar m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I byggeloven, jf. lovbekendtgørelse nr. 452 af 24. juni 1998, som ændret bl.a. ved § 1 i lov nr. 484 af 9. juni 2004 og senest ved § 8 i lov nr. 1404 af 27. december 2008, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, stk. 1, litra d,</Char>
+                <Char> ændres »bebyggelse.« til: »bebyggelse,«. </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, stk. 1,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">litra e:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Indentatio formaInd="Litra">
+                <Explicatus>e.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>ombygninger og andre forandringer i bestående bebyggelse, som har betydning for energiforbruget i bygningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 4 B indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 4 C.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Økonomi- og erhvervsministeren kan fastsætte nærmere regler om, at bygningsreglementets tekniske bestemmelser finder anvendelse ved ombygninger og andre forandringer i bestående bebyggelse omfattet af § 2, stk. 1, litra e.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 5 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 5 A.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>En bygherre, der som led i sit erhverv udfører byggeri, er erstatningsansvarlig efter dansk rets almindelige regler for tab som følge af, at byggeriet ikke udføres i overensstemmelse med bygningsreglementet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 23, stk. 3,</Char>
+                <Char> ændres »De Samvirkende Invalideorganisationer« til: </Char>
+                <Char>»Danske Handicaporganisationer«. </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 30 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 30 A.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Økonomi- og erhvervsministeren kan fastsætte nærmere regler om anerkendelsesordningen for statikere.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 30 B.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Økonomi- og erhvervsministeren fastsætter nærmere regler om gennemførelse af Rådets direktiv 92/43/EØF om bevaring af naturtyper samt vilde dyr og planter.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. juni 2010.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

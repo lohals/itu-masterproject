@@ -1,0 +1,2546 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2009/09/14/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20100048829</AccessionNumber>
+    <DocumentId>AE001592</DocumentId>
+    <UniqueDocumentId>130606</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om tjenestemænd</DocumentTitle>
+    <Year>2010</Year>
+    <DiesSigni>2010-05-06</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-14</EndDate>
+    <Status>Valid</Status>
+    <Number>488</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LOV nr 1365 af 28/12/2011 </KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LOV nr 628 af 08/06/2016 </KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LOV nr 1551 af 13/12/2016 </KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 488 af 06/05/2010</DokumentKortNavn>
+    <PopularTitle>Tjenestemandsloven</PopularTitle>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20110136530</Ref_Accn>
+    <Ref_Af REFid="change_1">2011-12-28</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om ændring af lov om arbejdsløshedsforsikring m.v. og flere andre love\n(Forhøjelse af efterlønsalder, forkortelse af efterlønsperiode og tilbagebetaling af efterlønsbidrag m.v.)</Ref_Text>
+    <Change id="change_2" />
+    <Ref_Accn REFid="change_2">A20160062830</Ref_Accn>
+    <Ref_Af REFid="change_2">2016-06-08</Ref_Af>
+    <Ref_Text REFid="change_2">Lov om ændring af lov om Udbetaling Danmark og forskellige andre love (Overførsel af opgaver fra Statens Administrations Finansservicecenter m.fl. til Udbetaling Danmark m.v.)</Ref_Text>
+    <Change id="change_3" />
+    <Ref_Accn REFid="change_3">A20160155130</Ref_Accn>
+    <Ref_Af REFid="change_3">2016-12-13</Ref_Af>
+    <Ref_Text REFid="change_3">Lov om ændring af lov om tjenestemænd og lov om tjenestemandspension (Rådighedsløn til personer, der har nået folkepensionsalderen, beregning af førtidspension for visse tjenestemænd og ret til tilskadekomstpension)</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Claus Hjort Frederiksen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Grete Pihl</Signature>
+    <PlaceOfSignature>Finansministeriet</PlaceOfSignature>
+    <JournalNumber>Finansmin.,\nPersonalestyrelsen, j.nr. 09-30-5</JournalNumber>
+    <Ministry>Finansministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Bekendtgørelse af lov om tjenestemænd</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Indledning>
+      <Exitus>
+        <Linea>
+          <Char>Hermed bekendtgøres lov om tjenestemænd, jf. lovbekendtgørelse nr. 531 af 11. juni 2004, med de ændringer, der følger af § 2 i lov nr. 527 af 24. juni 2005, § 6 i lov nr. 1587 af 20. december 2006 og § 1 i lov nr. 484 af 17. juni 2008.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="Bog0">
+      <Afsnit id="Afs1._could_not_be_converted">
+        <Explicatus>1. del</Explicatus>
+        <Rubrica>
+          <Linea>
+            <Char>Almindelige bestemmelser</Char>
+          </Linea>
+        </Rubrica>
+        <Kapitel id="Kap1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Lovens område</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap1_X1">
+            <Paragraf id="Par1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="Par1_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Som tjenestemand i henhold til denne lov anses enhver, der er ansat i statens eller folkekirkens tjeneste efter reglerne i denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Ansættelse</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap2_X1">
+            <Paragraf id="Par2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="Par2_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ansættelse som tjenestemand sker i følgende former:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par2_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Varig ansættelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Ansættelse på prøve med senere varig ansættelse for øje.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Ansættelse på åremål.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="Par3_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tjenestemænd udnævnes enten af kongen eller af vedkommende minister.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren fastsætter, hvilke tjenestemænd der udnævnes af kongen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vedkommende minister kan ved bekendtgørelse helt eller delvis overlade sin udnævnelseskompetence til andre.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="Par4_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ansættelse som tjenestemand forudsætter, at vedkommende efter sin alder, helbredstilstand og uddannelse er i stand til at bestride tjenesten i den pågældende stilling.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvor betingelser med hensyn til alder, helbredstilstand og uddannelse ikke er fastsat i den øvrige lovgivning eller i medfør af denne, kan sådanne betingelser fastsættes af finansministeren.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Regler herom, der kun skal omfatte bestemte grupper af tjenestemænd, fastsættes dog af vedkommende minister eller den, han bemyndiger dertil, efter forhandling med finansministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="Par5_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ansættelse som tjenestemand sker efter offentligt opslag, medmindre den pågældende ansættes efter forudgående ansættelse på prøve.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Opslaget skal angive ansættelsesområdet og stillingens betegnelse samt den for tiden for stillingen gældende lønmæssige placering og det for tiden gældende tjenestested.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når ansøgningsfristen er udløbet, udleveres der på begæring af ansøgere og organisationer, hvis medlemmer er naturlige ansøgere til stillingen, en liste med oplysning om navnene på alle ansøgere og eventuelt tillige andre personlige data, der er nødvendige for at identificere de enkelte ansøgere.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er der senest inden ansøgningsfristens udløb modtaget skriftlig anmodning fra en ansøger om, at de oplysninger, der skal udleveres i henhold til stk. 3, ikke gengives offentligt, skal oplysning herom påføres ansøgerlisten ved udleveringen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis der er fremsat anmodning som nævnt i stk. 4, må offentlig gengivelse af ansøgerlisten eller dele deraf ikke finde sted, og overtrædelse heraf straffes med bøde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvor ikke ganske særlige forhold er til stede, må ansøgningsfristen ikke være mindre end 14 dage.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis ansættelsesmyndigheden skønner, at ingen af de ansøgere, der rettidigt har meldt sig til en opslået stilling, er tilstrækkeligt egnet til stillingen, eller at man ved fornyet opslag kan fremskaffe ansøgning fra mere kvalificerede ansøgere, skal stillingen opslås på ny.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk8">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren fastsætter nærmere regler om fremgangsmåden ved opslag og kan efter indhentet udtalelse fra Lønningsrådet fastsætte undtagelser fra reglerne i stk. 1 og 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="Par6_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Første varige ansættelse sker efter forudgående ansættelse på prøve.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par6_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren kan efter indhentet udtalelse fra Lønningsrådet fastsætte undtagelser fra reglen i stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par6_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren fastsætter regler om prøveansættelsen, herunder om uddannelse og om konstatering af udfaldet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Regler herom, der kun skal gælde for bestemte grupper af tjenestemænd, fastsættes dog af vedkommende minister eller den, han bemyndiger dertil, efter forhandling med finansministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="Par7_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="Par8_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Når en tjenestemand søger en ledig stilling, skal hans hidtidig nærmeste overordnede chef afgive en skriftlig bedømmelse af tjenestemanden til ansættelsesmyndigheden, og tjenestemanden skal have udleveret en afskrift af bedømmelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren kan efter indhentet udtalelse fra Lønningsrådet fastsætte undtagelser fra reglen i stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren kan fastsætte nærmere bestemmelser om forfremmelsessagers behandling, herunder om grundlaget for personalebedømmelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Regler herom, der kun skal gælde for bestemte grupper af tjenestemænd, kan dog fastsættes af vedkommende minister eller den, han bemyndiger dertil, efter forhandling med finansministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="Par9_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tjenestemanden modtager et ansættelsesbrev med angivelse af stillingsbetegnelse og ansættelsesområde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par9_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Samtidig skal tjenestemanden have meddelelse om den lønmæssige placering, der for tiden gælder for stillingen, og om, på hvilket tjenestested tjenesten indtil videre skal udføres.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par9_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ingen kan samtidig være varigt ansat i mere end én tjenestemandsstilling.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Tjenestemandens pligter</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap3_X1">
+            <Paragraf id="Par10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="Par10_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tjenestemanden skal samvittighedsfuldt overholde de regler, der gælder for hans stilling, og såvel i som uden for tjenesten vise sig værdig til den agtelse og tillid, som stillingen kræver.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="Par11_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Inden for sit ansættelsesområde har en tjenestemand pligt til at gøre midlertidig tjeneste i en stilling, der er sideordnet med eller højere end hans egen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="Par12_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Inden for sit ansættelsesområde har en tjenestemand pligt til at underkaste sig sådanne forandringer i sine tjenesteforretningers omfang og beskaffenhed, der ikke ændrer tjenestens karakter, og som ikke medfører, at stillingen ikke længere kan anses for passende for ham.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I samme omfang kan det pålægges ham at overtage en anden stilling.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par12_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Såfremt ændringer i forvaltningens organisation eller arbejdsform gør det nødvendigt, kan det med tilslutning af det i § 13 omhandlede nævn pålægges en tjenestemand at overtage en stilling uden for sit hidtidige ansættelsesområde, i hvilken tjenesten efter sin karakter svarer til hans hidtidige stilling, og som må anses for passende for ham.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par12_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis en varigt ansat tjenestemand, der ikke har nået efterlønsalderen, jf. § 74 i lov om arbejdsløshedsforsikring m.v., af helbredsmæssige grunde bliver uegnet til at varetage tjenesten i sin stilling, kan det pålægges ham at overtage en stilling inden for hans hidtidige ansættelsesområde, som må anses for passende for ham.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Med tilslutning af det i § 13 omhandlede nævn kan det endvidere pålægges ham at overtage en passende stilling uden for hans hidtidige ansættelsesområde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par12_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der ansættes på åremål, og som i forvejen er tjenestemand, har ved åremålets udløb eller ved ansættelsens ophør af anden ham utilregnelig årsag pligt til at overtage et andet passende arbejdsområde inden eller uden for sit tidligere ansættelsesområde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="Par13_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Til behandling af sager om overtagelse af en stilling uden for en tjenestemands hidtidige ansættelsesområde efter § 12, stk. 2 og 3, eller om overtagelse af et andet passende arbejdsområde uden for en tjenestemands tidligere ansættelsesområde efter § 12, stk. 4, nedsætter finansministeren et nævn sammensat af en repræsentant for hver af de i § 49 nævnte centralorganisationer og et tilsvarende antal administrationsrepræsentanter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par13_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelser om nævnets virksomhed fastsættes af finansministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="Par14_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Såfremt det af hensyn til udførelsen af tjenestepligterne skønnes nødvendigt at knytte tjenestebolig til stillingen, har tjenestemanden pligt til at bebo denne, så længe han beklæder stillingen, og til derefter at fraflytte den.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par14_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelser om indretning og vedligeholdelse af tjenesteboliger og om ind- og udflytning m.v. af sådanne boliger fastsættes af finansministeren efter indhentet udtalelse fra Lønningsrådet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tjenestemandens bidrag for anvendelse af tjenesteboligen fastsættes dog ved aftale i henhold til § 45, jf. § 47.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="Par15_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Lejen for andre boliger, der af forvaltningen udlejes til tjenestemænd, fastsættes under hensyn til boligens størrelse, alder, kvalitet og udstyr.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De nærmere regler herom fastsættes af finansministeren efter indhentet udtalelse fra Lønningsrådet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="Par16_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>En tjenestemand kan efter ansøgning fritages for at overtage et borgerligt, kommunalt eller regionalt ombud, når vedkommende minister finder det påkrævet af hensyn til tjenestens forsvarlige udførelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par16_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren fastsætter de nærmere regler for, i hvilket omfang eventuelle udgifter til tjenestens udførelse under en tjenestemands fraværelse som følge af et borgerligt, kommunalt eller regionalt ombud kan afholdes af forvaltningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="Par17_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>En tjenestemand kan kun have beskæftigelse ved siden af sin tjenestemandsstilling, for så vidt og i det omfang det er foreneligt med den samvittighedsfulde udøvelse af de til tjenestemandsstillingen knyttede pligter og med den for stillingen nødvendige agtelse og tillid.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="Par18_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>En tjenestemand kan for varetagelsen af de pligter, der følger af tjenestemandsstillingen, samt for sådanne hverv, der må betragtes som led i tjenestemandsstillingen, kun oppebære sådan løn og andre ydelser, som er fastsat i henhold til §§ 45-47 eller § 55.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Suspension, disciplinærforfølgning og injuriesøgsmål</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap4_X1">
+            <Paragraf id="Par19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="Par19_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>En tjenestemand kan suspenderes eller midlertidigt overføres til andet arbejde, når han har pådraget sig grundet mistanke om et forhold, der betager ham den tillid, som bestridelsen af stillingen kræver, eller som i øvrigt gør det betænkeligt, at han vedblivende udfører sit hidtidige arbejde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par19_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forhold, der medfører indskriden efter stk. 1, og som ikke gøres til genstand for strafferetlig forfølgning, behandles ved disciplinær undersøgelse efter reglerne i §§ 20-24.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par19_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren fastsætter nærmere regler om iværksættelse og ophør af suspension.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par20">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="Par20_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>En tjenestemand, der tjenstligt indberettes for en tjenesteforseelse eller et strafbart forhold, skal have udleveret en fremstilling af sagens faktiske omstændigheder og have adgang til at afgive en skriftlig udtalelse om fremstillingen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Han skal samtidig gøres bekendt med, at han ikke har pligt til at udtale sig om fremstillingen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par20_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når disciplinær undersøgelse indledes mod en tjenestemand for tjenstlig forseelse, udpeger vedkommende minister eller den, han bemyndiger dertil, en forhørsleder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Såfremt det efter sagens karakter skønnes påkrævet, kan ministeren anmode præsidenten for en af de kollegiale retter om at udpege forhørslederen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par20_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Såfremt det i særlige tilfælde findes påkrævet, kan vedkommende minister efter forhørslederens indstilling og efter indhentet udtalelse fra vedkommende centralorganisation beskikke en person til at repræsentere administrationen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par21">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="Par21_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tjenestemanden er berettiget til at give møde med en bisidder og skal ved indkaldelsen til det første forhør gøres bekendt hermed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par21_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Som bisidder kan anvendes en repræsentant for tjenestemandens organisation, en tjenestemand i vedkommende ministerium eller institution eller en advokat.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par21_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forhørslederen træffer bestemmelse om vidneførsel og om tilvejebringelse af andre bevisligheder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par21_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Enhver ansat har pligt til at give møde under forhørene og afgive forklaring.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den, som afgiver urigtig forklaring som vidne, straffes med bøde eller hæfte.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis et vidne undlader at give møde eller vægrer sig ved at afgive forklaring, kan forhørslederen lade ham afhøre ved byretten på det sted, hvor forhørene afholdes, eller den pågældende bor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par21_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tjenestemanden har adgang til at afgive skriftlige indlæg, også efter forhørenes afslutning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par21_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forhørslederen afgiver efter sagens afslutning en beretning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis ministeren anmoder derom, skal forhørslederen tillige afgive en indstilling om sagens afgørelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par21_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tjenestemandsforhør og retsmøder, der afholdes under sagen, er ikke offentlige.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dog kan vedkommende minister bestemme, at offentligheden skal have adgang til at overvære sagens behandling, hvis tjenestemanden med tilslutning af vedkommende centralorganisation fremsætter begæring derom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par21_Stk8">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Offentlig gengivelse af, hvad der er passeret under forhør og retsmøder, der ikke er offentlige, straffes med bøde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par21_Stk9">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelsen i stk. 8 omfatter oplysninger tilvejebragt såvel før som under forhør og retsmøder, der afholdes under sagen, og hvad enten oplysningerne foreligger mundtligt eller skriftligt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par22">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="Par22_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Må det antages, at sagen slutter med overførelse til andet arbejdssted eller til anden stilling inden eller uden for ansættelsesområdet, degradation eller afsked, skal der gives vedkommende centralorganisation meddelelse om sagens stilling, således at denne kan få lejlighed til at udtale sig i sagen, inden denne afgøres.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par22_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vedkommende centralorganisation har efter begæring krav på at blive gjort bekendt med den afgørelse, som er truffet på grundlag af det ved den tjenstlige undersøgelse tilvejebragte materiale.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par22_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis tjenestemanden er mistænkt for et strafbart forhold, kan han forlange sagen behandlet som straffesag.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dette er ikke til hinder for, at der efter straffesagens afslutning iværksættes tjenstligt forhør imod tjenestemanden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par22_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En tjenestemand, hvem der er tildelt en disciplinær straf uden forudgående tjenstligt forhør, jf. § 24, kan begære en tjenstlig undersøgelse iværksat.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der er dog kun pligt til at imødekomme begæringen, såfremt den er anbefalet af vedkommende centralorganisation.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par23">
+              <Explicatus>§ 23.</Explicatus>
+              <Stk id="Par23_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Sluttes undersøgelsen uden ikendelse af disciplinærstraf, godtgøres tjenestemandens udgift til bisidder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I andre tilfælde afgør vedkommende minister under hensyntagen til sagens udfald og omstændighederne i øvrigt, om udgiften til bisidder skal godtgøres helt eller delvis.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Godtgørelse efter stk. 1 ydes kun, såfremt det må anses for rimeligt, at tjenestemanden har afholdt udgifter til bisidder, og godtgørelsen kan ikke overstige, hvad der for et tilsvarende arbejde ville være blevet tilkendt en beskikket forsvarer i en straffesag.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Forhørslederen afgiver efter begæring en udtalelse herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Har en tjenestemand under en disciplinærsag på egen hånd fremskaffet beviser, godtgøres udgifter herved ham helt eller delvis, når han må anses for at have haft rimelig grund til at fremskaffe beviserne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Forhørslederen afgiver efter begæring en udtalelse herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par24">
+              <Explicatus>§ 24.</Explicatus>
+              <Stk id="Par24_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Som disciplinær straf for tjenstlig forseelse kan anvendes advarsel eller irettesættelse, bøde, der dog ikke må overstige 1/2 måneds løn, overførelse til andet arbejde eller andet arbejdssted eller til anden stilling inden eller uden for ansættelsesområdet, degradation – herunder helt eller delvis bortfald af anciennitetsbestemte løndele – eller afsked.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bøde over 1/25 af månedslønnen og overførelse til andet arbejde kan ikke anvendes, inden forhør er afholdt i overensstemmelse med §§ 20-22, medmindre der foreligger en uforbeholden skriftlig tilståelse, i hvilken tjenestemanden vedgår de faktiske omstændigheder i det påsigtede forhold og erkender sig skyldig i en tjenesteforseelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Overførelse til andet arbejdssted eller til anden stilling inden eller uden for ansættelsesområdet, degradation eller afsked som straf for tjenesteforseelser kan, når forholdet ikke er fastslået ved dom, aldrig finde sted uden efter afholdt tjenstligt forhør.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ikendte bøder kan indeholdes i lønnen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par25">
+              <Explicatus>§ 25.</Explicatus>
+              <Stk id="Par25_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Når en tjenestemand beskyldes for uretskaffenhed i tjenesten, eller der fremsættes ærerørige beskyldninger mod ham, kan det pålægges ham at fralægge sig beskyldningen ved dom.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Såfremt forholdene taler derfor, kan vedkommende minister efter forhandling med finansministeren bestemme, at der af forvaltningen ydes tjenestemanden hel eller delvis godtgørelse af eventuelle udgifter ved retssagen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Afsked</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap5_X1">
+            <Paragraf id="Par26">
+              <Explicatus>§ 26.</Explicatus>
+              <Stk id="Par26_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>De af kongen udnævnte tjenestemænd afskediges af kongen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par26_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Andre tjenestemænd afskediges af den minister, under hvem de hører, eller af den, han bemyndiger dertil.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dog kan uansøgt afsked kun foretages af ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par27">
+              <Explicatus>§ 27.</Explicatus>
+              <Stk id="Par27_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tjenestemænd kan med 3 måneders varsel forlange sig afskediget til udgangen af en måned.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par28">
+              <Explicatus>§ 28.</Explicatus>
+              <Stk id="Par28_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tjenestemænd kan afskediges uden ansøgning med 3 måneders varsel til udgangen af en måned.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Afsked kan dog ske med kortere varsel, såfremt den er begrundet i, at tjenestemanden som følge af strafbart forhold, tjenesteforseelse eller mislighed er uskikket til at forblive i stillingen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par28_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For tjenestemænd ansat på åremål ophører ansættelsen i øvrigt ved åremålets udløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par29">
+              <Explicatus>§ 29.</Explicatus>
+              <Stk id="Par29_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tjenestemænd afskediges fra udgangen af den måned, hvori de opnår den alder, der efter den øvrige lovgivning er foreskrevet som aldersgrænse for vedkommende stilling, eller opnår den alder over 60 år, som er fastsat ved aftale, jf. § 45.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par30">
+              <Explicatus>§ 30.</Explicatus>
+              <Stk id="Par30_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par31">
+              <Explicatus>§ 31.</Explicatus>
+              <Stk id="Par31_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Inden en tjenestemand afskediges uden ansøgning, skal der, bortset fra de i § 29 nævnte tilfælde, gives såvel vedkommende centralorganisation som tjenestemanden selv adgang til at udtale sig, medmindre forhør har været afholdt efter §§ 20-22.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par31_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forud for enhver uansøgt afsked, bortset fra de i § 29 nævnte tilfælde, indhentes en udtalelse fra finansministeren om tjenestemandens krav på pension.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samme gælder ved ansøgt afsked, når afskedsansøgningen skyldes helbredsmæssige årsager.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par32">
+              <Explicatus>§ 32.</Explicatus>
+              <Stk id="Par32_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>En tjenestemand, der afskediges, fordi ændringer i forvaltningens organisation eller arbejdsform medfører, at stillingen nedlægges, bevarer sin hidtidige løn i 3 år, jf. dog stk. 3 - 5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par32_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der modtager rådighedsløn efter stk. 1, er omfattet af reglerne i §§ 12 og 13.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par32_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Rådighedsløn fra ansættelse i en åremålsstilling ydes længst til åremålets udløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par32_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der ydes ikke rådighedsløn til den, der</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par32_Stk4_X1">
+                    <Indentatio formaInd="Nummer" id="Par32_Stk4_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>ansættes i eller får anvist en anden stilling, som den pågældende har pligt til at overtage efter §§ 12 og 13,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par32_Stk4_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>har nået folkepensionsalderen, jf. § 1 a i lov om social pension,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par32_Stk4_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>har opnået den for stillingen fastsatte afgangsalder eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par32_Stk4_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>på afskedstidspunktet på grund af sygdom eller uegnethed ikke er i stand til at overtage en stilling, som den pågældende efter §§ 12 og 13 ville have pligt til at overtage.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par32_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren fastsætter bestemmelser om, at udbetaling af rådighedsløn midlertidigt standses helt eller delvis til den, der</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par32_Stk5_X1">
+                    <Indentatio formaInd="Nummer" id="Par32_Stk5_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>opnår ansættelse, som efter tjenestemandspensionslovens § 4 medregnes i pensionsalderen som tjenestemand, og som ikke er omfattet af stk. 4, nr. 1,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par32_Stk5_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>opnår anden ansættelse på andre vilkår end tjenestemandsvilkår inden for det i tjenestemandspensionslovens § 4 a, stk. 1, nævnte område eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par32_Stk5_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>opnår ansættelse i et aktieselskab, som efter en opgaveomlægning varetager de arbejdsopgaver, inden for hvilke den pågældende var beskæftiget som ansat i staten eller folkekirken, og hvori staten ejer mere end 50 pct. af aktierne.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par32_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i stk. 4 og 5 finder tilsvarende anvendelse for ventepenge, der tillægges i henhold til de før 1. juli 1969 gældende regler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Særbestemmelse om prøveansatte</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap6_X1">
+            <Paragraf id="Par33">
+              <Explicatus>§ 33.</Explicatus>
+              <Stk id="Par33_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>En tjenestemand ansat på prøve kan i de første 6 måneder af prøveansættelsen forlange sig afskediget med 14 dages varsel og i den resterende del af prøveansættelsen med 1 måneds varsel, i begge tilfælde til udgangen af en måned.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par33_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I de første 6 måneder af prøveansættelsen kan sådanne tjenestemænd afskediges uden ansøgning med 14 dages varsel til udgangen af en måned.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par33_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i § 26, stk. 2, 2. pkt., § 31, stk. 2, samt § 32 gælder ikke for tjenestemænd på prøve, idet der dog skal indhentes en udtalelse fra finansministeren, jf. § 31, stk. 2, i tilfælde, hvor der måtte opstå spørgsmål om eventuel ret til pension efter tjenestemandspensionslovens kapitler 2 og 7.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap6a">
+          <Explicatus>Kapitel 6 a</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Særbestemmelser om åremålsansættelse</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap6a_X1">
+            <Paragraf id="Par33a">
+              <Explicatus>§ 33 a.</Explicatus>
+              <Stk id="Par33a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ansættelse som tjenestemand på åremål sker af personer, som</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par33a_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par33a_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>allerede er ansat som tjenestemand,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par33a_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>er ansat i stillinger, i hvilke ansættelse kan medregnes i pensionsalderen i medfør af tjenestemandspensionslovens § 4, stk. 1 eller 2, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par33a_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>er fratrådt med ret til aktuel eller opsat pension fra stillinger som nævnt i nr. 1 og 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par33a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ansættelse på åremål af andre end de i stk. 1 nævnte kan ske på tilsvarende vilkår som tjenestemænd.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestemmelserne om kongelig udnævnelse og reglerne i lov om tjenestemandspension finder dog ikke anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par33b">
+              <Explicatus>§ 33 b.</Explicatus>
+              <Stk id="Par33b_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Vedkommende minister bestemmer, hvilke stillinger der kan besættes på åremål, jf. dog § 34, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par33c">
+              <Explicatus>§ 33 c.</Explicatus>
+              <Stk id="Par33c_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Åremålsansættelse sker for et tidsrum af 3-6 år.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Åremålsansættelsen kan forlænges med indtil i alt 3 år.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Genansættelse efter fornyet opslag kan ske højst to gange eller i øvrigt, hvis genansættelsen er begrundet i objektive forhold.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par33d">
+              <Explicatus>§ 33 d.</Explicatus>
+              <Stk id="Par33d_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Placering af en varigt ansat tjenestemand, som efter en åremålsansættelses udløb eller ophør af anden årsag, der ikke kan tilregnes den pågældende, genindtræder i varig ansættelse, sker på vilkår, der fastsættes ved aftale i henhold til § 45.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par33d_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ret til genindtræden i varig ansættelse gælder ikke for tjenestemænd i staten, der ansættes på åremål i folkekirken, eller for tjenestemænd i folkekirken, der ansættes på åremål i staten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap7">
+          <Explicatus>Kapitel 7</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Særbestemmelse om dommere og andre tjenestemandsansatte jurister ved domstolene</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap7_X1">
+            <Paragraf id="Par34">
+              <Explicatus>§ 34.</Explicatus>
+              <Stk id="Par34_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ansættelse som dommer og tjenestemandsansat jurist ved domstolene kan kun ske som varig ansættelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par34_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Dommere og andre tjenestemandsansatte jurister ved domstolene afskediges fra udgangen af den måned, hvori de fylder 70 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par34_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i § 8, §§ 11-13, §§ 19-25, § 53, stk. 1, nr. 2, og stk. 4, § 54 og § 54 a, stk. 2, gælder ikke for dommere.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestemmelserne i §§ 28 og 31 gælder kun for dommere, når disse kan afskediges administrativt uden ansøgning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par34_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i § 12, stk. 2 og 3, §§ 19-25, § 53, stk. 1, nr. 2, og stk. 4, § 54 og § 54 a, stk. 2, gælder ikke for andre tjenestemandsansatte jurister ved domstolene.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestemmelserne i §§ 28 og 31 gælder kun for andre tjenestemandsansatte jurister ved domstolene, når disse kan afskediges administrativt uden ansøgning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap8">
+          <Explicatus>Kapitel 8</Explicatus>
+          <ParagrafGruppe id="Kap8_X1">
+            <Paragraf>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap9">
+          <Explicatus>Kapitel 9</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Særbestemmelser om folkekirkens tjenestemænd</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap9_X1">
+            <Paragraf id="Par40">
+              <Explicatus>§ 40.</Explicatus>
+              <Stk id="Par40_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i § 11, § 12, stk. 1, og § 14, stk. 2, 1. pkt., gælder ikke for folkekirkens tjenestemænd.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par40_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For så vidt angår folkekirkens tjenestemænd, fastsætter kirkeministeren de regler og træffer de afgørelser, der nævnes i § 5, stk. 8, og § 6, stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par40_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kirkeministeren fastsætter, i hvilket omfang bestemmelsen i § 8, stk. 1, finder anvendelse i folkekirken.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par40_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelser i henhold til stk. 2 og 3 fastsættes efter forhandling med finansministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par41">
+              <Explicatus>§ 41.</Explicatus>
+              <Stk id="Par41_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>En tjenestemand i folkekirken har pligt til i stedet for eller i forbindelse med tjeneste i sin egen stilling at gøre midlertidig tjeneste i en stilling, der er sideordnet med eller højere end hans egen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par41_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kirkeministeren kan bestemme, at en præst, der udnævnes til en anden stilling, og hvis hidtidige stilling på grund af beliggenheden vanskeligt kan bestrides ved nabopræster, skal forblive i denne stilling, indtil genbesættelse kan ske, dog højst i 6 måneder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par42">
+              <Explicatus>§ 42.</Explicatus>
+              <Stk id="Par42_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>En tjenestemand i folkekirken har pligt til at underkaste sig sådanne forandringer i hans tjenesteforretningers og ansættelsesområdes omfang og beskaffenhed, der ikke ændrer tjenestens karakter, og som ikke medfører, at stillingen ikke længere kan anses for passende for ham.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par43">
+              <Explicatus>§ 43.</Explicatus>
+              <Stk id="Par43_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Efter indstilling fra provst og biskop kan der meddeles en præst afsked med virkning efter § 32, såfremt der mellem præsten og menigheden gennem en årrække har bestået en dybtgående uoverensstemmelse, som betyder en væsentlig hindring for det kirkelige livs trivsel på det pågældende sted.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par43a">
+              <Explicatus>§ 43 a.</Explicatus>
+              <Stk id="Par43a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Præster, provster og biskopper afskediges fra udgangen af den måned, hvori de fylder 70 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par44">
+              <Explicatus>§ 44.</Explicatus>
+              <Stk id="Par44_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i § 20, stk. 2 og 3, §§ 21-24, § 28, § 31, § 53, stk. 1, nr. 2, og stk. 4, § 54 og § 54 a, stk. 2, finder ikke anvendelse på sager, der behandles efter lov om domstolsbehandling af gejstlige læresager.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+      <Afsnit id="Afs2._could_not_be_converted">
+        <Explicatus>2. del</Explicatus>
+        <Rubrica>
+          <Linea>
+            <Char>Løn- og andre ansættelsesvilkår</Char>
+          </Linea>
+        </Rubrica>
+        <Kapitel id="Kap10">
+          <Explicatus>Kapitel 10</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Forhandlings- og organisationsforhold</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap10_X1">
+            <Paragraf id="Par45">
+              <Explicatus>§ 45.</Explicatus>
+              <Stk id="Par45_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Løn- og andre ansættelsesvilkår for tjenestemænd fastsættes ved aftale mellem finansministeren og de i § 49 nævnte centralorganisationer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par45_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Aftale, der alene angår ansættelsesvilkår for tjenestemænd under et enkelt ministerium, kan dog efter nærmere bestemmelse af finansministeren indgås af vedkommende minister.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par45_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Aftaler efter stk. 1 og 2 kan dog ikke indgås om forhold, der bestemmes ved lov eller i henhold til lov eller angår forvaltningens opgaver, organisation eller personalebehov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par46">
+              <Explicatus>§ 46.</Explicatus>
+              <Stk id="Par46_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Kan der ikke indgås aftale om størrelsen af det samlede beløb til ændring af løn- og andre ansættelsesvilkår, herunder til justering af lønskala og stedtillæg, til ændring i den lønmæssige placering af tjenestemandsstillinger samt til ændring af andre ydelser for varetagelsen af tjenestemandsstillingen, jf. § 18, fremsætter finansministeren særligt lovforslag.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par46_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kan der ikke indgås aftale om anvendelsen af det i stk. 1 nævnte beløb, fremsætter finansministeren efter indhentet udtalelse fra Lønningsrådet særligt lovforslag.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par47">
+              <Explicatus>§ 47.</Explicatus>
+              <Stk id="Par47_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Kan der ikke indgås aftale om forhold, der ikke er omfattet af § 46, træffes afgørelsen af finansministeren efter indhentet udtalelse fra Lønningsrådet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par48">
+              <Explicatus>§ 48.</Explicatus>
+              <Stk id="Par48_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelser om ansættelsesvilkår, hvorom der ikke kan indgås aftale, samt ændring af sådanne bestemmelser fastsættes efter forudgående forhandling med de i § 49 nævnte centralorganisationer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par48_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De i § 49 nævnte centralorganisationer kan forhandle med vedkommende fagminister og finansministeren om ethvert fagligt spørgsmål, der angår tjenestemænd.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par49">
+              <Explicatus>§ 49.</Explicatus>
+              <Stk id="Par49_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tjenestemændenes og tjenestemandspensionisternes forhandlingsret udøves gennem de centralorganisationer, med hvilke finansministeren efter indhentet udtalelse fra Lønningsrådet indgår en hovedaftale om fremgangsmåden ved indgåelse af aftaler og om regler for udøvelse af forhandlingsret i øvrigt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par49_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De pågældende centralorganisationer skal tilsammen give samtlige tjenestemænd og pensionerede tjenestemænd adgang til repræsentation.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par49_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I hovedaftalen træffes bestemmelse om adgangen for de organisationer, der er tilsluttet centralorganisationerne, til at forhandle spørgsmål, som alene angår organisationens medlemmer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap11">
+          <Explicatus>Kapitel 11</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Lønningsrådet</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap11_X1">
+            <Paragraf id="Par50">
+              <Explicatus>§ 50.</Explicatus>
+              <Stk id="Par50_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren kan anmode Lønningsrådet om en udtalelse om ethvert spørgsmål, der opstår i medfør af nærværende lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par50_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De i § 49 nævnte centralorganisationer kan forlange, at Lønningsrådets udtalelse indhentes om spørgsmål, som ikke har kunnet løses ved forhandling med finansministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par50_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Spørgsmål, der henhører under den i § 52 nævnte Tjenestemandsret, kan ikke forelægges for Lønningsrådet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par51">
+              <Explicatus>§ 51.</Explicatus>
+              <Stk id="Par51_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Lønningsrådet består af en formand, en næstformand og et af finansministeren fastsat antal medlemmer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par51_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Formanden, næstformanden og et antal medlemmer, repræsenterende administrationen og de i § 49 nævnte centralorganisationer, beskikkes af finansministeren, for organisationsrepræsentanternes vedkommende efter indstilling af centralorganisationerne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Antallet af organisationsrepræsentanter skal overstige antallet af administrationsrepræsentanter med mindst 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par51_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et antal medlemmer, mindst svarende til det i stk. 2 omhandlede formandskab og medlemstal, vælges af Folketinget blandt dettes medlemmer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par51_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For de i stk. 2 og 3 omtalte medlemmer beskikkes eller vælges et tilsvarende antal stedfortrædere.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par51_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Formanden, næstformanden, medlemmerne og stedfortræderne beskikkes eller vælges for 4 år ad gangen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dog afgår de af Folketinget valgte medlemmer og stedfortrædere, såfremt de udtræder af Folketinget, og organisationsrepræsentanterne og deres stedfortrædere afgår, når ny indstilling fremkommer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par51_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Rådets beslutninger træffes ved simpel stemmeflerhed.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Næstformanden kan dog kun deltage i afstemningen, når formanden er forhindret i at deltage.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap12">
+          <Explicatus>Kapitel 12</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Tjenestemandsretten</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap12_X1">
+            <Paragraf id="Par52">
+              <Explicatus>§ 52.</Explicatus>
+              <Stk id="Par52_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tjenestemandsretten, der nedsættes af finansministeren, består af en formand og en stedfortræder for denne og 10 andre dommere og stedfortrædere for disse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Til retten knyttes en sekretær.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par52_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Formanden og dennes stedfortræder udpeges af Højesterets præsident blandt Højesterets dommere.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>To dommere og stedfortrædere for disse udpeges af præsidenten for Østre Landsret blandt rettens dommere.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Udpegningen gælder indtil udløbet af den måned, hvori den pågældende ikke længere opfylder betingelserne for at kunne udpeges.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par52_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren beskikker otte dommere samt stedfortrædere for disse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Fire dommere og stedfortrædere for disse beskikkes efter fælles indstilling fra de i § 49 nævnte centralorganisationer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De pågældende beskikkes for en periode af 5 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par52_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Har centralorganisationerne ikke senest en måned, før beskikkelse skal finde sted, foretaget indstilling af det nødvendige antal dommere og stedfortrædere, beskikker arbejdsministeren efter anmodning fra finansministeren den eller de manglende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par52_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Genbeskikkelse kan finde sted.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par52_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgår en af finansministeren eller arbejdsministeren beskikket dommer eller stedfortræder i løbet af 5-års-perioden, beskikkes en anden for den resterende del af perioden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Var den afgåede dommer eller stedfortræder beskikket efter indstilling fra centralorganisationerne eller efter stk. 4, sker beskikkelsen efter indstilling fra centralorganisationerne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Foretages indstilling ikke senest en måned efter den tidligere dommers eller stedfortræders fratræden, foretages beskikkelsen af arbejdsministeren efter anmodning fra finansministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par52a">
+              <Explicatus>§ 52 a.</Explicatus>
+              <Stk id="Par52a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>I den enkelte sags behandling deltager Tjenestemandsrettens formand eller dennes stedfortræder som retsformand, de to af præsidenten for Østre Landsret udpegede dommere eller disses stedfortrædere samt fire af de af finansministeren beskikkede dommere eller disses stedfortrædere.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>To af disse fire skal være beskikket efter indstilling fra centralorganisationerne eller beskikket i henhold til § 52, stk. 4, eller stk. 6, 2. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par52b">
+              <Explicatus>§ 52 b.</Explicatus>
+              <Stk id="Par52b_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>For Tjenestemandsrettens formand, dommere og stedfortrædere gælder retsplejelovens inhabilitetsregler for dommere.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par52b_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De dommere, som skal deltage i pådømmelsen af den enkelte sag, skal af egen drift påse, om der foreligger grunde, der kan medføre inhabilitet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par52b_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Indsigelser mod en dommers habilitet bør så vidt muligt fremsættes straks efter modtagelsen af meddelelsen om, hvem der skal deltage i domsforhandlingen, og bør under alle omstændigheder fremsættes, inden domsforhandlingen påbegyndes.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Afgørelse om habilitet træffes af retsformanden ved beslutning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Under domsforhandlingen træffes afgørelsen dog af den samlede ret.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den, om hvis habilitet der er rejst spørgsmål, er ikke udelukket fra at deltage i afgørelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par53">
+              <Explicatus>§ 53.</Explicatus>
+              <Stk id="Par53_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tjenestemandsretten behandler sager om</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par53_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par53_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>overtrædelse eller fortolkning af indgåede aftaler eller bestemmelser, som efter §§ 46-47 træder i stedet for aftaler,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par53_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>kollektiv overtrædelse af § 10, der er begået af tjenestemænd omfattet af en eller flere af de i § 49 nævnte centralorganisationer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par53_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Retten påser af egen drift, at den har saglig kompetence til at behandle en sag.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par53_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sager, der hører under Tjenestemandsretten, kan ikke indbringes for de almindelige domstole.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>En tjenestemand kan dog anlægge sag ved de almindelige domstole, hvis denne godtgør, at vedkommende centralorganisation ikke agter at indbringe en sag som nævnt i stk. 1, nr. 1, for Tjenestemandsretten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par53_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sager, der efter stk. 1, nr. 2, hører under Tjenestemandsretten, kan ikke behandles efter reglerne i §§ 20-24.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par53_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren kan bestemme, at overtrædelser som nævnt i stk. 1, nr. 2, begået af personale ansat på tjenestemandslignende vilkår i staten eller folkekirken, i tilskudsberettigede institutioner eller koncessionerede virksomheder m.v., behandles af Tjenestemandsretten, såfremt personalet er ansat i henhold til regler, der indeholder bestemmelser svarende til § 10 og §§ 20-24.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Finansministeren kan endvidere bestemme, at overtrædelser som nævnt i stk. 1, nr. 2, begået af tjenestemænd, ansat under Grønlands hjemmestyre i Danmark på vilkår svarende til den danske tjenestemandslovgivning, behandles af Tjenestemandsretten i det omfang, der i den for disse tjenestemænd gældende lovgivning er fastsat hjemmel dertil.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der fastsættes samtidig nærmere regler om pligt til at indberette overtrædelser til finansministeren og om de nødvendige fravigelser fra § 54 a, stk. 2, med hensyn til, hvem der er parter i sagen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestemmelsen i § 54, stk. 3, finder tilsvarende anvendelse på den eller de organisationer, der udøver forhandlingsretten for det personale, der er omfattet af finansministerens bestemmelse efter 1. og 2. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par53a">
+              <Explicatus>§ 53 a.</Explicatus>
+              <Stk id="Par53a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Staten og en eller flere af de i § 49 nævnte centralorganisationer kan af Tjenestemandsretten ikendes bod for overtrædelser som nævnt i § 53, stk. 1, nr. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Boden tilfalder den, der har anlagt sagen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par54">
+              <Explicatus>§ 54.</Explicatus>
+              <Stk id="Par54_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>I sager som nævnt i § 53, stk. 1, nr. 2, kan Tjenestemandsrettens formand eller dennes stedfortræder give pålæg om ophør af overtrædelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par54_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En tjenestemand, som har begået en af de i § 53, stk. 1, nr. 2, nævnte overtrædelser, kan af Tjenestemandsretten ikendes advarsel eller irettesættelse eller bøde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par54_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En eller flere af de i § 49 nævnte centralorganisationer kan af Tjenestemandsretten ikendes bod, hvis centralorganisationen har understøttet en overtrædelse som nævnt i § 53, stk. 1, nr. 2, eller ikke med alle rimelige midler har søgt at hindre overtrædelsen eller bringe den til ophør.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Boden tilfalder den, der har anlagt sagen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestemmelserne i 1. og 2. pkt. finder tilsvarende anvendelse på de organisationer, der er tilsluttet centralorganisationerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par54a">
+              <Explicatus>§ 54 a.</Explicatus>
+              <Stk id="Par54a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Sager som nævnt i § 53, stk. 1, nr. 1, kan anlægges af og mod finansministeren eller en eller flere af de i § 49 nævnte centralorganisationer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sager kan endvidere anlægges af vedkommende minister efter forhandling med finansministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par54a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sager som nævnt i § 53, stk. 1, nr. 2, kan anlægges af finansministeren mod en eller flere af de i § 49 nævnte centralorganisationer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Centralorganisationerne kan ved Tjenestemandsretten anlægge sag mod vedkommende minister om, hvorvidt en sag om overtrædelse af § 10 hører under Tjenestemandsretten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par54a_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der gælder ingen indskrænkning i parternes adgang til at lade møde for sig i Tjenestemandsretten ved rettergangsfuldmægtig.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par54b">
+              <Explicatus>§ 54 b.</Explicatus>
+              <Stk id="Par54b_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tjenestemandsretten har sit sæde i København, men kan sættes andetsteds i landet, hvis det skønnes hensigtsmæssigt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par54c">
+              <Explicatus>§ 54 c.</Explicatus>
+              <Stk id="Par54c_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Sag anlægges ved indlevering af klageskrift til Tjenestemandsretten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par54c_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klageskriftet skal indeholde</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par54c_Stk2_X1">
+                    <Indentatio formaInd="Nummer" id="Par54c_Stk2_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>parternes navn og adresse,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par54c_Stk2_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>klagerens påstand,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par54c_Stk2_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>en kort fremstilling af de kendsgerninger, hvorpå påstanden støttes, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par54c_Stk2_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>angivelse af de dokumenter og andre beviser, som klageren agter at påberåbe sig.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par54d">
+              <Explicatus>§ 54 d.</Explicatus>
+              <Stk id="Par54d_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Sekretæren sender snarest muligt et eksemplar af klageskriftet med bilag til indklagede og opfordrer samtidig denne til at afgive svarskrift med eventuelle bilag.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Om fornødent lader sekretæren klageskriftet forkynde for indklagede efter retsplejelovens regler om forkyndelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par54d_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Svarskriftet skal indeholde</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par54d_Stk2_X1">
+                    <Indentatio formaInd="Nummer" id="Par54d_Stk2_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>indklagedes påstand,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par54d_Stk2_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>en kort fremstilling af de kendsgerninger, hvorpå påstanden støttes, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par54d_Stk2_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>angivelse af de dokumenter og andre beviser, indklagede vil påberåbe sig.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par54e">
+              <Explicatus>§ 54 e.</Explicatus>
+              <Stk id="Par54e_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Forberedelsen af sagen til eventuel domsforhandling finder sted i et eller flere forberedende retsmøder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par54e_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Under forberedende retsmøder beklædes retten af formanden eller dennes stedfortræder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par54e_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Med parternes samtykke kan retten afgøre sagen på et forberedende retsmøde.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Afgørelsen kan med parternes indforståelse træffes ved beslutning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par54e_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De forberedende retsmøder afholdes for lukkede døre.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Med parternes tiltræden kan retsformanden dog tillade andre end partsrepræsentanterne at overvære retsmøderne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par54f">
+              <Explicatus>§ 54 f.</Explicatus>
+              <Stk id="Par54f_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>For domsforhandlingen gælder med de fornødne tilpasninger retsplejelovens regler om domsforhandling af borgerlige sager i 1. instans.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par54f_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Domsforhandlingen foregår for åbne døre, medmindre retsformanden undtagelsesvis af hensyn til ro og orden i retslokalet beslutter, at dørene skal lukkes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par54g">
+              <Explicatus>§ 54 g.</Explicatus>
+              <Stk id="Par54g_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Dommen vedtages ved afstemning efter forudgående rådslagning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Rådslagningen og afstemningen sker mundtligt, og retsformanden stemmer altid sidst.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I afstemningen deltager kun de dommere, som har overværet den mundtlige forhandling i dens helhed.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De afgivne stemmer indføres i uddrag i stemmeafgivningsbogen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par54g_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelsen træffes efter stemmeflertallet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par54g_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udkast til dommen udarbejdes af retsformanden, hvorefter den endelige ordlyd vedtages af de deltagende dommere.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par54h">
+              <Explicatus>§ 54 h.</Explicatus>
+              <Stk id="Par54h_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Dommen, der afsiges i et offentligt retsmøde ved oplæsning af domsslutningen, skal ledsages af grunde, men ikke indeholde oplysning om de forskellige meninger under afstemningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par54i">
+              <Explicatus>§ 54 i.</Explicatus>
+              <Stk id="Par54i_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Retsplejelovens bestemmelser om virkningen af en parts udeblivelse, om adgangen til genoptagelse af borgerlige sager, der er afgjort ved en udeblivelsesdom, og om ekstraordinær genoptagelse af borgerlige sager finder tilsvarende anvendelse i sager, der behandles af Tjenestemandsretten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par54i_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tjenestemandsrettens formand eller dennes stedfortræder og de to dommere, der er udpeget af præsidenten for Østre Landsret, eller stedfortræderne for disse kan undtagelsesvis tillade, at sager, der efter § 54 e, stk. 3, er afgjort af retsformanden, genoptages, når</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par54i_Stk2_X1">
+                    <Indentatio formaInd="Nummer" id="Par54i_Stk2_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>det må anses for overvejende sandsynligt, at sagen uden ansøgerens fejl har været urigtigt oplyst, og at sagen efter en genoptagelse vil få et væsentligt forskelligt resultat,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par54i_Stk2_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>det må anses for givet, at ansøgeren kun ad denne vej vil kunne undgå eller oprette et for denne indgribende tab, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par54i_Stk2_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>omstændighederne i øvrigt i høj grad taler for genoptagelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par54j">
+              <Explicatus>§ 54 j.</Explicatus>
+              <Stk id="Par54j_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Tjenestemandsrettens domme kan fuldbyrdes efter retsplejelovens regler om tvangsfuldbyrdelse af domme.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par54j_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forlig indgået for Tjenestemandsretten og beslutninger efter § 54 e, stk. 3, kan fuldbyrdes efter retsplejelovens regler om fuldbyrdelse af forlig, der er indgået for en ret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par54j_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Retsplejelovens bestemmelser vedrørende indsigelser mod rigtigheden af domme m.v., der fremsættes under tvangsfuldbyrdelsen, finder tilsvarende anvendelse for indsigelser, der fremsættes under fuldbyrdelsen af Tjenestemandsrettens domme, kendelser og beslutninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+      <Afsnit id="Afs3._could_not_be_converted">
+        <Explicatus>3. del</Explicatus>
+        <Rubrica>
+          <Linea>
+            <Char>Forskellige bestemmelser</Char>
+          </Linea>
+        </Rubrica>
+        <Kapitel id="Kap13">
+          <Explicatus>Kapitel 13</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Personlige tillæg</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap13_X1">
+            <Paragraf id="Par55">
+              <Explicatus>§ 55.</Explicatus>
+              <Stk id="Par55_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>En tjenestemand, som i medfør af reglerne i § 12 eller af anden årsag, der ikke kan tilregnes den pågældende, overgår til en anden passende stilling, hvor lønnen er lavere end i den hidtidige stilling, bevarer lønnen i den hidtidige stilling.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par55_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lønnen i den hidtidige stilling omfatter den samlede faste løn, herunder pensionsbidrag til en supplerende pensionsordning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Løndele, der ydes som kompensation for overarbejde, merarbejde eller arbejde på ubekvemme tidspunkter, indgår ikke.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tidsbegrænsede og opgavebestemte løndele indgår indtil periodens udløb henholdsvis opgavevaretagelsens ophør.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par55_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Anciennitetsbetingede lønstigninger ydes på de tidspunkter, hvor tjenestemanden ville have været berettiget hertil ved fortsat ansættelse i den hidtidige stilling.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par55_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lønnen i den hidtidige stilling fastsættes på grundlag af stillingens lønmæssige placering på nedrykningstidspunktet beregnet efter forholdene på det nye tjenestested.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par55_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lønnen reguleres i overensstemmelse med generelle reguleringer af tjenestemandslønninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par55_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En tjenestemand, som i henhold til stk. 1 har bevaret lønnen i den hidtidige stilling, kan til enhver tid vælge i stedet at overgå til de lønvilkår, der er eller bliver fastsat for den pågældendes ansættelse i den nye stilling.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap14">
+          <Explicatus>Kapitel 14</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Lønforskud og lønforskrivning</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap14_X1">
+            <Paragraf id="Par56">
+              <Explicatus>§ 56.</Explicatus>
+              <Stk id="Par56_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>En tjenestemand kan under ganske særlige og påtrængende omstændigheder opnå et lønforskud uden sikkerhedsstillelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Regler herom fastsættes af finansministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par57">
+              <Explicatus>§ 57.</Explicatus>
+              <Stk id="Par57_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Efter regler, der fastsættes af finansministeren, kan tjenestemænd give transport på løn til låneinstitutter, som ved aftale mellem ministeren og de i § 49 nævnte centralorganisationer er anerkendt hertil.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par57_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bortset fra de tilfælde, der er nævnt i stk. 1, kan tjenestemanden ikke overdrage, pantsætte eller på anden måde råde over løn, der ikke er udbetalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap15">
+          <Explicatus>Kapitel 15</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Tjenestefrihed m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap15_X1">
+            <Paragraf id="Par58">
+              <Explicatus>§ 58.</Explicatus>
+              <Stk id="Par58_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Vedkommende minister eller den, ministeren bemyndiger dertil, kan bevilge en tjenestemand hel eller delvis tjenestefrihed uden løn og uden optjening af lønanciennitet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par58_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren kan efter indhentet udtalelse fra Lønningsrådet fastsætte bestemmelser om tjenestefrihed med hel eller delvis bevarelse af løn og lønanciennitetsoptjening.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par58_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vedkommende minister eller den, ministeren bemyndiger dertil, kan imødekomme en tjenestemands anmodning om nedsat arbejdstid for en begrænset periode eller indtil videre mod tilsvarende nedsættelse af løn og lønanciennitetsoptjening.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par58_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren kan efter indhentet udtalelse fra Lønningsrådet fastsætte bestemmelser om nedsættelse af arbejdstiden uden tilsvarende nedsættelse af løn og lønanciennitetsoptjening.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par58a">
+              <Explicatus>§ 58 a.</Explicatus>
+              <Stk id="Par58a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren kan efter indhentet udtalelse fra Lønningsrådet fastsætte regler om, at tjenestemænd har ret til tjenestefrihed uden løn til nærmere afgrænsede formål.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par58b">
+              <Explicatus>§ 58 b.</Explicatus>
+              <Stk id="Par58b_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Vedkommende minister eller den, ministeren bemyndiger dertil, kan inden for rammer, der fastsættes ved aftale i henhold til § 45, gøre uddannelse, hvortil ansættelsesmyndigheden afholder omkostningerne, betinget af, at tjenestemanden på forhånd forpligter sig til at forblive i tjenesten en vis periode efter gennemgået uddannelse, samt af, at løn i uddannelsesperioden og eventuelle øvrige uddannelsesomkostninger helt eller delvis tilbagebetales, hvis denne tjenestepligt ikke opfyldes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par58b_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i stk. 1 finder ikke anvendelse på områder, hvor regler om tjenestepligt efter gennemgået uddannelse allerede måtte være fastsat ved lov eller i medfør af lov forud for denne lovs ikrafttræden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap15a">
+          <Explicatus>Kapitel 15 a</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Ansættelse af personer uden dansk indfødsret</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap15a_X1">
+            <Paragraf id="Par58c">
+              <Explicatus>§ 58 c.</Explicatus>
+              <Stk id="Par58c_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Personer uden dansk indfødsret ansættes på tilsvarende vilkår som tjenestemænd i de tilfælde, hvor personer med indfødsret ansættes som tjenestemænd.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestemmelserne om kongelig udnævnelse finder dog ikke anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap15b">
+          <Explicatus>Kapitel 15 b</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Klageadgang</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap15b_X1">
+            <Paragraf id="Par58d">
+              <Explicatus>§ 58 d.</Explicatus>
+              <Stk id="Par58d_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren kan bemyndige Finansstyrelsen til at udøve sine beføjelser efter § 32.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par58d_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren kan fastsætte regler om adgang til at påklage afgørelser, der er truffet i henhold til bemyndigelser efter stk. 1, herunder at afgørelserne ikke kan indbringes for anden administrativ myndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+      <Afsnit id="Afs4._could_not_be_converted">
+        <Explicatus>4. del</Explicatus>
+        <Rubrica>
+          <Linea>
+            <Char>Ikrafttrædelses- og overgangsbestemmelser</Char>
+          </Linea>
+        </Rubrica>
+        <Kapitel id="Kap16">
+          <Explicatus>Kapitel 16</Explicatus>
+          <ParagrafGruppe id="Kap16_X1">
+            <Paragraf id="Par59">
+              <Explicatus>§ 59.</Explicatus>
+              <Stk id="Par59_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Denne lov træder i kraft den 1. juli 1969.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par59_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i §§ 12-13 og § 32 finder dog kun anvendelse på tjenestemænd, som er ansat eller udnævnt i anden stilling efter lovens ikrafttræden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Andre tjenestemænd er undergivet de hidtil gældende regler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par60">
+              <Explicatus>§ 60.</Explicatus>
+              <Stk id="Par60_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Lov nr. 154 af 7. juni 1958 om lønninger og pensioner m.v. til statens tjenestemænd og lov nr. 5 (Lovtidende B) af samme dato om normering og klassificering af statstjenestemandsstillinger ophæves, jf. dog stk. 2 og 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par60_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For så vidt angår forhold, hvorom der efter denne lov eller efter lov om tjenestemandspension skal fastsættes regler ved lov, administrative forskrifter eller ved aftale, forbliver de i stk. 1 nævnte love og de i medfør heraf udfærdigede forskrifter i kraft, indtil de afløses af regler, der er fastsat som ovenfor nævnt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par60_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren kan endvidere fastsætte, at andre bestemmelser i de i stk. 1 nævnte love og de i medfør heraf udfærdigede forskrifter forbliver i kraft.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par60_Stk4-6">
+                <Explicatus>Stk. 4-6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>(Overgangsbestemmelser.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Udeladt).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par60_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeren bekendtgør, hvilke bestemmelser der efter stk. 2-3 forbliver i kraft, og fra hvilke tidspunkter de bortfalder eller ophæves.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 265 af 22. maj 1986, hvis § 1, nr. 11, har medført indsættelse af bl.a. § 58 b, fastsættes i § 2, at loven træder i kraft den 1. juli 1986.</Char>
+        </Linea>
+      </Exitus>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 346 af 2. juni 1999, hvis § 2 , nr. 1 ændrer affattelsen af § 21, stk. 4, 3. pkt., nr. 2 indsætter § 28, stk. 2, nr. 3 ophæver § 30, nr. 4 ændrer affattelsen af § 32, stk. 1, nr. 5 indsætter nyt stk. 3 i § 32, og stk. 3 – 5 bliver herefter stk. 4 - 6, nr. 6 ændrer affattelsen af § 32, stk. 3, nr. 2, der bliver stk. 4, nr. 2, nr. 7 ændrer affattelsen af § 32, stk. 4, nr. 1, der bliver stk. 5, nr. 1, nr. 8 ændrer affattelsen af § 32, stk. 5, der bliver stk. 6, nr. 9 ændrer affattelsen af § 52, nr. 10 indsætter § 52 a og § 52 b, nr. 11 ændrer affattelsen af § 53, stk. 3, 2. pkt., nr. 12 ophæver § 53, stk. 3, 3. pkt., nr. 13 indsætter § 54 a, stk. 3, nr. 14 ændrer affattelsen af §§ 54 b – 54 h og indsætter §§ 54 i og j, nr. 15 ændrer affattelsen af kapitel 15 a, nr. 16 indsætter kapitel 15 b, fastsættes i § 8, at loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.(Bekendtgjort i Lovtidende den 3. juni 1999).</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Stk>
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Overgangsbestemmelse.</Char>
+            </Linea>
+            <Linea>
+              <Char>Udeladt)</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 2, nr. 6, har virkning for tjenestemænd, som fylder 60 år den 1. juli 1999 eller senere.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>For tjenestemænd, hvis åremålsansættelse er påbegyndt ved lovens ikrafttræden, gælder de hidtidige regler om uansøgt afsked.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 5 og 6.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Overgangsbestemmelser.</Char>
+            </Linea>
+            <Linea>
+              <Char>Udeladt).</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 1155 af 19. december 2003, hvis § 1, nr. 1 ændrer affattelsen af § 3, nr. 2 ændrer affattelsen af § 5, stk. 2, nr. 3 ændrer affattelsen af § 9, stk. 2, nr. 4 ændrer affattelsen af § 24, nr. 5 indsætter kapitel 6 a, nr. 6 ændrer affattelsen af § 55, nr. 7 ændrer overskriften til kapitel 15, nr. 8 ændrer affattelsen af § 58, fastsættes i § 4, at loven træder i kraft den 1. januar 2004, jf. dog stk. 2.</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Stk>
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 1, nr. 1, træder i kraft den 1. juni 2004.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lov om åremålsansættelse af tjenestemænd og ansatte på tjenestemandslignende vilkår, jf. lovbekendtgørelse nr. 680 af 17. september 1998, ophæves den 1. januar 2004.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lov nr. 173 af 28. april 1971 om kongelig udnævnelse og åremålsansættelse af visse tjenestemænd ophæves den 1. juni 2004.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 1, nr. 6, har virkning for overgang til anden stilling, der sker den 1. januar 2004 eller senere.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 6.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>For personer, som forud for den 1. juni 1971 har været konstitueret i åremålsstilling, medregnes konstitutionstiden i åremålsansættelsen.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. nr. 527 af 24. juni 2005, hvis § 2, nr. 1 ændrer affattelsen af § 16, fastsættes i § 6, at loven træder i kraft den 1. januar 2007.</Char>
+        </Linea>
+      </Exitus>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 1587 af 20. december 2006, hvis § 6, nr. 1 ændrer affattelsen af § 12, stk. 3, 1. pkt., nr. 2 ændrer affattelsen af § 32, stk. 4, nr. 2, fastsættes i § 19, at loven træder i kraft den 1. juli 2009, jf. dog stk. 2-7.</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Stk>
+          <Explicatus>Stk. 4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 5, nr. 1, 6, 8, 9, 10, 13, 14 og 16, og § 6, nr. 1, har virkning for tjenestemænd, der ansættes den 1. januar 2007 eller senere, jf. dog stk. 5.</Char>
+            </Linea>
+            <Linea>
+              <Char>For tjenestemænd, der er ansat inden den 1. januar 2007, finder de hidtidige regler anvendelse.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>For tjenestemænd, der ansættes den 1. januar 2007 eller senere, finder de hidtidige regler anvendelse, hvis den pågældende overgår direkte fra en ansættelse med ret til tjenestemandspension, jf. § 4, stk. 1 og 2, i lov om tjenestemandspension, og denne ansættelse er sket inden den 1. januar 2007.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 484 af 17. juni 2008, hvis § 1, nr. 1 ændrer affattelsen af § 29, nr. 2 ændrer affattelsen af overskriften til kapitel 7, nr. 3 ændrer affattelsen af § 34, stk. 1, nr. 4 indsætter nyt stk. 2 i § 34, hvorefter stk. 2 og 3 bliver stk. 3 og 4, nr. 5 ændrer affattelsen af § 34, stk. 3, der bliver stk. 4, nr. 6 indsætter ny § 43 a efter § 43, nr. 7 ændrer affattelsen af § 52, stk. 2, 3. pkt., fastsættes i § 9, at loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Stk>
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Tjenestemandslovens § 29, som ændret ved denne lovs § 1, nr. 1, berører ikke ansøgte eller uansøgte afskedigelser, der er foretaget før lovens ikrafttræden.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

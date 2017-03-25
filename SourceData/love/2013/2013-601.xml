@@ -1,0 +1,1072 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2012/09/21/LOVH.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV H#LOKDOK01</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20130060130</AccessionNumber>
+    <DocumentId>BR000248</DocumentId>
+    <UniqueDocumentId>151871</UniqueDocumentId>
+    <DocumentTitle>Lov om akkreditering af videregående uddannelsesinstitutioner</DocumentTitle>
+    <Year>2013</Year>
+    <DiesSigni>2013-06-12</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-21</EndDate>
+    <Status>Valid</Status>
+    <Number>601</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LOV nr 274 af 25/03/2015</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 601 af 12/06/2013</DokumentKortNavn>
+    <PopularTitle>Akkrediteringsloven</PopularTitle>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20150027430</Ref_Accn>
+    <Ref_Af REFid="change_1">2015-03-25</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om ændring af lov om akkreditering af videregående uddannelsesinstitutioner (Ingen prækvalifikation af nye uddannelser ved sammenlægning af eksisterende uddannelser)</Ref_Text>
+    <Subject>Kvalitetssikring</Subject>
+    <Subject>Prekvalifikation</Subject>
+    <Subject>Institutionsakkreditering</Subject>
+    <Subject>Uddannelsesakkreditering</Subject>
+    <Subject>Danmarks Akkrediteringsinstitution</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Morten Østergaard</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Ministeriet for Forskning, Innovation og Videregående Uddannelser,\nStyrelsen for Universiteter og Internationalisering, sagsnr. 13/001092</JournalNumber>
+    <Ministry>Uddannelses- og Forskningsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om akkreditering af videregående uddannelsesinstitutioner</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <Bog id="Bog0">
+      <Afsnit id="Afs0">
+        <Kapitel id="Kap1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Lovens anvendelsesområde</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap1_X1">
+            <Paragraf id="Par1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="Par1_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder for akkreditering af videregående uddannelsesinstitutioner under Ministeriet for Forskning, Innovation og Videregående Uddannelser og for akkreditering af disse uddannelsesinstitutioners uddannelser.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Loven gælder endvidere for akkreditering af de maritime uddannelsesinstitutioner.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par1_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for forskning, innovation og videregående uddannelser kan bestemme, at loven finder anvendelse for akkreditering af uddannelser og uddannelsesinstitutioner under andre ministerier og lønnede videregående uddannelser, der gennemføres hos en arbejdsgiver som led i et ansættelsesforhold.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Danmarks Akkrediteringsinstitution</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap2_X1">
+            <Paragraf id="Par2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="Par2_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Danmarks Akkrediteringsinstitution er en fagligt uafhængig myndighed inden for den statslige forvaltning, som varetager opgaver i forbindelse med akkreditering af de uddannelsesinstitutioner, der er omfattet af § 1, og disses uddannelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Danmarks Akkrediteringsinstitution udarbejder akkrediteringsrapporter til brug for Akkrediteringsrådets afgørelser om akkreditering af uddannelsesinstitutionerne og uddannelserne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Akkrediteringen foretages ud fra centralt fastsatte kriterier.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Danmarks Akkrediteringsinstitution skal leve op til internationale standarder og skal i den forbindelse samle national og international erfaring af betydning for akkreditering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for forskning, innovation og videregående uddannelser ansætter direktøren for Danmarks Akkrediteringsinstitution efter indstilling fra Akkrediteringsrådet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe id="Kap2_X2">
+            <Rubrica>
+              <Linea>
+                <Char>Akkrediteringsrådet</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="Par3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="Par3_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådet er et fagligt uafhængigt råd.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Akkrediteringsrådet fastsætter en forretningsorden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådet træffer afgørelse om akkreditering af videregående uddannelsesinstitutioner og disses uddannelser, jf. § 1, på baggrund af akkrediteringsrapporter udarbejdet af Danmarks Akkrediteringsinstitution, jf. dog stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådet kan af faglige grunde eller for at afprøve Danmarks Akkrediteringsinstitutions konkurrencedygtighed beslutte at anvende en anden operatør end Danmarks Akkrediteringsinstitution til at udarbejde akkrediteringsrapporter.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den valgte operatør skal være optaget i det europæiske register for kvalitetssikringsorganer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Danmarks Akkrediteringsinstitution stiller sekretariatsbistand til rådighed for Akkrediteringsrådet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="Par4_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådet består af 1 formand og 8 medlemmer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for forskning, innovation og videregående uddannelser udpeger formanden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren udpeger medlemmerne, dog således at 2 medlemmer udpeges efter indstilling fra de studerendes repræsentanter i bestyrelser og skoleråd for uddannelsesinstitutioner med videregående uddannelser under ministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådets formand og medlemmer skal tilsammen have viden og erfaring inden for kvalitetssikring, videregående uddannelse, forskning, udviklingsbasering og arbejdsmarkedsforhold for dimittender.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Mindst 1 medlem skal have international erfaring med akkreditering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådets formand og medlemmer kan højst sidde i rådet i 8 år fordelt på mindst to udpegningsperioder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dog kan medlemmerne udpeget efter indstilling fra de studerende, jf. stk. 3, højst sidde i rådet i 2 år fordelt på mindst to udpegningsperioder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis formanden eller et medlem afgår inden periodens udløb, udpeges en afløser efter stk. 2 og 3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I forbindelse med udpegningen tages stilling til udpegningsperiodens længde, jf. 1. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="Par5_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådet offentliggør alle akkredi­te­rings­rapporter og en samlet oversigt over alle akkrediteringsansøgninger og resultatet heraf samt over alle uddannelsesinstitutioner og uddannelser, der er akkrediteret af Ak­kre­di­te­rings­rådet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Danmarks Akkrediteringsinstitution og Ak­kre­di­te­rings­rådet offentliggør hvert år beretninger om deres virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Akkreditering af videregående uddannelsesinstitutioner (institutionsakkreditering)</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap3_X1">
+            <Paragraf id="Par6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="Par6_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>En uddannelsesinstitution omfattet af § 1, stk. 1, gennemgår en institutionsakkreditering med fokus på uddannelsesinstitutionens løbende og systematiske arbejde med sikring og udvikling af uddannelsernes kvalitet og relevans.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par6_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Institutionsakkreditering skal som udgangspunkt gennemføres samlet for en uddannelsesinstitution som helhed, men i særlige tilfælde kan uddannelsesinstitutionen anmode Akkrediteringsrådet om, at akkrediteringen af uddannelsesinstitutionen opdeles.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Akkrediteringsrådet hører ministeren for forskning, innovation og videregående uddannelser om anmodningen, inden rådet træffer afgørelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par6_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Som led i institutionsakkrediteringen foretages en undersøgelse og vurdering af, om kvalitetssikringssystemerne i praksis leverer kvalitet og relevans på uddannelsesniveauet og uddannelsesudbudsniveauet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="Par7_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved institutionsakkreditering nedsætter Danmarks Akkrediteringsinstitution et akkrediteringspanel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par7_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringspanelet består af mindst 3 personer og sammensættes af faglige eksperter, der tilsammen har erfaring med den videregående uddannelsessektor generelt og med international kvalitetssikring af uddannelsesinstitutioner.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par7_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Panelet foretager en akkrediteringsvurdering af uddannelsesinstitutionen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par7_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Danmarks Akkrediteringsinstitution udarbejder på baggrund heraf en akkrediteringsrapport.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par7_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådet kan efter anmodning fra en uddannelsesinstitution helt eller delvis lægge en ak­kre­di­te­rings­rapport fra en anden internationalt anerkendt operatør til grund for afgørelsen om institutionsakkreditering, i det omfang rapporten dokumenterer, at uddannelsesinstitutionen lever op til kriterierne fastsat i medfør af § 8, stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="Par8_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådet træffer afgørelse om uddannelsesinstitutionens ansøgning om institutionsakkreditering på baggrund af akkrediteringsrapporten.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Afgørelsen kan være en positiv institutionsakkreditering, en betinget positiv institutionsakkreditering eller et afslag på institutionsakkreditering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for forskning, innovation og videregående uddannelser fastsætter regler om proceduren for institutionsakkreditering, herunder kriterier for institutionsakkreditering med fokus på kvalitet og relevans.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="Par9_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>En positiv institutionsakkreditering giver mulighed for at oprette nye uddannelser og nye uddannelsesudbud, når disse er prækvalificeret og godkendt, jf. §§ 18 og 21, og foretage justering af eksisterende uddannelser.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Oprettelse af nye uddannelser og uddannelsesudbud og justeringer af eksisterende uddannelser skal ske i overensstemmelse med uddannelsesinstitutionens kvalitetssikringspolitik og strategi.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>En positiv institutionsakkreditering gælder i maksimalt 6 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par9_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelsesinstitutioner, der har påbegyndt en institutionsakkreditering, har ligeledes de i stk. 1, 1. pkt., angivne muligheder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Nye uddannelser og uddannelsesudbud kan dog først oprettes og udbydes, når uddannelsesinstitutionen har fået en positiv institutionsakkreditering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par9_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Inden institutionsakkrediteringsperioden udløber, skal der foretages en ny akkreditering af uddannelsesinstitutionen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="Par10_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>En betinget positiv institutionsakkreditering medfører, at alle nye uddannelser og uddannelsesudbud skal uddannelsesakkrediteres før oprettelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Akkrediteringsrådet fastlægger, hvor længe den betinget positive institutionsakkreditering gælder, dog maksimalt 2 år.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Uddannelsesinstitutionen kan foretage justering af eksisterende uddannelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådet angiver i sin afgørelse en plan for opfølgning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Inden udløbet af den efter stk. 1, 2. pkt., fastsatte periode træffer Akkrediteringsrådet en ny afgørelse efter stk. 3 om institutionsakkreditering på baggrund af en supplerende akkrediteringsrapport, der alene forholder sig til de kriterier, uddannelsesinstitutionen ikke levede op til ved den første afgørelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgørelsen efter stk. 2, 2. pkt., kan være enten en positiv institutionsakkreditering eller et afslag på instituti‍onsakkreditering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="Par11_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Et afslag på institutionsakkreditering medfører, at uddannelsesinstitutionen ikke kan oprette nye uddannelser eller uddannelsesudbud, og at eksisterende uddannelser skal uddannelsesakkrediteres efter en turnusplan, jf. § 32.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren for forskning, innovation og videregående uddannelser kan dog efter en konkret vurdering dispensere herfra.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Uddannelsesinstitutionen kan foretage justering af eksisterende uddannelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par11_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådet afgør efter dialog med uddannelsesinstitutionen, hvornår uddannelsesinstitutionen igen kan anmode om institutionsakkreditering.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>En fornyet ansøgning om institutionsakkreditering behandles efter reglerne i § 8.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="Par12_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Får en maritim uddannelsesinstitution en betinget positiv instituti‍onsakkreditering eller et afslag på instituti‍onsakkreditering, foretager ministeren for forskning, innovation og videregående uddannelser en konkret vurdering af, hvilken opfølgning der skal ske.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par12_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren fastsætter nærmere regler om opfølgningen efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe id="Kap3_X2">
+            <Rubrica>
+              <Linea>
+                <Char>Akkreditering af uddannelser og uddannelsesudbud ved videregående uddannelsesinstitutioner (uddannelsesakkreditering)</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="Par13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="Par13_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved uddannelsesakkreditering nedsætter Danmarks Akkrediteringsinstitution et akkrediteringspanel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par13_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringspanelet består af mindst 3 personer og sammensættes af faglige eksperter, der tilsammen har erfaring med den videregående uddannelsessektor generelt og med international kvalitetssikring af uddannelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par13_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Panelet foretager en akkrediteringsvurdering af uddannelsen eller uddannelsesudbuddet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par13_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Danmarks Akkrediteringsinstitution udarbejder på baggrund heraf en akkrediteringsrapport.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par13_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådet kan efter anmodning fra en uddannelsesinstitution helt eller delvis lægge en ak­kre­di­te­rings­rapport fra en anden internationalt anerkendt operatør til grund for afgørelsen om uddannelsesakkreditering, i det omfang rapporten dokumenterer, at uddannelsen lever op til kriterierne fastsat i medfør af § 14, stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="Par14_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådet træffer afgørelse om uddannelsesinstitutionens ansøgning om uddannelsesakkreditering på baggrund af akkrediteringsrapporten.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Afgørelsen kan for nye uddannelser og uddannelsesudbud være en positiv uddannelsesakkreditering eller et afslag på uddannelsesakkreditering.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For eksisterende uddannelser og uddannelsesudbud kan afgørelsen være en positiv uddannelsesakkreditering, en betinget positiv uddannelsesakkreditering eller et afslag på uddannelsesakkreditering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par14_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for forskning, innovation og videregående uddannelser fastsætter regler om proceduren for akkreditering og godkendelse af uddannelser og uddannelsesudbud, herunder kriterier for akkreditering af uddannelser og uddannelsesudbud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="Par15_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>En positiv uddannelsesakkreditering giver uddannelsesinstitutionen mulighed for at udbyde den pågældende uddannelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Uddannelsesakkrediteringen gælder for 6 år, hvorefter uddannelsen eller uddannelsesudbuddet skal genakkrediteres, medmindre uddannelsesinstitutionen i mellemtiden har opnået en positiv eller en betinget positiv instituti‍onsakkreditering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="Par16_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>En betinget positiv uddannelsesakkreditering giver uddannelsesinstitutionen mulighed for fortsat at udbyde den pågældende uddannelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Udbuddet sker under forudsætning af, at uddannelsesinstitutionen inden for en af Ak­kre­di­te­rings­rådet fastsat periode retter op på de forhold, som har medført den betinget positive uddannelsesakkreditering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par16_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådet angiver i sin afgørelse en plan for opfølgning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Inden udløbet af den efter stk. 1, 2. pkt., fastsatte periode træffer Akkrediteringsrådet en ny afgørelse om uddannelsesakkreditering på baggrund af en supplerende akkrediteringsrapport, der alene forholder sig til de kriterier, uddannelsen ikke opfyldte ved den første afgørelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par16_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådet skal træffe en ny afgørelse, som kan være en positiv uddannelsesakkreditering eller et afslag på uddannelsesakkreditering, uanset om uddannelsesinstitutionen i mellemtiden har opnået en positiv eller en betinget positiv institutionsakkreditering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="Par17_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Et afslag på uddannelsesakkreditering betyder, at uddannelsesinstitutionen ikke kan udbyde uddannelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelsesinstitutionen kan først genansøge om uddannelsesakkreditering af uddannelsen eller uddannelsesudbuddet, når der har fundet en ny prækvalifikation sted, jf. § 18.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Prækvalifikation og godkendelse af nye uddannelser og uddannelsesudbud</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap4_X1">
+            <Paragraf id="Par18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="Par18_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Nye uddannelser og uddannelsesudbud skal prækvalificeres af ministeren for forskning, innovation og videregående uddannelser før oprettelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Prækvalifikationen er en vurdering af, om den nye uddannelse eller det nye uddannelsesudbud er samfundsøkonomisk og uddannelsespolitisk hensigtsmæssigt og i øvrigt opfylder lovgivningsmæssige krav.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par18_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan indhente supplerende faglig rådgivning til brug for prækvalifikationen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="Par19_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for forskning, innovation og videregående uddannelser nedsætter et rådgivende udvalg for vurdering af udbud af videregående uddannelser, som vurderer ansøgninger om prækvalifikation og rådgiver ministeren om principielle spørgsmål knyttet hertil.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par19_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det rådgivende udvalg for vurdering af udbud af videregående uddannelser består af 5-7 medlemmer, som alle udpeges af ministeren.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Udvalget udpeger selv sin formand.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Medlemmerne er personligt udpeget og må ikke varetage bestyrelsesposter eller ledende stillinger på videregående uddannelsesinstitutioner eller have personlig eller økonomisk interesse i det rådgivende udvalg for vurdering af udbud af videregående uddannelsers virke.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par19_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Medlemmerne af det rådgivende udvalg for vurdering af udbud af videregående uddannelser skal tilsammen have en bred indsigt i hele det videregående uddannelsesområde og de samfundsøkonomiske overvejelser og prioriteringer forbundet hermed.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>1 medlem skal desuden have international erfaring.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par19_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Medlemmerne kan højest udpeges for en 6-årig periode fordelt på mindst to udpegningsperioder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par20">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="Par20_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for forskning, innovation og videregående uddannelser fastsætter regler for prækvalifikationen, herunder kriterier for prækvalifikation, regler for det rådgivende udvalg for vurdering af udbud af videregående uddannelsers arbejde og krav til, hvilke oplysninger uddannelsesinstitutionen skal afgive til brug for prækvalifikation.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par21">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="Par21_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for forskning, innovation og videregående uddannelser træffer på baggrund af prækvalifikationen afgørelse om godkendelse af en ny uddannelse eller et nyt uddannelsesudbud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par21_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For uddannelsesinstitutioner, der har påbegyndt en institutionsakkreditering, sker godkendelsen under forudsætning af en efterfølgende positiv institutionsakkreditering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par21_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Har uddannelsesinstitutionen alene opnået en betinget institutionsakkreditering, sker godkendelsen, under forudsætning af at uddannelsen eller uddannelsesudbuddet efterfølgende opnår en positiv uddannelsesakkreditering, jf. § 14.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par21_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren fastsætter regler for godkendelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Øvrige bestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap5_X1">
+            <Paragraf id="Par22">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="Par22_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for forskning, innovation og videregående uddannelser kan af egen drift eller efter anmodning fra Akkrediteringsrådet, arbejdsmarkedets parter eller de studerende udtage uddannelser eller uddannelsesudbud med særlige kvalitetsmæssige udfordringer til gennemgang.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par22_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren fastsætter regler om gennemgangen, herunder om Danmarks Akkrediteringsinstitutions rolle i forbindelse med gennemgangen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par23">
+              <Explicatus>§ 23.</Explicatus>
+              <Stk id="Par23_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådet kan af egen drift eller efter anmodning fra ministeren for forskning, innovation og videregående uddannelser i løbet af en institutionsakkrediterings- eller en uddannelsesakkrediteringsperiode undersøge, om kriterierne fortsat opfyldes.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis kriterierne for en institutionsakkreditering ikke længere er opfyldt, trækker Akkrediteringsrådet akkrediteringen tilbage og indberetter det straks til ministeren.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Akkrediteringsrådet gennemfører herefter en fornyet institutionsakkreditering og træffer afgørelse, jf. § 8.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis kriterierne for en uddannelsesakkreditering ikke længere er opfyldt, trækker Akkrediteringsrådet akkrediteringen tilbage.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis Akkrediteringsrådet trækker akkrediteringen tilbage, skal Akkrediteringsrådet straks indberette det til ministeren, som trækker godkendelsen tilbage.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelsesinstitutionen skal underrette Ak­kre­di­te­rings­rådet, hvis kriterierne ikke længere er opfyldt eller der er tvivl herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par24">
+              <Explicatus>§ 24.</Explicatus>
+              <Stk id="Par24_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelsesinstitutionernes udbud af uddannelser i udlandet følger reglerne i denne lov, jf. dog stk. 3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dog har universiteterne ved uddannelsesakkreditering valgfrihed, for så vidt angår valg af kvalitetssikringsinstitution, jf. universitetslovens § 3 a.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Vælger uddannelsesinstitutionen at bruge Danmarks Akkrediteringsinstitution til uddannelsesakkrediteringen, opkræves betaling herfor, jf. § 27, stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par24_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Anvender universiteterne en anden kvalitetssikringsinstitution, jf. stk.1, 2. pkt., sker kvalitetssikringen efter denne institutions kriterier.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par24_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Reglerne om prækvalifikation af nye uddannelser i udlandet finder alene anvendelse for nye uddannelser og uddannelsesudbud, hvortil der ydes statsligt tilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par25">
+              <Explicatus>§ 25.</Explicatus>
+              <Stk id="Par25_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Uddannelsesinstitutionerne kan, selv om de har opnået institutionsakkreditering, af egen drift og mod betaling, jf. § 27, stk. 3, anmode Akkrediteringsrådet om at foretage en uddannelsesakkreditering af en uddannelse eller et uddannelsesudbud, jf. § 14.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe id="Kap5_X2">
+            <Rubrica>
+              <Linea>
+                <Char>Akkreditering af andre uddannelsesinstitutioner m.v.</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="Par26">
+              <Explicatus>§ 26.</Explicatus>
+              <Stk id="Par26_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådet akkrediterer videregående uddannelsesinstitutioner og uddannelser på kulturministerens område.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kulturministeren fastsætter nærmere regler på Kulturministeriets område for akkreditering og prækvalifikation samt kriterier for institutionsakkreditering og for uddannelsesakkreditering med fokus på kvalitet og relevans.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par26_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådet kan akkreditere uddannelser eller uddannelsesinstitutioner under andre ministre.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Vedkommende minister indgår aftale herom med ministeren for forskning, innovation og videregående uddannelser, som herefter orienterer Akkrediteringsrådet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Vedkommende minister kan fastsætte regler for akkreditering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe id="Kap5_X3">
+            <Rubrica>
+              <Linea>
+                <Char>Økonomiske forhold</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="Par27">
+              <Explicatus>§ 27.</Explicatus>
+              <Stk id="Par27_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for forskning, innovation og videregående uddannelser afholder udgifterne til Akkrediteringsrådet og til Danmarks Akkrediteringsinstitution.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par27_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I det omfang Akkrediteringsrådet akkrediterer uddannelser og uddannelsesinstitutioner under andre ministre, jf. § 26, afholdes udgifterne hertil af vedkommende mi­ni­ster.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par27_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Akkreditering af uddannelser efter §§ 24 og 25 udføres som indtægtsdækket virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe id="Kap5_X4">
+            <Rubrica>
+              <Linea>
+                <Char>Klageadgang m.v.</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="Par28">
+              <Explicatus>§ 28.</Explicatus>
+              <Stk id="Par28_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådets afgørelser kan ikke indbringes for anden administrativ myndighed, jf. dog stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par28_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klager over retlige spørgsmål ved Ak­kre­di­te­rings­rådets afgørelse kan af parterne indbringes for Styrelsen for Universiteter og Internationalisering, senest 14 dage efter at afgørelsen er meddelt parten.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Styrelsen for Universiteter og Internationaliserings afgørelser i disse sager kan ikke indbringes for anden administrativ myndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par29">
+              <Explicatus>§ 29.</Explicatus>
+              <Stk id="Par29_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for forskning, innovation og videregående uddannelser kan bemyndige en myndighed under ministeriet eller andre myndigheder efter forhandling med vedkommende minister til at udøve de beføjelser, der i denne lov er tillagt ministeren for forskning, innovation og videregående uddannelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par29_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for forskning, innovation og videregående uddannelser kan fastsætte regler om adgangen til at påklage afgørelser, der er truffet i henhold til bemyndigelse efter stk. 1, herunder at afgørelserne ikke skal kunne påklages.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par29_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for forskning, innovation og videregående uddannelser kan efter forhandling med vedkommende minister fastsætte regler om udøvelsen af de beføjelser, som en anden myndighed efter forhandling med vedkommende minister bliver bemyndiget til at udøve efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Ikrafttræden og overgangsbestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap6_X1">
+            <Paragraf id="Par30">
+              <Explicatus>§ 30.</Explicatus>
+              <Stk id="Par30_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. juli 2013.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par30_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lov nr. 294 af 27. marts 2007 om Ak­kre­di­te­rings­in­sti­tu­tio­nen for videregående uddannelser ophæves.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par30_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bekendtgørelse nr. 684 af 27. juni 2008 om akkreditering og godkendelse af erhvervsakademiuddannelser og professionsbacheloruddannelser mv., bekendtgørelse nr. 1174 af 1. december 2008 om akkreditering og godkendelse af videregående uddannelser under Kulturministeriet og bekendtgørelse nr. 1402 af 14. december 2009 om kriterier for universitetsuddannelsers relevans og kvalitet og om sagsgangen ved godkendelse af universitetsuddannelser forbliver i kraft, indtil de ophæves eller afløses af regler fastsat i medfør af denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par30_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Formanden for og medlemmerne af Ak­kre­di­te­rings­rådet, som er udpeget efter de hidtil gældende regler, fortsætter deres funktion i Akkrediteringsrådet, indtil formanden og nye medlemmer af Akkrediteringsrådet udpeges efter § 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par31">
+              <Explicatus>§ 31.</Explicatus>
+              <Stk id="Par31_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Indtil en uddannelsesinstitution har opnået instituti‍onsakkreditering, er uddannelsesinstitutionens uddannelser underlagt reglerne for uddannelsesakkreditering, jf. § 14, dog sættes turnusakkrediteringen af eksisterende uddannelser og uddannelsesudbud for den enkelte uddannelsesinstitution i bero i forbindelse med institutionsakkrediteringen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par31_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis der gives afslag på den første institutionsakkreditering, skal eksisterende uddannelser og uddannelsesudbud fortsat turnusakkrediteres, jf. § 14.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par31_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For tidsbegrænsede udbudsgodkendelser, der er givet enten i medfør af lov om erhvervsakademiuddannelser og professionsuddannelser eller i medfør af lov om erhvervsrettet grunduddannelse og videregående uddannelse (videreuddannelsessystemet) for voksne, bortfalder tidsbegrænsningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par32">
+              <Explicatus>§ 32.</Explicatus>
+              <Stk id="Par32_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Akkrediteringsrådet udarbejder et forslag til plan for institutionsakkreditering på baggrund af uddannelsesinstitutionernes ansøgning herom.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Samtidig udarbejdes forslag til justering af planen for turnusakkreditering af eksisterende uddannelser og uddannelsesudbud.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Planerne forelægges ministeren for forskning, innovation og videregående uddannelser til godkendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par33">
+              <Explicatus>§ 33.</Explicatus>
+              <Stk id="Par33_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

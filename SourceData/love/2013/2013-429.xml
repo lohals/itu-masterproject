@@ -1,0 +1,785 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2012/09/21/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20130042930</AccessionNumber>
+    <DocumentId>AA007087</DocumentId>
+    <UniqueDocumentId>146508</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af konkursloven, retsplejeloven og retsafgiftsloven\n(Konkurskarantæne)</DocumentTitle>
+    <Year>2013</Year>
+    <DiesSigni>2013-05-01</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2014-11-29</EndDate>
+    <Status>Historic</Status>
+    <Number>429</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1252 af 27/11/2014</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1139 af 24/09/2013</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 11 af 06/01/2014</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 429 af 01/05/2013</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2014-11-28</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Morten Bødskov</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Justitsmin., j.nr. 2011-711-0002</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af konkursloven, retsplejeloven og retsafgiftsloven</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Konkurskarantæne)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I konkursloven, jf. lovbekendtgørelse nr. 217 af 15. marts 2011, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 13 b, stk. 1, nr. 3,</Char>
+                <Char> indsættes efter litra d som nyt litra:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Indentatio formaInd="Litra">
+                <Explicatus>e)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Oplysning om eventuelle forhold, der vil kunne begrunde konkurskarantæne.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Litra e-h bliver herefter litra f-i.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 15</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 4:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når skyldnerens bo tages under konkursbehandling i medfør af stk. 3, skal rekonstruktøren og tillidsmanden sende en kort redegørelse til skifteretten om de forhold, der er nævnt i § 13 b, stk. 1, nr. 3, litra c-e, hvis rekonstruktøren og tillidsmanden er i besiddelse af oplysninger herom.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dette gælder dog ikke, hvis rekonstruktøren tidligere har sendt det materiale, der er nævnt i § 13 b, til skifteretten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 125 </Char>
+                <Char>indsættes efter stk. 2 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus formaEx="Align">
+                  <Linea>
+                    <Char>Redegørelsen efter stk. 2 skal endvidere indeholde kurators begrundede indstilling om, hvorvidt der er grundlag for at indlede sag om konkurskarantæne mod nogen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Kan kurator ikke fremskaffe tilstrækkelige oplysninger til brug for afgivelse af en endelig indstilling i redegørelsen efter stk. 2, skal en sådan afgives så hurtigt som muligt og senest i forbindelse med den første redegørelse efter stk. 4, medmindre den, der er spørgsmål om at pålægge konkurskarantæne, i væsentlig grad har modarbejdet kurators undersøgelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus formaEx="Align">
+            <Linea>
+              <Char>Stk. 3-6 bliver herefter stk. 4-7.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 126, stk. 1,</Char>
+                <Char> ændres »§ 125, stk. 4« til: »§ 125, stk. 5«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>To steder i </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 126, stk. 2,</Char>
+                <Char> ændres »3« til: »4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 156 indsættes før afsnit IV:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Afsnit>
+                <Explicatus>Afsnit III</Explicatus>
+                <Rubrica>
+                  <Linea>
+                    <Char>Konkurskarantæne</Char>
+                  </Linea>
+                </Rubrica>
+                <Kapitel>
+                  <Explicatus>Kapitel 19</Explicatus>
+                  <Rubrica>
+                    <Linea>
+                      <Char>Betingelserne for at pålægge konkurskarantæne og karantænens retsvirkninger</Char>
+                    </Linea>
+                  </Rubrica>
+                  <ParagrafGruppe>
+                    <Paragraf>
+                      <Explicatus>§ 157.</Explicatus>
+                      <Stk>
+                        <Exitus>
+                          <Linea>
+                            <Char>Konkurskarantæne kan efter kurators begæring efter § 161 pålægges den, der senere end 1 år før fristdagen har deltaget i ledelsen af skyldnerens virksomhed, hvis det må antages, at den pågældende på grund af groft uforsvarlig forretningsførelse er uegnet til at deltage i ledelsen af en erhvervsvirksomhed.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Hvis skyldneren var under tvangsopløsning, da konkursen indtrådte, regnes fristen på 1 år fra dagen for beslutningen om tvangsopløsning.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 2.</Explicatus>
+                        <Exitus formaEx="Align">
+                          <Linea>
+                            <Char>Ved afgørelsen skal der lægges vægt på, om det under hensyn til den pågældendes handlemåde og omstændighederne i øvrigt er rimeligt at pålægge konkurskarantæne.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 3.</Explicatus>
+                        <Exitus formaEx="Align">
+                          <Linea>
+                            <Char>Konkurskarantæne kan ikke pålægges den, der allerede er pålagt konkurskarantæne i anledning af den pågældendes deltagelse i ledelsen af en koncernforbundet virksomhed.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Bestemmelsen i 1. pkt. finder anvendelse, indtil konkurskarantænen udløber.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </Paragraf>
+                    <Paragraf>
+                      <Explicatus>§ 158.</Explicatus>
+                      <Stk>
+                        <Exitus>
+                          <Linea>
+                            <Char>Konkurskarantæne pålægges for 3 år.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Hvis særlige grunde taler for det, kan konkurskarantæne pålægges for en kortere periode end 3 år.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 2.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Hvis den pågældende tidligere er pålagt konkurskarantæne, som ikke er udløbet, regnes konkurskarantænen tidligst fra udløbet af den senest pålagte konkurskarantæne.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Konkurskarantænen udløber dog senest 10 år efter den oprindelige afgørelse.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </Paragraf>
+                    <Paragraf>
+                      <Explicatus>§ 159.</Explicatus>
+                      <Stk>
+                        <Exitus>
+                          <Linea>
+                            <Char>Den, der er pålagt konkurskarantæne, må ikke deltage i ledelsen af en erhvervsvirksomhed uden at hæfte personligt og ubegrænset for virksomhedens forpligtelser.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Hvis den pågældende tidligere er pålagt konkurskarantæne, der ikke er udløbet på fristdagen, og den groft uforsvarlige forretningsførelse, der begrunder nyt pålæg af konkurskarantæne, er foregået, efter at den tidligere konkurskarantæne fik virkning, bestemmes det i afgørelsen om konkurskarantæne, at den pågældende heller ikke må deltage i ledelsen af en erhvervsvirksomhed med personlig og ubegrænset hæftelse for virksomhedens forpligtelser.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </Paragraf>
+                  </ParagrafGruppe>
+                </Kapitel>
+                <Kapitel>
+                  <Explicatus>Kapitel 20</Explicatus>
+                  <Rubrica>
+                    <Linea>
+                      <Char>Behandlingen af sager om konkurskarantæne</Char>
+                    </Linea>
+                  </Rubrica>
+                  <ParagrafGruppe>
+                    <Paragraf>
+                      <Explicatus>§ 160.</Explicatus>
+                      <Stk>
+                        <Exitus>
+                          <Linea>
+                            <Char>Skifteretten afgør på grundlag af kurators begrundede indstilling, om der skal indledes sag om konkurskarantæne mod nogen.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Skifteretten kan anmode kurator om en supplerende indstilling, før skifteretten træffer afgørelse herom.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Skifterettens beslutning om at indlede en sag om konkurskarantæne kan ikke kæres af den, der begæres pålagt konkurskarantæne.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 2.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Sager om konkurskarantæne behandles efter reg­ler­ne i dette kapitel, og i øvrigt finder § 243 tilsvarende anvendelse.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </Paragraf>
+                    <Paragraf>
+                      <Explicatus>§ 161.</Explicatus>
+                      <Stk>
+                        <Exitus>
+                          <Linea>
+                            <Char>Når der er indledt sag om konkurskarantæne, skal kurator inden en af skifteretten fastsat frist indlevere et processkrift, som skal indeholde</Char>
+                          </Linea>
+                        </Exitus>
+                        <Exitus>
+                          <Index>
+                            <Indentatio formaInd="Nummer">
+                              <Explicatus>1)</Explicatus>
+                              <Exitus>
+                                <Linea>
+                                  <Char>kurators påstand,</Char>
+                                </Linea>
+                              </Exitus>
+                            </Indentatio>
+                            <Indentatio formaInd="Nummer">
+                              <Explicatus>2)</Explicatus>
+                              <Exitus>
+                                <Linea>
+                                  <Char>en udførlig fremstilling af de faktiske og retlige omstændigheder, hvorpå påstanden støttes, og</Char>
+                                </Linea>
+                              </Exitus>
+                            </Indentatio>
+                            <Indentatio formaInd="Nummer">
+                              <Explicatus>3)</Explicatus>
+                              <Exitus>
+                                <Linea>
+                                  <Char>angivelse af de dokumenter og andre beviser, som kurator agter at påberåbe sig.</Char>
+                                </Linea>
+                              </Exitus>
+                            </Indentatio>
+                          </Index>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 2.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Med processkriftet skal indleveres kopi af dette og kopier af de dokumenter, som kurator agter at påberåbe sig, for så vidt de er i kurators besiddelse.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 3.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Skifteretten lader processkriftet forkynde for den, der begæres pålagt konkurskarantæne.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Samtidig med forkyndelsen skal der udleveres en vejledning om, hvad konkurskarantæne indebærer, og om reglerne i §§ 162 og 163.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </Paragraf>
+                    <Paragraf>
+                      <Explicatus>§ 162.</Explicatus>
+                      <Stk>
+                        <Exitus>
+                          <Linea>
+                            <Char>Den, der begæres pålagt konkurskarantæne, kan inden en af skifteretten fastsat frist</Char>
+                          </Linea>
+                        </Exitus>
+                        <Exitus>
+                          <Index>
+                            <Indentatio formaInd="Nummer">
+                              <Explicatus>1)</Explicatus>
+                              <Exitus>
+                                <Linea>
+                                  <Char>indlevere et svarskrift til skifteretten og</Char>
+                                </Linea>
+                              </Exitus>
+                            </Indentatio>
+                            <Indentatio formaInd="Nummer">
+                              <Explicatus>2)</Explicatus>
+                              <Exitus>
+                                <Linea>
+                                  <Char>anmode om mundtlig forhandling.</Char>
+                                </Linea>
+                              </Exitus>
+                            </Indentatio>
+                          </Index>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 2.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Kopi af svarskriftet skal samtidig med indleveringen til skifteretten sendes til kurator.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 3.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Skifteretten kan bestemme, at der skal udveksles yderligere processkrifter.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 4.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Skifteretten indkalder parterne til mundtlig forhandling, hvis den, der begæres pålagt konkurskarantæne, har anmodet om det, jf. stk. 1, nr. 2, eller skifteretten i øvrigt finder det hensigtsmæssigt.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 5.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Skifteretten kan efter anmodning fra kurator indkalde den, der begæres pålagt konkurskarantæne, til personligt møde for at besvare spørgsmål sigtende til sagens oplysning.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 6.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Hvis den, der begæres pålagt konkurskarantæne, undlader at udtale sig om kurators erklæringer om sagens faktiske omstændigheder, kan skifteretten ved bevisbedømmelsen tillægge dette virkning til skade for den pågældende.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Det samme gælder, hvis den pågældende udebliver efter at være indkaldt til personligt møde eller undlader at besvare spørgsmål eller svarene er uklare eller ufuldstændige.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </Paragraf>
+                    <Paragraf>
+                      <Explicatus>§ 163.</Explicatus>
+                      <Stk>
+                        <Exitus>
+                          <Linea>
+                            <Char>Skifteretten beskikker en advokat for den, der begæres pålagt konkurskarantæne, hvis den pågældende anmoder om det eller skifteretten i øvrigt finder det nødvendigt.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Om salær og godtgørelse for udlæg til den beskikkede advokat gælder samme regler som i tilfælde, hvor der er meddelt fri proces, jf. retsplejelovens kapitel 31.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </Paragraf>
+                    <Paragraf>
+                      <Explicatus>§ 164.</Explicatus>
+                      <Stk>
+                        <Exitus>
+                          <Linea>
+                            <Char>Skifterettens afgørelse om, hvorvidt konkurskarantæne skal pålægges, træffes ved kendelse.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 2.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Kære har opsættende virkning.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 3.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Fra Sø- og Handelsretten sker kære til Østre Landsret.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 4.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Hvis der, efter at konkurskarantæne er pålagt, meddeles tilladelse til prøvelse i 3. instans, tilladelse til kære efter kærefristens udløb eller tilladelse til ekstraordinær genoptagelse eller kære, stilles virkningerne af den pålagte konkurskarantæne i bero.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </Paragraf>
+                  </ParagrafGruppe>
+                </Kapitel>
+                <Kapitel>
+                  <Explicatus>Kapitel 21</Explicatus>
+                  <Rubrica>
+                    <Linea>
+                      <Char>Sagsomkostninger og vederlag til kurator for sagens førelse</Char>
+                    </Linea>
+                  </Rubrica>
+                  <ParagrafGruppe>
+                    <Paragraf>
+                      <Explicatus>§ 165.</Explicatus>
+                      <Stk>
+                        <Exitus>
+                          <Linea>
+                            <Char>Skifteretten træffer bestemmelse om sagsomkostninger forbundet med førelsen af sager om konkurskarantæne.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Hvis den, der begæres pålagt konkurskarantæne, eller den, der pålægges konkurskarantæne, skal have sagsomkostninger betalt eller erstattet, afholdes disse udgifter af statskassen.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Sagsomkostninger, som den pågældende pålægges at betale eller erstatte, tilfalder statskassen.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Udgifter til kurators vederlag, jf. § 166, erstattes fuldt ud.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 2.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Hvis konkurskarantæne pålægges, pålægger skifteretten den pågældende at erstatte statskassens udgifter i forbindelse med beskikkelse af en advokat for den pågældende efter § 163, medmindre særlige grunde taler herimod.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </Paragraf>
+                    <Paragraf>
+                      <Explicatus>§ 166.</Explicatus>
+                      <Stk>
+                        <Exitus>
+                          <Linea>
+                            <Char>Skifteretten fastsætter vederlag til kurator for dennes førelse af en sag om konkurskarantæne.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Vederlaget afholdes af statskassen, jf. dog § 165.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </Paragraf>
+                  </ParagrafGruppe>
+                </Kapitel>
+                <Kapitel>
+                  <Explicatus>Kapitel 22</Explicatus>
+                  <Rubrica>
+                    <Linea>
+                      <Char>Hæftelse for gælden ved overtrædelse af konkurskarantæne</Char>
+                    </Linea>
+                  </Rubrica>
+                  <ParagrafGruppe>
+                    <Paragraf>
+                      <Explicatus>§ 167.</Explicatus>
+                      <Stk>
+                        <Exitus>
+                          <Linea>
+                            <Char>Den, der i strid med en pålagt konkurskarantæne har deltaget i ledelsen af skyldnerens virksomhed, hæfter for den del af skyldnerens gæld, som ikke dækkes af konkursmassen, hvis fristdagen ligger inden konkurskarantænens udløb.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 2.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Skifteretten kan helt eller delvis fritage for hæftelse efter stk. 1.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 3.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Skifteretten kan helt eller delvis pålægge den, der i strid med en pålagt konkurskarantæne har deltaget i ledelsen af skyldnerens virksomhed, hæftelse som nævnt i stk. 1, hvis fristdagen ligger inden for 1 år efter konkurskarantænens udløb.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 4.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Ved en afgørelse efter stk. 2 eller 3 skal der lægges vægt på, om det under hensyn til de vigtigste årsager til konkursen og den pågældendes andel heri er rimeligt at pålægge hæftelse.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </Paragraf>
+                    <Paragraf>
+                      <Explicatus>§ 168.</Explicatus>
+                      <Stk>
+                        <Exitus>
+                          <Linea>
+                            <Char>Hæftelse efter § 167 kan kun pålægges, hvis kurator på boets vegne indleverer stævning herom, inden skifteretten indkalder til afsluttende skiftesamling.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 2.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Sagen behandles ved skifteretten efter reglerne i kapitel 31.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </Paragraf>
+                  </ParagrafGruppe>
+                </Kapitel>
+                <Kapitel>
+                  <Explicatus>Kapitel 23</Explicatus>
+                  <Rubrica>
+                    <Linea>
+                      <Char>Registrering af konkurskarantæne</Char>
+                    </Linea>
+                  </Rubrica>
+                  <ParagrafGruppe>
+                    <Paragraf>
+                      <Explicatus>§ 169.</Explicatus>
+                      <Stk>
+                        <Exitus>
+                          <Linea>
+                            <Char>Erhvervsstyrelsen fører et register over pålagte konkurskarantæner.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                      <Stk>
+                        <Explicatus>Stk. 2.</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Erhvervs- og vækstministeren kan efter forhandling med justitsministeren fastsætte regler om førelsen af registeret, herunder om indberetning af pålagte konkurskarantæner til Erhvervsstyrelsen og om udlevering af oplysninger fra registeret.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Stk>
+                    </Paragraf>
+                  </ParagrafGruppe>
+                </Kapitel>
+              </Afsnit>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I retsplejeloven, jf. lovbekendtgørelse nr. 1008 af 24. oktober 2012, som ændret ved § 1 i lov nr. 1242 af 18. december 2012 og § 1 i lov nr. 1387 af 23. december 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 12, stk. 3,</Char>
+                <Char> indsættes efter »borgerlige sager«: »og ved afgørelse af tvister i konkursboer og sager om konkurskarantæne«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 16, stk. 4,</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 20 a</Char>
+                <Char> indsættes efter »tvister i konkursboer«: »og sager om konkurskarantæne«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om retsafgifter, jf. lovbekendtgørelse nr. 936 af 8. september 2006, som ændret senest ved § 2 i lov nr. 1387 af 23. december 2012, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 37 b indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 38.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>For skifterettens virksomhed ved behandling af sager om konkurskarantæne svares ingen afgift.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 4</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Lovens § 1, nr. 1 og 2, finder anvendelse, når rekonstruktionsbehandling indledes efter lovens ikrafttræden.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Lovens § 1, nr. 3 og 6, finder anvendelse i konkursboer, hvor konkursdekret afsiges efter lovens ikrafttræden.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 5</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, men § 1 kan ved kongelig anordning sættes i kraft for Færøerne og Grønland med de ændringer, som de færøske og grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

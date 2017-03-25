@@ -1,0 +1,489 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2012/09/21/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20120125930</AccessionNumber>
+    <DocumentId>BK001305</DocumentId>
+    <UniqueDocumentId>144421</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af sundhedsloven og apotekerloven\n(Regelforenkling i den kommunale tandpleje og ændring af kompetenceregler om apotekeres udnævnelse m.v.)</DocumentTitle>
+    <Year>2012</Year>
+    <DiesSigni>2012-12-18</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-08</EndDate>
+    <Status>Historic</Status>
+    <Number>1259</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1202 af 14/11/2014</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1040 af 03/09/2014</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1259 af 18/12/2012</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2014-11-18</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Astrid Krag</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Ministeriet for Sundhed og Forebyggelse, j.nr. 1206349</JournalNumber>
+    <Ministry>Sundheds- og Ældreministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af sundhedsloven og apotekerloven</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Regelforenkling i den kommunale tandpleje og ændring af kompetenceregler om apotekeres udnævnelse m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I sundhedsloven, jf. lovbekendtgørelse nr. 913 af 13. juli 2010, som ændret senest ved § 4 i lov nr. 558 af 18. juni 2012 og lov nr. 603 af 18. juni 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 129, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Børn og unge under 18 år, der ønsker et andet tandplejetilbud end det, kommunalbestyrelsen vederlagsfrit stiller til rådighed, kan vælge at modtage børne- og ungdomstandpleje på en anden kommunes tandklinik.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 129, stk. 2</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">4,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3, 5 og 6 bliver herefter stk. 2-4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 131, stk. 2,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 bliver herefter stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 248, stk. 1,</Char>
+                <Char> indsættes efter »129«: », jf. dog stk. 2«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 248, stk. 2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For børn og unge, der modtager tandpleje på en anden kommunes tandklinik, jf. § 129, stk. 1, afholdes udgifterne hertil af behandlerkommunen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I apotekerloven, jf. lovbekendtgørelse nr. 855 af 4. august 2008, som ændret bl.a. ved § 1 i lov nr. 100 af 10. februar 2009 og senest ved lov nr. 465 af 18. maj 2011, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 15, stk. 1, 1. pkt.,</Char>
+                <Char> ændres »ministeren for sundhed og forebyggelse« til: »Sundhedsstyrelsen«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 15, stk. 2</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">3,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen kan meddele en ansøger til apotekerbevillinger eller en apoteker bevilling til at drive mere end ét apotek, dog maksimalt fire apoteker.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bevilling efter stk. 1 og 2 kan i særlige tilfælde meddeles for en tidsbegrænset periode.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsens afgørelser efter stk. 1-3 kan ikke indbringes for anden administrativ myndighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 4 og 5 bliver herefter stk. 5 og 6.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 15, stk. 5,</Char>
+                <Char> der bliver stk. 6, ændres »stk. 4, nr. 3« til: »stk. 5, nr. 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 20, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Ansøgning om en apotekerbevilling efter § 15, stk. 1 og 2, indsendes til Sundhedsstyrelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Inden apotekerbevilling meddeles efter § 15, stk. 1, rådfører Sundhedsstyrelsen sig med de konsulenter, der er nævnt i § 67.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 20, stk. 2,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 bliver herefter stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 20, stk. 3,</Char>
+                <Char> der bliver stk. 2, ændres »ministeren for sundhed og forebyggelse« til: »Sundhedsstyrelsen«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22, stk. 1, nr. 4,</Char>
+                <Char> ændres »§ 15, stk. 4, nr. 1 og 2« til: »§ 15, stk. 5, nr. 1 og 2«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 59</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 59.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Før der træffes beslutning om ansættelse af en sygehusapoteker, kan ejeren af sygehusapoteket anmode Sundhedsstyrelsen om en vejledende faglig vurdering af ansøgerens egnethed, jf. § 67, stk. 2.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Sundhedsstyrelsen afgiver vurderingen inden 14 dage</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Sygehusapotekere skal opfylde betingelsen i § 15, stk. 5, nr. 3.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 61 e, stk. 1,</Char>
+                <Char> ændres »§ 15, stk. 4, nr. 3« til: »§ 15, stk. 5, nr. 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2013.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 4</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Klager over Sundhedsstyrelsens afgørelser efter apotekerlovens § 15, stk. 1-3, der inden denne lovs ikrafttræden er indkommet til Ministeriet for Sundhed og Forebyggelse, omfattes ikke af bestemmelsen i apotekerlovens § 15, stk. 4.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 5</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Den, der ved denne lovs ikrafttræden modtager behandlende tandpleje i privat praksis efter eget valg i henhold til § 129, stk. 1, i sundhedsloven, jf. lovbekendtgørelse nr. 913 af 13. juli 2010 som ændret senest ved lov nr. 603 af 18. juni 2012, bevarer retten til behandling i privat praksis og retten til at modtage tilskud efter § 129, stk. 2, i sundhedsloven, jf. lovbekendtgørelse nr. 913 af 13. juli 2010 som ændret senest ved lov nr. 603 af 18. juni 2012, indtil behandlingen er afsluttet.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Den, der ved denne lovs ikrafttræden modtager behandlende tandpleje i privat praksis efter eget valg i henhold til § 131, stk. 2, i sundhedsloven, jf. lovbekendtgørelse nr. 913 af 13. juli 2010 som ændret senest ved lov nr. 603 af 18. juni 2012, bevarer retten til behandling i privat praksis, indtil behandlingen er afsluttet.</Char>
+          </Linea>
+          <Linea>
+            <Char>Bopælskommunen afholder de udgifter, der er forbundet med behandlingen.</Char>
+          </Linea>
+          <Linea>
+            <Char>Kommunen kan i henhold til § 132, stk. 1, i sundhedsloven beslutte, at patienten selv skal betale en del af udgiften.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 6</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 1-3 og 5, kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

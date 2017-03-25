@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2012/09/21/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20130052730</AccessionNumber>
+    <DocumentId>AH004915</DocumentId>
+    <UniqueDocumentId>146870</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om hold af dyr, lov om landbrugsejendomme og lov om dyrlæger\n(Uddannelseskrav i forbindelse med husdyrhold, gruppevis levering af slagtesvin, obligatorisk digital kommunikation om forhåndsanmeldelse af eksport af levende dyr m.v. og tilsyn med personer, der yder dyrlæger bistand)</DocumentTitle>
+    <Year>2013</Year>
+    <DiesSigni>2013-05-28</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-06</EndDate>
+    <Status>Historic</Status>
+    <Number>527</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 875 af 29/06/2013</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 26 af 14/01/2015</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 527 af 28/05/2013</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2015-01-21</DateOfHistoricMark>
+    <Subject>uddannelseskrav</Subject>
+    <Subject>kursuskrav</Subject>
+    <Subject>tilsyn</Subject>
+    <Subject>identifikation</Subject>
+    <Subject>sporbarhed</Subject>
+    <Subject>transport af slagtesvin</Subject>
+    <Subject>gruppevis levering af slagtesvin</Subject>
+    <Subject>transportør</Subject>
+    <Subject>slagteri</Subject>
+    <Subject>slagtesvin</Subject>
+    <Subject>Udførsel</Subject>
+    <Subject>eksport</Subject>
+    <Subject>oplysninger</Subject>
+    <Subject>virksomheder</Subject>
+    <Subject>CHR</Subject>
+    <Subject>IT-system</Subject>
+    <Subject>indberetning</Subject>
+    <Subject>obligatorisk</Subject>
+    <Subject>kommunikation</Subject>
+    <Subject>levende dyr</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Mette Gjerskov</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Fødevaremin.,\nFødevarestyrelsen, j.nr. 2012-32-2301-01137</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om hold af dyr, lov om landbrugsejendomme og lov om dyrlæger</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Uddannelseskrav i forbindelse med husdyrhold, gruppevis levering af slagtesvin, obligatorisk digital kommunikation om forhåndsanmeldelse af eksport af levende dyr m.v. og tilsyn med personer, der yder dyrlæger bistand)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om hold af dyr, jf. lovbekendtgørelse nr. 814 af 14. juli 2012, som ændret ved § 2 i lov nr. 1238 af 18. december 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 3 a </Char>
+                <Char>indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om uddannelseskrav til personer, som er ansvarlige for landbrugsmæssigt hold af andre husdyr end de i stk. 1 nævnte.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 4 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 4 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Slagtesvin kan transporteres fra en svinebesætning i Danmark til et slagteri i Danmark uden at være mærket efter regler fastsat i medfør af § 4, stk. 1, når dette sker som gruppevis levering af slagtesvin.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om gruppevis levering af slagtesvin, herunder om godkendelse af besætningsejere, som anvender gruppevis levering af slagtesvin.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ved fastsættelse af regler om godkendelse kan ministeren fastsætte vilkår for godkendelsen og bestemmelser om tilbagekaldelse.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ministeren kan endvidere fastsætte regler om transportører, som transporterer svin ved gruppevis levering af slagtesvin, og om slagterier, som modtager gruppevise leverancer af slagtesvin, herunder regler om registrering af transportørerne og slagterierne.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 37 </Char>
+                <Char>indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 2-5:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at oplysninger om udførsel af levende dyr, sæd, embryoner, oocytter m.v. efter regler fastsat i medfør af stk. 1 skal indberettes digitalt, og at kommunikation i forbindelse hermed skal foregå digitalt mellem ministeren og virksomhederne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte nærmere regler om digital indberetning og digital kommunikation, jf. stk. 2, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at ministeren eller den, ministeren bemyndiger dertil, kan udstede dokumenter i forbindelse med de indberetninger, som er nævnt i stk. 2, uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt dokumentet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sådanne dokumenter sidestilles med dokumenter med personlig underskrift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 55 </Char>
+                <Char>ændres »EF-retsakter« til: »Den Europæiske Unions retsakter«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 61 a </Char>
+                <Char>ændres »ved transport af slagtesvin, der efter aftale mellem besætningsejer og slagteri transporteres direkte fra en svinebesætning i Danmark til et slagteri i Danmark uden øremærkning eller skinketatovering« til: »ved gruppevis levering af slagtesvin, der sker efter regler fastsat i medfør af § 4 a«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om landbrugsejendomme, jf. lovbekendtgørelse nr. 616 af 1. juni 2010, som ændret ved § 1 i lov nr. 1240 af 18. december 2012 og § 4 i lov nr. 1392 af 23. december 2012, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 11, stk. 2,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 bliver herefter stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om dyrlæger, jf. lovbekendtgørelse nr. 815 af 14. juli 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 32 </Char>
+                <Char>indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 4:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Personer, der i medfør af § 4, stk. 1, har fået tilladelse til at bistå dyrlæger, og personer, der i henhold til regler fastsat i medfør af § 4, stk. 2, yder dyrlæger bistand, er undergivet tilsyn af ministeren for fødevarer, landbrug og fiskeri.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De i 1. pkt. nævnte personer skal efter anmodning fra tilsynsmyndigheden give alle oplysninger, som har betydning for tilsynet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 37 </Char>
+                <Char>ændres »EF-retsakter« til: »Den Europæiske Unions retsakter«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 38, stk. 1, nr. 5</Char>
+                <Char>, ændres »§ 32, stk. 3« til: »§ 32, stk. 3 og 4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 4</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. juli 2013.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 5</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+          </Linea>
+          <Linea>
+            <Char>§§ 1 og 3 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

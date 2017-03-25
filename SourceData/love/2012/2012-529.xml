@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2012/03/12/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20120052930</AccessionNumber>
+    <DocumentId>BE005094</DocumentId>
+    <UniqueDocumentId>142036</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om barseludligningsloven\n(Fællesopkrævning af bidrag til Barsel.dk, ophævelse af lovfastsatte satser for refusionsstørrelse, refusionsperioden og bidrag, indførelse af klageadgang m.v.)</DocumentTitle>
+    <Year>2012</Year>
+    <DiesSigni>2012-06-11</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2012-06-13</EndDate>
+    <Status>Valid</Status>
+    <Number>529</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 529 af 11/06/2012</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Mette Frederiksen</Signature>
+    <PlaceOfSignature>Givet på Fredensborg Slot</PlaceOfSignature>
+    <JournalNumber>Beskæftigelsesmin., j.nr. 2012-183</JournalNumber>
+    <Ministry>Beskæftigelsesministeriet</Ministry>
+    <AdministrativeAuthority>Beskæftigelsesministeriet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om barseludligningsloven</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Fællesopkrævning af bidrag til Barsel.dk, ophævelse af lovfastsatte satser for refusionsstørrelse, refusionsperioden og bidrag, indførelse af klageadgang m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 417 af 8. maj 2006 om barseludligning på det private arbejdsmarked (barseludligningsloven), som ændret ved lov nr. 288 af 29. marts 2010, lov nr. 598 af 14. juni 2011 og § 16 i lov nr. 326 af 11. april 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, stk. 1,</Char>
+                <Char> ændres »der efter reglerne om dagpenge ved sygdom eller fødsel er berettiget til dagpenge under fravær på grund af graviditet, barsel og adoption (barseldagpenge)« til: »der efter barsellovens regler har ret til barseldagpenge under fravær på grund af graviditet, fødsel og adoption«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 3, stk. 1,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Refusionen udgør forskellen mellem barseldagpenge og løn under barsel inden for et fastsat kroneloft, jf. stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Beskæftigelsesministeren fastsætter kroneloftet i stk. 1 efter indstilling fra bestyrelsen for Arbejdsmarkedets Tillægspension og efter forhandling med finansministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2-4 bliver herefter stk. 3-5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4, stk. 2, 3. pkt.,</Char>
+                <Char> ændres »regulerer« til: »fastsætter«, og »løbende« udgår.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4, stk. 3,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bidraget kan opkræves sammen med de øvrige bidrag, som Arbejdsmarkedets Tillægspension i henhold til lov opkræver fra arbejdsgiverne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Opkrævning af bidrag i medfør af denne lov kan indgå i en fælles opkrævning fra Arbejdsmarkedets Tillægspension.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Restancer for bidrag kan indgå i den fælles opkrævning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Efter indstilling fra bestyrelsen for Arbejdsmarkedets Tillægspension fastsætter ministeren regler om beregning af bidrag, bidragsstørrelse og opkrævningen heraf, herunder regler om opkrævning og betaling af bidrag, der indgår i en fælles opkrævning, jf. stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Til brug for beregning, opkrævning og behandling af bidrag som led i en fælles opkrævning, jf. stk. 3, kan Barsel.dk i nødvendigt omfang videregive oplysninger til Arbejdsmarkedets Tillægspension om arbejdsgiveren fra de ordninger, der er omfattet af den fælles opkrævning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Denne videregivelse kan ske i elektronisk form.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5, stk. 1, nr. 5,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Nr. 6 og 7 bliver herefter nr. 5 og 6.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5, stk. 1, nr. 6</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">7,</Char>
+                <Char> der bliver nr. 5 og 6, affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>5)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>refusionen fra ordningen skal udgøre forskellen mellem barseldagpenge og den overenskomstmæssigt aftalte løn under barsel, idet refusionen dog skal fastsættes mindst inden for et fast kroneloft, der som minimum kun må fastsættes 20 kr. lavere end kroneloftet som fastsat i henhold til § 3, stk. 2, og</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>6)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>refusionsperioden i ordningen skal have en længde, som ikke må være mere end 3 uger kortere end perioden fastsat efter § 3, stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5, stk. 2,</Char>
+                <Char> ændres »stk. 1, nr. 1-7,« til: »stk. 1, nr. 1-6,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5, stk. 4,</Char>
+                <Char> ændres »stk. 1, nr. 1-7,« til: »stk. 1, nr. 1-6,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 6, stk. 1, 2. pkt.,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>10.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 6, stk. 2, 2. pkt.,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>11.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 6</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Klager over Arbejdsmarkedets Tillægspensions afgørelser efter denne lov eller regler fastsat i medfør af loven kan inden for en frist på 4 uger fra den dag, hvor afgørelsen er meddelt klageren, indbringes for det i henhold til § 28 i lov om Arbejdsmarkedets Tillægspension nedsatte ankenævn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>12.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 8</Char>
+                <Char> ændres »§ 3, stk. 1 og 2, og § 4, stk. 3,« til: »§ 3, stk. 2 og 3, og § 4, stk. 4,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>13.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 13, stk. 3,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. juli 2012.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven finder alene anvendelse på klager over afgørelser truffet af Arbejdsmarkedets Tillægspension efter denne lovs ikrafttræden, jf. § 1, nr. 11.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

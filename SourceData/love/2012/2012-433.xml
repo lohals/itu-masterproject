@@ -1,0 +1,2928 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2012/03/12/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20120043330</AccessionNumber>
+    <DocumentId>AN011105</DocumentId>
+    <UniqueDocumentId>141764</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af aktieavancebeskatningsloven, ligningsloven, personskatteloven og forskellige andre love og om ophævelse af lov om boligopsparing\n(Enklere beskatning af udlodninger fra investeringsforeninger og udvidet adgang til udnyttelse af tab ved fraflytterbeskatning m.v.)</DocumentTitle>
+    <Year>2012</Year>
+    <DiesSigni>2012-05-16</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-01-14</EndDate>
+    <Status>Valid</Status>
+    <Number>433</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1121 af 14/11/2012</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LOV nr 1354 af 21/12/2012 </KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 382 af 08/04/2013</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 405 af 22/04/2013</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1264 af 31/10/2013</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1067 af 30/08/2013</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1113 af 18/09/2013</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1114 af 18/09/2013</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1200 af 30/09/2013</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1298 af 31/10/2013</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 934 af 14/08/2014</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 149 af 09/01/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1246 af 19/11/2014</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 117 af 29/01/2016</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1017 af 24/08/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 934 af 04/08/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1163 af 08/10/2015</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 433 af 16/05/2012</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20120135430</Ref_Accn>
+    <Ref_Af REFid="change_1">2012-12-21</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om ændring af skattekontrolloven, kildeskatteloven og forskellige andre love\n(Udvidelse af årsopgørelsesordningen, indberetning af udbytter m.v.)</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Thor Möger Pedersen</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Skattemin., j.nr. 2011-511-0070</JournalNumber>
+    <Ministry>Skatteministeriet</Ministry>
+    <AdministrativeAuthority>Skatteministeriet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af aktieavancebeskatningsloven, ligningsloven, personskatteloven og forskellige andre love og om ophævelse af lov om boligopsparing</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Enklere beskatning af udlodninger fra investeringsforeninger og udvidet adgang til udnyttelse af tab ved fraflytterbeskatning m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om den skattemæssige behandling af gevinst og tab ved afståelse af aktier m.v. (aktieavancebeskatningsloven), jf. lovbekendtgørelse nr. 796 af 20. juni 2011, som ændret ved § 1 i lov nr. 624 af 14. juni 2011, § 1 i lov nr. 1380 af 28. december 2011, § 3 i lov nr. 1382 af 28. december 2011 og § 9 i lov nr. 118 af 7. februar 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Overalt i loven ændres »investeringsforeningsbeviser« til: »investeringsbeviser«, »udloddende investeringsforeninger« til: »investeringsinstitutter med minimumsbeskatning«, og »en udloddende investeringsforening« ændres til: »et investeringsinstitut med minimumsbeskatning«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Gevinst og tab ved udlodning af likvidationsprovenu fra aktieselskaber m.v. i det kalenderår, hvori selskabet m.v. endeligt opløses, behandles efter reglerne i denne lov.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>1. pkt. finder dog ikke anvendelse ved udlodning af likvidationsprovenu, som er skattepligtigt for foreninger og selskaber efter selskabsskattelovens § 5 B, stk. 4, og fusionsskattelovens § 12, stk. 3, og i de tilfælde, hvor udlodning af likvidationsprovenu efter ligningslovens § 16 A, stk. 3, nr. 1, skal henregnes til udbytte.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved udlodning af likvidationsprovenu fra et investeringsinstitut med minimumsbeskatning, der er omfattet af § 21, finder 1. pkt. alene anvendelse, i det omfang udlodningen overstiger minimumsindkomsten, jf. ligningslovens § 16 C, stk. 3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I overskriften før § 3 og overskriften før § 27 ændres </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">»investeringsforeningsbeviser«</Char>
+                <Char> til: </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">»investeringsbeviser«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 14, stk. 1,</Char>
+                <Char> indsættes efter »selvangivelsesfristen«: »efter skattekontrollovens § 4, stk. 1, 1. pkt.,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 14</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 5:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For aktier erhvervet ved udlodning fra et dødsbo, hvor boopgørelsen er indleveret efter fristen i stk. 1, anses betingelsen i stk. 1 for opfyldt, hvis udlodningsmodtageren senest samtidig med indlevering af boopgørelsen afgiver de i stk. 1 angivne oplysninger til told- og skatteforvaltningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I overskriften til </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">kapitel 5,</Char>
+                <Char> overskriften før § 19 og overskriften før § 20 ændres </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">»Investeringsforeningsbeviser«</Char>
+                <Char> til: </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">»Investeringsbeviser«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 19, stk. 2, nr. 1,</Char>
+                <Char> ændres »Rådets direktiv 85/611/EØF« til: »Europa-Parlamentets og Rådets direktiv 2009/65/EF«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 19, stk. 4, 2. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Et investeringsselskab som nævnt i stk. 2 omfatter heller ikke en kontoførende forening, der opfylder betingelserne i § 2, 2. og 3. pkt., i lov om beskatning af medlemmer af kontoførende investeringsforeninger.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Overskriften før § 20 A affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst overskriftAfType="Kapitel">
+              <Rubrica>
+                <Linea>
+                  <Char>Investeringsbeviser i investeringsinstitutter med minimumsbeskatning</Char>
+                </Linea>
+              </Rubrica>
+              <Rubrica>
+                <Linea>
+                  <Char>Selskaber m.v.</Char>
+                </Linea>
+              </Rubrica>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>10.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 20 A, stk. 2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For de investeringsinstitutter, der har mindre end otte deltagere, er det en betingelse for at kunne fradrage tab, at investeringsinstituttet ikke investerer i fordringer på selskaber, som en deltager i investeringsinstituttet er kon­cern­forbundet med efter kursgevinstlovens § 4, stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>11.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Overskriften til </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 21</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst overskriftAfType="Kapitel">
+              <Rubrica>
+                <Linea>
+                  <Char>Investeringsbeviser i aktiebaserede investeringsinstitutter med minimumsbeskatning</Char>
+                </Linea>
+              </Rubrica>
+              <Rubrica>
+                <Linea>
+                  <Char>Personer</Char>
+                </Linea>
+              </Rubrica>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>12.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 21, stk. 2,</Char>
+                <Char> ændres »En udloddende investeringsforening« til: »Et investeringsinstitut med minimumsbeskatning«, og »foreningens« ændres tre steder til: »instituttets«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>13.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 21, stk. 4,</Char>
+                <Char> ændres »investeringsforeningens« til: »investeringsinstituttets«, »foreningen« ændres til: »instituttet«, og »en udloddende obligationsbaseret investeringsforening« ændres til: »et obligationsbaseret investeringsinstitut med minimumsbeskatning«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>14.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 21, stk. 5,</Char>
+                <Char> ændres »Investeringsforeningen« til: »Investeringsinstituttet«, »investeringsforeningen« ændres to steder til: »investeringsinstituttet«, og »udloddende forening« ændres til: »et investeringsinstitut med minimumsbeskatning«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>15.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Overskriften til </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst overskriftAfType="Kapitel">
+              <Rubrica>
+                <Linea>
+                  <Char>Investeringsbeviser i obligationsbaserede investeringsinstitutter med minimumsbeskatning</Char>
+                </Linea>
+              </Rubrica>
+              <Rubrica>
+                <Linea>
+                  <Char>Personer</Char>
+                </Linea>
+              </Rubrica>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>16.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22, stk. 1, 3. pkt.,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>17.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22, stk. 2,</Char>
+                <Char> ændres »En udloddende investeringsforening« til: »Et investeringsinstitut med minimumsbeskatning«, og »foreningens« ændres tre steder til: »instituttets«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>18.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22, stk. 4,</Char>
+                <Char> ændres »investeringsforeningens« til: »investeringsinstituttets«, »foreningen« ændres til: »instituttet«, og »en udloddende aktiebaseret investeringsforening« ændres til: »et aktiebaseret investeringsinstitut«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>19.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22, stk. 5,</Char>
+                <Char> ændres »Investeringsforeningen« til: »Investeringsinstituttet«, »investeringsforeningen« ændres to steder til: »investeringsinstituttet«, og »udloddende forening« ændres til: »et investeringsinstitut med minimumsbeskatning«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>20.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22, stk. 6,</Char>
+                <Char> ændres »§§ 12-13 A« til: »§§ 5 A, 12-13 A«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>21.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 23, stk. 7, 2. pkt.,</Char>
+                <Char> indsættes efter »forskelligt indkomstår«: »og der er tale om aktier, der ikke er optaget til handel på et reguleret marked eller registreret i en værdipapircentral«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>22.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 23, stk. 8, 1. pkt.,</Char>
+                <Char> ændres »investeringsforeningsbevis« til: »investeringsbevis«, »en investeringsforening« til: »et investeringsinstitut med minimumsbeskatning«, »investeringsforeningsbeviset« til: »investeringsbeviset« og »foreningens« til: »instituttets«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>23.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 24, stk. 5,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 6 bliver herefter stk. 5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>24.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 27, stk. 1,</Char>
+                <Char> ændres »et udlodningspligtigt beløb« til: »minimumsindkomsten«, »Rådets direktiv 85/611/EØF« ændres til: »Europa-Parlamentets og Rådets direktiv 2009/65/EF«, og to steder ændres »investeringsforeningens« til: »investeringsinstituttets«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>25.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 27, stk. 2, nr. 1,</Char>
+                <Char> ændres to steder »foreningen« til: »instituttet«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>26.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 27, stk. 4,</Char>
+                <Char> ændres »investeringsforeningsbeviset i den udloddende investeringsforening« til: »investeringsbeviser i investeringsinstitutter med minimumsbeskatning«, »denne« ændres til: »instituttet«, og »Rådets direktiv 85/611/EØF« ændres til: »Europa-Parlamentets og Rådets direktiv 2009/65/EF«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>27.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 33, stk. 1,</Char>
+                <Char> ændres to steder »foreningen eller selskabet« til: »selskabet m.v.«, »medlemmernes« ændres til: »deltagernes«, og »selskabet eller foreningen« ændres til: »selskabet m.v.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>28.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 33, stk. 3,</Char>
+                <Char> ændres »medlemmernes« til: »deltagernes«, »foreningen m.v.« ændres til: »selskabet m.v.«, to steder ændres »en udloddende obligationsbaseret investeringsforening« til: »et obligationsbaseret investeringsinstitut med minimumsbeskatning«, og »en udloddende aktiebaseret investeringsforening« ændres til: »et aktiebaseret investeringsinstitut med minimumsbeskatning«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>29.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 33, stk. 4,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 5-9 bliver herefter stk. 4-8.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>30.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 33, stk. 5,</Char>
+                <Char> der bliver stk. 4, ændres »udlodninger« til: »udlodninger m.m.«, »betales« ændres til: »udredes«, »udlodningen« ændres til: »udlodningen m.m.«, og »minimumsudlodningen« ændres til: »minimumsindkomsten«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>31.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 33, stk. 6, 3. pkt.,</Char>
+                <Char> der bliver stk. 5, 3. pkt., ændres »minimumsudlodningen« til: »minimumsindkomsten«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>32.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 33, stk. 7,</Char>
+                <Char> der bliver stk. 6, ændres »en forening« til: »en investeringsforening eller et investeringsinstitut med minimumsbeskatning«, og »medlemmerne« ændres til: »deltagerne«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>33.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 33, stk. 9,</Char>
+                <Char> der bliver stk. 8, ændres »medlemmer af« til: »deltagere i«, og efter »eller« indsættes: »som medlemmer af«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>34.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 39 B</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 5:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis personen på fraflytningstidspunktet ejede aktier, hvorpå der samlet blev opgjort et nettotab, kan der ske en forhøjelse af handelsværdien for de aktier, som personen fortsat ejer på tilflytningstidspunktet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Forhøjelsen sker med den andel af nettotabet, der svarer til aktiens forholdsmæssige andel af den samlede værdi på tilflytningstidspunktet af de aktier, som indgik ved opgørelsen af nettotabet, og som fortsat er i personens besiddelse ved tilbageflytningen til Danmark.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>35.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Overskriften før § 45, der er ophævet, ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>36.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Overskriften før § 45 A, der er ophævet, ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>37.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">Bilag 1</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Bilag 1</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Europa-Parlamentets og Rådets direktiv 2009/65/EF:</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>…</Char>
+                </Linea>
+              </Exitus>
+              <Exitus formaEx="Center">
+                <Linea>
+                  <Char formaChar="Italic">Artikel 1</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Fri">
+                    <Explicatus>1.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Dette direktiv finder anvendelse på institutter for kollektiv investering i værdipapirer (investeringsinstitutter), som er etableret på medlemsstaternes område.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Fri">
+                    <Explicatus>2.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Ved anvendelsen af dette direktiv og med forbehold af artikel 3 forstås ved investeringsinstitut et foretagende:</Char>
+                      </Linea>
+                    </Exitus>
+                    <Exitus>
+                      <Index>
+                        <Indentatio formaInd="Litra">
+                          <Explicatus>a)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>der har som eneste formål at foretage kollektiv investering i værdipapirer eller i andre i artikel 50, stk. 1, nævnte likvide finansielle aktiver af kapital tilvejebragt ved henvendelse til offentligheden, og hvis virksomhed bygger på princippet om risikospredning, og</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio formaInd="Litra">
+                          <Explicatus>b)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>hvis andele på forlangende af ihændehaverne tilbagekøbes eller indløses direkte eller indirekte for midler af disse institutters aktiver.</Char>
+                            </Linea>
+                            <Linea>
+                              <Char>Det forhold, at et investeringsinstitut træffer foranstaltninger med henblik på, at kursværdien for dets andele ikke afviger fra nettoværdien, ligestilles med sådanne tilbagekøb eller indløsninger.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                      </Index>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Medlemsstaterne kan tillade, at investeringsselskaber består af flere investeringsafdelinger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Fri">
+                    <Explicatus>3.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>De i stk. 2 nævnte institutter kan oprettes i henhold til aftale (investeringsfonde administreret af ad­mini­stra­ti‍ons­selskabet), som »trusts« («unit trusts«) eller i henhold til vedtægter (investeringsselskaber).</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>I henhold til dette direktiv omfatter:</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Litra">
+                    <Explicatus>a)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>udtrykket »investeringsfond« ligeledes begrebet »unit trust«</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Litra">
+                    <Explicatus>b)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>udtrykket »andele« i investeringsinstitutter ligeledes aktier i investeringsinstitutter.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Fri">
+                    <Explicatus>4.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Dette direktiv omfatter ikke investeringsselskaber, hvis aktiver gennem datterselskaber hovedsagelig investeres i andre værdier end værdipapirer.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Fri">
+                    <Explicatus>5.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>…</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Fri">
+                    <Explicatus>6.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>…</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Fri">
+                    <Explicatus>7.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>…</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Exitus formaEx="Center">
+                <Linea>
+                  <Char formaChar="Italic">Artikel 3</Char>
+                </Linea>
+              </Exitus>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Følgende institutter anses ikke for omfattet af dette direktiv:</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Indentatio formaInd="Litra">
+                <Explicatus>a)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>lukkede institutter for kollektiv investering</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+              <Indentatio formaInd="Litra">
+                <Explicatus>b)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>institutter for kollektiv investering, der tilvejebringer kapital uden at søge at tilbyde deres andele til offentligheden i Fællesskabet eller en del af dette</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+              <Indentatio formaInd="Litra">
+                <Explicatus>c)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>institutter for kollektiv investering, hvis andele i henhold til fondsbestemmelserne eller investeringsselskabers vedtægter kun må sælges til offentligheden i tredjelande</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+              <Indentatio formaInd="Litra">
+                <Explicatus>d)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>de kategorier af institutter for kollektiv investering, der er fastlagt i bestemmelserne i den medlemsstat, hvor sådanne institutter for kollektiv investering er etableret, og for hvilke reglerne i kapitel VII og artikel 83 på grund af institutternes investerings- og låneoptagelsespolitik er uhensigtsmæssige.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>…</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om beskatning af fortjeneste ved afståelse af fast ejendom (ejendomsavancebeskatningsloven), jf. lov­be­kendt­gørel­se nr. 891 af 17. august 2006, som ændret bl.a. ved § 5 i lov nr. 525 af 12. juni 2009 og senest ved § 13 i lov nr. 1382 af 28. december 2011, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4, stk. 3, 7. pkt.,</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5, stk. 2, 14.</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">15. pkt.,</Char>
+                <Char> ændres »§ 16 A, stk. 6« til: »§ 16 A, stk. 5«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om beskatning af fonde og visse foreninger (fondsbeskatningsloven), jf. lovbekendtgørelse nr. 1248 af 2. november 2010, som ændret ved § 7 i lov nr. 513 af 7. juni 2006 og § 3 i lov nr. 254 af 30. marts 2011, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 3, stk. 3, 2. pkt.,</Char>
+                <Char> ændres to steder »investeringsforeningsbeviser« til: »investeringsbeviser«, og »investeringsforeningen« ændres til: »investeringsinstituttet«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 4</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om fusion, spaltning og tilførsel af aktiver m.v. (fusionsskatteloven), jf. lovbekendtgørelse nr. 1260 af 3. november 2010, som ændret ved § 17 i lov nr. 516 af 12. juni 2009 og § 4 i lov nr. 254 af 30. marts 2011, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 8, stk. 8,</Char>
+                <Char> indsættes efter »reglerne i«: »ligningslovens § 16 C, stk. 8,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 14, nr. 7,</Char>
+                <Char> ændres »ligningslovens § 16 c, stk. 1, 1. pkt., nævnte udloddende investeringsforeninger« til: »ligningslovens § 16 C nævnte investeringsinstitutter med minimumsbeskatning«, »den ene forening« ændres til: »det ene institut«, og »den anden forening« ændres til: »det andet institut«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 15 a, stk. 4, nr. 2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>2)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved spaltning af de i ligningslovens § 16 C nævnte investeringsinstitutter med minimumsbeskatning, dog under forudsætning af, at det eller de modtagende investeringsinstitutter er et investeringsinstitut med minimumsbeskatning som nævnt i ligningslovens § 16 C.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 5</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I kildeskatteloven, jf. lovbekendtgørelse nr. 1403 af 7. december 2010, som ændret bl.a. ved § 4 i lov nr. 459 af 12. juni 2009, § 5 i lov nr. 254 af 30. marts 2011 og § 5 i lov nr. 1382 af 28. december 2011 og senest ved § 11 i lov nr. 118 af 7. februar 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, stk. 1, nr. 6, 2. pkt.,</Char>
+                <Char> ændres »udlodninger fra udloddende investeringsforeninger, jf. ligningslovens § 16 C, stk. 1« til: »udbytte fra investeringsinstitutter med minimumsbeskatning omfattet af ligningslovens § 16 C«, »investeringsforeningens« ændres til: »investeringsinstituttets«, og »og afledte finansielle instrumenter efter Finanstilsynets regler herom« ændres til: », afledte finansielle instrumenter efter Finanstilsynets regler herom og beviser i investeringsinstitutter med minimumsbeskatning omfattet af ligningslovens § 16 C, der udelukkende investerer i aktiver som nævnt i denne bestemmelse«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 49 A, stk. 2, nr. 6,</Char>
+                <Char> ændres »§ 16 A, stk. 6« til: »§ 16 A, stk. 5«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 65, stk. 1, 1. pkt.,</Char>
+                <Char> ændres »2 h og 4« til: »2 h, 4 og 5 a«, og »stk. 4 eller følger af stk. 5-8« ændres til: »stk. 3 eller følger af stk. 4-6«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 65, stk. 1, 2. pkt.,</Char>
+                <Char> ændres »stk. 6« til: »stk. 5«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 65, stk. 1, 4. pkt.,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 65, stk. 3,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 4-8 bliver herefter stk. 3-7.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 65, stk. 8,</Char>
+                <Char> der bliver stk. 7, ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Investeringsinstitutter med minimumsbeskatning omfattet af ligningslovens § 16 C skal ved udbetaling eller godskrivning af udbytte indeholde 27 pct. af det samlede udbytte, medmindre andet følger af stk. 6, 8, 11 eller 13.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det indeholdte beløb benævnes udbytteskat.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestemmelsen i § 46, stk. 3, finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der indeholdes ikke udbytteskat af udbytte fra investeringsinstitutter med minimumsbeskatning omfattet af ligningslovens § 16 C, der udelukkende investerer i fordringer omfattet af kursgevinstloven, aktier i det ad­mini­stra­ti‍ons­selskab, der forestår investeringsinstituttets administration, afledte finansielle instrumenter efter Finanstilsynets regler herom og beviser i investeringsinstitutter med minimumsbeskatning omfattet af ligningslovens § 16 C, der udelukkende investerer i aktiver som nævnt i denne bestemmelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Endvidere indeholdes der ikke udbytteskat af udbytte fra investeringsinstitutter med minimumsbeskatning omfattet af ligningslovens § 16 C til investeringsselskaber, jf. aktieavancebeskatningslovens § 19, hvis instituttet efter dets vedtægter ikke kan investere i aktier eller andele i selskaber hjemmehørende her i landet bortset fra aktier i det administrationsselskab, som forestår instituttets administration.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Investeringsselskaber, jf. selskabsskattelovens § 3, stk. 1, nr. 19, skal ved udbetaling eller godskrivning af udbytte indeholde 27 pct. af det samlede udbytte, medmindre andet følger af stk. 6, 10, 11 eller 13.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det indeholdte beløb benævnes udbytteskat.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestemmelsen i § 46, stk. 3, finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 10.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der indeholdes ikke udbytteskat af udbytte fra investeringsselskaber, jf. selskabsskattelovens § 3, stk. 1, nr. 19, til investeringsselskaber, jf. aktieavancebeskatningslovens § 19, hvis førstnævnte selskab efter dets vedtægter ikke kan investere i aktier eller andele i selskaber hjemmehørende her i landet bortset fra aktier i det administrationsselskab, som forestår selskabets administration.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Endvidere indeholdes der ikke udbytteskat i udbytte af et investeringsselskabs, jf. selskabsskattelovens § 3, stk. 1, nr. 19, egne aktier.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 11.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der indeholdes 15 pct. i udbytteskat af udbytte af aktier og andele, som betales til investeringsselskaber, jf. aktieavancebeskatningslovens § 19, der er hjemmehørende her i landet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Endvidere indeholdes 15 pct. i udbytteskat af udbytte af aktier og andele, som betales til investeringsinstitutter med minimumsbeskatning, jf. ligningslovens § 16 C, der er hjemmehørende her i landet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 12.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En kontoførende investeringsforening, der erhverver ret til udbytte, hvori der efter stk. 3 ikke indeholdes udbytteskat, skal, medmindre andet er fastsat efter stk. 3 eller følger af stk. 4 eller 5, indeholde udbytteskat af beløbet efter reglerne i stk. 1, 2, 7-11 eller 13.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I disse tilfælde forfalder udbytteskatten til betaling på tidspunktet for retserhvervelsen, og reglerne i § 66 finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 13.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Skatteministeren kan fastsætte regler om nødvendig dokumentation for, at indeholdelse med 15 pct. eller med 0 pct. efter stk. 8, 2. pkt., kan finde sted.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Skatteministeren kan fastsætte regler om, at indeholdelse af udbytteskat ikke skal finde sted ved udbetaling til investeringsinstitutter med minimumsbeskatning, jf. ligningslovens § 16 C.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 67, stk. 6,</Char>
+                <Char> ændres »stk. 4« til: »stk. 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 6</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om beskatning af medlemmer af kontoførende investeringsforeninger, jf. lovbekendtgørelse nr. 962 af 19. september 2011, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, 3.-5. pkt.,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>De forholdsmæssige afkast m.v. opgøres efter forholdet mellem andelens pålydende og pålydende af samtlige andele i foreningen eller afdelingen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>2. og 3. pkt. gælder ikke pen­si‍ons­afkastskattepligtige medlemmer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 7</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om skattemæssig behandling af gevinst og tab på fordringer, gæld og finansielle kontrakter (kursgevinstloven), jf. lovbekendtgørelse nr. 916 af 19. august 2011, som ændret ved § 6 i lov nr. 1382 af 28. december 2011 og § 12 i lov nr. 118 af 7. februar 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 14, stk. 1,</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 23, 2. pkt.,</Char>
+                <Char> ændres »investeringsforeningsbeviser i udloddende obligationsbaserede investeringsforeninger« til: »investeringsbeviser i obligationsbaserede investeringsinstitutter med minimumsbeskatning«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 15, stk. 1,</Char>
+                <Char> indsættes efter »selvangivelsesfristen«: »efter skattekontrollovens § 4, stk. 1, 1. pkt.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 15</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 5:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For fordringer erhvervet ved udlodning fra et dødsbo, hvor boopgørelsen er indleveret efter fristen i stk. 1, anses betingelsen i stk. 1 for opfyldt, hvis udlodningsmodtageren senest samtidig med indlevering af boopgørelsen afgiver de i stk. 1 angivne oplysninger til told- og skatteforvaltningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 34 A, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis en akkumulerende investeringsforening, jf. sel­skabs­skat­te­lovens § 1, stk. 1, nr. 5 a, et investeringsinstitut med minimumsbeskatning, jf. ligningslovens § 16 C, eller et investeringsselskab, jf. aktieavancebeskatningslovens § 19, skifter skattemæssig status, således at deltagerne beskattes som deltagere i et interessentskab, uden at foreningen, instituttet eller selskabet opløses, finder reglen i aktieavancebeskatningslovens § 33, stk. 7, tilsvarende anvendelse på interessentskabets fordringer, gæld og finansielle kontrakter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 34 A, stk. 3,</Char>
+                <Char> ændres »medlemmer af en udloddende investeringsforening« til: »deltager i et investeringsinstitut med minimumsbeskatning«, og »en kontoførende forening« ændres til: »som medlemmer af en kontoførende forening«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 38 B</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 5:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis personen på fraflytningstidspunktet ejede fordringer og kontrakter, hvorpå der samlet blev opgjort et nettotab, kan der ske en forhøjelse af handelsværdien for de fordringer og kontrakter, som personen fortsat ejer på tilflytningstidspunktet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Forhøjelsen sker med den andel af nettotabet, der svarer til fordringens eller kontraktens forholdsmæssige andel af den samlede værdi på tilflytningstidspunktet af de fordringer og kontrakter, som indgik ved opgørelsen af nettotabet, og som fortsat er i personens besiddelse ved tilbageflytningen til Danmark.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Har en kontrakt negativ værdi på tilflytningstidspunktet, sker der ingen regulering af værdien, og ved fastsættelse af den samlede værdi på tilflytningstidspunktet, jf. 2. pkt., sættes kontraktens værdi til 0.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Er den samlede værdi på tilflytningstidspunktet af de i 2. pkt. nævnte fordringer og kontrakter negativ, sker der ingen regulering af handelsværdien.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 8</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om påligningen af indkomstskat til staten (ligningsloven), jf. lovbekendtgørelse nr. 1017 af 28. oktober 2011, som ændret bl.a. ved § 3 i lov nr. 624 af 14. juni 2011 og § 1 i lov nr. 1382 af 28. december 2011 og senest ved § 5 i lov nr. 273 af 27. marts 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 7 R</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 16 A, stk. 2, nr. 2,</Char>
+                <Char> ændres »en investeringsforening« til: »et investeringsinstitut med minimumsbeskatning«, og »minimumsudlodningen, jf. § 16 C, stk. 2 og 13« ændres til: »minimumsindkomsten, jf. § 16 C, stk. 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 16 A, stk. 2, nr. 3,</Char>
+                <Char> ændres »minimumsudlodningen efter § 16 C, stk. 2 eller 13« til: »minimumsindkomsten efter § 16 C, stk. 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 16 A, stk. 2, nr. 4,</Char>
+                <Char> indsættes efter »et selskab«: », et investeringsinstitut med minimumsbeskatning«, og efter »selskabet« indsættes: », instituttet«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 16 A, stk. 4, nr. 3,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>3)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den del af minimumsindkomsten fra investeringsinstitutter med minimumsbeskatning, jf. § 16 C, der er nævnt i § 16 C, stk. 4, nr. 10, hvis indkomsten modtages af personer m.v., der er skattepligtige efter kildeskattelovens § 1 eller dødsboskattelovens § 1, stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Skattefriheden gælder dog ikke, hvis modtageren af indkomsten omfattes af kursgevinstlovens § 13.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 16 A, stk. 5,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 6 bliver herefter stk. 5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 16 B, stk. 2, nr. 1, 1. pkt.,</Char>
+                <Char> ændres »det ved udstedelsen« til: »erhvervelsen«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 16 B, stk. 2, nr. 4,</Char>
+                <Char> to steder i </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 16 H, stk. 1, nr. 3,</Char>
+                <Char> og i </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 16 I, stk. 1,</Char>
+                <Char> ændres »investeringsforeningsbeviser« til: »investeringsbeviser«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 16 C</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 16 C.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ved et investeringsinstitut med minimumsbeskatning forstås et institut, der udsteder omsættelige beviser for deltagernes indskud, og som har valgt, at instituttets indkomst skal beskattes hos deltagerne.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Investeringsinstituttet skal opgøre en minimumsindkomst efter reglerne i stk. 3-8.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Beviserne i et investeringsinstitut med minimumsbeskatning eller afdelinger heri skal berettige alle deltagere til samme forholdsmæssige andel af årets afkast af hvert enkelt aktiv eller passiv i instituttet eller en afdeling heri.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Det forholdsmæssige afkast opgøres efter forholdet mellem bevisets pålydende og pålydende af samtlige beviser i instituttet eller en afdeling heri.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Et investeringsinstitut kan uanset 1. pkt. vælge, at indkomsten skal beskattes hos deltagerne, selv om der handles eller udstedes beviser uden ret til udbytte i perioden fra indkomstårets udgang til førstkommende dato for vedtagelse af udbyttet henholdsvis tidspunktet for instituttets godkendelse af regnskabet for det tidligere indkomstår, hvor instituttet ikke foretager en egentlig vedtagelse af udbyttet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Minimumsindkomsten udgør summen af indkomstårets indtægter som nævnt i stk. 4 med fradrag for tab efter stk. 5 og udgifter efter stk. 6.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Hvis et investeringsinstitut med minimumsbeskatning ophører eller vælger at ændre skattemæssig status, opgøres minimumsindkomsten for tiden fra indkomstårets begyndelse indtil henholdsvis ophørstidspunktet eller overgangen til anden skattemæssig status.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ved opgørelse af minimumsindkomsten ved ophør finder stk. 7, 1. pkt., ikke anvendelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>I minimumsindkomsten indgår følgende indtægter:</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Indtjente renter og løbende ydelser fordelt over den periode, som indtægten vedrører.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Vederlag for udlån af værdipapirer.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Indtjente udbytter efter § 16 A fratrukket indeholdt udbytteskat og tillagt tilbagebetalt udbytteskat, afståelsessummer efter § 16 B og låntagers betaling til långiver af dennes manglende udbytte ved aktieudlån.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Gevinst på fordringer, jf. kursgevinstlovens § 14, stk. 1, i det omfang gevinsten ikke er omfattet af nr. 10.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Gevinsten opgøres efter kursgevinstlovens § 26, stk. 5.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Dog kan instituttet vælge at opgøre gevinst på alle konti i fremmed valuta efter gennemsnitsmetoden, jf. kursgevinstlovens § 26, stk. 4.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Er gennemsnitsmetoden valgt, kan instituttet ikke senere vælge at opgøre gevinst efter kursgevinstlovens § 26, stk. 5.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>5)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Gevinst på gæld omfattet af kursgevinstlovens § 6.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>6)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Gevinst på finansielle kontrakter omfattet af kurs­ge­vinst­lovens § 29.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Gevinsten opgøres efter kurs­ge­vinst­lovens § 33.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>7)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Gevinst ved afståelse af værdipapirer m.v., der er omfattet af aktieavancebeskatningsloven, dog ikke aktier m.v. omfattet af aktieavancebeskatningslovens § 19.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Gevinsten opgøres efter aktieavancebeskatningslovens § 25 og § 26, stk. 2-4 og 6.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>8)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Gevinst på aktier m.v. omfattet af aktieavancebeskatningslovens § 19.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Gevinsten opgøres efter aktieavancebeskatningslovens § 23, stk. 7.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>9)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Beløb, der er fremført som følge af en nedrunding af minimumsindkomsten, jf. stk. 7.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>10)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Gevinst på fordringer i danske kroner, der er erhvervet før den 27. januar 2010, og som på erhvervelsestidspunktet opfyldte mindsterentekravet efter kursgevinstlovens § 38, jf. lovbekendtgørelse nr. 1002 af 26. oktober 2009, fratrukket tab på sådanne fordringer.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Dog kan tab alene fradrages, i det omfang tabene ikke overstiger gevinsterne.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>I det samlede beløb efter stk. 4, nr. 1-9, fratrækkes følgende tab m.v.:</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Tab på fordringer omfattet af kursgevinstlovens § 14, stk. 1, bortset fra tab omfattet af stk. 4, nr. 10, og tab på fordringer i danske kroner, der er erhvervet før den 27. januar 2010, og som på erhvervelsestidspunktet ikke opfyldte mindsterentekravet efter kursgevinstlovens § 38, jf. lovbekendtgørelse nr. 1002 af 26. oktober 2009.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>For investeringsforeninger omfattet af sel­skabs­skat­te­lo­vens § 1, stk. 8, gælder dette dog ikke tab på fordringer på selskaber, med hvilke et medlem af foreningen er koncernforbundet, jf. kursgevinstlovens § 4, når fordringen også er omfattet af kursgevinstlovens § 4.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Tabet, jf. 1. pkt., opgøres efter kursgevinstlovens § 26, stk. 5, idet stk. 4, nr. 4, 3. og 4. pkt., finder tilsvarende anvendelse.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Tab på finansielle kontrakter omfattet af kursgevinstlovens § 29.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Tabet opgøres efter kursgevinstlovens § 33.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Tab ved afståelse af værdipapirer m.v., der er omfattet af aktieavancebeskatningsloven, dog ikke aktier m.v. omfattet af aktieavancebeskatningslovens § 19.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Tabet opgøres efter aktieavancebeskatningslovens § 25 og § 26, stk. 2-4 og 6.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Tab på aktier m.v. omfattet af aktieavancebeskatningslovens § 19.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Tabet opgøres efter aktieavancebeskatningslovens § 23, stk. 7.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>5)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Beløb fremført efter stk. 8 som følge af en negativ minimumsindkomst.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>6)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Beløb, der er anvendt til indløsning af beviser, i det omfang beløbet kan henføres til indtægter som nævnt i stk. 4, nr. 1-9, der er erhvervet før eller som følge af indløsningen, jf. dog stk. 9.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 6.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Investeringsinstituttet kan ved opgørelse af minimumsindkomsten fradrage udgifter til administration, i det omfang udgifterne ikke overstiger et eventuelt positivt beløb opgjort efter stk. 4, nr. 1-9, og stk. 5.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 7.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Minimumsindkomsten kan nedrundes til nærmeste beløb, som er deleligt med 0,10 pct. af bevisets pålydende.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Beløb, der efter 1. pkt. ikke skal medtages i minimumsindkomsten, fremføres til minimumsindkomsten i det følgende indkomstår.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>En acontoudbetaling opgøres altid som det faktisk udbetalte beløb.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 8.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En negativ minimumsindkomst fremføres til fradrag ved opgørelsen af minimumsindkomsten i det følgende indkomstår.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 9.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Investeringsinstitutter, der er minimumsbeskattet, kan vælge at foretage en regulering af de indtægter, tab og administrationsudgifter, jf. stk. 4-6, der indgår ved opgørelse af minimumsindkomsten, som følge af udstedelse af nye beviser og indløsning af beviser.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Hvis investeringsinstituttet vælger at foretage en regulering som nævnt i 1. pkt., kan investeringsinstituttet ved opgørelse af indkomstårets minimumsindkomst dog ikke foretage fradrag for de beløb, der er omfattet af stk. 5, nr. 6.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Reguleringen efter 1. pkt. foretages således:</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Ved udstedelse af nye beviser øges de indtægter, tab og administrationsudgifter indtil emissionstidspunktet, som skal tages i betragtning ved opgørelse af minimumsindkomsten efter emissionen.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Forøgelsen af de enkelte indtægter, tab og administrationsudgifter sker efter forholdet mellem den pålydende værdi af alle beviser efter emissionen og den pålydende værdi af alle beviser inden emissionen.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Forøgelse af tab sker dog ikke, hvis der er tale om en investeringsforening omfattet af selskabsskattelovens § 1, stk. 8, på det tidspunkt, hvor tabet opstår.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Koncernforbundne medlemmer, jf. kursgevinstlovens § 4, regnes i denne sammenhæng for ét medlem.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Ved indløsning af beviser nedsættes de indtægter, tab og administrationsudgifter indtil indløsningstidspunktet, som skal tages i betragtning ved opgørelse af minimumsindkomsten efter indløsningen.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Nedsættelsen af de enkelte indtægter, tab og administrationsudgifter sker efter forholdet mellem den pålydende værdi af alle beviser efter indløsningen og den pålydende værdi af alle beviser inden indløsningen.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 10.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Valget i stk. 1 af skattemæssig status som investeringsinstitut med minimumsbeskatning skal være truffet inden det første af instituttets indkomstår, som valget gælder for.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>I et nyoprettet investeringsinstitut skal valget være truffet i forbindelse med oprettelsen, hvis det skal gælde fra instituttets første indkomstår.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Valget har alene virkning for indkomstår, der påbegyndes, efter at meddelelse om valget er indsendt til told- og skatteforvaltningen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>For nyoprettede investeringsinstitutter, jf. 2. pkt., kan valget dog have tidligere virkning, hvis meddelelse indsendes til told- og skatteforvaltningen senest 3 måneder efter oprettelsen, dog senest inden udløbet af det første af instituttets indkomstår, som valget skal gælde for.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Investeringsinstituttet skal inden for samme tidsfrist som angivet i 3. og 4. pkt. indsende meddelelse til told- og skatteforvaltningen om, hvorvidt instituttet er aktiebaseret, jf. aktieavancebeskatningslovens § 21, eller obligationsbaseret, jf. aktieavancebeskatningslovens § 22.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 11.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Investeringsinstituttet skal senest 2 måneder efter instituttets godkendelse af regnskabet, dog senest 6 måneder efter udløbet af instituttets indkomstår, indsende oplysning til told- og skatteforvaltningen om størrelsen af minimumsindkomsten og dens sammensætning og oplysning om en eventuel difference, hvis det beløb, der faktisk henføres til deltagerne, overstiger minimumsindkomsten.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Endvidere skal instituttet inden den i 1. pkt. angivne tidsfrist indsende oplysning til told- og skatteforvaltningen om minimumsindkomsten og eventuelle merbeløbs sammenhæng med instituttets indkomst i det år, som minimumsindkomsten hidrører fra.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 12.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis meddelelse efter stk. 10 eller oplysninger efter stk. 11 ikke indsendes rettidigt, beskattes deltagerne af gevinst og tab på beviser i investeringsinstituttet, der hidrører fra indkomstårene fra og med indkomståret forud for den manglende rettidige indsendelse af oplysninger og de derefter følgende 4 indkomstår, efter reglerne i aktieavancebeskatningslovens § 19.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>1. pkt. gælder tilsvarende, hvis der ikke gives rettidige og korrekte oplysninger om minimumsindkomst m.v. og sammensætningen heraf til deltagernes værdipapircentral eller pengeinstitut m.v. her i landet, jf. skattekontrollovens § 10 A, og depositarer eller kontoførere i udlandet, jf. skattekontrollovens § 11 B, således at disse kan indsende rettidig indberetning.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Hvis der fra investeringsinstituttet mangler rettidige og korrekte oplysninger for flere på hinanden følgende år, fastholdes beskatningen efter aktieavancebeskatningslovens § 19 fra og med det første år, der mangler rettidige og korrekte oplysninger for, til og med det fjerde år efter det seneste år, der mangler rettidige og korrekte oplysninger for.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 13.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis et investeringsinstitut med minimumsbeskatning, jf. stk. 1, efterfølgende vælger skattemæssig status som investeringsselskab, jf. aktieavancebeskatningslovens § 19, skal instituttet indsende en meddelelse herom til told- og skatteforvaltningen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Valget har alene virkning for de af instituttets indkomstår, der påbegyndes, efter at meddelelse om valg af skattemæssig status som investeringsselskab er indsendt til told- og skatteforvaltningen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Gevinst og tab på beviser i instituttet, der hidrører fra indkomstårene fra og med det indkomstår, som valg af statusskift gælder for, og de derefter følgende 4 indkomstår, beskattes efter reglerne i aktieavancebeskatningslovens § 19.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 14.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Skatteministeren kan fastsætte nærmere regler om oplysningspligt m.v. efter stk. 11.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>10.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 30 A, stk.1, nr. 2,</Char>
+                <Char> ændres »nr. 10 eller 12« til: »nr. 9 eller 11«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 9</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om indkomstskat for personer m.v. (personskatteloven), jf. lovbekendtgørelse nr. 143 af 8. februar 2011, som ændret ved § 2 i lov nr. 554 af 1. juni 2011 og § 9 i lov nr. 599 af 14. juni 2011, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4, stk. 1, nr. 4,</Char>
+                <Char> udgår »og 5«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4, stk. 1, nr. 9,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Nr. 10-18 bliver herefter nr. 9-17.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4, stk. 1, nr. 18,</Char>
+                <Char> der bliver nr. 17, ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4, stk. 6,</Char>
+                <Char> ændres »nr. 12« til: »nr. 11«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4, stk. 7,</Char>
+                <Char> ændres »nr. 10« til: »nr. 9«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4 a, stk. 1, nr. 1</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2,</Char>
+                <Char> ændres »eller 4« til: », 4 eller 5 a«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4 a, stk. 1, nr. 3,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>skattepligtigt aktieudbytte fra aktiebaserede investeringsinstitutter med minimumsbeskatning, jf. aktieavancebeskatningslovens § 21, og</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4 a, stk. 2, 2. pkt.,</Char>
+                <Char> ændres »§ 16 A, stk. 6« til: »§ 16 A, stk. 5«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 13, stk. 6,</Char>
+                <Char> ændres to steder »nr. 10 eller 12« til: »nr. 9 eller 11«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 10</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om indkomstbeskatning af aktieselskaber m.v. (selskabsskatteloven), jf. lovbekendtgørelse nr. 1376 af 7. december 2010, som ændret bl.a. ved § 8 i lov nr. 254 af 30. marts 2011 og § 4 i lov nr. 624 af 14. juni 2011 og senest ved § 10 i lov nr. 326 af 11. april 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 1, stk. 1, nr. 5 a,</Char>
+                <Char> ændres »udloddende investeringsforeninger, jf. ligningslovens § 16 C« til: »investeringsinstitutter med minimumsbeskatning, jf. ligningslovens § 16 C, der er investeringsforeninger«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 1, stk. 7, 1. pkt.,</Char>
+                <Char> ændres »udloddende investeringsforening« til: »investeringsforening omfattet af ligningslovens § 16 C«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 1, stk. 8,</Char>
+                <Char> ændres »udloddende investeringsforening« til: »investeringsforening omfattet af ligningslovens § 16 C«, »fortjeneste på investeringsforeningsbeviset« ændres til: »gevinst på investeringsbeviset«, »udlodning« ændres til: »indkomst«, og »udloddende investeringsforeninger« ændres til: »investeringsforeninger omfattet af ligningslovens § 16 C«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, stk. 1, litra c, 1. pkt.,</Char>
+                <Char> ændres »udlodninger fra udloddende investeringsforeninger, jf. ligningslovens § 16 C, stk. 1« til: »udbytte fra investeringsinstitutter med minimumsbeskatning omfattet af ligningslovens § 16 C«, »investeringsforeningens« ændres til: »investeringsinstituttets«, og »og afledte finansielle instrumenter efter Finanstilsynets regler herom« ændres til: », afledte finansielle instrumenter efter Finanstilsynets regler herom og beviser i investeringsinstitutter med minimumsbeskatning omfattet af ligningslovens § 16 C, der udelukkende investerer i aktiver som nævnt i denne bestemmelse«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 3, stk. 1, nr. 19, 1. pkt.,</Char>
+                <Char> ændres »jf. lov om beskatning af medlemmer af kontoførende investeringsforeninger § 2, og bortset fra udloddende investeringsforeninger, jf. ligningslovens § 16 C, stk. 1« til: »jf. § 2 i lov om beskatning af medlemmer af kontoførende investeringsforeninger, og bortset fra investeringsinstitutter med minimumsbeskatning, jf. ligningslovens § 16 C«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 3, stk. 1, nr. 19, 2. pkt.,</Char>
+                <Char> indsættes efter »med 15 pct.«: », medmindre der er tale om udbytte af investeringsselskabets egne aktier.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 3, stk. 1, nr. 19, 3. pkt.,</Char>
+                <Char> ændres to steder »en udloddende investeringsforening, jf. ligningslovens § 16 C, stk. 1« til: »et investeringsinstitut med minimumsbeskatning, jf. ligningslovens § 16 C«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 3, stk. 1, nr. 19, 5. pkt.,</Char>
+                <Char> ændres »investeringsforeningsbeviser i en udloddende investeringsforening, jf. ligningslovens § 16 C, stk. 1« til: »investeringsbeviser i et investeringsinstitut med minimumsbeskatning, jf. ligningslovens § 16 C«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 3, stk. 1, nr. 19, 6. pkt.,</Char>
+                <Char> ændres »investeringsforeningen« til: »investeringsinstituttet«, og »foreningens« ændres til: »instituttets«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>10.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5 F, stk. 1,</Char>
+                <Char> ændres »selskabets eller foreningens m.v.« til: »selskabets m.v.«, »selskab eller en forening m.v.« ændres til: »selskab m.v.«, tre steder ændres »en udloddende investeringsforening« til: »et investeringsinstitut med minimumsbeskatning«, »en udloddende aktiebaseret investeringsforening« ændres til: »et aktiebaseret investeringsinstitut med minimumsbeskatning«, og »en udloddende obliga­ti‍ons­baseret investeringsforening« ændres til: »et obliga­ti‍ons­baseret investeringsinstitut med minimumsbeskatning«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>11.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5 F, stk. 5,</Char>
+                <Char> ændres »en udloddende obligationsbaseret investeringsforening« til: »et obligationsbaseret investeringsinstitut med minimumsbeskatning«, »en udloddende aktiebaseret investeringsforening« ændres til: »et aktiebaseret investeringsinstitut med minimumsbeskatning«, »foreningen« ændres til: »instituttet«, og »Foreningens« ændres til: »Instituttets«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>12.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 13 G</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">§ 13 G.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Aktieavancebeskatningslovens § 27 om forhøjelse af anskaffelsessummen ved manglende effektiv udbetaling af minimumsindkomsten fra et investeringsinstitut med minimumsbeskatning gælder for livsforsikringsselskaber, selv om investeringsinstituttet ikke er et investeringsinstitut i henhold til Europa-Parlamentets og Rådets direktiv 2009/65/EF.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>13.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 32, stk. 1, nr. 3,</Char>
+                <Char> ændres »investeringsforeningsbeviser« til »investeringsbeviser«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 11</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I skattekontrolloven, jf. lovbekendtgørelse nr. 819 af 27. juni 2011, som ændret bl.a. ved § 2 i lov nr. 462 af 12. juni 2009 og § 19 i lov nr. 516 af 12. juni 2009 og senest ved § 11 i lov nr. 326 af 11. april 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, stk. 2, 1. pkt.,</Char>
+                <Char> ændres »§ 65, stk. 6« til: »§ 65, stk. 5«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4, stk. 1, nr. 1,</Char>
+                <Char> ændres »nr. 10 eller 12« til: »nr. 9 eller 11«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 7 C, stk. 1, 2. pkt.,</Char>
+                <Char> ændres »§ 16 A, stk. 6« til: »§ 16 A, stk. 5«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 8 X, stk. 1,</Char>
+                <Char> og to steder i </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 3</Char>
+                <Char> ændres »direktiv 85/611/EØF« til: »Europa-Parlamentets og Rådets direktiv 2009/65/EF«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 10 A, stk. 2,</Char>
+                <Char> ændres tre steder »investeringsforeningsbeviser« til: »investeringsbeviser«, og »investeringsforeningsbevisernes« ændres til: »investeringsbevisernes«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 10 A, stk. 3,</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 11 B, stk. 2,</Char>
+                <Char> ændres »investeringsforeninger« til: »investeringsinstitutter«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 10 B, stk. 1,</Char>
+                <Char> ændres »investeringsforeningsbeviser« til: »investeringsbeviser«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 11 B, stk. 6, nr. 5,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>5)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Størrelsen og sammensætningen af minimumsindkomsten fra et investeringsinstitut med minimumsbeskatning, jf. ligningslovens § 16 C, det faktisk udbetalte beløb og sammensætningen af en eventuel difference, hvis det udbetalte beløb overstiger minimumsindkomsten, alt i overensstemmelse med oplysning fra investeringsinstituttet.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 12</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om skattefri virksomhedsomdannelse, jf. lovbekendtgørelse nr. 963 af 19. september 2011, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 1, stk. 3,</Char>
+                <Char> ændres »nr. 10 og 12« til: »nr. 9 og 11«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 13</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om indkomstbeskatning af selvstændige erhvervsdrivende (virksomhedsskatteloven), jf. lovbekendtgørelse nr. 1075 af 10. september 2007, som ændret senest ved § 11 i lov nr. 1382 af 28. december 2011, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 1, stk. 1, 2. pkt.,</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22 a, stk. 7, 1. pkt.,</Char>
+                <Char> ændres »nr. 10 eller 12« til: »nr. 9 eller 11«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22 a, stk. 3, nr. 2,</Char>
+                <Char> ændres »nr. 10 og 12« til: »nr. 9 og 11«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 14</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om vurdering af landets faste ejendomme, jf. lovbekendtgørelse nr. 740 af 3. september 2002, som ændret bl.a. ved § 11 i lov nr. 406 af 8. maj 2006 og § 11 i lov nr. 514 af 7. juni 2006 og senest ved § 20 i lov nr. 525 af 12. juni 2009, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 33, stk. 5, 3. pkt., stk. 6, 3. pkt.,</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 7, 3. pkt.,</Char>
+                <Char> ændres »§ 16 A, stk. 6« til: »§ 16 A, stk. 5«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 15</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. juli 2012.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 1-3, 6, 8-15, 17-19, 22 og 24-33, §§ 2-6, § 7, nr. 1, 4 og 5, § 8, nr. 2-9, § 9, nr. 1, 3 og 6-8, § 10, § 11, nr. 1, 3 og 5-8, § 12 og § 14 har virkning fra den 1. januar 2013.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 4, og § 7, nr. 2, har virkning for aktier og fordringer, der erhverves den 1. juli 2012 eller senere.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 5, og § 7, nr. 3, har virkning, når boopgørelsen indleveres den 1. januar 2012 eller senere.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 5.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 20, har virkning for afståelser, der finder sted den 24. november 2010 eller senere.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 6.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 21, har virkning fra aktionærens indkomstår 2013.</Char>
+          </Linea>
+          <Linea>
+            <Char>For indkomståret 2013 træder værdien ved begyndelsen af det indkomstår for investeringsselskabet, der udløber i aktionærens indkomstår 2013, i stedet for værdien ved begyndelsen af aktionærens indkomstår.</Char>
+          </Linea>
+          <Linea>
+            <Char>Er aktionærens indkomstår 2013 påbegyndt før den 1. juli 2012, har § 1, nr. 21, dog først virkning fra aktionærens indkomstår 2014.</Char>
+          </Linea>
+          <Linea>
+            <Char>For indkomståret 2014 træder værdien ved begyndelsen af det indkomstår for investeringsselskabet, der udløber i aktionærens indkomstår 2014, i sidstnævnte tilfælde i stedet for værdien ved begyndelsen af aktionærens indkomstår.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 7.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 34, og § 7, nr. 6, har virkning, hvor flytning til Danmark sker den 1. juli 2012 eller senere.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 8.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Investeringsinstitutter med minimumsbeskatning, jf. ligningslovens § 16 C, jf. denne lovs § 8, nr. 9, skal ved opgørelsen af minimumsindkomsten for indkomståret 2013 fradrage tab på aktier og finansielle kontrakter, der er konstateret i indkomståret 2012 eller tidligere, og som ikke har kunnet fradrages senest ved opgørelsen af minimumsudlodningen for indkomståret 2012, jf. ligningslovens § 16 C, stk. 3, nr. 5 og 6, i lovbekendtgørelse nr. 1017 af 28. oktober 2011.</Char>
+          </Linea>
+          <Linea>
+            <Char>Tilsvarende skal negative beløb omfattet af ligningslovens § 16 C, stk. 6, i lovbekendtgørelse nr. 1017 af 28. oktober 2011, der er konstateret i indkomståret 2012 eller tidligere, og som ikke har kunnet fradrages senest ved opgørelsen af minimumsudlodningen for indkomståret 2012, fradrages ved opgørelsen af minimumsindkomsten for indkomståret 2013.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 9.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Hvis en udloddende investeringsforening før den 1. januar 2013 har truffet beslutning om beskatning efter ligningslovens § 16 C, stk. 13, jf. lovbekendtgørelse nr. 1017 af 28. oktober 2011, finder de hidtil gældende regler anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 16</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Lov om boligopsparing, jf. lovbekendtgørelse nr. 107 af 21. februar 2005, ophæves.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2013/08/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20130162630</AccessionNumber>
+    <DocumentId>AK001001</DocumentId>
+    <UniqueDocumentId>161109</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om radio- og fjernsynsvirksomhed\n(Ny ordning for udsendelse af ikkekommercielt tv)</DocumentTitle>
+    <Year>2013</Year>
+    <DiesSigni>2013-12-26</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2014-03-22</EndDate>
+    <Status>Valid</Status>
+    <Number>1626</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 255 af 20/03/2014</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1626 af 26/12/2013</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Marianne Jelved</Signature>
+    <PlaceOfSignature>Givet på Marselisborg Slot</PlaceOfSignature>
+    <JournalNumber>Kulturmin., j.nr. 2013-022139</JournalNumber>
+    <Ministry>Kulturministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om radio- og fjernsynsvirksomhed</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Ny ordning for udsendelse af ikkekommercielt tv)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om radio- og fjernsynsvirksomhed, jf. lovbekendtgørelse nr. 1188 af 23. september 2013, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 43</Char>
+                <Char> ændres »§ 45, stk. 1 og 2« til: »§ 45, stk. 1, 2 og 6«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 45, stk. 2,</Char>
+                <Char> indsættes efter »udbud«: », jf. dog stk. 6«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 45</Char>
+                <Char> indsættes efter stk. 5 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kulturministeren kan fastsætte regler om, at Radio- og tv-nævnet uden udbud kan meddele tilladelse til foreninger m.v., hvis formål er at producere ikkekommercielt tv, som er produceret af og rettet mod personer med fysisk funktionsnedsættelse og psykisk eller intellektuel funktionsnedsættelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 6-8 bliver herefter stk. 7-9.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 45, stk. 8,</Char>
+                <Char> ændres »stk. 7.« til: »stk. 8.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 45 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 45 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Kulturministeren kan fastsætte regler om, at der højst kan udstedes et bestemt antal programtilladelser til ikkekommercielt tv i hvert af de otte regionale områder svarende til de regionale TV 2-virksomheders områder.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Kulturministeren kan endvidere fastsætte regler om, at tilladelseshavere til ikkekommerciel tv-programvirksomhed i et regionalt område skal være hjemmehørende i dette område, og at et flertal af bestyrelsesmedlemmerne i foreningen m.v. skal have bopæl i tilladelsesområdet, samt at tilladelseshaverne selv skal producere deres programmer.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 47, stk. 2,</Char>
+                <Char> ændres »§ 45, stk. 1 og 2« til: »§ 45, stk. 1, 2 og 6«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2014.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Radio- og tv-nævnet kan udstede tilladelse til de sendesamvirker, der er etableret i medfør af bekendtgørelse nr. 1423 af 20. december 2011 om ikkekommercielt tv i MUX 1 som ændret ved bekendtgørelse nr. 884 af 28. juni 2013, således at sendesamvirkerne på samme vilkår, som gælder for tilladelseshavere, jf. bekendtgørelse nr. 1423 af 20. december 2011 om ikkekommercielt tv i MUX 1 som ændret ved bekendtgørelse nr. 884 af 28. juni 2013, kan udsende tidligere udsendte programmer eller nyproducerede programmer fra de tilknyttede tv-stationer i en overgangsperiode, indtil de nye tilladelseshavere efter den nye lokal-tv-ordning kan påbegynde deres programvirksomhed.</Char>
+          </Linea>
+          <Linea>
+            <Char>Sendesamvirkerne er ansvarlige for, at de pågældende programmer er i overensstemmelse med loven og den i medfør af loven udstedte bekendtgørelse nr. 1423 af 20. december 2011 om ikkekommercielt tv i MUX 1 som ændret ved bekendtgørelse nr. 884 af 28. juni 2013 samt den i medfør af loven udstedte bekendtgørelse nr. 607 af 20. juni 2005 om opdatering, opbevaring og aflevering af radio- og fjernsynsprogrammer.</Char>
+          </Linea>
+          <Linea>
+            <Char>Radio- og tv-nævnet kan yde tilskud til dækning af sendesamvirkernes distributionsomkostninger i forbindelse med udsendelse af de ovennævnte programmer inden for en samlet ramme på 0,5 mio. kr.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

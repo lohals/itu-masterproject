@@ -1,0 +1,3521 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2012/09/21/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20130061530</AccessionNumber>
+    <DocumentId>BP000509</DocumentId>
+    <UniqueDocumentId>151847</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om finansiel virksomhed og forskellige andre love som følge af forslag til lov om investeringsforeninger m.v.\n(Konsekvensrettelser i lyset af lov om investeringsforeninger m.v.)</DocumentTitle>
+    <Year>2013</Year>
+    <DiesSigni>2013-06-12</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-03-10</EndDate>
+    <Status>Valid</Status>
+    <Number>615</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LOV nr 597 af 12/06/2013</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 982 af 06/08/2013</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1022 af 13/08/2013</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LOV nr 268 af 25/03/2014 </KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LOV nr 403 af 28/04/2014 </KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1110 af 10/10/2014</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1109 af 09/10/2014</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 953 af 14/08/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 216 af 27/02/2017</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 615 af 12/06/2013</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <EuReferences>32009L0065</EuReferences>
+    <EuReferences>32010L0043</EuReferences>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20140026830</Ref_Accn>
+    <Ref_Af REFid="change_1">2014-03-25</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om ændring af lov om finansiel virksomhed og forskellige andre love\n(Gennemførelse af kreditinstitut- og kapitalkravsdirektiv (CRD IV) og ændringer som følge af den tilhørende forordning (CRR) samt lovgivning vedrørende SIFI’er m.v.)</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Annette Vilhelmsen</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Erhvervs- og Vækstmin.,\nFinanstilsynet, j.nr. 100-0008</JournalNumber>
+    <Ministry>Erhvervs- og Vækstministeriet</Ministry>
+    <AdministrativeAuthority>Erhvervs- og Vækstministeriet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om finansiel virksomhed og forskellige andre love som følge af forslag til lov om investeringsforeninger m.v.</Char>
+      </Linea>
+      <Nota formaNo="EU" id="Not1">
+        <Explicatus>1)</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv 2009/65/EF af 13. juli 2009 om samordning af love og administrative bestemmelser om visse institutter for kollektiv investering i værdipapirer (investeringsinstitutter) (UCITS-direktivet), EU-Tidende 2009, nr. L 302, side 32, og Kommissionens direktiv 2010/43/EU af 1. juli 2010 om gennemførelse af Europa-Parlamentets og Rådets direktiv 2009/65/EF for så vidt angår organisatoriske krav, interessekonflikter, god forretningsskik, risikostyring og indholdet af aftalen mellem en depositar og et administrationsselskab, EU-Tidende 2010, nr. L 176, side 42-61.</Char>
+          </Linea>
+        </Exitus>
+      </Nota>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Konsekvensrettelser i lyset af lov om investeringsforeninger m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om finansiel virksomhed, jf. lovbekendtgørelse nr. 705 af 25. juni 2012, som ændret bl.a. ved § 229 i lov nr. 456 af 18. maj 2011, § 2 i lov nr. 557 af 18. juni 2012 og § 1 i lov nr. 1287 af 19. december 2012 og senest ved § 3 i lov nr. 378 af 17. april 2013, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">fodnoten</Char>
+                <Char> til lovens titel udgår »dele af Rådets direktiv 85/611/EØF af 20. december 1985 (UCITS-direktivet), EF-Tidende 1986, nr. L 375, side 3,« og »Europa-Parlamentets og Rådets direktiv 2001/107/EF af 21. januar 2002 (tjenesteyderdirektivet), EF-Tidende 2002, nr. L 41, side 20,«, efter »dele af Europa-Parlamentets og Rådets direktiv 2007/64/EF af 13. november 2007 om betalingstjenester i det indre marked og om ændring af direktiv 97/7/EF, 2002/65/EF, 2005/60/EF og 2006/48/EF og om ophævelse af direktiv 97/5/EF (betalingstjenestedirektivet), EU-Tidende 2007, nr. L 319, side 1,« indsættes: »dele af Europa-Parlamentets og Rådets direktiv 2009/65/EF af 13. juli 2009 om samordning af love og administrative bestemmelser om visse institutter for kollektiv investering i værdipapirer (investeringsinstitutter) (UCITS-direktivet), EU-Tidende 2009, nr. L 302, side 32-96,«, efter »dele af Europa-Parlamentets og Rådets direktiv 2009/111/EF af 16. september 2009 om ændring af direktiv 2006/48/EF, 2006/49/EF og 2007/64/EF for så vidt angår banker tilsluttet centralorganer, visse komponenter i egenkapitalen, store engagementer, tilsynsordninger og krisestyring (CRD II), EU-Tidende 2009, nr. L 302, side 97,« indsættes: »dele af Kommissionens direktiv 2010/43/EU af 1. juli 2010 om gennemførelse af Europa-Parlamentets og Rådets direktiv 2009/65/EF for så vidt angår organisatoriske krav, interessekonflikter, god forretningsskik, risikostyring og indholdet af aftalen mellem en depositar og et administrationsselskab, EU-Tidende 2010, nr. L 176, side 42-61,« og efter »og om ophævelse af Kommissionens afgørelse 2009/77/EF, EU-Tidende 2010, nr. L 331, side 84« indsættes: », og dele af Kommissionens forordning (EU) nr. 584/2010 af 1. juli 2010 om gennemførelse af Europa-Parlamentets og Rådets direktiv 2009/65/EF for så vidt angår form og indhold af standardmodellen til anmeldelsesskrivelse og erklæring om investeringsinstituttet, brug af elektronisk kommunikation mellem kompetente myndigheder i forbindelse med anmeldelser og procedurer ved kontroller og undersøgelser på stedet samt udveksling af oplysninger mellem kompetente myndigheder, EU-Tidende 2010, nr. L 176, side 16-27.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5, stk. 1, nr. 5,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>5)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char formaChar="Italic">Administrationsselskab:</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>
+                </Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et selskab, som kan administrere UCITS (i Danmark: investeringsforvaltningsselskab).</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 10, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Virksomheder skal have tilladelse som investeringsforvaltningsselskab for at udføre den daglige ledelse af investeringsforeninger og administrere andre UCITS, jf. bilag 6.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Investeringsforvaltningsselskaber må i øvrigt kun udføre virksomhed som nævnt i stk. 2, § 10 a og § 28.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 10, stk. 3,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Investeringsforvaltningsselskaber og admini­stra­ti‍ons­selskaber, der opfylder betingelserne i § 1, stk. 3, og §§ 30 eller 31, har eneret til at udøve den daglige ledelse af investeringsforeninger og administrere andre UCITS.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 43, stk. 5,</Char>
+                <Char> udgår », specialforeninger og hedgeforeninger«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 52</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 52.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Pengeinstitutter og filialer af kreditinstitutter med vedtægtsmæssigt hjemsted i et andet land inden for Den Europæiske Union eller i et land, som Unionen har indgået aftale med på det finansielle område, som Finanstilsynet har godkendt som depotselskab, jf. § 2, nr. 11, i lov om investeringsforeninger m.v., for en dansk UCITS, skal som depotselskab handle uafhængigt og udelukkende i den pågældende danske UCITS’ interesse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 54, stk. 1,</Char>
+                <Char> udgår », specialforeninger, professionelle foreninger, fåmandsforeninger, hedgeforeninger og andre kollektive investeringsordninger« og »og foreninger«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 54, stk. 2,</Char>
+                <Char> udgår »specialforeninger, professionelle foreninger eller fåmandsforeninger eller andre kollektive investeringsordninger,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 77, stk. 1, nr. 3,</Char>
+                <Char> ændres »specialforeninger, hedgeforeninger« til: »kapitalforeninger«, og efter »omfattet af« indsættes: »§ 143, stk. 1, nr. 2 og 3, i«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>10.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 77, stk. 2,</Char>
+                <Char> ændres »specialforeninger, hedgeforeninger« til: »kapitalforeninger«, og efter »omfattet af« indsættes: »§ 143, stk. 1, nr. 2 og 3, i«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>11.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 98, stk. 1, 1. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Investorerne i de UCITS og kapitalforeninger, som et investeringsforvaltningsselskab administrerer, og investorer, med hvem investeringsforvaltningsselskabet har indgået en aftale om skønsmæssig porteføljepleje, jf. bilag 4, afsnit A, nr. 4, jf. § 10, stk. 2, har ret til gennem et investorforum at vælge et medlem af bestyrelsen for investeringsforvaltningsselskabet.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>12.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 98, stk. 2,</Char>
+                <Char> ændres »specialforeninger, hedgeforeninger, godkendte fåmandsforeninger, professionelle foreninger, ikkegodkendte fåmandsforeninger, investorer i andre kollektive investeringsordninger, jf. § 195 i lov om investeringsforeninger m.v.,« til: »kapitalforeninger«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>13.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 98, stk. 3,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når et investeringsforvaltningsselskab alene administrerer investeringsforeninger, SIKAV’er og kapitalforeninger, som ejer selskabet, jf. § 26, stk. 1, i lov om investeringsforeninger m.v., er selskabet undtaget fra kravet i stk. 1 om at etablere et investorforum, såfremt mindst ét medlem af den eller de administrerede foreningers og SIKAV’ers bestyrelser vælges som medlem af investeringsforvaltningsselskabets bestyrelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>14.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 99</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 99.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Et investeringsforvaltningsselskabs bestyrelse eller direktion kan kun give tilladelse i henhold til § 80, stk. 1 og 2, til, at en direktør eller ansat kan være bestyrelsesmedlem i eller deltage i ledelsen eller driften af en investeringsforening, såfremt investeringsforeningen ikke administreres af investeringsforvaltningsselskabet, og såfremt der ikke er personsammenfald mellem flertallet af medlemmerne i bestyrelsen for den pågældende investeringsforening og investeringsforvaltningsselskabets bestyrelse.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Den pågældende må ikke varetage hvervet som bestyrelsesformand.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Et investeringsforvaltningsselskabs bestyrelse eller direktion kan ikke give tilladelse i henhold til § 80, stk. 1 og 2, til, at direktører og andre ledende medarbejdere kan være bestyrelsesmedlemmer i eller deltage i ledelsen eller driften af depotselskabet eller et andet selskab, som en af de investeringsforeninger, som investeringsforvaltningsselskabet administrerer, har indgået væsentlige aftaler med, eller i et selskab, der er koncernforbundet med disse selskaber.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Bestyrelsen eller direktionen kan uanset stk. 2 dog give tilladelse til, at en direktør eller ansatte kan være bestyrelsesmedlemmer i investeringsforvaltningsselskabets datterselskaber eller koncernforbundne selskaber, der ville kunne være datterselskaber, jf. § 28.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>15.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 100, nr. 1,</Char>
+                <Char> udgår »herunder investeringsforeninger og andre foreninger,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>16.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 100, nr. 3,</Char>
+                <Char> udgår »foreninger og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>17.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 100, nr. 4,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>vurdere de foretagne investeringer og opnåede resultater, når en investeringsforenings bestyrelse eller et investeringsforvaltningsselskabs bestyrelse for en SIKAV eller værdipapirfond har indgået aftale om porteføljepleje vedrørende den pågældende UCITS’ eller en afdelings formue.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>18.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 101, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Investeringsforvaltningsselskaber skal ved ad­mini­stra­ti‍on af UCITS handle uafhængigt og udelukkende i den pågældende UCITS’ interesse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>19.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 101, stk. 2,</Char>
+                <Char> udgår »og foreninger«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>20.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 101, stk. 3, nr. 1,</Char>
+                <Char> udgår »foreninger,«, og efter »kunder« indsættes: », herunder kapitalforeninger,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>21.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 101, stk. 3, nr. 2,</Char>
+                <Char> udgår »eller en forenings«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>22.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 101, stk. 3, nr. 4,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>hvis de organisatoriske eller administrative ordninger, som er gennemført for at styre interessekonflikter, ikke er tilstrækkelige til med rimelig sikkerhed at garantere, at risikoen for at skade en UCITS, kapitalforening eller investor undgås, i det konkrete tilfælde informere den pågældende UCITS, kapitalforening eller investor om interessekonflikternes generelle indhold, inden parterne indgår aftale, eller, hvis der er indgået aftale, når interessekonflikten er konstateret.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>23.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 101, stk. 4,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når et investeringsforvaltningsselskab tillige har tilladelse til at udføre skønsmæssig porteføljepleje, skal det opretholde en klar adskillelse mellem denne porteføljepleje og administration af UCITS.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Investeringsforvaltningsselskabet er i forhold, der vedrører administration af investeringsforeninger, underlagt den enkelte investeringsforenings bestyrelses instruktionsbeføjelse, og i forhold, der vedrører andre UCITS, underlagt selskabets bestyrelses instruktionsbeføjelse, medmindre der gælder andre regler i en udenlandsk UCITS’ hjemland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>24.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 102, stk. 2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen kan indgå aftaler om porteføljepleje med en virksomhed, der opfylder betingelserne i § 103, stk. 1, og som ikke er depotselskab for SIKAV’en, værdipapirfonden eller den udenlandske UCITS eller et andet selskab, hvis interesser kan være i strid med den pågældende SIKAV’s, værdipapirfonds eller udenlandske UCITS’ og dens investorers interesser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>25.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 102, stk. 7,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>26.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 103, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Et investeringsforvaltningsselskab skal sikre sig, at de virksomheder, som selskabet delegerer opgaver til, er kvalificerede og i stand til at varetage de pågældende opgaver.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I de tilfælde, hvor delegationen vedrører investeringsforvaltningen, må bestyrelsen kun delegere opgaver til virksomheder, som har tilladelse til eller er registrerede med henblik på forvaltning af aktiver, jf. dog § 102, stk. 2, og som er underlagt tilsyn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>27.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 103</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 4:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestyrelsen kan kun delegere opgaver i forbindelse med investeringsforvaltningen til virksomheder, der har hjemsted i et land uden for Den Europæiske Union eller lande, som Unionen har indgået aftale med på det finansielle område, når Finanstilsynet kan samarbejde med tilsynsmyndighederne i det pågældende land.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>28.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 105, stk. 2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Finanstilsynet fastsætter nærmere regler om,</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>hvornår betingelserne i stk. 1, § 102, stk. 1-3 og 5, og §§ 103 og 104 er opfyldt,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>hvornår et investeringsforvaltningsselskab anses for at have delegeret opgaver i et sådant omfang, at selskabet anses for et tomt selskab efter § 102, stk. 6, og ikke længere kan anses for at administrere SIKAV’en, værdipapirfonden eller den udenlandske UCITS, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>hvilke opgaver der i relation til delegation anses for væsentlige.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>29.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Overskriften før § 106 affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst overskriftAfType="ParagrafGruppe">
+              <Rubrica>
+                <Linea>
+                  <Char>Særlige regler for depotselskaber for danske UCITS</Char>
+                </Linea>
+              </Rubrica>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>30.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 106, stk. 1,</Char>
+                <Char> udgår », specialforenings, hedgeforenings, professionel forenings og fåmandsforenings«, »eller foreningens« og », specialforeningen, hedgeforeningen, den professionelle forening eller fåmandsforeningen«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>31.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 106, stk. 2, nr. 1-3</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">5,</Char>
+                <Char> udgår », specialforenings, hedgeforenings, professionel forenings eller fåmandsforenings«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>32.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 106, stk. 2, nr. 2, 3</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">7,</Char>
+                <Char> ændres »§ 3, stk. 1« til: »§ 2«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>33.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 106, stk. 2, nr. 4,</Char>
+                <Char> udgår », specialforening, hedgeforening, professionelle forening eller fåmandsforening«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>34.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 106, stk. 2, nr. 6,</Char>
+                <Char> udgår », specialforenings eller fåmandsforenings«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>35.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 106, stk. 2, nr. 7,</Char>
+                <Char> udgår », specialforenings eller hedgeforening«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>36.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 106, stk. 2, nr. 7,</Char>
+                <Char> ændres »§ 51« til: »§ 70«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>37.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 106, stk. 6, nr. 1</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">4,</Char>
+                <Char> udgår » specialforeninger, hedgeforeninger, professionelle foreninger og fåmandsforeninger«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>38.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 107</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 107.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Depotselskabet er over for den danske UCITS ansvarligt for enhver skade, som den danske UCITS måtte lide som følge af manglende eller mangelfuld opfyldelse af selskabets forpligtelser.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Depotselskabet er ansvarligt, selv om depotselskabet overlader opbevaring af den danske UCITS’ formue eller en del heraf til en anden depotfører.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Depotselskabet kan ikke ved aftale fraskrive sig dette ansvar.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>39.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 121, stk. 2,</Char>
+                <Char> udgår », specialforeninger, professionelle foreninger, godkendte fåmandsforeninger eller hedgeforeninger«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>40.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 125, stk. 3,</Char>
+                <Char> ændres »Tillægget kan« til: »Basiskapitalen og tillægget skal«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>41.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 141, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Til investeringsforvaltningsselskabets portefølje, jf. § 125, stk. 3, medregnes formuen i UCITS, som investeringsforvaltningsselskabet er godkendt til at administrere, og formuen i alternative investeringsfonde, som investeringsforvaltningsselskabet har tilladelse til at forvalte.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>42.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 157</Char>
+                <Char> ændres »danske UCITS, specialforeninger, fåmandsforeninger og professionelle foreninger samt investeringsinstitutter, der er UCITS.« til: »UCITS og kapitalforeninger, der opfylder betingelserne i § 162, stk. 1, nr. 8.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>43.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 162, stk. 1, nr. 8,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>8)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Andele i afdelinger i UCITS, kapitalforeninger og udenlandske investeringsinstitutter, der svarer til kapitalforeninger, hvis kapitalforeningens eller det udenlandske investeringsinstituts vedtægter indeholder de i § 162 a og § 162 b anførte begrænsninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>44.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 162 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 162 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Vedtægterne for en kapitalforening eller et udenlandsk investeringsinstitut omfattet af § 162, stk. 1, nr. 8, skal indeholde bestemmelser om,</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>at kapitalforeningen eller det udenlandske investeringsinstitut på en investors anmodning skal indløse investorens andel af formuen med midler, der hidrører fra formuen,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>at kapitalforeningens eller det udenlandske investeringsinstituts afdelinger hverken må stille garantier for tredjemand eller yde eller optage lån bortset fra optagelse af kortfristede lån på højst 10 pct. af formuen for at indløse investorer, for at udnytte tegningsrettigheder eller til midlertidig finansiering af indgåede handler,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>at kapitalforeningen eller det udenlandske investeringsinstitut kan investere sin formue i likvide midler, herunder valuta, eller i de finansielle instrumenter, som er nævnt i bilag 5, i overensstemmelse med de krav, der stilles til instrumenter og deres udstedere i kapitel 14 i lov om investeringsforeninger m.v., og</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>risikospredning, jf. § 162 b.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 162 b.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>En kapitalforening eller et udenlandsk investeringsinstitut omfattet af § 162, stk. 1, nr. 8, skal i sine vedtægter for hver afdeling fastsætte, at formuen enten</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan placeres i overensstemmelse med reglerne i kapitel 14 i lov om investeringsforeninger m.v.,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan investeres således, at højst 10 pct. af formuen investeres i finansielle instrumenter udstedt af samme emittent eller emittenter i samme koncern,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>fuldt ud kan investeres i obligationer udstedt af et land eller en international institution af offentlig karakter, som et land i Den Europæiske Union eller et land, som Unionen har indgået aftale med på det finansielle område, deltager i,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan investeres i</Char>
+                          </Linea>
+                        </Exitus>
+                        <Exitus>
+                          <Index>
+                            <Indentatio formaInd="Litra">
+                              <Explicatus>a)</Explicatus>
+                              <Exitus>
+                                <Linea>
+                                  <Char>obligationer udstedt af Danmarks Skibskredit A/S, realkreditobligationer udstedt af danske realkreditinstitutter og lignende realkreditobligationer udstedt af kreditinstitutter godkendt af et land inden for Den Europæiske Union eller af et land, som Unionen har indgået aftale med på det finansielle område, når en kompetent myndighed har meddelt obligationsudstedelserne og udstederne til Europa-Kommissionen, dog kan højst 30 pct. af formuen anbringes i obligationer udstedt af en enkelt emittent eller emittenter i samme koncern, eller</Char>
+                                </Linea>
+                              </Exitus>
+                            </Indentatio>
+                            <Indentatio formaInd="Litra">
+                              <Explicatus>b)</Explicatus>
+                              <Exitus>
+                                <Linea>
+                                  <Char>særligt dækkede realkreditobligationer (SDRO) og særligt dækkede obligationer (SDO) udstedt af danske pengeinstitutter eller realkreditinstitutter eller Danmarks Skibskredit A/S eller tilsvarende særligt dækkede obligationer udstedt af lignende kreditinstitutter godkendt af et land inden for Den Europæiske Union eller af et land, som Unionen har indgået aftale med på det finansielle område, når en kompetent myndighed har meddelt obligationsudstedelserne og udstederne til Europa-Kommissionen, dog kan højst 30 pct. af formuen anbringes i obligationer udstedt af en enkelt emittent eller emittenter i samme koncern,</Char>
+                                </Linea>
+                              </Exitus>
+                            </Indentatio>
+                          </Index>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>5)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>udelukkende kan investeres i pengemarkedsinstrumenter, idet højst 30 pct. af formuen kan anbringes i pengemarkedsinstrumenter udstedt af den samme emittent eller emittenter i samme koncern, dog således, at formuen fuldt ud kan investeres i pengemarkedsinstrumenter, som er udstedt af et land eller en international institution af offentlig karakter, som et eller flere medlemslande deltager i, og som er godkendt af Finanstilsynet, jf. § 147, stk. 1, nr. 4, i lov om investeringsforeninger m.v., eller</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>6)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan investeres i andele i afdelinger i UCITS, kapitalforeninger eller udenlandske investeringsinstitutter, hvis vedtægter indeholder de i § 162 a anførte begrænsninger, dog således, at højst 75 pct. af formuen må anbringes i andele udstedt af en enkelt afdeling af disse UCITS, kapitalforeninger eller udenlandske investeringsinstitutter.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>45.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 163, stk. 1, nr. 4,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Aktiver omfattet af § 162, stk. 1, nr. 4, 6, 8-10, 12 og 13, udstedt eller garanteret af penge- og realkreditinstitutter, forsikringsselskaber, afdelinger af UCITS, kapitalforeninger eller udenlandske investeringsinstitutter omfattet af § 162, stk. 1, nr. 8, der for hver virksomhed og afdeling af en forening eller et udenlandsk investeringsinstitut udgør mere end 5 pct. af de forsikringsmæssige hensættelser, må samlet højst udgøre 40 pct.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>46.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 164, stk. 4, 1. pkt.,</Char>
+                <Char> ændres »investeringsinstitutter og foreninger« til: »UCITS, kapitalforeninger og udenlandske investeringsinstitutter«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>47.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 166, stk. 4</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">5,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>§ 163, stk. 1, nr. 4, og § 164, stk. 1, nr. 4, finder ikke anvendelse på midler placeret i andele i UCITS, kapitalforeninger og udenlandske investeringsinstitutter omfattet af § 162, stk. 1, nr. 8.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>§ 163, stk. 1, nr. 1, finder ikke anvendelse på midler placeret i andele i UCITS, kapitalforeninger eller udenlandske investeringsinstitutter omfattet af § 162, stk. 1, nr. 8, under forudsætning af at disse UCITS’, kapitalforeningers eller udenlandske investeringsinstitutters beholdning af aktiver medgår ved opgørelsen af placeringen af midlerne omfattet af stk. 3, og at bestemmelserne i §§ 158-169 med de i stk. 4 nævnte undtagelser ved denne opgørelse er overholdt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>48.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 168</Char>
+                <Char> ændres »§ 162« til: »§§ 162-162 b«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>49.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 346 a, 1. pkt.,</Char>
+                <Char> udgår »og foreninger godkendt af Finanstilsynet« og »og foreninger«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>50.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 350, stk. 1, nr. 1,</Char>
+                <Char> udgår », specialforeningernes, godkendte fåmandsforeningers, hedgeforeningers, andre kollektive investeringsordningers«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>51.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 355, stk. 2, nr. 14,</Char>
+                <Char> udgår », specialforeninger, godkendte fåmandsforeninger og andre kollektive investeringsordninger« og », specialforeningen, fåmandsforeningen eller den kollektive investeringsordning«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>52.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 361, stk. 1, nr. 10, 3. pkt.,</Char>
+                <Char> udgår »og specialforeninger«, og »værdipapirer« ændres til: »andele«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>53.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 362, stk. 4,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>54.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 367, stk. 1,</Char>
+                <Char> udgår », specialforeninger og fåmandsforeninger«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>55.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 367, stk. 2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Afgiften fordeles med 10.000 kr. pr. dansk UCITS plus 3.000 kr. pr. afdeling.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den resterende afgift fordeles i forhold til den enkelte UCITS’ andel af de af stk. 1 omfattede danske UCITS’ samlede balance.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>56.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 373, stk. 1,</Char>
+                <Char> ændres »§ 102, stk. 2, 1. pkt., og stk. 3,« til: »§ 102, stk. 2 og 3,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>57.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">Bilag 6</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">Bilag 6</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Table formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" style="padding-left: 3.5pt;padding-right: 3.5pt;column-width: 167pt;" cellspacing="0" width="222">
+                  <Tr>
+                    <Td valign="top" width="222" />
+                  </Tr>
+                </Table>
+              </Exitus>
+              <Exitus formaEx="Center">
+                <Linea>
+                  <Char formaChar="Bold">Funktioner (opgaver) omfattet af kollektiv porteføljeforvaltning</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Table formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" style="padding-left: 3.5pt;padding-right: 3.5pt;column-width: 167pt;" cellspacing="0" width="222">
+                  <Tr>
+                    <Td valign="top" width="222" />
+                  </Tr>
+                </Table>
+              </Exitus>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Investeringsforvaltning.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Administration:</Char>
+                      </Linea>
+                    </Exitus>
+                    <Exitus>
+                      <Index>
+                        <Indentatio formaInd="Litra">
+                          <Explicatus>a)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Juridiske og regnskabsmæssige tjenesteydelser i forbindelse med fondsforvaltning.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio formaInd="Litra">
+                          <Explicatus>b)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Kundeforespørgsler.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio formaInd="Litra">
+                          <Explicatus>c)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Fastsættelse af den indre værdi samt emissions- og indløsningspriser (herunder selvangivelser).</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio formaInd="Litra">
+                          <Explicatus>d)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Kontrol med overholdelse af lovgivningen (compliance).</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio formaInd="Litra">
+                          <Explicatus>e)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Ajourføring af investorregistre.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio formaInd="Litra">
+                          <Explicatus>f)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Fordeling af overskud (udlodning og henlæggelse af overskud).</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio formaInd="Litra">
+                          <Explicatus>g)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Emission og indløsning af andele.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio formaInd="Litra">
+                          <Explicatus>h)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Kontraktetablering (herunder udstedelse af investeringsbeviser).</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio formaInd="Litra">
+                          <Explicatus>i)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Registrering.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                      </Index>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Markedsføring.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om tilsyn med firmapensionskasser, jf. lovbekendt­gørelse nr. 1561 af 19. december 2007, som ændret bl.a. ved § 3 i lov nr. 515 af 17. juni 2008, § 4 i lov nr. 517 af 17. juni 2008, § 5 i lov nr. 133 af 24. februar 2009, § 7 i lov nr. 1556 af 21. december 2010 og § 231 i lov nr. 456 af 18. maj 2011 og senest ved § 11 i lov nr. 1287 af 19. december 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 46 d, stk. 1, nr. 7,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>7)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Andele i afdelinger i UCITS, kapitalforeninger og udenlandske investeringsinstitutter, der svarer til kapitalforeninger, hvis kapitalforeningens eller det udenlandske investeringsinstituts vedtægter indeholder de i § 46 g, stk. 1, og § 46 h, stk. 1, anførte begrænsninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 46 e, stk. 1, nr. 4,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>4)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Aktiver omfattet af § 46 d, stk. 1, nr. 4, 6-9, 11 og 12, jf. dog stk. 2, udstedt eller garanteret af penge- og realkreditinstitutter, forsikringsselskaber, UCITS, kapitalforeninger eller udenlandske investeringsinstitutter omfattet af § 46 d, stk. 1, nr. 7, der for hver virksomhed og afdeling af en UCITS, en kapitalforening eller et udenlandsk investeringsinstitut udgør mere end 5 pct. af de pensionsmæssige hensættelser, må samlet højst udgøre 40 pct.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 46 f, stk. 4, 1. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1, nr. 3-5, og stk. 2 og 5 finder ikke anvendelse på investeringer i virksomheder, UCITS, kapitalforeninger og udenlandske investeringsinstitutter omfattet af § 46 d, stk. 1, nr. 7, hvis aktivitet efter vedtægterne er begrænset til at foretage investeringer i aktiver omfattet af § 46 d, stk. 1, nr. 1-3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 46 f indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 46 g.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Vedtægterne for en kapitalforening eller et udenlandsk investeringsinstitut omfattet af § 46 d, stk. 1, nr. 7, skal indeholde bestemmelser om,</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>at kapitalforeningen eller det udenlandske investeringsinstitut på en investors anmodning skal indløse investorens andel af formuen med midler, der hidrører fra formuen,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>at kapitalforeningens eller det udenlandske investeringsinstituts afdelinger hverken må stille garantier for tredjemand eller yde eller optage lån bortset fra optagelse af kortfristede lån på højst 10 pct. af formuen for at indløse investorer, for at udnytte tegningsrettigheder eller til midlertidig finansiering af indgåede handler,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>at kapitalforeningen eller det udenlandske investeringsinstitut kan investere sin formue i likvide midler, herunder valuta, eller i de finansielle instrumenter, som er nævnt i bilag 5 til lov om finansiel virksomhed, i overensstemmelse med de krav, der stilles til instrumenter og deres udstedere i kapitel 14 i lov om investeringsforeninger m.v., og</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>risikospredning, jf. § 46 h.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 46 h.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>En kapitalforening eller et udenlandsk investeringsinstitut omfattet af § 46 d, stk. 1, nr. 7, skal i sine vedtægter for hver afdeling fastsætte, at formuen enten</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan placeres i overensstemmelse med reglerne i kapitel 14 i lov om investeringsforeninger m.v.,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan investeres således, at højst 10 pct. af formuen investeres i finansielle instrumenter udstedt af samme emittent eller emittenter i samme koncern,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>fuldt ud kan investeres i obligationer udstedt af et land eller en international institution af offentlig karakter, som et land i Den Europæiske Union eller et land, som Unionen har indgået aftale med på det finansielle område, deltager i,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan investeres i</Char>
+                          </Linea>
+                        </Exitus>
+                        <Exitus>
+                          <Index>
+                            <Indentatio formaInd="Litra">
+                              <Explicatus>a)</Explicatus>
+                              <Exitus>
+                                <Linea>
+                                  <Char>obligationer udstedt af Danmarks Skibskredit A/S, realkreditobligationer udstedt af danske realkreditinstitutter og lignende realkreditobligationer udstedt af kreditinstitutter godkendt af et land inden for Den Europæiske Union eller af et land, som Unionen har indgået aftale med på det finansielle område, når en kompetent myndighed har meddelt obligationsudstedelserne og udstederne til Europa-Kommissionen, dog kan højst 30 pct. af formuen anbringes i obligationer udstedt af en enkelt emittent eller emittenter i samme koncern, eller</Char>
+                                </Linea>
+                              </Exitus>
+                            </Indentatio>
+                            <Indentatio formaInd="Litra">
+                              <Explicatus>b)</Explicatus>
+                              <Exitus>
+                                <Linea>
+                                  <Char>særligt dækkede realkreditobligationer (SDRO) og særligt dækkede obligationer (SDO) udstedt af danske pengeinstitutter eller realkreditinstitutter eller Danmarks Skibskredit A/S eller tilsvarende særligt dækkede obligationer udstedt af lignende kreditinstitutter godkendt af et land inden for Den Europæiske Union eller af et land, som Unionen har indgået aftale med på det finansielle område, når en kompetent myndighed har meddelt obligationsudstedelserne og udstederne til Europa-Kommissionen, dog kan højst 30 pct. af formuen anbringes i obligationer udstedt af en enkelt emittent eller emittenter i samme koncern,</Char>
+                                </Linea>
+                              </Exitus>
+                            </Indentatio>
+                          </Index>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>5)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>udelukkende kan investeres i pengemarkedsinstrumenter, idet højst 30 pct. af formuen kan anbringes i pengemarkedsinstrumenter udstedt af den samme emittent eller emittenter i samme koncern, dog således, at formuen fuldt ud kan investeres i pengemarkedsinstrumenter, som er udstedt af et land eller en international institution af offentlig karakter, som et eller flere medlemslande deltager i, og som er godkendt af Finanstilsynet, jf. § 147, stk. 1, nr. 4, i lov om investeringsforeninger m.v., eller</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>6)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan investeres i andele i afdelinger i UCITS, kapitalforeninger eller udenlandske investeringsinstitutter, hvis vedtægter indeholder de i § 46 g anførte begrænsninger, dog således, at højst 75 pct. af formuen må anbringes i andele udstedt af en enkelt afdeling af disse UCITS, kapitalforeninger eller udenlandske investeringsinstitutter.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 50</Char>
+                <Char> ændres »og § 46 f, stk. 1, nr. 2-6, og stk. 2-6« til: »§ 46 f, stk. 1, nr. 2-6, og stk. 2-6, § 46 g og § 46 h«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 66 a, stk. 6,</Char>
+                <Char> indsættes før nr. 1 som nyt nummer:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Det Systemiske Risikoråd.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Nr. 1-19 bliver herefter nr. 2-20.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 66 a, stk. 8,</Char>
+                <Char> ændres »stk. 6, nr. 17« til: »stk. 6, nr. 18«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 66 a, stk. 10,</Char>
+                <Char> ændres »stk. 6, nr. 7« til: »stk. 6, nr. 8«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 66 a, stk. 11</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">12,</Char>
+                <Char> ændres »stk. 6, nr. 18« til: »stk. 6, nr. 19«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om værdipapirhandel m.v., jf. lovbekendtgørelse nr. 219 af 20. februar 2013, som ændret ved § 2 i lov nr. 155 af 28. februar 2012, § 2 i lov nr. 1287 af 19. december 2012 og § 8 i lov nr. 1383 af 23. december 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 84 a, stk. 6,</Char>
+                <Char> indsættes før nr. 1 som nyt nummer:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Det Systemiske Risikoråd.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Nr. 1-22 bliver herefter nr. 2-23.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 84 a, stk. 10,</Char>
+                <Char> ændres »stk. 6, nr. 7« til: »stk. 6, nr. 8«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 84 a, stk. 11</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">12,</Char>
+                <Char> ændres »stk. 6, nr. 18« til: »stk. 6, nr. 19«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 87, stk. 6,</Char>
+                <Char> ændres »§ 84 a, stk. 6, nr. 14 og 18« til: »§ 84 a, stk. 6, nr. 15 og 19«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 4</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om forebyggende foranstaltninger mod hvidvask af udbytte og finansiering af terrorisme, jf. lovbekendtgørelse nr. 353 af 20. april 2012, som ændret ved § 39 i lov nr. 1231 af 18. december 2012 og § 4 i lov nr. 1287 af 19. december 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 34 a, stk. 3,</Char>
+                <Char> indsættes før nr. 1 som nyt nummer:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Det Systemiske Risikoråd.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Nr. 1-9 bliver herefter nr. 2-10.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 34 a, stk. 4,</Char>
+                <Char> ændres »stk. 3, nr. 9« til: »stk. 3, nr. 10«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 34 a, stk. 5,</Char>
+                <Char> ændres »stk. 3, nr. 1-7« til: »stk. 3, nr. 2-8«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 34 a, stk. 6,</Char>
+                <Char> ændres »stk. 3, nr. 8 og 9« til: »stk. 3, nr. 9 og 10«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§§ 34 c-f</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 34 c.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Afgørelser truffet af Erhvervsstyrelsen i henhold til § 32, stk. 5, skal offentliggøres, hvis afgørelsen efter styrelsens vurdering er af væsentlig betydning.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Hvis afgørelsen vedrører en juridisk person, kan offentliggørelsen omfatte virksomhedens navn, når dette skønnes at være af almen interesse for offentligheden.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Beslutninger om at overgive sager til politimæssig efterforskning skal offentliggøres, jf. dog stk. 4.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Hvis beslutningen vedrører en juridisk person, kan offentliggørelsen omfatte virksomhedens navn, når dette skønnes at være af almen interesse for offentligheden.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis en sag er overgivet til politimæssig efterforskning og der er faldet helt eller delvis fældende dom eller vedtaget bøde, skal der ske offentliggørelse af dommen, bødevedtagelsen eller et resumé heraf, jf. dog stk. 4.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Hvis dommen ikke er endelig, eller hvis den er anket eller påklaget, skal dette fremgå af offentliggørelsen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Virksomhedens offentliggørelse skal ske på virksomhedens hjemmeside på et sted, hvor det naturligt hører hjemme, hurtigst muligt, og senest 10 hverdage efter at der er faldet dom eller vedtaget bøde, eller senest på tidspunktet for offentliggørelse påkrævet efter lov om værdipapirhandel m.v. Samtidig med offentliggørelsen skal virksomheden indsætte et link, som giver direkte adgang til dommen, bødevedtagelsen eller resumeet, på forsiden af virksomhedens hjemmeside på en synlig måde, og det skal af linket og en eventuelt tilknyttet tekst tydeligt fremgå, at der er tale om en dom eller bødevedtagelse.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Hvis virksomheden kommenterer dommen, bødevedtagelsen eller resumeet, skal dette ske i forlængelse heraf, og kommentarerne skal være klart adskilt fra dommen, bødevedtagelsen eller resumeet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Fjernelse af informationerne fra virksomhedens hjemmeside skal finde sted efter samme principper, som virksomheden anvender for øvrige meddelelser, dog tidligst, når linket og informationerne har ligget på hjemmesiden i 3 måneder, og tidligst efter førstkommende generalforsamling eller repræsentantskabsmøde.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Virksomhedens pligt til at offentliggøre oplysningerne på virksomhedens hjemmeside gælder kun for juridiske personer.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Virksomheden skal give meddelelse til Finanstilsynet om offentliggørelsen, herunder fremsende en kopi af dommen eller bødevedtagelsen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Finanstilsynet skal herefter offentliggøre dommen, bødevedtagelsen eller et resumé heraf på sin hjemmeside.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Offentliggørelse efter stk. 1-3 kan dog ikke ske, hvis det vil medføre uforholdsmæssig stor skade for virksomheden eller efterforskningsmæssige hensyn taler imod offentliggørelse.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Offentliggørelsen må ikke indeholde fortrolige oplysninger om kundeforhold eller oplysninger omfattet af bestemmelser i lov om offentlighed i forvaltningen om undtagelse af oplysninger om private forhold og drifts- eller forretningsforhold m.v. Offentliggørelsen må ikke indeholde fortrolige oplysninger, der hidrører fra lande inden for Den Europæiske Union eller lande, som Unionen har indgået aftale med på det finansielle område, medmindre de myndigheder, som har afgivet oplysningerne, har givet deres udtrykkelige tilladelse.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis offentliggørelse er undladt i henhold til stk. 4, 1. pkt., skal der ske offentliggørelse efter stk. 1-3, når de hensyn, der nødvendiggjorde undladelsen, ikke længere er gældende.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Dette gælder dog kun i op til 2 år efter datoen for afgørelsen eller beslutningen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 34 d.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Erhvervs- og vækstministeren kan for virksomheder under tilsyn omfattet af denne lov fastsætte regler om virksomhedernes pligt til at offentliggøre oplysninger om Finanstilsynets vurdering af virksomheden og om, at Finanstilsynet har mulighed for at offentliggøre oplysningerne før virksomheden.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 34 e.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Erhvervs- og vækstministeren kan fastsætte regler om, at skriftlig kommunikation til og fra Finanstilsynet og til og fra Erhvervsstyrelsen om forhold, som er omfattet af denne lov eller regler udstedt i medfør af denne lov, skal foregå digitalt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Erhvervs- og vækstministeren kan fastsætte nærmere regler om digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 34 f.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Erhvervs- og vækstministeren kan fastsætte regler om, at Finanstilsynet og Erhvervsstyrelsen kan udstede afgørelser og andre dokumenter efter denne lov eller efter regler udstedt i medfør af denne lov uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Erhvervs- og vækstministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af Finanstilsynet eller Erhvervsstyrelsen som afsender.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 34 g.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvor det i denne lov eller i regler udstedt i medfør af denne lov er krævet, at et dokument, som er udstedt af andre end Finanstilsynet eller Erhvervsstyrelsen, skal være underskrevet, kan dette krav opfyldes ved anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt dokumentet, jf. dog stk. 2.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Sådanne dokumenter sidestilles med dokumenter med personlig underskrift.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Erhvervs- og vækstministeren kan fastsætte nærmere regler om fravigelse af underskriftskrav.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Det kan herunder bestemmes, at krav om personlig underskrift ikke kan fraviges for visse typer af dokumenter.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 5</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om investeringsforeninger m.v., jf. lovbekendtgørelse nr. 333 af 20. marts 2013, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 199, stk. 6,</Char>
+                <Char> ændres »§ 210, stk. 6, nr. 13 og 17« til: »§ 210, stk. 6, nr. 14 og 18«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 210, stk. 6,</Char>
+                <Char> indsættes før nr. 1 som nyt nummer:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Det Systemiske Risikoråd.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Nr. 1-18 bliver herefter nr. 2-19.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 210, stk. 8,</Char>
+                <Char> ændres »stk. 6, nr. 16« til: »stk. 6, nr. 17«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 210, stk. 10,</Char>
+                <Char> ændres »stk. 6, nr. 7« til: »stk. 6, nr. 8«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 210, stk. 11</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">12,</Char>
+                <Char> ændres »stk. 6, nr. 17« til: »stk. 6, nr. 18«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 6</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om Arbejdsmarkedets Tillægspension, jf. lovbekendtgørelse nr. 942 af 2. oktober 2009, som ændret bl.a. ved § 8 i lov nr. 1556 af 21. december 2010 og § 233 i lov nr. 456 af 18. maj 2011 og senest ved § 8 i lov nr. 1380 af 23. december 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 24 b, stk. 1, nr. 3,</Char>
+                <Char> ændres »investeringsforeninger, specialforeninger, hedgeforeninger« til: »danske UCITS, kapitalforeninger«, og efter »omfattet af« indsættes: »§ 143, stk. 1, nr. 2 og 3, i«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 24 b, stk. 2,</Char>
+                <Char> ændres »investeringsforeninger, specialforeninger, hedgeforeninger« til: »danske UCITS, kapitalforeninger«, og efter »omfattet af« indsættes: »§ 143, stk. 1, nr. 2 og 3, i«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 26 b, stk. 1, nr. 7,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>7)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Andele i afdelinger i UCITS, kapitalforeninger og udenlandske investeringsinstitutter, der svarer til kapitalforeninger, hvis kapitalforeningens eller det udenlandske investeringsinstituts vedtægter indeholder de i § 26 h, stk. 1, og § 26 i, stk. 1, anførte begrænsninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 26 d, stk. 1, nr. 4,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>4)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Aktiver omfattet af § 26 b, stk. 1, nr. 4, 6-9, 11 og 12, udstedt eller garanteret af penge- og realkreditinstitutter, forsikringsselskaber, UCITS, kapitalforeninger eller udenlandske investeringsinstitutter omfattet af § 26 b, stk. 1, nr. 7, der for hver virksomhed og afdeling af en UCITS, en kapitalforening eller et udenlandsk investeringsinstitut udgør mere end 5 pct. af Arbejdsmarkedets Tillægspensions aktiver, må samlet højst udgøre 40 pct.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 26 e, stk. 4, 1. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1, nr. 3-5, og stk. 2 finder ikke anvendelse på investeringer i virksomheder, UCITS, kapitalforeninger og udenlandske investeringsinstitutter omfattet af § 26 b, stk. 1, nr. 7, hvis aktivitet efter vedtægterne er begrænset til at foretage investeringer i aktiver omfattet af § 26 b, stk. 1, nr. 1-3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 26 g indsættes i </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">kapitel 8:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 26 h.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Vedtægterne for en kapitalforening eller et udenlandsk investeringsinstitut omfattet af § 26 b, stk. 1, nr. 7, skal indeholde bestemmelser om,</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>at kapitalforeningen eller det udenlandske investeringsinstitut på en investors anmodning skal indløse investorens andel af formuen med midler, der hidrører fra formuen,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>at kapitalforeningens eller det udenlandske investeringsinstituts afdelinger hverken må stille garantier for tredjemand eller yde eller optage lån bortset fra optagelse af kortfristede lån på højst 10 pct. af formuen for at indløse investorer, for at udnytte tegningsrettigheder eller til midlertidig finansiering af indgåede handler,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>at kapitalforeningen eller det udenlandske investeringsinstitut kan investere sin formue i likvide midler, herunder valuta, eller i de finansielle instrumenter, som er nævnt i bilag 5 til lov om finansiel virksomhed, i overensstemmelse med de krav, der stilles til instrumenter og deres udstedere i kapitel 14 i lov om investeringsforeninger m.v., og</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>risikospredning, jf. § 26 i, stk. 1.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Finanstilsynet kan for en tidsbegrænset periode dispensere fra bestemmelsen i stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 26 i.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>En kapitalforening eller et udenlandsk investeringsinstitut omfattet af § 26 b, stk. 1, nr. 7, skal i sine vedtægter for hver afdeling fastsætte, at formuen enten</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan placeres i overensstemmelse med reglerne i kapitel 14 i lov om investeringsforeninger m.v.,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan investeres således, at højst 10 pct. af formuen investeres i finansielle instrumenter udstedt af samme emittent eller emittenter i samme koncern,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>fuldt ud kan investeres i obligationer udstedt af et land eller en international institution af offentlig karakter, som et land i Den Europæiske Union eller et land, som Unionen har indgået aftale med på det finansielle område, deltager i,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan investeres i</Char>
+                          </Linea>
+                        </Exitus>
+                        <Exitus>
+                          <Index>
+                            <Indentatio formaInd="Litra">
+                              <Explicatus>a)</Explicatus>
+                              <Exitus>
+                                <Linea>
+                                  <Char>obligationer udstedt af Danmarks Skibskredit A/S, realkreditobligationer udstedt af danske realkreditinstitutter og lignende realkreditobligationer udstedt af kreditinstitutter godkendt af et land inden for Den Europæiske Union eller af et land, som Unionen har indgået aftale med på det finansielle område, når en kompetent myndighed har meddelt obligationsudstedelserne og udstederne til Europa-Kommissionen, dog kan højst 30 pct. af formuen anbringes i obligationer udstedt af en enkelt emittent eller emittenter i samme koncern, eller</Char>
+                                </Linea>
+                              </Exitus>
+                            </Indentatio>
+                            <Indentatio formaInd="Litra">
+                              <Explicatus>b)</Explicatus>
+                              <Exitus>
+                                <Linea>
+                                  <Char>særligt dækkede realkreditobligationer (SDRO) og særligt dækkede obligationer (SDO) udstedt af danske pengeinstitutter eller realkreditinstitutter eller Danmarks Skibskredit A/S eller tilsvarende særligt dækkede obligationer udstedt af lignende kreditinstitutter godkendt af et land inden for Den Europæiske Union eller af et land, som Unionen har indgået aftale med på det finansielle område, når en kompetent myndighed har meddelt obligationsudstedelserne og udstederne til Europa-Kommissionen, dog kan højst 30 pct. af formuen anbringes i obligationer udstedt af en enkelt emittent eller emittenter i samme koncern,</Char>
+                                </Linea>
+                              </Exitus>
+                            </Indentatio>
+                          </Index>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>5)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>udelukkende kan investeres i pengemarkedsinstrumenter, idet højst 30 pct. af formuen kan anbringes i pengemarkedsinstrumenter udstedt af den samme emittent eller emittenter i samme koncern, dog således, at formuen fuldt ud kan investeres i pengemarkedsinstrumenter, som er udstedt af et land eller en international institution af offentlig karakter, som et eller flere medlemslande deltager i, og som er godkendt af Finanstilsynet, jf. § 147, stk. 1, nr. 4, i lov om investeringsforeninger m.v., eller</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>6)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan investeres i andele i afdelinger i UCITS, kapitalforeninger eller udenlandske investeringsinstitutter, hvis vedtægter indeholder de i § 26 h, stk. 1, anførte begrænsninger, dog således, at højst 75 pct. af formuen må anbringes i andele udstedt af en enkelt afdeling af disse UCITS, kapitalforeninger eller udenlandske investeringsinstitutter.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Finanstilsynet kan for en tidsbegrænset periode dispensere fra bestemmelsen i stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 7</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om Lønmodtagernes Dyrtidsfond, jf. lovbekendt­gørelse nr. 1156 af 3. oktober 2007, som ændret bl.a. ved § 12 i lov nr. 392 af 25. maj 2009, § 10 i lov nr. 1556 af 21. december 2010 og § 234 i lov nr. 456 af 18. maj 2011 og senest ved § 15 i lov nr. 1287 af 19. december 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5 a, stk. 1, nr. 3,</Char>
+                <Char> ændres »investeringsforeninger, specialforeninger, hedgeforeninger« til: »danske UCITS, kapitalforeninger«, og efter »omfattet af« indsættes: »§ 143, stk. 1, nr. 2 og 3, i«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5 a, stk. 2,</Char>
+                <Char> ændres »investeringsforeninger, specialforeninger, hedgeforeninger« til: »danske UCITS, kapitalforeninger«, og efter »omfattet af« indsættes: »§ 143, stk. 1, nr. 2 og 3, i«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5 a</Char>
+                <Char> indsættes efter stk. 8 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forbuddet i stk. 1, nr. 3, omfatter ikke aktier, der er erhvervet ved udnyttelse af de i stk. 7 nævnte instrumenter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 9 bliver herefter stk. 10.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5 a, stk. 9,</Char>
+                <Char> der bliver stk. 10, ændres »stk. 1-8« til: »stk. 1-9«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 6 b, stk. 1, nr. 7,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>7)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Andele i afdelinger i UCITS, kapitalforeninger og udenlandske investeringsinstitutter, der svarer til kapitalforeninger, hvis kapitalforeningens eller det udenlandske investeringsinstituts vedtægter indeholder de i § 6 i, stk. 1, og § 6 j, stk. 1, anførte begrænsninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 6 d, stk. 1, nr. 4,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>4)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>aktiver omfattet af § 6 b, stk. 1, nr. 4, 6-9, 11 og 12, udstedt eller garanteret af penge- og realkreditinstitutter, forsikringsselskaber, UCITS, kapitalforeninger eller udenlandske investeringsinstitutter omfattet af § 6 b, stk. 1, nr. 7, der for hver virksomhed og afdeling af en UCITS, en kapitalforening eller et udenlandsk investeringsinstitut udgør mere end 5 pct. af Lønmodtagernes Dyrtidsfonds aktiver, må samlet højst udgøre 40 pct.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 6 e, stk. 4, 1. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1, nr. 3-5, og stk. 2 finder ikke anvendelse på investeringer i virksomheder, UCITS, kapitalforeninger og udenlandske investeringsinstitutter omfattet af § 6 b, stk. 1, nr. 7, hvis aktivitet efter vedtægterne er begrænset til at foretage investeringer i aktiver omfattet af § 6 b, stk. 1, nr. 1-3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 6 h indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 6 i.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Vedtægterne for en kapitalforening eller et udenlandsk investeringsinstitut omfattet af § 6 b, stk. 1, nr. 7, skal indeholde bestemmelser om,</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>at kapitalforeningen eller det udenlandske investeringsinstitut på en investors anmodning skal indløse investorens andel af formuen med midler, der hidrører fra formuen,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>at kapitalforeningens eller det udenlandske investeringsinstituts afdelinger hverken må stille garantier for tredjemand eller yde eller optage lån bortset fra optagelse af kortfristede lån på højst 10 pct. af formuen for at indløse investorer, for at udnytte tegningsrettigheder eller til midlertidig finansiering af indgåede handler,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>at kapitalforeningen eller det udenlandske investeringsinstitut kan investere sin formue i likvide midler, herunder valuta, eller i de finansielle instrumenter, som er nævnt i bilag 5 til lov om finansiel virksomhed, i overensstemmelse med de krav, der stilles til instrumenter og deres udstedere i kapitel 14 i lov om investeringsforeninger m.v., og</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>risikospredning, jf. § 6 j, stk. 1.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Finanstilsynet kan for en tidsbegrænset periode dispensere fra bestemmelsen i stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 6 j.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>En kapitalforening eller et udenlandsk investeringsinstitut omfattet af § 6 b, stk. 1, nr. 7, skal i sine vedtægter for hver afdeling fastsætte, at formuen enten</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan placeres i overensstemmelse med reglerne i kapitel 14 i lov om investeringsforeninger m.v.,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan investeres således, at højst 10 pct. af formuen investeres i finansielle instrumenter udstedt af samme emittent eller emittenter i samme koncern,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>fuldt ud kan investeres i obligationer udstedt af et land eller en international institution af offentlig karakter, som et land i Den Europæiske Union eller et land, som Unionen har indgået aftale med på det finansielle område, deltager i,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan investeres i</Char>
+                          </Linea>
+                        </Exitus>
+                        <Exitus>
+                          <Index>
+                            <Indentatio formaInd="Litra">
+                              <Explicatus>a)</Explicatus>
+                              <Exitus>
+                                <Linea>
+                                  <Char>obligationer udstedt af Danmarks Skibskredit A/S, realkreditobligationer udstedt af danske realkreditinstitutter og lignende realkreditobligationer udstedt af kreditinstitutter godkendt af et land inden for Den Europæiske Union eller af et land, som Unionen har indgået aftale med på det finansielle område, når en kompetent myndighed har meddelt obligationsudstedelserne og udstederne til Europa-Kommissionen, dog kan højst 30 pct. af formuen anbringes i obligationer udstedt af en enkelt emittent eller emittenter i samme koncern, eller</Char>
+                                </Linea>
+                              </Exitus>
+                            </Indentatio>
+                            <Indentatio formaInd="Litra">
+                              <Explicatus>b)</Explicatus>
+                              <Exitus>
+                                <Linea>
+                                  <Char>særligt dækkede realkreditobligationer (SDRO) og særligt dækkede obligationer (SDO) udstedt af danske pengeinstitutter eller realkreditinstitutter eller Danmarks Skibskredit A/S eller tilsvarende særligt dækkede obligationer udstedt af lignende kreditinstitutter godkendt af et land inden for Den Europæiske Union eller af et land, som Unionen har indgået aftale med på det finansielle område, når en kompetent myndighed har meddelt obligationsudstedelserne og udstederne til Europa-Kommissionen, dog kan højst 30 pct. af formuen anbringes i obligationer udstedt af en enkelt emittent eller emittenter i samme koncern,</Char>
+                                </Linea>
+                              </Exitus>
+                            </Indentatio>
+                          </Index>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>5)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>udelukkende kan investeres i pengemarkedsinstrumenter, idet højst 30 pct. af formuen kan anbringes i pengemarkedsinstrumenter udstedt af den samme emittent eller emittenter i samme koncern, dog således, at formuen fuldt ud kan investeres i pengemarkedsinstrumenter, som er udstedt af et land eller en international institution af offentlig karakter, som et eller flere medlemslande deltager i, og som er godkendt af Finanstilsynet, jf. § 147, stk. 1, nr. 4, i lov om investeringsforeninger m.v., eller</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>6)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan investeres i andele i afdelinger i UCITS, kapitalforeninger eller udenlandske investeringsinstitutter, hvis vedtægter indeholder de i § 6 i, stk. 1, anførte begrænsninger, dog således, at højst 75 pct. af formuen må anbringes i andele udstedt af en enkelt afdeling af disse UCITS, kapitalforeninger eller udenlandske investeringsinstitutter.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Finanstilsynet kan for en tidsbegrænset periode dispensere fra bestemmelsen i stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 10, stk. 1,</Char>
+                <Char> ændres »§ 5 a, stk. 3-9« til: »§ 5 a, stk. 3-10«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 8</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om arbejdsskadesikring, jf. lovbekendtgørelse nr. 278 af 14. marts 2013, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 68, stk. 1, 2. pkt.,</Char>
+                <Char> ændres »§§ 69-70 a« til: »§§ 69-70 a, 70 d og 70 e«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 69, stk. 1, nr. 7,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>7)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Andele i afdelinger i UCITS, kapitalforeninger og udenlandske investeringsinstitutter, der svarer til kapitalforeninger, hvis kapitalforeningens eller det udenlandske investeringsinstituts vedtægter indeholder de i § 70 d, stk. 1, og § 70 e, stk. 1, anførte begrænsninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 70, stk. 1, nr. 4,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>4)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Aktiver omfattet af § 69, stk. 1, nr. 4, 6-9, 11 og 12, udstedt eller garanteret af penge- og realkreditinstitutter, forsikringsselskaber, UCITS, kapitalforeninger eller udenlandske investeringsinstitutter omfattet af § 69, stk. 1, nr. 7, der for hver virksomhed og afdeling af en UCITS, en kapitalforening eller et udenlandsk investeringsinstitut udgør mere end 5 pct. af Arbejdsmarkedets Erhvervssygdomssikrings aktiver, må samlet højst udgøre 40 pct.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 70 a, stk. 4, 1. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1, nr. 3-5, og stk. 2 finder ikke anvendelse på investeringer i virksomheder, UCITS, kapitalforeninger og udenlandske investeringsinstitutter omfattet af § 69, stk. 1, nr. 7, hvis aktivitet efter vedtægterne er begrænset til at foretage investeringer i aktiver omfattet af § 69, stk. 1, nr. 1-3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 70 b</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 70 b.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Finanstilsynet kan for en tidsbegrænset periode dispensere fra § 69, § 70, stk. 1, nr. 4, og stk. 2, og § 70 a, stk. 1, nr. 2-7, og stk. 2-4.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 70 c</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 70 c.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Finanstilsynet fastsætter nærmere regler for afgrænsningen af værdipapirer, der omfattes af flere af de i § 69, stk. 1, nr. 1-12, nævnte aktivgrupper.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 70 c indsættes før overskriften før § 71:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 70 d.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Vedtægterne for en kapitalforening eller et udenlandsk investeringsinstitut omfattet af § 69, stk. 1, nr. 7, skal indeholde bestemmelser om,</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>at kapitalforeningen eller det udenlandske investeringsinstitut på en investors anmodning skal indløse investorens andel af formuen med midler, der hidrører fra formuen,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>at kapitalforeningens eller det udenlandske investeringsinstituts afdelinger hverken må stille garantier for tredjemand eller yde eller optage lån bortset fra optagelse af kortfristede lån på højst 10 pct. af formuen for at indløse investorer, for at udnytte tegningsrettigheder eller til midlertidig finansiering af indgåede handler,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>at kapitalforeningen eller det udenlandske investeringsinstitut kan investere sin formue i likvide midler, herunder valuta, eller i de finansielle instrumenter, som er nævnt i bilag 5 til lov om finansiel virksomhed, i overensstemmelse med de krav, der stilles til instrumenter og deres udstedere i kapitel 14 i lov om investeringsforeninger m.v., og</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>risikospredning, jf. § 70 e, stk. 1.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Finanstilsynet kan for en tidsbegrænset periode dispensere fra bestemmelsen i stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 70 e.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>En kapitalforening eller et udenlandsk investeringsinstitut omfattet af § 69, stk. 1, nr. 7, skal i sine vedtægter for hver afdeling fastsætte, at formuen enten</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan placeres i overensstemmelse med reglerne i kapitel 14 i lov om investeringsforeninger m.v.,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan investeres således, at højst 10 pct. af formuen investeres i finansielle instrumenter udstedt af samme emittent eller emittenter i samme koncern,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>fuldt ud kan investeres i obligationer udstedt af et land eller en international institution af offentlig karakter, som et land i Den Europæiske Union eller et land, som Unionen har indgået aftale med på det finansielle område, deltager i,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan investeres i</Char>
+                          </Linea>
+                        </Exitus>
+                        <Exitus>
+                          <Index>
+                            <Indentatio formaInd="Litra">
+                              <Explicatus>a)</Explicatus>
+                              <Exitus>
+                                <Linea>
+                                  <Char>obligationer udstedt af Danmarks Skibskredit A/S, realkreditobligationer udstedt af danske realkreditinstitutter og lignende realkreditobligationer udstedt af kreditinstitutter godkendt af et land inden for Den Europæiske Union eller af et land, som Unionen har indgået aftale med på det finansielle område, når en kompetent myndighed har meddelt obligationsudstedelserne og udstederne til Europa-Kommissionen, dog kan højst 30 pct. af formuen anbringes i obligationer udstedt af en enkelt emittent eller emittenter i samme koncern, eller</Char>
+                                </Linea>
+                              </Exitus>
+                            </Indentatio>
+                            <Indentatio formaInd="Litra">
+                              <Explicatus>b)</Explicatus>
+                              <Exitus>
+                                <Linea>
+                                  <Char>særligt dækkede realkreditobligationer (SDRO) og særligt dækkede obligationer (SDO) udstedt af danske pengeinstitutter eller realkreditinstitutter eller Danmarks Skibskredit A/S eller tilsvarende særligt dækkede obligationer udstedt af lignende kreditinstitutter godkendt af et land inden for Den Europæiske Union eller af et land, som Unionen har indgået aftale med på det finansielle område, når en kompetent myndighed har meddelt obligationsudstedelserne og udstederne til Europa-Kommissionen, dog kan højst 30 pct. af formuen anbringes i obligationer udstedt af en enkelt emittent eller emittenter i samme koncern,</Char>
+                                </Linea>
+                              </Exitus>
+                            </Indentatio>
+                          </Index>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>5)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>udelukkende kan investeres i pengemarkedsinstrumenter, idet højst 30 pct. af formuen kan anbringes i pengemarkedsinstrumenter udstedt af den samme emittent eller emittenter i samme koncern, dog således, at formuen fuldt ud kan investeres i pengemarkedsinstrumenter, som er udstedt af et land eller en international institution af offentlig karakter, som et eller flere medlemslande deltager i, og som er godkendt af Finanstilsynet, jf. § 147, stk. 1, nr. 4, i lov om investeringsforeninger m.v., eller</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>6)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>kan investeres i andele i afdelinger i UCITS, kapitalforeninger eller udenlandske investeringsinstitutter, hvis vedtægter indeholder de i § 70 d, stk. 1, anførte begrænsninger, dog således, at højst 75 pct. af formuen må anbringes i andele udstedt af en enkelt afdeling af disse UCITS, kapitalforeninger eller udenlandske investeringsinstitutter.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Finanstilsynet kan for en tidsbegrænset periode dispensere fra bestemmelsen i stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 71, stk. 1,</Char>
+                <Char> ændres »§§ 63-70 c« til: »§§ 63-70 e«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 9</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 22. juli 2013, jf. dog stk. 2 og 3.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 1-41, 49-55 og 57, træder i kraft den 22. juli 2014.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 2, nr. 6, og §§ 3-5 træder i kraft dagen efter bekendtgørelsen i Lovtidende.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 10</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Forsikringsselskaber og pensionskasser, der ved lovens ikrafttræden investerer i andele i specialforeninger, godkendte fåmandsforeninger, professionelle foreninger eller ikkegodkendte fåmandsforeninger, kan uanset § 9, stk. 1, fortsætte hermed indtil den 22. juli 2014.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Firmapensionskasser, der ved lovens ikrafttræden investerer i andele i specialforeninger, godkendte fåmandsforeninger, professionelle foreninger eller ikkegodkendte fåmandsforeninger, kan uanset § 9, stk. 1, fortsætte hermed indtil den 22. juli 2014.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Investerer Arbejdsmarkedets Tillægspension ved lovens ikrafttræden i andele i specialforeninger, godkendte fåmandsforeninger, professionelle foreninger eller ikkegodkendte fåmandsforeninger, kan Arbejdsmarkedets Tillægspension uanset § 9, stk. 1, fortsætte hermed indtil den 22. juli 2014.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Investerer Lønmodtagernes Dyrtidsfond ved lovens ikrafttræden i andele i specialforeninger, godkendte fåmandsforeninger, professionelle foreninger eller ikkegodkendte fåmandsforeninger, kan Lønmodtagernes Dyrtidsfond uanset § 9, stk. 1, fortsætte hermed indtil den 22. juli 2014.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 5.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Investerer Arbejdsmarkedets Erhvervssygdomssikring ved lovens ikrafttræden i andele i specialforeninger, godkendte fåmandsforeninger, professionelle foreninger eller ikkegodkendte fåmandsforeninger, kan Arbejdsmarkedets Erhvervssygdomssikring uanset § 9, stk. 1, fortsætte hermed indtil den 22. juli 2014.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 11</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Investeringsforvaltningsselskaber, jf. § 10 i lov om finansiel virksomhed, der ved denne lovs ikrafttræden administrerer specialforeninger, hedgeforeninger, godkendte fåmandsforeninger, professionelle foreninger, ikkegodkendte fåmandsforeninger eller andre kollektive investeringsordninger, jf. § 195 i lov om investeringsforeninger m.v., jf. lovbekendtgørelse nr. 333 af 20. marts 2013, kan fortsætte med at administrere disse foreninger m.v., indtil den 21. juli 2014, uanset om foreningerne m.v., har meddelt Finanstilsynet, at de har besluttet at bringe deres virksomhed i overensstemmelse med kapitel 23 i lov om forvaltere af alternative investeringsfonde m.v. og som følge heraf har ændret deres vedtægter på en generalforsamling, mens investeringsforvaltningsselskabet endnu ikke har søgt om tilladelse efter lov om forvaltere af alternative investeringsfonde m.v.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Investeringsforvaltningsselskaber, der er omfattet af stk. 1, skal, indtil de omhandlede specialforeninger, hed‍ge­foreninger, godkendte fåmandsforeninger og professionelle foreninger har ændret status til kapitalforeninger eller er ophørt, medregne formuen i foreningerne til investeringsforvaltningsselskabets portefølje i overensstemmelse med § 141, stk. 1, i lov om finansiel virksomhed, jf. § 1, nr. 41.</Char>
+          </Linea>
+          <Linea>
+            <Char>Endvidere skal de ved opgørelsen efter § 141, stk. 1, medregne formuen i kapitalforeninger, som de administrerer, herunder ikkegodkendte fåmandsforeninger og andre kollektive investeringsordninger, jf. § 195 i lov om investeringsforeninger m.v., jf. lovbekendtgørelse nr. 333 af 20. marts 2013.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 12</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1 og §§ 3-5 kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§§ 1-5 kan ved kongelig anordning sættes helt eller delvis i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

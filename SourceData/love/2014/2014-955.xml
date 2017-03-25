@@ -1,0 +1,989 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2013/08/13/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20140095529</AccessionNumber>
+    <DocumentId>BK001647</DocumentId>
+    <UniqueDocumentId>164542</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om krav til kvalitet og sikkerhed ved håndtering af humane væv og celler (vævsloven)</DocumentTitle>
+    <Year>2014</Year>
+    <DiesSigni>2014-08-21</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-08</EndDate>
+    <Status>Valid</Status>
+    <Number>955</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LOV nr 542 af 29/04/2015 </KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 955 af 21/08/2014</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <EuReferences>32004L0023</EuReferences>
+    <EuReferences>32001L0083</EuReferences>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20150054230</Ref_Accn>
+    <Ref_Af REFid="change_1">2015-04-29</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om ændring af sundhedsloven, lægemiddelloven og vævsloven (Automatisk kronikertilskud, lægemiddelovervågning m.v.)</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Nick Hækkerup</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Kirstine F. Hindsberger</Signature>
+    <PlaceOfSignature>Ministeriet for Sundhed og Forebyggelse</PlaceOfSignature>
+    <JournalNumber>Ministeriet for Sundhed og Forebyggelse, j.nr. 1404589</JournalNumber>
+    <Ministry>Sundheds- og Ældreministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Bekendtgørelse af lov om krav til kvalitet og sikkerhed ved håndtering af humane væv og celler (vævsloven)</Char>
+      </Linea>
+      <Nota formaNo="EU" id="Not1">
+        <Explicatus>1)</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv 2004/23/EF af 31. marts 2004 om fastsættelse af standarder for kvaliteten og sikkerheden ved donation, udtagning, testning, behandling, præservering, opbevaring og distribution af humane væv og celler (EF-Tidende 2004, nr. L 102, side 48) og dele af Europa-Parlamentets og Rådets direktiv 2001/83/EF om oprettelse af en fællesskabskodeks for humanmedicinske lægemidler (EF-Tidende 2001 nr. L 311, s.</Char>
+          </Linea>
+          <Linea>
+            <Char>67), som ændret senest ved Europa-Parlamentets og Rådets forordning (EF) nr. 1394/2007 af 13. november 2007 om lægemidler til avanceret terapi og om ændring af direktiv 2001/83/EF og forordning (EF) nr. 726/2004 (EU-Tidende 2007 nr. L 324, s.</Char>
+          </Linea>
+          <Linea>
+            <Char>121).</Char>
+          </Linea>
+        </Exitus>
+      </Nota>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Indledning>
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov nr. 273 af 1. april 2006 om krav til kvalitet og sikkerhed ved håndtering af humane væv og celler (vævsloven) med de ændringer, der følger af § 3 i lov nr. 534 af 17. juni 2008, § 2 i lov nr. 605 af 18. juni 2012, § 2 i lov nr. 653 af 12. juni 2013 og § 2 i lov nr. 1313 af 27. november 2013.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="Bog0">
+      <Afsnit id="Afs0">
+        <Kapitel id="Kap1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Lovens formål, område m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap1_X1">
+            <Paragraf id="Par1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="Par1_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Lovens formål er</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par1_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par1_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>at fastsætte ensartede og høje kvalitets- og sikkerhedskrav til håndtering af humane væv og celler, som er beregnet til anvendelse i den menneskelige organisme, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par1_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>at fremme frivillig og vederlagsfri donation af humane væv og celler med henblik på anvendelse i den menneskelige organisme.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="Par2_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder for udtagning, testning, forarbejdning, konservering, opbevaring og distribution samt import og eksport af humane væv og celler beregnet til anvendelse i den menneskelige organisme, jf. dog stk. 2 og 3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Loven gælder desuden for salg og udlevering af hospitalsfremstillede lægemidler til avanceret terapi, jf. kapitel 4 a.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For så vidt angår humane væv og celler, som indgår i industrielt fremstillede produkter, og som er omfattet af anden lovgivning, gælder alene lovens bestemmelser om udtagning og testning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven finder ikke anvendelse på:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par2_Stk3_X1">
+                    <Indentatio formaInd="Nummer" id="Par2_Stk3_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Væv og celler, der anvendes som autologt transplantat (væv og celler, der udtages og transplanteres tilbage til samme person) under samme kirurgiske indgreb.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par2_Stk3_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Blod og blodkomponenter, bortset fra stamceller, der høstes fra blod.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par2_Stk3_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Organer eller dele af organer, hvis disse er beregnet til at blive anvendt til samme formål som hele organet i den menneskelige organisme.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="Par3_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>I denne lov forstås ved:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par3_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par3_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Celler: individuelle humane celler eller en samling af humane celler, hvor cellerne ikke holdes sammen af bindevæv af nogen art.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par3_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Væv: alle bestanddele af den menneskelige organisme, som udgøres af celler.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par3_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Vævscenter: vævsbank, sygehusafdeling eller anden offentlig eller privat enhed, hvor der udføres testning, forarbejdning, konservering, opbevaring eller distribution eller foretages import eller eksport af humane væv og celler.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par3_Stk1_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udtagningssted: sygehusafdeling, sundhedsinstitution, vævscenter eller anden offentlig eller privat enhed, der er beskæftiget med udtagning af humane væv og celler</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par3_Stk1_Num5">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Alvorlig uønsket hændelse: enhver utilsigtet hændelse i forbindelse med udtagning, testning, forarbejdning, konservering, opbevaring og distribution af væv og celler, der kan medføre overførsel af overførbare sygdomme, død, en livstruende eller invaliderende tilstand eller uarbejdsdygtighed hos patienter, eller som kan udløse eller forlænge hospitalsophold eller sygdom.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par3_Stk1_Num6">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Alvorlig bivirkning: en utilsigtet komplikation, herunder en overførbar sygdom, hos donor eller modtager i forbindelse med udtagning eller anvendelse på mennesker af væv og celler, der er dødelig, livstruende eller invaliderende, som medfører uarbejdsdygtighed, eller som udløser eller forlænger hospitalsophold eller sygdom.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Genetisk sygdom hos et barn født med hjælp af sæd eller æg fra donor (anden end partner) forstås ligeledes som en alvorlig bivirkning.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Tilladelse til håndtering af væv og celler</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap2_X1">
+            <Paragraf id="Par4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="Par4_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Testning, forarbejdning, konservering, opbevaring og distribution af væv og celler må kun udføres med Sundhedsstyrelsens tilladelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="Par5_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Import og eksport af væv og celler fra og til tredjelande må kun finde sted med Sundhedsstyrelsens tilladelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="Par6_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for sundhed og forebyggelse fastsætter regler om betingelserne for at opnå og besidde tilladelser efter §§ 4 og 5.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren for sundhed og forebyggelse fastsætter endvidere regler om Sundhedsstyrelsens behandling af ansøgninger om tilladelse efter §§ 4 og 5, herunder om styrelsens adgang til at fastsætte særlige vilkår i forbindelse med udstedelsen af sådanne tilladelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="Par7_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen fastsætter regler om teknisk ledelse, faglig kompetence samt indretning og drift af vævscentre, der har tilladelse efter §§ 4 og 5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="Par8_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen kan ændre, suspendere eller tilbagekalde en tilladelse meddelt efter §§ 4 eller 5, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par8_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par8_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>betingelserne for tilladelsen eller de vilkår, der er fastsat herfor, ikke overholdes,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par8_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>§ 13, stk. 1, § 15, stk. 1, 1. pkt., eller bestemmelser fastsat i medfør af §§ 6 eller 7 ikke overholdes, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par8_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>vævscenteret ikke vil medvirke ved Sundhedsstyrelsens kontrol efter § 14.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En afgørelse efter stk. 1 kan af den, afgørelsen vedrører, forlanges indbragt for domstolene.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anmodning herom skal være modtaget hos Sundhedsstyrelsen senest 4 uger efter, at styrelsens afgørelse er meddelt den pågældende.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Anmodning om domstolsprøvelse har ikke opsættende virkning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="Par9_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen kan forbyde distribution af specifikke væv og celler samt pålægge et vævscenter at trække sådanne væv og celler tilbage fra distributionsleddet, hvis</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par9_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par9_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>donorudvælgelse, udtagning, testning, forarbejdning, konservering, opbevaring eller distribution af vævet og cellerne ikke foregår på en betryggende måde,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par9_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>der indtræffer eller opstår mistanke om alvorlige uønskede hændelser, som kan have indflydelse på vævets og cellernes kvalitet og sikkerhed,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par9_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>der konstateres eller opstår mistanke om alvorlige bivirkninger, der kan have forbindelse med vævets og cellernes kvalitet og sikkerhed, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par9_Stk1_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Sundhedsstyrelsen i henhold til § 8, stk. 1, ændrer, suspenderer eller tilbagekalder en tilladelse meddelt efter §§ 4 eller 5.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par9_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen kan fastsætte regler om proceduren for tilbagetrækning af væv og celler i de i stk. 1 nævnte situationer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Distribution, import og eksport af væv og celler i særlige tilfælde</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap3_X1">
+            <Paragraf id="Par10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="Par10_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen kan godkende, at der i særlige tilfælde og uanset bestemmelserne i §§ 4 og 5 sker distribution, import og eksport af specifikke væv og celler direkte fra udtagningsstedet til modtageren med henblik på omgående transplantation eller varetagelse af andre tvingende behandlingsbehov.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen kan efter forhandling med Sundhedsstyrelsen fastsætte regler herom.</Char>
+                  </Linea>
+                  <Nota id="Par10_Stk1_Not2">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Vævslovens § 10, 2. pkt., lød oprindeligt således: ”</Char>
+                        <Char formaChar="Italic">Lægemiddelstyrelsen kan efter forhandling med Sundhedsstyrelsen fastsætte regler herom</Char>
+                        <Char>”.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>Bestemmelsen, der som følge af sammenlægningen af Lægemiddelstyrelsen og Sundhedsstyrelsen til én styrelse – Sundhedsstyrelsen – pr. 1. marts 2012 ikke længere giver mening, vil blive ændret ved en kommende ændring af vævsloven, således at det blot fremgår af bestemmelsen, at Sundhedsstyrelsen kan fastsætte regler herom.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Nota>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Udtagning og testning af væv og celler</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap4_X1">
+            <Paragraf id="Par11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="Par11_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen fastsætter regler om:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par11_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par11_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Krav til risikovurdering og udvælgelse af donorer af væv og celler, herunder krav til testning og evaluering.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par11_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Krav til udtagningssteders procedurer for udtagning af væv og celler, herunder for indhentelse af donors samtykke, donoridentifikation og personalets faglige kvalifikationer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par11_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Krav til anonymisering af alle oplysninger, der er indsamlet efter regler, der er udstedt i medfør af denne lov, og som tredjemand vil kunne få adgang til.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap4a">
+          <Explicatus>Kapitel 4 a</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Salg og udlevering af hospitalsfremstillede lægemidler til avanceret terapi</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap4a_X1">
+            <Paragraf id="Par11a">
+              <Explicatus>§ 11 a.</Explicatus>
+              <Stk id="Par11a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Lægemidler til avanceret terapi, der fremstilles på et hospital i Danmark specielt tilpasset en bestemt patient efter individuel anvisning af en læge, jf. lægemiddellovens § 4 a, må kun sælges eller udleveres til brug for patientbehandling, når Sundhedsstyrelsen har udstedt en udleveringstilladelse til den behandlende læge.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par11a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen kan knytte vilkår til tilladelsen og kan tilbagekalde tilladelsen, hvis disse vilkår ikke overholdes eller der optræder alvorlige problemer med lægemidlets kvalitet, sikkerhed eller virkning, herunder alvorlige bivirkninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Sporbarhed</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap5_X1">
+            <Paragraf id="Par12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="Par12_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Vævscentre og udtagningssteder skal anvende et donoridentifikationssystem og opbevare de oplysninger, dokumenter og materialer, som er nødvendige for at sikre sporbarheden af væv og celler i alle faser fra donation til distribution til modtageren.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen fastsætter regler herom.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen fastsætter endvidere regler om krav til emballering og mærkning af væv og celler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Indberetning af hændelser og bivirkninger</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap6_X1">
+            <Paragraf id="Par13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="Par13_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Vævscentre og udtagningssteder skal til relevante vævscentre og Sundhedsstyrelsen indberette oplysninger om alvorlige uønskede hændelser og alvorlige bivirkninger, der kan have indflydelse på eller forbindelse med vævs og cellers kvalitet og sikkerhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par13_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedspersoner, der anvender væv og celler som led i patientbehandling eller i forbindelse med kliniske forsøg på mennesker, skal til relevante vævscentre og Sundhedsstyrelsen indberette oplysninger om alvorlige bivirkninger indtruffet under eller efter den kliniske anvendelse, der kan have forbindelse med vævs og cellers kvalitet og sikkerhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par13_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedspersoner skal til relevante vævscentre og Sundhedsstyrelsen indberette genetisk sygdom hos et barn født med hjælp af sæd eller æg fra en donor som en alvorlig bivirkning, når sundhedspersonen har barnet i behandling og får kendskab til, at barnet er født ved hjælp af sæd eller æg fra en donor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par13_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedspersoner skal til relevante vævscentre og Sundhedsstyrelsen indberette genetisk sygdom hos en donor af sæd eller æg som en alvorlig uønsket hændelse, når sundhedspersonen har en person i behandling og får kendskab til, at den pågældende har doneret sæd eller æg.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par13_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Modtagere af væv og celler og disses pårørende kan til Sundhedsstyrelsen indberette oplysninger om alvorlige bivirkninger indtruffet under eller efter den kliniske anvendelse, der kan have forbindelse med vævs og cellers kvalitet og sikkerhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par13_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen fastsætter regler om indberetninger efter stk. 1-5 og om vævscentres, udtagningssteders og sundhedspersoners registrering, håndtering og behandling af oplysninger om alvorlige uønskede hændelser og alvorlige bivirkninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par13_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vævscentre og udtagningssteder sikrer, at behandling af oplysninger som nævnt i § 7, stk. 1, i lov om behandling af personoplysninger, der kan henføres til bestemte fysiske personer, og som finder sted i forbindelse med håndtering af indberetninger om alvorlige uønskede hændelser og alvorlige bivirkninger, foretages af en sundhedsperson eller en anden person, som er undergivet en lovbestemt tavshedspligt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap7">
+          <Explicatus>Kapitel 7</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Kontrolvirksomhed</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap7_X1">
+            <Paragraf id="Par14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="Par14_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen fører kontrol med overholdelsen af bestemmelser fastsat i denne lov og i regler fastsat i medfør af loven om:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par14_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par14_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udtagning, testning, forarbejdning, konservering, opbevaring og distribution af væv og celler.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par14_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Import og eksport af væv og celler.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par14_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Salg eller udlevering af hospitalsfremstillede lægemidler til avanceret terapi.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par14_Stk1_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Registrering, behandling og indberetning af oplysninger om alvorlige uønskede hændelser og bivirkninger.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par14_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsens repræsentanter har mod behørig legitimation og uden retskendelse adgang til samtlige lokaliteter, hvori der udføres de i stk. 1 nævnte aktiviteter.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen kan udtage stikprøver og kræve alle oplysninger, som er nødvendige for kontrolvirksomheden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par14_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for sundhed og forebyggelse fastsætter regler om Sundhedsstyrelsens udførelse af kontrolvirksomhed efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap8">
+          <Explicatus>Kapitel 8</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Registerførelse og videregivelse af oplysninger</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap8_X1">
+            <Paragraf id="Par15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="Par15_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Vævscentre fører register over deres aktiviteter og udarbejder årligt en redegørelse herom til Sundhedsstyrelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen fastsætter nærmere regler om vævscentrenes registerførelse og udarbejdelse af årlige aktivitetsredegørelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par15_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen offentliggør årligt en rapport om vævscentrenes aktiviteter på baggrund af de i stk. 1 nævnte redegørelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="Par16_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen fører register over vævscentre og andre offentlige eller private enheder, der har opnået tilladelse i henhold til §§ 4 eller 5 eller godkendelse efter § 10, med oplysninger om de aktiviteter, der må udføres i henhold til den enkelte tilladelse eller godkendelse samt eventuelle vilkår herfor.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par16_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen gør det i stk. 1 nævnte register tilgængeligt for offentligheden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="Par17_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen fører register over oplysninger om alvorlige uønskede hændelser og alvorlige bivirkninger, som er indberettet i medfør af § 13, stk. 1-5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for sundhed og forebyggelse fastsætter regler om Sundhedsstyrelsens behandling af indberettede oplysninger om alvorlige uønskede hændelser og bivirkninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="Par18_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen kan til Europa-Kommissionen og kompetente myndigheder i andre berørte lande videregive oplysninger om alvorlige uønskede hændelser og bivirkninger indberettet i henhold til § 13 og udført kontrolvirksomhed, jf. § 14.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par18_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for sundhed og forebyggelse kan fastsætte regler om den i stk. 1 nævnte videregivelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap9">
+          <Explicatus>Kapitel 9</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Kvalitetsstandarder for væv og celler</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap9_X1">
+            <Paragraf id="Par19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="Par19_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Sundhedsstyrelsen kan i form af standarder i en farmakopé el.lign.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>fastsætte regler om vævs og cellers kvalitet, herunder om kvaliteten af råvarer, mellemprodukter og det færdige præparat.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap10">
+          <Explicatus>Kapitel 10</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Gebyrer</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap10_X1">
+            <Paragraf id="Par20">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="Par20_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for sundhed og forebyggelse kan fastsætte regler om betaling for Sundhedsstyrelsens virksomhed i medfør af denne lov og i medfør af regler fastsat i medfør af loven, herunder</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par20_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par20_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>gebyr for behandling af ansøgninger om tilladelse til at foretage testning, forarbejdning, konservering, opbevaring og distribution samt import og eksport af væv og celler og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par20_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>gebyr for udførelse af kontrol med vævscentre.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par20_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Betaling i medfør af regler fastsat i medfør af stk. 1 kan inddrives ved udpantning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap10a">
+          <Explicatus>Kapitel 10 a</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Kundgørelse</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap10a_X1">
+            <Paragraf id="Par20a">
+              <Explicatus>§ 20 a.</Explicatus>
+              <Stk id="Par20a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for sundhed og forebyggelse kan fastsætte regler om, at standarder for humane væv og cellers kvalitet og for fremstilling, kontrol og opbevaring af disse, som der henvises til i regler udstedt af Sundhedsstyrelsen i medfør af denne lov, ikke indføres i Lovtidende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par20a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for sundhed og forebyggelse kan fastsætte regler om, hvordan Sundhedsstyrelsen oplyser om indholdet af de regler, som styrelsen har udstedt, jf. stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par20a_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for sundhed og forebyggelse kan fastsætte regler om, at forskrifter og tekniske specifikationer, som ikke indføres i Lovtidende, jf. stk. 1, skal være gældende, selv om de ikke foreligger på dansk.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap11">
+          <Explicatus>Kapitel 11</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Straf, ikrafttræden m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap11_X1">
+            <Paragraf id="Par21">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="Par21_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde den, der</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par21_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par21_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>overtræder § 4, § 5, § 11 a, stk.1, § 12, 1. pkt., § 13, stk. 1-4 og 7, og § 15, stk. 1, 1. pkt.,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par21_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilsidesætter vilkår, der er fastsat i en tilladelse eller godkendelse i medfør af loven eller regler, der er fastsat i medfør af loven,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par21_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>undlader at efterkomme forbud eller påbud, der er meddelt efter § 9, stk. 1, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par21_Stk1_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>nægter Sundhedsstyrelsens repræsentanter adgang i medfør af § 14, stk. 2, 1. pkt.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par21_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I regler, der udstedes i medfør af loven, kan der fastsættes straf af bøde for overtrædelse af bestemmelser i reglerne, medmindre højere straf er forskyldt efter anden lovgivning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par21_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par22">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="Par22_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 7. april 2006.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par22_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For så vidt angår vævscentre, der er etableret før den i stk. 1 nævnte dato, har lovens bestemmelser, hvorved der fastsættes krav til udførelsen af de i §§ 4 eller 5 nævnte aktiviteter, først virkning fra den 7. april 2007.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par23">
+              <Explicatus>§ 23.</Explicatus>
+              <Stk id="Par23_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Vævscentre, der udfører de i §§ 4 eller 5 nævnte aktiviteter, skal senest den 30. juni 2006 give Sundhedsstyrelsen meddelelse herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De i § 22, stk. 2, nævnte vævscentre, der ønsker at fortsætte deres aktiviteter efter den 7. april 2007, skal senest den 1. oktober 2006 indgive ansøgning til Sundhedsstyrelsen om tilladelse i henhold til §§ 4 eller 5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par24">
+              <Explicatus>§ 24.</Explicatus>
+              <Stk id="Par24_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

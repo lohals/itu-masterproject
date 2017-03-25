@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2013/08/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20130163230</AccessionNumber>
+    <DocumentId>CB000193</DocumentId>
+    <UniqueDocumentId>161062</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om social service\n(Rådgivning og handleplaner til voksne udsat for æresrelaterede konflikter)</DocumentTitle>
+    <Year>2013</Year>
+    <DiesSigni>2013-12-26</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-11-26</EndDate>
+    <Status>Historic</Status>
+    <Number>1632</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 254 af 20/03/2014</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1632 af 26/12/2013</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2014-03-21</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Annette Vilhelmsen</Signature>
+    <PlaceOfSignature>Givet på Marselisborg Slot</PlaceOfSignature>
+    <JournalNumber>Social-, Børne- og Integrationsmin., j.nr. 2012-5048</JournalNumber>
+    <Ministry>Social- og Indenrigsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om social service</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Rådgivning og handleplaner til voksne udsat for æresrelaterede konflikter)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om social service, jf. lovbekendtgørelse nr. 1093 af 5. september 2013, som ændret ved § 1 i lov nr. 495 af 21. maj 2013, § 8 i lov nr. 622 af 12. juni 2013 og § 1 i lov nr. 651 af 12. juni 2013, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 12 indsættes i </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">kapitel 3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <ParagrafGruppe>
+                <Rubrica>
+                  <Linea>
+                    <Char>Voksne udsat for æresrelaterede konflikter</Char>
+                  </Linea>
+                </Rubrica>
+                <Paragraf>
+                  <Explicatus>§ 12 a.</Explicatus>
+                  <Stk>
+                    <Exitus>
+                      <Linea>
+                        <Char>Kommunalbestyrelsen skal sørge for, at personer over 18 år, der henvender sig på grund af æresrelaterede konflikter, får mulighed for at få gratis rådgivning i henhold til § 10.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 2.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Skønner kommunalbestyrelsen, at der er behov for det, skal personer over 18 år, der risikerer at blive eller er udsat for en alvorlig æresrelateret konflikt, tilbydes en handleplan.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 3.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Handleplanen skal indeholde</Char>
+                      </Linea>
+                    </Exitus>
+                    <Exitus>
+                      <Index>
+                        <Indentatio formaInd="Nummer">
+                          <Explicatus>1)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>en risikovurdering for den pågældende borger,</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio formaInd="Nummer">
+                          <Explicatus>2)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>oplysninger om borgerens aktuelle situation, herunder relevante forhold vedrørende bopæl, arbejde, uddannelse og forholdet til pårørende,</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio formaInd="Nummer">
+                          <Explicatus>3)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>overvejelser om eventuelle relevante støttemuligheder i forhold til bopæl, arbejde og uddannelse samt formålet hermed og</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio formaInd="Nummer">
+                          <Explicatus>4)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>overvejelser om eventuelle relevante støttemuligheder efter denne lov eller efter anden lovgivning og formålet hermed.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                      </Index>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 4.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Handleplanen skal udarbejdes i samarbejde med borgeren.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                </Paragraf>
+              </ParagrafGruppe>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2014.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven finder anvendelse for borgere, der henvender sig til kommunen med æresrelaterede konflikter efter lovens ikrafttræden.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

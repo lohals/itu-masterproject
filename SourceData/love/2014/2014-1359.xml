@@ -1,0 +1,646 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2014/09/26/LOVH.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV H#LOKDOK01</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20140135930</AccessionNumber>
+    <DocumentId>BP001090</DocumentId>
+    <UniqueDocumentId>166390</UniqueDocumentId>
+    <DocumentTitle>Lov om dansk turisme</DocumentTitle>
+    <Year>2014</Year>
+    <DiesSigni>2014-12-16</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-04-15</EndDate>
+    <Status>Valid</Status>
+    <Number>1359</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 348 af 14/04/2016</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1359 af 16/12/2014</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Henrik Sass Larsen</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Erhvervs- og Vækstministeriet, j.nr. 14/07510</JournalNumber>
+    <Ministry>Erhvervs- og Vækstministeriet</Ministry>
+    <AdministrativeAuthority>Erhvervs- og Vækstministeriet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om dansk turisme</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <Bog id="Bog0">
+      <Afsnit id="Afs0">
+        <Kapitel id="Kap1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Det Nationale Turismeforum</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap1_X1">
+            <Rubrica>
+              <Linea>
+                <Char>Formål m.v.</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="Par1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="Par1_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren opretter Det Nationale Turismeforum.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="Par2_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Det Nationale Turismeforum har til formål at styre og koordinere den offentlige turismefremmeindsats i Danmark.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="Par3_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Til fremme af det formål, der er nævnt i § 2, varetager Det Nationale Turismeforum følgende opgaver:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par3_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par3_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udarbejdelse af en national strategi for dansk turisme, som skal fastlægge de centrale prioriteter og mål for dansk turisme.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par3_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Indsamling af viden om turisme og igangsættelse og udarbejdelse af analyser, herunder en større årlig analyse af udviklingen i dansk turisme.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par3_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udarbejdelse af en årlig rapport til erhvervs- og vækstministeren.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par3_Stk1_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Koordinering af den offentlige turismefremmeindsats med udgangspunkt i den nationale strategi for dansk turisme.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det Nationale Turismeforum skal følge udmøntningen af den nationale strategi for dansk turisme.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det Nationale Turismeforum sekretariatsbetjenes af Erhvervs- og Vækstministeriet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren kan henlægge varetagelsen af andre opgaver til Det Nationale Turismeforum.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe id="Kap1_X2">
+            <Rubrica>
+              <Linea>
+                <Char>Ledelsesmæssige forhold</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="Par4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="Par4_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Det Nationale Turismeforum består af 1 formand og 7 andre medlemmer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Formanden og medlemmerne udpeges af erhvervs- og vækstministeren for en periode på 4 år.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De pågældende kan genudpeges en gang.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det Nationale Turismeforum består ud over formanden af:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par4_Stk2_X1">
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Bestyrelsesformanden i Visitdenmark.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>2 medlemmer, hvoraf et er næstformand, som udpeges efter indstilling fra Danske Regioner.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem, som udpeges efter indstilling fra KL.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>2 medlemmer fra erhvervslivet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk2_Num5">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem, som er turismeforsker.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Dansk Turismes Advisoryboard</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap2_X1">
+            <Rubrica>
+              <Linea>
+                <Char>Formål m.v.</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="Par5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="Par5_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren opretter et Dansk Turismes Advisoryboard, som har til formål at rådgive Det Nationale Turismeforum.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+          <ParagrafGruppe id="Kap2_X2">
+            <Rubrica>
+              <Linea>
+                <Char>Ledelsesmæssige forhold</Char>
+              </Linea>
+            </Rubrica>
+            <Paragraf id="Par6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="Par6_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Dansk Turismes Advisoryboard består af 1 formand, 17 andre medlemmer og 2 observatører.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Formanden, medlemmerne og observatørerne udpeges af erhvervs- og vækstministeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par6_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Dansk Turismes Advisoryboard består ud over formanden af:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par6_Stk2_X1">
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem, som udpeges efter indstilling fra DI.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem, som udpeges efter indstilling fra Dansk Erhverv.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem, som udpeges efter indstilling fra HORESTA.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>3 medlemmer, som udpeges efter indstilling fra de organisationer i Turisterhvervets Samarbejdsforum, som ikke i forvejen repræsenteres i advisoryboardet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num5">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem, som udpeges efter indstilling fra Landsorganisationen i Danmark (LO).</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num6">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem, som udpeges efter indstilling fra Friluftsrådet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num7">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem, som udpeges efter indstilling fra Fagligt Fælles Forbund - 3F.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num8">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem, som udpeges efter indstilling fra Dansk Turismefremme.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num9">
+                      <Explicatus>9)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem, som udpeges efter indstilling fra Danske Destinationer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num10">
+                      <Explicatus>10)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem, som udpeges efter indstilling fra Organisationen Danske Museer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num11">
+                      <Explicatus>11)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem, som udpeges efter indstilling fra Danske Havne.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num12">
+                      <Explicatus>12)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem, som udpeges efter indstilling fra Danske Handicaporganisationer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num13">
+                      <Explicatus>13)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem, som udpeges efter indstilling fra Ministeriet for By, Bolig og Landdistrikter.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num14">
+                      <Explicatus>14)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem, som udpeges efter indstilling fra Miljøministeriet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num15">
+                      <Explicatus>15)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem, som udpeges efter indstilling fra Kulturministeriet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num16">
+                      <Explicatus>16)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 observatør, som udpeges efter indstilling fra Danske Regioner.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par6_Stk2_Num17">
+                      <Explicatus>17)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 observatør, som udpeges efter indstilling fra KL.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par6_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Medlemmerne i Dansk Turismes Advisoryboard udpeges for en periode på 4 år.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De pågældende kan genudpeges en gang.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par6_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Dansk Turismes Advisoryboard sekretariatsbetjenes af Erhvervs- og Vækstministeriet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Regionale udviklingsselskaber for turisme</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap3_X1">
+            <Paragraf id="Par7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="Par7_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Regionerne opretter udviklingsselskaberne Dansk Kyst- og Naturturisme og Dansk Erhvervs- og Mødeturisme.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par7_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udviklingsselskabet Dansk Storbyturisme forankres i fonden Wonderful Copenhagen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="Par8_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>De regionale udviklingsselskaber for turisme har til opgave at udvikle dansk turisme inden for kyst- og naturturismen, erhvervs- og mødeturismen samt storbyturismen med udgangspunkt i den nationale strategi for dansk turisme.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udviklingsselskaberne skal efter høring af Det Nationale Turismeforum udarbejde udviklingsstrategier for hvert af de tre områder, der er nævnt i stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De regionale udviklingsselskaber for turisme, der er nævnt i § 7, skal årligt aflægge rapport om selskabernes status for udmøntningen af deres udviklingsstrategier til Det Nationale Turismeforum.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og Vækstministeriet har en bestyrelsespost i Dansk Kyst- og Naturturisme og i Dansk Erhvervs- og Mødeturisme.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Dansk Kyst- og Naturturisme, Dansk Erhvervs- og Mødeturisme og Dansk Storbyturisme kan indstille i alt 2 medlemmer til Visitdenmarks bestyrelse efter høring af den rådgivende nomineringskomité, jf. § 5, stk. 2, i lov om Visitdenmark.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Samarbejde, koordinering og adgang til oplysninger</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap4_X1">
+            <Paragraf id="Par9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="Par9_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Regioner, kommuner og regionale udviklingsselskaber for turisme og kommunale udviklingsselskaber, der iværksætter erhvervsudviklingsaktiviteter i henhold til § 9, stk. 1, nr. 5, og § 13, stk. 1, nr. 5, i lov om erhvervsfremme og regional udvikling, skal, hvor der er offentlig medfinansiering, forudgående koordinere alle væsentlige aktiviteter vedrørende international markedsføring af danske turismeprodukter og -oplevelser samt branding af Danmark som turistmål med Visitdenmark, jf. dog stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par9_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Erhvervs- og vækstministeren kan fastsætte regler om undtagelser fra stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="Par10_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>De regionale udviklingsselskaber for turisme skal indgå aftaler med Visitdenmark om samarbejdet mellem den regionale turismeudviklingsindsats og den internationale markedsføring af Danmark.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="Par11_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Det Nationale Turismeforum kan anvende offentlig ekspertise inden for turismeområdet, herunder rekvirere eksisterende oplysninger om dansk turisme fra Visitdenmark, de regionale udviklingsselskaber for turisme og de kommunale destinationsselskaber m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Ikrafttræden m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap5_X1">
+            <Paragraf id="Par12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="Par12_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. januar 2015.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="Par13_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>I lov om erhvervsfremme og regional udvikling, jf. lovbekendtgørelse nr. 1715 af 16. december 2010, som ændret ved § 18 i lov nr. 1231 af 18. december 2012, § 1 i lov nr. 80 af 28. januar 2014 og lov nr. 313 af 29. marts 2014, foretages følgende ændring:</Char>
+                  </Linea>
+                </Exitus>
+                <AendringsNummer id="Par13_Stk1_Anu1">
+                  <Explicatus>1.</Explicatus>
+                  <Aendring id="Par13_Stk1_Anu1_X1">
+                    <AendringDefinition id="Par13_Stk1_Anu1_X2">
+                      <Exitus>
+                        <Linea>
+                          <Char formaChar="Italic" signiChar="AendringURN">§§ 9 a</Char>
+                          <Char> og </Char>
+                          <Char formaChar="Italic" signiChar="AendringURN">13 a</Char>
+                          <Char> ophæves.</Char>
+                        </Linea>
+                      </Exitus>
+                    </AendringDefinition>
+                    <AendringAktion punktumEfterSlutcitationstegn="False" id="Par13_Stk1_Anu1_X3">
+                      <AendringNyTekst id="Par13_Stk1_Anu1_X4" />
+                    </AendringAktion>
+                  </Aendring>
+                </AendringsNummer>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Territorial gyldighed</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap6_X1">
+            <Paragraf id="Par14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="Par14_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

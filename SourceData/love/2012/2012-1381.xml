@@ -1,0 +1,962 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2012/09/21/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20120138130</AccessionNumber>
+    <DocumentId>BE005349</DocumentId>
+    <UniqueDocumentId>144933</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om Forebyggelsesfonden\n(Ændring og udvidelse af fondens formål m.v.)</DocumentTitle>
+    <Year>2012</Year>
+    <DiesSigni>2012-12-23</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2014-09-26</EndDate>
+    <Status>Historic</Status>
+    <Number>1381</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1022 af 23/09/2014</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1381 af 23/12/2012</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2014-09-25</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Mette Frederiksen</Signature>
+    <PlaceOfSignature>Givet på Marselisborg Slot</PlaceOfSignature>
+    <JournalNumber>Beskæftigelsesmin., \nStyrelsen for Fastholdelse og Rekruttering, j.nr. 2012-6</JournalNumber>
+    <Ministry>Beskæftigelsesministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om Forebyggelsesfonden</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Ændring og udvidelse af fondens formål m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 87 af 30. januar 2007 om Forebyggelsesfonden, som ændret ved lov nr. 345 af 5. maj 2009 og lov nr. 430 af 28. april 2010, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Lovens </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">titel</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <Titel>
+                <Linea>
+                  <Char>Lov om Fonden for Forebyggelse og Fastholdelse</Char>
+                </Linea>
+              </Titel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Overskriften til </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">kapitel 1</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <Kapitel>
+                <Explicatus>Kapitel 1</Explicatus>
+                <Rubrica>
+                  <Linea>
+                    <Char>Fondens formål</Char>
+                  </Linea>
+                </Rubrica>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 1</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 1.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Fonden for Forebyggelse og Fastholdelse er et uafhængigt organ inden for den statslige forvaltning.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 2.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Fondens midler anvendes til formålene forebyggelse, fastholdelse og inklusion på arbejdsmarkedet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 3</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 3.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Der kan ydes støtte til følgende indsatser:</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Indsatser, der forebygger fysisk og psykisk nedslidning og arbejdsulykker og erhvervssygdomme.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Indsatser, der bidrager til at fastholde seniorer samt medarbejdere med nedsat arbejdsevne eller bidrager til hurtig tilbagevenden til arbejdsmarkedet efter sygdom.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Indsatser, der bidrager til inklusion på arbejdsmarkedet.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Beskæftigelsesministeren fastsætter rammer for eller regler om fordeling, anvendelse og prioritering af fondens midler og fordeling og prioritering af fondens opgaver.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4 a</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5</Char>
+                <Char> ændres »projekter« til: »indsatser«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5 a</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>10.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 6</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>11.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 8</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 8.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Fonden afholder de nødvendige udgifter til sekretariatsbetjening og øvrige administrative udgifter samt eventuelle udgifter til honorering af bestyrelsens formand og medlemmer.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>12.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 10</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 10.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Bestyrelsen for Fonden for Forebyggelse og Fastholdelse udpeges af beskæftigelsesministeren og består af 1 formand og følgende andre medlemmer:</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>1 medlem indstillet af Landsorganisationen i Danmark og 1 medlem fra et medlemsforbund efter indstilling fra Landsorganisationen i Danmark.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>1 medlem indstillet af FTF (Funktionærernes og Tjenestemændenes Fællesråd).</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>1 medlem indstillet af Akademikernes Centralorganisation.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>1 medlem indstillet af Dansk Arbejdsgiverforening.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>5)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>1 medlem indstillet af Lederne.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>6)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>1 medlem indstillet af Danske Regioner.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>7)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>1 medlem indstillet af KL (Kommunernes Landsforening).</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>8)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>1 medlem indstillet af Danske Handicaporganisationer.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Beskæftigelsesministeren udpeger tilforordnede til bestyrelsen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>De tilforordnede har ikke stemmeret.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Beskæftigelsesministeren udpeger bestyrelsens medlemmer og formand for en periode af op til 4 år.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Bestyrelsens medlemmer og formand kan genudpeges.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Hvis formanden eller et medlem af bestyrelsen udtræder af bestyrelsen før udløbet af perioden, jf. 1. pkt., kan beskæftigelsesministeren udpege en afløser for den resterende del af perioden.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Bestyrelsen udarbejder en forretningsorden, som skal godkendes af beskæftigelsesministeren.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>13.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§§ 11</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">12</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>14.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 13</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 13.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Bestyrelsen er beslutningsdygtig, når mindst halvdelen af medlemmerne er til stede.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Alle beslutninger i bestyrelsen træffes ved simpelt flertal blandt de fremmødte.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>I tilfælde af stemmelighed er formandens stemme afgørende.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Bestyrelsen kan bemyndige formanden og sekretariatet til at træffe afgørelser på bestyrelsens vegne i et nærmere bestemt omfang.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>15.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 14</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 14.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Bestyrelsen kan udmelde særlige indsatsområder inden for rammerne af de midler, som fonden administrerer i medfør af regler eller rammer fastsat efter § 3, stk. 2.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Bestyrelsen udarbejder en årlig beretning, som offentliggøres senest den 1. maj.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Bestyrelsen skal tillige på anden vis udbrede kendskabet til fondens virke og resultatet af de indsatser, aktiviteter, projekter m.v., som fonden har tildelt midler.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Bestyrelsen fastsætter kriterier for tildeling af de midler, som fonden administrerer, og bevilger på baggrund af kriterierne støtte efter ansøgning.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>16.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 15</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>17.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 16</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 16.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>I forbindelse med varetagelsen af sine opgaver kan bestyrelsen rådføre sig med relevante myndigheder og eksperter.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>18.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§§ 17-19</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>19.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Overskriften før § 20 ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>20.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§§ 20-22</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>21.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 23</Char>
+                <Char> udgår »og i de faglige rådgivende udvalg«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>22.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 24</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 24.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Sekretariatet fastsætter retningslinjer om ansøgningers indhold og form samt retningslinjer for udbetalinger.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Sekretariatet påser, at de fastsatte retningslinjer er overholdt.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ansøgninger og tilbud, der ikke opfylder formkravene, afvises af sekretariatet.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Sekretariatet giver tilsagn om støtte til godkendte ansøgninger og forestår udbetaling af støtte.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>23.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 24 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Kapitel>
+                <Explicatus>Kapitel 4 a</Explicatus>
+                <ParagrafGruppe>
+                  <Paragraf>
+                    <Explicatus>§ 24 a.</Explicatus>
+                    <Stk>
+                      <Exitus>
+                        <Linea>
+                          <Char>Direktøren for Fonden for Forebyggelse og Fastholdelse kan indhente oplysninger til brug for administrationen af denne lov fra lønmodtagere og arbejdsgivere og disses organisationer, andre offentlige myndigheder, arbejdsløshedskasser, Lønmodtagernes Garantifond og Arbejdsmarkedets Tillægspension</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus>
+                        <Index>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>1)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>om konkret angivne personers ansættelse hos en arbejdsgiver,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>2)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>om, hos hvilke arbejdsgivere en konkret angivet person har været ansat,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>3)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>om, i hvilke perioder en konkret angivet person har holdt ferie,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>4)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>om, hvornår en konkret angivet person er ophørt hos en arbejdsgiver,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>5)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>om, i hvilken periode og i hvilket omfang en konkret angivet person har været beskæftiget,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>6)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>om, hvilken løn der er udbetalt til en konkret angivet person,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>7)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>om, hvilke offentlige ydelser der er udbetalt til en konkret angivet person, og</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>8)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>om meddelelser af betydning for udbetaling og kontrol med udbetalinger fra fonden.</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Direktøren for Fonden for Forebyggelse og Fastholdelse kan til brug for administrationen af denne lov få terminaladgang til oplysninger i indkomstregisteret, jf. § 7 i lov om et indkomstregister, og til oplysninger i Det Fælles Datagrundlag, jf. lov om ansvaret for og styringen af den aktive beskæftigelsesindsats.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Stk. 2 omfatter alle oplysninger om indkomst, løn- og ansættelsesperiode, ansættelsesbetingelser og ferie m.v. til brug for udbetalings- og kontrolopgaver, herunder oplysninger om identiteten af henholdsvis arbejdsgiver og lønmodtager.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Der kan ske samkøring og sammenstilling af oplysninger for at kontrollere, at udbetalinger fra fonden sker i henhold til loven og regler, der er udstedt i medfør af loven.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 4.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Beskæftigelsesministeren fastsætter, i det omfang det er påkrævet, regler om indhentning af oplysninger efter denne bestemmelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>24.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Overskriften før § 25 ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>25.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§§ 25-30</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>26.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 31, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Sekretariatet fører tilsyn med anvendelsen af de midler, fonden administrerer og bevilger.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>27.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 34, stk. 2,</Char>
+                <Char> ændres »§ 30, stk. 1« til: »§ 24, stk. 2«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2013, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af denne lovs § 1, nr. 5, 6, 9 og 22, og § 14, stk. 4, i lov om Fonden for Forebyggelse og Fastholdelse som affattet ved denne lovs § 1, nr. 15.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

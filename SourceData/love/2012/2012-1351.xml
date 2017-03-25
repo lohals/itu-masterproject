@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2012/09/21/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20120135130</AccessionNumber>
+    <DocumentId>AH004799</DocumentId>
+    <UniqueDocumentId>144862</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om forbud mod slagtning og aflivning af drægtige produktionsdyr og heste i den sidste tiendedel af drægtighedsperioden\n(Ophævelse af krav om særskilt aflivning af fostre i forbindelse med slagtning)</DocumentTitle>
+    <Year>2012</Year>
+    <DiesSigni>2012-12-21</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-06</EndDate>
+    <Status>Historic</Status>
+    <Number>1351</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 258 af 08/03/2013</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1351 af 21/12/2012</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2013-03-14</DateOfHistoricMark>
+    <Subject>aflivning</Subject>
+    <Subject>drægtighedsperiode</Subject>
+    <Subject>fostre</Subject>
+    <Subject>heste</Subject>
+    <Subject>produktionsdyr</Subject>
+    <Subject>slagtesvin</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Mette Gjerskov</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Fødevaremin.\nFødevarestyrelsen, j.nr. 2012-15-2301-01051</JournalNumber>
+    <Ministry>Miljø- og Fødevareministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om forbud mod slagtning og aflivning af drægtige produktionsdyr og heste i den sidste tiendedel af drægtighedsperioden</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Ophævelse af krav om særskilt aflivning af fostre i forbindelse med slagtning)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 269 af 21. april 2004 om forbud mod slagtning og aflivning af drægtige produktionsdyr og heste i den sidste tiendedel af drægtighedsperioden foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, stk. 2-4,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Slagtning i medfør af stk. 1 skal udføres af en dyrlæge eller af en person under dennes tilsyn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for fødevarer, landbrug og fiskeri kan fastsætte nærmere regler om håndtering af fostre i forbindelse med slagtning af drægtige produktionsdyr og heste i den sidste tiendedel af drægtighedsperioden, jf. stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2013.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

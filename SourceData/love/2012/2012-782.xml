@@ -1,0 +1,2205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2012/03/12/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20120078229</AccessionNumber>
+    <DocumentId>BQ000035</DocumentId>
+    <UniqueDocumentId>142785</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om folkekirkens økonomi</DocumentTitle>
+    <Year>2012</Year>
+    <DiesSigni>2012-07-06</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2014-07-02</EndDate>
+    <Status>Historic</Status>
+    <Number>782</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LOV nr 1250 af 18/12/2012 </KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 298 af 14/03/2013</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 782 af 06/07/2012</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2013-03-21</DateOfHistoricMark>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20120125030</Ref_Accn>
+    <Ref_Af REFid="change_1">2012-12-18</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om ændring af lov om ansættelse i stillinger i folkekirken m.v. og lov om folkekirkens økonomi\n(Ændret procedure ved besættelse af provstestillinger, høringsret til provstiudvalget ved besættelse af stillinger som provst, udvidelse af provstiudvalgets sammensætning og ændring af provstiudvalgets valg- og funktionsperiode)</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Manu Sareen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Christina Hyldgaard Jacobsen</Signature>
+    <PlaceOfSignature>Ministeriet for Ligestilling og Kirke</PlaceOfSignature>
+    <JournalNumber>Ministeriet for Ligestilling og Kirke, j.nr. 70899/12</JournalNumber>
+    <Ministry>Kirkeministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Bekendtgørelse af lov om folkekirkens økonomi</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Indledning>
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om folkekirkens økonomi, jf. lovbekendtgørelse nr. 1352 af 5. december 2010, med de ændringer, der følger af lov nr. 455 af 25. maj 2012.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="Bog0">
+      <Afsnit id="Afs0">
+        <Kapitel id="Kap1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Kirkekassen</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap1_X1">
+            <Paragraf id="Par1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="Par1_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved hvert menighedsråd oprettes en kirkekasse, der bestyres af menighedsrådet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="Par2_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Menighedsrådet kan af kirkekassen afholde udgifter vedrørende</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par2_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>sognets kirkelige virksomhed,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>sognets begravelsesvæsen,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>indtægtsdækket virksomhed, som udøves i tilknytning til sognets kirkelige virksomhed og begravelsesvæsen, jf. nr. 1 og 2,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>fremme af det kirkelige liv i provstiet,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num5">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>kirkelige formål af betydning for stiftet som helhed,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num6">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>den kirkelig betjening af folkekirkens medlemmer i udlandet, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num7">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>personregistrering</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke kan fastsætte nærmere regler om menighedsrådets afholdelse af udgifter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par2a">
+              <Explicatus>§ 2 a.</Explicatus>
+              <Stk id="Par2a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par2b">
+              <Explicatus>§ 2 b.</Explicatus>
+              <Stk id="Par2b_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Til fremme af menighedsarbejdet forvalter menighedsrådet gennem kirkekassen, hvad der indkommer ved indsamlinger i kirken.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Nærmere regler herom fastsættes af ministeren for ligestilling og kirke.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="Par3_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Kirkekassen oppebærer indtægter, herunder renter, udbytte m.v., af kirkens kapitaler samt betaling for brug af kirke og kirkegård.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Renter, udbytte m.v. af kirkens kapitaler samt leje- og driftsindtægter for præsteembedets faste ejendomme indgår i kirkekassen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par3_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den del af kirkens udgifter, der ikke kan afholdes af de i stk.1 og 2 nævnte indtægter, dækkes gennem ligning på folkekirkens medlemmer i kommunen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap1a">
+          <Explicatus>Kapitel 1 a</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Budgetlægning for kirkekasserne</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap1a_X1">
+            <Paragraf id="Par4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="Par4_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Provstiudvalget fastsætter foreløbige driftsrammer for kirkekasserne i provstiet og meddeler disse til menighedsrådene.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Provstiudvalget kan ved den foreløbige rammefastsættelse reservere et beløb til prioritering i forbindelse med fastlæggelse af de endelige driftsrammer og anlægsbevillinger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Menighedsrådene udarbejder på baggrund af de foreløbige driftsrammer budgetbidrag vedrørende driftsrammen samt eventuelle ønsker om yderligere driftsudgifter og bevillinger til anlæg.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Budgetbidraget skal indeholde angivelse af de stillinger, som budgettet omfatter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvor der er flere menighedsråd i et pastorat, udarbejdes budgetbidraget og eventuelle ønsker om yderligere driftsudgifter og bevillinger til anlæg for præsteembedets faste ejendomme på et fællesmøde mellem menighedsrådene.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Menighedsrådene indhenter til brug for fællesmødet en udtalelse fra præstegårdsudvalget.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>På fællesmødet træffes beslutning om budgetbidraget for præsteembedets faste ejendomme ved stemmeflertal.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Budgetbidrag m.v. som nævnt i stk. 2 og 3 indsendes til provstiudvalget inden en af provstiudvalget fastsat frist.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="Par5_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Provstiudvalget indkalder en eller to repræsentanter for hvert menighedsråd i provstiet til budgetsamråd.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis provstiet består af to eller flere kommuner eller dele af flere kommuner, afholdes budgetsamrådet dog særskilt for sognene i den enkelte kommune.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der kan afholdes flere budgetsamråd.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Budgetsamrådet er offentligt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bekendtgørelse om afholdelse af budgetsamrådet sker efter provstiudvalgets bestemmelse på en måde, der sikrer, at offentligheden bliver bekendt med afholdelsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I bekendtgørelsen angives, hvilke emner der skal behandles på budgetsamrådet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Budgetsamrådet har ikke besluttende myndighed, jf. dog stk. 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Menighedsrådene kan på det første budgetsamrådsmøde efter nyvalg til menighedsråd beslutte at flytte kompetence fra provstiudvalget til budgetsamrådet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beslutningen er bindende for menighedsrådenes funktionsperiode.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Provstiudvalgets og budgetsamrådets kompetencer fastlægges i en vedtægt.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Budgetsamrådet kan overtage provstiudvalgets kompetence til at:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par5_Stk4_X1">
+                    <Indentatio formaInd="Nummer" id="Par5_Stk4_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Fastsætte de overordnede målsætninger for udgifter og ligning set i et flerårigt perspektiv, jf. § 6, stk. 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par5_Stk4_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Fastsætte de i § 7, stk. 1-2, nævnte rammer og bevillinger.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par5_Stk4_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Fastsætte det i § 7 a, stk. 1-2, nævnte ligningsbeløb til kommunens kirkekasser, medmindre dette fastsættes af et budgetudvalg, jf. § 17 c.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Ved det besluttende budgetsamråds fastsættelse af ligningsbeløbet finder § 7, stk. 5, 2. pkt., tilsvarende anvendelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Budgetsamrådet kan beslutte, at personalenormeringen fastlægges af provstiudvalget og i så fald fastlægge retningslinier for personalenormering.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beslutningen træffes på det første budgetsamrådsmøde efter nyvalg til menighedsråd og er bindende for menighedsrådenes funktionsperiode.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Budgetsamrådet kan beslutte at iværksætte samarbejde efter § 43 a, stk. 1, i lov om menighedsråd.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når der på budgetsamrådet træffes beslutning om en ændret kompetencefordeling, jf. stk. 4-5, eller om etablering af samarbejde, jf. stk. 6, vægtes det enkelte menighedsråds stemme i forhold til antal af valgte medlemmer i det enkelte råd, og beslutningen træffes ved kvalificeret flertal på 2/3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Et samarbejde med provstiet som ramme, jf. stk. 6, ophører, hvis der på et efterfølgende budgetsamråd ikke er et kvalificeret flertal som nævnt i 1. pkt. for at fortsætte samarbejdet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved øvrige beslutninger vægtes stemmerne også som nævnt i 1. pkt., og beslutninger træffes ved stemmeflertal.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk8">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke kan fastsætte nærmere regler om afholdelse af budgetsamråd.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="Par6_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>På budgetsamrådet belyses de økonomiske forhold i provstiet, ligesom målsætninger for udgifter og ligning set i et flerårigt perspektiv skal drøftes.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Endvidere skal menighedsrådenes ønsker om nye større udgiftskrævende opgaver drøftes.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den i 2. pkt. nævnte drøftelse skal ske med udgangspunkt i de fremsendte budgetbidrag, jf. § 4, stk. 2–3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par6_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>På baggrund af den i stk. 1, 1. pkt., nævnte drøftelse fastsætter provstiudvalget de overordnede målsætninger for udgifter og ligning set i et flerårigt perspektiv.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="Par7_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Efter budgetsamrådet fastsætter provstiudvalget rammebevilling for kirkekassens driftsudgifter og bevilling for kirkekassens anlægsudgifter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par7_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Provstiudvalget fastsætter rammebevillingen for driftsudgifter og bevilling for anlægsudgifter for præsteembedets faste ejendomme, hvor der er flere menighedsråd.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par7_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Menighedsrådet fastsætter inden for den af provstiudvalget fastsatte rammebevilling og bevilling til anlægsudgifter, jf. stk. 1 og 2, budgettet for det kommende regnskabsår.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par7_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Menighedsrådene fastsætter budgettet inden for den rammebevilling og bevillingen til anlægsudgifter for præsteembedets faste ejendomme, som provstiudvalget har fastsat, jf. stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Menighedsrådene indhenter til brug for fællesmødet en udtalelse fra præstegårdsudvalget.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>På fællesmødet træffes beslutning om budgetbidraget for præsteembedets faste ejendomme ved stemmeflertal.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par7_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke kan fastsætte nærmere regler om proceduren for fastsættelse af rammer som nævnt i stk. 1 og 2 og om fastsættelse og indsendelse til provstiudvalget af budgetter for kirkekasserne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke kan ikke fastsætte regler om størrelsen af kirkekassernes udgifter eller om kirkeskattens størrelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par7a">
+              <Explicatus>§ 7 a.</Explicatus>
+              <Stk id="Par7a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ligningsbeløbet til kommunens kirkekasser fastsættes af provstiudvalget, jf. dog § 5, stk. 4, og §§ 17 c–17 d.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par7a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Provstiudvalget har ved ligningsbeløbets fastsættelse adgang til at afsætte midler til en reserve på op til 5 % af ligningsbeløbet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved forbrug af reserven har provstiudvalget det følgende år mulighed for at forhøje ligningen med henblik på reservens reetablering.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Reserven kan anvendes til dækning af uforudsete udgifter i ligningsområdet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Provstiudvalget kan af reserven yde et likviditetslån med en løbetid på maksimalt 12 måneder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Provstiudvalget fastsætter betingelserne for likviditetslånet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par7b">
+              <Explicatus>§ 7 b.</Explicatus>
+              <Stk id="Par7b_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Provstiudvalget påser, at kirkekassernes budget for det kommende regnskabsår er i overensstemmelse med de af provstiudvalget fastsatte rammer og bevillinger, jf. § 7, stk. 1 og 2, ligesom provstiudvalget foretager legalitetskontrol af budgetterne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="Par8_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Regnskabsåret for kirkekassen er kalenderåret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="Par9_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Menighedsrådet aflægger årligt regnskab for kirkekassen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke fastsætter nærmere regler om regnskabets aflæggelse, om revision og om provstiudvalgets godkendelse af regnskabet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par9_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Provstiudvalget kan tillade og under særlige omstændigheder bestemme, at der skal benyttes regnskabskyndig bistand til tilrettelæggelse og aflæggelse af kirkekassens regnskab samt til foretagelse af kasseeftersyn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap1b">
+          <Explicatus>Kapitel 1 b</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Stiftsøvrighedens sammensætning</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap1b_X1">
+            <Paragraf id="Par9a">
+              <Explicatus>§ 9 a.</Explicatus>
+              <Stk id="Par9a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Stiftsøvrigheden består af stiftets biskop og stiftamtmanden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par9a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stiftsøvrighederne sammensættes på følgende måde:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par9a_Stk2_X1">
+                    <Indentatio formaInd="Nummer" id="Par9a_Stk2_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Stiftsøvrigheden over Københavns Stift består af biskoppen over Københavns Stift og direktøren for Statsforvaltningen Hovedstaden.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par9a_Stk2_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Stiftsøvrigheden over Helsingør Stift består af biskoppen over Helsingør Stift og direktøren for Statsforvaltningen Hovedstaden.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par9a_Stk2_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Stiftsøvrigheden over Roskilde Stift består af biskoppen over Roskilde Stift og direktøren for Statsforvaltningen Sjælland.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par9a_Stk2_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Stiftsøvrigheden over Lolland-Falsters Stift består af biskoppen over Lolland-Falsters Stift og direktøren for Statsforvaltningen Sjælland.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par9a_Stk2_Num5">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Stiftsøvrigheden over Fyens Stift består af biskoppen over Fyens Stift og direktøren for Statsforvaltningen Syddanmark.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par9a_Stk2_Num6">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Stiftsøvrigheden over Aalborg Stift består af biskoppen over Aalborg Stift og direktøren for Statsforvaltningen Nordjylland.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par9a_Stk2_Num7">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Stiftsøvrigheden over Viborg Stift består af biskoppen over Viborg Stift og direktøren for Statsforvaltningen Nordjylland.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par9a_Stk2_Num8">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Stiftsøvrigheden over Århus Stift består af biskoppen over Århus Stift og direktøren for Statsforvaltningen Midtjylland.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par9a_Stk2_Num9">
+                      <Explicatus>9)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Stiftsøvrigheden over Ribe Stift består af biskoppen over Ribe Stift og direktøren for Statsforvaltningen Midtjylland.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par9a_Stk2_Num10">
+                      <Explicatus>10)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Stiftsøvrigheden over Haderslev Stift består af biskoppen over Haderslev Stift og direktøren for Statsforvaltningen Syddanmark.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Fællesfonden</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap2_X1">
+            <Paragraf id="Par10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="Par10_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Fællesfonden er folkekirkens fælleskasse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Fællesfonden bestyres af stiftsøvrighederne og af et administrativt fællesskab efter bestemmelser fastsat af ministeren for ligestilling og kirke og under ansvar over for ministeren for ligestilling og kirke.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="Par11_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Af fællesfonden afholdes folkekirkens udgifter, for så vidt de ikke er omfattet af § 2, § 17 g, stk. 3-6, eller § 20, herunder:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par11_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par11_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Løn, godtgørelse m.v. til præster og provster.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par11_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udgifter vedrørende stiftsadministrationerne, herunder pensioner til tidligere tjenestemandsansatte medarbejdere.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par11_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Pensioner til tidligere tjenestemandsansatte kirkefunktionærer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par11_Stk1_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udgifter til folkekirkens fælles IT-løsninger.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par11_Stk1_Num5">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Tilskud efter ministeren for ligestilling og kirkes bestemmelse til hel eller delvis dækning af udgifter til uddannelse af ansatte i folkekirken og af personer, der ønsker sådan ansættelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par11_Stk1_Num6">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Tilskud efter ministeren for ligestilling og kirkes bestemmelse til hel eller delvis dækning af udgifter til særlige menigheder.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par11_Stk1_Num7">
+                      <Explicatus>7)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udgifter til revision af de lokale kirkelige kasser.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par11_Stk1_Num8">
+                      <Explicatus>8)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udligning, jf. § 13, stk. 1.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par11_Stk1_Num9">
+                      <Explicatus>9)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Generelt tilskud, jf. § 13, stk. 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par11_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Af fællesfonden kan endvidere afholdes udgifter, der vedrører lokale kirkelige aktiviteter, herunder:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par11_Stk2_X1">
+                    <Indentatio formaInd="Nummer" id="Par11_Stk2_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Forsikrings- og skadesudgifter.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par11_Stk2_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udgifter til de særlige sagkyndige, der er nævnt i lov om folkekirkens kirkebygninger og kirkegårde § 8, stk. 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par11_Stk2_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udgifter til det særlige syn, der er nævnt i lov om folkekirkens kirkebygninger og kirkegårde § 33.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par11_Stk2_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udgifter til den sagkyndige medvirken og registrering, der er nævnt i lov om folkekirkens kirkebygninger og kirkegårde § 21, stk. 2 og 3.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par11_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For udgifter efter stk. 2 kan fællesfonden efter ministeren for ligestilling og kirkes bestemmelse opkræve hel eller delvis refusion fra kirke- eller provstiudvalgskassen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par11_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I refusion efter stk. 3 af skadesudgifter, jf. stk. 2, nr. 1, kan ministeren for ligestilling og kirke beslutte at indregne en henlæggelse, dog således at den samlede henlæggelse ikke kan udgøre et større beløb end den gennemsnitlige årlige skadesudgift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="Par12_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke fastsætter nærmere regler om folkekirkens deltagelse i mellemkirkeligt arbejde, herunder om finansiering af et centralt mellemkirkeligt råds virksomhed af fællesfonden, for så vidt denne virksomhed ikke dækkes af bevillinger på finansloven.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Et centralt mellemkirkeligt råd kan have repræsentanter for kirken i Grønland.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Endvidere kan ministeren fastsætte regler om finansiering af lokalt mellemkirkeligt arbejde af kirkekassen, jf. § 2, stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par12a">
+              <Explicatus>§ 12 a.</Explicatus>
+              <Stk id="Par12a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="Par13_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan efter ministeren for ligestilling og kirkes bestemmelse af fællesfonden ydes et udligningstilskud til nedsættelse af det kirkelige ligningsbeløb i kommunen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det samlede beløb, der anvendes på denne måde, må ikke overstige 120 mio. kr. Beløbet reguleres en gang årligt fra og med 2007 efter pris- og lønudviklingen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke fastsætter bestemmelser om, hvordan beløbet fordeles blandt kommunerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par13_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan efter ministeren for ligestilling og kirkes bestemmelse ydes et generelt tilskud til nedsættelse af det kirkelige ligningsbeløb i kommunen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beløbet fordeles mellem kommunerne efter samme principper, som anvendes ved fordeling af landskirkeskatten, jf. § 15, stk. 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="Par14_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Fællesfonden oppebærer pensionsbidrag fra kirkekasserne for tjenestemandsansatte kirkefunktionærer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Pensionsbidraget fastsættes af ministeren for ligestilling og kirke.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par14_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Fællesfonden kan oppebære refusioner af udgifter, der er afholdt af fællesfonden, men vedrører lokale kirkelige aktiviteter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par14_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Fællesfonden kan oppebære leje- og driftsindtægter vedrørende fællesfondens aktiviteter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par14_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den del af fællesfondens udgifter, der ikke kan afholdes af indtægterne efter stk. 1-3 eller af tilskud fra statskassen, jf. § 20, stk. 2, dækkes gennem en landskirkeskat, der pålignes folkekirkens medlemmer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par14a">
+              <Explicatus>§ 14 a.</Explicatus>
+              <Stk id="Par14a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Fællesfonden kan optage lån til investeringsformål.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Fællesfonden kan i øvrigt ved kassekredit eller lignende optage lån på højst 100 mio. kr.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par14a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Fællesfonden kan optage lån til finansiering af skadesudgifter, der ligger ud over det på fællesfondens budget fastsatte beløb til skadeserstatninger, inden for en ramme på 500 mio. kr.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="Par15_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Myndigheder og institutioner, der helt eller delvist finansieres af fællesfonden, indsender forslag til budget for deres indtægter og udgifter på fællesfonden i det følgende regnskabsår.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Forslagene indsendes til ministeren for ligestilling og kirke inden en af denne fastsat frist.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par15_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke fastsætter fællesfondens budget.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der kan ikke budgetteres med samlede udgifter, der er større end indtægterne fra landskirkeskatten, andre indtægter samt eventuelt videreført overskud fra tidligere år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par15_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Landskirkeskattens størrelse fastsættes af ministeren for ligestilling og kirke.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par15_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Landskirkeskattens fordeling mellem kommunerne sker på grundlag af de skattepligtige indkomster i kommunerne for det på fordelingstidspunktet nærmest forudgående indkomstår for de i kildeskattelovens § 1 omhandlede skattepligtige personer, således som disse indkomster er opgjort med henblik på beregning af slutskat.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved fordelingen ses bort fra indkomster, som vedrører medlemmer af en valgmenighed og personer, der ikke hører til folkekirken.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="Par16_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Fællesfondens regnskabsår er kalenderåret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="Par17_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke aflægger regnskab for fællesfonden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke fastsætter regler om fællesfondens regnskabsvæsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved reglernes fastsættelse kan ministeren for ligestilling og kirke ud over at tage hensyn til sikkerhed og orden inden for regnskabsområdet tage hensyn til mulighederne for at tilvejebringe oplysninger til brug for økonomisk planlægning, styring og kontrol.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stiftsøvrighederne, det i § 10 nævnte administrative fællesskab samt de institutioner, der helt eller delvist finansieres af fællesfonden, meddeler ministeren for ligestilling og kirke de oplysninger og tilvejebringer det regnskabsmæssige materiale, som ministeren for ligestilling og kirke finder nødvendigt for at aflægge fællesfondens regnskab.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Regnskabet revideres af rigsrevisionen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap2a">
+          <Explicatus>Kapitel 2 a</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Provstiudvalg og budgetudvalg</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap2a_X1">
+            <Paragraf id="Par17a">
+              <Explicatus>§ 17 a.</Explicatus>
+              <Stk id="Par17a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>I hvert provsti vælges et provstiudvalg, der består af provsten og 4 til 6 valgte medlemmer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Valgret til provstiudvalg har medlemmerne af provstiets menighedsråd.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Præster i pastorater, der omfatter flere menighedsrådskredse i samme provsti, har kun én stemme og kan selv vælge, i hvilket menighedsråd de vil afgive stemme.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Omfatter pastoratet menighedsrådskredse i mere end ét provsti, har præsten en stemme i hvert provsti.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>En repræsentant i et menighedsråd for en valgmenighed har stemmeret ved valget, jf. § 4 i lov om menighedsråd.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17a_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Valgbar er enhver, der opfylder betingelserne for at kunne vælges til medlem af et menighedsråd i provstiet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17a_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ordinært valg til provstiudvalg skal foretages inden udgangen af marts måned i året efter, at ordinært valg til menighedsråd har fundet sted.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Valget gælder fra 1. april, og funktionsperioden er 4 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par17b">
+              <Explicatus>§ 17 b.</Explicatus>
+              <Stk id="Par17b_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Provstiudvalget vælger af sin midte en formand og en næstformand.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Valget sker ved skriftlig afstemning på udvalgets konstituerende møde, som provsten indkalder til.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Valget har virkning for udvalgets funktionsperiode.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Medlemmerne af udvalget har pligt til at modtage valg som formand og næstformand.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17b_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>På det første provstiudvalgsmøde efter nyvalg afgiver de menighedsrepræsentanter, som ikke tidligere har afgivet en erklæring som foreskrevet i § 7 i lov om menighedsråd, en sådan erklæring.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17b_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Provstiudvalget kan beslutte at tillægge formanden honorar.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Honorar kan dog kun tillægges formanden, såfremt denne er valgt medlem af provstiudvalget.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke kan fastsætte nærmere regler om formandshonoraret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17b_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Provstiudvalgets beslutninger træffes i møder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Provstiudvalget er beslutningsdygtigt, når mindst halvdelen af medlemmerne er til stede.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beslutninger træffes ved stemmeflertal.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17b_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Provsten virker som udvalgets forretningsførende medlem og drager omsorg for udførelsen af udvalgets beslutninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17b_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Provstiudvalgets møder er offentlige.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Provstiudvalget kan bestemme, at en sag skal behandles for lukkede døre, når dette findes nødvendigt eller ønskeligt på grund af sagens beskaffenhed.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Spørgsmålet om, hvorvidt en sag giver grundlag for dørlukning, forhandles for lukkede døre, hvis det bestemmes af provstiudvalget eller formanden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Provstiudvalget kan tillade personer, der er ansat af provstiudvalget, at overvære behandlingen af sager for lukkede døre.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Provstiudvalget kan tilkalde andre personer til at overvære en sags behandling for lukkede døre, når det er ønskeligt af hensyn til sagens oplysning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17b_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Provstiudvalget fastsætter selv sin forretningsorden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Er der uenighed i provstiudvalget om forretningsgangen, kan spørgsmål herom forelægges biskoppen til afgørelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17b_Stk8">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De i lov om menighedsråd § 46, stk. 1, nævnte regler om annullation og suspension af beslutninger finder tilsvarende anvendelse over for et provstiudvalgs beslutninger, der strider mod lovgivningen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Endvidere finder de i lov om menighedsråd § 46, stk. 2-5, og § 48 nævnte regler om pålæggelse af tvangsbøder i forbindelse med ulovlige undladelser, anlæggelse af erstatningssager ved domstolene, frafald af erstatningsanlæg mod betaling af erstatningsretlig bod samt nedsættelse eller helt bortfald af en erstatning tilsvarende anvendelse over for medlemmer af provstiudvalg, der er ansvarlige for en undladelse eller for, at en kirkekasse eller provstiudvalgskassen er påført et tab.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17b_Stk9">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stiftsøvrighedens afgørelser efter stk. 8, 1. pkt., kan af provstiudvalget indbringes for ministeren for ligestilling og kirke.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Stiftsøvrighedens afgørelser efter stk. 8, 2. pkt., kan af de pågældende medlemmer af provstiudvalget indbringes for ministeren for ligestilling og kirke.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par17c">
+              <Explicatus>§ 17 c.</Explicatus>
+              <Stk id="Par17c_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Der skal nedsættes budgetudvalg hvis:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par17c_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par17c_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>kommunen omfatter to eller flere provstier, der hver har 50 % eller mere af deres folkekirkemedlemmer inden for kommunen, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par17c_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>kommunen omfatter to eller flere provstier, hvoraf mindst ét har mere end 20 %, men mindre end 50 % af deres folkekirkemedlemmer inden for kommunen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17c_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Budgetudvalget, jf. stk. 1, nr. 1, består af provsterne som fødte medlemmer og lige mange valgte medlemmer fra hvert provstiudvalg.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17c_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Budgetudvalget, jf. stk. 1, nr. 2, består af provsterne og mindst et valgt medlem fra hvert provsti eller del af et provsti.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det mindste provsti eller del af et provsti har mindst et valgt medlem, mens øvrige provstier er repræsenteret proportionalt hermed i forhold til antallet af folkekirkemedlemmer i provstiets sogne i kommunen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det enkelte provstiudvalg kan dog ikke have flere valgte medlemmer end antallet af valgte medlemmer i pågældende provstiudvalg.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17c_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det konkrete antal medlemmer fra hvert provstiudvalg fastsættes i budgetudvalgets forretningsorden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De valgte medlemmer udpeges af provstiudvalgene i forbindelse med disses konstituering.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17c_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En af provsterne udpeges som forretningsfører og drager omsorg for udførelsen af budgetudvalgets beslutninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17c_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bestemmelserne i § 17 b, stk. 1, stk. 3, 4 og stk. 6-9, finder tilsvarende anvendelse for budgetudvalgene.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17c_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis der i kommunen er sogne eller dele af sogne, som ikke ligger i de provstier, der er repræsenteret i budgetudvalget, har disse sognes provstiudvalg adgang til at sende en repræsentant til budgetudvalgets møder.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Repræsentanten har tale- og forslagsret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17c_Stk8">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Budgetudvalget fastsætter det samlede ligningsbeløb til kommunens kirkekasser og til provstiudvalgskasserne samt ligningsbeløbets fordeling mellem provstierne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par17d">
+              <Explicatus>§ 17 d.</Explicatus>
+              <Stk id="Par17d_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>I kommuner, der omfatter flere provstier eller dele af flere provstier, og hvor der ikke skal nedsættes budgetudvalg i medfør af § 17 c, fastsættes det samlede ligningsbeløb til kommunens kirkekasser og fordelingen mellem de enkelte kirkelige kasser af provstiudvalget for det provsti, hvor flest af kommunens folkekirkemedlemmer bor.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dette provsti benævnes ligningsprovstiet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Budgetsamrådet i ligningsprovstiet kan i medfør af § 5, stk. 4, beslutte at overtage den i 1. pkt. nævnte kompetence fra ligningsprovstiet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17d_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De menighedsråd i kommunen, som ikke ligger i ligningsprovstiet, har ret til at deltage i budgetsamrådet i ligningsprovstiet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Disse menighedsråd har samme rettigheder og pligter ved budgetsamrådets drøftelser og eventuelle beslutninger om målsætninger for udgifter og ligning, fastsættelse af driftsrammer, anlægsbevillinger og ligningsbeløb i ligningsområdet som ligningsprovstiets menighedsråd.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par17e">
+              <Explicatus>§ 17 e.</Explicatus>
+              <Stk id="Par17e_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>I en kommune, der består af to provstier, kan ministeren for ligestilling og kirke godkende, at der i stedet for to provstiudvalg og et budgetudvalg vælges ét fælles provstiudvalg for provstierne i kommunen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Provstiudvalget består af provsterne og 4 til 6 valgte medlemmer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Medlemmerne vælges for provstierne under ét.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17e_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En af provsterne udpeges som forretningsfører og drager omsorg for udførelsen af udvalgets beslutninger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17e_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det fælles provstiudvalg varetager samtlige opgaver, der er henlagt til provstiudvalg.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par17f">
+              <Explicatus>§ 17 f.</Explicatus>
+              <Stk id="Par17f_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke kan fastsætte nærmere regler om valg til provstiudvalg, budgetudvalgets sammensætning samt om provstiudvalgets og budgetudvalgets virksomhed.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par17g">
+              <Explicatus>§ 17 g.</Explicatus>
+              <Stk id="Par17g_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ved hvert provstiudvalg oprettes en provstiudvalgskasse, der bestyres af provstiudvalget.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17g_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udgifterne til valg af provstiudvalgene og til disses møder, herunder honorar til formanden, befordringsgodtgørelse og diæter til de valgte medlemmer samt udvalgenes udgifter til medhjælp, kontorartikler m.v., udredes af provstiudvalgskassen efter ministeren for ligestilling og kirkes nærmere bestemmelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17g_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udgifter til særlige revisionsarbejder vedrørende de lokale kirkelige kasser ud over dem, der dækkes efter § 11, stk. 1, nr. 7, udredes af provstiudvalgskassen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17g_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udgifter til samarbejde, jf. § 43 a i lov om menighedsråd, udredes af provstiudvalgskassen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17g_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udgifter til provstiudvalgsmedlemmers deltagelse i kurser m.v., der må anses af betydning for udøvelsen af hvervet som provstiudvalgsmedlem, afholdes af provstiudvalgskassen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der vil endvidere efter ministeren for ligestilling og kirkes bestemmelse af provstiudvalgskassen kunne ydes valgte provstiudvalgsmedlemmer erstatning for dokumenteret tabt arbejdsfortjeneste i forbindelse med deltagelse i sådanne kurser m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17g_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udgifter til budgetudvalgets virksomhed afholdes af de deltagende provstiudvalg.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17g_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskud til krematoriedrift i og uden for provstiet kan ydes af provstiudvalgskassen efter ministeren for ligestilling og kirkes nærmere bestemmelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par17h">
+              <Explicatus>§ 17 h.</Explicatus>
+              <Stk id="Par17h_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Provstiudvalgskassens udgifter dækkes gennem ligning på folkekirkens medlemmer i kommunen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Omfatter provstiet flere kommuner eller dele af flere kommuner, dækkes udgifter til provstiudvalgskassen gennem ligning på folkekirkens medlemmer i kommunerne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17h_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Provstiudvalget udarbejder årligt budget over provstiudvalgskassens indtægter og udgifter for det kommende regnskabsår.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17h_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ligningsbeløbet til provstiudvalgskassen fastsættes af provstiudvalget, jf. dog § 17 c, stk. 8.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17h_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke kan fastsætte nærmere regler om udarbejdelse af budget for provstiudvalgskassen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17h_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Regnskabsåret for provstiudvalgskassen er kalenderåret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17h_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Provstiudvalget aflægger årligt regnskab for provstiudvalgskassen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke fastsætter nærmere regler om regnskabernes aflæggelse, om revision og om stiftsøvrighedens godkendelse af regnskaberne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Almindelige bestemmelser om den kirkelige ligning</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap3_X1">
+            <Paragraf id="Par18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="Par18_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ligningsbeløbet til kirkekasserne og provstiudvalgskasserne samt landskirkeskat pålignes folkekirkens medlemmer under ét efter samme regler, hvorefter kommunal indkomstskat svares til vedkommende kommune, dog at den kirkelige ligningsprocent fastsættes med 2 decimaler.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bestemmelserne i lov om kommunal indkomstskat om fordeling af kommunal indkomstskat mellem kommunerne finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par18_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Påligningen sker under ét for kommunen, uanset om denne omfatter flere sogne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par18_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved ligningen bortset fra medlemmer af valgmenigheder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par18_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En person fritages for kirkelige afgifter, når det dokumenteres, at den pågældende under ophold i udlandet har forpligtet sig til at yde bidrag af mindst samme størrelse til en derværende menighed under Dansk Kirke i Udlandet eller Dansk Sømandskirke i fremmede Havne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke kan fastsætte nærmere regler herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par18_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Omfatter et sogn dele af forskellige kommuner, deles sognets ligningsbeløb imellem dem i samme forhold som det, hvori de svarer landskirkeskat, medmindre andet fastsættes af ministeren for ligestilling og kirke.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>På samme måde forholdes med ligningsbeløbet til provstiudvalgskassen, for så vidt provstiet omfatter flere kommuner.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="Par19_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Landskirkeskatten udbetales til det i § 10 nævnte administrative fællesskab og udbetales herfra til stiftsøvrighederne og de institutioner, der helt eller delvist finansieres af fællesfonden.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ligningsbeløb til kirkekasserne bortset fra beløb til imødegåelse af uforudsete udgifter, jf. § 7 a, stk. 2, udbetales til vedkommende menighedsråd.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ligningsbeløb til provstiudvalgskassen og beløb til imødegåelse af uforudsete udgifter, jf. § 7 a, stk. 2, udbetales til vedkommende provstiudvalg.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par19_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et beløb, der står tilbage på mellemregningskontoen ved regnskabsårets slutning, anvendes af kommunalbestyrelsen til nedbringelse af det følgende års ligning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par19_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen kan med provstiudvalgets tilslutning yde et menighedsråd eller provstiudvalget forskud på ligningsbeløbet for det nærmest følgende regnskabsår.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Statstilskud</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap4_X1">
+            <Paragraf id="Par20">
+              <Explicatus>§ 20.</Explicatus>
+              <Stk id="Par20_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Af folkekirkens udgifter afholder statskassen:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par20_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par20_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Lønninger, pensioner og andre ydelser til biskopperne.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par20_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Pensioner og efterindtægt i henhold til lov om tjenestemandspension vedrørende provster og præster.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par20_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udgifterne ved den kirkelige betjening af Christiansø og Hirsholmene.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par20_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Statskassen yder endvidere et årligt tilskud til fællesfonden på 40 pct. af fællesfondens udgifter til lønninger til præster og provster svarende til 1.892,8 årsværk.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Præstestillinger herudover finansieres fuldt ud af fællesfonden i henhold til § 11, stk. 1, nr. 1, eller lokalt i henhold til § 2, stk. 1, nr. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par20_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Endvidere udreder statskassen tilskud, hvis størrelse fastsættes på finansloven, dog mindst 14 mill.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>kr. årligt, til restaurering af kirker og af kirkers historiske inventar samt særligt bevaringsværdige gravminder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Folkekirkens kapitaler</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap5_X1">
+            <Paragraf id="Par21">
+              <Explicatus>§ 21.</Explicatus>
+              <Stk id="Par21_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Menighedsrådet bestyrer kirkens og præsteembedernes faste ejendomme efter bestemmelser fastsat af ministeren for ligestilling og kirke.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par21_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke fastsætter nærmere regler om brug, indretning og vedligeholdelse af præsteembedernes faste ejendomme m.v. og om afholdelse af syn over dem.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Stiftsøvrighederne udpeger bygningskonsulenter vedrørende præstegårde og præstegårdskonsulenter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par21_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forbrug af kirkers og præsteembeders formue samt køb og salg af fast ejendom kan kun ske efter beslutning af menighedsrådet og med godkendelse af ministeren for ligestilling og kirke eller efter dennes bemyndigelse af stiftsøvrigheden eller provstiudvalget.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par21a">
+              <Explicatus>§ 21 a.</Explicatus>
+              <Stk id="Par21a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Præsteembedets kapitaler overføres til kirke- og præsteembedekapitalen i det pågældende sogn.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis et præsteembede omfatter flere sogne, fordeles præsteembedets kapital på kirke- og præsteembedetskapitalen forholdsmæssigt efter antallet af medlemmer af folkekirken i de pågældende sogne.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den samme fordeling finder anvendelse ved salg af præsteembedets faste ejendom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par21b">
+              <Explicatus>§ 21 b.</Explicatus>
+              <Stk id="Par21b_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Til kirke- og præsteembedekapitalen, jf. § 21 a, indbetales provenu, der er fremkommet ved salg eller anden afståelse af rettigheder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par21b_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke kan fastsætte regler om udbetaling af kirke- og præsteembedekapitalen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par22">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="Par22_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Egner et præsteembedes jorder sig til landbrugsmæssig drift som selvstændigt brug, finder de i lov om landbrugsejendomme indeholdte bestemmelser om landbrugsejendommes opretholdelse og drift anvendelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke kan dog gøre undtagelse herfra.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par22_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Forpagtningskontrakter godkendes af provstiudvalget.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap5a">
+          <Explicatus>Kapitel 5 a</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Stiftsråd</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap5a_X1">
+            <Paragraf id="Par23">
+              <Explicatus>§ 23.</Explicatus>
+              <Stk id="Par23_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>I hvert stift nedsættes et stiftsråd.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Stiftsrådet består af stiftets biskop, stiftets domprovst, 1 repræsentant for stiftets provster, 3 repræsentanter for stiftets præster samt 1 menighedsrepræsentant fra hvert provsti.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Uanset bestemmelsen i 1. pkt. vælges i Lolland-Falster Stift 2 menighedsrepræsentanter fra hvert provsti.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Valgbar til stiftsrådet som menighedsrepræsentant er enhver, der opfylder betingelserne for at kunne vælges til medlem af et menighedsråd i provstiet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Valgret har de samme, som har valgret til provstiudvalg, med undtagelse af repræsentanter for valgmenigheder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Valgbar til stiftsrådet som repræsentant for provsterne er alle provster ansat i stiftet bortset fra domprovsten.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Valgret har alle provster ansat i stiftet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Valgbar til stiftsrådet som repræsentant for præsterne er alle præster ansat i stiftet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Valgret har alle præster ansat i stiftet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke fastsætter nærmere regler om valg til stiftsrådet, herunder om valgets organisering, gennemførelse m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>På det første stiftsrådsmøde efter nyvalg afgiver de menighedsrepræsentanter, som ikke tidligere har afgivet en erklæring som foreskrevet i § 7 i lov om menighedsråd, en sådan erklæring.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stiftsrådet er beslutningsdygtigt, når mindst halvdelen af medlemmerne er til stede.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beslutninger træffes ved stemmeflertal.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk8">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stiftsrådet vælger sin formand blandt menighedsrepræsentanterne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk9">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Biskoppen er forretningsfører for stiftsrådet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk10">
+                <Explicatus>Stk. 10.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stiftsadministrationen bistår stiftsrådet med varetagelsen af rådets opgaver.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23_Stk11">
+                <Explicatus>Stk. 11.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stiftsrådet fastsætter selv sin forretningsorden.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par23a">
+              <Explicatus>§ 23 a.</Explicatus>
+              <Stk id="Par23a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Stiftsrådet kan af hensyn til det kirkelige liv træffe beslutning om at udskrive et bindende bidrag fra kirkekasserne til finansiering af aktiviteter i stiftet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Bidraget kan ikke overstige 1 pct. af den lokale ligning i de enkelte ligningsområder i stiftet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bidraget anvendes efter stiftsrådets beslutning og kan bruges til følgende aktiviteter:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par23a_Stk2_X1">
+                    <Indentatio formaInd="Nummer" id="Par23a_Stk2_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Kommunikation mellem stiftet, menighedsråd og præster.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par23a_Stk2_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Formidling af kristendom.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par23a_Stk2_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udviklingsprojekter inden for undervisning, diakoni, IT, medier, kirkemusik og lignende, herunder analyser til forberedelse af sådanne projekter.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23a_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke fastsætter nærmere regler om det bindende bidrag for så vidt angår budget, regnskab m.v.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23a_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stiftsrådet har til opgave på menighedsrådenes vegne at bestyre kirkernes og præsteembedernes kapitaler.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Gravstedskapitaler udbetales til kirkekasserne efter et serieprincip.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23a_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke fastsætter nærmere regler om kapitalernes bestyrelse, herunder om stiftsrådets aflæggelse af regnskab m.v. Udgifterne til bestyrelse af kapitalerne afholdes efter ministeren for ligestilling og kirkes bestemmelse af de indtægter, der er forbundet med kapitalforvaltningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par23a_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stiftsrådet fastlægger stiftets udvalgsstruktur og bestemmer herunder, hvorvidt der skal nedsættes et særskilt udvalg til varetagelse af det mellemkirkelige arbejde på stiftsniveau.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap6">
+          <Explicatus>Kapitel 6</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Udveksling af data mellem it-systemer</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap6_X1">
+            <Paragraf id="Par24">
+              <Explicatus>§ 24.</Explicatus>
+              <Stk id="Par24_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par25">
+              <Explicatus>§ 25.</Explicatus>
+              <Stk id="Par25_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for ligestilling og kirke kan fastsætte regler om fælles standarder for udveksling af data mellem de it-systemer, der anvendes i folkekirken.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par26">
+              <Explicatus>§ 26.</Explicatus>
+              <Stk id="Par26_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet)</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap7">
+          <Explicatus>Kapitel 7</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Ikrafttrædelsesbestemmelser m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap7_X1">
+            <Paragraf id="Par27">
+              <Explicatus>§ 27.</Explicatus>
+              <Stk id="Par27_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft den 1. januar 1986.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par27_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Saldoen pr. 31. december 1985 i de hidtidige kirkekasser, menighedsrådskasser og præstelønningskasser overføres pr. 1. januar 1986 til vedkommende kirkekasse eller præstegårdskasse efter provstiudvalgets bestemmelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par27_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Følgende bestemmelser ophæves:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par27_Stk3_X1">
+                    <Indentatio formaInd="Nummer" id="Par27_Stk3_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Lov om folkekirkens lønningsvæsen m.m., jf. lovbekendtgørelse nr. 384 af 25. august 1980, bortset fra bestemmelserne i § 32, § 34 og § 35, stk. 3.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par27_Stk3_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>§ 5, § 7, stk. 1, §§ 10-11 og §§ 13-14 i lov om kirkers bestyrelse m.m., jf. lovbekendtgørelse nr. 318 af 26. juni 1970.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par27_Stk3_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>§ 13, stk. 1, 2. pkt., og § 27, stk. 4, i den tidligere lov om menighedsråd, jf. lovbekendtgørelse nr. 136 af 15. april 1980.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par28">
+              <Explicatus>§ 28.</Explicatus>
+              <Stk id="Par28_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par28_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven kan ved kongelig anordning sættes i kraft på Færøerne med de afvigelser, som de særlige færøske forhold tilsiger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 210 af 20. marts 2006 indeholder følgende ikrafttrædelsesbestemmelser m.v.:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 2</Explicatus>
+        <Stk>
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades).</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades).</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Lov om folkekirkens økonomi § 23, stk. 1-3, som affattet ved denne lovs § 1, nr. 16, om udbetaling af gravstedskapitaler gælder alene for vedligeholdelsesaftaler, der indgås den 1. januar 2007 eller senere.</Char>
+            </Linea>
+            <Nota id="Not1">
+              <Explicatus>1)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Bestemmelserne om gravstedskapitalerne findes nu i lov om folkekirkens økonomi § 21 b, stk. 2 og § 23 a, stk. 4-5.</Char>
+                </Linea>
+              </Exitus>
+            </Nota>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 4.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades).</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 506 af 12. juni 2009</Char>
+        </Linea>
+        <Nota id="Not2">
+          <Explicatus>2)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Ændringslovens § 1, nr. 4, vedrører § 23 og § 23 a.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>indeholder følgende ikrafttrædelsesbestemmelser m.v.:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 2</Explicatus>
+        <Stk>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades).</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 3</Explicatus>
+        <Stk>
+          <Exitus>
+            <Linea>
+              <Char>Ministeren for ligestilling og kirke fremsætter forslag om revision af loven i folketingsåret 2012-13.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 4</Explicatus>
+        <Stk>
+          <Exitus>
+            <Linea>
+              <Char>(Udelades).</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 455 af 25. maj 2012</Char>
+        </Linea>
+        <Nota id="Not3">
+          <Explicatus>3)</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Ændringslovens § 1 vedrører § 19, stk. 1, 2. og 3. pkt., og § 20, stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>indeholder følgende ikrafttrædelsesbestemmelser m.v.:</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 2</Explicatus>
+        <Stk>
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. juli 2012.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven har virkning for tilskudsåret 2013.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 3</Explicatus>
+        <Stk>
+          <Exitus>
+            <Linea>
+              <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

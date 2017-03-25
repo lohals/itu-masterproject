@@ -1,0 +1,696 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2013/08/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20130150030</AccessionNumber>
+    <DocumentId>AN011667</DocumentId>
+    <UniqueDocumentId>160843</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af pensionsafkastbeskatningsloven, pensionsbeskatningsloven, kildeskatteloven og arbejdsmarkedsbidragsloven\n(Forrentning af negativ institutskat, etablering af en godkendelsesordning for ikkefradragsberettigede pensionsindbetalinger og tilbagebetaling m.v. af ikkefradragsberettigede indbetalinger til ratepension i indbetalingsåret m.v.)</DocumentTitle>
+    <Year>2013</Year>
+    <DiesSigni>2013-12-18</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-02-10</EndDate>
+    <Status>Valid</Status>
+    <Number>1500</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1126 af 10/10/2014</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 117 af 29/01/2016</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1088 af 03/09/2015</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1500 af 18/12/2013</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Jonas Dahl</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Skattemin., j.nr. 13-0199841</JournalNumber>
+    <Ministry>Skatteministeriet</Ministry>
+    <AdministrativeAuthority>Skatteministeriet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af pensionsafkastbeskatningsloven, pensionsbeskatningsloven, kildeskatteloven og arbejdsmarkedsbidragsloven</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Forrentning af negativ institutskat, etablering af en godkendelsesordning for ikkefradragsberettigede pensionsindbetalinger og tilbagebetaling m.v. af ikkefradragsberettigede indbetalinger til ratepension i indbetalingsåret m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I pensionsafkastbeskatningsloven, jf. lovbekendtgørelse nr. 170 af 22. februar 2011, som ændret bl.a. ved § 15 i lov nr. 1354 af 21. december 2012 og senest ved § 7 i lov nr. 649 af 12. juni 2013, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 7, stk. 2, nr. 7,</Char>
+                <Char> udgår »indkomstårets«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 17, stk. 1,</Char>
+                <Char> indsættes efter 2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>2. pkt. finder tilsvarende anvendelse på de renter, der tilskrives den særlige konto for negativ skat, jf. stk. 6.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Beløb på den særlige konto for negativ skat, jf. stk. 6, fradrages, før der kan foretages fradrag af anden negativ skat.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 17, stk. 1, 6. pkt.,</Char>
+                <Char> der bliver 8. pkt., ændres »4. pkt.« til: »6. pkt.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 17, stk. 2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For skattepligtige efter § 1, stk. 2, nr. 1, 2, 7, 8 og 10, kan negativ skat og renter efter stk. 1, 2. og 3. pkt., der ikke er fradraget i de førstkommende 5 indkomstår efter indkomståret, hvor den negative skat og renterne er beregnet, udbetales, jf. dog stk. 3 og 4.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved opgørelsen efter 1. pkt. anses renter, der er tilskrevet den særlige konto for negativ skat, for at være opstået på samme tidspunkt som den negative skat, de er beregnet af.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 17, stk. 3, nr. 1,</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 4, nr. 1,</Char>
+                <Char> ændres »indkomstår, og« til: »indkomstår,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 17, stk. 3, nr. 2, litra b,</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 4, nr. 2, litra b,</Char>
+                <Char> ændres: »(pensionsafkastbeskatningsloven).« til: »(pensionsafkastbeskatningsloven), og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 17, stk. 3</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">4,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">nr. 3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Index>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>tilskrevne renter på den særlige konto for negativ skat, jf. stk. 6, 1. pkt.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 17</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 6:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For skattepligtige efter § 1, stk. 2, nr. 1, 2, 7, 8 og 10, kan en del af indkomstårets negative skat opgjort efter stk. 1, 1. pkt., overføres fra den almindelige konto for negativ skat til en særlig konto for negativ skat, der forrentes årligt ved indkomstårets udløb med en rente svarende til den 5-årige rente i den af Finanstilsynet offentliggjorte diskonteringsrentekurve ved måling af forsikringsforpligtelser på den sidste hverdag i indkomståret.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den negative skat og de heraf beregnede renter forrentes ikke i udbetalingsåret efter stk. 2 eller overførselsåret efter 7. pkt. Den del af indkomstårets negative skat, der overføres efter 1. pkt., kan højst udgøre et beløb svarende til skatteværdien af den omtegningsbonus, som pensionsinstituttet i indkomståret har udloddet til pensionsberettigede i forbindelse med omtegning af en ordning med ret til rentebonus til en ordning uden garanti, en ordning med 0 pct. garanti eller en ordning med en betinget garanti uden en tilknyttet ubetinget garanti over 0 pct. For pensionskasser m.v. omfattet af § 7 opgøres skatteværdien af den udloddede omtegningsbonus efter 3. pkt. som skatteværdien af den del af beløb, der er fradraget efter § 7, stk. 2, nr. 1, og skatteværdien af direkte udbetalinger til pensionsberettigede med ordninger omfattet af § 7, stk. 2, nr. 1, jf. § 7, stk. 2, nr. 7, der kan henføres til udlodning af omtegningsbonus.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>For livsforsikringsselskaber m.v. omfattet af § 8 opgøres skatteværdien af den udloddede omtegningsbonus efter 3. pkt. som skatteværdien af den del af beløb, der har nedbragt beskatningsgrundlaget efter § 8, stk. 4, 1. pkt., der kan henføres til udlodning af omtegningsbonus.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Saldoen på den særlige konto for negativ skat forhøjes med forrentningen af saldoen ved indkomstårets udløb og nedsættes med et beløb svarende til det beløb på den særlige konto for negativ skat, der er fradraget i indkomstårets skat efter §§ 7 eller 8, jf. stk. 1, samt det beløb, der er udbetalt fra den særlige konto for negativ skat i indkomståret, jf. stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Negativ skat og de heraf beregnede renter på den særlige konto for negativ skat, der ikke er fradraget i indkomstårets skat efter §§ 7 eller 8, jf. stk. 1, eller er udbetalt, jf. stk. 2, overføres til den almindelige konto for negativ skat i det sjette indkomstår efter indkomståret, hvor den negative skat er beregnet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 27, stk. 5, 1.</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Ændres et skattebeløb, der er indbetalt efter §§ 21-24 af et pensionsinstitut, forrentes forskelsbeløbet fra den 20. februar i året efter indkomståret, til betaling sker.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ændres et skattebeløb, der er indbetalt efter §§ 22-23 a af et pengeinstitut, et kreditinstitut eller en kapitalpensionsfond, forrentes forskelsbeløbet fra den 8. januar i året efter indkomståret, til betaling sker.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I pensionsbeskatningsloven, jf. lovbekendtgørelse nr. 586 af 24. maj 2013, som ændret ved § 6 i lov nr. 513 af 7. juni 2006, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, stk. 1,</Char>
+                <Char> indsættes efter »den pensionsberettigedes død,«: »idet kravet om lige store ydelser ikke gælder pen­si‍ons­ordninger omfattet af nr. 1,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 20, stk. 1, nr. 5,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 20 A</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 21 A, stk. 1,</Char>
+                <Char> indsættes efter 2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilbagebetaling fra en pensionsordning omfattet af § 19 i samme indkomstår, hvori indbetalingen er sket, kan alene ske til den arbejdsgiver m.v., som har foretaget indbetalingen på pensionsordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 21 A, stk. 1, 4. pkt.,</Char>
+                <Char> der bliver 5. pkt., ændres »1. og 3. pkt.« til: »1. og 4. pkt.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 21 A, stk. 1,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">7.</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">8. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Er beløbet som nævnt i 1. pkt. overført, herunder konverteret til en aldersforsikring omfattet af § 10 A eller aldersopsparing omfattet af § 12 A før anmodningen om tilbagebetaling, sker tilbagebetalingen som nævnt i 1. pkt. fra aldersforsikringen eller aldersopsparingen af beløbet som nævnt i 1. pkt. fratrukket afgift efter § 25, stk. 1, nr. 9.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>§ 28, stk. 2, finder ikke anvendelse for tilbagebetalingen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 21 A, stk. 2,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">3.</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">4. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilbagebetaling eller overførsel af beløb kan ske i samme indkomstår, hvori indbetalingen er sket, eller senere indkomstår.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilbagebetaling fra en pensionsordning omfattet af § 19 i samme indkomstår, hvori indbetalingen er sket, kan alene ske til den arbejdsgiver m.v., som har foretaget indbetalingen på pensionsordningen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 28, stk. 1,</Char>
+                <Char> udgår »§ 20, stk. 1, nr. 5, eller«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 45, stk. 2,</Char>
+                <Char> indsættes efter »rateopsparing i pensionsøjemed«: », en aldersopsparing«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>10.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter kapitel 4 indsættes i </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">afsnit I:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Kapitel>
+                <Explicatus>Kapitel 5</Explicatus>
+                <Rubrica>
+                  <Linea>
+                    <Char>Afgørelse om ikkefradragsberettigede og ikkebortseelsesberettigede indbetalinger</Char>
+                  </Linea>
+                </Rubrica>
+                <ParagrafGruppe>
+                  <Paragraf>
+                    <Explicatus>§ 48.</Explicatus>
+                    <Stk>
+                      <Exitus>
+                        <Linea>
+                          <Char>Enhver person kan af told- og skatteforvaltningen få en afgørelse om, at indbetalinger, der er foretaget til en pensionsordning m.v. omfattet af afsnit I, § 53 A eller § 53 B, som den pågældende har ret til udbetalingerne fra, ikke er fradragsberettigede eller bortseelsesberettigede ved opgørelsen af den skattepligtige indkomst hverken her i landet eller i udlandet med henblik på opgørelsen af de udbetalinger fra ordningen, der efter § 20, stk. 4, § 32, stk. 1, § 53 A, stk. 5, og § 53 B, stk. 6, vil være skatte- og afgiftsfrie.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Told- og skatteforvaltningen opbevarer oplysninger om indbetalinger som nævnt i stk. 1, indtil alle udbetalinger fra pensionsordningen m.v., der kan henføres til de pågældende indbetalinger, er sket.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Skatteministeren kan fastsætte regler om oplysninger, som skal gives til told- og skatteforvaltningen til brug for afgørelsen efter stk. 1.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>11.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 53 B, stk. 6, 3. pkt.,</Char>
+                <Char> indsættes efter »og som ikke har kunnet fradrages ved opgørelsen af den skattepligtige indkomst«: »her i landet eller i udlandet«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>12.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 57, stk. 1, nr. 4,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Nr. 5 og 6 bliver herefter nr. 4 og 5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I kildeskatteloven, jf. lovbekendtgørelse nr. 1403 af 7. december 2010, som ændret senest ved § 7 i lov nr. 894 af 4. juli 2013, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 49 D, stk. 1,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2.</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">3. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilbagebetaling til arbejdsgiveren m.v. som nævnt i pensionsbeskatningslovens § 21 A, stk. 1, 3. pkt., og stk. 2, 4. pkt., sker inklusive bidraget.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ved overførsel som nævnt i pensionsbeskatningslovens § 21 A, stk. 1 og 2, til en anden pensionskasse, et andet forsikringsselskab eller et andet pengeinstitut sker overførslen eksklusive bidraget, idet pligten til at beregne og indeholde bidraget fastholdes hos det pen­si‍ons­selskab, som oprindelig har modtaget pensionsindbetalingen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 4</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I arbejdsmarkedsbidragsloven, lov nr. 471 af 12. juni 2009, som ændret ved § 3 i lov nr. 1278 af 16. december 2009 og § 4 i lov nr. 1382 af 28. december 2011, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, stk. 1, nr. 4,</Char>
+                <Char> ændres »pensionsbeskatningslovens § 19« til: »pensionsbeskatningslovens § 19, medmindre der er sket tilbagebetaling til arbejdsgiveren m.v. som nævnt i pensionsbeskatningslovens § 21 A, stk. 1, 3. pkt., eller stk. 2, 4. pkt.,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 5</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2014.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 1-8, har virkning fra indkomståret 2013.</Char>
+          </Linea>
+          <Linea>
+            <Char>Pensionsinstitutter, der har udloddet omtegningsbonus til pensionsberettigede i forbindelse med omtegning af en ordning med ret til rentebonus til en ordning uden garanti, en ordning med 0 pct. garanti eller en ordning med en betinget garanti uden en tilknyttet ubetinget garanti over 0 pct. i indkomståret 2010 til og med indkomståret 2012, kan i indkomståret 2013 overføre et beløb til den særlige konto for negativ skat svarende til beløbet opgjort efter pensionsafkastbeskatningslovens § 17, stk. 6, 3.-5. pkt., som indsat ved denne lovs § 1, nr. 8, nedsat efter pensionsafkastbeskatningslovens § 17, stk. 1, 2. pkt. Pensionsafkastbeskatningslovens § 17, stk. 1, 4. pkt., som indsat ved denne lovs § 1, nr. 2, finder tilsvarende anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 2, nr. 1, har virkning for pensionsordninger med løbende udbetalinger omfattet af pensionsbeskatningslovens § 2, stk. 1, der er påbegyndt udbetalt den 25. april 2012 eller senere.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

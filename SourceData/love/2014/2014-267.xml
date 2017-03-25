@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2013/08/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20140026730</AccessionNumber>
+    <DocumentId>BP000852</DocumentId>
+    <UniqueDocumentId>162249</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om fyrværkeri og andre pyrotekniske artikler\n(Indskrænkning af salgs- og anvendelsesperiode for fyrværkeri, ændring af gebyrordning m.v.)</DocumentTitle>
+    <Year>2014</Year>
+    <DiesSigni>2014-03-25</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-04-05</EndDate>
+    <Status>Valid</Status>
+    <Number>267</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 267 af 25/03/2014</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <EuReferences>31998L0034</EuReferences>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Henrik Sass Larsen</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Erhvervs- og Vækstmin., j.nr. 476-01-00001</JournalNumber>
+    <Ministry>Erhvervs- og Vækstministeriet</Ministry>
+    <AdministrativeAuthority>Erhvervs- og Vækstministeriet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om fyrværkeri og andre pyrotekniske artikler</Char>
+      </Linea>
+      <Nota formaNo="EU" id="Not1">
+        <Explicatus>1)</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven har som udkast været notificeret i overensstemmelse med Europa-Parlamentets og Rådets direktiv 98/34/EF (informationsproceduredirektivet), som ændret ved direktiv 98/48/EF.</Char>
+          </Linea>
+        </Exitus>
+      </Nota>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Indskrænkning af salgs- og anvendelsesperiode for fyrværkeri, ændring af gebyrordning m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om fyrværkeri og andre pyrotekniske artikler, jf. lovbekendtgørelse nr. 363 af 9. april 2013, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 1, stk. 3,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 4-6 bliver herefter stk. 3-5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, stk. 3,</Char>
+                <Char> ændres »1.</Char>
+              </Linea>
+              <Linea>
+                <Char>– 31. december« til: »15.</Char>
+              </Linea>
+              <Linea>
+                <Char>– 31. december«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, stk. 4,</Char>
+                <Char> ændres »1. december – 5. januar« til: »27. december – 1. januar«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 3, stk. 1, nr. 12,</Char>
+                <Char> indsættes efter »anvendelse af fyrværkeri,«: »og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 3, stk. 1, nr. 13,</Char>
+                <Char> ændres »EU-retten, og« til: »EU-retten.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4, stk. 1,</Char>
+                <Char> ændres »for fabrikantens eller importørens regning udtage prøver af fyrværkeriartikler og andre pyrotekniske artikler og underkaste disse en teknisk undersøgelse« til: »udtage prøver af fyrværkeriartikler og andre pyrotekniske artikler.</Char>
+              </Linea>
+              <Linea>
+                <Char>Den, der fremstiller eller indfører fyrværkeriartikler eller andre pyrotekniske artikler, afholder omkostningerne ved prøveudtagningen«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 4</Char>
+                <Char> indsættes efter stk. 1 som nye stykker:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I tilfælde, hvor prøveudtagningen i medfør af stk. 1 sker hos andre end den, der fremstiller eller indfører fyrværkeriartikler eller andre pyrotekniske artikler, godtgør Sikkerhedsstyrelsen eller kommunalbestyrelsen indkøbsprisen og opkræver beløbet hos den, der fremstiller eller indfører fyrværkeriartikler eller pyrotekniske artikler.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan foretages en teknisk undersøgelse af prøver udtaget i medfør af stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sikkerhedsstyrelsen eller kommunalbestyrelsen kan kræve omkostningerne ved eksterne tekniske undersøgelser, herunder omkostningerne til transport, refunderet af den, som har fået meddelt et påbud eller et forbud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2 bliver herefter stk. 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 5.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Erhvervs- og vækstministeren kan fastsætte regler</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>om omkostninger i forbindelse med prøvninger og godkendelser efter regler udstedt i medfør af § 3, stk. 1, nr. 3,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>om, at omkostninger i forbindelse med kontrol efter regler udstedt i medfør af § 3, stk. 1, nr. 10, afholdes af den, der opbevarer eller fremstiller fyrværkeriartikler eller andre pyrotekniske artikler,</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>om omkostninger i forbindelse med foranstaltninger i henhold til regler udstedt i medfør af § 3, stk. 1, nr. 12, og</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>4)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>om, at omkostninger ved eksterne tekniske undersøgelser, herunder omkostninger til transport, efter § 4, stk. 3, skal afholdes af den, som har fået meddelt et påbud eller forbud.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 7, stk. 1, nr. 3,</Char>
+                <Char> ændres »§ 4, stk. 2« til: »§ 4, stk. 4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. juli 2014.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

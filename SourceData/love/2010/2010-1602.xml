@@ -1,0 +1,1425 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2009/09/14/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20100160230</AccessionNumber>
+    <DocumentId>BE004485</DocumentId>
+    <UniqueDocumentId>135238</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om en aktiv beskæftigelsesindsats, lov om arbejdsløshedsforsikring m.v., lov om aktiv socialpolitik og lov om kommunal udligning og generelle tilskud til kommuner\n(Virksomhedsrettet aktivering, ændring af refusionssystemet m.v.)</DocumentTitle>
+    <Year>2010</Year>
+    <DiesSigni>2010-12-22</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2013-06-29</EndDate>
+    <Status>Valid</Status>
+    <Number>1602</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 710 af 23/06/2011</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 838 af 04/07/2011</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 190 af 24/02/2012</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 798 af 24/06/2013</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1602 af 22/12/2010</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Inger Støjberg</Signature>
+    <PlaceOfSignature>Givet på Marselisborg Slot</PlaceOfSignature>
+    <JournalNumber>Beskæftigelsesmin.,\nArbejdsmarkedsstyrelsen, j.nr. 2010-0017996</JournalNumber>
+    <Ministry>Beskæftigelsesministeriet</Ministry>
+    <AdministrativeAuthority>Arbejdsmarkedsstyrelsen (AMS)</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om en aktiv beskæftigelsesindsats, lov om arbejdsløshedsforsikring m.v., lov om aktiv socialpolitik og lov om kommunal udligning og generelle tilskud til kommuner</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Virksomhedsrettet aktivering, ændring af refusionssystemet m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Rubrica>
+        <Linea>
+          <Char>Beskæftigelsesministeriet</Char>
+        </Linea>
+      </Rubrica>
+      <Exitus>
+        <Linea>
+          <Char>I lov om en aktiv beskæftigelsesindsats, jf. lov­be­kendt­gørel­se nr. 1428 af 14. december 2009, som ændret ved § 1 i lov nr. 431 af 28. april 2010, § 4 i lov nr. 571 af 31. maj 2010 og § 25 i lov nr. 639 af 14. juni 2010, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 32, stk. 1</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Personer, der er omfattet af § 2, nr. 1-5, kan få tilbud om vejledning og opkvalificering, der kan bestå af følgende:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index>
+                    <Indentatio formaInd="Fri">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Uddannelser, der har hjemmel i lov, som udbydes generelt, og som umiddelbart er rettet mod beskæftigelse på arbejdsmarkedet, jf. stk. 5, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Fri">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>uddannelser og kurser, der ikke er omfattet af nr. 1, samt særligt tilrettelagte projekter og uddannelsesforløb, herunder praktik under uddannelsesforløbet, danskundervisning og korte vejlednings- og afklaringsforløb.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Personer, der er omfattet af § 2, nr. 7, og som modtager ledighedsydelse  eller  særlig ydelse efter §§ 74 og 74 i i lov om aktiv socialpolitik, kan få tilbud efter stk. 1, nr. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 32</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 5:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Beskæftigelsesministeren fastsætter nærmere regler om, hvilke uddannelser der er omfattet af stk. 1, nr. 1, og kan herunder fravige betingelsen om, at uddannelsen umiddelbart skal være rettet mod beskæftigelse på arbejdsmarkedet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 36, stk. 1,</Char>
+                <Char> ændres »§ 32, stk. 1, nr. 1« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»§ 32, stk. 1, nr. 2«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">Kapitel 23</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Kapitel>
+                <Explicatus>Kapitel 23</Explicatus>
+                <Rubrica>
+                  <Linea>
+                    <Char>Statens refusion til kommunerne</Char>
+                  </Linea>
+                </Rubrica>
+                <ParagrafGruppe>
+                  <Paragraf>
+                    <Explicatus>§ 117.</Explicatus>
+                    <Stk>
+                      <Exitus>
+                        <Linea>
+                          <Char>Kommunen afholder endeligt udgifterne til vejledning, sagsbehandling og det individuelle kontaktforløb, til udarbejdelse af jobplaner og til administration i øvrigt m.v. Kommunen afholder desuden endeligt udgifterne til godtgørelse efter § 75 c, til særlige aktiviteter efter § 7 og til lægeerklæringer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Uanset bestemmelsen i stk. 1 yder staten 100 pct. refusion af kommunernes udbetaling af bonus til andre aktører, der varetager indsatsen over for personer, der er henvist til andre aktører i 2009 eller tidligere, og som er omfattet af § 2, nr. 1.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Dette gælder dog ikke for kommuner, der var bemyndiget til at varetage udøvelsen af statens aktive beskæftigelsesindsats efter bekendtgørelse nr. 1400 af 13. december 2006.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf>
+                    <Explicatus>§ 118.</Explicatus>
+                    <Stk>
+                      <Exitus>
+                        <Linea>
+                          <Char>Inden for et rådighedsbeløb, jf. stk. 2, refunderer staten 50 pct. af en kommunes udgifter for personer, der er omfattet af § 2, nr. 1-5 og 7, og som modtager ledighedsydelse eller særlig ydelse efter §§ 74 og 74 i i lov om aktiv socialpolitik, samt nr. 10, når udgiften angår</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus>
+                        <Index>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>1)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>støtte til arbejdssøgende, der skifter bopæl i forbindelse med overtagelse af arbejde, jf. § 8,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>2)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>tilbud efter kapitel 10, herunder deltagerbetaling,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>3)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>undervisningsmaterialer efter §§ 76 og 77,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>4)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>udgifter i forbindelse med partnerskabsaftaler efter § 81 a,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>5)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>godtgørelse efter § 83,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>6)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>6 ugers selvvalgt uddannelse, deltagerbetaling samt kost og logi efter kapitel 8 a og § 73 b og</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>7)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>opkvalificering efter § 99 til personer, der ansættes uden løntilskud.</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Rådighedsbeløbet i stk. 1 opgøres til 13.700 kr. pr. år (2011-niveau) gange antallet af personer, der er omfattet af § 2, nr. 1-5, herunder personer, der deltager i tilbud efter kapitel 12, § 2, nr. 7, og som modtager ledighedsydelse eller særlig ydelse efter §§ 74 og 74 i i lov om aktiv socialpolitik, og  personer,  der  modtager  uddannelsesydelse  efter  kapitel 9 b i lov om arbejdsløshedsforsikring m.v. Antallet af personer efter 1. pkt. opgøres som antal helårspersoner i regnskabsåret.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf>
+                    <Explicatus>§ 119.</Explicatus>
+                    <Stk>
+                      <Exitus>
+                        <Linea>
+                          <Char>Staten refunderer 50 pct. af en kommunes udgifter for personer, der er omfattet af § 2, nr. 6, 8 og 9, når udgiften angår</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus>
+                        <Index>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>1)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>støtte til arbejdssøgende, der skifter bopæl i forbindelse med overtagelse af arbejde, jf. § 8,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>2)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>tilbud efter kapitel 10, herunder deltagerbetaling,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>3)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>undervisningsmaterialer efter §§ 76 og 77,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>4)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>udgifter i forbindelse med partnerskabsaftaler efter § 81 a,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>5)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>godtgørelse efter § 83 og</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>6)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>opkvalificering efter § 99 til personer, der ansættes uden løntilskud.</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf>
+                    <Explicatus>§ 120.</Explicatus>
+                    <Stk>
+                      <Exitus>
+                        <Linea>
+                          <Char>Staten refunderer 50 pct. af en kommunes udgifter for personer, der er omfattet af § 2, nr. 1-10, når udgiften angår</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus>
+                        <Index>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>1)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>løntilskud efter kapitel 12, jf. dog § 121,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>2)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>hjælpemidler efter §§ 76 og 77, jf. dog § 118, stk. 1, nr. 3, og § 119, nr. 3,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>3)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>mentor efter §§ 78-81 og</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>4)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>befordringsgodtgørelse efter § 82.</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Staten refunderer kommunens udgifter til beskæftigelsestillæg efter § 45, stk. 3, med samme refusionssats, som kommunen er berettiget til for udgiften til kontant- og starthjælp, jf. § 100 i lov om aktiv socialpolitik.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf>
+                    <Explicatus>§ 121.</Explicatus>
+                    <Stk>
+                      <Exitus>
+                        <Linea>
+                          <Char>Staten refunderer 65 pct. af en kommunes udgifter til løntilskud efter kapitel 12 for personer, der er omfattet af § 2, nr. 4.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf>
+                    <Explicatus>§ 122.</Explicatus>
+                    <Stk>
+                      <Exitus>
+                        <Linea>
+                          <Char>Staten refunderer 65 pct. af en kommunes udgifter til</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus>
+                        <Index>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>1)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>tilskud til fleksjob efter § 71 og</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>2)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>tilskud til selvstændigt erhvervsdrivende efter § 75.</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Staten refunderer 50 pct. af en kommunes udgifter efter § 74.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Kommunen har ikke ret til statsrefusion i en konkret sag for udgifter til tilskud til fleksjob, jf. stk. 1, hvis kommunen ikke har tilvejebragt grundlaget for afgørelsen om fleks­job, jf. § 70 a, eller for revurderingen af, om betingelserne for fleksjob fortsat er opfyldt, jf. § 74 c i lov om aktiv socialpolitik.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Retten til statsrefusion bortfalder i en periode på 36 måneder.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Perioden beregnes fra det tidspunkt, hvor visitationen eller revurderingen er foretaget eller skulle være foretaget.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Ved beregning af perioden på 36 måneder medregnes perioder, hvor refusionen er bortfaldet efter §§ 100, 104 og 104 a i lov om aktiv socialpolitik.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf>
+                    <Explicatus>§ 123.</Explicatus>
+                    <Stk>
+                      <Exitus>
+                        <Linea>
+                          <Char>Staten refunderer 100 pct. af en kommunes udgifter til jobrotationsydelse efter § 98 a.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Staten refunderer 100 pct. af en kommunes udgifter til løntilskud til arbejdsgivere, der indgår uddannelsesaftaler med voksne efter §§ 98 c-98 g.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Staten refunderer 50 pct. af en kommunes udgifter til hjælpemidler m.v. efter § 100.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf>
+                    <Explicatus>§ 124.</Explicatus>
+                    <Stk>
+                      <Exitus>
+                        <Linea>
+                          <Char>Staten afholder en kommunes udgifter efter stk. 2 til udlændinge, der har fået opholdstilladelse, jf. stk. 3, hvis</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus>
+                        <Index>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>1)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>personen inden 12 måneder efter datoen for opholdstilladelsen på grund af en betydelig og varig nedsat funktionsevne anbringes i døgnophold, dog kun indtil den pågældende i en sammenhængende periode på 2 år har klaret sig selv, eller</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>2)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>tilladelsen er meddelt en mindreårig asylansøger, dog højst indtil modtageren fylder 18 år eller barnets forældre får lovligt ophold her i landet.</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Udgifter efter stk. 1 omfatter</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus>
+                        <Index>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>1)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>udgifter til løntilskud efter kapitel 12 til personer, der er omfattet af § 2, nr. 2-4, 6 og 7,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>2)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>udgifter efter kapitel 14 til personer, der er omfattet af § 2, nr. 4 og 6,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>3)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>udgifter efter § 74 til personer, der er omfattet af § 2, nr. 7, og</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>4)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>udgifter efter § 45, stk. 3, til personer, der er omfattet af § 2, nr. 2 og 3.</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Bestemmelsen i stk. 1 omfatter udlændinge, der har fået opholdstilladelse efter</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus>
+                        <Index>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>1)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>udlændingelovens §§ 7 og 8,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>2)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>udlændingelovens § 9 b,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>3)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>udlændingelovens § 9, stk. 1, nr. 1 eller 2, som følge af tilknytning til en i Danmark fastboende person, når denne person selv har fået opholdstilladelse efter en af de bestemmelser, der er nævnt i nr. 1 og 2, eller når tilknytningen kan føres tilbage til en sådan person,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>4)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>udlændingelovens § 9 c, stk. 1, når tilladelsen er givet til personer over 18 år, hvis fader eller moder har fået opholdstilladelse efter en af de bestemmelser, der er nævnt i nr. 1,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>5)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>udlændingelovens § 9 c, stk. 1, når tilladelsen er meddelt en ægtefælle til eller et barn af en person med opholdstilladelse som nævnt i nr. 2,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>6)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>udlændingelovens § 9 c, stk. 1 og 2, når tilladelsen er meddelt en asylsøgende udlænding,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>7)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>udlændingelovens § 9 c, stk. 1, når tilladelsen er givet som følge af tilknytning til en mindreårig asylsøgende udlænding, som har fået opholdstilladelse efter udlændingelovens § 7 eller § 9 c, stk. 1, eller</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>8)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>udlændingelovens § 9 e.</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf>
+                    <Explicatus>§ 125.</Explicatus>
+                    <Stk>
+                      <Exitus>
+                        <Linea>
+                          <Char>Staten yder forskudsrefusion af en kommunes refusionsberettigende udgifter efter denne lov.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf>
+                    <Explicatus>§ 126.</Explicatus>
+                    <Stk>
+                      <Exitus>
+                        <Linea>
+                          <Char>Opholdskommunen har adgang til refusion fra en tidligere opholdskommune efter § 9 c i lov om retssikkerhed og administration på det sociale område.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+                <ParagrafGruppe>
+                  <Rubrica>
+                    <Linea>
+                      <Char>Regulering</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf>
+                    <Explicatus>§ 127.</Explicatus>
+                    <Stk>
+                      <Exitus>
+                        <Linea>
+                          <Char>En gang årligt den 1. januar reguleres med satsreguleringsprocenten efter lov om en satsreguleringsprocent</Char>
+                        </Linea>
+                      </Exitus>
+                      <Exitus>
+                        <Index>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>1)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>beskæftigelsestillægget efter § 45,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>2)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>løntilskud efter § 63,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>3)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>beløbet efter § 71, stk. 3, og § 75, stk. 2,</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>4)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>jobrotationsydelse efter § 98 a og</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                          <Indentatio formaInd="Nummer">
+                            <Explicatus>5)</Explicatus>
+                            <Exitus>
+                              <Linea>
+                                <Char>rådighedsbeløbet efter § 118.</Char>
+                              </Linea>
+                            </Exitus>
+                          </Indentatio>
+                        </Index>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Den maksimale timeløn efter § 55, stk. 2, reguleres procentuelt i overensstemmelse med den gennemsnitlige regulering af de offentlige lønskalaer.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Løntilskuddet pr. time efter § 67 c skal beregnes på grundlag af den årligt regulerede maksimale dagpengesats, jf. lov om arbejdsløshedsforsikring m.v.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om arbejdsløshedsforsikring m.v., jf. lov­be­kendt­gørel­se nr. 574 af 27. maj 2010, som ændret bl.a. ved lov nr. 118 af 17. februar 2009 og senest ved lov nr. 912 af 13. juli 2010, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 82 a, stk. 1,</Char>
+                <Char> indsættes efter »§ 55, stk. 1 og 2«:</Char>
+              </Linea>
+              <Linea>
+                <Char>», og til uddannelsesydelse, jf. § 52 g«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 82 a, stk. 3, 1.</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Bidraget efter stk. 1 udgør 70 pct. af udgifterne til dagpenge eller uddannelsesydelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Under deltagelse i tilbud efter § 32, stk. 1, nr. 1, og kapitel 11 i lov om en aktiv beskæftigelsesindsats udgør bidraget dog 50 pct. af udgifterne til dagpenge.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 82 a, stk. 4, 1. pkt.,</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 5,</Char>
+                <Char> indsættes efter »dagpenge«:</Char>
+              </Linea>
+              <Linea>
+                <Char>»og uddannelsesydelse«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 82 a, stk. 4, 2. pkt.,</Char>
+                <Char> indsættes efter »dagpenge«:</Char>
+              </Linea>
+              <Linea>
+                <Char>»eller uddannelsesydelse«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 85 c, stk. 3, nr. 1,</Char>
+                <Char> ændres »50 pct.« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»70 pct.«, og efter »§ 82 a, stk. 3, 1. pkt.,« indsættes:</Char>
+              </Linea>
+              <Linea>
+                <Char>»jf. dog stk. 5,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 85 c, stk. 3, nr. 3,</Char>
+                <Char> indsættes efter »finansieringen«:</Char>
+              </Linea>
+              <Linea>
+                <Char>»af dagpenge«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 85 c, stk. 5,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>ATP-bidraget for dagpengemodtagere, hvor kommunen bidrager til finansieringen af dagpenge med 50 pct. af dagpengeudgiften, jf. § 82 a, stk. 3, 2. pkt., og for dagpengemodtagere, der deltager i øvrige tilbud efter kapitel 10 i lov om en aktiv beskæftigelsesindsats, betales af dagpengemodtageren med 1/3 og statskassen med 2/3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hver bidragsandel for en uge nedrundes til nærmeste hele kronebeløb.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 482 af 12. juni 2009 om ændring af lov om arbejdsløshedsforsikring m.v., lov om retssikkerhed og administration på det sociale område og forskellige andre love.</Char>
+        </Linea>
+        <Linea>
+          <Char>(Sammenlægning af Arbejdsmarkedets Ankenævn med Ankestyrelsens Beskæftigelsesudvalg, finansiering af arbejdsløshedsdagpenge, arbejdsløshedskassernes vej­led­nings­pligt og tilsyn med kommunerne m.v.) foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 15, stk. 3,</Char>
+                <Char> udgår », 12 uger i 2011 og 8 uger i 2012«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 4</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om aktiv socialpolitik, jf. lovbekendtgørelse nr. 946 af 1. oktober 2009, som ændret senest ved § 4 i lov nr. 573 af 31. maj 2010, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 100, stk. 1, 1.</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Staten refunderer 30 pct. af kommunens udgifter til hjælp efter kapitel 4.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dog refunderer staten 50 pct. for personer, herunder personer under revalidering eller forrevalidering efter kapitel 6, der deltager i tilbud efter § 32, stk. 1, nr. 1, og kapitel 11 i lov om en aktiv beskæftigelsesindsats.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 100, stk. 3,</Char>
+                <Char> ændres »65 pct.« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»50 pct.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 100, stk. 4,</Char>
+                <Char> ændres »§ 118, stk. 1« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»§ 118, stk. 2«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 103</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 103.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Staten refunderer 30 pct. af kommunens udgifter til revalideringsydelse efter § 51, stk. 2, og § 52.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Dog refunderer staten 50 pct. for personer, der deltager i tilbud efter § 32, stk. 1, nr. 1, i lov om en aktiv beskæftigelsesindsats, og 65 pct. for personer, der deltager i tilbud efter kapitel 11 i lov om en aktiv beskæftigelsesindsats.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Staten refunderer 50 pct. af kommunens udgifter til boligtilskud til revalidender og forrevalidender med nedsat fysisk eller psykisk funktionsevne samt støtte til etablering af selvstændig virksomhed, jf. §§ 64, 64 a og 65.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Beskæftigelsesministeren kan fastsætte nærmere regler om, hvornår kommunen opfylder betingelserne for at få 50 pct. og 65 pct. refusion, herunder om, hvilken dokumentation kommunen skal fremlægge.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 104, stk. 1, 1.</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Staten refunderer 30 pct. af kommunens udgifter til ledighedsydelse efter § 74 d, stk. 2, § 74 e, § 74 f og § 74 h. Dog refunderer staten 50 pct. for personer, der deltager i tilbud efter kapitel 11 i lov om en aktiv beskæftigelsesindsats.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 104, stk. 2, 1.</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2. pkt.,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Staten refunderer 30 pct. af kommunens udgifter til den særlige ydelse efter § 74 i.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dog refunderer staten 50 pct. for personer, der deltager i tilbud efter kapitel 11 i lov om en aktiv beskæftigelsesindsats.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 104, stk. 3,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Beskæftigelsesministeren kan fastsætte nærmere regler om, hvornår kommunen opfylder betingelserne for at få 50 pct. refusion efter stk. 1 og 2, herunder om, hvilken dokumentation kommunen skal fremlægge.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 104 a, stk. 3,</Char>
+                <Char> ændres »§ 121, stk. 4« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»§ 122, stk. 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 5</Explicatus>
+      <Rubrica>
+        <Linea>
+          <Char>Indenrigs- og Sundhedsministeriet</Char>
+        </Linea>
+      </Rubrica>
+      <Exitus>
+        <Linea>
+          <Char>I lov om kommunal udligning og generelle tilskud til kommuner, jf. lovbekendtgørelse nr. 561 af 19. juni 2009, som ændret ved lov nr. 710 af 25. juni 2010, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 14, stk. 2, nr. 5,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>5)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>kommunale mer- eller mindreudgifter som følge af udviklingen i kommunernes reale udgifter til kontanthjælp, ledighedsydelse, orlovsydelse til kontanthjælpsmodtagere, aktivering af kontanthjælps- og ledighedsydelsesmodtagere, revalidering, driftsudgifter til aktivering af sygedagpengemodtagere og forsikrede ledige samt driftsudgifter i forbindelse med selvvalgt uddannelse, kommunale udgifter til danskundervisning til udlændinge og introduktionsydelse og aktivering efter kapitel 4 og 5 i lov om integration af udlændinge i Danmark, førtidspension og erhvervsgrunduddannelse i tilskudsåret og</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 23 a, stk. 1,</Char>
+                <Char> ændres »stk. 2-5« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»stk. 2-7«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 23 a</Char>
+                <Char> indsættes efter stk. 2 som nye stykker:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Beskæftigelsestilskuddet omfatter kommunernes nettoudgifter til arbejdsløshedsdagpenge, uddannelsesydelse, løntilskud til arbejdsgivere, der ansætter forsikrede ledige i løntilskudsjob, personlig assistance til handicappede, befordringsgodtgørelse til forsikrede ledige og hjælpemidler bortset fra undervisningsmaterialer til forsikrede ledige og beskæftigede.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Indenrigs- og sundhedsministeren fastsætter efter forhandling med beskæftigelsesministeren regler om beregningsgrundlaget for opgørelsen af de kommunale nettoudgifter omfattet af beskæftigelsestilskuddet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Stk. 3-6 bliver herefter stk. 5-8.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 23 a, stk. 5,</Char>
+                <Char> der bliver stk. 7, ændres »efter stk. 4« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»efter stk. 6«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 6</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2011.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven har virkning for udgifter til tilbud, ydelser og aktiviteter m.v., der vedrører perioder efter lovens ikrafttræden.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Uanset § 82 a, stk. 4, i lov om arbejdsløshedsforsikring m.v. som ændret ved denne lovs § 2, nr. 3 og 4, bidrager kommunerne ikke til finansieringen af dagpenge og uddannelsesydelse for de sammenlagt første 12 uger i 2011 og 8 uger i 2012.</Char>
+          </Linea>
+          <Linea>
+            <Char>I disse perioder finder § 85 c, stk. 3, i lov om arbejdsløshedsforsikring m.v. som ændret ved denne lovs § 2, nr. 5 og 6, tilsvarende anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Indenrigs- og sundhedsministeren yder i 2011 og 2012 et særligt tilskud til de kommuner, der som følge af ændringer i refusion og tilskud, jf. denne lovs §§ 1, 2, 4 og 5 samt det af Folketinget den 17. december 2010 vedtagne forslag til lov om ændring af lov om sygedagpenge.</Char>
+          </Linea>
+          <Linea>
+            <Char>(Ændring af refusionssatser) og det af Folketinget den 17. december 2010 vedtagne forslag til lov om ændring af lov om en aktiv beskæftigelsesindsats.</Char>
+          </Linea>
+          <Linea>
+            <Char>(Prisloft på 6 ugers selvvalgt uddannelse), samlet har et byrdefordelingsmæssigt tab, som af Indenrigs- og Sundhedsministeriet er beregnet til at overstige 0,05 pct. af kommunens beskatningsgrundlag for 2011 og 0,1 pct. af kommunens beskatningsgrundlag for 2012.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 5.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Indenrigs- og sundhedsministeren udbetaler i 2011 en foreløbig kompensation til kommunerne for kommunale merudgifter som følge af denne lov.</Char>
+          </Linea>
+          <Linea>
+            <Char>Kompensationen udbetales i månedlige rater, dog således, på en sådan måde at raterne for januar, februar og marts 2011 udbetales den 1. april 2011.</Char>
+          </Linea>
+          <Linea>
+            <Char>Den foreløbige kompensation opgøres som:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Index>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>1)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Forskellen mellem det beregnede beskæftigelsestilskud for 2011 efter de hidtidige regler og en fornyet beregning af beskæftigelsestilskuddet for 2011, jf. § 23 a, stk. 2, i lov om kommunal udligning og generelle tilskud til kommuner som følge af denne lov og det af Folketinget den 17. december 2010 vedtagne forslag til lov om ændring af lov om en aktiv beskæftigelsesindsats.</Char>
+                </Linea>
+                <Linea>
+                  <Char>(Prisloft på 6 ugers selvvalgt uddannelse).</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>2)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>En foreløbig beregning af en midtvejsregulering af den kommunale budgetgaranti som følge af denne lov, jf. § 14, stk. 2, nr. 5, i lov om kommunal udligning og generelle tilskud til kommuner.</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>3)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>En foreløbig beregning af midtvejsreguleringen af statens tilskud til kommunerne som følge af denne lov og det af Folketinget den 17. december 2010 vedtagne forslag til lov om ændring af lov om sygedagpenge.</Char>
+                </Linea>
+                <Linea>
+                  <Char>(Ændring af refusionssatser), jf. § 14, stk. 2, nr. 4, i lov om kommunal udligning og generelle tilskud til kommuner.</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+          </Index>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 6.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Den foreløbige kompensation opgøres af indenrigs- og sundhedsministeren.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 7</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Beskæftigelsesministeren kan fastsætte nærmere regler om overgangs- og efterreguleringsordninger for opgørelse af kommunernes bidrag til dagpenge og uddannelsesydelse, jf. § 82 a i lov om arbejdsløshedsforsikring m.v. som ændret ved denne lovs § 2, nr. 1-4.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,920 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2011/03/21/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20110028130</AccessionNumber>
+    <DocumentId>BE004578</DocumentId>
+    <UniqueDocumentId>136506</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om europæiske samarbejdsudvalg\n(Implementering af Rådets direktiv 2009/38/EF om revision af det eksisterende direktiv)</DocumentTitle>
+    <Year>2011</Year>
+    <DiesSigni>2011-04-06</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2011-08-25</EndDate>
+    <Status>Valid</Status>
+    <Number>281</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 281 af 06/04/2011</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <EuReferences>32009L0038</EuReferences>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Inger Støjberg</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Beskæftigelsesmin., j.nr. 2010-0008489</JournalNumber>
+    <Ministry>Beskæftigelsesministeriet</Ministry>
+    <AdministrativeAuthority>Beskæftigelsesministeriet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om europæiske samarbejdsudvalg</Char>
+      </Linea>
+      <Nota formaNo="EU" id="Not1">
+        <Explicatus>1)</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven indeholder bestemmelser, der gennemfører Rådets direktiv nr. 2009/38/EF af 6. maj 2009 om indførelse af europæiske samarbejdsudvalg eller en procedure i fællesskabsvirksomheder og fællesskabskoncerner med henblik på at informere og høre arbejdstagerne (omarbejdning), EU-Tidende 2009, nr. L 122, side 28-44.</Char>
+          </Linea>
+        </Exitus>
+      </Nota>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Implementering af Rådets direktiv 2009/38/EF om revision af det eksisterende direktiv)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om europæiske samarbejdsudvalg, jf. lovbekendtgørelse nr. 1018 af 27. oktober 2009, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">Fodnoten</Char>
+                <Char> til lovens titel affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>1)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Loven indeholder bestemmelser, der gennemfører Rådets direktiv nr. 1994/45/EF af 22. september 1994, EF-Tidende 1994, nr. L 254, side 54, Rådets direktiv nr. 1997/74/EF af 15. december 1997, EF-Tidende 1998, nr. L 10, side 22, Rådets direktiv nr. 2006/109/EF af 20. november 2006, EF-Tidende 2006, nr. L 363, side 416, og Rådets direktiv nr. 2009/38/EF af 6. maj 2009, EU-Tidende 2009, nr. L 122, side 28-44.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Overskriften til </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 1</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst overskriftAfType="ParagrafGruppe">
+              <Rubrica>
+                <Linea>
+                  <Char>Lovens formål og område</Char>
+                </Linea>
+              </Rubrica>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 2 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 2 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Loven finder anvendelse på procedurer om information og høring af lønmodtagere vedrørende tværnationale emner.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 3, stk. 1,</Char>
+                <Char> ændres »94/45« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»2009/38«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 6, stk. 6,</Char>
+                <Char> ændres »4064/89 af 21. december 1989« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»139/2004 af 20. januar 2004«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 7 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 7 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Tværnationale emner er emner, der vedrører hele en fællesskabsvirksomhed eller hele en fællesskabskoncern eller mindst to virksomheder eller bedrifter i fællesskabsvirksomheden eller fællesskabskoncernen, der er beliggende i to forskellige medlemsstater, som er af betydning for fællesskabsvirksomhedens eller fællesskabskoncernens europæiske arbejdsstyrke, og som involverer et relevant ledelses- og repræsentationsniveau.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 7 b.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ved information forstås i denne lov arbejdsgiverens videregivelse af oplysninger til lønmodtagerrepræsentanterne på et tidspunkt, på en måde og med et indhold, således at lønmodtagerrepræsentanterne sættes i stand til at foretage en dybdegående undersøgelse af informationen og i givet fald forberede møder med den centrale ledelse i de berørte fællesskabsvirksomheder eller fællesskabskoncerner.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 7 c.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ved høring forstås i denne lov etablering af dialog og udveksling af synspunkter mellem lønmodtagerrepræsentanterne og den centrale ledelse eller ethvert andet mere passende ledelsesniveau på et tidspunkt, på en måde og med et indhold, som sætter lønmodtagerrepræsentanterne i stand til på grundlag af de meddelte oplysninger om de foreslåede foranstaltninger, som høringen vedrører, at afgive udtalelse, der kan tages hensyn til i fællesskabsvirksomhedens eller fællesskabskoncernens beslutningsproces.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 9</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 2:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den centrale ledelse er ansvarlig for indhentning og videregivelse af oplysninger til lønmodtagerne, som er nødvendige for indledning af forhandlinger om nedsættelse af det særlige forhandlingsorgan, herunder oplysninger i henhold til lovens §§ 4 og 5 om virksomhedens eller koncernens struktur og om antallet af ansatte.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 11, stk. 2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Medlemmer af det særlige forhandlingsorgan udpeges i forhold til det antal lønmodtagere, fællesskabsvirksomheden eller fællesskabskoncernen beskæftiger i hver medlemsstat.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Lønmodtagerne i hver medlemsstat tildeles en ordinær plads i det særlige forhandlingsorgan for hver 10 pct. eller en del heraf, som lønmodtagerne i en medlemsstat udgør af det samlede antal lønmodtagere i fællesskabsvirksomheden eller fællesskabskoncernen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Medlemmerne af det særlige forhandlingsorgan vælges af lønmodtagerrepræsentanterne af deres midte eller i mangel heraf af alle lønmodtagerne af deres midte.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 11, stk. 4,</Char>
+                <Char> ændres »der ikke er repræsenteret« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»som ikke er repræsenteret«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>10.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 11, stk. 5</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">6,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>11.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 12</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 12.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Den centrale ledelse, de lokale ledelser og de kompetente europæiske lønmodtager- og arbejdsgiverorgani­sa­tio­ner skal underrettes om indledningen af forhandlingerne og om, hvem der er valgt til det særlige forhandlingsorgan.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>12.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 13, stk. 2,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2.</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">3. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Det særlige forhandlingsorgan kan lade sig bistå af særligt sagkyndige efter medlemmerne af det særlige forhandlingsorgans eget valg.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De særligt sagkyndige kan være repræsentanter for de kompetente og anerkendte lønmodtagerorganisationer på fællesskabsplan, som på anmodning af det særlige forhandlingsorgan kan deltage som rådgivere i forhandlingsmøderne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>13.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 17, nr. 2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>2)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udvalgets sammensætning og antallet af medlemmer, idet der i videst muligt omfang tages hensyn til behovet for en ligelig repræsentation af lønmodtagerne efter aktiviteter, kategorier, køn og mandatets varighed.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>14.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 17, nr. 3,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>3)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udvalgets opgaver, beføjelser og proceduren for information og høring af det europæiske samarbejdsudvalg og af de nationale organer for lønmodtagerrepræsentation.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>15.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 17, nr. 7,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>7)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Aftalens ikrafttrædelsesdato og varighed, regler for ændring, genforhandling og opsigelse af aftalen.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>16.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 17</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">nr. 8:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>8)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sammensætning, udpegningsregler, beføjelser og møderegler for et forretningsudvalg under det europæiske samarbejdsudvalg, hvis et sådant påtænkes oprettet.</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>17.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Før overskriften til </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 18</Char>
+                <Char> indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 17 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Sker der væsentlige ændringer i fællesskabsvirksomhedens eller fællesskabskoncernens struktur, og er der ikke fastsat bestemmelser om, hvad der skal ske med det europæiske samarbejdsudvalg i tilfælde af væsentlige ændringer i henhold til gældende aftaler, eller strider bestemmelserne i to eller flere gældende aftaler mod hinanden, kan den centrale ledelse indlede de i § 10 nævnte forhandlinger på eget initiativ, og den centrale ledelse skal gøre dette på skriftlig anmodning fra mindst 100 lønmodtagere eller deres repræsentanter i mindst to bedrifter eller virksomheder beliggende i mindst to forskellige medlemsstater.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Mindst 3 medlemmer af det eksisterende europæiske samarbejdsudvalg eller, hvis der er flere udvalg, 3 medlemmer af hvert af de eksisterende europæiske samarbejdsudvalg skal være medlemmer af det særlige forhandlingsorgan ud over de i henhold til § 11 valgte eller udpegede medlemmer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Mens forhandlingerne efter stk. 1 pågår, fortsætter det eller de eksisterende europæiske samarbejdsudvalg deres arbejde, eventuelt efter regler tilpasset ved aftale mellem medlemmerne af det eller de europæiske samarbejdsudvalg og den centrale ledelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>18.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 19 indsættes i </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">kapitel 4:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 19 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Den praktiske tilrettelæggelse af information og høring af lønmodtagerne gennemføres på en sådan måde, at effektiviteten i proceduren sikres, og at virksomheden eller koncernen får mulighed for effektiv beslutningstagning.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>19.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 21</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 21.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Det europæiske samarbejdsudvalgs kompetence angår tværnationale emner.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det europæiske samarbejdsudvalg skal af den centrale ledelse især høres om fællesskabsvirksomhedens eller fællesskabskoncernens struktur, dens økonomiske og finansielle situation, den forventede udvikling, for så vidt angår dens aktiviteter, produktion og salg, beskæftigelsessituationen og dennes sandsynlige udvikling, investeringer, væsentlige ændringer i organisationen, indførelsen af nye arbejdsmetoder eller produktionsprocesser, produktionsoverførsler, fusioner, nedskæringer eller lukning af virksomheder, bedrifter eller væsentlige dele heraf og kollektive afskedigelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Høringen efter stk. 2 sker således, at medlemmerne af det europæiske samarbejdsudvalg mødes med den centrale ledelse og får et begrundet svar på en eventuel udtalelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>20.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Medlemmerne af det europæiske samarbejdsudvalg vælges af lønmodtagerrepræsentanterne af deres midte eller i mangel heraf af alle lønmodtagerne af deres midte.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>21.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22, stk. 3,</Char>
+                <Char> ændres »der ikke er repræsenteret« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»som ikke er repræsenteret«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>22.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22, stk. 4,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Til at koordinere sine aktiviteter kan det europæiske samarbejdsudvalg af sin midte vælge et forretningsudvalg, der højst må bestå af 5 medlemmer, og som skal have de forudsætninger, der sætter dem i stand til at udøve deres virksomhed regelmæssigt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>23.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22, stk. 5,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Medlemmer af det europæiske samarbejdsudvalg vælges og udpeges i forhold til det antal lønmodtagere, fællesskabsvirksomheden eller fællesskabskoncernen beskæftiger i hver medlemsstat.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Lønmodtagerne i hver medlemsstat tildeles en ordinær plads i det europæiske samarbejdsudvalg for hver 10 pct. eller en del heraf, som lønmodtagerne i en stat udgør af det samlede antal lønmodtagere i fællesskabsvirksomheden eller fællesskabskoncernen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>24.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22, stk. 6,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 7-10 bliver herefter stk. 6-9.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>25.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22, stk. 8, 3. pkt.,</Char>
+                <Char> der bliver stk. 7, 3. pkt., udgår »og 6«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>26.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 24, stk. 1,</Char>
+                <Char> indsættes efter »omstændigheder«:</Char>
+              </Linea>
+              <Linea>
+                <Char>»eller beslutninger«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>27.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 24, stk. 2,</Char>
+                <Char> udgår »om foranstaltninger, der i væsentlig grad berører lønmodtagernes interesser«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>28.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 24, stk. 3,</Char>
+                <Char> ændres »planlagte foranstaltninger« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»pågældende omstændigheder eller beslutninger«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>29.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 28, stk. 2,</Char>
+                <Char> indsættes efter 1. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>I den forbindelse skal medlemmerne have uddannelse uden løntab, hvis det er nødvendigt, for at de kan udøve deres repræsentative opgaver i et internationalt miljø.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>30.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 33 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 33 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Medlemmerne af det europæiske samarbejdsudvalg skal underrette lønmodtagerrepræsentanterne på virksomhedsniveau i en fællesskabskoncern eller, i mangel af repræsentanter, samtlige lønmodtagere om indholdet og resultatet af informations- og høringsproceduren.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>31.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 37, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Overtrædelse af § 9, § 10, stk. 1, § 11, stk. 1, §§ 16, 17 a, 20 og 23, § 24, stk. 1, 2 og 4, og § 28 straffes med bøde.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 5. juni 2011.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven bortset fra § 1, nr. 15, finder ikke anvendelse for de fællesskabsvirksomheder og fællesskabskoncerner, hvor der er aftaler om information og høring efter denne lov, som er trådt i kraft, eller som træder i kraft senest den 4. juni 2011.</Char>
+          </Linea>
+          <Linea>
+            <Char>Det er dog en forudsætning, at en aftale omfatter alle lønmodtagere i den pågældende virksomhed eller koncern og vedrører information og høring om spørgsmål, der berører virksomheder eller bedrifter i flere af EU- og EØS-landene.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Hvis de i stk. 1 nævnte aftaler udløber, kan parterne aftale at videreføre disse.</Char>
+          </Linea>
+          <Linea>
+            <Char>Hvis ikke de videreføres, finder loven anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

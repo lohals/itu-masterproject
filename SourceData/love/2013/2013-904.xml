@@ -1,0 +1,1090 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2012/09/21/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20130090430</AccessionNumber>
+    <DocumentId>BK001432</DocumentId>
+    <UniqueDocumentId>152722</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af sundhedsloven og lov om klage- og erstatningsadgang inden for sundhedsvæsenet\n(Ændring af rammerne for almen medicinske ydelser m.v. i praksissektoren, herunder styrkelse af regionernes planlægnings- og styringsmuligheder, ensartet kvalitet, systematisk patientinddragelse, erstatningspligt m.v.)</DocumentTitle>
+    <Year>2013</Year>
+    <DiesSigni>2013-07-04</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2017-01-26</EndDate>
+    <Status>Historic</Status>
+    <Number>904</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1202 af 14/11/2014</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LOV nr 1638 af 26/12/2013 </KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 84 af 17/01/2017</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 904 af 04/07/2013</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2017-01-25</DateOfHistoricMark>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20130163830</Ref_Accn>
+    <Ref_Af REFid="change_1">2013-12-26</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om ændring af sundhedsloven og lov om klage- og erstatningsadgang inden for sundhedsvæsenet\n(Gennemførelse af dele af direktiv 2011/24/EU om patientrettigheder i forbindelse med grænseoverskridende sundhedsydelser m.v.)</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Astrid Krag</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Ministeriet for Sundhed og Forebyggelse, sagsnr. 1211467</JournalNumber>
+    <Ministry>Sundheds- og Ældreministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af sundhedsloven og lov om klage- og erstatningsadgang inden for sundhedsvæsenet</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Ændring af rammerne for almen medicinske ydelser m.v. i praksissektoren, herunder styrkelse af regionernes planlægnings- og styringsmuligheder, ensartet kvalitet, systematisk patientinddragelse, erstatningspligt m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I sundhedsloven, jf. lovbekendtgørelse nr. 913 af 13. juli 2010, som ændret bl.a. ved lov nr. 603 af 18. juni 2012 og § 5 i lov nr. 622 af 12. juni 2013 og senest ved § 1 i lov nr. 653 af 12. juni 2013, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 57, stk. 1,</Char>
+                <Char> indsættes efter »tilvejebringe«: »og sikre«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 57, stk. 2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Regionsrådet har ansvaret for at sikre, at borgere kan modtage vederlagsfri sygebesøg i hjemmet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 57 indsættes før kapitel 14:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 57 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Regionsrådet fastsætter på baggrund af praksis­planen vedrørende almen praksis, jf. § 206 a, placeringen af de praksis, hvorfra der i henhold til et ydernummer ydes vederlagsfri behandling til personer omfattet af sikringsgruppe 1, jf. § 60, stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En indehaver af et ydernummer, der ønsker at flytte praksis, skal indhente regionsrådets godkendelse.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Godkendelse skal meddeles, hvis flytningen ikke ændrer forudsætningerne for praksisplanen eller er i strid med denne, jf. § 206 a.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Kapitel>
+                <Explicatus>Kapitel 13 a</Explicatus>
+                <Rubrica>
+                  <Linea>
+                    <Char>Obligatoriske opgaver m.v. for alment praktiserende læger</Char>
+                  </Linea>
+                </Rubrica>
+                <ParagrafGruppe>
+                  <Paragraf>
+                    <Explicatus>§ 57 b.</Explicatus>
+                    <Stk>
+                      <Exitus>
+                        <Linea>
+                          <Char>Alment praktiserende læger er forpligtede til at udøve deres virksomhed i overensstemmelse med nationale faglige retningslinjer m.v.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Alment praktiserende læger, der behandler gruppe 1-sikrede personer, jf. § 60, stk. 1, er forpligtede til at udøve deres virksomhed i overensstemmelse med de sundhedsaftaler, der er indgået imellem regionsrådet og kommunalbestyrelserne i regionen, jf. § 205, herunder følge forløbsprogrammer m.v.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf>
+                    <Explicatus>§ 57 c.</Explicatus>
+                    <Stk>
+                      <Exitus>
+                        <Linea>
+                          <Char>Det påhviler alment praktiserende læger, der yder behandling til gruppe 1-sikrede personer, jf. § 60, stk. 1, at foretage kodning af henvendelser til almen praksis og anvende datafangst.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Alment praktiserende læger, der yder behandling til gruppe 1-sikrede personer, jf. § 60, stk. 1, skal offentliggøre de oplysninger om deres praksis, der er relevante i forbindelse med borgernes valg af læge, jf. § 59, stk. 1.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Ministeren for sundhed og forebyggelse fastsætter nærmere regler om kodning og datafangst.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Ministeren for sundhed og forebyggelse fastsætter endvidere nærmere regler om offentliggørelse af oplysninger om praksis efter stk. 2.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 59, stk. 5,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for sundhed og forebyggelse fastsætter nærmere regler om gruppe 1-sikrede personers valg af læge, herunder i forbindelse med lægeskift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 60</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for sundhed og forebyggelse fastsætter nærmere regler om gruppe 1-sikrede personers ret til vederlagsfri behandling hos alment praktiserende læge.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 195</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 2</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">3:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det påhviler alment praktiserende læger, der yder behandling til gruppe 1-sikrede personer, jf. § 60, stk. 1, at give oplysninger om virksomheden til regionsrådene til brug for planlægning, kvalitetssikring og kontrol af udbetalte tilskud og honorarer, dog ikke oplysninger, der identificerer eller gør det muligt at identificere patienten.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for sundhed og forebyggelse fastsætter nærmere regler om, hvilke oplysninger alment praktiserende læger skal give til regionsrådene efter stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 204</Char>
+                <Char> indsættes efter stk. 1 som nye stykker:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I hver region nedsættes et praksisplanudvalg, der består af 5 medlemmer udpeget blandt kommunalbestyrelsesmedlemmer fra kommunerne i regionen, 3 medlemmer fra regionsrådet og 3 medlemmer udpeget blandt alment praktiserende læger, der behandler gruppe 1-sikrede personer, jf. § 227, stk. 1, jf. § 60, stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Regionsrådet varetager formandskabet og sekretariatsbetjener udvalget.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der skal tilstræbes enighed i udvalget om den endelige udformning af praksisplanen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Er det ikke muligt at opnå enighed, tilfalder den endelige beslutning vedrørende praksisplanens udformning regionsrådet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I hver region nedsættes et patientinddragelsesudvalg, som sundhedskoordinationsudvalget, jf. stk. 1, og praksisplanudvalget, jf. stk. 2, systematisk inddrager i deres drøftelser.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Patientinddragelsesudvalget består af medlemmer, som er udpeget af patient- og pårørendeorganisationer.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2 bliver herefter stk. 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 204, stk. 2,</Char>
+                <Char> der bliver stk. 4, indsættes efter »formandskab m.v.«: », det i stk. 2 nævnte praksisplanudvalg og det i stk. 3 nævnte patientinddragelsesudvalg.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 206 indsættes i </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">kapitel 63:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 206 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Det i § 204, stk. 2, nævnte udvalg skal i hver valgperiode udarbejde en praksisplan vedrørende almen praksis, der udgør en del af regionens sundhedsplan, jf. § 206.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Praksisplanen skal revideres i valgperioden, hvis der sker væsentlige ændringer i dens forudsætninger.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Praksis­planen skal inden den endelige vedtagelse forelægges for Sundhedsstyrelsen, som yder rådgivning vedrørende praksis­planens udformning.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Forud for udarbejdelse og revision af praksisplanen vedrørende almen praksis skal der gennemføres en høring blandt kommunerne i regionen, og praksisplanen skal inden vedtagelsen forelægges for sundhedskoordinationsudvalget, jf. § 204, stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Inden praksisplanen vedrørende almen praksis udarbejdes eller revideres, skal der ske en høring af de praksis i regionen, der yder vederlagsfri behandling til personer, der er omfattet af sikringsgruppe 1, jf. § 60, stk. 1.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Planen skal inden vedtagelsen forelægges patientinddragelsesudvalget, jf. § 204, stk. 3, til høring.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>10.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Overskriften til </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">kapitel 70</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Kapitel>
+                <Explicatus>Kapitel 70</Explicatus>
+                <Rubrica>
+                  <Linea>
+                    <Char>Overenskomster, organisationsformer m.v.</Char>
+                  </Linea>
+                </Rubrica>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>11.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 227, stk. 1,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Vilkår, der er fastsat og udstedt i medfør af § 57 a, § 57 b, § 57 c, stk. 1 eller 2, § 195, stk. 2, § 204, stk. 2 eller 3, eller § 206 a, eller regler udstedt i medfør af § 57 c, stk. 3, § 59, stk. 5, eller § 60, stk. 3, i denne lov som bindende vilkår, kan dog ikke fraviges ved overenskomster indgået med organisationer af sundhedspersoner repræsenterende almen praksis.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>12.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 227</Char>
+                <Char> indsættes efter stk. 1 som nye stykker:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ydernumre fra praksis, som har leveret almen medicinske ydelser til gruppe 1-sikrede personer, jf. stk. 1, 1. pkt., jf. § 60, stk. 1, og som regionsrådet har fået overdraget, kan regionsrådet sælge til læger, som vil praktisere i henhold til stk. 1, 1. pkt., jf. § 60, stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Regionsrådet kan endvidere sælge nye ydernumre, som regionen har oprettet, og ydernumre fra eksisterende praksis, som regionsrådet har opkøbt som led i praksisplanlægningen, til læger, som vil praktisere i henhold til stk. 1, 1. pkt., jf. § 60, stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Salg af ydernumre, jf. 1. og 2. pkt., kan ske til læger, som allerede har et ydernummer.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>En læge kan eje op til seks ydernumre erhvervet i henhold til 1. og 2. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Regionen kan udbyde drift af praksis, som hidtil har leveret almen medicinske ydelser til gruppe 1-sikrede personer, jf. stk. 1, 1. pkt., jf. § 60, stk. 1, og hvor regionsrådet har fået overdraget ydernummeret.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Regionsrådet kan desuden udbyde drift af praksis vedrørende nye ydernumre, som regionsrådet har oprettet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Regionsrådet kan endvidere som led i praksisplanlægningen opkøbe eksisterende ydernumre fra læger, der har ønsket at sælge, og udbyde driften af disse praksis.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udbud efter stk. 3 skal foregå på åbne, objektive og ikke diskriminerende vilkår og skal tilrettelægges på en sådan måde, at eventuelle bud kan sammenlignes med, hvad en offentligt drevet enhed vil koste.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Regionsrådet har mulighed for at forkaste et bud, hvis omkostningerne er væsentlig højere i en sammenligning.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis der ikke er private leverandører, der deltager i udbud af drift af praksis foretaget i henhold til stk. 3, eller regionsrådet har forkastet bud i henhold til stk. 4, 2. pkt., kan regionsrådet selv etablere en praksis i en periode på op til 4 år.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Et regionsråd, der ønsker at fortsætte driften af praksis efter udløbet af 4-årsperioden, kan alene gøre dette, hvis det ikke er muligt at sælge ydernummeret til en læge efter stk. 2 eller afsætte driften via udbud efter stk. 3 og 4.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et regionsråd kan i tilfælde af akut opstået lægemangel i en kort periode etablere et midlertidigt almen medicinsk lægetilbud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2-8 bliver herefter stk. 7-13.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>13.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 229</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 229.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Foreligger der ingen overenskomst vedrørende vilkårene for ydelser efter § 227, stk. 1, fastsætter ministeren for sundhed og forebyggelse nærmere regler om vilkårene for regionernes og kommunernes tilskud, herunder regler om ydelsernes indhold og anvendelse og om udbetaling af honorarerne til sundhedspersonerne, om honorarstørrelserne på de enkelte ydelser og om kørselsgodtgørelse til læger, der tilkaldes til de i § 59 omhandlede personer m.v. Ministeren kan endvidere fastsætte regler om, at honorarerne for de enkelte ydelser nedsættes i tilfælde af væsentlig øget aktivitet, der ikke er begrundet i et tilsvarende øget behov for sundhedsydelser.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ministeren kan fastsætte regler om den samlede økonomiske ramme for ydelserne samt regler om eventuel modregning i fremtidige honorarer ved overskridelse af denne ramme.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ministeren kan ligeledes fastsætte regler om, at hidtidige overenskomstfastsatte forpligtelser knyttet til udbetaling af honorarer skal være gældende, ligesom ministeren kan fastsætte regler om henvisning til behandling.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>14.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 273 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 273 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for sundhed og forebyggelse kan i forskrifter, der udstedes i medfør af § 57 c, stk. 3, og § 195, stk. 1 og 3, fastsætte bestemmelser om straf af bøde for overtrædelse af bestemmelser i forskrifterne.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om klage- og erstatningsadgang inden for sundhedsvæsenet, jf. lovbekendtgørelse nr. 1113 af 7. november 2011, som ændret ved lov nr. 1257 af 18. december 2012 og § 2 i lov nr. 1401 af 23. december 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 29, stk. 1, nr. 5, 1. pkt.,</Char>
+                <Char> ændres »jf. dog stk. 2« til: »jf. dog stk. 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 29</Char>
+                <Char> indsættes efter stk. 1 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Pligt til at yde erstatning efter dette kapitel har endvidere speciallægepraksisser med speciale i almen medicin, som ikke virker efter overenskomst, jf. sundhedslovens § 227, stk. 1, jf. § 60, stk. 1, for skader efter behandling, undersøgelse el.lign.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>, som er betalt direkte uden om det offentlige sundhedsvæsen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Dog har den region, hvor speciallægepraksissen er beliggende, pligt til at yde erstatning for skader efter behandling, undersøgelse el.lign.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>, som er udført efter sundhedslovens øvrige bestemmelser.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2 og 3 bliver herefter stk. 3 og 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 30, stk. 5,</Char>
+                <Char> indsættes efter nr. 1 som nyt nummer:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="True">
+            <AendringNyTekst>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>at den region, hvor den erstatningspligtige, jf. § 29, har bopæl eller hjemsted, udbetaler erstatning i tilfælde, hvor den erstatningspligtige ikke har tegnet forsikring efter stk. 2, idet regionen kan anlægge sag om regres mod den erstatningspligtige,</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Nr. 2 og 3 bliver herefter nr. 3 og 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 30, stk. 6,</Char>
+                <Char> ændres »nr. 1-3« til: »nr. 3 og 4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 31, stk. 6,</Char>
+                <Char> ændres »nr. 1 og 2« til: »nr. 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 34, stk. 2,</Char>
+                <Char> ændres »Danske Handicaporganisationer og Forbrugerrådet.« til: »Danske Handicaporganisationer, Forbrugerrådet og Danske Patienter.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 34, stk. 4,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ved afgørelsen af den enkelte sag skal nævnet sammensættes af</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>formanden eller 1 næstformand,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>2 sagkyndige medlemmer udpeget af Sundhedsstyrelsen efter stk. 3 afhængigt af sagens faglige karakter,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem udpeget af regionsrådene i forening,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem udpeget af KL,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>1 medlem udpeget af Advokatrådet og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>2 medlemmer udpeget af Forbrugerrådet, Danske Handicaporganisationer og Danske Patienter i forening.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 1257 af 18. december 2012 om ændring af lov om klage- og erstatningsadgang inden for sundhedsvæsenet (Private sygehuse, klinikker og speciallægepraksissers medfinansiering af patientskadeerstatningsordningen, vederlag og befordringsgodtgørelse til Forbrugerrådets og Danske Patienters repræsentanter i tandlægenævnene m.v.) foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 1, nr. 14,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 2, stk. 1,</Char>
+                <Char> ændres »1. juli 2013« til: »1. september 2013«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 4</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. september 2013, jf. dog stk. 2 og 3.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Ministeren for sundhed og forebyggelse fastsætter tidspunktet for ikrafttrædelsen af § 1.</Char>
+          </Linea>
+          <Linea>
+            <Char>Ministeren kan herunder fastsætte, at dele af § 1 træder i kraft på forskellige tidspunkter.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 2, nr. 6 og 7, og § 3 træder i kraft den 15. juli 2013.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Indtil § 1 træder i kraft, finder Overenskomst om almen praksis af 3. juni 1991 ændret senest ved aftale af 21. december 2010 fortsat anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 5.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Bilag 1 til denne lov gælder, indtil § 1 træder i kraft.</Char>
+          </Linea>
+          <Linea>
+            <Char>Den økonomiske ramme svarer forholdsmæssigt til den periode, hvor økonomiprotokollatet, jf. bilag 1, er gældende.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 6.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Den første praksisplan, jf. § 206 a, stk. 1, skal foreligge den 1. maj 2014.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 5</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 2 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+  <Bilag id="Bil1">
+    <Explicatus>Bilag 1</Explicatus>
+    <BilagIndhold>
+      <TekstGruppe>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Økonomiprotokollat af 21. december 2010</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char>‍</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Den økonomiske ramme inden for almen lægegerning er de samlede udgifter i årsopgørelsen vedr.</Char>
+          </Linea>
+          <Linea>
+            <Char>2010.</Char>
+          </Linea>
+          <Linea>
+            <Char>Rammen omfatter alle udgifter i dag- og vagttid inkl.</Char>
+          </Linea>
+          <Linea>
+            <Char>basishonorering og profylaktiske ydelser.</Char>
+          </Linea>
+          <Linea>
+            <Char>Udgifter vedr.</Char>
+          </Linea>
+          <Linea>
+            <Char>§ 2-aftaler er ikke inkluderet i rammen.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>‍</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Til rammen lægges:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Index>
+            <Indentatio formaInd="Fri">
+              <Explicatus>–</Explicatus>
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>løn- og prisregulering af honorarerne i henhold til overenskomstens bestemmelser herom (reguleringsprocenten)</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Fri">
+              <Explicatus>–</Explicatus>
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>75 mio. kr. pr. 1. april 2011 og yderligere 50 mio. kr. pr. 1. april 2012 vedr.</Char>
+                </Linea>
+                <Linea>
+                  <Char>generelle forpligtelser inden for kronikerområdet mv. (beløbet er opgjort i 1. april 2011-niveau)</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Fri">
+              <Explicatus>–</Explicatus>
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>106 mio. kr. pr. 1. april 2011 og yderligere 108 mio. kr. fra 1. april 2012 (beløbet er opgjort i 1. april 2011-niveau).</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+          </Index>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Udgiftsudviklingen inden for overenskomstens område følges af parterne gennem kvartalsvise opgørelser.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Hvis de årlige udgifter til almen lægegerning overstiger den aftalte ramme, er parterne enige om, at der med virkning fra 1. oktober efter opgørelsen foreligger, sker en modregning i reguleringsprocenten.</Char>
+          </Linea>
+          <Linea>
+            <Char>Modregningen skal give kompensation svarende til den konstaterede forskel mellem den aftalte økonomiske ramme og de faktiske udgifter.</Char>
+          </Linea>
+          <Linea>
+            <Char>Der kan dog ikke blive tale om en nedsættelse af honorarer.</Char>
+          </Linea>
+          <Linea>
+            <Char>I tilfælde af, at overskridelsen ikke fuldt ud kan modregnes i reguleringen pr. 1. oktober, overføres den manglende modregning til efterfølgende reguleringer.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>I helt særlige tilfælde kan der mellem de centrale parter aftales en korrektion af rammen.</Char>
+          </Linea>
+          <Linea>
+            <Char>Det kan eksempelvis skyldes ekstraordinær sygelighed og større strukturelle ændringer samt ændringer som følge af lovgivning.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaForma="NormalInd">
+          <Linea>
+            <Char>Der er ikke fastsat nogen økonomisk ramme for perioden efter 31. marts 2013.</Char>
+          </Linea>
+        </Exitus>
+      </TekstGruppe>
+    </BilagIndhold>
+  </Bilag>
+</Dokument>

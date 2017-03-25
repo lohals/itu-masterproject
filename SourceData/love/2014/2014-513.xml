@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2013/08/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20140051330</AccessionNumber>
+    <DocumentId>BE005842</DocumentId>
+    <UniqueDocumentId>163286</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om lige løn til mænd og kvinder\n(Kønsopdelt lønstatistik)</DocumentTitle>
+    <Year>2014</Year>
+    <DiesSigni>2014-05-26</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2014-05-27</EndDate>
+    <Status>Valid</Status>
+    <Number>513</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 513 af 26/05/2014</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Mette Frederiksen</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Beskæftigelsesmin., j.nr. 2012-10342</JournalNumber>
+    <Ministry>Beskæftigelsesministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om lige løn til mænd og kvinder</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Kønsopdelt lønstatistik)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om lige løn til mænd og kvinder, jf. lovbekendtgørelse nr. 899 af 5. september 2008, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 1, stk. 5,</Char>
+                <Char> ændres »en tilsvarende forpligtelse« til: »tilsvarende forpligtelser og rettigheder«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 3, stk. 1, 2. pkt.,</Char>
+                <Char> ændres »§ 5 a, stk. 1« til: »§ 5 a, stk. 2 og 4-6, og § 5 b«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5 a</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 5 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Danmarks Statistik sender hvert år inden den 1. september uden beregning for virksomheden kønsopdelt lønstatistik til virksomheden for hele eller dele af virksomheden, når virksomhedens indberetning af lønoplysninger gør det muligt og viser, at virksomheden beskæftiger lønmodtagere svarende til mindst ti fuldtidsbeskæftigede, heraf mindst tre mænd og tre kvinder.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Indberetter en virksomhed lønoplysninger til en arbejdsgiverorganisation, sender arbejdsgiverorganisationen ligeledes inden den 1. september kønsopdelt lønstatistik til virksomheden, når indberetningen gør det muligt.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Virksomheden er ikke forpligtet til at anvende den modtagne kønsopdelte lønstatistik, jf. stk. 4, men skal i så fald selv udarbejde kønsopdelt lønstatistik, jf. stk. 3.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En virksomhed skal udarbejde kønsopdelt lønstatistik for hele eller dele af virksomheden for et kalenderår, når virksomheden i det pågældende år beskæftigede lønmodtagere svarende til mindst ti fuldtidsbeskæftigede, heraf mindst tre mænd og tre kvinder, og</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>virksomheden ikke har overholdt pligten til at indberette lønoplysninger for det pågældende år til Danmarks Statistik, jf. lov om Danmarks Statistik, eller til en arbejdsgiverorganisation eller</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>virksomheden har overholdt pligten til at indberette lønoplysninger for det pågældende år til Danmarks Statistik, jf. lov om Danmarks Statistik, eller til en arbejdsgiverorganisation, men ikke har modtaget kønsopdelt lønstatistik for det pågældende år inden den 1. september det efterfølgende år.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Kønsopdelt lønstatistik skal omfatte alle lønmodtagere i virksomheden, der aflønnes efter arbejdet tid.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Statistikken skal omfatte en periode på 12 måneder og vise lønforskellen mellem mænd og kvinder i medarbejdergrupper opgjort efter klassifikationen DISCO-08 eller et tilsvarende klassifikationssystem, når der er mindst tre mænd og tre kvinder på et givet DISCO-gruppeniveau eller tilsvarende gruppeniveau.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Et anvendt lønbegreb skal omfatte alle lønmodtagere i lønstatistikken.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Modtager eller udarbejder en virksomhed kønsopdelt lønstatistik, skal virksomheden:</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Orientere lønmodtagerne om, at virksomheden er omfattet af reglerne om kønsopdelt lønstatistik, senest 2 måneder efter at statistikken er modtaget eller udarbejdet.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Udlevere kønsopdelt lønstatistik til virksomhedens lønmodtagerrepræsentanter, senest 2 måneder efter at statistikken er modtaget eller udarbejdet.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Er der ikke en lønmodtagerrepræsentant på virksomheden, skal virksomheden udlevere statistikken til en lønmodtager senest 2 måneder efter lønmodtagerens anmodning herom.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Virksomheden kan af hensyn til virksomhedens legitime interesser beslutte, at statistikken er fortrolig.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Sikre muligheden for at drøfte den kønsopdelte lønstatistik senest 2 måneder efter en lønmodtagerrepræsentants anmodning herom.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Er der ikke en lønmodtagerrepræsentant på virksomheden, skal virksomheden sikre muligheden for at drøfte statistikken senest 2 måneder efter en lønmodtagers anmodning herom.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En lønmodtagerrepræsentant kan rejse krav om, at kønsopdelt lønstatistik behandles i overensstemmelse med lov om information og høring af lønmodtagere eller en kollektiv overenskomst, jf. § 3 i lov om information og høring af lønmodtagere, når virksomheden er omfattet af nævnte lov eller overenskomst.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Er der ikke valgt en lønmodtagerrepræsentant på virksomheden, kan en lønmodtager rejse krav efter 1. pkt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 6.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Udarbejder virksomheden kønsopdelt lønstatistik i medfør af stk. 1, 3. pkt., eller stk. 2, skal virksomheden ud over pligterne i stk. 4 endvidere:</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Færdiggøre statistikken senest 1 år efter udgangen af den periode, som statistikken vedrører.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Redegøre for statistikkens udformning og det anvendte lønbegreb senest 2 måneder efter en lønmodtagerrepræsentants anmodning herom.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Er der ikke en lønmodtagerrepræsentant på virksomheden, skal virksomheden redegøre for statistikkens udformning og det anvendte lønbegreb senest 2 måneder efter en lønmodtagers anmodning herom.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>3)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>Udlevere kønsopdelt lønstatistik modtaget fra Danmarks Statistik senest 2 måneder efter en lønmodtagerrepræsentants anmodning herom.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Er der ikke en lønmodtagerrepræsentant på virksomheden, skal virksomheden udlevere statistikken til en lønmodtager senest 2 måneder efter lønmodtagerens anmodning herom.</Char>
+                          </Linea>
+                          <Linea>
+                            <Char>Virksomheden kan af hensyn til virksomhedens legitime interesser beslutte, at statistikken er fortrolig.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 7.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Har en lønmodtagerrepræsentant eller en lønmodtager modtaget kønsopdelt lønstatistik som fortrolig i medfør af stk. 4, nr. 2, 3. pkt., eller stk. 6, nr. 3, 3. pkt., må statistikken ikke videregives til uvedkommende.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 8.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Indgår virksomheden en aftale med lønmodtagerne i virksomheden om at udarbejde en redegørelse om ligeløn, finder stk. 1, 3. pkt., og stk. 2-6 ikke anvendelse.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>En redegørelse om ligeløn skal indeholde en beskrivelse af vilkår, der har betydning for aflønning af mænd og kvinder på virksomheden, og en handlingsplan med henblik på at forebygge eller mindske lønforskelle mellem mænd og kvinder og den nærmere opfølgning herpå.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Redegørelsen skal omfatte alle virksomhedens lønmodtagere og udarbejdes i overensstemmelse med principperne i lov om information og høring af lønmodtagere eller i en kollektiv overenskomst, jf. § 3 i lov om information og høring af lønmodtagere.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Redegørelsen skal omfatte en periode på 1-3 år og skal senest være udarbejdet inden udgangen af kalenderåret, hvor pligten til at udarbejde kønsopdelt lønstatistik bestod.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 5 b.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>En lønmodtager, der af sin arbejdsgiver er registreret under en DISCO-kode eller en tilsvarende kode i forbindelse med indberetning af lønoplysninger, har ret til at få oplyst denne kode af arbejdsgiveren.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 6 b, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre højere straf følger af den øvrige lovgivning, straffes med bøde den, der overtræder § 5 a, stk. 2, 4, 6 eller 7.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Kønsopdelt lønstatistik udarbejdes første gang efter denne lov af Danmarks Statistik eller en arbejdsgiverorganisation senest den 1. september 2016 på baggrund af lønoplysninger indsamlet i 2015.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven finder ikke anvendelse på kønsopdelt lønstatistik udarbejdet i 2015 på baggrund af lønoplysninger indsamlet i 2014.</Char>
+          </Linea>
+          <Linea>
+            <Char>For sådanne statistikker finder de hidtil gældende regler anvendelse.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven finder ikke anvendelse på kønsopdelt lønstatistik udarbejdet i medfør af regler om kønsopdelt lønstatistik i kollektive aftaler eller overenskomster indgået inden den 1. januar 2015.</Char>
+          </Linea>
+          <Linea>
+            <Char>For sådanne statistikker har loven først virkning fra det tidspunkt, på hvilket den pågældende aftale eller overenskomst kan opsiges til ophør.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

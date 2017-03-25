@@ -1,0 +1,722 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2012/09/21/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20120137630</AccessionNumber>
+    <DocumentId>BV000084</DocumentId>
+    <UniqueDocumentId>144953</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om byfornyelse og udvikling af byer\n(Ændrede fordelingsprincipper for områdefornyelse med særligt sigte på mindre byer og landdistrikter m.v.)</DocumentTitle>
+    <Year>2012</Year>
+    <DiesSigni>2012-12-23</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-11-10</EndDate>
+    <Status>Historic</Status>
+    <Number>1376</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 504 af 16/05/2013</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1376 af 23/12/2012</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2013-05-23</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Carsten Hansen</Signature>
+    <PlaceOfSignature>Givet på Marselisborg Slot</PlaceOfSignature>
+    <JournalNumber>Ministeriet for By, Bolig og Landdistrikter, j.nr. 2012-1892</JournalNumber>
+    <Ministry>Udlændinge-, Integrations- og Boligministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om byfornyelse og udvikling af byer</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Ændrede fordelingsprincipper for områdefornyelse med særligt sigte på mindre byer og landdistrikter m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om byfornyelse og udvikling af byer, jf. lovbekendtgørelse nr. 132 af 5. februar 2010, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 3</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">§ 3.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Kommunalbestyrelsen kan med henblik på at styrke grundlaget for private investeringer træffe beslutning om områdefornyelse for følgende områder:</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Nedslidte byområder i mindre byer, hvor der er et væsentligt behov for en bymæssig udvikling.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Nedslidte byområder i større byer, hvor der er et væsentligt behov for bygningsfornyelse.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Nyere boligområder med store sociale problemer.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Ældre erhvervs- og havneområder, som kommunalbestyrelsen senest ved tidspunktet for beslutningen om områdefornyelse udpeger som byomdannelsesområder efter § 11, stk. 5, nr. 4, i lov om planlægning, og som ikke umiddelbart kan omdannes på markedsvilkår.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Beslutningen skal gå ud på at iværksætte og koordinere foranstaltninger, der fremmer udviklingen i området.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 6, stk. 1,</Char>
+                <Char> ændres »på 50 mio. kr.« til: », jf. § 94, stk. 2, 3. pkt.,«, og »og § 94, stk. 2« udgår.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 6</Char>
+                <Char> indsættes efter stk. 1 som nye stykker:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">Stk. 2.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Tilsagn om refusion efter stk. 1 meddeles til ansøgninger i følgende prioriterede rækkefølge:</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Tilsagn til byområder, jf. § 3, stk. 1, nr. 1, inden for højst 35 mio. kr. af den i § 94, stk. 2, 3. pkt., nævnte udgiftsramme, jf. dog stk. 3.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Tilsagn til byområder, jf. § 3, stk. 1, nr. 2.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Tilsagn til boligområder, jf. § 3, stk. 1, nr. 3.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Tilsagn til områder, jf. § 3, stk. 1, nr. 4.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Uudnyttet udgiftsramme til de områder, der er nævnt i stk. 2, nr. 2-4, overføres til ansøgninger under stk. 2, nr. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2 og 3 bliver herefter stk. 4 og 5.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 6, stk. 2,</Char>
+                <Char> der bliver stk. 4, ændres »jf. dog stk. 3« til: »jf. dog stk. 5«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 8, stk. 2,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">nr. 5:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>5)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Fjernelse af skrot og affald på ejendomme beliggende i byer med færre end 3.000 indbyggere eller i det åbne land.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 12, stk. 1,</Char>
+                <Char> indsættes efter »støtteberettigede udgifter,«: »jf. § 8, stk. 2, nr. 1-4, og stk. 3,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 12</Char>
+                <Char> indsættes efter stk. 1 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">Stk. 2.</Char>
+                </Linea>
+                <Linea>
+                  <Char>De støtteberettigede udgifter, der udgør det maksimale grundlag for støtteberegningen, jf. § 8, stk. 2, nr. 5, består af udgifter til fjernelse af skrot og affald.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2 bliver herefter stk. 3.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 14</Char>
+                <Char> ændres »samt til nedrivningsudgifter« til: »og til udgifter vedrørende nedrivning samt fjernelse af skrot og affald«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 19, stk. 2,</Char>
+                <Char> indsættes efter 1. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Dog refunderes 60 pct. af kommunalbestyrelsens udgifter efter stk. 1, såfremt tilskud vedrører arbejder omfattet af § 8, stk. 2, nr. 1-3 og 5, og arbejderne udføres på bygninger eller ejendomme, der er beliggende i byer med færre end 3.000 indbyggere eller i det åbne land.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>10.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 21, nr. 1</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2,</Char>
+                <Char> ændres »eller wc« til: », wc eller bad«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>11.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Støtte til boliger omfattet af § 21, nr. 1 og 2, kan ydes til følgende foranstaltninger:</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Istandsættelse af bygningens klimaskærm.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Nedrivning, når denne er begrundet i bygningens fysiske tilstand.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Etablering af bad.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Afhjælpning af kondemnable forhold.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>5)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Fjernelse af skrot og affald på ejendomme, der er beliggende i byer med færre end 3.000 indbyggere eller i det åbne land.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>12.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22, stk. 3,</Char>
+                <Char> ændres »§ 22, stk. 1, nr. 1 og 3« til: »§ 22, stk. 1, nr. 1 og 4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>13.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 27</Char>
+                <Char> ændres »§ 22, stk. 1, nr. 1 og 3« til: »§ 22, stk. 1, nr. 1 og 3-5«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>14.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 34, stk. 2,</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Dog refunderes 60 pct. af kommunalbestyrelsens udgifter efter stk. 1, såfremt tilskud vedrører arbejde, der udføres på bygninger eller ejendomme, der er beliggende i byer med færre end 3.000 indbyggere eller i det åbne land.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>15.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 38 b indsættes før kapitel 6:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <UnderTitel>
+                <Linea>
+                  <Char formaChar="Italic">Nedrivning af erhvervsbygninger</Char>
+                </Linea>
+              </UnderTitel>
+              <Paragraf>
+                <Explicatus>§ 38 c.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Kommunalbestyrelsen kan træffe beslutning om at yde støtte til nedrivning af private erhvervsbygninger, såfremt erhvervet er nedlagt og bygningerne er beliggende i byer med færre end 3.000 indbyggere.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Bestemmelsen finder ikke anvendelse på bygninger, som er offentligt ejede.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>I sager efter stk. 1 finder bestemmelserne i §§ 23-25 om ansøgnings- og beslutningsprocedure anvendelse, og fastsættelse af støtte samt finansiering og refusion ydes efter §§ 26, 27 og 34.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Kapitel>
+                <Explicatus>Kapitel 5 a</Explicatus>
+                <Rubrica>
+                  <Linea>
+                    <Char formaChar="Italic">Opkøb af nedslidte ejendomme</Char>
+                  </Linea>
+                </Rubrica>
+                <ParagrafGruppe>
+                  <Rubrica>
+                    <Linea>
+                      <Char formaChar="Italic">Anvendelsesområde for dette kapitel</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf>
+                    <Explicatus>§ 38 d.</Explicatus>
+                    <Stk>
+                      <Exitus>
+                        <Linea>
+                          <Char>Kommunalbestyrelsen kan opkøbe nedslidte ejendomme beliggende i byer med færre end 3.000 indbyggere eller i det åbne land med henblik på istandsættelse eller nedrivning.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+                <ParagrafGruppe>
+                  <Rubrica>
+                    <Linea>
+                      <Char formaChar="Italic">Refusion</Char>
+                    </Linea>
+                  </Rubrica>
+                  <Paragraf>
+                    <Explicatus>§ 38 e.</Explicatus>
+                    <Stk>
+                      <Exitus>
+                        <Linea>
+                          <Char>Kommunalbestyrelsen afholder udgifter til opkøb efter § 38 d.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk>
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus formaEx="Center">
+                        <Linea>
+                          <Char>Staten refunderer 60 pct. af kommunalbestyrelsens udgifter efter stk. 1.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>16.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 63, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Når en bolig skal fraflyttes som følge af en beslutning i medfør af denne lov, men på ny kan være beboelig inden for højst 6 måneder, kan kommunalbestyrelsen forlange, at husstanden midlertidigt overtager en anden bolig.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Hvis boligen er en udlejningsbolig, kan udlejer ikke opsige lejeaftalen.</Char>
+                </Linea>
+                <Linea>
+                  <Char>I særlige tilfælde, og hvis husstanden er indforstået hermed, kan den midlertidige genhusning forlænges indtil højst 12 måneder.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>17.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 94, stk. 2, 2. pkt.,</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>En del af udgiftsrammen kan dog anvendes til løsning af afgrænsede byfornyelsesopgaver, herunder byfornyelsesforsøg efter § 96 og § 97.</Char>
+                </Linea>
+                <Linea>
+                  <Char>60 mio. kr. af udgiftsrammen kan anvendes til områdefornyelse, jf. § 6, stk. 1.</Char>
+                </Linea>
+                <Linea>
+                  <Char>40 mio. kr. kan anvendes til bygningsfornyelse i områder, der har fået tilsagn efter § 6, stk. 2, nr. 1.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Eventuelle uforbrugte midler til bygningsfornyelse i områder, jf. 4. pkt., fordeles til områder som nævnt i § 6, stk. 2, nr. 2 og 3, i prioriteret rækkefølge.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>18.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 107, stk. 1, nr. 6,</Char>
+                <Char> ændres »eller § 77, stk. 1 og 2« til: »§ 77, stk. 1 og 2, eller § 80, stk. 1«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2013, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 94, stk. 2, 4. og 5. pkt., i lov om byfornyelse og udvikling af byer som affattet ved denne lovs § 1, nr. 17, træder først i kraft den 1. januar 2014.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>I 2013 kan 40 mio. kr. af den i § 93 i lov om byfornyelse og udvikling af byer nævnte udgiftsramme anvendes til bygningsfornyelse i områder som nævnt i lov om byfornyelse og udvikling af byer § 3 som affattet ved denne lovs § 1, nr. 1.</Char>
+          </Linea>
+          <Linea>
+            <Char>Midlerne fordeles med højst 10 mio. kr. til byområder som nævnt i lov om byfornyelse og udvikling af byer § 3, nr. 1, som affattet ved denne lovs § 1, nr. 1.</Char>
+          </Linea>
+          <Linea>
+            <Char>Resterende midler fordeles i prioriteret rækkefølge til områder som nævnt i lov om byfornyelse og udvikling af byer § 6, stk. 2, nr. 2-4, og stk. 3, som affattet ved denne lovs § 1, nr. 3.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,1512 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2012/03/12/LBKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LBK H#LOKDOK03</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20120063829</AccessionNumber>
+    <DocumentId>BS000267</DocumentId>
+    <UniqueDocumentId>141688</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse af lov om børnetilskud og forskudsvis udbetaling af børnebidrag</DocumentTitle>
+    <Year>2012</Year>
+    <DiesSigni>2012-06-21</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-22</EndDate>
+    <Status>Historic</Status>
+    <Number>638</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LOV nr 326 af 11/04/2012 </KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 856 af 23/08/2012</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LBK nr 638 af 21/06/2012</DokumentKortNavn>
+    <PopularTitle>Børnetilskudsloven</PopularTitle>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2012-08-24</DateOfHistoricMark>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20120032630</Ref_Accn>
+    <Ref_Af REFid="change_1">2012-04-11</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om ændring af forskellige love som følge af etableringen af Udbetaling Danmark og om ophævelse af lov om ændring af regler for statens udbetaling af refusion af kommunernes udgifter i henhold til den sociale pensions- og bistandslovgivning m.v.\n(Fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark m.v.)</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">P.M.V.\nJesper Zwisler</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Dorte Bech Vizard</Signature>
+    <PlaceOfSignature>Social- og Integrationsministeriet</PlaceOfSignature>
+    <JournalNumber>Social- og Integrationsmin., j.nr. 2012-2872</JournalNumber>
+    <Ministry>Beskæftigelsesministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Bekendtgørelse af lov om børnetilskud og forskudsvis udbetaling af børnebidrag</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Indledning>
+      <Exitus>
+        <Linea>
+          <Char>Herved bekendtgøres lov om børnetilskud og forskudsvis udbetaling af børnebidrag, jf. lovbekendtgørelse nr. 439 af 14. maj 2009, med de ændringer, der følger af § 25 i lov nr. 521 af 12. juni 2009, § 13 i lov nr. 429 af 28. april 2010, § 3 i lov nr. 537 af 26. maj 2010 og § 2 i lov nr. 1609 af 22. december 2010.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De ændringer, der følger af § 4 i lov nr. 326 af 11. april 2012, er ikke indarbejdet i denne lovbekendtgørelse, da disse ændringer først træder i kraft den 1. oktober 2012, jf. § 25 i lov nr. 326 af 11. april 2012.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Bog id="Bog0">
+      <Afsnit id="Afs0">
+        <Kapitel id="Kap1">
+          <Explicatus>Kapitel 1</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Børnetilskud</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap1_X1">
+            <Paragraf id="Par1">
+              <Explicatus>§ 1.</Explicatus>
+              <Stk id="Par1_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Til børn under 18 år ydes børnetilskud efter reglerne i denne lov.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par2">
+              <Explicatus>§ 2.</Explicatus>
+              <Stk id="Par2_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ordinært børnetilskud udgør 3.692 kr. årlig for hvert barn.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det ydes:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par2_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>når den, der alene har forældremyndigheden, eller som har del i forældremyndigheden over et barn, er enlig forsørger,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>når begge eller kun den ene af indehaverne af forældremyndigheden er enlig og barnet opholder sig lige meget hos begge, medmindre barnet er tilmeldt folkeregistret hos den, der ikke er enlig,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>når den ene ægtefælle er indsat i institutioner under Kriminalforsorgen ud over 3 måneder og den anden ægtefælle er enlig,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>når begge et barns forældre modtager folkepension efter lov om social pension, eller</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par2_Stk1_Num5">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>når folkepension til én eller begge af to forældre, der er berettigede til folkepension, ikke udbetales, fordi § 46 i lov om social pension finder anvendelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par2_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Personer, der lever i et samlivsforhold, betragtes ikke som enlige ved ydelse af ordinært børnetilskud, jf. stk. 1, nr. 1-3.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par3">
+              <Explicatus>§ 3.</Explicatus>
+              <Stk id="Par3_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Der ydes endvidere et ekstra børnetilskud, som udgør 3.360 kr. årlig, hvis der ydes ordinært børnetilskud efter § 2, nr. 1, nr. 2, eller nr. 3, og indehaveren af forældremyndigheden har barnet hos sig.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Der ydes kun et ekstra børnetilskud uanset antallet af børn.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par4">
+              <Explicatus>§ 4.</Explicatus>
+              <Stk id="Par4_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan endvidere ydes et særligt børnetilskud efter reglerne i stk. 2, 3, 12 og 13.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der ydes 2 gange det særlige børnetilskud, jf. stk. 3, når ingen af barnets forældre lever.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det særlige børnetilskud udgør 8.436 kr. årlig,</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par4_Stk3_X1">
+                    <Indentatio formaInd="Nummer" id="Par4_Stk3_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>når faderskabet til barnet ikke er fastslået efter gældende regler,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk3_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>når kun en af barnets forældre lever,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk3_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>når barnet, efter at forældremyndighedens indehaver er død, adopteres af dennes ægtefælle eller af en enlig person,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk3_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>når en af eller begge barnets forældre modtager folkepension efter lov om social pension,</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk3_Num5">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>når folkepension til én eller begge af to forældre, der er berettigede til folkepension, ikke udbetales, fordi § 46 i lov om social pension finder anvendelse.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par4_Stk3_Num6">
+                      <Explicatus>6)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>når der ifølge overenskomst med andre stater ikke er mulighed for at udfærdige bidragsresolution, der kan danne grundlag for forskudsvis udbetaling af børnebidrag.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der ydes 2 gange tillæg, jf. stk. 5, til det særlige børnetilskud, jf. stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der ydes et tillæg, som udgør 1.260 kr. årligt, til det særlige børnetilskud, jf. stk. 3, nr. 1, 2, 3 og 6, samt, når begge forældre modtager folkepension efter lov om social pension, nr. 4, og, når folkepension til én eller begge af to forældre, der er berettigede til folkepension, ikke udbetales, fordi § 46 i lov om social pension finder anvendelse, nr. 5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det samlede beløb, der ydes en familie som særlige børnetilskud efter stk. 3, nr. 4 og 5, nedsættes efter stk. 7.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>I tilfælde, hvor en familie ydes flere særlige børnetilskud efter stk. 3, nr. 4 og 5, fordeles nedsættelsen ligeligt på de enkelte børnetilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Nedsættelsen efter stk. 6 sker med 3 pct. af indtægtsgrundlaget opgjort efter § 29 i lov om social pension, når dette overstiger det beløb, hvormed pensionstillægget bortfalder.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk8">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det særlige børnetilskud, jf. stk. 6, fastsættes hver 1. januar på grundlag af den opgjorte indtægt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk9">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det særlige børnetilskud omregnes i løbet af året, hvis indtægtsgrundlaget ændres mere end rent midlertidigt og en beregning på grundlag af den forventede fremtidige indtægt fører til en ændring af det særlige børnetilskuds størrelse eller de personlige forhold, som har betydning for det særlige børnetilskuds størrelse, ændres.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk10">
+                <Explicatus>Stk. 10.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Omregning sker med virkning fra den 1. i kvartalet efter, at kommunalbestyrelsen har modtaget oplysninger om de ændrede forhold.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis oplysning om ændringer, jf. stk. 9, der medfører forhøjelse af det særlige børnetilskud, modtages af kommunalbestyrelsen senere end tidspunktet for ændringen, omregnes det særlige børnetilskud med tilbagevirkende kraft fra tidspunktet for ændringen, dog højst for en periode på 3 måneder fra tidspunktet for modtagelsen af oplysningerne, jf. 1. pkt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk11">
+                <Explicatus>Stk. 11.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og integrationsministeren kan fastsætte regler, der sikrer, at kommunalbestyrelsen modtager oplysninger, herunder i elektronisk form, der har betydning for den årlige fastsættelse og omberegning af det særlige børnetilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk12">
+                <Explicatus>Stk. 12.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et barn af en eneadoptant har ikke ret til særligt børnetilskud, medmindre eneadoptanten dør, jf. stk. 2, en eller flere af betingelserne i stk. 3, nr. 3-5, er opfyldt, eller barnet er blevet stedbarnsadopteret og en eller flere af betingelserne i stk. 3, nr. 2-6, er opfyldt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par4_Stk13">
+                <Explicatus>Stk. 13.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et barn, der er blevet til ved kunstig befrugtning af en enlig kvinde, har ikke ret til særligt børnetilskud, medmindre moderen dør, jf. stk. 2, eller barnet er blevet stedbarnsadopteret og en eller flere af betingelserne i stk. 3, nr. 2-6, er opfyldt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par5">
+              <Explicatus>§ 5.</Explicatus>
+              <Stk id="Par5_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Børnetilskud kan endvidere kun udbetales, hvis følgende betingelser er opfyldt:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par5_Stk1_X1">
+                    <Indentatio formaInd="Nummer" id="Par5_Stk1_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Barnet eller en af forældrene, der har forældremyndigheden over barnet, har dansk indfødsret eller med hensyn til børnetilskud efter §§ 2-3 har haft fast bopæl her i landet i det seneste år og med hensyn til børnetilskud efter § 4 har haft fast bopæl her i landet i de seneste 3 år.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>En ret, der er erhvervet ved fast bopæl, bevares uanset senere fravær, når pågældende på ny får fast bopæl her.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Betingelsen om dansk indfødsret gælder dog ikke for udlændinge, som har fået opholdstilladelse i Danmark efter § 7 eller § 8 i udlændingeloven.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par5_Stk1_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Barnet faktisk opholder sig her i landet, jf. dog stk. 2 og 3.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par5_Stk1_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Barnet ikke har indgået ægteskab.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par5_Stk1_Num4">
+                      <Explicatus>4)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Barnet ikke er anbragt uden for hjemmet efter lov om social service, ikke sammen med en indehaver af forældremyndigheden er optaget i en døgnforanstaltning efter lov om social service eller i øvrigt forsørges af offentlige midler.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par5_Stk1_Num5">
+                      <Explicatus>5)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Den, der skal have børnetilskuddet udbetalt, har fast bopæl her i landet.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Dette gælder dog ikke udbetaling af det særlige børnetilskud til en person, der har ret til at modtage pension efter lov om social pension i udlandet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Retten til at modtage særligt børnetilskud for pensionister er betinget af, at der ikke efter lov om børns forsørgelse er fastsat eller kan fastsættes bidrag.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis det er pålagt en folkepensionist at betale bidrag efter den nævnte lov, ydes særligt børnetilskud dog til hel eller delvis dækning af pågældendes forpligtelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Særligt børnetilskud kan også ydes til opfyldelse af en folkepensionists bidragsforpligtelse, når den bidragsberettigede og barnet opholder sig i udlandet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Opholder barnet sig kortvarigt i udlandet, eller opholder barnet sig midlertidigt i udlandet som led i barnets uddannelsesforløb med henblik på at forbedre barnets muligheder for at klare sig under fortsat ophold her i landet, kan der uanset stk. 1, nr. 2, udbetales børnetilskud.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis et barn er undervisningspligtigt efter folkeskoleloven, finder 1. pkt. ikke anvendelse, hvis der er tale om ulovligt skolefravær.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par5a">
+              <Explicatus>§ 5 a.</Explicatus>
+              <Stk id="Par5a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Herudover er det en betingelse for ret til ydelser efter denne lov, at mindst en af de personer, der har forsørgelsespligt over for barnet, har haft bopæl eller beskæftigelse i mindst 2 år i Danmark inden for de seneste 10 år forud for den periode, udbetalingen vedrører.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis kravet i stk. 1 ikke er opfyldt, udbetales følgende forholdsmæssige andel af ydelsen, hvis betingelserne herfor i øvrigt er opfyldt:</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par5a_Stk2_X1">
+                    <Indentatio formaInd="Nummer" id="Par5a_Stk2_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Efter 6 måneders bopæl eller beskæftigelse i Danmark inden for de seneste 10 år udbetales 25 pct. af ydelsen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par5a_Stk2_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Efter 12 måneders bopæl eller beskæftigelse i Danmark inden for de seneste 10 år udbetales 50 pct. af ydelsen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par5a_Stk2_Num3">
+                      <Explicatus>3)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Efter 18 måneders bopæl eller beskæftigelse i Danmark inden for de seneste 10 år udbetales 75 pct. af ydelsen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par5a_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og integrationsministeren kan fastsætte nærmere regler for udbetaling samt dokumentation og beregning af perioder med bopæl og beskæftigelse i Danmark i henhold til stk. 1 og 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par6">
+              <Explicatus>§ 6.</Explicatus>
+              <Stk id="Par6_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ordinært børnetilskud efter § 2, nr. 1, nr. 2, og nr. 3, og ekstra børnetilskud efter § 3 udbetales efter ansøgning herom.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par6_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Betingelserne for retten til at modtage børnetilskud skal være opfyldt ved begyndelsen af det første døgn i kvartalet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap2">
+          <Explicatus>Kapitel 2</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Udbetaling af børnetilskud</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap2_X1">
+            <Paragraf id="Par7">
+              <Explicatus>§ 7.</Explicatus>
+              <Stk id="Par7_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Børnetilskud tilkommer barnet eller børnene, jf. § 3, og udbetales kvartalsvis forud.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Ydelsen udbetales kvartalsvis senest den 20. i kvartalets første måned.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par8">
+              <Explicatus>§ 8.</Explicatus>
+              <Stk id="Par8_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Børnetilskud udbetales til moderen.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Er barnet adopteret af et registreret par i forening, udbetales børnetilskuddet til den af de registrerede partnere, der efter parrets oplysning herom til kommunalbestyrelsen skal modtage tilskuddet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Har kun faderen forældremyndigheden over barnet, udbetales børnetilskud til ham.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Er barnet adopteret af et registreret par i forening, og får den ene af de registrerede partnere herefter forældremyndigheden over barnet alene, udbetales børnetilskuddet til denne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilkommer forældremyndigheden den ene af forældrene, og den anden af forældrene godtgør, at barnet bor hos den forælder, der ikke har del i forældremyndigheden, kan børnetilskud efter kommunalbestyrelsens bestemmelse udbetales til den, som barnet bor hos.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lever forældre, der har fælles forældremyndighed, ikke sammen, udbetales børnetilskud til den af forældrene, der har barnet hos sig.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Opholder barnet sig i disse tilfælde lige meget hos begge forældrene, udbetales børnetilskud til den af forældrene, på hvis adresse barnet er tilmeldt folkeregistret.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Er barnet i privat familiepleje, jf. § 78 i lov om social service, kan børnetilskud efter kommunalbestyrelsens bestemmelse udbetales til den, der har taget barnet i pleje.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Er barnet i pleje hos et ægtepar, udbetales børnetilskud i givet fald til plejemoderen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Såfremt det skønnes bedst for barnet, kan kommunalbestyrelsen bestemme, at børnetilskuddet skal udbetales til barnet selv.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par8_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Når den, der har forældremyndigheden over barnet, er indsat i institutioner under Kriminalforsorgen, jf. § 2, nr. 3, kan børnetilskud efter kommunalbestyrelsens bestemmelse udbetales til den indsattes ægtefælle, såfremt den indsattes særbarn opholder sig hos denne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par9">
+              <Explicatus>§ 9.</Explicatus>
+              <Stk id="Par9_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og integrationsministeren kan fastsætte regler om udbetaling af børnetilskud til andre end de personer, der er nævnt i § 8, og om udbetaling af børnetilskud for kortere perioder end nævnt i § 7.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par10">
+              <Explicatus>§ 10.</Explicatus>
+              <Stk id="Par10_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Børnetilskud udbetales første gang for det kvartal, der følger efter det kvartal, i hvilket retten til tilskuddet er erhvervet, og sidste gang for det kvartal, i hvilket retten til tilskuddet ophører.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Særligt børnetilskud, der skal ydes et barn efter en bidragspligtigs død, udbetales dog først fra udløbet af den periode, for hvilken der senest er udbetalt bidrag efter lov om børns forsørgelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap2a">
+          <Explicatus>Kapitel 2 a </Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Ydelser vedrørende særlige grupper af børn</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap2a_X1">
+            <Paragraf id="Par10a">
+              <Explicatus>§ 10 a.</Explicatus>
+              <Stk id="Par10a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Til børn fra en flerbørnsfødsel, der har samme bopæl, udbetales til hvert barn ud over det første et beløb på 5.436 kr. årligt, indtil børnene fylder 7 år (flerbørnstilskud).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Flerbørnstilskud udbetales kvartalsvis forud, og reglerne i § 5, stk. 1, § 5 a og § 6, stk. 2, samt §§ 8-10 finder tilsvarende anvendelse ved udbetaling af flerbørnstilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10a_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Flerbørnstilskud efter stk. 1, jf. stk. 2, ydes tillige for adopterede, samtidigt fødte søskende.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Uanset bestemmelserne i § 5, stk. 1, nr. 1 og 2, erhverves retten til tilskuddet for børn, der har opholdstilladelse her i landet med henblik på adoption, dog når børnene får ophold hos den familie, der har dem i pleje med henblik på adoption.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10a_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre barnet eller en af forældrene, der har forældremyndigheden over barnet, har dansk indfødsret eller har fået opholdstilladelse i Danmark efter § 7 eller § 8 i udlændingeloven, forudsætter udbetaling af flerbørnstilskud fast bopæl her i landet i 1 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par10b">
+              <Explicatus>§ 10 b.</Explicatus>
+              <Stk id="Par10b_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Til forældre, der adopterer et udenlandsk barn, ydes der til udgifter i forbindelse med adoptionen et engangsbeløb på 31.332 kr. (adoptionstilskud).</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er en betingelse for at opnå adoptionstilskud, at barnet er formidlet af en af de organisationer, der er godkendt af justitsministeren i medfør af § 30 i adoptionsloven.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10b_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskuddet udbetales af kommunalbestyrelsen efter ansøgning, når det af den adoptionsundersøgende myndighed kan attesteres, at barnet er ankommet her til landet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10b_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Medmindre en af adoptanterne har dansk indfødsret eller har fået opholdstilladelse i Danmark efter § 7 eller § 8 i udlændingeloven, forudsætter udbetaling af adoptionstilskud fast bopæl her i landet i 1 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par10c">
+              <Explicatus>§ 10 c.</Explicatus>
+              <Stk id="Par10c_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Til forældre, der deltager i en uddannelse, som er godkendt som støtteberettigende efter lov om statens uddannelsesstøtte, eller som berettiger til optagelse i en arbejdsløshedskasse, jf. § 41 i lov om arbejdsløshedsforsikring m.v., og som har forsørgelsespligt for et barn under 18 år, udbetales efter ansøgning et tilskud på 5.000 kr. årligt, jf. dog stk. 2.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10c_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Der kan højst udbetales ét tilskud efter stk. 1 pr. forælder og højst ét tilskud pr. barn.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilskud kan ikke udbetales til enlige forsørgere, der er berettiget til stipendium som tillæg efter § 7, stk. 3, nr. 1, i lov om statens uddannelsesstøtte.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis begge af to samlevende forældre er berettiget til stipendium som tillæg efter § 7, stk. 3, nr. 2, kan der kun udbetales tilskud for det andet barn.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>2. og 3. pkt. gælder dog ikke for personer, som ikke modtager slutlån, selv om de er berettiget hertil.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Reglerne i § 5, stk. 1, finder tilsvarende anvendelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10c_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Lever forældrene ikke sammen, har kun den af forældrene, der har barnet boende hos sig, ret til tilskud efter stk. 1.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Opholder barnet sig lige meget hos begge forældrene, har kun den af forældrene, på hvis adresse barnet er tilmeldt folkeregisteret, ret til tilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10c_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskud efter stk. 1 udbetales kvartalsvis forud senest den 20. i kvartalets første måned.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tilskuddet udbetales første gang for det kvartal, der følger efter det kvartal, hvori der er ansøgt herom, og sidste gang for det kvartal, i hvilket retten til tilskud ophører.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Udgør tilskuddet for et kvartal mindre end 25 kr., udbetales det ikke.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10c_Stk5">
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Tilskud efter stk. 1 til en enlig forsørger nedsættes med 10 pct. af den del af ansøgerens aktuelle indtægt i et kalenderår, der overstiger 100.000 kr.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10c_Stk6">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Bor barnet sammen med begge forældre, eller bor barnet kun sammen med den ene af forældrene, men denne er gift eller lever i et ægteskabslignende forhold med en anden person, nedsættes tilskuddet efter stk. 1 med 10 pct. af den del af husstandens aktuelle indtægt i et kalenderår, der overstiger 150.000 kr. Ydes der to tilskud til samme husstand, fordeles nedsættelsen ligeligt på de to tilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10c_Stk7">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Den aktuelle indtægt består af</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Index id="Par10c_Stk7_X1">
+                    <Indentatio formaInd="Nummer" id="Par10c_Stk7_Num1">
+                      <Explicatus>1)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>personlig indkomst med tillæg af positiv nettokapitalindkomst, der anvendes ved beregning af indkomstskat efter personskattelovens § 7, dog før de deri nævnte grundbeløb og bundfradrag, og</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                    <Indentatio formaInd="Nummer" id="Par10c_Stk7_Num2">
+                      <Explicatus>2)</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>aktieindkomst, der beskattes efter personskattelovens § 8 a, stk. 1 og 2, bortset fra udbytteindkomst op til 5.000 kr.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Indentatio>
+                  </Index>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10c_Stk8">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og integrationsministeren fastsætter regler for, hvorledes indkomster, som er omfattet af § 5 i lov om beskatning af søfolk, skal indgå i den aktuelle indtægt, jf. stk. 7.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10c_Stk9">
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det er en forudsætning for udbetaling af tilskud, at ansøgeren over for kommunalbestyrelsen fremlægger dokumentation for de aktuelle indtægter og for deltagelse i en uddannelse, som berettiger til tilskud efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10c_Stk10">
+                <Explicatus>Stk. 10.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis den indtægt, der ligger til grund for beregning af tilskuddet, ændres med mere end 10 pct., omregnes tilskuddet for kalenderåret, og de kvartalsvise udbetalinger for den resterende del af kalenderåret reguleres, således at det samlede udbetalte tilskud for kalenderåret svarer til det beregnede tilskud på årsbasis.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10c_Stk11">
+                <Explicatus>Stk. 11.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Såfremt en tilskudsberettiget har haft en indtægtsfremgang, der bevirker, at det allerede udbetalte tilskud i kalenderåret overstiger det tilskud, ansøgeren herefter er berettiget til i kalenderåret, fradrages for meget udbetalt tilskud, såfremt ansøgeren i det efterfølgende kalenderår bliver berettiget til tilskud.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Såfremt ansøgeren ikke i det efterfølgende kalenderår bliver berettiget til tilskud, tilbagebetales for meget udbetalt tilskud.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10c_Stk12">
+                <Explicatus>Stk. 12.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Et tilbagebetalingskrav efter stk. 11 gennemføres ved en tilbagebetalingsordning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Fastsættelse af tilbagebetalingsordning og inddrivelse af gæld sker efter reglerne i lov om aktiv socialpolitik.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10c_Stk13">
+                <Explicatus>Stk. 13.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Såfremt ret til tilskud indtræder, ophører eller forsørgelsesforholdene ændres inden for et kalenderår, beregnes tilskuddet forholdsmæssigt for de kvartaler i året, hvor ansøger er berettiget til at få udbetalt tilskud på samme grundlag.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Indtægten opgøres for de måneder af året, hvor ansøger er berettiget til tilskud på samme grundlag, hvorefter de således opgjorte indtægter omregnes forholdsvis til en årsindtægt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par10c_Stk14">
+                <Explicatus>Stk. 14.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De indtægtsgrænser, der er nævnt i stk. 5 og 6, reguleres én gang årligt pr. 1. januar med satsreguleringsprocenten, jf. lov om en satsreguleringsprocent.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>De efter regulering fremkomne beløb afrundes til nærmeste kronebeløb, der er deleligt med 100.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap3">
+          <Explicatus>Kapitel 3</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Forskudsvis udbetaling af børnebidrag</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap3_X1">
+            <Paragraf id="Par11">
+              <Explicatus>§ 11.</Explicatus>
+              <Stk id="Par11_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Et bidrag til et barns underhold, der er fastsat efter lov om børns forsørgelse, kan, når det ikke betales på forfaldsdagen, udbetales af det offentlige til den person, der er berettiget til at kræve bidraget fastsat efter § 18, stk. 2, i lov om børns forsørgelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par11_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Udbetaling af bidrag sker efter ansøgning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Social- og integrationsministeren fastsætter regler om udbetalingen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par11_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det kan ved overenskomst med andre stater bestemmes, at et udenlandsk bidragsdokument, der i vedkommende land danner grundlag for retslig inddrivelse af et bidrag, kan sidestilles med et dansk bidragsdokument ved forskudsvis udbetaling af bidrag.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par12">
+              <Explicatus>§ 12.</Explicatus>
+              <Stk id="Par12_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Bidrag kan udbetales forskudsvis for tiden, indtil et barn fylder 18 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par12_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Betingelserne i § 5, stk. 1, finder tilsvarende anvendelse med hensyn til adgangen til at få et bidrag udbetalt forskudsvis.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Medmindre barnet eller en af forældrene, der har forældremyndigheden over barnet, har dansk indfødsret eller har fået opholdstilladelse i Danmark efter § 7 eller § 8 i udlændingeloven, forudsætter udbetaling fast bopæl her i landet i en sammenhængende periode af 3 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par12_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Det er endvidere en betingelse for retten til at få bidrag udbetalt forskudsvis, at forældrene ikke lever sammen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par12_Stk4">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Betingelserne for bidragsforskud skal være opfyldt på bidragets forfaldsdag.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par13">
+              <Explicatus>§ 13.</Explicatus>
+              <Stk id="Par13_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Søges bidrag udbetalt for tiden forud for bidragsdokumentets dato, kan bidrag udbetales i det omfang, betingelserne har været opfyldt på de forfaldsdage, der ville være indtrådt, hvis bidragsdokumentet havde foreligget ved bidragsperiodens begyndelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par14">
+              <Explicatus>§ 14.</Explicatus>
+              <Stk id="Par14_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Bidrag kan kræves udbetalt forskudsvis med det beløb, der er fastsat efter lov om børns forsørgelse, dog højst med normalbidraget.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Normalbidraget udgøres af summen af et grundbeløb og et tillæg.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Grundbeløbet svarer til det særlige børnetilskud efter § 4, stk. 3.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tillægget svarer til det tillæg, der er fastsat efter § 4, stk. 5.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par15">
+              <Explicatus>§ 15.</Explicatus>
+              <Stk id="Par15_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Særlige bidrag, som efter lov om børns forsørgelse er pålagt til udgifterne ved fødslen og moderens underhold før og efter fødslen, kan, når betingelserne i § 12 er opfyldt, udbetales forskudsvis af det offentlige med indtil 483 kr. ved fødslen og 841 kr. pr. måned til moderens underhold før og efter fødslen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par15_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Særlige bidrag, som efter lov om børns forsørgelse er pålagt i anledning af barnets dåb, konfirmation, sygdom eller begravelse eller i anden særlig anledning, kan, når betingelserne i § 12 er opfyldt, udbetales forskudsvis af det offentlige inden for den grænse, som statsamtet fastsætter.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par16">
+              <Explicatus>§ 16.</Explicatus>
+              <Stk id="Par16_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Når det skønnes at være bedst for barnet, kan bidraget udbetales for kortere perioder ad gangen end fastsat i bidragsdokumentet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par17">
+              <Explicatus>§ 17.</Explicatus>
+              <Stk id="Par17_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Retten til at kræve et bidrag udbetalt forskudsvis vedvarer til og med årsdagen for bidragets forfaldsdag.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par17_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Hvis barnet på det tidspunkt, da et bidrag kræves udbetalt forskudsvis, forsørges af det offentlige, eller dets forældre på dette tidspunkt samlever, kan bidrag kun udbetales for tiden indtil den offentlige forsørgelses begyndelse eller samlivets begyndelse.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par18">
+              <Explicatus>§ 18.</Explicatus>
+              <Stk id="Par18_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Når et bidrag udbetales forskudsvis, indtræder det offentlige i retten til at indkræve bidraget.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det offentliges ret hertil forældes efter forældelsesloven, dog er forældelsesfristen 10 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par19">
+              <Explicatus>§ 19.</Explicatus>
+              <Stk id="Par19_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Det offentlige skal søge hele det beløb, der ved resolutionen efter lov om børns forsørgelse skal betales, inddrevet hos den bidragsskyldige.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Hvis det beløb, der inddrives, overstiger det forskudsvis udbetalte bidrag, udbetales det overskydende beløb til den, der er berettiget til at indkræve bidrag.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par20-21">
+              <Explicatus>§§ 20-21.</Explicatus>
+              <Stk id="Par20-21_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap4">
+          <Explicatus>Kapitel 4</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Administration</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap4_X1">
+            <Paragraf id="Par22">
+              <Explicatus>§ 22.</Explicatus>
+              <Stk id="Par22_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen i opholdskommunen varetager administrationen af denne lov, jf. kapitel 3 i lov om retssikkerhed og administration på det sociale område.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par22_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsens afgørelser efter denne lov kan indbringes for det sociale nævn efter reglerne i kapitel 10 i lov om retssikkerhed og administration på det sociale område.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par22a">
+              <Explicatus>§ 22 a.</Explicatus>
+              <Stk id="Par22a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen udsender en gang årligt en anmodning om skriftlig bekræftelse fra modtageren af ordinært og ekstra børnetilskud, jf. § 2, nr. 1-3, og § 3, af modtagerens fortsatte status som enlig forsørger.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Har kommunen ikke modtaget bekræftelsen senest en måned fra anmodningen, ophører udbetalingen af børnetilskud, jf. § 2, nr. 1-3, og § 3, fra det følgende kvartal.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Udbetalingen genoptages med virkning fra kvartalet efter, at bekræftelsen er modtaget.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par22a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og integrationsministeren kan fastsætte nærmere regler om administration i forbindelse med kommunens vurdering af modtagerens status som enlig forsørger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par23">
+              <Explicatus>§ 23.</Explicatus>
+              <Stk id="Par23_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par24">
+              <Explicatus>§ 24.</Explicatus>
+              <Stk id="Par24_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Den, der får udbetalt ydelser efter loven, har efter § 11, stk. 2, i lov om retssikkerhed og administration på det sociale område pligt til at oplyse kommunalbestyrelsen om ændringer i sine forhold, der kan medføre nedsættelse eller bortfald af ydelserne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par24_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Har nogen mod bedre vidende uberettiget modtaget ydelser efter loven, skal det beløb, der med urette er modtaget, tilbagebetales.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par24a">
+              <Explicatus>§ 24 a.</Explicatus>
+              <Stk id="Par24a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og integrationsministeren kan efter forhandling med undervisningsministeren fastsætte regler om, at institutioner, der har løbende kontakt med børn under 18 år, skal give meddelelse til kommunalbestyrelsen, hvis et barn udebliver i en periode og udeblivelsen kan skyldes, at barnet ikke længere opholder sig her i landet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par24b">
+              <Explicatus>§ 24 b.</Explicatus>
+              <Stk id="Par24b_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen skal anmode barnets forældre om en erklæring om, hvor barnet opholder sig, og om årsagen til et eventuelt udlandsophold, hvis kommunalbestyrelsen modtager meddelelse efter regler fastsat i medfør af § 24 a eller på anden måde får oplysninger, hvorefter der kan opstå tvivl om, hvorvidt betingelserne om barnets ophold her i landet, jf. § 5, vil være opfyldt ved begyndelsen af det følgende kvartal, jf. § 6, stk. 2.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Modtages erklæring ikke inden for 14 dage efter kommunalbestyrelsens anmodning herom, træffes afgørelse om, hvorvidt barnet kan anses for at have ophold her i landet, på det foreliggende grundlag.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par24b_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Social- og integrationsministeren kan fastsætte regler om administration i forbindelse med kommunalbestyrelsens vurdering af, om betingelserne om barnets ophold her i landet er opfyldt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+        <Kapitel id="Kap5">
+          <Explicatus>Kapitel 5</Explicatus>
+          <Rubrica>
+            <Linea>
+              <Char>Forskellige bestemmelser</Char>
+            </Linea>
+          </Rubrica>
+          <ParagrafGruppe id="Kap5_X1">
+            <Paragraf id="Par25">
+              <Explicatus>§ 25.</Explicatus>
+              <Stk id="Par25_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Udgifter til ydelser efter loven afholdes af statskassen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par25a">
+              <Explicatus>§ 25 a.</Explicatus>
+              <Stk id="Par25a_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Ydelserne i §§ 2, 3, 4, 10 a, 10 b, 10 c og 15, stk. 1, reguleres en gang årligt den 1. januar med satsreguleringsprocenten, jf. lov om en satsreguleringsprocent.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par25a_Stk2">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>De beregnede tilskud afrundes, for så vidt angår tilskud efter §§ 2, 3, 10 a og 10 c, til det nærmeste med 4 delelige beløb i kroner, for så vidt angår de i § 4 nævnte særlige børnetilskud og tillægget efter § 4, stk. 5, til det nærmeste med 12 delelige beløb i kroner og, for så vidt angår de i § 10 b og § 15, stk. 1, nævnte ydelser, til det nærmeste beløb i kroner.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk id="Par25a_Stk3">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>For normalbidraget, jf. § 14, omfatter reguleringen kun hele måneder og foretages på den følgende forfaldsdag for bidraget.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par25b">
+              <Explicatus>§ 25 b.</Explicatus>
+              <Stk id="Par25b_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Personer, der modtager førtidspen­sion efter lov om højeste, mellemste, forhøjet almindelig eller almindelig førtidspension m.v., er berettiget til børnetilskud efter de regler, der gælder for modtagere af folkepension.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par26">
+              <Explicatus>§ 26.</Explicatus>
+              <Stk id="Par26_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Efter overenskomster med andre stater kan social- og integrationsministeren fastsætte regler om fravigelse af bestemmelser om indfødsret og bopæl.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par27">
+              <Explicatus>§ 27.</Explicatus>
+              <Stk id="Par27_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven træder i kraft 1. juli 1987.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Samtidig ophæves lov om børnetilskud og andre familieydelser, jf. lovbekendtgørelse nr. 609 af 29. november 1978.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par28-29">
+              <Explicatus>§§ 28-29.</Explicatus>
+              <Stk id="Par28-29_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>(Ophævet).</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+            <Paragraf id="Par30">
+              <Explicatus>§ 30.</Explicatus>
+              <Stk id="Par30_Stk1">
+                <Exitus>
+                  <Linea>
+                    <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </Paragraf>
+          </ParagrafGruppe>
+        </Kapitel>
+      </Afsnit>
+    </Bog>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 285 af 25. april 2001 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser.</Char>
+        </Linea>
+        <Linea>
+          <Char>(Lovændringen vedrører §§ 2, 4 og 5.</Char>
+        </Linea>
+        <Linea>
+          <Char>Lovændringen angår førtidspensionsreform.</Char>
+        </Linea>
+        <Linea>
+          <Char>)</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 6</Explicatus>
+        <Stk>
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2003, jf. dog stk. 3-8.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 2-5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udeladt).</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 6.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>For personer, der er tilkendt førtidspension, eller for hvem der er påbegyndt sag herom inden den 1. januar 2003, gælder fortsat de indtil da gældende §§ 2, 4 og 5 i lov om børnetilskud og forskudsvis udbetaling af børnebidrag.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 7-8.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udeladt).</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 523 af 6. juni 2007 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser.</Char>
+        </Linea>
+        <Linea>
+          <Char>(Lovændringen vedrører § 18.</Char>
+        </Linea>
+        <Linea>
+          <Char>Lovændringen angår ændringer som følge af en ny lov om forældelse af fordringer, ophævelse af købelovens reklamationsfrister ved visse køb m.v.)</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 47</Explicatus>
+        <Stk>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2008.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 48</Explicatus>
+        <Stk>
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven finder anvendelse også på tidligere stiftede fordringer, som ikke inden ikrafttrædelsesdagen er forældet efter de hidtil gældende regler.</Char>
+            </Linea>
+            <Linea>
+              <Char>Forældelse indtræder dog tidligst den 1. januar 2011, medmindre fordringen inden dette tidspunkt ville være forældet såvel efter de hidtil gældende bestemmelser som efter de bestemmelser, der gælder efter lovens ikrafttræden, jf. dog stk. 7.</Char>
+            </Linea>
+            <Linea>
+              <Char>I det sidstnævnte tilfælde anvendes det seneste tidspunkt for forældelsens indtræden.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Afbrydelse af forældelse, der har fundet sted før lovens ikrafttræden, har fortsat virkning som afbrydelse, selv om den ikke er sket på den efter lovens ikrafttræden foreskrevne måde.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 3-8.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udeladt).</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 521 af 12. juni 2009 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser.</Char>
+        </Linea>
+        <Linea>
+          <Char>(Lovændringen vedrører § 10 c.</Char>
+        </Linea>
+        <Linea>
+          <Char>Lovændringen angår forenkling af reglerne om opkrævning af arbejdsmarkedsbidrag og konsekvensændringer som følge af Forårspakke 2.0 m.v.)</Char>
+        </Linea>
+        <Linea>
+          <Char>Information til nedenstående § 29: Bekendtgørelsen i Lovtidende fandt sted </Char>
+          <Char formaChar="Italic">den 13. juni 2009.</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 29</Explicatus>
+        <Stk>
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning fra indkomståret 2011, jf. dog stk. 2-11.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 2-5.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udeladt).</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 6.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 1, nr. 7, 9, 17, 21, 23, 31, 32, 34, 36 og 38-40, § 7, nr. 5, 6 og 12, § 8, nr. 1-7, 9-18, 20-24 og 26, og §§ 13-18, 20, 22-25 og 27 har virkning fra og med indkomståret 2010.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 7-11.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udeladt).</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 429 af 28. april 2010 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser.</Char>
+        </Linea>
+        <Linea>
+          <Char>(Lovændringen vedrører §§ 8 og 26.</Char>
+        </Linea>
+        <Linea>
+          <Char>Lovændringen angår kompetencen til at træffe afgørelse om lovvalg m.v. efter EF-forordning nr. 883/04 om koordinering af de sociale sikringsordninger m.v.)</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 20</Explicatus>
+        <Stk>
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. maj 2010.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 2-3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>(Udeladt).</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 537 af 26. maj 2010 indeholder nedenstående ikrafttrædelsesbestemmelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>(Lovændringen vedrører § 8.</Char>
+        </Linea>
+        <Linea>
+          <Char>Lovændringen angår udvidet adgang for registrerede partnere til adoption og overførsel af forældremyndighed m.v.)</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 4</Explicatus>
+        <Stk>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. juli 2010.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+    <Ikraft>
+      <Exitus>
+        <Linea>
+          <Char>Lov nr. 1609 af 22. december 2010 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser.</Char>
+        </Linea>
+        <Linea>
+          <Char>(Lovændringen vedrører §§ 5 a og 10 a.</Char>
+        </Linea>
+        <Linea>
+          <Char>Lovændringen angår optjeningsprincip for børnefamilieydelse og børnetilskud, forbedret kontrol og udvidet modregningsadgang ved udbetaling af børnefamilieydelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>)</Char>
+        </Linea>
+      </Exitus>
+      <IkraftCentreretParagraf>
+        <Explicatus>§ 5</Explicatus>
+        <Stk>
+          <Explicatus>Stk. 1.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Loven træder i kraft den 1. januar 2011.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 2.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Det i § 1, nr. 1, indsatte § 2, nr. 7, i lov om en børnefamilieydelse, § 1, nr. 4, og § 2, nr. 2 og 3, har virkning fra den 1. januar 2012.</Char>
+            </Linea>
+            <Linea>
+              <Char>Det i § 1, nr. 1, indsatte § 2, nr. 7, i lov om en børnefamilieydelse og § 2, nr. 2 og 3, finder dog ikke anvendelse på en allerede erhvervet ret til henholdsvis børne- og ungeydelse og børnetilskud, der eksisterer den 1. januar 2012, så længe retten bevares uden afbrydelse.</Char>
+            </Linea>
+            <Linea>
+              <Char>Skatteministeren kan i samråd med beskæftigelsesministeren fastsætte nærmere regler for dokumentation af bopæl og beskæftigelse vedrørende udbetalinger af børne- og ungeydelse samt børnetilskud, som udbetales den 1. januar 2012 eller senere.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+        <Stk>
+          <Explicatus>Stk. 3.</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>§ 1, nr. 2 og 3, har virkning fra den 1. januar 2011.</Char>
+            </Linea>
+          </Exitus>
+        </Stk>
+      </IkraftCentreretParagraf>
+    </Ikraft>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

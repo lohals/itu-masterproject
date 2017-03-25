@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2009/09/14/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20100040530</AccessionNumber>
+    <DocumentId>AA005467</DocumentId>
+    <UniqueDocumentId>131518</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om Det Centrale Dna-profil-register\n(Frist for sletning af oplysninger om dna-profiler vedrørende sigtede, men ikke dømte personer)</DocumentTitle>
+    <Year>2010</Year>
+    <DiesSigni>2010-04-21</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2010-04-22</EndDate>
+    <Status>Valid</Status>
+    <Number>405</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 405 af 21/04/2010</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Lars Barfoed</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Justitsmin., sagsnr. 2009-730-0961</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om Det Centrale Dna-profil-register</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Frist for sletning af oplysninger om dna-profiler vedrørende sigtede, men ikke dømte personer)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 434 af 31. maj 2000 om Det Centrale Dna-profil-register, som ændret bl.a. ved § 1 i lov nr. 369 af 24. maj 2005 og senest ved § 1 i lov nr. 479 af 17. juni 2008, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 3, stk. 1,</Char>
+                <Char> indsættes efter nr. 1 som nyt nummer: </Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Indentatio formaInd="Nummer">
+                <Explicatus>2)</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>der er forløbet 10 år fra frifindelse, afgørelse om påtaleopgivelse eller tiltalefrafald uden vilkår,</Char>
+                  </Linea>
+                </Exitus>
+              </Indentatio>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Nr. 2-5 bliver herefter nr. 3-6.</Char>
+          </Linea>
+        </Exitus>
+        <AendringsNummer>
+          <Explicatus>2.</Explicatus>
+          <Aendring>
+            <AendringDefinition>
+              <Exitus>
+                <Linea>
+                  <Char>I </Char>
+                  <Char formaChar="Italic" signiChar="AendringURN">§ 3, stk. 3,</Char>
+                  <Char> ændres »nr. 2« til: »nr. 3«. </Char>
+                </Linea>
+              </Exitus>
+            </AendringDefinition>
+            <AendringAktion />
+          </Aendring>
+        </AendringsNummer>
+        <AendringsNummer>
+          <Explicatus>3.</Explicatus>
+          <Aendring>
+            <AendringDefinition>
+              <Exitus>
+                <Linea>
+                  <Char>I </Char>
+                  <Char formaChar="Italic" signiChar="AendringURN">§ 7</Char>
+                  <Char> indsættes som </Char>
+                  <Char formaChar="Italic" signiChar="AendringURN">2. pkt.:</Char>
+                </Linea>
+              </Exitus>
+            </AendringDefinition>
+            <AendringAktion>
+              <AendringNyTekst>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Justitsministeren kan endvidere fastsætte nærmere regler om opbevaring m.v. af biologisk materiale, som har dannet grundlag for oplysninger om en dna-profil optaget i registeret.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </AendringNyTekst>
+            </AendringAktion>
+          </Aendring>
+        </AendringsNummer>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. august 2010.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft med de afvigelser, som de færøske eller grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

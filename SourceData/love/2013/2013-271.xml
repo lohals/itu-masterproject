@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2012/09/21/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20130027130</AccessionNumber>
+    <DocumentId>BV000101</DocumentId>
+    <UniqueDocumentId>145904</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om almene boliger m.v.\n(Fremrykket underretning om boligsocialt anviste lejere)</DocumentTitle>
+    <Year>2013</Year>
+    <DiesSigni>2013-03-19</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-11-10</EndDate>
+    <Status>Historic</Status>
+    <Number>271</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1023 af 21/08/2013</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 271 af 19/03/2013</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2013-08-23</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Carsten Hansen</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Ministeriet for By, Bolig og Landdistrikter, j.nr. 2012-2652</JournalNumber>
+    <Ministry>Udlændinge-, Integrations- og Boligministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om almene boliger m.v.</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Fremrykket underretning om boligsocialt anviste lejere)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om almene boliger m.v., jf. lovbekendtgørelse nr. 884 af 10. august 2011, som ændret senest ved § 1 i lov nr. 1097 af 28. november 2012, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 59</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 11</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">12:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 11.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Sender boligorganisationen påkrav efter § 90, stk. 2, i lov om leje af almene boliger til lejere af almene familie- og ungdomsboliger, der har fået boligen anvist af kommunalbestyrelsen, inden for det første år efter lejeforholdets påbegyndelse, skal boligorganisationen samtidig hermed underrette kommunalbestyrelsen om påkravet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 12.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Kommunalbestyrelsen skal efter modtagelsen af en underretning som nævnt i stk. 11 indkalde lejeren til et møde med henblik på drøftelse af den restance, som er grundlag for boligorganisationens påkrav, og den fremtidige betaling af huslejen og andre pligtige pengeydelser i lejeforholdet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Mødet skal fastsættes til at finde sted inden udløbet af påkravsfristen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 64, stk. 4,</Char>
+                <Char> ændres to steder »§ 59, stk. 3 og 8-10«  til: »§ 59, stk. 3 og 8-12«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. april 2013.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

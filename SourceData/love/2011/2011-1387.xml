@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2011/09/26/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20110138730</AccessionNumber>
+    <DocumentId>BK001143</DocumentId>
+    <UniqueDocumentId>139958</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af sundhedsloven\n(Ophævelse af regler om egenbetaling for behandling med kunstig befrugtning, refertilisation og sterilisation i det offentlige sundhedsvæsen samt tolkebistand m.v.)</DocumentTitle>
+    <Year>2011</Year>
+    <DiesSigni>2011-12-28</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-08</EndDate>
+    <Status>Historic</Status>
+    <Number>1387</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 1202 af 14/11/2014</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1387 af 28/12/2011</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2014-11-18</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Astrid Krag</Signature>
+    <PlaceOfSignature>Givet på Marselisborg Slot</PlaceOfSignature>
+    <JournalNumber>Ministeriet for Sundhed og Forebyggelse, j.nr. 1112423</JournalNumber>
+    <Ministry>Sundheds- og Ældreministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af sundhedsloven</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Ophævelse af regler om egenbetaling for behandling med kunstig befrugtning, refertilisation og sterilisation i det offentlige sundhedsvæsen samt tolkebistand m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I sundhedsloven, jf. lovbekendtgørelse nr. 913 af 13. juli 2010, som ændret bl.a. ved § 2 i lov nr. 1546 af 21. december 2010 og senest ved lov nr. 607 af 14. juni 2011, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 50, stk. 2</Char>
+                <Char> og </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">3,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 64, stk. 1,</Char>
+                <Char> ændres »stk. 4 og 5« til: »stk. 4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 64, stk. 5,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 81, stk. 1,</Char>
+                <Char> ændres »stk. 2-5« til: »stk. 2-4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 81, stk. 2,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3-5 bliver herefter stk. 2-4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 146 a</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 147, stk. 2,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 149, stk. 1,</Char>
+                <Char> udgår »§ 146 a, stk. 2,« to steder.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 149 a, stk. 1,</Char>
+                <Char> udgår »§ 146 a, stk. 2,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2012.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>For personer, der på tidspunktet for lovens ikrafttræden er i gang med en 1-årig periode, jf. § 146 a, stk. 1, som affattet ved § 2, nr. 5, i lov nr. 1546 af 21. december 2010, (»CTR-B-periode«), beregnes</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Index>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>1)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>den maksimale resterende egenbetaling til tilskudsberettigede fertilitetslægemidler, de pågældende personer ville have haft, hvis deres CTR-B-periode var fortsat til udløb, og</Char>
+                </Linea>
+              </Exitus>
+            </Indentatio>
+            <Indentatio formaInd="Nummer">
+              <Explicatus>2)</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>den resterende egenbetaling til tilskudsberettigede lægemidler, jf. sundhedslovens § 146 (»CTR-A«), som de pågældende personer kan få i CTR-A indtil det tidspunkt, hvor deres CTR-B-periode ville være udløbet, dog maksimalt</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Litra">
+                    <Explicatus>a)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>7.299 kr., hvis de pågældende personers igangværende CTR-A-periode udløber, før deres CTR-B-periode ville være udløbet,</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Litra">
+                    <Explicatus>b)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>3.644 kr., hvis de pågældende personers igangværende CTR-A-periode udløber, samtidig med eller efter deres CTR-B-periode ville være udløbet, og</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Litra">
+                    <Explicatus>c)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>3.655 kr., hvis de pågældende personer ved lovens ikrafttræden ikke har en igangværende CTR-A-periode.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </Indentatio>
+          </Index>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>For personer, for hvem beløbet, der beregnes efter stk. 2, nr. 1, er mindre end beløbet, der beregnes efter stk. 2, nr. 2, justeres saldoen i deres ved lovens ikrafttræden igangværende CTR-A-periode, således at saldoen kommer til at svare til, at de pågældende personer får en resterende egenbetaling svarende til beløbet i stk. 2, nr. 1, dog maksimalt et beløb svarende til den resterende egenbetaling i de pågældende personers igangværende CTR-A-periode.</Char>
+          </Linea>
+          <Linea>
+            <Char>I forbindelse med justeringen sker der ingen genberegning af tilskud eller generering af udligningsbeløb.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>For personer omfattet af stk. 3, der ved lovens ikrafttræden ikke har en igangværende CTR-A-periode, posteres den justerede saldo, jf. stk. 3, uden genberegning af tilskud og generering af udligningsbeløb ved de pågældende personers førstkommende køb af tilskudsberettigede lægemidler, hvor en ny CTR-A-periode påbegyndes.</Char>
+          </Linea>
+          <Linea>
+            <Char>Hvis en ny CTR-A-periode ikke påbegyndes inden det tidspunkt, hvor personens CTR-B-periode ville være udløbet, justeres saldoen ikke.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 5.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>For personer omfattet af stk. 3, der har en CTR-A-periode, der udløber, før CTR-B-perioden ville være udløbet, justeres de pågældende personers ved lovens ikrafttræden igangværende CTR-A-periode, så denne CTR-A-periode får samme startdato som CTR-B-perioden og samme udløbsdato, som CTR-B-perioden ville have haft.</Char>
+          </Linea>
+          <Linea>
+            <Char>Transaktioner foretaget fra starten af den oprindelige CTR-A-periode indtil CTR-A-periodens nye starttidspunkt omposteres til det nye starttidspunkt uden genberegning af tilskud og generering af udligningsbeløb.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 6.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>For personer, der på tidspunktet for lovens ikrafttræden har et negativt eller positivt udligningsbeløb registreret i CTR-B, vil udligningsbeløbet blive overført til CTR-A til regulering efter bestemmelsen i sundhedslovens § 149.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 7.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Beregningen i stk. 2 foretages ved lovens ikrafttræden.</Char>
+          </Linea>
+          <Linea>
+            <Char>Justeringer, posteringer og overførsler i CTR, jf. stk. 3-6, sker senest 1 uge efter lovens ikrafttræden med virkning fra lovens ikrafttræden, jf. dog stk. 4, for så vidt angår posteringer.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

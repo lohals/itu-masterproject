@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="https://www.retsinformation.dk/offentlig/xml/schemas/2013/08/13/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20140075230</AccessionNumber>
+    <DocumentId>BX000304</DocumentId>
+    <UniqueDocumentId>163824</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om Det Centrale Personregister\n(Tildeling af nyt personnummer til personer, der oplever sig som tilhørende det andet køn)</DocumentTitle>
+    <Year>2014</Year>
+    <DiesSigni>2014-06-25</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-10</EndDate>
+    <Status>Valid</Status>
+    <Number>752</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>Ingen</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 752 af 25/06/2014</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Margrethe Vestager</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Økonomi- og Indenrigsmin., j.nr. 2014-14841</JournalNumber>
+    <Ministry>Social- og Indenrigsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om Det Centrale Personregister</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Tildeling af nyt personnummer til personer, der oplever sig som tilhørende det andet køn)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om Det Centrale Personregister, jf. lov­be­kendt­gørelse nr. 5 af 9. januar 2013, som ændret ved § 10 i lov nr. 494 af 21. maj 2013, § 1 i lov nr. 622 af 12. juni 2013, lov nr. 311 af 29. marts 2014 og § 15 i lov nr. 552 af 2. juni 2014, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 3</Char>
+                <Char> indsættes efter stk. 5 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Økonomi- og Indenrigsministeriet tildeler efter skriftlig ansøgning nyt personnummer til en person, som oplever sig som tilhørende det andet køn.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Tildeling af nyt personnummer er betinget af, at den pågældende afgiver en skriftlig erklæring om, at ønsket om nyt personnummer er begrundet i en oplevelse af at tilhøre det andet køn, og at den pågældende efter en refleksionsperiode på 6 måneder fra ansøgningstidspunktet skriftligt bekræfter sin ansøgning.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Det er endvidere en betingelse, at den pågældende på ansøgningstidspunktet er fyldt 18 år.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 6 og 7 bliver herefter stk. 7 og 8.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 26, stk. 4,</Char>
+                <Char> ændres »§ 3, stk. 6« til: »§ 3, stk. 8«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion punktumEfterSlutcitationstegn="False">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. september 2014.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>For personer, som inden lovens ikrafttræden efter de hidtil gældende regler har ansøgt om tilladelse til at bære et fornavn, der betegner det modsatte køn, om tilladelse til at få kønsbetegnelsen X i passet eller om tilladelse til kastra­ti‍on med henblik på kønsskifte, regnes den periode, der er nævnt i § 3, stk. 6, 2. pkt., i lov om Det Centrale Personregister som indsat ved denne lovs § 1, nr. 1, fra tidspunktet for indgivelse af ansøgning herom.</Char>
+          </Linea>
+          <Linea>
+            <Char>Har en person indgivet ansøgning om flere af de nævnte tilladelser, regnes den nævnte periode fra tidspunktet for den først indgivne ansøgning.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

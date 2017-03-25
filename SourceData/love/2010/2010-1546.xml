@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2009/09/14/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20100154630</AccessionNumber>
+    <DocumentId>AI003726</DocumentId>
+    <UniqueDocumentId>135206</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af lov om kunstig befrugtning i forbindelse med lægelig behandling, diagnostik og forskning m.v. samt sundhedsloven\n(Egenbetaling for behandling med kunstig befrugtning, refertilisation og sterilisation i det offentlige sundhedsvæsen og justering af regler om vurdering af forældreegnethed ved behandling med kunstig befrugtning m.v.)</DocumentTitle>
+    <Year>2010</Year>
+    <DiesSigni>2010-12-21</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-12-08</EndDate>
+    <Status>Historic</Status>
+    <Number>1546</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LOV nr 603 af 18/06/2012 </KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1202 af 14/11/2014</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 93 af 19/01/2015</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 1546 af 21/12/2010</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2015-01-30</DateOfHistoricMark>
+    <Change id="change_1" />
+    <Ref_Accn REFid="change_1">A20120060330</Ref_Accn>
+    <Ref_Af REFid="change_1">2012-06-18</Ref_Af>
+    <Ref_Text REFid="change_1">Lov om ændring af sundhedsloven\n(Justeringer vedrørende planlægning, samarbejde, it, kvalitet og finansiering af sundhedsvæsenet m.v.)</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Bertel Haarder</Signature>
+    <PlaceOfSignature>Givet på Christiansborg Slot</PlaceOfSignature>
+    <JournalNumber>Indenrigs- og Sundhedsmin., j.nr. 1003953</JournalNumber>
+    <Ministry>Sundheds- og Ældreministeriet</Ministry>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af lov om kunstig befrugtning i forbindelse med lægelig behandling, diagnostik og forskning m.v. samt sundhedsloven</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Egenbetaling for behandling med kunstig befrugtning, refertilisation og sterilisation i det offentlige sundhedsvæsen og justering af regler om vurdering af forældreegnethed ved behandling med kunstig befrugtning m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om kunstig befrugtning i forbindelse med lægelig behandling, diagnostik og forskning m.v., jf. lovbekendtgørelse nr. 923 af 4. september 2006, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 1 a, stk. 1,</Char>
+                <Char> ændres »§ 7, stk. 3« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»§ 7, stk. 1 og 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 6 a</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 6 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis den læge, der er ansvarlig for behandling med kunstig befrugtning, vurderer, at der er tvivl om en enlig kvindes eller et pars evne til at drage fornøden omsorg for et barn efter fødslen, skal lægen med den enlige kvindes eller parrets samtykke indsende oplysninger til statsforvaltningen med anmodning om, at statsforvaltningen træffer afgørelse om, hvorvidt der kan iværksættes behandling med kunstig befrugtning.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ved manglende samtykke fra den enlige kvinde eller parret til videregivelse af oplysninger til statsforvaltningen skal lægen afvise at indlede behandling med kunstig befrugtning.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Statsforvaltningen træffer afgørelse om, hvorvidt behandling med kunstig befrugtning kan iværksættes.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Statsforvaltningen kan med den enlige kvindes eller parrets samtykke inddrage anden sagkundskab i vurderingen af forældreegnethed, inden behandling iværksættes.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ved manglende samtykke skal statsforvaltningen afvise, at der må indledes behandling med kunstig befrugtning.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Afgørelser truffet i medfør af stk. 2 kan indbringes for Ankestyrelsen senest 4 uger efter afgørelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Indenrigs- og sundhedsministeren kan fastsætte nærmere regler om bestemmelserne i stk. 1-3.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I sundhedsloven, jf. lovbekendtgørelse nr. 913 af 13. juli 2010, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 64, stk. 1,</Char>
+                <Char> indsættes efter »stk. 4«:</Char>
+              </Linea>
+              <Linea>
+                <Char>»og 5«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 64</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 5:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Indenrigs- og sundhedsministeren fastsætter regler om, at regionsrådet ikke yder behandling efter stk. 1 eller tilskud efter stk. 2 og 3 til nærmere bestemte behandlinger med kunstig befrugtning, refertilisation eller sterilisation.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 81, stk. 1,</Char>
+                <Char> ændres »stk. 2-4« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»stk. 2-5«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 81</Char>
+                <Char> indsættes efter stk. 1 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Regionsrådet opkræver betaling for bestemte behandlinger med kunstig befrugtning og refertilisation samt sterilisation af personer, der efter § 105, stk. 1, kan blive steriliseret uden tilladelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Indenrigs- og sundhedsministeren fastsætter nærmere regler herom, herunder om betalingens størrelse.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Indenrigs- og sundhedsministeren kan desuden fastsætte regler om, at der ikke skal opkræves betaling for nærmere bestemte behandlinger.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Stk. 2-4 bliver herefter stk. 3-5.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion />
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>5.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 146 indsættes før overskriften </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">»Kronikertilskud og terminaltilskud«:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 146 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Tilskuddet til lægemidler omfattet af § 144 eller § 145, der ordineres til fertilitetsbehandling, afhænger af personens samlede udgift hertil opgjort i tilskudspriser, jf. § 150, inden for en periode på 1 år, der regnes fra første indkøbsdato og beregnes i henhold til de i stk. 2 fastsatte beløbsgrænser og procentsatser.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>En ny periode indledes, første gang patienten køber lægemidler med tilskud til fertilitetsbehandling efter udløbet af den foregående periode.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Der ydes ikke tilskud til lægemidler til fertilitetsbehandling, såfremt den samlede udgift udgør 15.000 kr. eller derunder inden for en periode på 1 år.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Overstiger den samlede udgift inden for en periode på 1 år 15.000 kr., udgør tilskuddet 100 pct. af den del, som overstiger 15.000 kr.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>6.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 147</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 2:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Stk. 1 finder ikke anvendelse for lægemidler, der ordineres til fertilitetsbehandling.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>7.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 149, stk. 1,</Char>
+                <Char> indsættes to steder efter »§ 146, stk. 2 og 3,«:</Char>
+              </Linea>
+              <Linea>
+                <Char>»§ 146 a, stk. 2,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>8.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 149 a, stk. 1,</Char>
+                <Char> indsættes efter »§ 146, stk. 2 og 3,«:</Char>
+              </Linea>
+              <Linea>
+                <Char>»§ 146 a, stk. 2,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>9.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 157, stk. 10, nr. 6,</Char>
+                <Char> ændres »stk. 2-5« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»stk. 2-6«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>10.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 271, stk. 4,</Char>
+                <Char> ændres »stk. 4 og 9« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»stk. 5 og 10«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. januar 2011, dog jf. stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Indenrigs- og sundhedsministeren fastsætter tidspunktet for ikrafttræden af sundhedslovens § 64, stk. 1, § 64, stk. 5, § 146 a, § 147, stk. 2, § 149, stk. 1, og § 149 a, stk. 1, som ændret henholdsvis affattet ved denne lovs § 2, nr. 1 og 2 og 5-8.</Char>
+          </Linea>
+          <Linea>
+            <Char>Indenrigs- og sundhedsministeren kan herunder fastsætte, at bestemmelserne træder i kraft på forskellige tidspunkter.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 4</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft for Færøerne med de afvigelser, som de færøske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>
