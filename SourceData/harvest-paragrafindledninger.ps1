@@ -1,4 +1,5 @@
 ﻿param($years= @(2010))
+import-module (join-path $PSScriptRoot harvest-helpers.psm1) -force
 
 $rootdir='love'
 
@@ -12,20 +13,9 @@ $lovFormat1= "I (?<title>[^,]*),( jf.)? $docTypePart $dateRegexPart, .*"
 
 $lovFormat2= "I $docTypePart $dateRegexPart (?<title>.+?(?=( foretages følgende ændring)|(, som ændret ved)))"
 
-function Get-AllAendringParagrafIndledning{
-    param($targetSubDir)
-    get-childitem (join-path $PSScriptRoot $targetSubDir) -File |
-    select-xml $paragrafIndledningPath|
-    #Remove whitespace, transform citations
-    % { $_.Node.InnerText `
-        -replace '\s+', ' ' `
-    }|%{$_.Trim()}
-
-}
-
 function Parse{
     param($pattern,$taragetDir)
-    Get-AllAendringParagrafIndledning $taragetDir|
+    Get-TargetElementTextNodes $taragetDir $paragrafIndledningPath|
     select-string $pattern -AllMatches -CaseSensitive|
    %{        
        $res= %{$_.Matches}|

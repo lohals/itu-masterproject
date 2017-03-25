@@ -116,6 +116,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="AendringsDefinitionParser\FixtureHelper.cs" />
     <Compile Include="ParagrafIndledningParser\ParagrafIndledningParseResultAssertions.cs" />
     <Compile Include="ParagrafIndledningParser\TestData\TestDataHelpers.cs" />
     <Compile Include="ParagrafIndledningParser\TestParagrafIndledningSamples.cs" />
@@ -189,7 +190,9 @@
       <Name>MasterProject.Parser</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="AendringsDefinitionParser\TestData\" />
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

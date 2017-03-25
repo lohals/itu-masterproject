@@ -27,10 +27,6 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
             return InstanceOf<Stk>(context.INT());
         }
         
-        public override Element VisitAendringsNummerExp([NotNull] AendringDefinitionGrammarParser.AendringsNummerExpContext context)
-        {
-            return InstanceOf<AendringsNummer>(context.INT());
-        }
 
         public override Element VisitNummerOpregningExp(AendringDefinitionGrammarParser.NummerOpregningExpContext context)
         {

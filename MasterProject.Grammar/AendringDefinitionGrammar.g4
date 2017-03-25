@@ -31,10 +31,10 @@ parentTargetRemovedExp
 	: 'Paragraffen udgår'
 	;
 insertAfterChainExp
-	:'I' elementChainExp ', '? 'indsættes efter' (quotedTextChangeExp|(lastElementExp ('som nyt stykke'|'som nyt nummer')))
+	:'I' elementChainExp ', '? 'indsættes efter' (quotedTextChangeExp|(lastElementExp ('som nyt stykke')))
 	;
 insertAfterExp:
-    'Efter' (aendringsNummerExp|elementExp) ('indsættes som nyt stykke'|'indsættes som nye stykker'|'indsættes som nyt nummer'|'indsættes som nye numre'|'indsættes som ny paragraf'|'indsættes')
+    'Efter' (elementExp) ('indsættes som nyt stykke'|'indsættes som nye stykker'|'indsættes som ny paragraf'|'indsættes')
 	;										  
 	
 insertLastExp
@@ -52,9 +52,7 @@ removeExp
 replaceExp
 	: elementChainExp  (', affattes således'|'affattes således'|', ophæves, og i stedet indsættes'|'ophæves, og i stedet indsættes')
 	| 'I' elementChainExp (', ændres'|'ændres') quotedTextChangeExp
-	| ('I det under'|'I den under'|'Den under'|'Det under') 
-	aendringsNummerExp 'foreslåede' ('affattelse af')? elementChainExp 
-	(', affattes således' |(', ændres'|'ændres') ('i' elementChainExp)? quotedTextChangeExp)
+	
 	;
 
 manualExp
@@ -87,7 +85,7 @@ lastElementExp
 
 /* meta element categories */
 elementChainExp
-    : (aendringsNummerExp|elementExp) (', ' elementExp)* (', ' opregningExp)*
+    : (elementExp) (', ' elementExp)* (', ' opregningExp)*
 	|elementExp 'og' elementExp
 	;
 
@@ -104,9 +102,7 @@ quotedTextChangeExp
 
 
 /*concret element expressions*/
-aendringsNummerExp
-	: ('nr. '|'Nr. ') INT
-	;
+
 nummerOpregningExp
 	: 'nr. ' INT
 	;

@@ -11,19 +11,19 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
 
         public override Element VisitElementChainExp(AendringDefinitionGrammarParser.ElementChainExpContext context)
         {
-            var aendringsNummerExpression= context.aendringsNummerExp();
-            Element nummer=null;
-            if(aendringsNummerExpression != null)
-                nummer = aendringsNummerExpression.Accept(ElementVisitor.NewInstance);
+            //var aendringsNummerExpression= context.aendringsNummerExp();
+            //Element nummer=null;
+            //if(aendringsNummerExpression != null)
+            //    nummer = aendringsNummerExpression.Accept(ElementVisitor.NewInstance);
             var elements = MapElementExpressions(context.elementExp());
 
             var opregningsElement = MapElementExpressions(context.opregningExp());
             if (opregningsElement.Any())
                 opregningsElement.FirstOrDefault().ParentContext = elements.LastOrDefault();
-            BindTogetherAendringsNummerWithElementChain(elements, nummer);
+            //BindTogetherAendringsNummerWithElementChain(elements, nummer);
 
             //returns the inner most element in the nested chain (which is the last in the list or aendrigsnummer if exists and chain is empty)
-            return GetInnerMostTargetElement(nummer, elements.LastOrDefault(),opregningsElement.LastOrDefault());
+            return GetInnerMostTargetElement(elements.FirstOrDefault(), elements.LastOrDefault(),opregningsElement.LastOrDefault());
         }
 
         private Element GetInnerMostTargetElement(params Element[] element)

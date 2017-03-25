@@ -49,13 +49,8 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
 
         public override AendringDefinition VisitInsertAfterExp(AendringDefinitionGrammarParser.InsertAfterExpContext context)
         {
-            if (context.elementExp() != null)
-                return BuildAendringDefintion(context.elementExp().Accept(new ElementVisitor()),AktionType.IndsaetEfter);
-            if (context.aendringsNummerExp() != null)
-                return BuildAendringDefintion(context.aendringsNummerExp().Accept(new ElementVisitor()),
-                    AktionType.IndsaetEfter);
-            return null;
-        }
+            return BuildAendringDefintion(context.elementExp().Accept(new ElementVisitor()), AktionType.IndsaetEfter);
+         }
 
         private Element GetTargetElement(AendringDefinitionGrammarParser.InsertAfterChainExpContext context)
         {
@@ -135,27 +130,13 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
         }
         public override AendringDefinition VisitReplaceExp(AendringDefinitionGrammarParser.ReplaceExpContext context)
         {
-            var aendringsNummer = context.aendringsNummerExp()?.Accept(ElementVisitor.NewInstance);
 
-            var elementChain = context.elementChainExp()?
-                .Select(expContext => expContext?.Accept(new ElementChainVisitor()))
-                .Where(element => element!=null)
-                .ToArray();
-
-            var innerElementTarget = SetupParentChain(new []
-            {
-                aendringsNummer
-            }
-            .Concat(elementChain)
-            .Where(element => element!=null)
-            .ToArray());
-
-            if (innerElementTarget == null)
-                return null;
+            var elementChain = context.elementChainExp().Accept(new ElementChainVisitor());
+                
             
-            innerElementTarget.SubElementTarget = context.quotedTextChangeExp()?.Accept(SubElementTargetVisitor.NewInstance);
+            elementChain.SubElementTarget = context.quotedTextChangeExp()?.Accept(SubElementTargetVisitor.NewInstance);
 
-            return BuildAendringDefintion(innerElementTarget, AktionType.Erstat);
+            return BuildAendringDefintion(elementChain, AktionType.Erstat);
         }
         
 

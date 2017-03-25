@@ -1,5 +1,13 @@
 ﻿<ProjectConfiguration>
   <Settings>
+    <IgnoredTests>
+      <FixtureTestSelector>
+        <FixtureName>UnitTest.Dk.Itu.Rlh.MasterProject.ParagrafIndledningParser.TestParagrafIndledningRealData</FixtureName>
+      </FixtureTestSelector>
+      <FixtureTestSelector>
+        <FixtureName>UnitTest.Dk.Itu.Rlh.MasterProject.ParagrafIndledningParser.TestParagrafIndledningSamples</FixtureName>
+      </FixtureTestSelector>
+    </IgnoredTests>
     <PreviouslyBuiltSuccessfully>True</PreviouslyBuiltSuccessfully>
   </Settings>
 </ProjectConfiguration>
