@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Antlr4.Runtime.Misc;
+using Dk.Itu.Rlh.MasterProject.Model.ParagrafIndledning;
 
 namespace Dk.Itu.Rlh.MasterProject.Parser.ParagrafIndledning
 {
@@ -17,9 +18,12 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.ParagrafIndledning
             var year = context.date()?.Accept(new YearVisitor());
             if (!year.HasValue)
                 return null;
-            
+
+            var type = context.doctype().Accept(new DocumentTypeVisitor());
+
             return new DokumentReferenceData
             {
+                DokumentType = type,
                 Number = number,
                 Year=year.Value
             };

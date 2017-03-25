@@ -53,6 +53,7 @@
     <Compile Include="AendringsDefinition\SubElementTarget.cs" />
     <Compile Include="ParagrafIndledning\DokumentReference.cs" />
     <Compile Include="ParagrafIndledning\Dokument.cs" />
+    <Compile Include="ParagrafIndledning\DokumentType.cs" />
     <Compile Include="ParagrafIndledning\ParagrafIndledningModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -20,6 +20,7 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.ParagrafIndledningParser
         {
             parseResult.References.Count().Should().Be(1);
             var reference = parseResult.References.First();
+            reference.DokumentReference.Should().NotBeNull("The dokument reference property should not be null.");
             reference.DokumentReference.Number.Should().Be(number);
             reference.DokumentReference.Year.Should().Be(year);
             reference.Title.Should().Be(title);

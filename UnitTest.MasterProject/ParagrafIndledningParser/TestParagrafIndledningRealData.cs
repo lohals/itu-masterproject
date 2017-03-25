@@ -22,6 +22,11 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.ParagrafIndledningParser
                     "2017-format1.csv",
                     "2016-format1.csv",
                     "2015-format1.csv",
+                    "2014-format1.csv",
+                    "2013-format1.csv",
+                    "2012-format1.csv",
+                    "2011-format1.csv",
+                    "2010-format1.csv",
                 };
                 return
                      ParseFiles(fileNames);
@@ -43,6 +48,12 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.ParagrafIndledningParser
                 {
                     "2017-format2.csv",
                     "2016-format2.csv",
+                    "2015-format2.csv",
+                    "2014-format2.csv",
+                    "2013-format2.csv",
+                    "2012-format2.csv",
+                    "2011-format2.csv",
+                    "2010-format2.csv",
                 };
                 return
                      ParseFiles(fileNames);
@@ -51,15 +62,14 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.ParagrafIndledningParser
 
 
 
-        //[Theory(Skip = "Grammar not ready")]
-        //[Theory()]
+        [Theory()]
         [MemberData(nameof(TestData_Format1))]
         public void TestParagrafIndledning_Format1Data(string input, int number, int year, string title)
         {
             AssertResult(input, number, year, title);
         }
 
-       // [Theory]
+        //[Theory]
         [MemberData(nameof(TestData_Format2))]
         public void TestParagrafIndledning_Format2Data(string input, int number, int year, string title)
         {

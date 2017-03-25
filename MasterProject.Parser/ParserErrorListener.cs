@@ -12,6 +12,7 @@ namespace Dk.Itu.Rlh.MasterProject.Parser
             get { return new ParserErrorResult(_errors,_verbose); }
         }
 
+        
         public override void SyntaxError(IRecognizer recognizer, IToken offendingSymbol, int line, int charPositionInLine, string msg, RecognitionException e)
         {
            _errors.Add(msg);

@@ -1,4 +1,4 @@
-﻿param($years= @(2015,2016,2017))
+﻿param($years= @(2010))
 
 $rootdir='love'
 
@@ -10,10 +10,11 @@ $docTypePart ='(?<doctype>lov\u00AD?bekendt\u00AD?gørelse|lov)';
 
 $lovFormat1= "I (?<title>[^,]*),( jf.)? $docTypePart $dateRegexPart, .*"
 
-$lovFormat2= "I $docTypePart $dateRegexPart (?<title>.*):"
+$lovFormat2= "I $docTypePart $dateRegexPart (?<title>.+?(?=( foretages følgende ændring)|(, som ændret ved)))"
+
 function Get-AllAendringParagrafIndledning{
     param($targetSubDir)
-    get-childitem $targetSubDir -File |
+    get-childitem (join-path $PSScriptRoot $targetSubDir) -File |
     select-xml $paragrafIndledningPath|
     #Remove whitespace, transform citations
     % { $_.Node.InnerText `
@@ -26,24 +27,30 @@ function Parse{
     param($pattern,$taragetDir)
     Get-AllAendringParagrafIndledning $taragetDir|
     select-string $pattern -AllMatches -CaseSensitive|
-    %{$_.Matches}|
-    select `
-            value,
-            @{Name='Number';Expression={$_.Groups['number']}},
-            @{Name='Year';Expression={$_.Groups['year']}},
-            @{Name='Title';Expression={$_.Groups['title']}},
-            @{Name='DocType';Expression={$_.Groups['doctype']}}  
+   %{        
+       $res= %{$_.Matches}|
+        select @{Name='Number';Expression={$_.Groups['number']}},
+             @{Name='Year';Expression={$_.Groups['year']}},
+             @{Name='Title';Expression={$_.Groups['title']}},
+             @{Name='DocType';Expression={$_.Groups['doctype']}}
+       #}
+      $output=New-Object psobject
+      $output | add-member Noteproperty "Text"  $_.Line 
+      $output | add-member Noteproperty "Number"  $res.Number 
+      $output | add-member Noteproperty "Year"  $res.Year 
+      $output | add-member Noteproperty "Title"  $res.Title.ToString().Trim()
+      $output | add-member Noteproperty "DocType"  $res.DocType 
+      
+      $output
+     } 
 }
 $years|%{
     $year=$_
     $targetDir=join-path $rootdir $year
-    Parse $lovFormat1 $targetDir |Export-Csv "..\UnitTest.MasterProject\ParagrafIndledningParser\TestData\$year-format1.csv" -Delimiter ';' -Encoding UTF8
-    Parse $lovFormat2 $targetDir |Export-Csv "..\UnitTest.MasterProject\ParagrafIndledningParser\TestData\$year-format2.csv" -Delimiter ';' -Encoding UTF8
+    Parse $lovFormat1 $targetDir |Export-Csv (Join-Path $PSScriptRoot "..\UnitTest.MasterProject\ParagrafIndledningParser\TestData\$year-format1.csv") -Delimiter ';' -Encoding UTF8
+    
+    Parse $lovFormat2 $targetDir|%{$_.Title="$((Get-Culture).TextInfo.ToTitleCase($_.DocType)) $($_.Title)";$_}|Export-Csv (join-path $PSScriptRoot "..\UnitTest.MasterProject\ParagrafIndledningParser\TestData\$year-format2.csv") -Delimiter ';' -Encoding UTF8
 
 
 }
-
-
-
-
-
+#"$((Get-Culture).TextInfo.ToTitleCase($res.DocType)) $($res.Title)"

@@ -11,13 +11,16 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.ParagrafIndledning
     {
         public override ParagrafIndledningModel VisitParagrafIndledning([NotNull] Grammar.ParagrafIndledningParser.ParagrafIndledningContext context)
         {
-            var dokumentPhraseContext = context.dokumentPhraseType1();
-            var dokument = dokumentPhraseContext.Accept(new DocumentPhraseVisitor());
-             return new ParagrafIndledningModel
+            var dokumentPhraseType2Context = context.dokumentPhraseType2();
+            var phrase2 = dokumentPhraseType2Context?.Accept(new DocumentPhraseVisitor());
+
+            var phrase1 = context.dokumentPhraseType1()?.Accept(new DocumentPhraseVisitor());
+           
+            return new ParagrafIndledningModel
             {
                 References = new List<Dokument>()
                 {
-                    dokument
+                    phrase1??phrase2
                 }
             };
         }

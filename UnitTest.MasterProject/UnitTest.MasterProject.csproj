@@ -130,8 +130,42 @@
   <ItemGroup>
     <None Include="app.config" />
     <None Include="packages.config" />
-    <None Include="ParagrafIndledningParser\TestData\2015-format1.csv" />
-    <None Include="ParagrafIndledningParser\TestData\2015-format2.csv" />
+    <None Include="ParagrafIndledningParser\TestData\2010-format1.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="ParagrafIndledningParser\TestData\2010-format2.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="ParagrafIndledningParser\TestData\2011-format1.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="ParagrafIndledningParser\TestData\2011-format2.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="ParagrafIndledningParser\TestData\2012-format1.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="ParagrafIndledningParser\TestData\2012-format2.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="ParagrafIndledningParser\TestData\2013-format1.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="ParagrafIndledningParser\TestData\2013-format2.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="ParagrafIndledningParser\TestData\2014-format1.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="ParagrafIndledningParser\TestData\2014-format2.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="ParagrafIndledningParser\TestData\2015-format1.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="ParagrafIndledningParser\TestData\2015-format2.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="ParagrafIndledningParser\TestData\2016-format1.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
