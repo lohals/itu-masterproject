@@ -1,9 +1,9 @@
 using Antlr4.Runtime.Misc;
 using Antlr4.Runtime.Tree;
 using Dk.Itu.Rlh.MasterProject.Grammar;
-using Dk.Itu.Rlh.MasterProject.Model;
+using Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition;
 
-namespace Dk.Itu.Rlh.MasterProject.Parser.ParserVisitors
+namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
 {
     public class ElementVisitor: AendringDefinitionGrammarBaseVisitor<Element>
     {

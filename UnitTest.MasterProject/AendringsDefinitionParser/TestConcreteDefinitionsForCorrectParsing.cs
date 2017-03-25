@@ -1,13 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using Dk.Itu.Rlh.MasterProject.Model;
+using Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition;
+using Dk.Itu.Rlh.MasterProject.Parser;
+using Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition;
 using Ploeh.AutoFixture;
 using Ploeh.AutoFixture.AutoMoq;
 using Xunit;
-using Dk.Itu.Rlh.MasterProject.Model;
-using Dk.Itu.Rlh.MasterProject.Parser;
 
-namespace UnitTest.Dk.Itu.Rlh.MasterProject
+namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
 {
     public class TestConcreteDefinitionsForCorrectParsing
     {

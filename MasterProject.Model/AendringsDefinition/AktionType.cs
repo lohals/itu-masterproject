@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace Dk.Itu.Rlh.MasterProject.Model
+﻿namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
 {
     public enum AktionType
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Xml.Serialization;
 
-namespace Dk.Itu.Rlh.MasterProject.Model
+namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
 {
     [Serializable]
     public abstract class Element

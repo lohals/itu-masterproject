@@ -1,15 +1,10 @@
 ﻿using Antlr4.Runtime;
 using Antlr4.Runtime.Tree;
 using Dk.Itu.Rlh.MasterProject.Grammar;
-using Dk.Itu.Rlh.MasterProject.Model;
-using Dk.Itu.Rlh.MasterProject.Parser.ParserVisitors;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition;
+using Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors;
 
-namespace Dk.Itu.Rlh.MasterProject.Parser
+namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition
 {
     public class AendringDefintionParser : VisitorBasedAntlrParser<AendringDefinition>
     {

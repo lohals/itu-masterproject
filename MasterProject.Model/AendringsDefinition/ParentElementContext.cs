@@ -1,4 +1,4 @@
-﻿namespace Dk.Itu.Rlh.MasterProject.Model
+﻿namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
 {
     public class ParentElementContext : Element
     {

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Xml.Serialization;
 
-namespace Dk.Itu.Rlh.MasterProject.Model
+namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
 {
     public class ModelSerializer
     {

@@ -123,8 +123,8 @@
     <Compile Include="ParagrafNummer.cs" />
     <Compile Include="RegexSpecimenBuilder.cs" />
     <Compile Include="TestAendringDefinitionModel.cs" />
-    <Compile Include="TestConcreteDefinitionsForCorrectParsing.cs" />
-    <Compile Include="TestAendringDefinitionVariations.cs" />
+    <Compile Include="AendringsDefinitionParser\TestConcreteDefinitionsForCorrectParsing.cs" />
+    <Compile Include="AendringsDefinitionParser\TestAendringDefinitionVariations.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -189,9 +189,7 @@
       <Name>MasterProject.Parser</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="AendringsDefinitionParser\" />
-  </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

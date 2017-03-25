@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using Dk.Itu.Rlh.MasterProject.Model.ParagrafIndledning;
-
-namespace Dk.Itu.Rlh.MasterProject.Model
+﻿namespace Dk.Itu.Rlh.MasterProject.Model.ParagrafIndledning
 {
     public class Dokument
     { 

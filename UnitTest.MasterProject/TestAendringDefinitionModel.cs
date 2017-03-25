@@ -1,5 +1,6 @@
 ﻿using Dk.Itu.Rlh.MasterProject.Model;
 using System.Xml.Linq;
+using Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition;
 using Xunit;
 
 namespace UnitTest.Dk.Itu.Rlh.MasterProject

@@ -2,9 +2,9 @@
 using System.Linq;
 using Antlr4.Runtime;
 using Dk.Itu.Rlh.MasterProject.Grammar;
-using Dk.Itu.Rlh.MasterProject.Model;
+using Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition;
 
-namespace Dk.Itu.Rlh.MasterProject.Parser.ParserVisitors
+namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
 {
     public class ElementChainVisitor:AendringDefinitionGrammarBaseVisitor<Element>
     {

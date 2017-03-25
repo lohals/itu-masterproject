@@ -1,10 +1,12 @@
-﻿using Dk.Itu.Rlh.MasterProject.Model;
-using Dk.Itu.Rlh.MasterProject.Parser;
-using System;
+﻿using System;
 using System.Linq;
+using Dk.Itu.Rlh.MasterProject.Model;
+using Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition;
+using Dk.Itu.Rlh.MasterProject.Parser;
+using Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition;
 using Xunit;
 
-namespace UnitTest.Dk.Itu.Rlh.MasterProject
+namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
 {
 
     public class TestAendringDefinitionVariations

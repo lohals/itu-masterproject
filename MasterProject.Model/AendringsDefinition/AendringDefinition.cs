@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Xml.Serialization;
 
-namespace Dk.Itu.Rlh.MasterProject.Model
+namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
 {
     [Serializable]
     public partial class AendringDefinition
