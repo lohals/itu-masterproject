@@ -43,7 +43,7 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
         {
             var target = GetTargetElement(context);
             if (context.quotedTextChangeExp() != null)
-                target.SubElementTarget = context.quotedTextChangeExp().Accept(SubElementTargetVisitor.NewInstance);
+                target.SubElementTargets = new[] {context.quotedTextChangeExp().Accept(SubElementTargetVisitor.NewInstance)};
             return BuildAendringDefintion(target, AktionType.IndsaetEfter);
         }
 
@@ -93,15 +93,13 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
 
             return BuildAendringDefintion(target, AktionType.IndsaetFoer);
         }
-        private AendringDefinition BuildAendringDefintion(Element target, AktionType aktionType)
-        {
-            return new AendringDefinition() { Target = target,AktionType =aktionType };
-        }
+       
         public override AendringDefinition VisitRemoveExp(AendringDefinitionGrammarParser.RemoveExpContext context)
         {
+            var text = context.GetText();
             var target = context.elementChainExp()?.Accept(new ElementChainVisitor());
             if (target !=null && context.QUOTEDTEXT() != null)
-                target.SubElementTarget = new SubElementTarget() { Target = context.QUOTEDTEXT().GetText() };
+                target.SubElementTargets = new []{new SubElementTarget() { Target = context.QUOTEDTEXT().GetText() }};
             return BuildAendringDefintion(target, AktionType.Ophaev);
         }
 
@@ -130,19 +128,52 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
         }
         public override AendringDefinition VisitReplaceExp(AendringDefinitionGrammarParser.ReplaceExpContext context)
         {
+            Element[] targets = Enumerable.Empty<Element>().ToArray();
+            if (context.elementChainExp() != null)
+            {
+                var element = context.elementChainExp().Accept(new ElementChainVisitor());
+                var becomesElement = context.becomesExp()?.Accept(new BecomesExpressionVisitor());
+                if (becomesElement != null)
+                    becomesElement.ParentContext = element.ParentContext;
+                targets = new[] {becomesElement ?? element};
+            }
 
-            var elementChain = context.elementChainExp().Accept(new ElementChainVisitor());
-                
+            if(context.multiElementExp() !=null)
+                targets = context.multiElementExp()?.Accept(new MuultiElementVisitor());
             
-            elementChain.SubElementTarget = context.quotedTextChangeExp()?.Accept(SubElementTargetVisitor.NewInstance);
-
-            return BuildAendringDefintion(elementChain, AktionType.Erstat);
+            var quotedTextReplace = context.quotedTextChangeExp()?.Accept(SubElementTargetVisitor.NewInstance);
+            foreach (var element in targets)
+            {
+                element.SubElementTargets = new[] {quotedTextReplace};
+            }
+            return BuildAendringDefintion(targets, AktionType.Erstat);
         }
-        
+
+        //public override AendringDefinition VisitGlobalReplaceExp(AendringDefinitionGrammarParser.GlobalReplaceExpContext context)
+        //{
+
+        //    return
+        //        BuildAendringDefintion(
+        //            new Dokument()
+        //            {
+        //                SubElementTargets = context.multiQuotedTextChangeExp()?.Accept(new MultiQuotedTextChange())
+        //            },
+        //            AktionType.Erstat);
+        //}
 
         public override AendringDefinition VisitAendringDefinition(AendringDefinitionGrammarParser.AendringDefinitionContext context)
         {
+           
             return context.phrase().Accept(this);
+        }
+
+        private AendringDefinition BuildAendringDefintion(Element target, AktionType aktionType)
+        {
+            return BuildAendringDefintion(new[] { target }, aktionType);
+        }
+        private AendringDefinition BuildAendringDefintion(Element[] targets, AktionType aktionType)
+        {
+            return new AendringDefinition() { Targets = targets, AktionType = aktionType };
         }
     }
 }

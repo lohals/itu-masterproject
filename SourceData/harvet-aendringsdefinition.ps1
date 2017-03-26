@@ -1,13 +1,28 @@
-﻿param($years= @(2015,2016,2017))
+﻿param($years= @(2017)) #2010,2011,2012,2013,2014,2016,
 import-module (join-path $PSScriptRoot harvest-helpers.psm1) -force
 $rootdir='love'
 
 $paragrafIndledningPath = "//AendringsNummer/Aendring/AendringDefinition"
 $elementToFind= 'AendringDefinition'
-
+function Write-ToFile{
+    param($list,$year)
+    $dir=Join-Path $PSScriptRoot "..\UnitTest.MasterProject\AendringsDefinitionParser\RealTestData"
+    mkdir $dir -force
+    $file=join-path $dir "$year-cst-aendringsdefinitioner.txt"
+    $list|Out-File $file -Encoding UTF8
+}
 
 $result= $years|%{
-    Get-TargetElementTextNodes (join-path $rootdir $_) $paragrafIndledningPath
+    $list=(Get-TargetElementTextNodes (join-path $rootdir $_) $paragrafIndledningPath)
+    #Write defintion to file
+    $resultWithSource =$list|
+        select @{Name="Item";Expression={"$($_.File); $($_.Definition)"}}|
+        select -ExpandProperty Item;
+    
+    Write-ToFile $resultWithSource $_
+
+    #output definition for further processing
+    $list|select -ExpandProperty Definition
 } | %{
     $_ -replace "».+?«", '[CiteretTekst]' `
        -replace "Stk\. \d+", '[Stk]' `

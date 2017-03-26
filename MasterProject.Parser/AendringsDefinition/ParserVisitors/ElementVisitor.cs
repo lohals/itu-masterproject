@@ -1,3 +1,4 @@
+using System.Linq;
 using Antlr4.Runtime.Misc;
 using Antlr4.Runtime.Tree;
 using Dk.Itu.Rlh.MasterProject.Grammar;
@@ -31,6 +32,11 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
         public override Element VisitNummerOpregningExp(AendringDefinitionGrammarParser.NummerOpregningExpContext context)
         {
             return InstanceOf<NummerOpregningElement>(context.INT());
+        }
+
+        public override Element VisitLitraOpregningExp(AendringDefinitionGrammarParser.LitraOpregningExpContext context)
+        {
+            return new LitraOpregningElement() {NummerStrong = string.Join("", context.LETTER().Select(node => node.GetText()))};
         }
 
         public override Element VisitParagrafExp(AendringDefinitionGrammarParser.ParagrafExpContext context)

@@ -14,7 +14,7 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject
             var sut = new ModelSerializer();
             var input = new AendringDefinition()
             {
-                Target = new Stk() { NummerStrong = 3,ParentContext = new Paragraf() {NummerStrong = "3 a"} }
+                Targets = new[] {new Stk() { NummerStrong = 3,ParentContext = new Paragraf() {NummerStrong = "3 a"} }}
             };
             var serialize = sut.Serialize(input);
             Assert.NotNull(XDocument.Parse(serialize));

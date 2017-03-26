@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Xml.Serialization;
 
 namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
@@ -10,8 +11,12 @@ namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
 
         public abstract object Nummer { get;  }
 
+        [XmlIgnore]
+        public SubElementTarget SubElementTarget =>SubElementTargets?.FirstOrDefault();
+
         [XmlElement(Order = 2)]
-        public SubElementTarget SubElementTarget { get; set; }
+        public SubElementTarget[] SubElementTargets { get; set; }
+
 
         [XmlElement(Order = 1)]
         public Element ParentContext { get; set; }
@@ -28,6 +33,7 @@ namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
             } 
         }
 	}
+
 
     public abstract class Element<T>:Element
     {

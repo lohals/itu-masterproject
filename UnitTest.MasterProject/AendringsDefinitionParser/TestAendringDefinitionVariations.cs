@@ -41,7 +41,7 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
 
         
         [Theory]
-        [InlineData("I stk. 7 udgår »xyz 123, 987«.", "»xyz 123, 987«")]
+        [InlineData("I stk. 7 udgår »xyz 123, 987«.", "xyz 123, 987")]
         public void WhenContainsSingleQuotedTextAndAutomationIsPossible_QuotedTextAreSetInSubElementTarget(string inputString, string expectedTarget)
         {
             //ændres »abc 987« til: »xyz 123«.
@@ -56,7 +56,7 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
         }
 
         [Theory]
-        [InlineData("I stk. 9 ændres »abc, 93; øæå« til: »xyz 123. df,ø ,å, åå«.", "»abc, 93; øæå«", "»xyz 123. df,ø ,å, åå«")]
+        [InlineData("I stk. 9 ændres »abc, 93; øæå« til: »xyz 123. df,ø ,å, åå«.", "abc, 93; øæå", "xyz 123. df,ø ,å, åå")]
         public void WhenContainsQuotedTextChanged_QuotedTextArePreserved(string inputString, string expectedTarget, string expectedReplacement)
         {
             //ændres »abc 987« til: »xyz 123«.

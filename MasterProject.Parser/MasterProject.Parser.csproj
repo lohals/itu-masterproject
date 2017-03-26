@@ -45,6 +45,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AendringsDefinition\AendringsDefinitionParser.cs" />
+    <Compile Include="AendringsDefinition\ParserVisitors\BecomesExpressionVisitor.cs" />
+    <Compile Include="AendringsDefinition\ParserVisitors\MultiQuotedTextChange.cs" />
+    <Compile Include="AendringsDefinition\ParserVisitors\QuotedTextChange.cs" />
+    <Compile Include="AendringsDefinition\ParserVisitors\MultiTargetInsertAfterVisitor.cs" />
     <Compile Include="ParagrafIndledning\DocumentTypeVisitor.cs" />
     <Compile Include="ParagrafIndledning\YearVisitor.cs" />
     <Compile Include="ParagrafIndledning\DocumentPhraseVisitor.cs" />

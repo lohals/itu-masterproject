@@ -1,10 +1,13 @@
 function Get-TargetElementTextNodes{
     param($targetDir, $xpath)
-    get-childitem $targetDir -File |
-    select-xml $xpath|
+    get-childitem $targetDir -File | 
+    select-xml $xpath|    
     #Remove whitespace, transform citations
-    % { $_.Node.InnerText `
-        -replace '\s+', ' ' `
-    }|%{$_.Trim()}
+    % { 
+        New-Object psobject -property @{
+           File=(Get-item $_.Path).BaseName
+           Definition = ($_.Node.InnerText -replace '\s+', ' ').Trim()
+        }
+    }
 
 }

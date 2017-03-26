@@ -117,6 +117,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="AendringsDefinitionParser\FixtureHelper.cs" />
+    <Compile Include="AendringsDefinitionParser\TestRealDataParsing.cs" />
     <Compile Include="ParagrafIndledningParser\ParagrafIndledningParseResultAssertions.cs" />
     <Compile Include="ParagrafIndledningParser\TestData\TestDataHelpers.cs" />
     <Compile Include="ParagrafIndledningParser\TestParagrafIndledningSamples.cs" />
@@ -192,6 +193,29 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="AendringsDefinitionParser\TestData\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AendringsDefinitionParser\RealTestData\2010-cst-aendringsdefinitioner.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AendringsDefinitionParser\RealTestData\2011-cst-aendringsdefinitioner.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AendringsDefinitionParser\RealTestData\2012-cst-aendringsdefinitioner.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AendringsDefinitionParser\RealTestData\2013-cst-aendringsdefinitioner.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AendringsDefinitionParser\RealTestData\2014-cst-aendringsdefinitioner.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AendringsDefinitionParser\RealTestData\2016-cst-aendringsdefinitioner.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AendringsDefinitionParser\RealTestData\2017-cst-aendringsdefinitioner.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

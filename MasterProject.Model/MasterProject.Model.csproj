@@ -40,10 +40,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AendringsDefinition\AendringDefinition.cs" />
     <Compile Include="AendringsDefinition\AktionType.cs" />
+    <Compile Include="AendringsDefinition\Document.cs" />
     <Compile Include="AendringsDefinition\Element.cs" />
+    <Compile Include="AendringsDefinition\LitraOpregningElement.cs" />
     <Compile Include="AendringsDefinition\ModelSerializer.cs" />
+    <Compile Include="AendringsDefinition\AendringDefinition.cs" />
     <Compile Include="AendringsDefinition\NummerOpregningElement.cs" />
     <Compile Include="AendringsDefinition\Paragraf.cs" />
     <Compile Include="AendringsDefinition\ParentElementContext.cs" />
@@ -60,6 +62,7 @@
     <Content Include="AendringDefinitionModel.csproj" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="packages.config" />
     <None Include="ParagrafIndledningModelDiagram.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
