@@ -149,17 +149,17 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
             return BuildAendringDefintion(targets, AktionType.Erstat);
         }
 
-        //public override AendringDefinition VisitGlobalReplaceExp(AendringDefinitionGrammarParser.GlobalReplaceExpContext context)
-        //{
+        public override AendringDefinition VisitGlobalReplaceExp(AendringDefinitionGrammarParser.GlobalReplaceExpContext context)
+        {
 
-        //    return
-        //        BuildAendringDefintion(
-        //            new Dokument()
-        //            {
-        //                SubElementTargets = context.multiQuotedTextChangeExp()?.Accept(new MultiQuotedTextChange())
-        //            },
-        //            AktionType.Erstat);
-        //}
+            return
+                BuildAendringDefintion(
+                    new DokumentElement()
+                    {
+                        SubElementTargets = context.multiQuotedTextChangeExp()?.Accept(new MultiQuotedTextChange())
+                    },
+                    AktionType.Erstat);
+        }
 
         public override AendringDefinition VisitAendringDefinition(AendringDefinitionGrammarParser.AendringDefinitionContext context)
         {

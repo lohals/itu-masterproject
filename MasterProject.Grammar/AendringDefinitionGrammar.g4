@@ -21,16 +21,16 @@ phrase
 
 	|removeExp
 	
-	//|globalReplaceExp
+	|globalReplaceExp
 	|replaceExp
 
 	|manualExp
 	;
 
 /* phrases */
-//globalReplaceExp
-//	:' '//'Overalt i loven' replaceAktionExp multiQuotedTextChangeExp
-//	;
+globalReplaceExp
+	:'Overalt i loven' replaceAktionExp multiQuotedTextChangeExp
+	;
 parentTargetChangedExp
 	: 'Paragraffen affattes således'
 	;
@@ -57,8 +57,7 @@ removeExp
 	: elementChainExp removeAktionExp
 	| 'I' elementChainExp removeAktionExp QUOTEDTEXT
 	;
-//I stk. 3 ændres »9607ee90-3697-4bae-8969-9091b5321« til: »1234ee90-3697-4bae-8969-9091b5321«.
-//I § 82 a, stk. 3, der bliver stk. 4, ændres »stk. 1 og 2« til: »stk. 1-3«.
+
 replaceExp
 	: elementChainExp  (', affattes således'|'affattes således'|', ophæves, og i stedet indsættes'|'ophæves, og i stedet indsættes')
 	| 'I' elementChainExp becomesExp replaceAktionExp quotedTextChangeExp

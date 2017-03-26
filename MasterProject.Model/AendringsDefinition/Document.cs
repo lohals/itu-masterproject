@@ -1,6 +1,6 @@
 ﻿namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
 {
-    public class Dokument : Element
+    public class DokumentElement : Element
     {
         public override object Nummer =>this;
     }

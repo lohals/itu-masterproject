@@ -38,6 +38,27 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
                    ;
             }
         }
+
+        [Theory]
+        [InlineData("Overalt i loven ændres »Styrelsen for Arbejdsmarked og Rekruttering« til: »Styrelsen for International Rekruttering og Integration«."
+            ,new object[] {new object[] { "Styrelsen for Arbejdsmarked og Rekruttering", "Styrelsen for International Rekruttering og Integration" } })]
+        public void TestGlobalTarget_QuotedTextReplace(string input,object[][] subElementTargets)
+        {
+            var result = _sut.Parse(input);
+            AssertErrors(result);
+            Assert.IsType<DokumentElement>(result.Result.Target);
+            Assert.Equal(1,result.Result.Targets.Length);
+            Assert.Null(result.Result.Target.ParentContext);
+            Assert.Equal(subElementTargets.Length, result.Result.Target.SubElementTargets.Length);
+            int counter = 0;
+            Assert.All(result.Result.Target.SubElementTargets, st =>
+            {
+                Assert.Equal(subElementTargets[counter][0], st.Target);
+                Assert.Equal(subElementTargets[counter][1], st.Replacement);
+                counter++;
+            });
+        }
+
         [Theory]
         [InlineData("I § 25, stk. 4, og § 26, stk. 5, ændres »hjælp« til: »personlig bistand«."
             ,new object[] {new object[] {4,25}, new object[] { 5,26 } }
