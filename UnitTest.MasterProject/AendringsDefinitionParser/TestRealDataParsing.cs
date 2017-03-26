@@ -10,6 +10,7 @@ using Xunit.Abstractions;
 
 namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
 {
+    [Trait("TestType","Tool")]
     public class TestRealDataParsing
     {
         private readonly ITestOutputHelper _logger;

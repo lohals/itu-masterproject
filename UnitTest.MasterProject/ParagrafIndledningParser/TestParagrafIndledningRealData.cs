@@ -62,7 +62,7 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.ParagrafIndledningParser
 
 
 
-        //[Theory()]
+        [Theory()]
         [MemberData(nameof(TestData_Format1))]
         public void TestParagrafIndledning_Format1Data(string input, int number, int year, string title)
         {
