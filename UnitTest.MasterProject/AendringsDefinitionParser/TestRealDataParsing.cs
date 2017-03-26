@@ -10,6 +10,7 @@ using Xunit.Abstractions;
 
 namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
 {
+    [Trait("Category", "Tool")]
     public class TestRealDataParsing
     {
         private readonly ITestOutputHelper _logger;
@@ -19,7 +20,6 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
             _logger = logger;
         }
 
-        [Trait("TestType", "Tool")]
         [Theory]
         [InlineData("2017")]
         [InlineData("2016")]
