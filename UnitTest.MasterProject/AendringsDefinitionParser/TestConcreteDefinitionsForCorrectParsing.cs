@@ -38,7 +38,6 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
                    ;
             }
         }
-        
         [Theory]
         [InlineData("I § 86, stk. 3, ændres »justitsministeren og social- og indenrigsministeren« til: »justitsministeren, børne- og socialministeren og udlændinge- og integrationsministeren«, og »§ 82 a« ændres til: »§§ 82 a og 87«."
             , new object[]
@@ -48,6 +47,15 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
             }
             ,new object[] {3,"86"}
             ,new[] {typeof(Stk),typeof(Paragraf)})]
+        [InlineData("I § 86, stk. 3, nr. 3, ændres »på sikret afdeling« til: »på en sikret døgninstitution«, og »lov om social service, eller« ændres til »lov om social service, herunder som led i en strafferetlig afgørelse afsagt ved dom eller kendelse, eller«."
+            ,new object[]
+            {
+                new object[] { "på sikret afdeling", "på en sikret døgninstitution" },
+                new object[] { "lov om social service, eller", "lov om social service, herunder som led i en strafferetlig afgørelse afsagt ved dom eller kendelse, eller" },
+            }
+            , new object[] { 3, 3, "86" }
+            , new[] {  typeof(NummerOpregningElement),typeof(Stk)
+                , typeof(Paragraf) })]
         public void TestSubElementMultiTarget_QuotedTextChanged(string input, object[][] expectedSubElementTargets,object[]explicatusChain,Type[] typeChain)
         {
             var result = _sut.Parse(input);
@@ -107,15 +115,7 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
             });
         }
 
-        //[Theory]
-        [InlineData("I § 86, stk. 3, ændres »justitsministeren og social- og indenrigsministeren« til:" +
-                    " »justitsministeren, børne- og socialministeren og udlændinge- og integrationsministeren«," +
-                    " og »§ 82 a« ændres til: »§§ 82 a og 87«.", new object[] { 3, "86" }, new[] { typeof(Stk), typeof(Paragraf) })]
-        public void TestMultiTextReplace(string input,object[] multiTargetExplicatus,Type[] multitTargetType)
-        {
-            var parseResult = _sut.Parse(input);
-
-        }
+        
 
         [Theory]
         [InlineData("§ 15, stk. 2, 1. pkt, affattes således:", new object[] { 1,2, "15" }, new[] { typeof(Saetning), typeof(Stk), typeof(Paragraf) })]

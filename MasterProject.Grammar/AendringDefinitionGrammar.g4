@@ -64,9 +64,10 @@ removeExp
 replaceExp
 	: elementChainExp  (', affattes således'|'affattes således'|', ophæves, og i stedet indsættes'|'ophæves, og i stedet indsættes')
 	| 'I' elementChainExp becomesExp replaceAktionExp quotedTextChangeExp
-	| 'I' (elementChainExp|multiElementExp) replaceAktionExp quotedTextChangeExp (', og' quotedTextChangeExp)?
+	| 'I' (elementChainExp|multiElementExp) replaceAktionExp multiQuotedTextChangeExp
+	
 	;
-
+	//quotedTextChangeExp (', og' quotedTextChangeExp)?
 manualExp
 	:'I'? elementChainExp ((removeAktionExp QUOTEDTEXT)|('ophæves'|', ophæves')) manuelTextBitExp+
 	|elementChainExp ((', '|'og') ignoreableElementChainExp)+ manuelTextBitExp+
@@ -112,12 +113,13 @@ opregningExp
     ;
 
 multiQuotedTextChangeExp
-	:quotedTextChangeExp* //(', og ' quotedTextChangeExp)*
+	:quotedTextChangeExp (', og' quotedTextChangeExp)*
 	 ;
 quotedTextChangeExp
 	: QUOTEDTEXT 'til:' QUOTEDTEXT
 	| QUOTEDTEXT ':' QUOTEDTEXT
 	| QUOTEDTEXT 'ændres til:'QUOTEDTEXT
+	| QUOTEDTEXT 'ændres til'QUOTEDTEXT
 	;
 
 /*Textual context expressions*/

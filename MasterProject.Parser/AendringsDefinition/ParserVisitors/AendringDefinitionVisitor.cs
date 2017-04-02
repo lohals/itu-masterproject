@@ -141,11 +141,12 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
             if(context.multiElementExp() !=null)
                 targets = context.multiElementExp()?.Accept(new MuultiElementVisitor());
 
-            var quotedTextReplace = context.quotedTextChangeExp()?.Select(q=>q.Accept(new SubElementTargetVisitor())).Where(target => target!=null).ToArray();
-            //var quotedTextReplace = context.multiQuotedTextChangeExp()?.Accept(new MultiQuotedTextChange());
+            //var quotedTextReplace = context.quotedTextChangeExp()?.Select(q=>q.Accept(new SubElementTargetVisitor())).Where(target => target!=null).ToArray();
+            var quotedTextReplace = context.quotedTextChangeExp()?.Accept(new SubElementTargetVisitor());
+            var multiReplace = context.multiQuotedTextChangeExp()?.Accept(new MultiQuotedTextChange());
             foreach (var element in targets)
             {
-                element.SubElementTargets = quotedTextReplace;
+                element.SubElementTargets = quotedTextReplace == null ? multiReplace : new[] {quotedTextReplace};
             }
             return BuildAendringDefintion(targets, AktionType.Erstat);
         }
