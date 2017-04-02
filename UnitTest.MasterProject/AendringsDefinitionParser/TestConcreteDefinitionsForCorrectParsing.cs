@@ -38,7 +38,24 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
                    ;
             }
         }
-
+        
+        [Theory]
+        [InlineData("I § 86, stk. 3, ændres »justitsministeren og social- og indenrigsministeren« til: »justitsministeren, børne- og socialministeren og udlændinge- og integrationsministeren«, og »§ 82 a« ændres til: »§§ 82 a og 87«."
+            , new object[]
+            {
+                new object[] { "justitsministeren og social- og indenrigsministeren", "justitsministeren, børne- og socialministeren og udlændinge- og integrationsministeren" },
+                new object[] { "§ 82 a", "§§ 82 a og 87" },
+            }
+            ,new object[] {3,"86"}
+            ,new[] {typeof(Stk),typeof(Paragraf)})]
+        public void TestSubElementMultiTarget_QuotedTextChanged(string input, object[][] expectedSubElementTargets,object[]explicatusChain,Type[] typeChain)
+        {
+            var result = _sut.Parse(input);
+            AssertErrors(result);
+            Assert.Equal(1,result.Result.Targets.Length);
+            AssertTargetElementChain(explicatusChain,AktionType.Erstat, typeChain,result.Result,result.Result.Target);
+            AssertSubElementMultiReplaceChange(expectedSubElementTargets,result.Result.Target.SubElementTargets);
+        }
         [Theory]
         [InlineData("Overalt i loven ændres »Styrelsen for Arbejdsmarked og Rekruttering« til: »Styrelsen for International Rekruttering og Integration«."
             ,new object[] {new object[] { "Styrelsen for Arbejdsmarked og Rekruttering", "Styrelsen for International Rekruttering og Integration" } })]
@@ -49,19 +66,24 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
             Assert.IsType<DokumentElement>(result.Result.Target);
             Assert.Equal(1,result.Result.Targets.Length);
             Assert.Null(result.Result.Target.ParentContext);
-            Assert.Equal(subElementTargets.Length, result.Result.Target.SubElementTargets.Length);
+            AssertSubElementMultiReplaceChange(subElementTargets, result.Result.Target.SubElementTargets);
+        }
+
+        private static void AssertSubElementMultiReplaceChange(object[][] expectedSubElementTargets, SubElementTarget[] subElementTargets)
+        {
+            Assert.Equal(subElementTargets.Length, subElementTargets.Length);
             int counter = 0;
-            Assert.All(result.Result.Target.SubElementTargets, st =>
+            Assert.All(subElementTargets, st =>
             {
-                Assert.Equal(subElementTargets[counter][0], st.Target);
-                Assert.Equal(subElementTargets[counter][1], st.Replacement);
+                Assert.Equal<object>(expectedSubElementTargets[counter][0], st.Target);
+                Assert.Equal<object>(expectedSubElementTargets[counter][1], st.Replacement);
                 counter++;
             });
         }
 
         [Theory]
         [InlineData("I § 25, stk. 4, og § 26, stk. 5, ændres »hjælp« til: »personlig bistand«."
-            ,new object[] {new object[] {4,25}, new object[] { 5,26 } }
+            , new object[] {new object[] {4,25}, new object[] { 5,26 } }
             ,new object[]{new[] { typeof(Stk),typeof(Paragraf)}, new[] { typeof(Stk), typeof(Paragraf) }}
             , "hjælp"
             , "personlig bistand")]
@@ -70,14 +92,21 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
             var result = _sut.Parse(input);
             AssertErrors(result);
             Assert.Equal(explicatusChains.Length,result.Result.Targets.Length);
+            AssertAllTargetChains(explicatusChains, elementTypes, result, AktionType.Erstat);
+        }
+
+        private void AssertAllTargetChains(object[][] explicatusChains, Type[][] elementTypes, ParseResult<AendringDefinition> result, AktionType expectedAktionType)
+        {
             int counter = 0;
             Assert.All(explicatusChains, chain =>
             {
                 AendringDefinition parseResultResult = result.Result;
-                AssertTargetElementChain(chain,AktionType.Erstat, elementTypes[counter],parseResultResult, parseResultResult.Targets[counter]);
+                AssertTargetElementChain(chain, expectedAktionType, elementTypes[counter], parseResultResult,
+                    parseResultResult.Targets[counter]);
                 counter++;
             });
         }
+
         //[Theory]
         [InlineData("I § 86, stk. 3, ændres »justitsministeren og social- og indenrigsministeren« til:" +
                     " »justitsministeren, børne- og socialministeren og udlændinge- og integrationsministeren«," +

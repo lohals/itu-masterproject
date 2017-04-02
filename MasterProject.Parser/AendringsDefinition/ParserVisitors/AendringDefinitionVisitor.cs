@@ -140,11 +140,12 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
 
             if(context.multiElementExp() !=null)
                 targets = context.multiElementExp()?.Accept(new MuultiElementVisitor());
-            
-            var quotedTextReplace = context.quotedTextChangeExp()?.Accept(SubElementTargetVisitor.NewInstance);
+
+            var quotedTextReplace = context.quotedTextChangeExp()?.Select(q=>q.Accept(new SubElementTargetVisitor())).Where(target => target!=null).ToArray();
+            //var quotedTextReplace = context.multiQuotedTextChangeExp()?.Accept(new MultiQuotedTextChange());
             foreach (var element in targets)
             {
-                element.SubElementTargets = new[] {quotedTextReplace};
+                element.SubElementTargets = quotedTextReplace;
             }
             return BuildAendringDefintion(targets, AktionType.Erstat);
         }

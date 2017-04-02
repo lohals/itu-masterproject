@@ -12,7 +12,7 @@ aendringDefinition
 phrase
 	:parentTargetChangedExp
 	|parentTargetRemovedExp
-
+	
 	
 	|insertLastExp
 	|insertAfterExp
@@ -20,9 +20,11 @@ phrase
 	|insertBeforeExp
 
 	|removeExp
-	
+
 	|globalReplaceExp
 	|replaceExp
+	
+	
 
 	|manualExp
 	;
@@ -53,6 +55,7 @@ insertBeforeExp
 	: 'Før' elementChainExp 'indsættes som nyt nummer'
 	|'I' elementChainExp (', indsættes før'|'indsættes før') (elementOrOpregningExp ('som nye stykker'|'som nye numre'))
 	;
+
 removeExp
 	: elementChainExp removeAktionExp
 	| 'I' elementChainExp removeAktionExp QUOTEDTEXT
@@ -61,8 +64,7 @@ removeExp
 replaceExp
 	: elementChainExp  (', affattes således'|'affattes således'|', ophæves, og i stedet indsættes'|'ophæves, og i stedet indsættes')
 	| 'I' elementChainExp becomesExp replaceAktionExp quotedTextChangeExp
-	| 'I' (elementChainExp|multiElementExp) replaceAktionExp quotedTextChangeExp
-	
+	| 'I' (elementChainExp|multiElementExp) replaceAktionExp quotedTextChangeExp (', og' quotedTextChangeExp)?
 	;
 
 manualExp
@@ -110,11 +112,12 @@ opregningExp
     ;
 
 multiQuotedTextChangeExp
-	:quotedTextChangeExp* //((', og'|' og '|'og'|'og '|' og') quotedTextChangeExp)*
+	:quotedTextChangeExp* //(', og ' quotedTextChangeExp)*
 	 ;
 quotedTextChangeExp
 	: QUOTEDTEXT 'til:' QUOTEDTEXT
-	| QUOTEDTEXT ':' QUOTEDTEXT 
+	| QUOTEDTEXT ':' QUOTEDTEXT
+	| QUOTEDTEXT 'ændres til:'QUOTEDTEXT
 	;
 
 /*Textual context expressions*/
