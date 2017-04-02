@@ -63,17 +63,19 @@ removeExp
 
 replaceExp
 	:rootedBecomesExp replaceAktionExp
+	|rootedMultiElementExp replaceAktionExp
 	|elementChainExp replaceAktionExp
 	| 'I' elementChainExp becomesExp replaceAktionExp quotedTextChangeExp
-	| 'I' (elementChainExp|multiElementExp) replaceAktionExp multiQuotedTextChangeExp
-	//§ 98 e, stk. 4, 2. pkt., der bliver stk. 5, 2. pkt., affattes således:
+	| 'I' (elementChainExp|multiElementExp) replaceAktionExp multiQuotedTextChangeExp//§ 98 e, stk. 4, 2. pkt., der bliver stk. 5, 2. pkt., affattes således:
+	
 	;
-	//quotedTextChangeExp (', og' quotedTextChangeExp)?
-//replaceAktionExp
-//	:', affattes således'|'affattes således'|', ophæves, og i stedet indsættes'|'ophæves, og i stedet indsættes'
-//	;
+
 rootedBecomesExp
-	:rootElementExp ', ' ignoreableElementChainExp becomesChainExp
+	:rootElementExp ', ' ignoreableElementChainExp becomesChainExp	
+	;
+
+rootedMultiElementExp
+	:rootElementExp ', ' multiElementExp //§ 9 h, stk. 1 og 2, affattes således:
 	;
 rootElementExp
 	:elementExp
@@ -99,6 +101,7 @@ ignoreableElementChainExp
 	;
 multiElementExp:
     INT '. og' elementExp
+	|elementExp 'og' INT 
 	|elementChainExp ('og'|', og') elementChainExp
     ;
 lastElementExp

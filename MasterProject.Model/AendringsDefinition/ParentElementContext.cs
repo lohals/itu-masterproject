@@ -7,5 +7,10 @@
         {
             get { return null; }
         }
+
+        public override Element Clone(object nummer)
+        {
+            return new ParentElementContext();
+        }
     }
 }

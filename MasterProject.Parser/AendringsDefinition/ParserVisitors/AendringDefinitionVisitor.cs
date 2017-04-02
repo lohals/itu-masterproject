@@ -131,6 +131,9 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
             var rootedBecomes = context.rootedBecomesExp()?.Accept(new RootedBecomesExpVisitor());
             if(rootedBecomes!=null)
                 return BuildAendringDefintion(rootedBecomes,AktionType.Erstat);
+            var rootedMulti = context.rootedMultiElementExp()?.Accept(new RootedMultiElementExp());
+            if(rootedMulti!=null)
+                return BuildAendringDefintion(rootedMulti,AktionType.Erstat);
 
             Element[] targets = Enumerable.Empty<Element>().ToArray();
             if (context.elementChainExp() != null)
@@ -143,7 +146,7 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
             }
 
             if(context.multiElementExp() !=null)
-                targets = context.multiElementExp()?.Accept(new MuultiElementVisitor());
+                targets = context.multiElementExp()?.Accept(new MultiElementVisitor());
 
             //var quotedTextReplace = context.quotedTextChangeExp()?.Select(q=>q.Accept(new SubElementTargetVisitor())).Where(target => target!=null).ToArray();
             var quotedTextReplace = context.quotedTextChangeExp()?.Accept(new SubElementTargetVisitor());

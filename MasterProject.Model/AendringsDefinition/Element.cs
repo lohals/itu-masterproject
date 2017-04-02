@@ -8,7 +8,6 @@ namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
     [Serializable]
     public abstract class Element
 	{
-
         public abstract object Nummer { get;  }
 
         [XmlIgnore]
@@ -32,7 +31,9 @@ namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
                 }
             } 
         }
-	}
+        public abstract Element Clone(object nummer);
+
+    }
 
 
     public abstract class Element<T>:Element
@@ -43,8 +44,16 @@ namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
             get { return NummerStrong; }
         }
 
+        public override Element Clone(object nummer)
+        {
+            return CloneStrong((T)nummer);
+        }
+
+
         [XmlAttribute(AttributeName = "Nummer")]
         public T NummerStrong { get; set; }
-        
+        public abstract Element<T> CloneStrong(T nummer);
+
+
     }
 }

@@ -99,12 +99,13 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
         {
             var result = _sut.Parse(input);
             AssertErrors(result);
-            Assert.Equal(explicatusChains.Length,result.Result.Targets.Length);
             AssertAllTargetChains(explicatusChains, elementTypes, result, AktionType.Erstat);
         }
 
         private void AssertAllTargetChains(object[][] explicatusChains, Type[][] elementTypes, ParseResult<AendringDefinition> result, AktionType expectedAktionType)
         {
+            Assert.Equal(explicatusChains.Length, result.Result.Targets.Length);
+
             int counter = 0;
             Assert.All(explicatusChains, chain =>
             {
@@ -129,6 +130,17 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
         public void Test_ErstatExpressions(string input, object[] expectedExplicatus,  Type[] expectedTypes)
         {
             TestParseResult(input, expectedExplicatus, AktionType.Erstat, expectedTypes);
+        }
+
+        [Theory]
+        [InlineData("§ 9 h, stk. 1 og 2, affattes således:"
+           , new object[] { new object[] { 1, "9 h" }, new object[] { 2, "9 h" } }
+           , new object[] { new[] { typeof(Stk), typeof(Paragraf) }, new[] { typeof(Stk), typeof(Paragraf) } })]
+        public void Test_MultiTarget_Replace(string input, object[][] expectedExplicatus, Type[][] expectedTypes)
+        {
+            var result = _sut.Parse(input);
+            AssertErrors(result);
+            AssertAllTargetChains(expectedExplicatus,expectedTypes,result,AktionType.Erstat);
         }
         [Theory]
         [InlineData("§ 15, stk. 2, ophæves.", new object[] { 2, "15" }, new[] { typeof(Stk), typeof(Paragraf) })]

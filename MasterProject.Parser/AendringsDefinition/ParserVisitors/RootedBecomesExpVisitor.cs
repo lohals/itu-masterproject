@@ -17,7 +17,6 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
             if (becomesChain == null)
                 return root;
             becomesChain.GetAncestorsAndSelf.Reverse().First().ParentContext=root;
-
             return becomesChain;
         }
         
