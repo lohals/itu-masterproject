@@ -62,12 +62,22 @@ removeExp
 	;
 
 replaceExp
-	: elementChainExp  (', affattes således'|'affattes således'|', ophæves, og i stedet indsættes'|'ophæves, og i stedet indsættes')
+	:rootedBecomesExp replaceAktionExp
+	|elementChainExp replaceAktionExp
 	| 'I' elementChainExp becomesExp replaceAktionExp quotedTextChangeExp
 	| 'I' (elementChainExp|multiElementExp) replaceAktionExp multiQuotedTextChangeExp
-	
+	//§ 98 e, stk. 4, 2. pkt., der bliver stk. 5, 2. pkt., affattes således:
 	;
 	//quotedTextChangeExp (', og' quotedTextChangeExp)?
+//replaceAktionExp
+//	:', affattes således'|'affattes således'|', ophæves, og i stedet indsættes'|'ophæves, og i stedet indsættes'
+//	;
+rootedBecomesExp
+	:rootElementExp ', ' ignoreableElementChainExp becomesChainExp
+	;
+rootElementExp
+	:elementExp
+	;
 manualExp
 	:'I'? elementChainExp ((removeAktionExp QUOTEDTEXT)|('ophæves'|', ophæves')) manuelTextBitExp+
 	|elementChainExp ((', '|'og') ignoreableElementChainExp)+ manuelTextBitExp+
@@ -76,7 +86,7 @@ manuelTextBitExp:
     ', ' ignoreableElementChainExp removeAktionExp
 	|(', og i' ignoreableElementChainExp removeAktionExp QUOTEDTEXT)
 	|(', og' ignoreableElementChainExp (', 'ignoreableElementChainExp)? removeAktionExp) ', og i stedet indsættes'?
-	|(', og i' ignoreableElementChainExp ('indsættes efter'|'indsættes efter') quotedTextChangeExp)
+	|(', og i' ignoreableElementChainExp 'indsættes efter' quotedTextChangeExp)
 ;
 
 
@@ -99,6 +109,9 @@ becomesExp
 	:', der bliver ' elementExp
 	;
 
+becomesChainExp
+	:', der bliver ' elementChainExp
+	;
 /* meta element categories */
 elementChainExp
     : (elementExp) (', ' elementExp)* (', ' opregningExp)*
@@ -130,7 +143,7 @@ insertAfterAktionExp
 	:', indsættes efter'|'indsættes efter'
 	;
 replaceAktionExp
-	:', ændres'|'ændres'
+	:', ændres'|'ændres'|', affattes således'|'affattes således'|', ophæves, og i stedet indsættes'|'ophæves, og i stedet indsættes'
 	;
 asnewElementExp:'som nyt nummer'|'som nyt stykke'|'som nye numre';
 /*concret element expressions*/

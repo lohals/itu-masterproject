@@ -128,6 +128,10 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
         }
         public override AendringDefinition VisitReplaceExp(AendringDefinitionGrammarParser.ReplaceExpContext context)
         {
+            var rootedBecomes = context.rootedBecomesExp()?.Accept(new RootedBecomesExpVisitor());
+            if(rootedBecomes!=null)
+                return BuildAendringDefintion(rootedBecomes,AktionType.Erstat);
+
             Element[] targets = Enumerable.Empty<Element>().ToArray();
             if (context.elementChainExp() != null)
             {

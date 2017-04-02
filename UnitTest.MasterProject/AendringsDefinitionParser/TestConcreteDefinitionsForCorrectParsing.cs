@@ -123,6 +123,9 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
         [InlineData("§ 153, stk. 1, ophæves, og i stedet indsættes:", new object[] { 1, "153" }, new Type[] { typeof(Stk), typeof(Paragraf) })]
         [InlineData("§ 198 b ophæves, og i stedet indsættes:", new object[] { "198 b" },  new []{ typeof(Paragraf) })]
         [InlineData("§ 9, stk. 1, nr. 1, litra d, affattes således:", new object[] { "d",1,1,"9" }, new[] { typeof(LitraOpregningElement), typeof(NummerOpregningElement), typeof(Stk),typeof(Paragraf) })]
+        [InlineData("§ 98 e, stk. 4, 2. pkt., der bliver stk. 5, 2. pkt., affattes således:"
+            , new object[] { 2, 5, "98 e" }
+            , new[] { typeof(Saetning), typeof(Stk), typeof(Paragraf) })]
         public void Test_ErstatExpressions(string input, object[] expectedExplicatus,  Type[] expectedTypes)
         {
             TestParseResult(input, expectedExplicatus, AktionType.Erstat, expectedTypes);
@@ -193,28 +196,45 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
             });
         }
 
-        [Theory]
-        //Nested citations not supported yet!!  [InlineData("I stk. 3 ændres »123»abcd«xyz« til: »9 8 7 6 5 4 3«.", new object[] {3} , "123»abcd«xyz", "9 8 7 6 5 4 3", AktionType.Erstat, new Type[] { typeof(Stk)})]
-        [InlineData("I stk. 3 ændres »9607ee90-3697-4bae-8969-9091b5321« til: »1234ee90-3697-4bae-8969-9091b5321«.", new object[] {3} , "9607ee90-3697-4bae-8969-9091b5321", "1234ee90-3697-4bae-8969-9091b5321", AktionType.Erstat, new Type[] { typeof(Stk)})]
-        [InlineData("I stk. 10 indsættes efter »9607ee90-3697-4bae-8969-9091b5321«: »1234ee90-3697-4bae-8969-9091b5321«.", new object[] {10}, "9607ee90-3697-4bae-8969-9091b5321", "1234ee90-3697-4bae-8969-9091b5321", AktionType.IndsaetEfter, new Type[] { typeof(Stk)})]
-        [InlineData("I § 5 a, stk. 10, indsættes efter »9607ee90-3697-4bae-8969-9091b5321«: »1234ee90-3697-4bae-8969-9091b5321«.", new object[] {10,"5 a"}, "9607ee90-3697-4bae-8969-9091b5321", "1234ee90-3697-4bae-8969-9091b5321", AktionType.IndsaetEfter, new Type[] { typeof(Stk),typeof(Paragraf)})]
-        [InlineData("I § 10, stk. 7, nr. 4, ændres »9607ee90-3697-4bae-8969-9091b5321« til: »1234ee90-3697-4bae-8969-9091b5321«.", new object[] {4,7,10}, "9607ee90-3697-4bae-8969-9091b5321", "1234ee90-3697-4bae-8969-9091b5321", AktionType.Erstat, new Type[] {typeof(NummerOpregningElement), typeof(Stk),typeof(Paragraf)})]
-        [InlineData("I § 448 b, 1. pkt., ændres »social- og indenrigsministeren eller den, ministeren bemyndiger dertil,« til: »Ankestyrelsen«.", new object[] { 1,"448 b"}, "social- og indenrigsministeren eller den, ministeren bemyndiger dertil,", "Ankestyrelsen", AktionType.Erstat, new Type[] { typeof(Saetning), typeof(Paragraf) })]
-        //[InlineData("I § 82 a, stk. 3, der bliver stk. 4, ændres »stk. 1 og 2« til: »stk. 1-3«.", 
-        //    new object[] { 3,"82 a"}, "stk. 1 og 2", "stk. 1-3", AktionType.Erstat, new Type[] { typeof(Stk), typeof(Paragraf) })]
-        [InlineData("I § 3, ændres »101 kr.« til: »84 kr.«", new[] { "3" }, "101 kr.", "84 kr.", AktionType.Erstat, new[] { typeof(Paragraf) })]
-        //I § 82 a, stk. 3, der bliver stk. 4, ændres »stk. 1 og 2« til: »stk. 1-3«.
-        [InlineData("I § 82 a, stk. 3, der bliver stk. 4, ændres »stk. 1 og 2« til: »stk. 1-3«.", new object[] { 4,"82 a" }, "stk. 1 og 2", "stk. 1-3", AktionType.Erstat, new[] { typeof(Stk), typeof(Paragraf) })]
-
-        public void Test_Simple_SubelementTargetLevel_AendringDefinitioner(string input, object[] expectedExplicatus, string quotedFrom,
-            string quotedTo,AktionType expectedAktionType,Type[] aendringsType)
+        [InlineData("I stk. 10 indsættes efter »9607ee90-3697-4bae-8969-9091b5321«: »1234ee90-3697-4bae-8969-9091b5321«.", new object[] { 10 }, "9607ee90-3697-4bae-8969-9091b5321", "1234ee90-3697-4bae-8969-9091b5321",  new Type[] { typeof(Stk) })]
+        [InlineData("I § 5 a, stk. 10, indsættes efter »9607ee90-3697-4bae-8969-9091b5321«: »1234ee90-3697-4bae-8969-9091b5321«.", new object[] { 10, "5 a" }, "9607ee90-3697-4bae-8969-9091b5321", "1234ee90-3697-4bae-8969-9091b5321", new Type[] { typeof(Stk), typeof(Paragraf) })]
+        public void Test_Simple_SubelementTargetLevel_InsertAfter(string input, object[] expectedExplicatus, string quotedFrom,
+            string quotedTo, Type[] aendringsType)
         {
             var parseResult = _sut.Parse(input);
             AssertErrors(parseResult);
             AendringDefinition parseResultResult = parseResult.Result;
-            AssertTargetElementChain(expectedExplicatus,expectedAktionType,aendringsType, parseResultResult, parseResultResult.Target);
-            Assert.Equal(quotedFrom,parseResult.Result.Target.SubElementTarget.Target);
-            Assert.Equal(quotedTo,parseResult.Result.Target.SubElementTarget.Replacement);
+            AssertTargetElementChain(expectedExplicatus, AktionType.IndsaetEfter, aendringsType, parseResultResult, parseResultResult.Target);
+            AssertQuotedTextChange(quotedFrom, quotedTo, parseResult);
+        }
+
+
+        [Theory]
+        //Nested citations not supported yet!!  [InlineData("I stk. 3 ændres »123»abcd«xyz« til: »9 8 7 6 5 4 3«.", new object[] {3} , "123»abcd«xyz", "9 8 7 6 5 4 3", AktionType.Erstat, new Type[] { typeof(Stk)})]
+        [InlineData("I stk. 3 ændres »9607ee90-3697-4bae-8969-9091b5321« til: »1234ee90-3697-4bae-8969-9091b5321«.", new object[] {3} , "9607ee90-3697-4bae-8969-9091b5321", "1234ee90-3697-4bae-8969-9091b5321", new Type[] { typeof(Stk)})]
+        [InlineData("I § 10, stk. 7, nr. 4, ændres »9607ee90-3697-4bae-8969-9091b5321« til: »1234ee90-3697-4bae-8969-9091b5321«.", new object[] {4,7,10}, "9607ee90-3697-4bae-8969-9091b5321", "1234ee90-3697-4bae-8969-9091b5321",  new Type[] {typeof(NummerOpregningElement), typeof(Stk),typeof(Paragraf)})]
+        [InlineData("I § 448 b, 1. pkt., ændres »social- og indenrigsministeren eller den, ministeren bemyndiger dertil,« til: »Ankestyrelsen«.", new object[] { 1,"448 b"}, "social- og indenrigsministeren eller den, ministeren bemyndiger dertil,", "Ankestyrelsen", new Type[] { typeof(Saetning), typeof(Paragraf) })]
+        //[InlineData("I § 82 a, stk. 3, der bliver stk. 4, ændres »stk. 1 og 2« til: »stk. 1-3«.", 
+        //    new object[] { 3,"82 a"}, "stk. 1 og 2", "stk. 1-3", AktionType.Erstat, new Type[] { typeof(Stk), typeof(Paragraf) })]
+        [InlineData("I § 3, ændres »101 kr.« til: »84 kr.«", new[] { "3" }, "101 kr.", "84 kr.",  new[] { typeof(Paragraf) })]
+        //I § 82 a, stk. 3, der bliver stk. 4, ændres »stk. 1 og 2« til: »stk. 1-3«.
+        [InlineData("I § 82 a, stk. 3, der bliver stk. 4, ændres »stk. 1 og 2« til: »stk. 1-3«.", new object[] { 4,"82 a" }, "stk. 1 og 2", "stk. 1-3",  new[] { typeof(Stk), typeof(Paragraf) })]
+        
+
+        public void TestSimple_SubelementTargetLevel_Replace(string input, object[] expectedExplicatus, string quotedFrom,
+            string quotedTo,Type[] aendringsType)
+        {
+            var parseResult = _sut.Parse(input);
+            AssertErrors(parseResult);
+            AendringDefinition parseResultResult = parseResult.Result;
+            AssertTargetElementChain(expectedExplicatus,AktionType.Erstat, aendringsType, parseResultResult, parseResultResult.Target);
+            AssertQuotedTextChange(quotedFrom, quotedTo, parseResult);
+        }
+
+        private static void AssertQuotedTextChange(string quotedFrom, string quotedTo, ParseResult<AendringDefinition> parseResult)
+        {
+            Assert.Equal(quotedFrom, parseResult.Result.Target.SubElementTarget.Target);
+            Assert.Equal(quotedTo, parseResult.Result.Target.SubElementTarget.Replacement);
         }
 
         [Theory]
