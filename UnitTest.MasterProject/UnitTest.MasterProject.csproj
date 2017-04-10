@@ -86,6 +86,18 @@
     <Reference Include="System" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Xml.Linq" />
+    <Reference Include="XmlDiffLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\XmlDiffLib.1.0.1.3\lib\net40\XmlDiffLib.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="XmlDiffPatch, Version=1.0.8.28, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <HintPath>..\packages\XMLDiffPatch.1.0.8.28\lib\net\XmlDiffPatch.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="XmlDiffPatch.View, Version=1.0.1493.40755, Culture=neutral">
+      <HintPath>..\packages\XMLDiffPatch.1.0.8.28\lib\net\XmlDiffPatch.View.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="xunit.abstractions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=8d05b1bb7a6fdb6c, processorArchitecture=MSIL">
       <HintPath>..\packages\xunit.abstractions.2.0.0\lib\net35\xunit.abstractions.dll</HintPath>
       <Private>True</Private>
@@ -123,6 +135,17 @@
     <Compile Include="ParagrafIndledningParser\TestParagrafIndledningSamples.cs" />
     <Compile Include="ParagrafIndledningParser\TestParagrafIndledningRealData.cs" />
     <Compile Include="ParagrafNummer.cs" />
+    <Compile Include="PatchEngine\Økologiloven\ChangeDocument.cs" />
+    <Compile Include="PatchEngine\Økologiloven\FileBasedPatchEngine.cs" />
+    <Compile Include="PatchEngine\Økologiloven\IndledningBuilder.cs" />
+    <Compile Include="PatchEngine\Økologiloven\IPatchTask.cs" />
+    <Compile Include="PatchEngine\Økologiloven\PatchEngineFactory.cs" />
+    <Compile Include="PatchEngine\Økologiloven\PatchHymne.cs" />
+    <Compile Include="PatchEngine\Økologiloven\SchemaPatch.cs" />
+    <Compile Include="PatchEngine\Økologiloven\TestPatchEngine.cs" />
+    <Compile Include="PatchEngine\Økologiloven\TitelBuilder.cs" />
+    <Compile Include="PatchEngine\Økologiloven\XdocDiffViewer.cs" />
+    <Compile Include="PatchEngine\Økologiloven\XmlCompare.cs" />
     <Compile Include="RegexSpecimenBuilder.cs" />
     <Compile Include="TestAendringDefinitionModel.cs" />
     <Compile Include="AendringsDefinitionParser\TestConcreteDefinitionsForCorrectParsing.cs" />
@@ -218,6 +241,15 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="AendringsDefinitionParser\RealTestData\2017-cst-aendringsdefinitioner.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\Økologiloven\First\LbkH2009-196.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\Økologiloven\First\LovC2008-1336.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\Økologiloven\First\LovH2008-463.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
