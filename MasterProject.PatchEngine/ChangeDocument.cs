@@ -2,7 +2,7 @@
 using System.IO;
 using System.Xml.Linq;
 
-namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine.Økologiloven
+namespace MasterProject.PatchEngine
 {
     public class ChangeDocument
     {

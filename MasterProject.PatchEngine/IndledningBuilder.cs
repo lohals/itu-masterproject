@@ -1,11 +1,11 @@
 ﻿using System.Linq;
 using System.Xml.Linq;
 
-namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine.Økologiloven
+namespace MasterProject.PatchEngine
 {
     public class IndledningBuilder : IPatchTask
     {
-        public void Patch(XDocument source,ChangeDocument[] changes)
+        public void Patch(TargetDocument targetDocument, ChangeDocument[] changes)
         {
             var name= "økologiloven";
             var docDescription= "lov nr. 463 af 17. juni 2008";
@@ -13,7 +13,7 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine.Økologiloven
             var changeDocDescription= "lov nr. 1336 af 19. december 2008";
             var template = $"Herved bekendtgøres {name}, {docDescription}, med de ændringer, der følger af {aendringsParagrafReference} i {changeDocDescription}.";
             
-            var dokumentIndhold = source.Descendants("DokumentIndhold").FirstOrDefault();
+            var dokumentIndhold = targetDocument.Source.Descendants("DokumentIndhold").FirstOrDefault();
             dokumentIndhold.Descendants("Indledning").Remove();
             AddNewIndledning(template, dokumentIndhold);
             //Herved bekendtgøres økologiloven, lov nr. 463 af 17. juni 2008, med de ændringer, der følger af § 70 i lov nr. 1336 af 19. december 2008.</Char>

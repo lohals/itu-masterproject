@@ -1,6 +1,4 @@
-﻿using System.Xml.Linq;
-
-namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine.Økologiloven
+﻿namespace MasterProject.PatchEngine
 {
     public class SchemaPatch : IPatchTask
     {
@@ -11,9 +9,9 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine.Økologiloven
             _lbkSchemaLocation = lbkSchemaLocation;
         }
 
-        public void Patch(XDocument source, ChangeDocument[] changeDocuments)
+        public void Patch(TargetDocument targetDocument, ChangeDocument[] changeDocuments)
         {
-            source.Root.Attribute("SchemaLocation").Value = _lbkSchemaLocation;
+            targetDocument.Source.Root.Attribute("SchemaLocation").Value = _lbkSchemaLocation;
         }
     }
 }

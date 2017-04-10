@@ -135,15 +135,7 @@
     <Compile Include="ParagrafIndledningParser\TestParagrafIndledningSamples.cs" />
     <Compile Include="ParagrafIndledningParser\TestParagrafIndledningRealData.cs" />
     <Compile Include="ParagrafNummer.cs" />
-    <Compile Include="PatchEngine\Økologiloven\ChangeDocument.cs" />
-    <Compile Include="PatchEngine\Økologiloven\FileBasedPatchEngine.cs" />
-    <Compile Include="PatchEngine\Økologiloven\IndledningBuilder.cs" />
-    <Compile Include="PatchEngine\Økologiloven\IPatchTask.cs" />
-    <Compile Include="PatchEngine\Økologiloven\PatchEngineFactory.cs" />
-    <Compile Include="PatchEngine\Økologiloven\PatchHymne.cs" />
-    <Compile Include="PatchEngine\Økologiloven\SchemaPatch.cs" />
     <Compile Include="PatchEngine\Økologiloven\TestPatchEngine.cs" />
-    <Compile Include="PatchEngine\Økologiloven\TitelBuilder.cs" />
     <Compile Include="PatchEngine\Økologiloven\XdocDiffViewer.cs" />
     <Compile Include="PatchEngine\Økologiloven\XmlCompare.cs" />
     <Compile Include="RegexSpecimenBuilder.cs" />
@@ -245,6 +237,7 @@
     </Content>
     <Content Include="PatchEngine\Økologiloven\First\LbkH2009-196.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
     </Content>
     <Content Include="PatchEngine\Økologiloven\First\LovC2008-1336.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

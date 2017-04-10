@@ -5,6 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Xml;
 using System.Xml.Linq;
+using Dk.Itu.Rlh.MasterProject.Model.ParagrafIndledning;
+using Dk.Itu.Rlh.MasterProject.Parser.ParagrafIndledning;
+using MasterProject.PatchEngine;
 using Microsoft.XmlDiffPatch;
 using Xunit;
 using Xunit.Abstractions;
@@ -26,27 +29,30 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine.Økologiloven
         public void TestOekologiLoven()
         {
             var testDataFolder = "PatchEngine/Økologiloven/First";
-            var source = new FileInfo($"{testDataFolder}/LovH2008-463.xml");
+            var targetDocument = new TargetDocument(new FileInfo($"{testDataFolder}/LovH2008-463.xml"), DokumentType.Lov,2008,463);
             var changes = new[] {
                 new ChangeDocument(new FileInfo($"{testDataFolder}/LovC2008-1336.xml"),new DateTime(2008,12,19),2008,1336)
             };
             var target = new FileInfo($"{testDataFolder}/LbkH2009-196.xml");
 
             //Act
-            var patchResult = new PatchEngineFactory().Create().ApplyPatches(source, changes);
+            var sut = new PatchEngineFactory().Create();
+
+            var patchResult = sut.ApplyPatches(changes, targetDocument);
+
             RemoveMetaAndSchemaNodes(patchResult);
 
-            var targetXdoc = XDocument.Load(target.FullName);
-            RemoveMetaAndSchemaNodes(targetXdoc);
+            var expectedXdoc = XDocument.Load(target.FullName);
+            RemoveMetaAndSchemaNodes(expectedXdoc);
 
             string diffResult;
-            var compareResult = _xmlCompare.CompareXml(targetXdoc, patchResult,out diffResult);
+            var compareResult = _xmlCompare.CompareXml(expectedXdoc, patchResult,out diffResult);
 
             if (!compareResult)
                 _logger.WriteLine(diffResult);
 
             if (!compareResult && _launchViewer)
-                _xdocDiffViewer.Launch(targetXdoc, patchResult);
+                _xdocDiffViewer.Launch(expectedXdoc, patchResult);
 
             Assert.True(compareResult);
 
