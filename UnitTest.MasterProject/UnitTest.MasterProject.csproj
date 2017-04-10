@@ -190,6 +190,10 @@
       <Project>{7b181a5a-1696-4bae-89ea-c46b35be192c}</Project>
       <Name>MasterProject.Parser</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MasterProject.PatchEngine\MasterProject.PatchEngine.csproj">
+      <Project>{237abbeb-d921-4feb-8284-605976df70f3}</Project>
+      <Name>MasterProject.PatchEngine</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="AendringsDefinitionParser\TestData\" />
