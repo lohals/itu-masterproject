@@ -6,7 +6,7 @@
 
         public ParagrafNummer(string paragrafNummer)
         {
-            Nummer = paragrafNummer;
+            Nummer = paragrafNummer; 
         }
     }
 }
