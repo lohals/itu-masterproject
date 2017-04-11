@@ -25,7 +25,7 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine.Økologiloven
         {
             _logger = logger;
         }
-        [Fact(Skip = "temp skip")]
+        [Fact]
         public void TestOekologiLoven()
         {
             var testDataFolder = "PatchEngine/Økologiloven/First";

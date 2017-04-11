@@ -58,6 +58,10 @@
       <Project>{5CAE0DB0-1506-411E-ACFF-6617AA291B99}</Project>
       <Name>MasterProject.Model</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MasterProject.Parser\MasterProject.Parser.csproj">
+      <Project>{7b181a5a-1696-4bae-89ea-c46b35be192c}</Project>
+      <Name>MasterProject.Parser</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -8,6 +8,6 @@ namespace Dk.Itu.Rlh.MasterProject.Model.ParagrafIndledning
 {
     public class ParagrafIndledningModel
     {
-        public IList<Dokument> References { get; set; } = new List<Dokument>();
+        public Dokument Reference { get; set; }
     }
 }

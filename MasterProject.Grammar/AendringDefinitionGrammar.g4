@@ -72,10 +72,12 @@ replaceExp
 
 rootedBecomesExp
 	:rootElementExp ', ' ignoreableElementChainExp becomesChainExp	
+	//|rootedMultiElementExp
 	;
 
 rootedMultiElementExp
 	:rootElementExp ', ' multiElementExp //§ 9 h, stk. 1 og 2, affattes således:
+	|rootElementExp ', ' rangedMultiElementExp
 	;
 rootElementExp
 	:elementExp
@@ -99,11 +101,15 @@ elementOrOpregningExp
 ignoreableElementChainExp
 	:elementChainExp|multiElementExp
 	;
-multiElementExp:
-    INT '. og' elementExp
+multiElementExp
+    :INT '. og' elementExp
 	|elementExp 'og' INT 
 	|elementChainExp ('og'|', og') elementChainExp
     ;
+
+rangedMultiElementExp
+	:elementExp '-' INT
+	;
 lastElementExp
 	: elementExp|opregningExp
     ;

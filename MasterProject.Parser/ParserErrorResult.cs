@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 
 namespace Dk.Itu.Rlh.MasterProject.Parser
 {
@@ -6,6 +7,8 @@ namespace Dk.Itu.Rlh.MasterProject.Parser
     {
         private IEnumerable<string> _errors;
         public IEnumerable<string> Verbose { get; }
+
+        public bool HasErrors => _errors.Any();
 
         public ParserErrorResult(IEnumerable<string> errors, IEnumerable<string> verbose)
         {
@@ -16,6 +19,11 @@ namespace Dk.Itu.Rlh.MasterProject.Parser
         public IEnumerable<string> Errors
         {
             get { return _errors; }
+        }
+
+        public override string ToString()
+        {
+            return !HasErrors ? "No errors" : string.Join(";", _errors);
         }
     }
 }

@@ -128,8 +128,21 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
             , new object[] { 2, 5, "98 e" }
             , new[] { typeof(Saetning), typeof(Stk), typeof(Paragraf) })]
         public void Test_ErstatExpressions(string input, object[] expectedExplicatus,  Type[] expectedTypes)
-        {
+        { 
             TestParseResult(input, expectedExplicatus, AktionType.Erstat, expectedTypes);
+        }
+
+        
+        [Theory]
+        [InlineData("§ 16, stk. 3-5, ophæves"
+           , new object[] { new object[] { 3,16 }, new object[] { 4, 16 }, new object[] { 5, 16 } }
+           , new object[] { new[] { typeof(Stk), typeof(Paragraf) }, new[] { typeof(Stk), typeof(Paragraf) }, new[] { typeof(Stk), typeof(Paragraf) } })]
+        public void Test_MultiTarget_Ophaeves(string input, object[][] expectedExplicatus, Type[][] expectedTypes)
+        {
+            //Assert.True(true);
+            var result = _sut.Parse(input);
+            AssertErrors(result);
+            AssertAllTargetChains(expectedExplicatus, expectedTypes, result, AktionType.Ophaev);
         }
 
         [Theory]
