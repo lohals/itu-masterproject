@@ -209,9 +209,14 @@
       <Project>{237abbeb-d921-4feb-8284-605976df70f3}</Project>
       <Name>MasterProject.PatchEngine</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MasterProject.Utilities\MasterProject.Utilities.csproj">
+      <Project>{AE9AB314-E7CF-491A-864F-4307B55DBD5E}</Project>
+      <Name>MasterProject.Utilities</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="AendringsDefinitionParser\TestData\" />
+    <Folder Include="PatchEngine\SampleConsolidations\Økologiloven\Third\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="AendringsDefinitionParser\RealTestData\2010-cst-aendringsdefinitioner.txt">

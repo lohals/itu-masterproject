@@ -44,7 +44,7 @@ insertAfterChainExp
 	: 'I' elementChainExp insertAfterAktionExp (quotedTextChangeExp|(lastElementExp asnewElementExp?)) 
 	;
 insertAfterExp:
-    'Efter' (elementExp) ('indsættes som nyt stykke'|'indsættes som nye stykker'|'indsættes som ny paragraf'|'indsættes')
+    'Efter' (elementExp) insertAfterAktionExp
 	;										  
 	
 insertLastExp
@@ -149,7 +149,14 @@ quotedTextChangeExp
 removeAktionExp
 	:', udgår'|'udgår'|',udgår'|', ophæves'|'ophæves';
 insertAfterAktionExp
-	:', indsættes efter'|'indsættes efter'
+	:', indsættes efter'
+	 |'indsættes før overskriften før' elementExp 
+	 |'indsættes efter'
+	 |'indsættes som nyt stykke'
+	 |'indsættes som nye stykker'
+	 |'indsættes som ny paragraf'
+	 |'indsættes'
+
 	;
 replaceAktionExp
 	:', ændres'|'ændres'|', affattes således'|'affattes således'|', ophæves, og i stedet indsættes'|'ophæves, og i stedet indsættes'

@@ -5,6 +5,8 @@ namespace MasterProject.PatchEngine.PatchTasks
 {
     public class IndledningBuilder : IPatchTask
     {
+        //Herved bekendtgøres økologiloven, jf. lovbekendtgørelse nr. 196 af 12. marts 2009, med de ændringer, der følger af § 7 i lov nr. 341 af 27. april 2011.
+        //Herved bekendtgøres økologiloven, lov nr. 463 af 17. juni 2008, med de ændringer, der følger af § 70 i lov nr. 1336 af 19. december 2008.
         public void Patch(TargetDocument targetDocument, ChangeDocument[] changes)
         {
             var name= "økologiloven";

@@ -23,6 +23,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".scripts", ".scripts", "{4E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterProject.PatchEngine", "MasterProject.PatchEngine\MasterProject.PatchEngine.csproj", "{237ABBEB-D921-4FEB-8284-605976DF70F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterProject.Utilities", "MasterProject.Utilities\MasterProject.Utilities.csproj", "{AE9AB314-E7CF-491A-864F-4307B55DBD5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{237ABBEB-D921-4FEB-8284-605976DF70F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{237ABBEB-D921-4FEB-8284-605976DF70F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{237ABBEB-D921-4FEB-8284-605976DF70F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE9AB314-E7CF-491A-864F-4307B55DBD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9AB314-E7CF-491A-864F-4307B55DBD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9AB314-E7CF-491A-864F-4307B55DBD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9AB314-E7CF-491A-864F-4307B55DBD5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

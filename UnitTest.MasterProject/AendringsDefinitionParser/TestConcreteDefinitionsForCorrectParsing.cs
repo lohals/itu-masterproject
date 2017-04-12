@@ -163,6 +163,7 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
             TestParseResult(input, expectedExplicatus, AktionType.Ophaev, expectedTypes);
         }
         [Theory]
+        [InlineData("Efter § 15 indsættes før overskriften før § 16:", new object[] { "15" }, new[] { typeof(Paragraf) })]
         [InlineData("I § 15 indsættes efter stk. 2 som nyt stykke:", new object[] { 2, "15" }, new[] { typeof(Stk), typeof(Paragraf) })]
         [InlineData("Efter § 100 indsættes:", new object[] {100 }, new Type[] { typeof(Paragraf), })]
         [InlineData("I § 5 a indsættes efter stk. 2 som nyt stykke:", new object[] { 2, "5 a" },  new Type[] { typeof(Stk), typeof(Paragraf) })]

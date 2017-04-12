@@ -70,7 +70,7 @@ namespace MasterProject.PatchEngine.PatchTasks
             //parse all aendringer in each paragrafindledninger
             return allParagrafNodesThatPointsToTargetDocument.Descendants("Aendring")
                 .Where(element => element.Elements("AendringDefinition").Any())
-                .Select(element => new { Aendring=element, ParseResult=_aendringDefinitiontParser.Parse(element.Value.Trim())})
+                .Select(element => new { Aendring=element, ParseResult=_aendringDefinitiontParser.Parse(element.Element("AendringDefinition")?.Value.Trim()??string.Empty)})
                 .Where(map => !map.ParseResult.ErrorResult.HasErrors)
                 .Select(map => new Tuple<XElement,AendringDefinition>(map.Aendring,map.ParseResult.Result))
                 .ToArray();

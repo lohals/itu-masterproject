@@ -4,21 +4,17 @@ using Dk.Itu.Rlh.MasterProject.Model;
 using Dk.Itu.Rlh.MasterProject.Grammar;
 using System;
 using Antlr4.Runtime.Tree;
+using MasterProject.Utilities;
 
 namespace Dk.Itu.Rlh.MasterProject.Parser
 {
 
     public abstract class VisitorBasedAntlrParser<T>
     {
-        private WhitespaceNormalizer _preBunner;
 
-        public VisitorBasedAntlrParser()
-        {
-            _preBunner = new WhitespaceNormalizer();
-        }
         public ParseResult<T> Parse(string inputString)
         {
-            var cleanedString = _preBunner.Clean(inputString);
+            var cleanedString = inputString.NormalizeWhiteSpace();
             var input = new AntlrInputStream(cleanedString);
             var lexer = GetLexer(input);
             var tokens = new CommonTokenStream(lexer);
@@ -39,13 +35,5 @@ namespace Dk.Itu.Rlh.MasterProject.Parser
         protected abstract ITokenSource GetLexer(ICharStream input);       
         
 
-    }
-
-    public class WhitespaceNormalizer
-    {
-        public string Clean(string inputString)
-        {
-            return inputString.Replace("\u00A0", " ");//replace non-breaking space with space
-        }
     }
 }

@@ -80,6 +80,10 @@
       <Project>{5cae0db0-1506-411e-acff-6617aa291b99}</Project>
       <Name>MasterProject.Model</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MasterProject.Utilities\MasterProject.Utilities.csproj">
+      <Project>{AE9AB314-E7CF-491A-864F-4307B55DBD5E}</Project>
+      <Name>MasterProject.Utilities</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

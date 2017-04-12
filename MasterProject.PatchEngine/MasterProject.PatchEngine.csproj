@@ -43,6 +43,9 @@
   <ItemGroup>
     <Compile Include="AendringHandlers\AendringAktionHandlerFactory.cs" />
     <Compile Include="AendringHandlers\ApplyAendringerException.cs" />
+    <Compile Include="AendringHandlers\BaseAendringAktionHandler.cs" />
+    <Compile Include="AendringHandlers\IAendringAktionHandler.cs" />
+    <Compile Include="AendringHandlers\IndsaetEfterHandler.cs" />
     <Compile Include="AendringHandlers\OphaevAendringHandler.cs" />
     <Compile Include="PatchTasks\ApplyAendringAktioner.cs" />
     <Compile Include="ChangeDocument.cs" />
@@ -64,6 +67,10 @@
     <ProjectReference Include="..\MasterProject.Parser\MasterProject.Parser.csproj">
       <Project>{7b181a5a-1696-4bae-89ea-c46b35be192c}</Project>
       <Name>MasterProject.Parser</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MasterProject.Utilities\MasterProject.Utilities.csproj">
+      <Project>{AE9AB314-E7CF-491A-864F-4307B55DBD5E}</Project>
+      <Name>MasterProject.Utilities</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />

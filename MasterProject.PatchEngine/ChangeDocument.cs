@@ -6,15 +6,13 @@ namespace MasterProject.PatchEngine
 {
     public class ChangeDocument
     {
-        public System.DateTime UnderskriftDato { get; }
         public int Year { get; }
         public int Number { get; }
 
         private readonly FileInfo _fileInfo;
 
-        public ChangeDocument(FileInfo fileInfo, DateTime underskriftDao, int year, int number)
+        public ChangeDocument(FileInfo fileInfo, int year, int number)
         {
-            UnderskriftDato = underskriftDao;
             Number = number;
             _fileInfo = fileInfo;
             Year = year;
