@@ -41,17 +41,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ApplyAendringAktioner.cs" />
+    <Compile Include="AendringHandlers\AendringAktionHandlerFactory.cs" />
+    <Compile Include="AendringHandlers\ApplyAendringerException.cs" />
+    <Compile Include="AendringHandlers\OphaevAendringHandler.cs" />
+    <Compile Include="PatchTasks\ApplyAendringAktioner.cs" />
     <Compile Include="ChangeDocument.cs" />
     <Compile Include="FileBasedPatchEngine.cs" />
-    <Compile Include="IndledningBuilder.cs" />
-    <Compile Include="IPatchTask.cs" />
+    <Compile Include="PatchTasks\IndledningBuilder.cs" />
+    <Compile Include="PatchTasks\IPatchTask.cs" />
     <Compile Include="PatchEngineFactory.cs" />
-    <Compile Include="PatchHymne.cs" />
+    <Compile Include="PatchTasks\PatchHymne.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SchemaPatch.cs" />
+    <Compile Include="PatchTasks\SchemaPatch.cs" />
     <Compile Include="TargetDocument.cs" />
-    <Compile Include="TitelBuilder.cs" />
+    <Compile Include="PatchTasks\TitelBuilder.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MasterProject.Model\MasterProject.Model.csproj">
@@ -63,6 +66,7 @@
       <Name>MasterProject.Parser</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using System.Xml.Linq;
 
-namespace MasterProject.PatchEngine
+namespace MasterProject.PatchEngine.PatchTasks
 {
     public class IndledningBuilder : IPatchTask
     {

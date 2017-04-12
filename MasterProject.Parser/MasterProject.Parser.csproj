@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AendringsDefinition\AendringsDefinitionParser.cs" />
+    <Compile Include="AendringsDefinition\ParserVisitors\RangedMultiElementExpVisitor.cs" />
     <Compile Include="AendringsDefinition\ParserVisitors\RootedMultiElementExp.cs" />
     <Compile Include="AendringsDefinition\ParserVisitors\RootedBecomesExpVisitor.cs" />
     <Compile Include="AendringsDefinition\ParserVisitors\BecomesExpressionVisitor.cs" />

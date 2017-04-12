@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Xml.Linq;
 
-namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine.Økologiloven
+namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine
 {
     public class XdocDiffViewer
     {

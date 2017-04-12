@@ -135,9 +135,9 @@
     <Compile Include="ParagrafIndledningParser\TestParagrafIndledningSamples.cs" />
     <Compile Include="ParagrafIndledningParser\TestParagrafIndledningRealData.cs" />
     <Compile Include="ParagrafNummer.cs" />
-    <Compile Include="PatchEngine\Økologiloven\TestPatchEngine.cs" />
-    <Compile Include="PatchEngine\Økologiloven\XdocDiffViewer.cs" />
-    <Compile Include="PatchEngine\Økologiloven\XmlCompare.cs" />
+    <Compile Include="PatchEngine\TestPatchEngine.cs" />
+    <Compile Include="PatchEngine\XdocDiffViewer.cs" />
+    <Compile Include="PatchEngine\XmlCompare.cs" />
     <Compile Include="RegexSpecimenBuilder.cs" />
     <Compile Include="TestAendringDefinitionModel.cs" />
     <Compile Include="AendringsDefinitionParser\TestConcreteDefinitionsForCorrectParsing.cs" />
@@ -235,14 +235,24 @@
     <Content Include="AendringsDefinitionParser\RealTestData\2017-cst-aendringsdefinitioner.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="PatchEngine\Økologiloven\First\LbkH2009-196.xml">
+    <Content Include="PatchEngine\SampleConsolidations\Økologiloven\First\LbkH2009-196.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="PatchEngine\Økologiloven\First\LovC2008-1336.xml">
+    <Content Include="PatchEngine\SampleConsolidations\Økologiloven\First\LovC2008-1336.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="PatchEngine\Økologiloven\First\LovH2008-463.xml">
+    <Content Include="PatchEngine\SampleConsolidations\Økologiloven\First\LovH2008-463.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\SampleConsolidations\Økologiloven\Second\LbkH2009-196.xml">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\SampleConsolidations\Økologiloven\Second\LbkH2011-416.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\SampleConsolidations\Økologiloven\Second\LovC2011-341.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>

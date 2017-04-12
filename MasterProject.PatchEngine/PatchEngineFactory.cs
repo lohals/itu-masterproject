@@ -1,4 +1,7 @@
-﻿namespace MasterProject.PatchEngine
+﻿using System.Linq;
+using MasterProject.PatchEngine.PatchTasks;
+
+namespace MasterProject.PatchEngine
 {
     public class PatchEngineFactory
     {
@@ -13,11 +16,20 @@
                 new PatchHymne(), 
                 new IndledningBuilder(),
                 new ApplyAendringAktioner(), 
+                new SeglPatchTask()
             };
         }
         public FileBasedPatchEngine Create()
         {
             return new FileBasedPatchEngine(_patchTask);
+        }
+    }
+
+    public class SeglPatchTask : IPatchTask
+    {
+        public void Patch(TargetDocument targetDocument, ChangeDocument[] changes)
+        {
+            targetDocument.Source.Descendants("Segl").FirstOrDefault()?.Remove();
         }
     }
 }

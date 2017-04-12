@@ -7,9 +7,12 @@
       <FixtureTestSelector>
         <FixtureName>UnitTest.Dk.Itu.Rlh.MasterProject.ParagrafIndledningParser.TestParagrafIndledningSamples</FixtureName>
       </FixtureTestSelector>
-      <FixtureTestSelector>
-        <FixtureName>UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser.TestRealDataParsing</FixtureName>
-      </FixtureTestSelector>
+      <NamedTestSelector>
+        <TestName>UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser.TestRealDataParsing.AllCST_AendringsDefinitioner("2017")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser.TestRealDataParsing.AllCST_AendringsDefinitioner("2016")</TestName>
+      </NamedTestSelector>
     </IgnoredTests>
     <PreviouslyBuiltSuccessfully>True</PreviouslyBuiltSuccessfully>
   </Settings>

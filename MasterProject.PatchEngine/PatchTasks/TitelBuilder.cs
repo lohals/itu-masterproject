@@ -1,6 +1,6 @@
 ﻿using System.Xml.XPath;
 
-namespace MasterProject.PatchEngine
+namespace MasterProject.PatchEngine.PatchTasks
 {
     public class TitelBuilder : IPatchTask
     {

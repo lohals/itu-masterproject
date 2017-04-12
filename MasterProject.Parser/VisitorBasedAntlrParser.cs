@@ -10,9 +10,16 @@ namespace Dk.Itu.Rlh.MasterProject.Parser
 
     public abstract class VisitorBasedAntlrParser<T>
     {
+        private WhitespaceNormalizer _preBunner;
+
+        public VisitorBasedAntlrParser()
+        {
+            _preBunner = new WhitespaceNormalizer();
+        }
         public ParseResult<T> Parse(string inputString)
         {
-            var input = new AntlrInputStream(inputString);
+            var cleanedString = _preBunner.Clean(inputString);
+            var input = new AntlrInputStream(cleanedString);
             var lexer = GetLexer(input);
             var tokens = new CommonTokenStream(lexer);
             var errorListener = new ParserErrorListener();
@@ -33,5 +40,12 @@ namespace Dk.Itu.Rlh.MasterProject.Parser
         
 
     }
-    
+
+    public class WhitespaceNormalizer
+    {
+        public string Clean(string inputString)
+        {
+            return inputString.Replace("\u00A0", " ");//replace non-breaking space with space
+        }
+    }
 }

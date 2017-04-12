@@ -45,7 +45,7 @@ year
 
 
 SPLIT_TITLE_START:'om';
-SPLIT_TITLE_END:', som xndret ved' | 'foretages følgende ændring';
+SPLIT_TITLE_END:', som ændret ved' | 'foretages følgende ændring';
 SPLIT_TITLE:  SPLIT_TITLE_START FREETEXT SPLIT_TITLE_END;
 
 START_TITLE: 'I ';

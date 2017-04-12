@@ -1,4 +1,4 @@
-﻿namespace MasterProject.PatchEngine
+﻿namespace MasterProject.PatchEngine.PatchTasks
 {
     public interface IPatchTask
     {

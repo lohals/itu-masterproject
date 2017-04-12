@@ -57,7 +57,8 @@ insertBeforeExp
 	;
 
 removeExp
-	: elementChainExp removeAktionExp
+	: rootedMultiElementExp removeAktionExp
+	|elementChainExp removeAktionExp
 	| 'I' elementChainExp removeAktionExp QUOTEDTEXT
 	;
 
@@ -72,12 +73,11 @@ replaceExp
 
 rootedBecomesExp
 	:rootElementExp ', ' ignoreableElementChainExp becomesChainExp	
-	//|rootedMultiElementExp
 	;
 
 rootedMultiElementExp
-	:rootElementExp ', ' multiElementExp //§ 9 h, stk. 1 og 2, affattes således:
-	|rootElementExp ', ' rangedMultiElementExp
+	:rootElementExp ', ' rangedMultiElementExp
+	|rootElementExp ', ' multiElementExp //§ 9 h, stk. 1 og 2, affattes således:
 	;
 rootElementExp
 	:elementExp
@@ -190,6 +190,6 @@ fragment FREETEXT: .*?;
 //SPACE:' ';
 //ANYCHAR: .;
 
-//WS
-//	:	' ' -> channel(HIDDEN)
-//	;
+WS
+	:	' ' -> channel(HIDDEN)
+	;
