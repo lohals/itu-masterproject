@@ -15,11 +15,11 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine
 {
     public class TestPatchEngine
     {
-        //private bool _launchViewer = true;
-        private bool _launchViewer = false;
+        //private bool _launchViewer = false;
+        private bool _launchViewer = true;
         private readonly ITestOutputHelper _logger;
         private readonly XdocDiffViewer _xdocDiffViewer=new XdocDiffViewer();
-        private readonly XmlCompare _xmlCompare = new XmlCompare();
+        private readonly IXmlCompare _xmlCompare = new XmlNormalizer(new XmlCompare());
         private static readonly string PatchengineSampleconsolidationsRootFolder = "PatchEngine/SampleConsolidations";
 
         public TestPatchEngine(ITestOutputHelper logger)
@@ -27,21 +27,26 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine
             _logger = logger;
         }
 
-
+        public static IEnumerable<object[]> SampleConsolidations => new[]
+        {
+            //GetConsolidationSample($"{PatchengineSampleconsolidationsRootFolder}/Økologiloven/First"),
+            //GetConsolidationSample($"{PatchengineSampleconsolidationsRootFolder}/Økologiloven/Second"),
+            GetConsolidationSample($"{PatchengineSampleconsolidationsRootFolder}/Økologiloven/Third"),
+        };
         [Theory,MemberData(nameof(SampleConsolidations))]
         public void TestOekologiLoven(TargetDocument targetDocument, ChangeDocument[] changeDocuments, FileInfo expectedConsolidation)
         {
-
+            
             //Act
             var sut = new PatchEngineFactory().Create();
 
             var patchResult = sut.ApplyPatches(changeDocuments, targetDocument);
 
-            RemoveUnComparableElements(patchResult);
+            //RemoveUnComparableElements(patchResult);
 
             var expectedXdoc = XDocument.Load(expectedConsolidation.FullName).NormalizeWhiteSpace();
 
-            RemoveUnComparableElements(expectedXdoc);
+            //RemoveUnComparableElements(expectedXdoc);
 
             string diffResult;
             var compareResult = _xmlCompare.CompareXml(expectedXdoc, patchResult,out diffResult);
@@ -56,11 +61,7 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine
 
         }
 
-        public static IEnumerable<object[]> SampleConsolidations => new[]
-        {
-            GetConsolidationSample($"{PatchengineSampleconsolidationsRootFolder}/Økologiloven/First"),
-            GetConsolidationSample($"{PatchengineSampleconsolidationsRootFolder}/Økologiloven/Second"),
-        };
+        
 
         private static object[] GetConsolidationSample(string sampleFolder)
         {
@@ -106,17 +107,8 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine
                                
             }
         }
-        
-        private static void RemoveUnComparableElements(XDocument xDoc)
-        {
-            xDoc.Root.Descendants("Meta").Remove();
-            xDoc.Root.Attributes("SchemaLocation").Remove();
-            xDoc.Root.Descendants().Select(element => element.Attribute("id")).Remove();
-            xDoc.Root.Descendants("Ikraft").Remove();
-            xDoc.Root.Descendants("Nota").Remove();
-            xDoc.Root.Descendants("Indledning").Remove();
 
-        }
+      
     }
 
     internal class SampleFile

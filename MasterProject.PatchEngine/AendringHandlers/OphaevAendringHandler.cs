@@ -16,11 +16,8 @@ namespace MasterProject.PatchEngine.AendringHandlers
         }
         public void Apply(TargetDocument targetDocument)
         {
-            var targetElements = FindElementInTarget(targetDocument).ToArray();
-            foreach (var targetElement in targetElements)
-            {
-                targetElement?.Remove();
-            }
+            var targetElements = FindStructureElementsInTargetDocument(targetDocument, AendringDefinition.StructureTargets).ToArray();
+            targetElements.Remove();
         }
     }
 }

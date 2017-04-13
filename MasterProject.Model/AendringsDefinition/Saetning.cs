@@ -15,5 +15,7 @@ namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
         {
             get { throw new System.NotImplementedException(); }
         }
+
+        public override bool IsStructureElement => false;
     }
 }

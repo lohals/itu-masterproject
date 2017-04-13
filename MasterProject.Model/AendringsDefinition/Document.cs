@@ -17,5 +17,7 @@ namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
         {
             return new DokumentElement();
         }
+
+        public override bool IsStructureElement => false;
     }
 }

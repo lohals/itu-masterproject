@@ -44,6 +44,7 @@
     <Compile Include="AendringHandlers\AendringAktionHandlerFactory.cs" />
     <Compile Include="AendringHandlers\ApplyAendringerException.cs" />
     <Compile Include="AendringHandlers\BaseAendringAktionHandler.cs" />
+    <Compile Include="AendringHandlers\ErstatAendringHandler.cs" />
     <Compile Include="AendringHandlers\IAendringAktionHandler.cs" />
     <Compile Include="AendringHandlers\IndsaetEfterHandler.cs" />
     <Compile Include="AendringHandlers\OphaevAendringHandler.cs" />

@@ -20,9 +20,9 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
             _logger = logger;
         }
 
-        [Theory]
-        [InlineData("2017")]
-        [InlineData("2016")]
+        //[Theory]
+        //[InlineData("2017")]
+        //[InlineData("2016")]
         public void AllCST_AendringsDefinitioner(int year)
         {
             var file = new FileInfo($"AendringsDefinitionParser/RealTestData/{year}-cst-aendringsdefinitioner.txt");

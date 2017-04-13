@@ -6,7 +6,7 @@ using Microsoft.XmlDiffPatch;
 
 namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine
 {
-    public class XmlCompare
+    public class XmlCompare : IXmlCompare
     {
         public XmlCompare()
         {

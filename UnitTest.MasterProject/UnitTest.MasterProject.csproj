@@ -135,6 +135,10 @@
     <Compile Include="ParagrafIndledningParser\TestParagrafIndledningSamples.cs" />
     <Compile Include="ParagrafIndledningParser\TestParagrafIndledningRealData.cs" />
     <Compile Include="ParagrafNummer.cs" />
+    <Compile Include="PatchEngine\IXmlCompare.cs" />
+    <Compile Include="PatchEngine\MinisterTokenReplacer.cs" />
+    <Compile Include="PatchEngine\XmlNormalizer.cs" />
+    <Compile Include="PatchEngine\TestMinisterTokenReplacement.cs" />
     <Compile Include="PatchEngine\TestPatchEngine.cs" />
     <Compile Include="PatchEngine\XdocDiffViewer.cs" />
     <Compile Include="PatchEngine\XmlCompare.cs" />
@@ -216,7 +220,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="AendringsDefinitionParser\TestData\" />
-    <Folder Include="PatchEngine\SampleConsolidations\Økologiloven\Third\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="AendringsDefinitionParser\RealTestData\2010-cst-aendringsdefinitioner.txt">
@@ -258,6 +261,15 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="PatchEngine\SampleConsolidations\Økologiloven\Second\LovC2011-341.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\SampleConsolidations\Økologiloven\Third\LbkH2011-416.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\SampleConsolidations\Økologiloven\Third\LbkH2015-1657.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\SampleConsolidations\Økologiloven\Third\LovC2013-1459.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
