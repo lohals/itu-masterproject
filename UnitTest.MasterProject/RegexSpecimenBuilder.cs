@@ -20,7 +20,7 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject
             var pi = request as ParameterInfo;
 
             if (pi == null)
-            {
+            {  
                 return new NoSpecimen();
             }
 
