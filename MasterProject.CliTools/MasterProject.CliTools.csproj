@@ -4,15 +4,17 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5CAE0DB0-1506-411E-ACFF-6617AA291B99}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <ProjectGuid>{FD004C14-11AB-4424-8FDB-95CAB39B249A}</ProjectGuid>
+    <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Dk.Itu.Rlh.MasterProject.Model</RootNamespace>
-    <AssemblyName>Dk.Itu.Rlh.MasterProject.Model</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <RootNamespace>MasterProject.CliTools</RootNamespace>
+    <AssemblyName>MasterProject.CliTools</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -22,6 +24,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -40,31 +43,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AendringsDefinition\AktionType.cs" />
-    <Compile Include="AendringsDefinition\Document.cs" />
-    <Compile Include="AendringsDefinition\Element.cs" />
-    <Compile Include="AendringsDefinition\LitraOpregningElement.cs" />
-    <Compile Include="AendringsDefinition\ModelSerializer.cs" />
-    <Compile Include="AendringsDefinition\AendringDefinition.cs" />
-    <Compile Include="AendringsDefinition\NummerOpregningElement.cs" />
-    <Compile Include="AendringsDefinition\Paragraf.cs" />
-    <Compile Include="AendringsDefinition\ParentElementContext.cs" />
-    <Compile Include="AendringsDefinition\Saetning.cs" />
-    <Compile Include="AendringsDefinition\Stk.cs" />
-    <Compile Include="AendringsDefinition\SubElementTarget.cs" />
-    <Compile Include="DokumentTypeHelpers.cs" />
-    <Compile Include="ParagrafIndledning\DokumentReference.cs" />
-    <Compile Include="ParagrafIndledning\Dokument.cs" />
-    <Compile Include="ParagrafIndledning\DokumentType.cs" />
-    <Compile Include="ParagrafIndledning\ParagrafIndledningModel.cs" />
+    <Compile Include="HarvestConsolidationSample.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="AendringDefinitionModel.csproj" />
+    <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
-    <None Include="ParagrafIndledningModelDiagram.cd" />
+    <ProjectReference Include="..\MasterProject.Model\MasterProject.Model.csproj">
+      <Project>{5CAE0DB0-1506-411E-ACFF-6617AA291B99}</Project>
+      <Name>MasterProject.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MasterProject.PatchEngine\MasterProject.PatchEngine.csproj">
+      <Project>{237ABBEB-D921-4FEB-8284-605976DF70F3}</Project>
+      <Name>MasterProject.PatchEngine</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

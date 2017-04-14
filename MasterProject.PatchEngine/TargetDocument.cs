@@ -1,4 +1,5 @@
-﻿using System.IO;
+﻿using System;
+using System.IO;
 using System.Xml.Linq;
 using Dk.Itu.Rlh.MasterProject.Model.ParagrafIndledning;
 
@@ -10,7 +11,14 @@ namespace MasterProject.PatchEngine
         public int Year { get; }
         public int Number { get;  }
         private FileInfo _source;
-        
+
+        public TargetDocument(Uri uri, DokumentType dokumentType, int year, int number)
+        {
+            DokumentType = dokumentType;
+            Year = year;
+            Number = number;
+            Source = XDocument.Load(uri.ToString());
+        }
         public TargetDocument(FileInfo source, DokumentType dokumentType, int year, int number)
         {
             _source = source;

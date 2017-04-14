@@ -84,6 +84,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="XmlDiffLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
@@ -241,6 +242,39 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="AendringsDefinitionParser\RealTestData\2017-cst-aendringsdefinitioner.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\SampleConsolidations\Retsplejeloven\First\LBKH2015-1255.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\SampleConsolidations\Retsplejeloven\First\LBKH2016-1257.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\SampleConsolidations\Retsplejeloven\First\LOVC2015-1741.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\SampleConsolidations\Retsplejeloven\First\LOVC2015-1867.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\SampleConsolidations\Retsplejeloven\First\LOVC2016-166.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\SampleConsolidations\Retsplejeloven\First\LOVC2016-167.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\SampleConsolidations\Retsplejeloven\First\LOVC2016-168.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\SampleConsolidations\Retsplejeloven\First\LOVC2016-263.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\SampleConsolidations\Retsplejeloven\First\LOVC2016-377.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\SampleConsolidations\Retsplejeloven\First\LOVC2016-632.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PatchEngine\SampleConsolidations\Retsplejeloven\First\LOVC2016-641.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="PatchEngine\SampleConsolidations\Økologiloven\First\LbkH2009-196.xml">

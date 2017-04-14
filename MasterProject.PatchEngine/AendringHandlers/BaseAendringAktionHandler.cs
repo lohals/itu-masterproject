@@ -29,6 +29,7 @@ namespace MasterProject.PatchEngine.AendringHandlers
                 var targetChain = target.GetAncestorsAndSelf.Reverse().ToArray();
                 Element next = targetChain.First();
                 XElement searchScope = targetDocument.Source.Root;
+                bool success = false;
                 while (next != null)
                 {
                     var elementsFound = searchScope
@@ -36,11 +37,16 @@ namespace MasterProject.PatchEngine.AendringHandlers
                         .Where(element => next.NummerMatch.IsMatch(element.Element("Explicatus")?.Value ?? string.Empty) || IsFirstStkMatch(next, element))
                         .ToArray();
                     ValidateFoundElements(elementsFound, next);
+                    if (!elementsFound.Any())
+                        break;
                     searchScope = elementsFound.First().AncestorsAndSelf(next.LexdaniaName).First();
                     var nextIndex = Array.IndexOf(targetChain, next) + 1;
                     next = nextIndex >= targetChain.Length ? null : targetChain[nextIndex];
+                    if (targetChain.Length <= nextIndex)
+                        success = true;
                 }
-                yield return searchScope;
+                if (success)
+                    yield return searchScope;
             }
             
         }
@@ -55,8 +61,8 @@ namespace MasterProject.PatchEngine.AendringHandlers
 
         private static void ValidateFoundElements(XElement[] elementsFound, Element next)
         {
-            if (!elementsFound.Any())
-                throw new ApplyAendringerException($"No elements found for change {next}");
+            //if (!elementsFound.Any())
+            //    throw new ApplyAendringerException($"No elements found for change {next}");
             if (elementsFound.Length > 1)
                 throw new ApplyAendringerException($"More than element found for change {next}");
         }
@@ -65,7 +71,8 @@ namespace MasterProject.PatchEngine.AendringHandlers
         {
             var xName = initialTargetElement.Name;
             XElement siblingToInsertAfter = initialTargetElement;
-            var elementsCommonElementName = elementToInsert.First().Name;
+            var xElements = elementToInsert.ToArray();
+            var elementsCommonElementName = xElements.First().Name;
             if (xName != elementsCommonElementName)
                 siblingToInsertAfter = initialTargetElement.Ancestors(elementsCommonElementName).First();
             return siblingToInsertAfter;
@@ -74,6 +81,19 @@ namespace MasterProject.PatchEngine.AendringHandlers
         protected IEnumerable<XElement> GetAendringAktionStructures()
         {
             return AendringElement.Element("AendringAktion").Element("AendringNyTekst").Elements();
+        }
+
+        protected IEnumerable<Saetning> GetSupportedSubStructureTargets()
+        {
+            return AendringDefinition.Targets.Where(element => !element.IsStructureElement).OfType<Saetning>();
+        }
+
+        protected XElement[] GetTargetStructureForSubstructureChange(TargetDocument targetDocument, Saetning saetning)
+        {
+            var targetStructure = saetning.GetAncestorsAndSelf.FirstOrDefault(e => e.IsStructureElement);
+
+            var structureElementsFound = FindStructureElementsInTargetDocument(targetDocument, targetStructure).ToArray();
+            return structureElementsFound;
         }
     }
 }

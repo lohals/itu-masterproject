@@ -20,74 +20,51 @@ namespace MasterProject.PatchEngine.AendringHandlers
          
             HandleStructureElementInserts(targetDocument);
 
-           HandleSubElementInserts(targetDocument);
+            HandleSubElementInserts(targetDocument);
 
         }
         private void HandleSubElementInserts(TargetDocument targetDocument)
         {
-            var targets = AendringDefinition.Targets.Where(element => !element.IsStructureElement);
-            var aendringAktionChange = GetAendringAktionStructures();
-            foreach (var element in targets)
+            var saetninger = GetSupportedSubStructureTargets();
+            var aendringAktionChange = GetAendringAktionStructures().ToArray();
+            foreach (var saetning in saetninger)
             {
-                var saetning = element as Saetning;
-                if(saetning==null)//we only support saetninger for now.
-                    continue;
-                
-                var targetStructure = element.GetAncestorsAndSelf.FirstOrDefault(e => e.IsStructureElement);
+               
+                var structureElementsFound = GetTargetStructureForSubstructureChange(targetDocument, saetning);
+                if(structureElementsFound.Length==0)
+                    throw new ApplyAendringerException($"No target structure found for {saetning}, can't apply subelement changes.");
 
-                var structureElementsFound = FindStructureElementsInTargetDocument(targetDocument, targetStructure).ToArray();
-                if(structureElementsFound?.Length==0)
-                    throw new ApplyAendringerException($"No target structure found for {element}, can't apply subelement changes.");
-
-                foreach (var xElement in structureElementsFound)
-                {
-                    var punktumPerCharMap = xElement.Descendants("Char")
-                        .Select(charElement => new
-                        {
-                            Char = charElement,
-                            NumberOfPunktum = charElement.Value.Count(c => c == '.')
-                        });
-                    int acc = 0;
-                    XElement targetChar = null;
-                    using (var enumerator = punktumPerCharMap.GetEnumerator())
-                    {
-                        while (acc <= saetning.NummerStrong && enumerator.MoveNext())
-                        {
-                            acc = acc + enumerator.Current.NumberOfPunktum;
-                            targetChar = enumerator.Current.Char;
-                        }
-                    }
-                    if(targetChar==null)
-                        throw new ApplyAendringerException("No char elemenet is found. Something is wrong.");
-
-                    var targetLinea = targetChar.Parent;
-                    targetLinea.AddAfterSelf(aendringAktionChange.Descendants("Linea"));
-
-
-
-                    var existingText = xElement.Value;
-                    int indexOfPunktumToInsertAfter = 0;
-                    for (int i = 0; i < saetning.NummerStrong; i++)
-                    {
-                        indexOfPunktumToInsertAfter = existingText.IndexOf('.', indexOfPunktumToInsertAfter);
-                    }
-                    //foreach (var elementSubElementTarget in element.SubElementTargets?? aendringAktionChange)
-                    //{
-                    //    var chars = xElement.Descendants("Char");
-                    //    foreach (var c in chars)
-                    //    {
-                    //        c.Value = c.Value.Replace(elementSubElementTarget.Target, elementSubElementTarget.Replacement);
-                    //    }
-                    //}
-                }
+                DoSubStructureInsertAfter(structureElementsFound, saetning, aendringAktionChange);
             }
-
-
         }
 
-        private string GetInsertion()
+        private static void DoSubStructureInsertAfter(XElement[] structureElementsFound, Saetning saetning,
+            IEnumerable<XElement> aendringAktionChange)
         {
-            throw new NotImplementedException();
+            foreach (var xElement in structureElementsFound)
+            {
+                var punktumPerCharMap = xElement.Descendants("Char")
+                    .Select(charElement => new
+                    {
+                        Char = charElement,
+                        NumberOfPunktum = charElement.Value.Count(c => c == '.')
+                    });
+                int acc = 0;
+                XElement targetChar = null;
+                using (var enumerator = punktumPerCharMap.GetEnumerator())
+                {
+                    while (acc <= saetning.NummerStrong && enumerator.MoveNext())
+                    {
+                        acc = acc + enumerator.Current.NumberOfPunktum;
+                        targetChar = enumerator.Current.Char;
+                    }
+                }
+                if (targetChar == null)
+                    throw new ApplyAendringerException("No char elemenet is found. Something is wrong.");
+
+                var targetLinea = targetChar.Parent;
+                targetLinea.AddAfterSelf(aendringAktionChange.Descendants("Linea"));
+            }
         }
 
 
@@ -95,8 +72,11 @@ namespace MasterProject.PatchEngine.AendringHandlers
         {
             var elementToInsert = GetAendringAktionStructures();
 
-            foreach (var xElement in FindStructureElementsInTargetDocument(targetDocument, AendringDefinition.StructureTargets))
+            var structureTargets = AendringDefinition.StructureTargets.Where(element => element.SubElementTarget==null);
+            foreach (var xElement in FindStructureElementsInTargetDocument(targetDocument, structureTargets))
             {
+                //We only insert after same type... sometimes, forexample for Paragrafgrupper the location is a paragraf, but the change is a paragrafgruppe
+                //it is not allowed to insert paragrafgrupper inside paragrafgrupper, so that is why we select first ancestor with same name as change being inserted
                 var siblingToInsertAfter = SelectSameTypeSelfOrImmediateAncestor(xElement, elementToInsert);
 
                 siblingToInsertAfter.AddAfterSelf(elementToInsert.NormalizeWhiteSpace());

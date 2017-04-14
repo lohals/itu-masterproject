@@ -2,10 +2,14 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net;
+using System.Net.Http;
 using System.Text.RegularExpressions;
 using System.Xml.Linq;
+using Dk.Itu.Rlh.MasterProject.Model;
 using Dk.Itu.Rlh.MasterProject.Model.ParagrafIndledning;
 using MasterProject.PatchEngine;
+using MasterProject.PatchEngine.LegalQuery;
 using Xunit;
 using Xunit.Abstractions;
 using MasterProject.Utilities;
@@ -15,8 +19,8 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine
 {
     public class TestPatchEngine
     {
-        //private bool _launchViewer = false;
-        private bool _launchViewer = true;
+        private bool _launchViewer = false;
+        //private bool _launchViewer = true;
         private readonly ITestOutputHelper _logger;
         private readonly XdocDiffViewer _xdocDiffViewer=new XdocDiffViewer();
         private readonly IXmlCompare _xmlCompare = new XmlNormalizer(new XmlCompare());
@@ -29,24 +33,33 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine
 
         public static IEnumerable<object[]> SampleConsolidations => new[]
         {
-            //GetConsolidationSample($"{PatchengineSampleconsolidationsRootFolder}/Økologiloven/First"),
-            //GetConsolidationSample($"{PatchengineSampleconsolidationsRootFolder}/Økologiloven/Second"),
+            GetConsolidationSample($"{PatchengineSampleconsolidationsRootFolder}/Økologiloven/First"),
+            GetConsolidationSample($"{PatchengineSampleconsolidationsRootFolder}/Økologiloven/Second"),
             GetConsolidationSample($"{PatchengineSampleconsolidationsRootFolder}/Økologiloven/Third"),
+            //GetConsolidationSample($"{PatchengineSampleconsolidationsRootFolder}/Retsplejeloven/First"),
         };
+
+        private static object[] GetWebBasedSample(string legalRessource)
+        {
+            var qs = new RdfBasedLegalDocumentLoader().Load(legalRessource);
+            var docType = qs.GetDocType();
+            var components = legalRessource.Split('/');
+            var number = int.Parse(components.Last());
+            var year = int.Parse(components[components.Length - 2]);
+            var target = new TargetDocument(new Uri($"{legalRessource}/xml"), docType,year,number);
+            return new object[]{ target, qs.GetChangeDocuments(),XDocument.Load($"{qs.GetLaterConsolidationUri()}/xml")};
+        }
+
         [Theory,MemberData(nameof(SampleConsolidations))]
-        public void TestOekologiLoven(TargetDocument targetDocument, ChangeDocument[] changeDocuments, FileInfo expectedConsolidation)
+        public void TestOekologiLoven(TargetDocument targetDocument, ChangeDocument[] changeDocuments, XDocument expectedXdoc)
         {
             
-            //Act
             var sut = new PatchEngineFactory().Create();
 
+            //Act
             var patchResult = sut.ApplyPatches(changeDocuments, targetDocument);
 
-            //RemoveUnComparableElements(patchResult);
-
-            var expectedXdoc = XDocument.Load(expectedConsolidation.FullName).NormalizeWhiteSpace();
-
-            //RemoveUnComparableElements(expectedXdoc);
+            
 
             string diffResult;
             var compareResult = _xmlCompare.CompareXml(expectedXdoc, patchResult,out diffResult);
@@ -72,7 +85,7 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine
             {
                 new TargetDocument(targetFile.FileInfo,targetFile.Type,targetFile.YEar,targetFile.Number), 
                 testFileSet.Skip(1).Where(f=>f.Type==DokumentType.LovÆndring||f.Type==DokumentType.Lov).Select(file => new ChangeDocument(file.FileInfo,file.YEar,file.Number)).ToArray(),
-                testFileSet.Last().FileInfo
+                XDocument.Load(testFileSet.Last().FileInfo.FullName)
             };
         }
         private static readonly Regex TestFilePattern= new Regex("(?<type>\\w{4})(?<year>[0-9]{4})-(?<number>[0-9]+)", RegexOptions.Compiled);
@@ -87,28 +100,16 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine
                     FileInfo = map.info,
                     Number = int.Parse(map.MetaData.Groups["number"].Value),
                     YEar = int.Parse(map.MetaData.Groups["year"].Value),
-                    Type =  MatchFileNameDocTypeToDokumentType(map.MetaData) 
+                    Type =  MatchFileNameDocTypeToDokumentType(map.MetaData)
 
                 });
         }
 
         private static DokumentType MatchFileNameDocTypeToDokumentType(Match match)
         {
-            switch (match.Groups["type"].Value.ToLower())
-            {
-                case "lovh":
-                    return DokumentType.Lov;
-                case "lbkh":
-                    return DokumentType.LovBekendtgørelse;
-                case "lovc":
-                    return DokumentType.LovÆndring;
-                default:
-                    return DokumentType.Unknown;
-                               
-            }
+            var value = match.Groups["type"].Value;
+            return DokumentTypeHelpers.MapShortNameToDokumentType(value);
         }
-
-      
     }
 
     internal class SampleFile

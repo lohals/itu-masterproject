@@ -12,7 +12,7 @@ namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
 
         public override string LexdaniaName => "Paragraf";
 
-        public override Regex NummerMatch => new Regex($@"§\s{NummerStrong}", RegexOptions.IgnoreCase);
+        public override Regex NummerMatch => new Regex($@"^§\s{NummerStrong}\.?$", RegexOptions.IgnoreCase);
 
     }
 }

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 using System.Xml.Linq;
+using MasterProject.Utilities;
 
 namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine
 {
@@ -14,6 +15,7 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine
         }
         public bool CompareXml(XDocument targetXdoc, XDocument patchResult, out string xmlDiff)
         {
+            targetXdoc.NormalizeWhiteSpace();
             RemoveUnComparableElements(targetXdoc);
             RemoveUnComparableElements(patchResult);
 

@@ -12,12 +12,15 @@ namespace MasterProject.PatchEngine.AendringHandlers
             {
                 case AktionType.IndsaetEfter:
                     return new IndsaetEfterHandler(aendringDefinition, aendring);
-                case AktionType.IndsaetFoer:
-                case AktionType.Manuel:
+      
                 case AktionType.Ophaev:
                     return new OphaevAendringHandler(aendringDefinition, aendring);
                 case AktionType.Erstat:
                     return new ErstatAendringHandler(aendringDefinition, aendring);
+                case AktionType.IndsaetFoer:
+                    return new IndsaetFoerHandler(aendringDefinition, aendring);
+                case AktionType.Manuel:
+                    return new NoopManuelHandler();
                 default:
                     throw new ArgumentOutOfRangeException();
             }

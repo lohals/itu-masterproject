@@ -12,10 +12,6 @@ namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
         }
 
         public override string LexdaniaName => "Indentatio";
-
-        public override Regex NummerMatch
-        {
-            get { throw new System.NotImplementedException(); }
-        }
+        public override Regex NummerMatch => new Regex($@"^{NummerStrong}\)$", RegexOptions.IgnoreCase);
     }
 }

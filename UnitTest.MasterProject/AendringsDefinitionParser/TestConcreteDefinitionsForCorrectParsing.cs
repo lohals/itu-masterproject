@@ -25,19 +25,12 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
         }
 
         
-        public static IEnumerable<object[]> SimpleParentContextTargetTestData
+        public static IEnumerable<object[]> SimpleParentContextTargetTestData => new []
         {
-            get
-            {
-                return
-                    new []
-                    {
-                        new object[] {"Paragraffen affattes således:", AktionType.Erstat, typeof(ParentElementContext)},
-                        new object[] { "Paragraffen udgår. ",AktionType.Ophaev,typeof(ParentElementContext) }
-                    }
-                   ;
-            }
-        }
+            new object[] {"Paragraffen affattes således:", AktionType.Erstat, typeof(ParentElementContext)},
+            new object[] { "Paragraffen udgår. ",AktionType.Ophaev,typeof(ParentElementContext) }
+        };
+
         [Theory]
         [InlineData("I § 86, stk. 3, ændres »justitsministeren og social- og indenrigsministeren« til: »justitsministeren, børne- og socialministeren og udlændinge- og integrationsministeren«, og »§ 82 a« ændres til: »§§ 82 a og 87«."
             , new object[]
@@ -95,6 +88,11 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
             ,new object[]{new[] { typeof(Stk),typeof(Paragraf)}, new[] { typeof(Stk), typeof(Paragraf) }}
             , "hjælp"
             , "personlig bistand")]
+        //[InlineData("I § 173, stk. 1, og stk. 2, 1. pkt., ændres »§§ 169-172« til: »§§ 169-172 a«."
+        //    , new object[] { new object[] { 1,"173" }, new object[] { 1, 2,"173" } }
+        //    , new object[] { new[] { typeof(Stk), typeof(Paragraf) }, new[] { typeof(Saetning), typeof(Stk), typeof(Paragraf) } }
+        //    , "§§ 169-172"
+        //    , "§§ 169-172 a")]
         public void TestMultiTarget_QuotedTextReplace(string input,object[][] explicatusChains,Type[][] elementTypes,string source,string replacement)
         {
             var result = _sut.Parse(input);
