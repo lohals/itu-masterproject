@@ -4,15 +4,18 @@ using Dk.Itu.Rlh.MasterProject.Model;
 using Dk.Itu.Rlh.MasterProject.Grammar;
 using System;
 using Antlr4.Runtime.Tree;
+using MasterProject.Utilities;
 
 namespace Dk.Itu.Rlh.MasterProject.Parser
 {
 
     public abstract class VisitorBasedAntlrParser<T>
     {
+
         public ParseResult<T> Parse(string inputString)
         {
-            var input = new AntlrInputStream(inputString);
+            var cleanedString = inputString.NormalizeWhiteSpace();
+            var input = new AntlrInputStream(cleanedString);
             var lexer = GetLexer(input);
             var tokens = new CommonTokenStream(lexer);
             var errorListener = new ParserErrorListener();
@@ -33,5 +36,4 @@ namespace Dk.Itu.Rlh.MasterProject.Parser
         
 
     }
-    
 }

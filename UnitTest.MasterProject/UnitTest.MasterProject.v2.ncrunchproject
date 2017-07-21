@@ -1,7 +1,7 @@
 ﻿<ProjectConfiguration>
   <AutoDetectNugetBuildDependencies>true</AutoDetectNugetBuildDependencies>
   <BuildPriority>1000</BuildPriority>
-  <CopyReferencedAssembliesToWorkspace>true</CopyReferencedAssembliesToWorkspace>
+  <CopyReferencedAssembliesToWorkspace>false</CopyReferencedAssembliesToWorkspace>
   <ConsiderInconclusiveTestsAsPassing>false</ConsiderInconclusiveTestsAsPassing>
   <PreloadReferencedAssemblies>false</PreloadReferencedAssemblies>
   <AllowDynamicCodeContractChecking>true</AllowDynamicCodeContractChecking>
@@ -28,10 +28,10 @@
       <FixtureName>UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser.TestRealDataParsing</FixtureName>
     </FixtureTestSelector>
     <FixtureTestSelector>
-      <FixtureName>UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser.TestAendringDefinitionVariations</FixtureName>
+      <FixtureName>UnitTest.Dk.Itu.Rlh.MasterProject.ParagrafIndledningParser.TestParagrafIndledningRealData</FixtureName>
     </FixtureTestSelector>
     <FixtureTestSelector>
-      <FixtureName>UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser.TestConcreteDefinitionsForCorrectParsing</FixtureName>
+      <FixtureName>UnitTest.Dk.Itu.Rlh.MasterProject.ParagrafIndledningParser.TestParagrafIndledningSamples</FixtureName>
     </FixtureTestSelector>
   </IgnoredTests>
 </ProjectConfiguration>

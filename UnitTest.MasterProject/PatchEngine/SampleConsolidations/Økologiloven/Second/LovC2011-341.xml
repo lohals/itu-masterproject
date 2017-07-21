@@ -1,0 +1,1561 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dokument SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2011/03/21/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta>
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20110034130</AccessionNumber>
+    <DocumentId>AU004386</DocumentId>
+    <UniqueDocumentId>136746</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af årsregnskabsloven og forskellige andre love\n(Obligatorisk digital kommunikation mellem virksomheder og det offentlige, skattefritagelse af Fornyelsesfondens garantiordning m.v.)</DocumentTitle>
+    <Year>2011</Year>
+    <DiesSigni>2011-04-27</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2016-05-21</EndDate>
+    <Status>Historic</Status>
+    <Number>341</Number>
+    <AendresAf>
+      <Dokument>
+        <KortNavn>LBK nr 415 af 03/05/2011</KortNavn>
+        <Overskrift>Senere ændringer til forskriften</Overskrift>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 416 af 03/05/2011</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 417 af 03/05/2011</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 418 af 03/05/2011</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 578 af 06/06/2011</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1017 af 28/10/2011</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 58 af 20/01/2012</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 244 af 28/02/2013</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 814 af 14/07/2012</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 678 af 14/06/2013</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1253 af 01/11/2013</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LOV nr 1360 af 16/12/2014</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LOV nr 524 af 29/04/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 868 af 03/07/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1317 af 19/11/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1812 af 14/12/2015</KortNavn>
+      </Dokument>
+      <Dokument>
+        <KortNavn>LBK nr 1910 af 14/12/2015</KortNavn>
+      </Dokument>
+    </AendresAf>
+    <DokumentKortNavn>LOV nr 341 af 27/04/2011</DokumentKortNavn>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DateOfHistoricMark>2015-12-30</DateOfHistoricMark>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">MARGRETHE R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Brian Mikkelsen</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Økonomi- og Erhvervsmin., j.nr. 10/04824</JournalNumber>
+    <Ministry>Erhvervs- og Vækstministeriet</Ministry>
+    <AdministrativeAuthority>Økonomi- og Erhvervsministeriet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe>
+    <Titel>
+      <Linea>
+        <Char>Lov om ændring af årsregnskabsloven og forskellige andre love</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel>
+      <Linea>
+        <Char>(Obligatorisk digital kommunikation mellem virksomheder og det offentlige, skattefritagelse af Fornyelsesfondens garantiordning m.v.)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold>
+    <Hymne>
+      <Exitus>
+        <Linea>
+          <Char>VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 1</Explicatus>
+      <Rubrica>
+        <Linea>
+          <Char>Økonomi- og Erhvervsministeriet</Char>
+        </Linea>
+      </Rubrica>
+      <Exitus>
+        <Linea>
+          <Char>I årsregnskabsloven, jf. lovbekendtgørelse nr. 395 af 25. maj 2009, som ændret ved § 1 i lov nr. 516 af 12. juni 2009, § 21 i lov nr. 718 af 25. juni 2010 og § 1 i lov nr. 720 af 25. juni 2010, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 155</Char>
+                <Char> ophæves, og i stedet indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 155.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Erhvervs- og Selskabsstyrelsen fastsætter regler om indsendelse af årsrapporter og undtagelseserklæringer m.v., som indsendes i stedet herfor, samt om indsendelse af delårsrapporter for statslige aktieselskaber, jf. § 148, og for virksomheder, som har værdipapirer optaget til handel på et reguleret marked i et EU/EØS-land, jf. § 148 a.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen kan fastsætte regler om, at årsrapporter og andre dokumenter, som styrelsen modtager efter denne lov, skal indberettes eller indsendes digitalt, og at kommunikation i forbindelse hermed skal foregå digitalt mellem styrelsen og virksomhederne og mellem styrelsen og virksomhedernes ledelsesmedlemmer og revisorer.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen kan fastsætte nærmere regler om digital indberetning, digital indsendelse og digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 155 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Erhvervs- og Selskabsstyrelsen kan fastsætte regler om, at styrelsen kan udstede afgørelser og andre dokumenter efter denne lov uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af Erhvervs- og Selskabsstyrelsen som afsender.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf>
+                <Explicatus>§ 155 b.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Erhvervs- og Selskabsstyrelsen fastsætter regler om offentliggørelse af årsrapporter og undtagelseserklæringer m.v., som indsendes i stedet herfor, samt om offentliggørelse af delårsrapporter for statslige aktieselskaber og virksomheder, som har værdipapirer optaget til handel på et reguleret marked i et EU/EØS-land.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen kan fastsætte regler om regnskabsbrugeres adgang via elektroniske medier til dokumenter, som er offentliggjort af styrelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Styrelsen fastsætter regler om omgørelse af offentliggjorte årsrapporter og konsekvenserne heraf.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om registrering af ledningsejere, jf. lovbekendtgørelse nr. 1113 af 22. september 2010, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 10 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 10 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Økonomi- og erhvervsministeren kan fastsætte regler om, at ministeren, den, ministeren bemyndiger hertil, eller sekretariatet, jf. § 13, kan udstede dokumenter efter denne lov uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt dokumentet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Sådanne dokumenter sidestilles med dokumenter med personlig underskrift.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Økonomi- og erhvervsministeren kan fastsætte regler om, at dokumenter, der udelukkende er udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af ministeren, den, ministeren har bemyndiget til at udstede sådanne dokumenter, eller sekretariatet, jf. § 13, som afsender.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 11</Char>
+                <Char> indsættes efter stk. 1 som nyt stykke:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Økonomi- og erhvervsministeren kan fastsætte regler om, at fakturering for brug af registeret skal ske digitalt.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 2 og 3 bliver herefter stk. 3 og 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 11, stk. 3,</Char>
+                <Char> der bliver stk. 4, ændres »stk. 2« til:</Char>
+              </Linea>
+              <Linea>
+                <Char>»stk. 3«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 12</Char>
+                <Char> indsættes efter »oplysninger«:</Char>
+              </Linea>
+              <Linea>
+                <Char>», herunder om, at fakturering skal ske digitalt«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om forbrugerklager (forbrugerklageloven), jf. lovbekendtgørelse nr. 1095 af 8. september 2010, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 10</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 5-9:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan derudover fastsætte regler om, at kommunikation skal foregå digitalt mellem Forbrugerklage­nævnet og de erhvervsdrivende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte nærmere regler om digital kommunikation mellem Forbrugerklagenævnet og de erhvervsdrivende, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at Forbrugerklagenævnet kan udstede afgørelser og andre dokumenter til erhvervsdrivende, jf. stk. 5, uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af Forbrugerklagenævnet som afsender.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 4</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om markedsføring, jf. lovbekendtgørelse nr. 839 af 31. august 2009, som ændret ved § 2 i lov nr. 535 af 26. maj 2010, lov nr. 719 af 25. juni 2010 og § 11 i lov nr. 1556 af 21. december 2010, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 22</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 6-9:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan endvidere fastsætte regler om, at kommunikation skal foregå digitalt mellem Forbrugerombudsmanden og de erhvervsdrivende.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte nærmere regler om digital kommunikation mellem Forbrugerombudsmanden og de erhvervsdrivende, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at Forbrugerombudsmanden kan udstede afgørelser og andre dokumenter til erhvervsdrivende, jf. stk. 6, uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 9.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 5</Explicatus>
+      <Rubrica>
+        <Linea>
+          <Char>Ministeriet for Fødevarer, Landbrug og Fiskeri</Char>
+        </Linea>
+      </Rubrica>
+      <Exitus>
+        <Linea>
+          <Char>I lov om foderstoffer, jf. lovbekendtgørelse nr. 192 af 12. marts 2009, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 1 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 1 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om pligt til at anvende digital kom­mu­ni­ka­tion i forbindelse med</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>1)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>indberetning af oplysninger i tilknytning til registrering og godkendelse af fodervirksomheder efter regler fastsat i medfør af § 1, stk. 3, nr. 1, og</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                      <Indentatio formaInd="Nummer">
+                        <Explicatus>2)</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char>indberetning af oplysninger om omsætning m.v. efter regler fastsat i medfør af § 1, stk. 3, nr. 9, til brug for hel eller delvis fastlæggelse af fodervirksomhedernes betaling af udgifter ved kontrol og administration af loven.</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren kan fastsætte regler om, at ministeren ved henvendelse til fodervirksomheder om forhold, der er omfattet af regler fastsat i henhold til stk. 1, alene anvender digital kommunikation.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren kan for de indberetninger, der er nævnt i stk. 1, fastsætte regler om vilkår for anvendelse af digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren kan fastsætte regler om, at ministeren kan udstede afgørelser og andre dokumenter i forbindelse med den kommunikation, der er nævnt i stk. 2, uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, der har udstedt afgørelsen eller dokumentet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af Ministeriet for Fødevarer, Landbrug og Fiskeri som afsender.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 6.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 6</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om jordbrugets anvendelse af gødning og om plantedække, jf. lovbekendtgørelse nr. 18 af 8. januar 2010, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 26 a, stk. 1,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om pligt til at anvende digital kommunikation i forbindelse med registrering efter § 2, stk. 2, registrering og afmelding efter § 2, stk. 3 og 7, ansøgning om at få tildelt en kvælstofkvote til brødhvede efter regler fastsat i henhold til § 6, ansøgning om forhøjelse af kvælstofkvoten efter regler fastsat i henhold til § 9, ansøgning om tilladelse til fravigelse af kravene til såning af efterafgrøder efter regler fastsat i henhold til § 18 samt indberetning af de oplysninger, der er omhandlet i § 22, stk. 2-4, og § 24.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 26 a, stk. 2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte nærmere regler om, at ministeren ved henvendelse til jordbrugsvirksomheder om forhold, der er omfattet af regler fastsat i henhold til stk. 1, alene anvender digital kommunikation.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 26 a, stk. 3,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul>
+          <Exitus>
+            <Linea>
+              <Char>Stk. 4 og 5 bliver herefter stk. 3 og 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>4.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 26 a, stk. 5,</Char>
+                <Char> der bliver stk. 4, ophæves, og som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 4-6</Char>
+                <Char> indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at ministeren kan udstede afgørelser og andre dokumenter i forbindelse med den kommunikation, som er nævnt i stk. 2, uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af Ministeriet for Fødevarer, Landbrug og Fiskeri som afsender.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 7</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I økologiloven, jf. lovbekendtgørelse nr. 196 af 12. marts 2009, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 15 indsættes før overskriften før § 16:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <ParagrafGruppe>
+                <Rubrica>
+                  <Linea>
+                    <Char>Obligatorisk digital kommunikation</Char>
+                  </Linea>
+                </Rubrica>
+                <Paragraf>
+                  <Explicatus>§ 15 a.</Explicatus>
+                  <Stk>
+                    <Exitus>
+                      <Linea>
+                        <Char>Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om pligt for de af loven omfattede jordbrugsbedrifter til at anvende digital kommunikation i forbindelse med den årlige indberetning om økologisk jordbrugsproduktion.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 2.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Ministeren kan fastsætte nærmere regler om, at ministeren ved henvendelser til jordbrugsbedrifter om forhold, der er omfattet af regler fastsat i medfør af stk. 1, alene anvender digital kommunikation.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 3.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Ministeren kan for den kommunikation, der er nævnt i stk. 1, fastsætte regler om vilkår for anvendelse af digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 4.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Ministeren kan fastsætte regler om, at ministeren kan udstede afgørelser og andre dokumenter i forbindelse med den kommunikation, der er nævnt i stk. 2, uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 5.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Ministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af Ministeriet for Fødevarer, Landbrug og Fiskeri som afsender.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                  <Stk>
+                    <Explicatus>Stk. 6.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Stk>
+                </Paragraf>
+              </ParagrafGruppe>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 8</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om gødning og jordforbedringsmidler m.v., jf. lovbekendtgørelse nr. 194 af 12. marts 2009, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 9 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 9 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om pligt til at anvende digital kommunika­tion i forbindelse med anmeldelse af produkter efter regler fastsat i medfør af § 4, nr. 3, registrering af virksomheder efter regler fastsat i medfør af § 4, nr. 4, og afgivelse af oplysninger efter regler fastsat i medfør af § 9, til brug for hel eller delvis fastlæggelse af virksomhedens betaling af udgifter ved kontrol og administration af loven.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren kan fastsætte regler om, at ministeren ved henvendelser til virksomheder om forhold, der er omfattet af regler fastsat i medfør af stk. 1, alene anvender digital kommunikation.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren kan for den kommunikation, der er nævnt i stk. 1, fastsætte regler om vilkår for anvendelse af digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren kan fastsætte regler om, at ministeren kan udstede afgørelser og andre dokumenter i forbindelse med den kommunikation, der er nævnt i stk. 2, uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af ministeriet for Fødevarer, Landbrug og Fiskeri som afsender.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 6.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 9</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 432 af 9. juni 2004 om hold af dyr, som ændret bl.a. ved § 6 i lov nr. 1272 af 16. december 2009 og senest ved lov nr. 1544 af 21. december 2010, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 6, stk. 3,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at oplysninger om flytninger af kvæg, svin, får og geder og oplysninger om fødsler, slagtning og dødsfald hos kvæg efter regler fastsat i medfør af § 5 samt oplysninger om husdyrbrug efter regler fastsat i medfør af stk. 1 skal indberettes digitalt, og at kommunikation i forbindelse hermed skal foregå digitalt mellem ministeren og virksomhederne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 6, stk. 4,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte nærmere regler om digital indberetning og digital kommunikation, jf. stk. 3, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>3.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 6</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 5-7:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at ministeren eller den, ministeren bemyndiger dertil, kan udstede afgørelser og andre dokumenter i forbindelse med de indberetninger, som er nævnt i stk. 3, uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af Ministeriet for Fødevarer, Landbrug og Fiskeri eller den, ministeren bemyndiger hertil, som afsender.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 10</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om administration af Det Europæiske Fællesskabs forordninger om ordninger under Den Fælles Landbrugspolitik finansieret af Den Europæiske Garantifond for Landbruget m.v. (landbrugsstøtteloven), jf. lovbekendtgørelse nr. 445 af 23. april 2010, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 1 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 1 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om, at virksomheders ansøgning om støttebeløb og indberetning af oplysninger efter regler fastsat i medfør af § 1 skal ske digitalt, og at kommunikation i forbindelse hermed skal foregå digitalt mellem ministeren og virksomhederne.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren kan fastsætte nærmere regler om digital ansøgning og indberetning samt digital kommunikation, jf. stk. 1, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren kan fastsætte regler om, at ministeren eller den, ministeren bemyndiger dertil, kan udstede afgørelser og andre dokumenter i forbindelse med ansøgninger og indberetninger som nævnt i stk. 1 uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af Ministeriet for Fødevarer, Landbrug og Fiskeri eller den, ministeren bemyndiger hertil, som afsender.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 11</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov nr. 316 af 31. marts 2007 om udvikling af landdistrikterne (landdistriktsloven), som ændret ved § 33 i lov nr. 523 af 6. juni 2007 og § 68 i lov nr. 1336 af 19. december 2008, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 5</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 2-6:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at virksomheders ansøgning om tilsagn om tilskud, anmodning om udbetaling af tilskud og indberetninger af oplysninger efter regler fastsat i medfør af stk. 1 skal ske digitalt, og at kommunikation i forbindelse hermed skal foregå digitalt mellem ministeren og virksomhederne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte nærmere regler om digital ansøgning, anmodning og indberetning samt digital kommunikation, jf. stk. 2, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at ministeren eller den, ministeren bemyndiger dertil, kan udstede afgørelser og andre dokumenter i forbindelse med ansøgninger, anmodninger eller indberetninger som nævnt i stk. 2 uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af Ministeriet for Fødevarer, Landbrug og Fiskeri eller den, ministeren bemyndiger hertil, som afsender.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 12</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om statsgaranti for lån til yngre jordbrugere m.v., jf. lovbekendtgørelse nr. 1202 af 10. december 2009, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 16</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 2-6:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at virksomheders anmodning om udbetaling af tilskud og indberetninger af oplysninger efter regler fastsat i medfør af stk. 1 skal ske digitalt, og at kommunikation i forbindelse hermed skal foregå digitalt mellem ministeren og virksomhederne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte nærmere regler om digital anmodning og indberetning samt digital kommunikation, jf. stk. 2, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at ministeren eller den, ministeren bemyndiger dertil, kan udstede afgørelser og andre dokumenter i forbindelse med anmodninger eller indberetninger som nævnt i stk. 2 uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af Ministeriet for Fødevarer, Landbrug og Fiskeri eller den, ministeren bemyndiger hertil, som afsender.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 13</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om støtte til jordbrugets strukturudvikling og til økologisk produktion inden for jordbrug og fiskeri m.v., jf. lovbekendtgørelse nr. 192 af 26. marts 1999, som ændret senest ved § 63 i lov nr. 1336 af 19. december 2008, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 11</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 3-7:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at virksomheders anmodning om udbetaling af tilskud og indberetninger af oplysninger efter regler fastsat i medfør af stk. 1 og 2 skal ske digitalt, og at kommunikation i forbindelse hermed skal foregå digitalt mellem ministeren og virksomhederne.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte nærmere regler om digital anmodning og indberetning samt digital kommunikation, jf. stk. 3, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at ministeren eller den, ministeren bemyndiger dertil, kan udstede afgørelser og andre dokumenter i forbindelse med anmodninger eller indberetninger som nævnt i stk. 3 uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Ministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af Ministeriet for Fødevarer, Landbrug og Fiskeri eller den, ministeren bemyndiger hertil, som afsender.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 14</Explicatus>
+      <Rubrica>
+        <Linea>
+          <Char>Miljøministeriet</Char>
+        </Linea>
+      </Rubrica>
+      <Exitus>
+        <Linea>
+          <Char>I lov om miljøbeskyttelse, jf. lovbekendtgørelse nr. 879 af 26. juni 2010, som ændret senest ved § 3 i lov nr. 1555 af 21. december 2010, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 35</Char>
+                <Char> indsættes som </Char>
+                <Char formaChar="Italic" signiChar="AendringURN">stk. 3-7:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Stk>
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøministeren kan fastsætte regler om, at ansøgninger om godkendelse efter § 33 og oplysninger til brug for myndighedernes revurderinger af godkendelse, jf. § 41 b, skal indsendes digitalt, og at kommunikation i forbindelse hermed skal foregå digitalt mellem de godkendende myndigheder og ansøgeren.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøministeren kan fastsætte nærmere regler om digital ansøgning og digital kommunikation, jf. stk. 3, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 5.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøministeren kan fastsætte regler om, at den godkendende myndighed kan udstede afgørelser og andre dokumenter i forbindelse med forhold, som er nævnt i stk. 3, uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Miljøministeren kan fastsætte regler om, at dokumenter, der udelukkende er udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af den godkendende myndighed som afsender.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+              <Stk>
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 15</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om miljøgodkendelse m.v. af husdyrbrug, jf. lovbekendtgørelse nr. 1486 af 4. december 2009, som ændret ved § 18 i lov nr. 484 af 11. maj 2010 og lov nr. 122 af 23. februar 2011, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic" signiChar="AendringURN">§ 18, stk. 3,</Char>
+                <Char> ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer>
+        <Explicatus>2.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 18 indsættes før overskriften før § 19:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 18 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Miljøministeren kan fastsætte regler om, at ansøgninger om tilladelse og godkendelse i medfør af §§ 10-12 og 16 og efter regler fastsat efter § 17, stk. 2, anmeldelser efter regler fastsat efter § 17, stk. 3, 2. pkt., samt oplysninger til brug for kommunalbestyrelsens revurderinger af godkendelse, jf. § 41, skal indsendes digitalt, og at kommunikation i forbindelse hermed skal foregå digitalt mellem kommunalbestyrelsen og ansøgeren eller anmelderen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Miljøministeren kan fastsætte nærmere regler om digital ansøgning og anmeldelse og om digital kommunikation, jf. stk. 1, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Miljøministeren kan fastsætte regler om, at kommunalbestyrelsen kan udstede afgørelser og andre dokumenter i forbindelse med forhold, som er nævnt i stk. 1, uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Miljøministeren kan fastsætte regler om, at dokumenter, der udelukkende er udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af kommunalbestyrelsen som afsender.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 16</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om skove, jf. lovbekendtgørelse nr. 945 af 24. september 2009, som ændret ved § 6 i lov nr. 484 af 11. maj 2010, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 29 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 29 a.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren kan fastsætte regler om, at ansøgninger, efterfølgende indberetninger og underretninger i medfør af § 29 skal foregå digitalt, og at kommunikation i forbindelse hermed skal foregå digitalt mellem ministeren og ansøgerne.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren kan fastsætte nærmere regler om digital kommunikation, jf. stk. 1, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren kan fastsætte regler om, at ministeren kan udstede afgørelser og andre dokumenter i forbindelse med forhold, som er nævnt i stk. 1, uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Ministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af Miljøministeriet som afsender.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk>
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf>
+      <Explicatus>§ 17</Explicatus>
+      <Rubrica>
+        <Linea>
+          <Char>Skatteministeriet</Char>
+        </Linea>
+      </Rubrica>
+      <Exitus>
+        <Linea>
+          <Char>I lov om påligningen af indkomstskat (ligningsloven), jf. lovbekendtgørelse nr. 1365 af 29. november 2010, som ændret senest ved § 7 i lov nr. 254 af 30. marts 2011, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer>
+        <Explicatus>1.</Explicatus>
+        <Aendring>
+          <AendringDefinition>
+            <Exitus>
+              <Linea>
+                <Char>Efter § 7 B indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion>
+            <AendringNyTekst>
+              <Paragraf>
+                <Explicatus>§ 7 C.</Explicatus>
+                <Stk>
+                  <Exitus>
+                    <Linea>
+                      <Char>Værdien af en garanti stillet efter lov om fond til grøn omstilling og erhvervsmæssig fornyelse og regler fastsat i medfør heraf skal ikke medregnes til den skattepligtige indkomst.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 18</Explicatus>
+      <Rubrica>
+        <Linea>
+          <Char>Ikrafttræden m.v.</Char>
+        </Linea>
+      </Rubrica>
+      <Stk>
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. maj 2011, jf. dog stk. 2.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk>
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Miljøministeren fastsætter tidspunktet for ikrafttræden af § 15, nr. 1.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf>
+      <Explicatus>§ 19</Explicatus>
+      <Stk>
+        <Exitus>
+          <Linea>
+            <Char>Loven gælder ikke for Færøerne og Grønland, men §§ 1, 3, 5, 8 og 9 kan ved kongelig anordning sættes helt eller delvis i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe>
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

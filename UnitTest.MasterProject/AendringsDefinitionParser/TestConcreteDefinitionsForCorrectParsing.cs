@@ -25,19 +25,12 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
         }
 
         
-        public static IEnumerable<object[]> SimpleParentContextTargetTestData
+        public static IEnumerable<object[]> SimpleParentContextTargetTestData => new []
         {
-            get
-            {
-                return
-                    new []
-                    {
-                        new object[] {"Paragraffen affattes således:", AktionType.Erstat, typeof(ParentElementContext)},
-                        new object[] { "Paragraffen udgår. ",AktionType.Ophaev,typeof(ParentElementContext) }
-                    }
-                   ;
-            }
-        }
+            new object[] {"Paragraffen affattes således:", AktionType.Erstat, typeof(ParentElementContext)},
+            new object[] { "Paragraffen udgår. ",AktionType.Ophaev,typeof(ParentElementContext) }
+        };
+
         [Theory]
         [InlineData("I § 86, stk. 3, ændres »justitsministeren og social- og indenrigsministeren« til: »justitsministeren, børne- og socialministeren og udlændinge- og integrationsministeren«, og »§ 82 a« ændres til: »§§ 82 a og 87«."
             , new object[]
@@ -95,6 +88,11 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
             ,new object[]{new[] { typeof(Stk),typeof(Paragraf)}, new[] { typeof(Stk), typeof(Paragraf) }}
             , "hjælp"
             , "personlig bistand")]
+        //[InlineData("I § 173, stk. 1, og stk. 2, 1. pkt., ændres »§§ 169-172« til: »§§ 169-172 a«."
+        //    , new object[] { new object[] { 1,"173" }, new object[] { 1, 2,"173" } }
+        //    , new object[] { new[] { typeof(Stk), typeof(Paragraf) }, new[] { typeof(Saetning), typeof(Stk), typeof(Paragraf) } }
+        //    , "§§ 169-172"
+        //    , "§§ 169-172 a")]
         public void TestMultiTarget_QuotedTextReplace(string input,object[][] explicatusChains,Type[][] elementTypes,string source,string replacement)
         {
             var result = _sut.Parse(input);
@@ -128,8 +126,21 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
             , new object[] { 2, 5, "98 e" }
             , new[] { typeof(Saetning), typeof(Stk), typeof(Paragraf) })]
         public void Test_ErstatExpressions(string input, object[] expectedExplicatus,  Type[] expectedTypes)
-        {
+        { 
             TestParseResult(input, expectedExplicatus, AktionType.Erstat, expectedTypes);
+        }
+        //§ 16, stk. 3-5, ophæves.
+
+        [Theory]//§ 16, stk. 3-5, ophæves.
+        [InlineData("§ 16, stk. 3-5, ophæves."
+           , new object[] { new object[] { 3,16 }, new object[] { 4, 16 }, new object[] { 5, 16 } }
+           , new object[] { new[] { typeof(Stk), typeof(Paragraf) }, new[] { typeof(Stk), typeof(Paragraf) }, new[] { typeof(Stk), typeof(Paragraf) } })]
+        public void Test_MultiTarget_Ophaeves(string input, object[][] expectedExplicatus, Type[][] expectedTypes)
+        {
+            //Assert.True(true);
+            var result = _sut.Parse(input);
+            AssertErrors(result);
+            AssertAllTargetChains(expectedExplicatus, expectedTypes, result, AktionType.Ophaev);
         }
 
         [Theory]
@@ -150,6 +161,7 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
             TestParseResult(input, expectedExplicatus, AktionType.Ophaev, expectedTypes);
         }
         [Theory]
+        [InlineData("Efter § 15 indsættes før overskriften før § 16:", new object[] { "15" }, new[] { typeof(Paragraf) })]
         [InlineData("I § 15 indsættes efter stk. 2 som nyt stykke:", new object[] { 2, "15" }, new[] { typeof(Stk), typeof(Paragraf) })]
         [InlineData("Efter § 100 indsættes:", new object[] {100 }, new Type[] { typeof(Paragraf), })]
         [InlineData("I § 5 a indsættes efter stk. 2 som nyt stykke:", new object[] { 2, "5 a" },  new Type[] { typeof(Stk), typeof(Paragraf) })]

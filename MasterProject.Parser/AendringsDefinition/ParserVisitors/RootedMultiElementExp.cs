@@ -14,13 +14,14 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
         {
             var commonParent = context.rootElementExp()?.Accept(new ElementVisitor());
             var multiElement = context.multiElementExp()?.Accept(new MultiElementVisitor());
-            if(multiElement==null)
-                throw new NullReferenceException(nameof(multiElement));
-            foreach (var element in multiElement)
+            var rangedElements = context.rangedMultiElementExp()?.Accept(new RangedMultiElementExpVisitor());
+
+            var targetArray = multiElement?? rangedElements??Enumerable.Empty<Element>().ToArray();
+            foreach (var element in targetArray)
             {
                 element.GetAncestorsAndSelf.Reverse().First().ParentContext = commonParent;
             }
-            return multiElement;
+            return targetArray;
         }
     }
 }

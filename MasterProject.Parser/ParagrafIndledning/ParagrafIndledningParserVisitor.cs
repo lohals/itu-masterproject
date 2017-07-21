@@ -18,10 +18,7 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.ParagrafIndledning
            
             return new ParagrafIndledningModel
             {
-                References = new List<Dokument>()
-                {
-                    phrase1??phrase2
-                }
+                Reference = phrase1 ?? phrase2
             };
         }
        

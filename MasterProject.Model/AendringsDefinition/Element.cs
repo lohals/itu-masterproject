@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.RegularExpressions;
+using System.Xml.Linq;
 using System.Xml.Serialization;
 
 namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
@@ -19,6 +21,7 @@ namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
 
         [XmlElement(Order = 1)]
         public Element ParentContext { get; set; }
+
         public IEnumerable<Element> GetAncestorsAndSelf
         { 
             get {
@@ -31,15 +34,20 @@ namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
                 }
             } 
         }
-        public abstract Element Clone(object nummer);
+        
 
-    }
+	    public abstract string LexdaniaName { get; }
+	    public abstract Regex NummerMatch { get; }
+
+        public abstract Element Clone(object nummer);
+	    public virtual bool IsStructureElement { get; } = true;
+
+	}
 
 
     public abstract class Element<T>:Element
     {
-        
-        public override object Nummer 
+         public override object Nummer 
         {
             get { return NummerStrong; }
         }

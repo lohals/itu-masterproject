@@ -96,7 +96,10 @@ namespace Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition.ParserVisitors
        
         public override AendringDefinition VisitRemoveExp(AendringDefinitionGrammarParser.RemoveExpContext context)
         {
-            var text = context.GetText();
+            var rootedMultiElement = context.rootedMultiElementExp()?.Accept(new RootedMultiElementExp());
+            if (rootedMultiElement != null)
+                return BuildAendringDefintion(rootedMultiElement, AktionType.Ophaev);
+
             var target = context.elementChainExp()?.Accept(new ElementChainVisitor());
             if (target !=null && context.QUOTEDTEXT() != null)
                 target.SubElementTargets = new []{new SubElementTarget() { Target = context.QUOTEDTEXT().GetText() }};

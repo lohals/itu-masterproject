@@ -1,4 +1,6 @@
-﻿namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
+﻿using System.Text.RegularExpressions;
+
+namespace Dk.Itu.Rlh.MasterProject.Model.AendringsDefinition
 {
     public class Paragraf : Element<string>
     {
@@ -7,5 +9,10 @@
         {
            return new Paragraf() {NummerStrong = nummer };
         }
+
+        public override string LexdaniaName => "Paragraf";
+
+        public override Regex NummerMatch => new Regex($@"^§\s{NummerStrong}\.?$", RegexOptions.IgnoreCase);
+
     }
 }

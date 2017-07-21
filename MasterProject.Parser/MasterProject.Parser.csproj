@@ -30,9 +30,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Antlr4.Runtime, Version=4.5.0.0, Culture=neutral, PublicKeyToken=09abb75b9ed49849, processorArchitecture=MSIL">
-      <HintPath>..\packages\Antlr4.Runtime.4.5.3\lib\net45\Antlr4.Runtime.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Antlr4.Runtime, Version=4.6.0.0, Culture=neutral, PublicKeyToken=09abb75b9ed49849, processorArchitecture=MSIL">
+      <HintPath>..\packages\Antlr4.Runtime.4.6.1\lib\net45\Antlr4.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -45,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AendringsDefinition\AendringsDefinitionParser.cs" />
+    <Compile Include="AendringsDefinition\ParserVisitors\RangedMultiElementExpVisitor.cs" />
     <Compile Include="AendringsDefinition\ParserVisitors\RootedMultiElementExp.cs" />
     <Compile Include="AendringsDefinition\ParserVisitors\RootedBecomesExpVisitor.cs" />
     <Compile Include="AendringsDefinition\ParserVisitors\BecomesExpressionVisitor.cs" />
@@ -79,11 +79,16 @@
       <Project>{5cae0db0-1506-411e-acff-6617aa291b99}</Project>
       <Name>MasterProject.Model</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MasterProject.Utilities\MasterProject.Utilities.csproj">
+      <Project>{AE9AB314-E7CF-491A-864F-4307B55DBD5E}</Project>
+      <Name>MasterProject.Utilities</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

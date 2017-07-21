@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,7 @@ namespace Dk.Itu.Rlh.MasterProject.Model.ParagrafIndledning
     {
         Unknown,
         Lov,
-        LovBekendtgørelse
+        LovBekendtgørelse,
+        LovÆndring
     }
 }

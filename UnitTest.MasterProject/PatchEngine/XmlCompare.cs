@@ -4,9 +4,9 @@ using System.Xml;
 using System.Xml.Linq;
 using Microsoft.XmlDiffPatch;
 
-namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine.Økologiloven
+namespace UnitTest.Dk.Itu.Rlh.MasterProject.PatchEngine
 {
-    public class XmlCompare
+    public class XmlCompare : IXmlCompare
     {
         public XmlCompare()
         {
