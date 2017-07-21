@@ -1,4 +1,4 @@
-grammar ParagrafIndledning;
+ï»¿grammar ParagrafIndledning;
 options{
 	backtrack=true;
 }
@@ -14,7 +14,7 @@ paragrafIndledning
 
 
 
-//I lov nr. 606 af 12. juni 2013 om offentlighed i forvaltningen foretages følgende ændring:
+//I lov nr. 606 af 12. juni 2013 om offentlighed i forvaltningen foretages fÃ¸lgende Ã¦ndring:
 dokumentPhraseType2
 	: 'I ' dokumentReference SPLIT_TITLE
 	;
@@ -45,7 +45,7 @@ year
 
 
 SPLIT_TITLE_START:'om';
-SPLIT_TITLE_END:', som ændret ved' | 'foretages følgende ændring';
+SPLIT_TITLE_END:', som Ã¦ndret ved' | 'foretages fÃ¸lgende Ã¦ndring';
 SPLIT_TITLE:  SPLIT_TITLE_START FREETEXT SPLIT_TITLE_END;
 
 START_TITLE: 'I ';
@@ -56,7 +56,7 @@ doctype: LAW|LAWBEKENDTGORELSE;
 
 INT : [0-9]+;
 LAW: 'lov';
-LAWBEKENDTGORELSE:'lov''\u00AD'?'bekendt''\u00AD'?'gørelse';
+LAWBEKENDTGORELSE:'lov''\u00AD'?'bekendt''\u00AD'?'gÃ¸relse';
 MONTH: 'januar'|'februar'|'marts'|'april'|'maj'|'juni'|'juli'|'august'|'september'|'oktober'|'november'|'december';
 LETTER : [a-z]|[A-Z]; 
 

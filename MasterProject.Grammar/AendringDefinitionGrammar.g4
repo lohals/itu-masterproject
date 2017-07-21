@@ -1,4 +1,4 @@
-grammar AendringDefinitionGrammar;
+ï»¿grammar AendringDefinitionGrammar;
 
 /*
  * Parser Rules
@@ -34,26 +34,26 @@ globalReplaceExp
 	:'Overalt i loven' replaceAktionExp multiQuotedTextChangeExp
 	;
 parentTargetChangedExp
-	: 'Paragraffen affattes således'
+	: 'Paragraffen affattes sÃ¥ledes'
 	;
 parentTargetRemovedExp
-	: 'Paragraffen udgår'
+	: 'Paragraffen udgÃ¥r'
 	;
 
 insertAfterChainExp
 	: 'I' elementChainExp insertAfterAktionExp (quotedTextChangeExp|(lastElementExp asnewElementExp?)) 
 	;
 insertAfterExp:
-    'Efter' (elementExp) insertAfterAktionExp
+	'Efter' (elementExp) insertAfterAktionExp
 	;										  
 	
 insertLastExp
-	: 'Som' lastElementExp 'indsættes'
-	| 'I' elementChainExp ('indsættes som'|', indsættes som') lastElementExp ('og' INT)?
+	: 'Som' lastElementExp 'indsÃ¦ttes'
+	| 'I' elementChainExp ('indsÃ¦ttes som'|', indsÃ¦ttes som') lastElementExp ('og' INT)?
 	;
 insertBeforeExp
-	: 'Før' elementChainExp 'indsættes som nyt nummer'
-	|'I' elementChainExp (', indsættes før'|'indsættes før') (elementOrOpregningExp ('som nye stykker'|'som nye numre'))
+	: 'FÃ¸r' elementChainExp 'indsÃ¦ttes som nyt nummer'
+	|'I' elementChainExp (', indsÃ¦ttes fÃ¸r'|'indsÃ¦ttes fÃ¸r') (elementOrOpregningExp ('som nye stykker'|'som nye numre'))
 	;
 
 removeExp
@@ -67,7 +67,7 @@ replaceExp
 	|rootedMultiElementExp replaceAktionExp
 	|elementChainExp replaceAktionExp
 	| 'I' elementChainExp becomesExp replaceAktionExp quotedTextChangeExp
-	| 'I' (elementChainExp|multiElementExp) replaceAktionExp multiQuotedTextChangeExp//§ 98 e, stk. 4, 2. pkt., der bliver stk. 5, 2. pkt., affattes således:
+	| 'I' (elementChainExp|multiElementExp) replaceAktionExp multiQuotedTextChangeExp//Â§ 98 e, stk. 4, 2. pkt., der bliver stk. 5, 2. pkt., affattes sÃ¥ledes:
 	
 	;
 
@@ -77,42 +77,42 @@ rootedBecomesExp
 
 rootedMultiElementExp
 	:rootElementExp ', ' rangedMultiElementExp
-	|rootElementExp ', ' multiElementExp //§ 9 h, stk. 1 og 2, affattes således:
+	|rootElementExp ', ' multiElementExp //Â§ 9 h, stk. 1 og 2, affattes sÃ¥ledes:
 	;
 rootElementExp
 	:elementExp
 	;
 manualExp
-	:'I'? elementChainExp ((removeAktionExp QUOTEDTEXT)|('ophæves'|', ophæves')) manuelTextBitExp+
+	:'I'? elementChainExp ((removeAktionExp QUOTEDTEXT)|('ophÃ¦ves'|', ophÃ¦ves')) manuelTextBitExp+
 	|elementChainExp ((', '|'og') ignoreableElementChainExp)+ manuelTextBitExp+
 	;
 manuelTextBitExp:
-    ', ' ignoreableElementChainExp removeAktionExp
+	', ' ignoreableElementChainExp removeAktionExp
 	|(', og i' ignoreableElementChainExp removeAktionExp QUOTEDTEXT)
-	|(', og' ignoreableElementChainExp (', 'ignoreableElementChainExp)? removeAktionExp) ', og i stedet indsættes'?
-	|(', og i' ignoreableElementChainExp 'indsættes efter' quotedTextChangeExp)
+	|(', og' ignoreableElementChainExp (', 'ignoreableElementChainExp)? removeAktionExp) ', og i stedet indsÃ¦ttes'?
+	|(', og i' ignoreableElementChainExp 'indsÃ¦ttes efter' quotedTextChangeExp)
 ;
 
 
 /*specialized meta element categories*/
 elementOrOpregningExp
-    :elementExp|opregningExp
+	:elementExp|opregningExp
 	;
 ignoreableElementChainExp
 	:elementChainExp|multiElementExp
 	;
 multiElementExp
-    :INT '. og' elementExp
+	:INT '. og' elementExp
 	|elementExp 'og' INT 
 	|elementChainExp ('og'|', og') elementChainExp
-    ;
+	;
 
 rangedMultiElementExp
 	:elementExp '-' INT
 	;
 lastElementExp
 	: elementExp|opregningExp
-    ;
+	;
 
 becomesExp
 	:', der bliver ' elementExp
@@ -123,7 +123,7 @@ becomesChainExp
 	;
 /* meta element categories */
 elementChainExp
-    : (elementExp) (', ' elementExp)* (', ' opregningExp)*
+	: (elementExp) (', ' elementExp)* (', ' opregningExp)*
 	|elementExp 'og' elementExp
 	;
 
@@ -131,8 +131,8 @@ elementExp
 	: paragrafExp|stkExp|pktExp
 	;
 opregningExp
-    :nummerOpregningExp|litraOpregningExp
-    ;
+	:nummerOpregningExp|litraOpregningExp
+	;
 
 multiQuotedTextChangeExp
 	:quotedTextChangeExp (', og' quotedTextChangeExp)*
@@ -140,26 +140,26 @@ multiQuotedTextChangeExp
 quotedTextChangeExp
 	: QUOTEDTEXT 'til:' QUOTEDTEXT
 	| QUOTEDTEXT ':' QUOTEDTEXT
-	| QUOTEDTEXT 'ændres til:'QUOTEDTEXT
-	| QUOTEDTEXT 'ændres til'QUOTEDTEXT
+	| QUOTEDTEXT 'Ã¦ndres til:'QUOTEDTEXT
+	| QUOTEDTEXT 'Ã¦ndres til'QUOTEDTEXT
 	;
 
 /*Textual context expressions*/
 
 removeAktionExp
-	:', udgår'|'udgår'|',udgår'|', ophæves'|'ophæves';
+	:', udgÃ¥r'|'udgÃ¥r'|',udgÃ¥r'|', ophÃ¦ves'|'ophÃ¦ves';
 insertAfterAktionExp
-	:', indsættes efter'
-	 |'indsættes før overskriften før' elementExp 
-	 |'indsættes efter'
-	 |'indsættes som nyt stykke'
-	 |'indsættes som nye stykker'
-	 |'indsættes som ny paragraf'
-	 |'indsættes'
+	:', indsÃ¦ttes efter'
+	 |'indsÃ¦ttes fÃ¸r overskriften fÃ¸r' elementExp 
+	 |'indsÃ¦ttes efter'
+	 |'indsÃ¦ttes som nyt stykke'
+	 |'indsÃ¦ttes som nye stykker'
+	 |'indsÃ¦ttes som ny paragraf'
+	 |'indsÃ¦ttes'
 
 	;
 replaceAktionExp
-	:', ændres'|'ændres'|', affattes således'|'affattes således'|', ophæves, og i stedet indsættes'|'ophæves, og i stedet indsættes'
+	:', Ã¦ndres'|'Ã¦ndres'|', affattes sÃ¥ledes'|'affattes sÃ¥ledes'|', ophÃ¦ves, og i stedet indsÃ¦ttes'|'ophÃ¦ves, og i stedet indsÃ¦ttes'
 	;
 asnewElementExp:'som nyt nummer'|'som nyt stykke'|'som nye numre';
 /*concret element expressions*/
@@ -171,7 +171,7 @@ nummerOpregningExp
 litraOpregningExp
 	:'litra ' LETTER+;
 paragrafExp 
-	: '§ ' INT LETTER?
+	: 'Â§ ' INT LETTER?
 	;
 flereStkExp
 	:
@@ -191,7 +191,7 @@ pktExp
 
 INT : [0-9]+; 
 LETTER : [a-z]|[A-Z]; 
-QUOTEDTEXT : {_input.La(-1) == '»';}? FREETEXT {_input.La(1) == '«';}?;
+QUOTEDTEXT : {_input.La(-1) == 'Â»';}? FREETEXT {_input.La(1) == 'Â«';}?;
 
 fragment FREETEXT: .*?;
 //SPACE:' ';
