@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Dk.Itu.Rlh.MasterProject.Parser.AendringsDefinition;
 using Xunit;
 using Xunit.Abstractions;
 
@@ -20,28 +16,32 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
             _logger = logger;
         }
 
-        //[Theory]
-        //[InlineData("2017")]
-        //[InlineData("2016")]
+        //[Theory(Skip = "not ready")]
+        [Theory]
+        [InlineData("2017")]
+        [InlineData("2016")]
+        [InlineData("2015")]
+        [InlineData("2014")]
+        [InlineData("2013")]
         public void AllCST_AendringsDefinitioner(int year)
         {
             var file = new FileInfo($"AendringsDefinitionParser/RealTestData/{year}-cst-aendringsdefinitioner.txt");
             var definitions = File.ReadAllLines(file.FullName);
             var sut = new AendringDefintionParser();
-            var errors=  definitions
-                .Select(line=> line.Split(new[] { ';' }))
-                .Select((def,no) => new
+            var errors = definitions
+                .Select(line => line.Split(new[] { ';' }))
+                .Select((def, no) => new
                 {
-                    LineNo =no,
-                    SourceDok =def[0],
-                    Text =def[1],
+                    LineNo = no,
+                    SourceDok = def[0],
+                    Text = def[1],
                     Result = sut.Parse(def[1])
                 })
-                .Where(r=>r.Result.ErrorResult.Errors.Any())
+                .Where(r => r.Result.ErrorResult.Errors.Any())
                 .ToArray();
-            
 
-            _logger.WriteLine($"COMPLETE: Parsed {definitions.Length} defintions from year {year} and found {errors.Length} errors:");
+
+            _logger.WriteLine($"COMPLETE: Parsed {definitions.Length} defintions from year {year} and found {errors.Length} errors ({((double)(definitions.Length - errors.Length) / definitions.Length) * 100:0.#}% was parsed without errors):");
 
             foreach (var error in errors)
             {
@@ -57,7 +57,7 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.AendringsDefinitionParser
 
 
 
-            Assert.Equal(definitions.Length, definitions.Length-errors.Count());
+            Assert.Equal(definitions.Length, definitions.Length - errors.Count());
         }
     }
 }

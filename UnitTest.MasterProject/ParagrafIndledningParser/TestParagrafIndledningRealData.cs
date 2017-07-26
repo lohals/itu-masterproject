@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using UnitTest.Dk.Itu.Rlh.MasterProject.ParagrafIndledningParser.TestData;
 using Xunit;
 
@@ -62,14 +59,14 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.ParagrafIndledningParser
 
 
 
-        //[Theory()]
+        [Theory(Skip = "not ready")]
         [MemberData(nameof(TestData_Format1))]
         public void TestParagrafIndledning_Format1Data(string input, int number, int year, string title)
         {
             AssertResult(input, number, year, title);
         }
 
-        //[Theory]
+        [Theory(Skip = "not ready")]
         [MemberData(nameof(TestData_Format2))]
         public void TestParagrafIndledning_Format2Data(string input, int number, int year, string title)
         {
@@ -87,5 +84,5 @@ namespace UnitTest.Dk.Itu.Rlh.MasterProject.ParagrafIndledningParser
             parseResult.AssertParagrafIndledningResult(number, year, title);
         }
     }
-    
+
 }

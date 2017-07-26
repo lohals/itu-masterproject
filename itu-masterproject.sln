@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterProject.Grammar", "MasterProject.Grammar\MasterProject.Grammar.csproj", "{1EB77B1E-B36F-429B-A364-07D8990DF4DF}"
 EndProject
@@ -18,7 +18,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".build", ".build", "{61EB27
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".scripts", ".scripts", "{4EEB8859-06B8-4453-B811-B07834E466CA}"
 	ProjectSection(SolutionItems) = preProject
-		SourceData\harvet-aendringsdefinition.ps1 = SourceData\harvet-aendringsdefinition.ps1
+		SourceData\harvest-aendringsdefinition.ps1 = SourceData\harvest-aendringsdefinition.ps1
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterProject.PatchEngine", "MasterProject.PatchEngine\MasterProject.PatchEngine.csproj", "{237ABBEB-D921-4FEB-8284-605976DF70F3}"

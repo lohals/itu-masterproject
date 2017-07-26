@@ -238,6 +238,9 @@
     <Content Include="AendringsDefinitionParser\RealTestData\2014-cst-aendringsdefinitioner.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="AendringsDefinitionParser\RealTestData\2015-cst-aendringsdefinitioner.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="AendringsDefinitionParser\RealTestData\2016-cst-aendringsdefinitioner.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
